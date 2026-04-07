@@ -1,3 +1,66 @@
+# Portal Scan — 2026-04-07 (Run 5 — Final Sweep)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**Date:** 2026-04-07
+**Run:** Run 5 — final incremental sweep (Greenhouse APIs: Glean, Vercel, Anthropic, Arize AI + WebSearch discovery)
+
+## Coverage
+
+- Greenhouse APIs checked: Anthropic, Glean, Vercel, Arize AI, Airtable
+- WebSearch queries: 5 broad discovery queries (Ashby, Greenhouse, Lever, security/AI internships)
+- Prior 4 runs today: ~350 listings already in pipeline
+
+## Results
+
+| Metric | Count |
+|--------|-------|
+| APIs / portals checked | 5 |
+| WebSearch queries run | 5 |
+| Total listings examined | ~200 |
+| Already in pipeline or history (dedup) | ~190 |
+| **Net new listings added** | **10** |
+
+## New Listings Added (Run 5)
+
+| Company | Role | URL |
+|---------|------|-----|
+| **Notion** | Software Engineer Intern (Fall 2026) | https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90 |
+| **Glean** | Founding Forward Deployed Engineer | https://job-boards.greenhouse.io/gleanwork/jobs/4659412005 |
+| **Glean** | Founding Forward Deployed Engineer | https://job-boards.greenhouse.io/gleanwork/jobs/4651990005 |
+| **Glean** | Solutions Engineer - Commercial (Texas) | https://job-boards.greenhouse.io/gleanwork/jobs/4603423005 |
+| **Vercel** | Forward-Deployed Engineer | https://job-boards.greenhouse.io/vercel/jobs/5778418004 |
+| **Vercel** | GTM Engineer | https://job-boards.greenhouse.io/vercel/jobs/5777645004 |
+| **Vercel** | Solutions Architect | https://job-boards.greenhouse.io/vercel/jobs/5796302004 |
+| **Vercel** | Solutions Architect | https://job-boards.greenhouse.io/vercel/jobs/5804110004 |
+| **Worldly** | Security Operations Intern (Summer 2026) | https://jobs.ashbyhq.com/worldly/b297af2e-4d68-4cc5-9d8a-6b83a18c2e31 |
+| **Planet Labs** | Intern, AI/ML Engineer | https://job-boards.greenhouse.io/planetlabs/jobs/7714373 |
+
+## Top Picks from This Run
+
+1. **Glean — Solutions Engineer, Commercial (Texas)** — Texas-based, enterprise AI search. Carlos's Python/FastAPI backend + production deployment experience is directly relevant. Solutions Engineer role aligns with his consulting archetype.
+2. **Glean — Founding Forward Deployed Engineer (x2)** — FDE at a well-funded enterprise AI company. Carlos's Finch SaaS (client-facing, multi-model pipeline, production deployment) is a strong FDE proof point.
+3. **Vercel — Forward-Deployed Engineer** — High-caliber FDE role at Vercel. Carlos's Next.js/React/Cloudflare stack is a near-perfect match.
+4. **Vercel — Solutions Architect (x2 new postings)** — Additional SA headcount at Vercel. Same strong stack match.
+5. **Notion — Software Engineer Intern (Fall 2026)** — Fall internship option if Summer fills up. Notion uses TypeScript/React/Node.js which Carlos knows well.
+
+## Notes
+
+- The pipeline is now comprehensive with ~367 pending URLs across all 5 runs today.
+- Glean has 3 distinct FDE/Solutions Engineer roles — worth evaluating all 3 as they're the same company but different headcount.
+- Vercel has 4+ engineering roles added across today's runs — recommend prioritizing SA and FDE roles over pure backend SWE given Carlos's profile.
+- Planet Labs: requires BS/MS in CS/ML; intern role is research-focused, may require grad school experience.
+- Worldly: smaller company, sustainability analytics — niche but security ops experience would apply.
+
+## Recommended Next Actions
+
+1. Evaluate **Glean FDE / Solutions Engineer** — high fit, Texas-based
+2. Evaluate **Vercel Forward-Deployed Engineer** — high fit, strong stack match
+3. Run `/career-ops pipeline` or `/career-ops batch` for bulk evaluation of pending URLs
+4. Total pipeline now: ~367 pending URLs — focus on top-fit roles first
+
+---
+
 # Portal Scan — 2026-04-07 (Run 4 — Incremental)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

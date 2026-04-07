@@ -354,3 +354,13 @@
 - [ ] https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1 | Palantir | Software Engineer, Internship - Production Infrastructure
 - [ ] https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488 | Palantir | Forward Deployed AI Engineer
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4651991005 | Glean | Founding Forward Deployed Engineer (Remote)
+- [ ] https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90 | Notion | Software Engineer Intern (Fall 2026)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4659412005 | Glean | Founding Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4651990005 | Glean | Founding Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4603423005 | Glean | Solutions Engineer - Commercial (Texas)
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5778418004 | Vercel | Forward-Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5777645004 | Vercel | GTM Engineer
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5796302004 | Vercel | Solutions Architect
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5804110004 | Vercel | Solutions Architect
+- [ ] https://jobs.ashbyhq.com/worldly/b297af2e-4d68-4cc5-9d8a-6b83a18c2e31 | Worldly | Security Operations Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7714373 | Planet Labs | Intern, AI/ML Engineer
