@@ -348,3 +348,9 @@
 - [ ] https://jobs.lever.co/tevora/f5877d16-2d58-4604-b005-c057f9a0e519 | Tevora | Cybersecurity Internship Summer 2026 - Solutions
 - [ ] https://jobs.lever.co/tevora/39b47826-3c16-4368-9058-ec5bab0048f0 | Tevora | Cybersecurity Internship Summer 2026 - Threat
 - [ ] https://jobs.lever.co/tevora/095c0b8d-d823-4ad7-a9c3-07d2c59cb923 | Tevora | Cybersecurity Internship Summer 2026 - Enterprise Risk Management
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7374706 | Cloudflare | Data Engineer Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/okta/jobs/7551302 | Okta | Digital Solutions Intern (Summer 2026)
+- [ ] https://jobs.lever.co/aisafety/e011814b-9a80-43d6-bb0c-cc153ea4bec4 | Center for AI Safety | Research Engineer Intern (Fall 2026)
+- [ ] https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1 | Palantir | Software Engineer, Internship - Production Infrastructure
+- [ ] https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488 | Palantir | Forward Deployed AI Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4651991005 | Glean | Founding Forward Deployed Engineer (Remote)

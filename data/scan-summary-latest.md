@@ -1,3 +1,56 @@
+# Portal Scan — 2026-04-07 (Run 4 — Incremental)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**Date:** 2026-04-07
+**Run:** Run 4 — broad internship sweep (Greenhouse APIs, Ashby, Lever, WebSearch)
+
+## Coverage
+
+Portals checked via Greenhouse API: Anthropic, Glean, Vercel, Arize AI, RunPod, Airtable, Intercom, Temporal
+WebSearch queries: 8 broad internship/new grad discovery queries
+Companies newly surfaced: OpenAI, Cloudflare, Gemini, Okta, Symmetry Systems, Center for AI Safety, Obsidian Security, Notion, Cohere, Grammarly, DoorDash, Affirm, CLEAR, Sigma Computing, Together AI, Accenture
+
+## Results
+
+| Metric | Count |
+|--------|-------|
+| Total listings found/examined | ~80 |
+| Already in prior scan runs (dedup) | ~74 |
+| **Net new listings added** | **6** |
+
+## New Listings Added (incremental, not in prior runs)
+
+| Company | Role | URL |
+|---------|------|-----|
+| **Cloudflare** | Data Engineer Intern (Summer 2026) | https://job-boards.greenhouse.io/cloudflare/jobs/7374706 |
+| **Okta** | Digital Solutions Intern (Summer 2026) | https://job-boards.greenhouse.io/okta/jobs/7551302 |
+| **Center for AI Safety** | Research Engineer Intern (Fall 2026) | https://jobs.lever.co/aisafety/e011814b-9a80-43d6-bb0c-cc153ea4bec4 |
+| **Palantir** | Software Engineer, Internship - Production Infrastructure | https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1 |
+| **Palantir** | Forward Deployed AI Engineer (full-time) | https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488 |
+| **Glean** | Founding Forward Deployed Engineer (Remote, full-time) | https://job-boards.greenhouse.io/gleanwork/jobs/4651991005 |
+
+## Notes
+
+Most listings from this scan were already added by Runs 1–3 today. Prior runs had excellent coverage of: Palantir internships, Cloudflare SWE/Security interns, OpenAI intern, Cohere intern, Notion intern, Gemini security intern, Symmetry Systems, Obsidian Security, Anthropic fellows, Glean security roles, Vercel Agent role, Accenture consulting, and 200+ others.
+
+**Pipeline total: ~357 pending URLs** (across all 4 runs today + prior days)
+
+## Recommended Next Actions
+
+1. **Run `/career-ops pipeline`** on the highest-priority items:
+   - Palantir FDSE internships (Commercial + US Government tracks)
+   - Cloudflare Security Engineer Intern
+   - Center for AI Safety Research Intern (deadline: May 29, 2026)
+   - Glean Founding FDE (Remote)
+   - Tevora Cybersecurity Internships (from Run 3)
+   - Verkada Security SWE New Grad (from Run 3)
+   - Ramp Forward Deployed Internship (from Run 3)
+2. Apply to Palantir internship this week — deadlines close fast
+3. Verify listings are still active before applying (use Playwright or check manually)
+
+---
+
 # Portal Scan — 2026-04-07 (Run 3)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
