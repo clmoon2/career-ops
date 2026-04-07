@@ -115,3 +115,62 @@
 - [ ] https://elevenlabs.io/careers?jobId=ed322919-002e-4d1e-819a-e9336cad7a4d | ElevenLabs | Application Security Engineer
 - [ ] https://apply.deloitte.com/careers/JobDetail/Deloitte-Risk-Financial-Advisory-Analyst-Cyber-Summer-Fall-2026-Winter-2027/190280 | Deloitte | Risk & Financial Advisory Analyst - Cyber (Summer/Fall 2026, Winter 2027)
 - [ ] https://careers.boozallen.com/talent/university | Booz Allen Hamilton | University Talent - Cyber & Software Engineering
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5023394008 | Anthropic | Anthropic AI Safety Fellow
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5030244008 | Anthropic | Anthropic AI Security Fellow
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4595665005 | Glean | Software Engineer, Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4612849005 | Glean | Application Security Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4630926005 | Glean | Cloud Security Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4671732005 | Glean | Sales Development Representative Intern
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4006731005 | Glean | Software Engineer, Backend
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4012745005 | Glean | Software Engineer, Machine Learning
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5704320004 | Vercel | Software Engineer, Agent
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5661583004 | Vercel | Software Engineer, Lua
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5787232004 | Vercel | Senior Product Security Engineer
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5818115004 | Arize AI | AI Product Manager
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5792327004 | Arize AI | AI Sales Engineer (US)
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5781408004 | Arize AI | AI Solutions Engineer, EMEA
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5783026004 | Arize AI | AI Solutions Manager (San Francisco)
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5396396004 | Arize AI | Senior AI Product Engineer, Backend
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5396420004 | Arize AI | Senior AI Product Engineer, Fullstack
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/4142227008 | RunPod | Senior Software Engineer (Cloud)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8409168002 | Airtable | AI Agent Architect, Customer Experience
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8378476002 | Airtable | Solutions Consultant (Southern)
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7556413 | Intercom | Forward Deployed Software Engineer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7774407 | Intercom | Senior AI Deployment Architect
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7735288 | Intercom | Senior AI Deployment Consultant
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/6949785 | Intercom | Senior Engineer, AI Developer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7371924 | Intercom | Senior Product Engineer, AI
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7371989 | Intercom | Software Engineer
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4694431101 | Parloa | Forward Deployed Engineer, DevOps
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4566280101 | Parloa | Lead AI Agent Architect
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4796935101 | PolyAI | Forward Deployed AI Engineer
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4669020101 | PolyAI | Senior Full Stack Engineer (Manhattan)
+- [ ] https://jobs.ashbyhq.com/notion/23ac2477-0008-4bed-b1c1-81f90a32e9e6 | Notion | Software Engineer Intern (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/notion/5bc8cbb9-4d08-4217-a968-d485d1b39905 | Notion | Software Engineer, AI Intern (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/sentry/d2e3391f-9401-410a-b8a6-de3bf5f762b7 | Sentry | Software Engineer, Intern (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/sentry/5e112240-922a-48f1-8865-9e7f89687f39 | Sentry | Software Engineer, Intern (Fall 2026)
+- [ ] https://jobs.ashbyhq.com/cohere/66c98ca3-334b-4a6a-a27c-5807b3686121 | Cohere | Software Engineer Intern (Spring/Summer 2026)
+- [ ] https://jobs.ashbyhq.com/cohere/2c669d85-e3d7-43f1-aa43-be33e12ff8a5 | Cohere | Machine Learning Intern/Co-op (Spring/Summer 2026)
+- [ ] https://jobs.ashbyhq.com/cohere/1bc2c535-2f42-454e-aebe-9c018575ce7b | Cohere | Software Engineer Intern (Winter 2026)
+- [ ] https://jobs.ashbyhq.com/openai/1f3353ed-78eb-4a01-b783-c44b1c086711 | OpenAI | Software Engineer Internship / Co-op (Fall 2026)
+- [ ] https://jobs.ashbyhq.com/handshake/eece422a-da6b-42e7-b694-3329e6ae4d6a | Handshake | AI/Machine Learning Engineer Intern
+- [ ] https://jobs.ashbyhq.com/handshake/f01f09ac-4b94-4de0-bbef-e1892df4e0cb | Handshake | AI Research Intern (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/gigaml/aa903645-854f-4404-9d49-8a96f0dcc2cc | Giga | Software Engineer Intern (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/farsight/096cdc49-06ae-4724-8f46-c58184e98334 | Farsight AI | Software Engineering Intern (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/brainco/0abea2f1-324e-47cc-9055-d015827ba641 | Brain Co. | AI/ML Engineering Internship (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/5012768007 | Together AI | Software Engineer Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/5012785007 | Together AI | Security Engineer Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/5817107004 | Mercury | Software Engineering Intern - AI Enablement (Fall 2026)
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7206269 | Cloudflare | Software Engineer Intern (Summer 2026) - Austin, TX
+- [ ] https://job-boards.greenhouse.io/c3ascend/jobs/8106512002 | C3 AI | Software Engineer - Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/xai/jobs/5054417007 | xAI | Engineering Internship (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4606060005 | Scale AI | Machine Learning Research Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/sigmacomputing/jobs/7501718003 | Sigma Computing | Software Engineering Intern (Summer 2026)
+- [ ] https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f | Shield AI | Software Engineering Intern (2026 Summer)
+- [ ] https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c | Palantir | Software Engineer, Internship
+- [ ] https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7 | Palantir | Software Engineer, Internship - Defense Tech
+- [ ] https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb | Palantir | Information Security Engineer, Internship
+- [ ] https://jobs.lever.co/SymmetrySystems/dbca271b-a99b-48ab-83f2-b596a037ad65 | Symmetry Systems | Full Stack Software Engineer - 2026 Summer Intern
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7528020003 | Affirm | Software Engineering Intern - Summer 2026
+- [ ] https://job-boards.greenhouse.io/gusto/jobs/7238671 | Gusto | Software Engineering Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/grammarly/jobs/7657265 | Grammarly | Software Engineer Intern (Summer 2026)
