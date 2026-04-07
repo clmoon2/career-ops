@@ -1,3 +1,98 @@
+# Portal Scan — 2026-04-07 (Run 3)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**Date:** 2026-04-07
+**Run:** Supplemental scan agent (third run today)
+
+## Coverage
+
+Portals checked: Ada (Greenhouse - ada18), Factorial (404, skipped), Attio (Ashby - senior only), Tinybird (Ashby - JS-only), TravelPerk (Ashby - no matches), Clarity AI (Lever - no matches)
+WebSearch queries: 9 discovery queries across Ashby / Greenhouse / Lever / direct portals
+Additional companies checked: Talkdesk, Gong, Genesys, Langfuse, Cognigy, Retool, Make.com
+
+## Results
+
+| Metric | Count |
+|--------|-------|
+| Portals directly checked | 8 |
+| WebSearch queries run | 13 |
+| Total listings examined | ~150 |
+| Already in history (dedup) | ~137 |
+| **New listings added to pipeline** | **13** |
+
+## New Listings Added
+
+### SWE Intern
+
+| Company | Role | URL |
+|---------|------|-----|
+| Ada | Software Engineering Intern (Summer 2026) | https://job-boards.greenhouse.io/ada18/jobs/5063079007 |
+| Northwood Space | Software Engineer Intern (Summer 2026) | https://jobs.ashbyhq.com/NorthwoodSpace/385cac5a-45c0-4ffc-8aec-163c765c469f |
+| NimbleRx | Software Engineer Intern - Summer Session (Summer 2026) | https://jobs.lever.co/nimblerx/ceea467c-75bb-4822-b5d5-4c2fae2c3264 |
+
+### DevOps / Platform Intern
+
+| Company | Role | URL |
+|---------|------|-----|
+| Ada | DevOps Intern (Summer 2026) | https://job-boards.greenhouse.io/ada18/jobs/5044605007 |
+| Okta | Data Platform Engineer Intern (Summer 2026) | https://job-boards.greenhouse.io/okta/jobs/7551652 |
+
+### AI/ML Intern
+
+| Company | Role | URL |
+|---------|------|-----|
+| Cobot | AI Research Engineer Intern | https://jobs.ashbyhq.com/cobot/f0df62d2-d37d-45f8-9c8b-3c786f96757f |
+| Pulse | Machine Learning Engineer Intern (Summer 2026) | https://jobs.ashbyhq.com/pulse/e9a43a34-1b7b-4ab8-b646-89f4db85d264 |
+
+### Cybersecurity Intern
+
+| Company | Role | URL |
+|---------|------|-----|
+| Tevora | Cybersecurity Internship Summer 2026 - Solutions | https://jobs.lever.co/tevora/f5877d16-2d58-4604-b005-c057f9a0e519 |
+| Tevora | Cybersecurity Internship Summer 2026 - Threat | https://jobs.lever.co/tevora/39b47826-3c16-4368-9058-ec5bab0048f0 |
+| Tevora | Cybersecurity Internship Summer 2026 - ERM | https://jobs.lever.co/tevora/095c0b8d-d823-4ad7-a9c3-07d2c59cb923 |
+
+### New Grad / Specialized
+
+| Company | Role | URL |
+|---------|------|-----|
+| Verkada | Security Software Engineer - University Graduate 2026 | https://job-boards.greenhouse.io/verkada/jobs/4872797007 |
+| Verkada | Frontend Software Engineer - University Graduate 2026 | https://job-boards.greenhouse.io/verkada/jobs/5026067007 |
+| Ramp | Software Engineer Internship, Forward Deployed | https://jobs.ashbyhq.com/ramp/ccb1aca4-79ac-414b-b7d8-bc908c575ef1 |
+
+## Top Picks (Evaluate First)
+
+1. **Tevora — Cybersecurity Internship (Threat / Solutions)** — Security consulting firm. Carlos's OAuth proxy (HMAC-SHA256 CSRF), TLS hardening, adversarial LLM testing, AppSec experience are direct proof points. Consulting experience aligns with target roles.
+2. **Verkada — Security Software Engineer New Grad** — Physical security platform backed by strong engineering culture. Carlos's security background + Python/FastAPI stack match.
+3. **Ramp — Forward Deployed SWE Internship** — Fintech + FDE framing. Carlos's Finch (SaaS, ATS integration, multi-model AI pipeline) is a direct match for FDE work.
+4. **Okta — Data Platform Engineer Intern** — Identity/security major brand. Platform engineering + cloud skills match.
+5. **Ada — Software Engineering Intern** — AI customer service company. Multi-model AI pipeline background from Finch is relevant.
+
+## Skipped / Not Added
+
+- **Lightspark SWE Intern** — Crypto/blockchain payments company. Negative title filter (Crypto).
+- **BitGo DevOps Intern** — Crypto infrastructure company. Negative title filter (Crypto/Blockchain).
+- **Tinybird** — JS-only page, could not parse roles (no intern/new grad found via search).
+- **Attio** — Senior roles only (Engineering Lead, Senior Platform Engineer). No intern/new grad.
+- **TravelPerk, Clarity AI, Langfuse, Cognigy, Make.com, Talkdesk, Gong** — No intern/new grad roles found.
+- **Genesys SWE Intern** — Primarily Europe-based (Hungary, Ireland), Java-heavy stack. Location/stack blocker.
+
+## Notes
+
+- Ada's Greenhouse board slug is `ada18` (not `ada`). The `ada` API returned 404.
+- Tevora is a cybersecurity consulting firm — three distinct tracks (ISO/Solutions, Threat, ERM). All in-person in VA/CA.
+- Langfuse, Cognigy, Make.com: no internship programs found for 2026 (senior roles only).
+- Retool: historically hires SWE interns (~$75/hr) but no active 2026 listings found in this scan.
+- Pipeline now has ~351 pending URLs total (across all three runs).
+
+## Recommended Next Actions
+
+1. Evaluate Tevora cybersecurity internships — strong fit for security track
+2. Evaluate Verkada Security SWE New Grad — strong fit
+3. Evaluate Ramp Forward Deployed Internship — strong FDE fit
+4. Run `/career-ops pipeline` or `/career-ops batch` for bulk processing
+
 # Portal Scan — 2026-04-07 (Run 2)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

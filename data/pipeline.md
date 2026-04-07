@@ -335,3 +335,16 @@
 - [ ] https://jobs.ashbyhq.com/meshy/4d91eb31-80a5-44de-82bc-ba6e3f4f0d2b | Meshy | Software Engineer - New Grad
 - [ ] https://jobs.lever.co/actian/7e55f709-5eb0-472e-bdc4-d89f93b0608f | Actian | AI Engineering Intern
 - [ ] https://jobs.ashbyhq.com/melotech/e99207bd-8a2f-4641-a463-08a6633a7073 | Melotech | AI/ML Engineer Intern
+- [ ] https://job-boards.greenhouse.io/ada18/jobs/5063079007 | Ada | Software Engineering Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/ada18/jobs/5044605007 | Ada | DevOps Intern (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/NorthwoodSpace/385cac5a-45c0-4ffc-8aec-163c765c469f | Northwood Space | Software Engineer Intern (Summer 2026)
+- [ ] https://jobs.lever.co/nimblerx/ceea467c-75bb-4822-b5d5-4c2fae2c3264 | NimbleRx | Software Engineer Intern - Summer Session (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/cobot/f0df62d2-d37d-45f8-9c8b-3c786f96757f | Cobot | AI Research Engineer Intern
+- [ ] https://jobs.ashbyhq.com/pulse/e9a43a34-1b7b-4ab8-b646-89f4db85d264 | Pulse | Machine Learning Engineer Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/okta/jobs/7551652 | Okta | Data Platform Engineer Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/verkada/jobs/4872797007 | Verkada | Security Software Engineer - University Graduate 2026
+- [ ] https://job-boards.greenhouse.io/verkada/jobs/5026067007 | Verkada | Frontend Software Engineer - University Graduate 2026
+- [ ] https://jobs.ashbyhq.com/ramp/ccb1aca4-79ac-414b-b7d8-bc908c575ef1 | Ramp | Software Engineer Internship, Forward Deployed
+- [ ] https://jobs.lever.co/tevora/f5877d16-2d58-4604-b005-c057f9a0e519 | Tevora | Cybersecurity Internship Summer 2026 - Solutions
+- [ ] https://jobs.lever.co/tevora/39b47826-3c16-4368-9058-ec5bab0048f0 | Tevora | Cybersecurity Internship Summer 2026 - Threat
+- [ ] https://jobs.lever.co/tevora/095c0b8d-d823-4ad7-a9c3-07d2c59cb923 | Tevora | Cybersecurity Internship Summer 2026 - Enterprise Risk Management
