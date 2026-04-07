@@ -254,3 +254,35 @@
 - [ ] https://jobs.ashbyhq.com/Promise/f0a30718-faf0-4a34-8759-0d6335fa365a | Promise | Software Engineer - Forward Deployed AI (New Grad)
 - [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7578761 | Cloudflare | Threat Detection and Incident Response Intern (Summer 2026)
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4654833005 | Glean | Lead Site Reliability Engineer
+- [ ] https://job-boards.greenhouse.io/figma/jobs/5602159004 | Figma | Software Engineer Intern (2026)
+- [ ] https://job-boards.greenhouse.io/rsgur/jobs/7670946003 | Rockstar Games | Intern: Security Operations (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/rsgur/jobs/7670953003 | Rockstar Games | Intern: Security Engineering Automation (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/memx/jobs/4987814008 | MEMX | Information Security Intern, Summer 2026
+- [ ] https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/6927789003 | XTX Markets | Information Security Intern - Summer 2026
+- [ ] https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7666354003 | Dark Wolf Solutions | 2026 Dark Wolf Summer Internship (Cybersecurity)
+- [ ] https://jobs.ashbyhq.com/lambda/264f889c-38f4-42a5-9534-064a9512a3fe | Lambda | 2026 Machine Learning Research Intern
+- [ ] https://jobs.ashbyhq.com/unlikelyai/8d50b0a8-0f5c-403e-8629-917d8b8430d2 | UnlikelyAI | Machine Learning Engineer Intern
+- [ ] https://job-boards.greenhouse.io/verkada/jobs/5026066007 | Verkada | Backend Software Engineer - University Graduate 2026
+- [ ] https://job-boards.greenhouse.io/verkada/jobs/5040765007 | Verkada | Computer Vision Software Engineer - University Graduate 2026
+- [ ] https://job-boards.greenhouse.io/ziprecruiter/jobs/7203130 | ZipRecruiter | Software Engineer - New Grad
+- [ ] https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3 | Palantir | Software Engineer, Internship - Infrastructure
+- [ ] https://job-boards.greenhouse.io/gemini/jobs/7360510 | Gemini | Security GRC Intern (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/cohere/25cc6633-614a-45e0-8632-ffd4a2475c9b | Cohere | Machine Learning Intern/Co-op (Winter 2026)
+- [ ] https://job-boards.greenhouse.io/dvtrading/jobs/4677094005 | DV Trading | 2026 Summer Internship - DevOps Engineer
+- [ ] https://job-boards.greenhouse.io/pdtpartners/jobs/7158038 | PDT Partners | Summer 2026 Systems Engineering Internship
+- [ ] https://job-boards.greenhouse.io/blackduck/jobs/4520810008 | Black Duck Software | DevOps Engineer Intern
+- [ ] https://job-boards.greenhouse.io/blackduck/jobs/4935808008 | Black Duck Software | Software Engineering Intern (DevOps)
+- [ ] https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002 | Aquatic Capital Management | Software Engineer, Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8062751002 | Marshall Wace | Technology Intern - New York - Summer 2026
+- [ ] https://job-boards.greenhouse.io/gcmgrosvenor/jobs/7149612003 | GCM Grosvenor | Technology Business Analyst Summer Intern
+- [ ] https://jobs.ashbyhq.com/walrusfi/99c93c0e-ed9a-4e41-862a-0cdbe71d7d54 | Walrus | Full Stack Developer Intern
+- [ ] https://jobs.ashbyhq.com/Ridealso/46fc8eaf-a868-4593-897f-39f85ca35269 | ALSO | Software Engineering Intern, Backend - Summer 2026
+- [ ] https://jobs.ashbyhq.com/golinks/2f45e1c5-9ba8-4c3b-a363-8756a041a4d9 | GoLinks | Fullstack Engineering Intern
+- [ ] https://jobs.ashbyhq.com/medraai/993dc7fe-31f8-41d4-9de5-5c37ce6a4466 | Medra | Full Stack Software Engineer - Summer 2026 Internship
+- [ ] https://jobs.ashbyhq.com/unwrap/aa875007-108e-492b-86ad-1849f8740c5a | Unwrap | Full Stack Engineer Intern
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7770160 | Cloudflare | Sales Revenue AI Tools Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/hpiq/jobs/5622481004 | HP IQ | Software Engineer Intern, Cloud Services (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/moloco/jobs/7473817003 | Moloco | Software Engineer Intern
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4681110005 | Glean | Business Value Consultant
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5123742008 | Anthropic | Analyst, The Anthropic Institute
+- [ ] https://jobs.ashbyhq.com/sentry/aedee875-ffca-477a-bc8c-1347628cc596 | Sentry | Software Engineer, New Grad (2026)
