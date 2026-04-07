@@ -174,3 +174,46 @@
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/7528020003 | Affirm | Software Engineering Intern - Summer 2026
 - [ ] https://job-boards.greenhouse.io/gusto/jobs/7238671 | Gusto | Software Engineering Intern (Summer 2026)
 - [ ] https://job-boards.greenhouse.io/grammarly/jobs/7657265 | Grammarly | Software Engineer Intern (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/vapi/3613e24a-de10-4e76-8c28-530df2a9981b | Vapi | New Grad Software Engineer
+- [ ] https://jobs.ashbyhq.com/vapi/5aecc877-6f32-4fc6-9f51-3072d4bdcf92 | Vapi | Backend Product Engineer
+- [ ] https://jobs.ashbyhq.com/vapi/51de69e3-987e-42dc-9d11-897b09a04dbb | Vapi | Infrastructure Engineer - Security
+- [ ] https://jobs.ashbyhq.com/vapi/f43c2aca-9c8f-4f45-9e6b-8f3917365c0f | Vapi | Frontend Product Engineer
+- [ ] https://jobs.ashbyhq.com/bland/d2e08077-61f0-4810-bc72-3efd7944647b | Bland | Machine Learning Researcher, Audio
+- [ ] https://jobs.ashbyhq.com/pinecone/f6763f03-f981-4706-973c-89fc625ad70c | Pinecone | New Grad Software Engineer
+- [ ] https://jobs.ashbyhq.com/cohere/6e850172-a79d-4128-abd2-677731312857 | Cohere | Research Internship (Spring/Summer 2026)
+- [ ] https://jobs.ashbyhq.com/cohere/25cc6633-614a-45e0-8632-ffd4a2475c9b | Cohere | Machine Learning Intern/Co-op (Winter 2026)
+- [ ] https://jobs.lever.co/palantir/030ece08-c341-4959-bdfe-314e89b691ce | Palantir | Year at Palantir, Internship
+- [ ] https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3 | Palantir | Software Engineer, Internship - Infrastructure
+- [ ] https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79 | Palantir | Software Engineer, New Grad - Defense
+- [ ] https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1 | Palantir | Software Engineer, Internship - Production Infrastructure
+- [ ] https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002 | Aquatic Capital Management | Software Engineer, Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/lucidmotors/jobs/4918247007 | Lucid Motors | Intern, AI/ML Engineer (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/censys/jobs/8167601002 | Censys | 2026 AI/ML Engineering Intern, Platform
+- [ ] https://job-boards.greenhouse.io/figma/jobs/5602159004 | Figma | Software Engineer Intern (2026)
+- [ ] https://job-boards.greenhouse.io/astranis/jobs/4667477006 | Astranis | Software Engineer Intern - Data Platform (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1 | Replit | Software Engineering Intern (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/zettabyte-space/ec96b63a-e11c-4589-ab25-4f1779fb8759 | Zettabyte | Software Engineering Intern (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/openai/13a9e4e4-505b-4545-8b2b-b0bcc09c2b4f | OpenAI | Software Engineer Systems Research Internship (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/openai/83002509-5242-4145-a717-b31bcac1d4aa | OpenAI | Software Engineer, Applied Emerging Talent (2026)
+- [ ] https://jobs.ashbyhq.com/openai/566ce27d-8a1c-497c-a301-0912010d7b29 | OpenAI | Software Engineer Internship / Co-op, Applied Emerging Talent
+- [ ] https://jobs.ashbyhq.com/openai/da6ab2ee-ca82-4c75-b83f-541c0acae96d | OpenAI | Software Engineer, Security Observability
+- [ ] https://jobs.ashbyhq.com/openai/7ad1a978-e848-4284-aa21-d8a2a6d5ba0c | OpenAI | Software Engineer, Security Products
+- [ ] https://jobs.ashbyhq.com/openai/73eb1b69-095d-4f27-84ba-54f5df9bc230 | OpenAI | Backend Software Engineer, B2B Applications
+- [ ] https://jobs.ashbyhq.com/openai/0322d6d8-6588-4209-a304-83e768063a25 | OpenAI | Security Engineer, Application Security
+- [ ] https://jobs.ashbyhq.com/openai/4efa5099-9fc6-459b-8ace-c47fb8677f90 | OpenAI | Security Engineer, Data Center Security
+- [ ] https://jobs.ashbyhq.com/whatnot/8250532f-4bfd-4ee5-a041-4a2e54047cf7 | Whatnot | Software Engineer Intern (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/vantage/19c9753f-25be-4e76-af53-04717bdcc25b | Vantage | Software Engineering Intern (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/notion/fc762b58-24c9-4f34-bf5f-2af6e8adc644 | Notion | Software Engineer Intern (Winter 2026)
+- [ ] https://jobs.ashbyhq.com/zip/83c0a4d8-7a88-4921-be8e-347ba3f3bedd | Zip | Software Engineer Intern (Summer 2026)
+- [ ] https://jobs.lever.co/voleon/100b2cb6-f9cc-42c3-add9-db143a76f0f0 | Voleon Group | Software Engineer Intern (Summer 2026)
+- [ ] https://jobs.lever.co/nominal/f2673e2a-381e-49eb-bb34-7633ac0d5ea4 | Nominal | Software Engineer Internship (Summer 2026)
+- [ ] https://jobs.lever.co/veeva/4df9c2ca-d702-4d41-af82-290deff66564 | Veeva Systems | Intern Software Engineer (Summer 2026)
+- [ ] https://careers.salesforce.com/en/jobs/jr308796/summer-2026-intern-software-engineer/ | Salesforce | Summer 2026 Intern - Software Engineer
+- [ ] https://stripe.com/jobs/listing/software-engineer-intern-summer/7210115 | Stripe | Software Engineer, Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/bandwidth/jobs/7485269 | Bandwidth | DevSecOps Intern - Summer 2026
+- [ ] https://job-boards.greenhouse.io/gallup/jobs/4185955009 | Gallup | Security Engineer Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/gemini/jobs/7360337 | Gemini | Security Engineering Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7774167 | Cloudflare | Software Engineer Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/obsidiansecurity/jobs/4788725008 | Obsidian Security | Software Engineer - Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/memx/jobs/4987814008 | MEMX | Information Security Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/zscaler/jobs/4976260007 | Zscaler | Summer 2026 Technical Internship

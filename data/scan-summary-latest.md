@@ -1,148 +1,155 @@
-# Portal Scan — 2026-04-07
+# Portal Scan — 2026-04-07 (Run 2 / Extended)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## Stats
+## Stats (This Run)
 
 | Metric | Count |
 |--------|-------|
-| Companies scanned | 33 |
-| Queries / API calls executed | 18 |
-| Total listings found | 152 |
-| Filtered (skipped_title / skipped_dup) | 20 |
-| Duplicates (already in history) | 0 |
-| **New listings added to pipeline** | **58** |
+| Companies / portals scanned | 28 (new, not in Run 1) |
+| Queries / API calls executed | 13 |
+| Total listings evaluated | ~95 |
+| Filtered (skipped_title / region) | 3 |
+| Duplicates (already in history) | ~48 |
+| **New listings added to pipeline** | **44** |
+
+## Stats (Combined Today — Runs 1 + 2)
+
+| Metric | Count |
+|--------|-------|
+| Total companies scanned | 55+ |
+| **Total new listings added today** | **102** |
+| Total pipeline items (all-time) | **221+** |
 
 ---
 
-## Sources Scanned
+## Sources Scanned (This Run)
 
-**Greenhouse API (direct):** Anthropic, Glean, Vercel, Arize AI, RunPod, Airtable, Hume AI, Intercom, Parloa, PolyAI
+**Ashby (direct):** Vapi, Bland AI, Pinecone, Cohere (new roles), OpenAI (security + backend), Whatnot, Vantage, Notion (winter), Zip (new), Replit (new), Zettabyte
 
-**Temporal:** Empty board (0 jobs)
+**Greenhouse (API/search):** Figma, Astranis, Aquatic Capital Management, Lucid Motors, Censys, Cloudflare (new ID), Bandwidth, Gallup, Gemini, Obsidian Security, MEMX, Zscaler
 
-**WebSearch (Ashby):** Notion, Sentry, Cohere, OpenAI, Handshake, Giga, Farsight AI, Brain Co.
+**Lever (search):** Palantir (4 new roles), Voleon Group, Nominal, Veeva Systems
 
-**WebSearch (Greenhouse):** Mercury, Cloudflare, C3 AI, xAI, Scale AI, Sigma Computing, Together AI, Glean (intern), Affirm, Gusto, Grammarly
-
-**WebSearch (Lever):** Shield AI, Palantir (intern), Symmetry Systems
+**Direct/other:** Salesforce, Stripe
 
 ---
 
-## New Listings Added (58 total)
+## New Listings Added (44 total)
 
-### Internships — HIGH PRIORITY (Summer/Fall 2026)
+### OpenAI — Multiple Roles (HIGH PRIORITY)
 
-| Company | Role | URL |
-|---------|------|-----|
-| OpenAI | Software Engineer Internship / Co-op (Fall 2026) | https://jobs.ashbyhq.com/openai/1f3353ed-78eb-4a01-b783-c44b1c086711 |
-| Notion | Software Engineer, AI Intern (Summer 2026) | https://jobs.ashbyhq.com/notion/5bc8cbb9-4d08-4217-a968-d485d1b39905 |
-| Notion | Software Engineer Intern (Summer 2026) | https://jobs.ashbyhq.com/notion/23ac2477-0008-4bed-b1c1-81f90a32e9e6 |
-| Cohere | Software Engineer Intern (Spring/Summer 2026) | https://jobs.ashbyhq.com/cohere/66c98ca3-334b-4a6a-a27c-5807b3686121 |
-| Cohere | Machine Learning Intern/Co-op (Spring/Summer 2026) | https://jobs.ashbyhq.com/cohere/2c669d85-e3d7-43f1-aa43-be33e12ff8a5 |
-| Cohere | Software Engineer Intern (Winter 2026) | https://jobs.ashbyhq.com/cohere/1bc2c535-2f42-454e-aebe-9c018575ce7b |
-| Together AI | Software Engineer Intern (Summer 2026) | https://job-boards.greenhouse.io/togetherai/jobs/5012768007 |
-| Together AI | Security Engineer Intern (Summer 2026) | https://job-boards.greenhouse.io/togetherai/jobs/5012785007 |
-| Glean | Software Engineer, Intern (Summer 2026) | https://job-boards.greenhouse.io/gleanwork/jobs/4595665005 |
-| Glean | Sales Development Representative Intern | https://job-boards.greenhouse.io/gleanwork/jobs/4671732005 |
-| xAI | Engineering Internship (Summer 2026) | https://job-boards.greenhouse.io/xai/jobs/5054417007 |
-| Scale AI | Machine Learning Research Intern (Summer 2026) | https://job-boards.greenhouse.io/scaleai/jobs/4606060005 |
-| Mercury | Software Engineering Intern - AI Enablement (Fall 2026) | https://job-boards.greenhouse.io/mercury/jobs/5817107004 |
-| Cloudflare | Software Engineer Intern (Summer 2026) - Austin, TX | https://job-boards.greenhouse.io/cloudflare/jobs/7206269 |
-| C3 AI | Software Engineer - Intern (Summer 2026) | https://job-boards.greenhouse.io/c3ascend/jobs/8106512002 |
-| Handshake | AI/Machine Learning Engineer Intern | https://jobs.ashbyhq.com/handshake/eece422a-da6b-42e7-b694-3329e6ae4d6a |
-| Handshake | AI Research Intern (Summer 2026) | https://jobs.ashbyhq.com/handshake/f01f09ac-4b94-4de0-bbef-e1892df4e0cb |
-| Sentry | Software Engineer, Intern (Summer 2026) | https://jobs.ashbyhq.com/sentry/d2e3391f-9401-410a-b8a6-de3bf5f762b7 |
-| Sentry | Software Engineer, Intern (Fall 2026) | https://jobs.ashbyhq.com/sentry/5e112240-922a-48f1-8865-9e7f89687f39 |
-| Sigma Computing | Software Engineering Intern (Summer 2026) | https://job-boards.greenhouse.io/sigmacomputing/jobs/7501718003 |
-| Affirm | Software Engineering Intern - Summer 2026 | https://job-boards.greenhouse.io/affirm/jobs/7528020003 |
-| Gusto | Software Engineering Intern (Summer 2026) | https://job-boards.greenhouse.io/gusto/jobs/7238671 |
-| Grammarly | Software Engineer Intern (Summer 2026) | https://job-boards.greenhouse.io/grammarly/jobs/7657265 |
-| Brain Co. | AI/ML Engineering Internship (Summer 2026) | https://jobs.ashbyhq.com/brainco/0abea2f1-324e-47cc-9055-d015827ba641 |
-| Giga | Software Engineer Intern (Summer 2026) | https://jobs.ashbyhq.com/gigaml/aa903645-854f-4404-9d49-8a96f0dcc2cc |
-| Farsight AI | Software Engineering Intern (Summer 2026) | https://jobs.ashbyhq.com/farsight/096cdc49-06ae-4724-8f46-c58184e98334 |
+| Role | URL |
+|------|-----|
+| Software Engineer, Applied Emerging Talent (2026) | https://jobs.ashbyhq.com/openai/83002509-5242-4145-a717-b31bcac1d4aa |
+| Software Engineer Systems Research Internship (Summer 2026) | https://jobs.ashbyhq.com/openai/13a9e4e4-505b-4545-8b2b-b0bcc09c2b4f |
+| Software Engineer Internship / Co-op, Applied Emerging Talent | https://jobs.ashbyhq.com/openai/566ce27d-8a1c-497c-a301-0912010d7b29 |
+| Security Engineer, Application Security | https://jobs.ashbyhq.com/openai/0322d6d8-6588-4209-a304-83e768063a25 |
+| Software Engineer, Security Observability | https://jobs.ashbyhq.com/openai/da6ab2ee-ca82-4c75-b83f-541c0acae96d |
+| Software Engineer, Security Products | https://jobs.ashbyhq.com/openai/7ad1a978-e848-4284-aa21-d8a2a6d5ba0c |
+| Backend Software Engineer, B2B Applications | https://jobs.ashbyhq.com/openai/73eb1b69-095d-4f27-84ba-54f5df9bc230 |
+| Security Engineer, Data Center Security | https://jobs.ashbyhq.com/openai/4efa5099-9fc6-459b-8ace-c47fb8677f90 |
 
-### Security Internships
+### Tier-1 Companies — Internships
 
 | Company | Role | URL |
 |---------|------|-----|
-| Palantir | Information Security Engineer, Internship | https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb |
-| Together AI | Security Engineer Intern (Summer 2026) | https://job-boards.greenhouse.io/togetherai/jobs/5012785007 |
+| Stripe | Software Engineer, Intern (Summer 2026) | https://stripe.com/jobs/listing/software-engineer-intern-summer/7210115 |
+| Salesforce | Summer 2026 Intern - Software Engineer | https://careers.salesforce.com/en/jobs/jr308796/summer-2026-intern-software-engineer/ |
+| Figma | Software Engineer Intern (2026) | https://job-boards.greenhouse.io/figma/jobs/5602159004 |
+| Cloudflare | Software Engineer Intern (Summer 2026) | https://job-boards.greenhouse.io/cloudflare/jobs/7774167 |
+| Replit | Software Engineering Intern (Summer 2026) | https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1 |
 
-### Palantir Internships
-
-| Company | Role | URL |
-|---------|------|-----|
-| Palantir | Software Engineer, Internship | https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c |
-| Palantir | Software Engineer, Internship - Defense Tech | https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7 |
-| Palantir | Information Security Engineer, Internship | https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb |
-| Shield AI | Software Engineering Intern (2026 Summer) | https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f |
-
-### Anthropic Fellows
+### Security-Focused Internships
 
 | Company | Role | URL |
 |---------|------|-----|
-| Anthropic | Anthropic AI Safety Fellow | https://job-boards.greenhouse.io/anthropic/jobs/5023394008 |
-| Anthropic | Anthropic AI Security Fellow | https://job-boards.greenhouse.io/anthropic/jobs/5030244008 |
+| Censys | 2026 AI/ML Engineering Intern, Platform | https://job-boards.greenhouse.io/censys/jobs/8167601002 |
+| Obsidian Security | Software Engineer - Intern (Summer 2026) | https://job-boards.greenhouse.io/obsidiansecurity/jobs/4788725008 |
+| Zscaler | Summer 2026 Technical Internship | https://job-boards.greenhouse.io/zscaler/jobs/4976260007 |
+| MEMX | Information Security Intern (Summer 2026) | https://job-boards.greenhouse.io/memx/jobs/4987814008 |
+| Gemini | Security Engineering Intern (Summer 2026) | https://job-boards.greenhouse.io/gemini/jobs/7360337 |
+| Bandwidth | DevSecOps Intern - Summer 2026 | https://job-boards.greenhouse.io/bandwidth/jobs/7485269 |
+| Gallup | Security Engineer Intern (Summer 2026) | https://job-boards.greenhouse.io/gallup/jobs/4185955009 |
 
-### AI/SWE Roles at Tracked Companies (new vs last scan)
+### Vapi — Multiple Roles (Voice AI, Strong Match)
+
+| Role | URL |
+|------|-----|
+| New Grad Software Engineer | https://jobs.ashbyhq.com/vapi/3613e24a-de10-4e76-8c28-530df2a9981b |
+| Backend Product Engineer | https://jobs.ashbyhq.com/vapi/5aecc877-6f32-4fc6-9f51-3072d4bdcf92 |
+| Infrastructure Engineer - Security | https://jobs.ashbyhq.com/vapi/51de69e3-987e-42dc-9d11-897b09a04dbb |
+| Frontend Product Engineer | https://jobs.ashbyhq.com/vapi/f43c2aca-9c8f-4f45-9e6b-8f3917365c0f |
+
+### New Grad / Early Career
 
 | Company | Role | URL |
 |---------|------|-----|
-| Glean | Application Security Engineer | https://job-boards.greenhouse.io/gleanwork/jobs/4612849005 |
-| Glean | Cloud Security Engineer | https://job-boards.greenhouse.io/gleanwork/jobs/4630926005 |
-| Glean | Software Engineer, Backend | https://job-boards.greenhouse.io/gleanwork/jobs/4006731005 |
-| Glean | Software Engineer, Machine Learning | https://job-boards.greenhouse.io/gleanwork/jobs/4012745005 |
-| Vercel | Software Engineer, Agent | https://job-boards.greenhouse.io/vercel/jobs/5704320004 |
-| Vercel | Senior Product Security Engineer | https://job-boards.greenhouse.io/vercel/jobs/5787232004 |
-| Arize AI | AI Solutions Engineer, EMEA | https://job-boards.greenhouse.io/arizeai/jobs/5781408004 |
-| Arize AI | AI Solutions Manager (San Francisco) | https://job-boards.greenhouse.io/arizeai/jobs/5783026004 |
-| Arize AI | Senior AI Product Engineer, Backend | https://job-boards.greenhouse.io/arizeai/jobs/5396396004 |
-| Arize AI | Senior AI Product Engineer, Fullstack | https://job-boards.greenhouse.io/arizeai/jobs/5396420004 |
-| Airtable | AI Agent Architect, Customer Experience | https://job-boards.greenhouse.io/airtable/jobs/8409168002 |
-| Intercom | Forward Deployed Software Engineer | https://job-boards.greenhouse.io/intercom/jobs/7556413 |
-| Intercom | Senior AI Deployment Consultant | https://job-boards.greenhouse.io/intercom/jobs/7735288 |
-| Intercom | Senior Engineer, AI Developer | https://job-boards.greenhouse.io/intercom/jobs/6949785 |
-| Intercom | Senior Product Engineer, AI | https://job-boards.greenhouse.io/intercom/jobs/7371924 |
-| Parloa | Forward Deployed Engineer, DevOps | https://job-boards.eu.greenhouse.io/parloa/jobs/4694431101 |
-| Parloa | Lead AI Agent Architect | https://job-boards.eu.greenhouse.io/parloa/jobs/4566280101 |
-| PolyAI | Forward Deployed AI Engineer (PST) | https://job-boards.eu.greenhouse.io/polyai/jobs/4796935101 |
-| PolyAI | Senior Full Stack Engineer (Manhattan) | https://job-boards.eu.greenhouse.io/polyai/jobs/4669020101 |
-| Symmetry Systems | Full Stack Software Engineer - 2026 Summer Intern | https://jobs.lever.co/SymmetrySystems/dbca271b-a99b-48ab-83f2-b596a037ad65 |
+| Pinecone | New Grad Software Engineer | https://jobs.ashbyhq.com/pinecone/f6763f03-f981-4706-973c-89fc625ad70c |
+| Palantir | Software Engineer, New Grad - Defense | https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79 |
+
+### Additional Internships
+
+| Company | Role | URL |
+|---------|------|-----|
+| Cohere | Research Internship (Spring/Summer 2026) | https://jobs.ashbyhq.com/cohere/6e850172-a79d-4128-abd2-677731312857 |
+| Cohere | Machine Learning Intern/Co-op (Winter 2026) | https://jobs.ashbyhq.com/cohere/25cc6633-614a-45e0-8632-ffd4a2475c9b |
+| Palantir | Year at Palantir, Internship | https://jobs.lever.co/palantir/030ece08-c341-4959-bdfe-314e89b691ce |
+| Palantir | Software Engineer, Internship - Infrastructure | https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3 |
+| Palantir | Software Engineer, Internship - Production Infrastructure | https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1 |
+| Astranis | Software Engineer Intern - Data Platform (Summer 2026) | https://job-boards.greenhouse.io/astranis/jobs/4667477006 |
+| Lucid Motors | Intern, AI/ML Engineer (Summer 2026) | https://job-boards.greenhouse.io/lucidmotors/jobs/4918247007 |
+| Aquatic Capital Management | Software Engineer, Intern (Summer 2026) | https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002 |
+| Whatnot | Software Engineer Intern (Summer 2026) | https://jobs.ashbyhq.com/whatnot/8250532f-4bfd-4ee5-a041-4a2e54047cf7 |
+| Notion | Software Engineer Intern (Winter 2026) | https://jobs.ashbyhq.com/notion/fc762b58-24c9-4f34-bf5f-2af6e8adc644 |
+| Zip | Software Engineer Intern (Summer 2026) | https://jobs.ashbyhq.com/zip/83c0a4d8-7a88-4921-be8e-347ba3f3bedd |
+| Vantage | Software Engineering Intern (Summer 2026) | https://jobs.ashbyhq.com/vantage/19c9753f-25be-4e76-af53-04717bdcc25b |
+| Voleon Group | Software Engineer Intern (Summer 2026) | https://jobs.lever.co/voleon/100b2cb6-f9cc-42c3-add9-db143a76f0f0 |
+| Nominal | Software Engineer Internship (Summer 2026) | https://jobs.lever.co/nominal/f2673e2a-381e-49eb-bb34-7633ac0d5ea4 |
+| Veeva Systems | Intern Software Engineer (Summer 2026) | https://jobs.lever.co/veeva/4df9c2ca-d702-4d41-af82-290deff66564 |
+| Bland AI | Machine Learning Researcher, Audio | https://jobs.ashbyhq.com/bland/d2e08077-61f0-4810-bc72-3efd7944647b |
+| Zettabyte | Software Engineering Intern (Summer 2026) | https://jobs.ashbyhq.com/zettabyte-space/ec96b63a-e11c-4589-ab25-4f1779fb8759 |
 
 ---
 
-## Top Matches for Carlos (estimated fit ≥ 4.0)
+## Top Matches for Carlos (estimated ≥ 4.0)
 
-Based on CV match and target archetypes:
+Priority order for `/career-ops pipeline` evaluation:
 
-1. **OpenAI — Software Engineer Internship (Fall 2026)** — Top-tier AI lab, multi-model pipeline experience directly relevant
-2. **Cohere — Software Engineer Intern / ML Intern** — LLM provider, Carlos's AI pipeline background is exact fit
-3. **Together AI — Software Engineer Intern + Security Engineer Intern** — AI infra company, security + backend dual track
-4. **xAI — Engineering Internship (Summer 2026)** — Elon's AI lab, high-stakes engineering environment
-5. **Scale AI — Machine Learning Research Intern** — ML infra work aligns with Carlos's multi-model pipeline
-6. **Glean — Software Engineer Intern (Summer 2026)** — Enterprise AI search, strong security/ML teams
-7. **Palantir — Information Security Engineer Intern** — Defense tech + security, Carlos's HMAC/OAuth/TLS work directly relevant
-8. **Cloudflare — Software Engineer Intern (Austin)** — Carlos already uses Cloudflare Workers in production; strong match
-9. **Anthropic — AI Security Fellow** — Security + AI combo aligns with cybersecurity minor + AI pipeline work
-10. **Mercury — Software Engineering Intern (AI Enablement)** — Fintech + AI, Carlos's Flask/React/SaaS production background fits
+1. **OpenAI — Applied Emerging Talent (2026)** — New grad role at world's top AI lab; Carlos's multi-model pipeline (GPT-4o, Claude, DeepSeek) + 35K-line production codebase = exact fit
+2. **OpenAI — Security Engineer, AppSec** — HMAC-SHA256, OAuth proxy, TLS hardening, adversarial LLM testing all map directly
+3. **OpenAI — Systems Research Internship (Summer 2026)** — OS kernel work (carlosOS, xv6) + AI systems background = strong systems fit
+4. **Stripe — Software Engineer Intern** — Tier-1 fintech, Carlos's production Flask/PostgreSQL/Docker/AWS background fits perfectly
+5. **Figma — Software Engineer Intern** — Elite product company; Carlos's frontend (React 19) + backend depth both relevant
+6. **Vapi — New Grad Software Engineer** — Voice AI infra company; Carlos built SaaS with 5 LLM providers; direct overlap
+7. **Vapi — Infrastructure Engineer - Security** — Security + voice AI infra; Carlos's HMAC/TLS/CORS work fits
+8. **Censys — AI/ML Engineering Intern** — Cybersecurity + AI combo is Carlos's exact dual-skill rare combination
+9. **Salesforce — Summer 2026 Intern** — Agentforce AI agents platform; Carlos's multi-agent pipeline experience directly relevant
+10. **Obsidian Security — Software Engineer Intern** — Pure security company; Carlos's AppSec + production systems depth
+11. **Zscaler — Technical Internship** — Cloud security leader; Carlos's security engineering + AWS/Cloudflare infra background
+12. **Pinecone — New Grad Software Engineer** — Vector DB company; Carlos built RAG pipelines with embeddings
 
 ---
 
 ## Recommended Next Actions
 
-1. **Run `/career-ops pipeline`** to evaluate the 58 new listings — focus first on the Top 10 above
-2. **Priority order for evaluation:**
-   - OpenAI intern (Fall 2026)
-   - Cohere intern(s)
-   - Together AI (both intern roles)
-   - xAI Engineering Internship
-   - Cloudflare Austin intern
-   - Anthropic AI Security Fellow
-   - Palantir InfoSec intern
-3. **Note:** Cloudflare should be added to `portals.yml` as a tracked company — direct Austin hire.
-4. **Note:** Airtable's "Software Engineer, New Grad (2026)" listing (ID 8409376002) no longer appears in their API — may be closed. Verify before applying.
-5. Total pipeline now has **175+ pending items** — prioritize by score and deadline.
+1. **IMMEDIATE: Evaluate OpenAI roles first** — Multiple tracks, all relevant:
+   - Applied Emerging Talent (new grad) — highest priority
+   - AppSec Engineer — cybersecurity minor is perfect angle
+   - Systems Research Internship — carlosOS + xv6 kernel work is strong differentiator
+2. **Run `/career-ops pipeline`** to evaluate all 44 new listings
+3. **Quick wins to apply now:**
+   - Stripe intern (tier-1, straightforward application)
+   - Figma intern (product company, strong backend match)
+   - Salesforce intern (Agentforce team, agent experience)
+4. **Add to portals.yml:**
+   - Stripe (`stripe.com/jobs`)
+   - Figma (`job-boards.greenhouse.io/figma`)
+   - Censys (`job-boards.greenhouse.io/censys`)
+   - Obsidian Security (`job-boards.greenhouse.io/obsidiansecurity`)
+   - Zscaler (`job-boards.greenhouse.io/zscaler`)
+5. **Total pipeline**: 221+ pending items — prioritize by score (use `/career-ops pipeline`)
 
 ---
 
-*Scan completed 2026-04-07 | Next recommended scan: 2026-04-10*
+*Run 1: 2026-04-07 (58 new) | Run 2: 2026-04-07 (44 new) | Total today: 102 new listings*
+*Next recommended scan: 2026-04-10*

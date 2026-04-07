@@ -493,3 +493,59 @@ tracked_companies:
     scan_query: 'site:jobs.ashbyhq.com/travelperk'
     notes: "Barcelona. Business travel unicorn."
     enabled: true
+
+  # -- Added from scan 2026-04-07 --
+
+  - name: Stripe
+    careers_url: https://stripe.com/jobs
+    scan_method: websearch
+    scan_query: '"stripe" "software engineer" intern OR "new grad" site:stripe.com/jobs OR site:job-boards.greenhouse.io'
+    notes: "Tier-1 fintech. Backend-heavy engineering culture."
+    enabled: true
+
+  - name: Figma
+    careers_url: https://job-boards.greenhouse.io/figma
+    api: https://boards-api.greenhouse.io/v1/boards/figma/jobs
+    notes: "Elite product company. Strong backend + frontend engineering."
+    enabled: true
+
+  - name: Salesforce
+    careers_url: https://careers.salesforce.com
+    scan_method: websearch
+    scan_query: 'site:careers.salesforce.com intern 2026 "software engineer" OR "AI" OR "Agentforce"'
+    notes: "Agentforce AI agents platform. Large enterprise tech."
+    enabled: true
+
+  - name: Censys
+    careers_url: https://job-boards.greenhouse.io/censys
+    api: https://boards-api.greenhouse.io/v1/boards/censys/jobs
+    notes: "Cybersecurity + AI. Ann Arbor, MI with remote option."
+    enabled: true
+
+  - name: Obsidian Security
+    careers_url: https://job-boards.greenhouse.io/obsidiansecurity
+    api: https://boards-api.greenhouse.io/v1/boards/obsidiansecurity/jobs
+    notes: "SaaS security company. Strong AppSec focus."
+    enabled: true
+
+  - name: Zscaler
+    careers_url: https://job-boards.greenhouse.io/zscaler
+    api: https://boards-api.greenhouse.io/v1/boards/zscaler/jobs
+    notes: "Cloud security leader. Zero-trust platform."
+    enabled: true
+
+  - name: Vapi
+    careers_url: https://jobs.ashbyhq.com/vapi
+    notes: "Voice AI infrastructure. HIPAA/SOC2. Multiple new grad + security roles."
+    enabled: true
+
+  - name: Pinecone
+    careers_url: https://jobs.ashbyhq.com/pinecone
+    notes: "Vector database. RAG + embeddings infrastructure."
+    enabled: true
+
+  - name: Cloudflare
+    careers_url: https://job-boards.greenhouse.io/cloudflare
+    api: https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs
+    notes: "Edge compute + security. Carlos uses Cloudflare Workers in prod. Austin TX office."
+    enabled: true
