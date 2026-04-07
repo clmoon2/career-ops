@@ -214,3 +214,43 @@
 - [ ] https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e | Palantir | Forward Deployed Software Engineer, Internship - US Government
 - [ ] https://job-boards.greenhouse.io/zscaler/jobs/4976260007 | Zscaler | Summer 2026 Technical Internship
 - [ ] https://job-boards.greenhouse.io/bandwidth/jobs/7455377 | Bandwidth | Platform Engineering Intern - Summer 2026
+- [ ] https://jobs.ashbyhq.com/bland/1b6ba073-5a7a-45ad-afb8-f12dbc6eab7a | Bland AI | AI Deployment Engineer
+- [ ] https://jobs.ashbyhq.com/bland/1aa16d2c-66e1-41d1-a55c-d3363cd11aa5 | Bland AI | Full Stack Engineer
+- [ ] https://jobs.ashbyhq.com/bland/d8199cb9-04e8-4638-ad03-b93fb189034d | Bland AI | Machine Learning Engineer, TTS Systems
+- [ ] https://jobs.ashbyhq.com/bland/d2e08077-61f0-4810-bc72-3efd7944647b | Bland AI | Machine Learning Researcher, Audio
+- [ ] https://jobs.ashbyhq.com/bland/5e0347dd-eb4b-4820-9878-99a2cb766893 | Bland AI | AI Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/7640764002 | Databricks | Software Engineering Intern (2026)
+- [ ] https://jobs.lever.co/tevora/480a3148-3423-459e-9902-4ea58f10ffd9 | Tevora | Cybersecurity Internship Summer 2026
+- [ ] https://jobs.lever.co/actian/21624589-9c91-48ca-bce7-ba4d0bb9a868 | Actian | AI Security Intern
+- [ ] https://jobs.lever.co/veeva/4df9c2ca-d702-4d41-af82-290deff66564 | Veeva Systems | Intern Software Engineer (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/verkada/jobs/4836993007 | Verkada | Backend Software Engineering Intern (2026)
+- [ ] https://job-boards.greenhouse.io/verkada/jobs/5024322007 | Verkada | Frontend Software Engineering Intern (2026)
+- [ ] https://job-boards.greenhouse.io/astranis/jobs/4648080006 | Astranis | Software Engineer - Backend Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/clear/jobs/7546221 | CLEAR | Software Engineering Intern (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/ramp/c50962b5-c641-4d44-bbe5-7f1d6e7ce51f | Ramp | Software Engineer Internship, Backend
+- [ ] https://jobs.ashbyhq.com/ramp/31f7e045-9a51-4a75-9ffc-d815d6db6daa | Ramp | Software Engineer Internship, Frontend
+- [ ] https://jobs.ashbyhq.com/ramp/83075cf0-9c22-4475-9c6b-e21923a96df8 | Ramp | University Grad 2026: Software Engineer - Backend
+- [ ] https://jobs.ashbyhq.com/ramp/a1229aec-1105-4c47-8533-b912e732ed89 | Ramp | University Grad: Software Engineer - Frontend
+- [ ] https://jobs.ashbyhq.com/delinea/3eed48b7-b60c-4c50-adc2-4523337e1592 | Delinea | Software Engineering Intern (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/decagon/aa9c9d2a-aba9-429e-bf91-8303247fbcd6 | Decagon | Agent Software Engineer - Intern (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/profound/70a34e11-d3c7-4db2-a3fa-52d8cf627642 | Profound | Software Engineer, New Grad (San Francisco)
+- [ ] https://jobs.ashbyhq.com/netic/f645d611-ae5f-40cc-bfa8-613286060a76 | Netic | Machine Learning Engineer, New Grad
+- [ ] https://jobs.ashbyhq.com/netic/63c216dc-a082-43df-928c-d71b3ed4f887 | Netic | Software Engineer, New Grad
+- [ ] https://jobs.ashbyhq.com/netic/1242d448-bce2-4328-81ac-4b1080460b00 | Netic | Software Engineer, Intern
+- [ ] https://job-boards.greenhouse.io/loop/jobs/4796168004 | Loop | 2026 Software Engineer Intern, Full-Stack
+- [ ] https://job-boards.greenhouse.io/breezecash/jobs/5116784008 | Breeze | Software Engineer - New Grad - AI Native
+- [ ] https://job-boards.greenhouse.io/bandwidth/jobs/7485269 | Bandwidth | DevSecOps Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/schonfeld/jobs/7248075 | Schonfeld | 2026 Cybersecurity Operations Summer Intern
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8199012002 | Airtable | Product Manager, AI
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5530586004 | Vercel | Developer Success Engineer
+- [ ] https://jobs.lever.co/mistral/881941e1-2741-48e2-8767-12866965fac5 | Mistral AI | Applied AI Forward Deployed ML Engineer (Internship)
+- [ ] https://jobs.lever.co/mistral/305432ef-27ac-4012-a893-a662813ac6e9 | Mistral AI | Software Engineer, Frontend
+- [ ] https://jobs.lever.co/mistral/aceffeba-c4e9-4b3b-adff-e7e78b986c5c | Mistral AI | Applied AI Engineer, Fullstack SWE (EMEA)
+- [ ] https://jobs.lever.co/mistral/db67d7a2-bcec-4151-9b3a-8212ddabf419 | Mistral AI | Software Engineer, Data
+- [ ] https://jobs.ashbyhq.com/openai/e6539269-c8ca-43e9-8ffd-2616ef2b20d8 | OpenAI | Forward Deployed Security Engineer, Public Sector
+- [ ] https://jobs.ashbyhq.com/adaptive-ml/360ea776-27f1-4869-900f-6ebb78267aa2 | Adaptive ML | Forward Deployed AI Engineer
+- [ ] https://jobs.ashbyhq.com/lorikeet/0c72da73-cd31-4702-b9f1-c26b20932702 | Lorikeet | Forward Deployed AI Engineer
+- [ ] https://jobs.ashbyhq.com/intrinsic-safety/1f7eea06-129d-4cc8-8764-f3a36a5a7426 | Variance | Forward Deployed AI Engineer
+- [ ] https://jobs.ashbyhq.com/Promise/f0a30718-faf0-4a34-8759-0d6335fa365a | Promise | Software Engineer - Forward Deployed AI (New Grad)
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7578761 | Cloudflare | Threat Detection and Incident Response Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4654833005 | Glean | Lead Site Reliability Engineer
