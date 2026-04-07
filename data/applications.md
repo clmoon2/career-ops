@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 294 | 2026-04-07 | Stripe | Software Engineer Intern (Summer 2026) | 4.5/5 | Evaluada | ❌ | [268](reports/268-stripe-swe-intern-2026-04-07.md) | Top comp $61.75/hr, backend+security match, SF/NYC, apply ASAP |
+| 295 | 2026-04-07 | SpaceX | Software Engineering Internship/Co-op (Summer 2026) | 4.3/5 | Evaluada | ❌ | [269](reports/269-spacex-swe-intern-2026-04-07.md) | Systems depth match, carlosOS differentiator, TX locations accessible, $36-40/hr |
+| 297 | 2026-04-07 | Microsoft | Software Engineering Intern (Summer 2026) | 4.1/5 | Evaluada | ❌ | [271](reports/271-microsoft-swe-intern-2026-04-07.md) | FAANG tier, target IDNA/Azure AI teams, $55-65/hr, Redmond WA |
 | 271 | 2026-04-05 | Shield AI | SWE Intern Summer 2026 | 0/5 | Evaluada | ❌ | [220](reports/220-shieldai-swe-2026-04-05.md) | Listing closed (404) |
 | 272 | 2026-04-05 | Nominal | SWE Internship Summer 2026 | 0/5 | Evaluada | ❌ | [221](reports/221-nominal-swe-2026-04-05.md) | Listing closed (404) |
 | 273 | 2026-04-05 | Rigetti | SWE Intern CV & Automation 2026 | 0/5 | Evaluada | ❌ | [222](reports/222-rigetti-swe-2026-04-05.md) | Listing closed (404) |
@@ -62,7 +65,7 @@
 | 146 | 2026-04-05 | Palantir | SWE New Grad - Defense | 3.5/5 | Evaluada | ❌ | [095](reports/095-palantir-defense-2026-04-05.md) | Same as general SWE but defense-scoped; security clearance required; cybersec minor helps |
 | 147 | 2026-04-05 | Deepgram | Research Engineer, Machine Learning Systems | 2.0/5 | Evaluada | ❌ | [110](reports/110-deepgram-research-engineer-2026-04-05.md) | ML research pipelines + speech domain required; uses models via API only |
 | 145 | 2026-04-05 | ElevenLabs | Application Security Engineer | 2.5/5 | Evaluada | ❌ | [111](reports/111-elevenlabs-appsec-2026-04-05.md) | Good security overlap (HMAC, OAuth, TLS) but senior-level; needs K8s/Terraform/supply chain |
-| 143 | 2026-04-05 | Palantir | Software Engineer, New Grad | 4.2/5 | Evaluada | ❌ | [094](reports/094-palantir-swe-2026-04-05.md) | Best Palantir fit -- general SWE track matches full-stack product skills; $145-155K + RSUs |
+| 143 | 2026-04-07 | Palantir | Forward Deployed Software Engineer, New Grad (Commercial) | 4.7/5 | Evaluada | ❌ | [267](reports/267-palantir-fdse-newgrad-commercial-2026-04-07.md) | Re-eval 2026-04-07 (4.2→4.7). Top priority — FDE archetype match, $145-180K+RSUs, apply immediately |
 | 144 | 2026-04-05 | Deepgram | Site Reliability Engineer - AI & ML Infrastructure | 1.5/5 | Evaluada | ❌ | [109](reports/109-deepgram-sre-2026-04-05.md) | 5+ yrs SRE, expert K8s/Terraform/Slurm -- far outside profile; skip |
 | 120 | 2026-04-05 | Vercel | Solutions Architect | 2.0/5 | Evaluada | ❌ | [039](reports/039-vercel-2026-04-05.md) | Pre-sales/consulting track; needs customer-facing tech experience |
 | 121 | 2026-04-05 | Benchling | Software Engineer, New Grad (2026) | 4.0/5 | Evaluada | ❌ | [077](reports/077-benchling-2026-04-05.md) | Strong full-stack match, React-heavy, $144K+equity, SF hybrid; biotech domain but eng-focused |

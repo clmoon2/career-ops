@@ -364,3 +364,18 @@
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5804110004 | Vercel | Solutions Architect
 - [ ] https://jobs.ashbyhq.com/worldly/b297af2e-4d68-4cc5-9d8a-6b83a18c2e31 | Worldly | Security Operations Intern (Summer 2026)
 - [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7714373 | Planet Labs | Intern, AI/ML Engineer
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/4807506007 | Anduril Industries | Software Engineer Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/zetasummerinternship/jobs/5745753004 | Zeta Global | AI Engineer Intern - Core AI (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/veeamsoftware/jobs/4736372101 | Veeam | AI Intern, Veeam Data Cloud (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/audaxgroup/jobs/4613476005 | Audax Group | Summer AI Engineer Intern
+- [ ] https://jobs.lever.co/palantir/000b1a24-4b0f-436f-a6da-9a920e259925 | Palantir | Software Engineer, New Grad - US Government
+- [ ] https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/Cybersecurity-Consulting-Intern---Summer-2026_658983WD | PwC | Cybersecurity Consulting Intern (Summer 2026)
+- [ ] https://higher.gs.com/roles/152627 | Goldman Sachs | 2026 Engineering Summer Analyst
+- [ ] https://job-boards.greenhouse.io/memx/jobs/5004567008 | MEMX | Information Security Intern, Spring 2026 (Part-time)
+- [ ] https://careers.boozallen.com/teams/JobDetail?jobId=115072 | Booz Allen Hamilton | University 2026 Summer Games Cybersecurity Intern
+- [ ] https://careers.mitre.org/us/en/job/R115479/Internships-in-Computer-Science-or-Software-Engineering | MITRE | Internships in Computer Science or Software Engineering
+- [ ] https://careers.mitre.org/us/en/job/R115475/Internships-in-Cybersecurity-and-Information-Security | MITRE | Internships in Cybersecurity and Information Security
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7259003 | Cloudflare | Software Engineer Intern (Winter/Spring 2026)
+- [ ] https://job-boards.greenhouse.io/purestorage/jobs/7258723 | Pure Storage | Software Engineer Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/klaviyocampus/jobs/7418443003 | Klaviyo | Machine Learning Engineer Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/robinhood/jobs/7161061 | Robinhood | Security Risk Management Intern (Summer 2026)
