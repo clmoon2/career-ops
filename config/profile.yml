@@ -1,0 +1,77 @@
+# Career-Ops Profile Configuration
+# Carlos Luna-Peña
+
+candidate:
+  full_name: "Carlos Luna-Peña"
+  email: "carlunpen@gmail.com"
+  phone: "956-966-0986"
+  location: "College Station, TX"
+  linkedin: "linkedin.com/in/carlos-luna-pena"
+  portfolio_url: "https://applyeasy.tech"
+  github: "github.com/clmoon2"
+  twitter: ""
+
+target_roles:
+  primary:
+    - "Software Engineering Intern"
+    - "Cybersecurity Intern"
+    - "Security Engineering Intern"
+    - "AI/ML Engineering Intern"
+    - "Full Stack Intern"
+    - "Backend Engineering Intern"
+    - "Technology Consulting Intern"
+    - "DevOps Intern"
+  archetypes:
+    - name: "SWE Intern"
+      level: "Intern"
+      fit: "primary"
+    - name: "Cybersecurity / Security Intern"
+      level: "Intern"
+      fit: "primary"
+    - name: "Technology Consulting Intern"
+      level: "Intern / Analyst"
+      fit: "primary"
+    - name: "AI/ML Engineering Intern"
+      level: "Intern"
+      fit: "secondary"
+    - name: "DevOps / Platform Intern"
+      level: "Intern"
+      fit: "secondary"
+    - name: "Systems Engineering Intern"
+      level: "Intern"
+      fit: "adjacent"
+
+narrative:
+  headline: "CS student who co-founded and shipped a production AI platform while leading engineering teams"
+  exit_story: "Co-founded a live AI-powered job automation platform from scratch -- sole backend architect of a 35K-line Python codebase with blue/green CI/CD, multi-model AI pipelines, and a Chrome extension autofilling across 50+ ATS platforms. Built it while studying CS with a cybersecurity minor, leading a 6-person team on a second project, and competing in hackathons. Looking for roles where I can bring the same builder energy to hard problems in SWE, security, or consulting."
+  superpowers:
+    - "Full-stack production systems (Python/React/Docker/AWS/Cloudflare from zero to live users)"
+    - "Multi-model AI pipeline design (5 LLM providers, cost-optimized to $0.003/application)"
+    - "Security engineering (OAuth proxy, HMAC-SHA256 CSRF, TLS hardening, adversarial LLM testing)"
+    - "Systems programming depth (custom OS in C/x86, Rust daemons, async orchestration)"
+    - "Ship fast under pressure (hackathon-grade speed with production-grade quality)"
+  proof_points:
+    - name: "Finch (ApplyEasy)"
+      url: "https://applyeasy.tech"
+      hero_metric: "Live SaaS platform processing 100+ jobs/day with 35K-line backend, 602 tests, blue/green CI/CD"
+    - name: "TidalHack 2026 Corrosion Predictor"
+      url: "https://github.com/clmoon2/tidalHack"
+      hero_metric: "96.5% anomaly match rate, 5,115 anomalies in <30s, 6-agent AI system"
+    - name: "Quant Trading System"
+      url: ""
+      hero_metric: "4 backtested strategies, best Sharpe 1.79, Alpaca paper trading + Bloomberg"
+    - name: "carlosOS"
+      url: ""
+      hero_metric: "Custom x86 bootloader, kernel, scheduler, syscalls, and userland shell from scratch"
+
+compensation:
+  target_range: "$80K-120K"
+  currency: "USD"
+  minimum: "$70K"
+  location_flexibility: "Open to relocation, remote, or hybrid. Prefer Texas or major tech hubs."
+
+location:
+  country: "United States"
+  city: "College Station"
+  timezone: "CST"
+  visa_status: "No sponsorship needed"
