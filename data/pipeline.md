@@ -286,3 +286,33 @@
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4681110005 | Glean | Business Value Consultant
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5123742008 | Anthropic | Analyst, The Anthropic Institute
 - [ ] https://jobs.ashbyhq.com/sentry/aedee875-ffca-477a-bc8c-1347628cc596 | Sentry | Software Engineer, New Grad (2026)
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/7560246 | Twilio | Software Engineer Intern - United States
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/6891933 | Twilio | Software Engineer, New Graduate - Email
+- [ ] https://job-boards.greenhouse.io/dialpad/jobs/7720522002 | Dialpad | Software Engineer Intern
+- [ ] https://job-boards.greenhouse.io/censys/jobs/8167601002 | Censys | 2026 AI/ML Engineering Intern, Platform
+- [ ] https://job-boards.greenhouse.io/censys/jobs/8167154002 | Censys | 2026 AI/ML Engineering Intern
+- [ ] https://job-boards.greenhouse.io/crashplan/jobs/4109234009 | CrashPlan | AI/ML Engineer Intern
+- [ ] https://job-boards.greenhouse.io/hpiq/jobs/5623297004 | HP IQ | Software Engineering Intern, Product Security (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/astranis/jobs/4667477006 | Astranis | Software Engineer Intern - Data Platform (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/Crusoe/e21bb802-1292-476a-8d25-d1ebf18d035a | Crusoe | Product Security Applied AI Intern, Summer 2026
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7611577003 | Celonis | Summernaut Program - Technology Consultant Summer Intern
+- [ ] https://jobs.lever.co/BestEgg/3b828fc3-4fb0-49e8-9832-458c1fd437a9 | Best Egg | 2026 Summer Internship - Software Engineer
+- [ ] https://jobs.lever.co/BestEgg/35e80bd9-f511-4131-adbd-d17ccb5dd285 | Best Egg | 2026 Summer Internship - Backend Software Engineering Intern
+- [ ] https://job-boards.greenhouse.io/opensesame/jobs/7417009 | OpenSesame | Software Engineering Internship - Summer 2026
+- [ ] https://job-boards.greenhouse.io/pdtpartners/jobs/7073180 | PDT Partners | Summer 2026 Software Engineering Internship
+- [ ] https://job-boards.greenhouse.io/lucidmotors/jobs/4918247007 | Lucid Motors | Intern, AI/ML Engineer (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/harvey/b6509622-5c1e-4a3f-916b-6e56b8fd212f | Harvey | Software Engineering Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7296929 | Cloudflare | Software Engineer Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5025624008 | Anthropic | Research Engineer, Cybersecurity Reinforcement Learning
+- [ ] https://jobs.lever.co/rigetti/40442388-ca66-4899-ab45-d8a2658bd050 | Rigetti Computing | 2026 Internship - Software Engineering, Computer Vision & Automation
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4606014005 | Scale AI | Software Engineering Intern (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/zip/2bad03a8-4e98-480e-b8cb-bc65d36e429f | Zip | Software Engineer Intern (Summer 2026)
+- [ ] https://jobs.lever.co/zocks/5fbdafb5-0796-49f4-a6da-0b58615503e5 | Zocks | Software Engineer Intern
+- [ ] https://job-boards.greenhouse.io/showpad/jobs/7661363 | Showpad | Cloud Platform Engineer Intern
+- [ ] https://job-boards.greenhouse.io/devtechnology/jobs/8133559002 | Dev Technology | AI/ML Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/chathamfinancial/jobs/7183989 | Chatham Financial | 2026 Software Engineer Intern
+- [ ] https://jobs.ashbyhq.com/tessera-labs/e55f2ac2-b178-48e3-816c-1dcb2cc11a83 | Tessera Labs | Backend Software Engineer Intern
+- [ ] https://jobs.ashbyhq.com/reframesystems/76b3c3d9-c741-4707-bd38-1d5e75781520 | Reframe Systems | Software Engineer - Full Stack Robotics Intern (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/sentilink/d3f05b2d-f5b2-479f-8d65-d28c53ef824e | SentiLink | Software Engineer, Full Stack/Backend, New Grad
+- [ ] https://jobs.ashbyhq.com/whatnot/8250532f-4bfd-4ee5-a041-4a2e54047cf7 | Whatnot | Software Engineer Intern (Summer 2026)
+- [ ] https://jobs.lever.co/field-ai/29a99694-254b-4b18-9d28-cb70906f06d6 | FieldAI | Software Engineer, Validation & Verification, Intern (Summer 2026)

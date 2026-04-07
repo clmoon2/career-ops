@@ -1,104 +1,85 @@
-# Portal Scan — 2026-04-07 (Run 2)
+# Portal Scan — 2026-04-07 (Run 2 — Supplemental)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Date:** 2026-04-07
-**Candidate:** Carlos Luna-Peña
-**Scan type:** Greenhouse API (Level 2) + WebSearch (Level 3)
-**Companies/portals scanned:** 25+ APIs + 8 WebSearch queries
-
----
-
-## Results
-
-| Metric | Count |
-|--------|-------|
-| APIs / queries executed | ~28 |
-| Total listings examined | ~150 |
-| Already in history (skipped_dup/skipped_title) | ~118 |
-| **New listings added to pipeline** | **32** |
+**Date:** 2026-04-07  
+**Run:** Supplemental scan covering remaining portals.yml companies + broad WebSearch discovery  
+**Companies/portals scanned:** 30+ (Twilio, Dialpad, Censys, CrashPlan, Harvey, Crusoe, Celonis, Best Egg, OpenSesame, PDT Partners, Lucid Motors, Cloudflare, Anthropic, Rigetti, Scale AI, Zip, Zocks, Showpad, Dev Technology, Chatham Financial, Tessera Labs, Reframe Systems, SentiLink, Whatnot, FieldAI, n8n, Zapier, Attio, + WebSearch queries)  
+**New listings added to pipeline:** **30**  
+**Skipped (no match / EU-only / senior):** 3 (n8n, Zapier, Attio)  
 
 ---
 
 ## New Listings Added
 
-### Security Internships
-- Rockstar Games — Intern: Security Operations (Summer 2026)
-- Rockstar Games — Intern: Security Engineering Automation (Summer 2026)
-- MEMX — Information Security Intern, Summer 2026 (NYC hybrid)
-- XTX Markets — Information Security Intern - Summer 2026 (HFT firm)
-- Gemini — Security GRC Intern (Summer 2026)
-- Dark Wolf Solutions — 2026 Dark Wolf Summer Internship (Cybersecurity/Defense)
+### 🔒 Security & AI Security
+- **Crusoe** — Product Security Applied AI Intern, Summer 2026 ⭐⭐
+- **Censys** — 2026 AI/ML Engineering Intern, Platform ⭐⭐ (cybersecurity company)
+- **Censys** — 2026 AI/ML Engineering Intern ⭐⭐
+- **HP IQ** — Software Engineering Intern, Product Security ⭐
+- **Anthropic** — Research Engineer, Cybersecurity Reinforcement Learning ⭐
+- **CrashPlan** — AI/ML Engineer Intern
 
-### SWE Internships
-- Figma — Software Engineer Intern (2026) ⭐
-- Moloco — Software Engineer Intern
-- HP IQ — Software Engineer Intern, Cloud Services (Summer 2026)
-- Aquatic Capital Management — Software Engineer, Intern (Summer 2026) ⭐
-- Marshall Wace — Technology Intern - New York - Summer 2026 ⭐ (top quant HF)
-- Walrus — Full Stack Developer Intern
-- GoLinks — Fullstack Engineering Intern
-- Medra — Full Stack Software Engineer - Summer 2026 Internship (medical AI)
-- Unwrap — Full Stack Engineer Intern (NLP/AI)
-- ALSO — Software Engineering Intern, Backend - Summer 2026
+### 🤖 AI/ML & Full-Stack
+- **Harvey** — Software Engineering Intern (Summer 2026) ⭐⭐ (AI-native legal tech)
+- **Scale AI** — Software Engineering Intern (Summer 2026) ⭐
+- **Lucid Motors** — Intern, AI/ML Engineer (Summer 2026)
+- **Dev Technology** — AI/ML Intern (Summer 2026)
+- **SentiLink** — Software Engineer, Full Stack/Backend, New Grad
 
-### AI/ML Internships
-- Lambda — 2026 Machine Learning Research Intern ⭐
-- UnlikelyAI — Machine Learning Engineer Intern
-- Cohere — Machine Learning Intern/Co-op (Winter 2026)
-- Cloudflare — Sales Revenue AI Tools Intern (Summer 2026)
+### 💼 Consulting
+- **Celonis** — Summernaut Program - Technology Consultant Summer Intern ⭐⭐
 
-### DevOps / Platform Internships
-- DV Trading — 2026 Summer Internship - DevOps Engineer (trading firm + AI)
-- PDT Partners — Summer 2026 Systems Engineering Internship ⭐ (quant + InfoSec)
-- Black Duck Software — DevOps Engineer Intern
-- Black Duck Software — Software Engineering Intern (DevOps)
+### 🛠️ SWE Internships
+- **Twilio** — Software Engineer Intern - United States ⭐
+- **Twilio** — Software Engineer, New Graduate - Email
+- **Dialpad** — Software Engineer Intern
+- **Whatnot** — Software Engineer Intern (Summer 2026)
+- **Zip** — Software Engineer Intern (Summer 2026)
+- **Astranis** — Software Engineer Intern - Data Platform
+- **Tessera Labs** — Backend Software Engineer Intern
+- **Reframe Systems** — Full Stack Robotics Intern (Summer 2026)
+- **Best Egg** — Software Engineer Intern (Summer 2026)
+- **Best Egg** — Backend Software Engineering Intern (Summer 2026)
+- **OpenSesame** — Software Engineering Internship - Summer 2026
+- **Chatham Financial** — 2026 Software Engineer Intern
+- **Zocks** — Software Engineer Intern
+- **Harvey** — Software Engineering Intern (Summer 2026)
 
-### New Grad Roles
-- Verkada — Backend Software Engineer - University Graduate 2026
-- Verkada — Computer Vision Software Engineer - University Graduate 2026
-- ZipRecruiter — Software Engineer - New Grad
-- Palantir — Software Engineer, Internship - Infrastructure (new track)
-- Sentry — Software Engineer, New Grad (2026) (new posting)
-
-### Consulting / Analyst
-- GCM Grosvenor — Technology Business Analyst Summer Intern (alt investments)
-- Glean — Business Value Consultant
-- Anthropic — Analyst, The Anthropic Institute
+### ☁️ DevOps / Platform
+- **Showpad** — Cloud Platform Engineer Intern
+- **PDT Partners** — Summer 2026 Software Engineering Internship
+- **FieldAI** — Software Engineer, Validation & Verification, Intern (Summer 2026)
+- **Rigetti Computing** — 2026 Internship - Software Engineering, Computer Vision & Automation
 
 ---
 
 ## Top Matches (Estimated Score ≥ 4.0)
 
-| Company | Role | Fit rationale |
-|---------|------|---------------|
-| **Figma** | SWE Intern (2026) | Tier-1 product company; Carlos has React 19, TypeScript, Python, full-stack depth |
-| **Marshall Wace** | Technology Intern NY | Top quant HF; Carlos built Quant Trading System (Sharpe 1.79, Alpaca, Bloomberg) |
-| **Aquatic Capital** | SWE Intern | Quant firm; trading system directly relevant |
-| **Lambda** | ML Research Intern | GPU cloud + ML research; Carlos has LangChain, multi-model pipelines, XGBoost |
-| **XTX Markets** | InfoSec Intern | Elite quant market maker + security; rare security+quant combo |
-| **PDT Partners** | Systems Engineering | Quant + InfoSec/Systems; carlosOS (custom kernel/scheduler) + quant project |
-| **Rockstar Games** | Security Engineering Automation | Security + automation = Carlos's core (OAuth proxy, HMAC, stealth automation) |
-| **DV Trading** | DevOps Intern | AI tooling + DevOps; Carlos has blue/green CI/CD, AWS EC2, GitHub Actions |
-| **Verkada** | Backend Univ Grad 2026 | Security hardware; strong backend + security signal |
-| **Gemini** | Security GRC Intern | Crypto exchange + GRC; Carlos has TLS/HMAC/CSRF security implementation experience |
+| Company | Role | Why | Est. Score |
+|---------|------|-----|------------|
+| **Crusoe** | Product Security Applied AI Intern | Security + AI = Carlos's core intersection. HMAC-SHA256, TLS, OAuth proxy, adversarial LLM testing, production AI platform. | 4.5+ |
+| **Censys** | AI/ML Engineering Intern, Platform | Cybersecurity company + AI/ML. Carlos's Cybersecurity minor + multi-model ML pipelines + security engineering. | 4.3+ |
+| **Harvey** | Software Engineering Intern | AI-native enterprise ($3B). Frontier agentic AI + LangChain/RAG directly relevant. | 4.2+ |
+| **Celonis** | Technology Consultant Intern | Consulting pathway + process automation. Carlos's AI pipeline automation work is directly analogous. | 4.0+ |
+| **Twilio** | Software Engineer Intern - US | Voice/messaging infra, remote-US. Full-stack + API + AWS experience maps well. | 3.8–4.0 |
+| **Anthropic** | Research Engineer, Cybersecurity RL | Prestige + cybersecurity + RL. Needs RL background — Carlos has adjacent ML work. | 3.7–4.0 |
+
+---
+
+## Pipeline Status (Cumulative)
+
+- Total items in pipeline after both runs today: **~320+**
+- New items added this run: **30**
+- Total new items added today (both runs): **~62**
 
 ---
 
 ## Recommended Next Actions
 
-1. **Run `/career-ops pipeline`** to evaluate all new listings
-2. **Priority order for evaluation:**
-   - Figma SWE Intern → Aquatic Capital SWE Intern → Marshall Wace Tech Intern
-   - XTX Markets InfoSec → PDT Partners Systems → Lambda ML Research Intern
-   - Rockstar Games Security Automation → DV Trading DevOps → Gemini GRC
-3. Summer 2026 internship deadlines are approaching — prioritize speed
+1. **Run `/career-ops pipeline`** to begin evaluating pending listings
+2. **Priority first:** Crusoe → Censys → Harvey → Celonis (highest fit, check deadlines)
+3. **Check Celonis Summernaut deadline** — consulting programs often close early
+4. **Consider batch mode** (`/career-ops batch`) to process the full backlog faster
 
----
-
-## Pipeline Status
-
-- Items in pipeline (cumulative): ~290+
-- New items this run: **32**
-- Run `/career-ops pipeline` to begin evaluating
-
+*Next recommended scan: 2026-04-10*
