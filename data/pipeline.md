@@ -2,6 +2,22 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-08 SCAN v8 (Autonomous Agent) === -->
+- [x] https://jobsus.deloitte.com/dallas-tx/deloitte-risk-financial-advisory-intern-cyber-summer-2026/F8B88A6899774BB581997BB24DA8B9B0/job/ | Deloitte | Risk & Financial Advisory Intern - Cyber (Summer 2026) — Dallas/Houston TX, $40.87/hr ⭐ EVALUATED 4.0
+- [x] https://www.capitalonecareers.com/job/richmond/technology-internship-program-summer-2026/31238/84615219872 | Capital One | Technology Internship Program (Summer 2026) — Plano TX (DFW), $65/hr ⭐ EVALUATED 4.0
+- [ ] https://www.accenture.com/us-en/careers/jobdetails?id=R00285547_en | Accenture | Technology Summer Analyst (Summer 2026) — Houston/Austin/Irving TX + San Diego (~3.9, verify if still open — posting dated 03/30/2026)
+- [ ] https://careers.confluent.io/jobs/job/d9ebd50b-967e-4f35-8ebd-f0ce2705136a | Confluent | Software Engineering Intern (Summer 2026) — Austin TX hybrid, $4K housing stipend (~3.8)
+- [ ] https://careers.bankofamerica.com/en-us/students/job-detail/12944/global-technology-summer-analyst-2026-cybersecurity-analyst-multiple-locations | Bank of America | Global Technology Summer Analyst 2026 - Cybersecurity Analyst — Dallas Metro TX (~3.7)
+- [ ] https://careers.bankofamerica.com/en-us/students/job-detail/12942/global-technology-summer-analyst-2026-software-engineer-multiple-locations | Bank of America | Global Technology Summer Analyst 2026 - Software Engineer — Dallas Metro TX (~3.6)
+- [ ] https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2026-6866531002 | Databricks | Software Engineering Intern (2026) — Mountain View CA, $54.50/hr (~3.7)
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210650080 | JPMorgan Chase | 2026 Software Engineer Program - Summer Internship — Palo Alto $60/hr, NYC $52/hr (~3.6)
+- [ ] https://jobs.careers.microsoft.com/global/en/job/1763841/Software-Engineering:-Internship-Opportunities | Microsoft | Software Engineering: Internship Opportunities (Summer 2026) — multiple US locations (~3.6)
+- [ ] https://www.goldmansachs.com/careers/students/programs-and-internships/americas/2026-summer-analyst-program | Goldman Sachs | 2026 Summer Analyst Program (Engineering Division) — NYC/other, rolling (~3.5)
+- [ ] https://careers.servicenow.com/jobs/744000079993731/utg-software-engineer-internships-summer-2026/ | ServiceNow | UTG - Software Engineer Internships - Summer 2026 — San Diego, $55/hr (~3.5)
+- [ ] https://www.tesla.com/careers/search/job/internship-software-engineer-ai-inference-summer-2026-263205 | Tesla | Software Engineer, AI Inference Intern (Summer 2026) — on-site Austin/Palo Alto, PyTorch focus (~3.3 — verify location)
+- [ ] https://careers.ibm.com/en_US/careers/JobDetail/Software-Developer-Intern-2026/54845 | IBM | Software Developer Intern: 2026 — multiple US locations (~3.4)
+<!-- === END 2026-04-08 SCAN v8 === -->
+
 <!-- === NEW 2026-04-08 SCAN v7 (Autonomous Agent) === -->
 - [x] https://www.amazon.jobs/en/jobs/3129837/security-engineer-summer-internship-2026 | Amazon | Security Engineer Summer Internship 2026 ⭐ EVALUATED 4.0
 - [ ] https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer-Intern---Summer-2026_R26636 | CrowdStrike | Software Engineer Intern - Summer 2026 (Sunnyvale CA or Redmond WA)

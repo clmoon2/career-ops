@@ -1,3 +1,57 @@
+# Portal Scan — 2026-04-08 (Autonomous Agent Run — v8)
+
+## v8 Scan — New Listings Found
+
+**Focus:** Fresh territory not covered by v1-v7 — Big 4 consulting (Deloitte, Accenture), financial tech (Capital One, JPMorgan, Goldman Sachs, Bank of America), enterprise software (Databricks, Confluent, ServiceNow), and other (Microsoft, IBM, Tesla). Texas locations prioritized.
+
+| Company | Role | Score | Report | Notes |
+|---------|------|-------|--------|-------|
+| **Deloitte** ⭐ | Risk & Financial Advisory Intern - Cyber (Summer 2026) | **4.0/5** | [279](reports/279-deloitte-cyber-intern-2026-04-08.md) | Dallas TX + Houston TX available; $40.87/hr; cybersecurity minor + HMAC/TLS/OAuth/adversarial LLM = Big 4 cyber consulting match. **Apply this week.** |
+| **Capital One** ⭐ | Technology Internship Program (Summer 2026) | **4.0/5** | [280](reports/280-capital-one-tech-intern-2026-04-08.md) | Plano TX (DFW); $65/hr (~$123K ann.); Python/React/AWS/Docker = Finch stack exact match; rolling admissions. **Apply immediately.** |
+| Accenture | Technology Summer Analyst (Summer 2026) | ~3.9 | — | Houston/Austin/Irving TX + San Diego; $27-35/hr; Security + AI specialization tracks; **verify if posting still open** (dated 03/30/2026) |
+| Confluent | Software Engineering Intern (Summer 2026) | ~3.8 | — | Austin TX hybrid (3 days/wk); $4K housing stipend; Kafka/streaming platform; Python/Java stack |
+| Bank of America | Global Technology Summer Analyst - Cybersecurity Analyst 2026 | ~3.7 | — | Dallas Metro TX; 10 weeks; cyber track; financial services brand |
+| Databricks | Software Engineering Intern (2026) | ~3.7 | — | Mountain View CA; $54.50/hr; Python/full-stack; data+AI platform; graduating fall 2026/spring 2027 ✓ |
+| Bank of America | Global Technology Summer Analyst - Software Engineer 2026 | ~3.6 | — | Dallas Metro TX; full-stack (front/back/mobile); good Texas proximity |
+| JPMorgan Chase | 2026 Software Engineer Program - Summer Internship | ~3.6 | — | Palo Alto $60/hr, NYC $52/hr, Chicago $45/hr; no TX location; graduation Dec 2026-Jun 2027 ✓ |
+| Microsoft | Software Engineering: Internship Opportunities (Summer 2026) | ~3.6 | — | Multiple US locations; large program; competitive |
+| Goldman Sachs | 2026 Summer Analyst Program - Engineering Division | ~3.5 | — | Rolling basis; NYC and other locations; penultimate/final year students |
+| ServiceNow | UTG Software Engineer Internships - Summer 2026 | ~3.5 | — | San Diego CA; $55/hr; graduating Dec 2026+; requires relocation |
+| IBM | Software Developer Intern: 2026 | ~3.4 | — | Multiple US locations; standard SWE role |
+| Tesla | Software Engineer, AI Inference Intern (Summer 2026) | ~3.3 | — | On-site Austin TX or Palo Alto; PyTorch/neural networks required — skill gap |
+
+## Companies Scanned — No New Intern Roles (v8)
+
+| Company | Reason |
+|---------|--------|
+| Snowflake | Application deadline passed (Sept-Nov 2025 window — closed) |
+| HashiCorp | Go primary language (skill gap); graduation window Dec 2024-May 2026 (might not align) |
+| BCG X | AI SWE intern targets advanced degree students; undergrad consulting track is separate case-interview process |
+| Zscaler | No intern listings found on direct search |
+| IBM AI Research Intern | Research-focused; job posting redirected (likely filled) |
+
+## v8 Key Findings — Texas Proximity Theme
+
+Multiple strong Texas-accessible options discovered in this scan:
+- **Deloitte Cyber**: Dallas TX + Houston TX (both accessible for summer relocation from College Station)
+- **Capital One**: Plano TX (DFW metro, 3 hrs from College Station)
+- **Accenture**: Houston TX + Austin TX + Irving TX (if still open)
+- **Confluent**: Austin TX hybrid (1.5 hrs from College Station!)
+- **Bank of America**: Dallas Metro TX
+
+## v8 Next Actions (Priority Order)
+
+1. **APPLY NOW:** Capital One Technology Intern [280](reports/280-capital-one-tech-intern-2026-04-08.md) — rolling admissions, every day counts. Plano TX. $65/hr. Python/React/AWS match.
+2. **APPLY THIS WEEK:** Deloitte Cyber Risk Intern [279](reports/279-deloitte-cyber-intern-2026-04-08.md) — Dallas TX or Houston TX. $40.87/hr. Best Big 4 consulting match in entire scan history.
+3. **VERIFY + APPLY:** Accenture Texas Summer Analyst → check if posting is still accepting applications (deadline was 03/30/2026). If open, apply with Security or AI specialization track.
+4. **PIPELINE:** Confluent Austin TX intern — evaluate when processing pipeline. Austin proximity + good tech stack.
+5. **PIPELINE:** Bank of America Cybersecurity Analyst — Dallas Metro TX, good secondary cyber consulting option.
+6. **SKIP:** Snowflake (deadline closed), HashiCorp (Go gap), Tesla AI Inference (PyTorch gap).
+
+_v8 scan ran 2026-04-08. Companies scanned: 20+. New listings found: 13 added to pipeline. Evaluated (≥4.0): 2 full reports (279, 280). Scan history total: 703+ entries._
+
+---
+
 # Portal Scan — 2026-04-08 (Autonomous Agent Run — v7)
 
 ## v7 Scan — New Listings Found
