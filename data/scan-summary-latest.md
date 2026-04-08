@@ -1,24 +1,47 @@
-# Portal Scan — 2026-04-08
+# Portal Scan — 2026-04-08 (Autonomous Agent Run)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
-Portals/queries executed: 45+ (Greenhouse APIs, Ashby portals, WebSearch queries)
-New listings found (before filter): 90+
-Filtered by title: 15 new relevant listings (after deduplication against 530-entry scan history)
-Duplicates skipped: 75+ (comprehensive 4/5 and 4/7 scans already captured most)
-New added to pipeline: 15 (10 earlier batch + 5 second pass)
+**Note:** This file was updated by the autonomous scanning agent. Previous scan results from earlier today are preserved below in "Prior Scan Results."
+
+Portals/queries executed: 70+ (Greenhouse APIs, Ashby portals, Lever, WebSearch queries)
+New listings found (this agent run): 55+
+Evaluated with reports: 4
+New added to pipeline: 44 (plus 4 evaluated)
+Scan history total: ~593 entries
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Date | 2026-04-08 |
-| Portals scanned | 45+ companies + 10 WebSearch queries |
-| Total listings checked | 250+ |
-| Already in pipeline/history | 235+ |
-| New listings found | 15 |
-| High-priority (score ≥ 4.0) | 0 new (all prior top picks already in pipeline) |
-| Borderline (score 3.7–3.9) | 3 |
+| Date | 2026-04-08 (autonomous agent) |
+| Portals scanned | 25+ companies direct + WebSearch discovery |
+| Total new listings found | 55 |
+| Evaluated (score ≥ 4.0) | 4 (with full reports) |
+| Reports written | 001-004 |
+| High-priority (score ≥ 4.5) | 2 (Palantir FDSE, OpenAI Applied Emerging Talent) |
 
 ---
+
+## Top Matches — This Agent Run (Score ≥ 4.0)
+
+| # | Company | Role | Score | Report | Notes |
+|---|---------|------|-------|--------|-------|
+| 001 | Palantir | FDSE Internship - Commercial | **4.5** | [001](reports/001-palantir-fdse-intern-2026-04-08.md) | $10K/mo, NYC hybrid. Finch = FDSE proof. APPLY TODAY. |
+| 002 | OpenAI | SWE Intern, Applied Emerging Talent (Fall 2026) | **4.5** | [002](reports/002-openai-applied-emerging-talent-2026-04-08.md) | $60/hr, 15wk, SF. Multi-model AI pipeline = direct match. |
+| 003 | Cloudflare | SWE Intern (Summer 2026) - Austin, TX | **4.3** | [003](reports/003-cloudflare-swe-intern-austin-2026-04-08.md) | Austin (2.5hr from College Station). Already built on Cloudflare Workers. |
+| 004 | Anthropic | AI Security Fellow (July 2026) | **4.0** | [004](reports/004-anthropic-ai-security-fellow-2026-04-08.md) | $3,850/wk + $15K compute. ⚠️ Apply via Constellation NOT Greenhouse. |
+
+## Next Actions (Priority Order — This Run)
+
+1. **TODAY:** Apply Palantir FDSE Commercial → https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636
+2. **TODAY:** Apply OpenAI Applied Emerging Talent Fall 2026 → https://jobs.ashbyhq.com/openai/1f3353ed-78eb-4a01-b783-c44b1c086711
+3. **THIS WEEK:** Apply Cloudflare Austin + build fast-track Cloudflare AI assignment → https://job-boards.greenhouse.io/cloudflare/jobs/7206269
+4. **THIS WEEK:** Apply Anthropic AI Security Fellow via **Constellation** (NOT Greenhouse)
+5. **THIS WEEK:** Apply Palantir FDSE US Gov, SWE Intern tracks
+6. **VERIFY:** Confirm graduation date — Palantir internships require "graduating 2026 or 2027"
+
+---
+
+## Prior Scan Results (Earlier Today)
 
 ## New Listings Added to Pipeline
 

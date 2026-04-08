@@ -2,6 +2,52 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-08 SCAN === -->
+- [x] https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636 | Palantir | Forward Deployed Software Engineer, Internship - Commercial ⭐ EVALUATED 4.5
+- [x] https://jobs.ashbyhq.com/openai/1f3353ed-78eb-4a01-b783-c44b1c086711 | OpenAI | Software Engineer Internship, Applied Emerging Talent (Fall 2026) ⭐ EVALUATED 4.5
+- [x] https://job-boards.greenhouse.io/cloudflare/jobs/7206269 | Cloudflare | Software Engineer Intern (Summer 2026) - Austin, TX ⭐ EVALUATED 4.3
+- [x] https://job-boards.greenhouse.io/anthropic/jobs/5030244008 | Anthropic | AI Security Fellow (July 2026) ⭐ EVALUATED 4.0
+- [ ] https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e | Palantir | Forward Deployed Software Engineer, Internship - US Government
+- [ ] https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c | Palantir | Software Engineer, Internship
+- [ ] https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1 | Palantir | Software Engineer, Internship - Production Infrastructure
+- [ ] https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7 | Palantir | Software Engineer, Internship - Defense Tech
+- [ ] https://jobs.lever.co/palantir/030ece08-c341-4959-bdfe-314e89b691ce | Palantir | Year at Palantir, Internship (FDSE 12-month)
+- [ ] https://jobs.lever.co/palantir/c3cc61e8-5ce8-4152-a26a-dd8ad36007ef | Palantir | Forward Deployed Software Engineer, Internship
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7774167 | Cloudflare | Software Engineer Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7582169 | Cloudflare | Security Engineer Intern (Summer 2026) - London
+- [ ] https://jobs.ashbyhq.com/cohere/66c98ca3-334b-4a6a-a27c-5807b3686121 | Cohere | Software Engineer Intern (Spring/Summer 2026)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4595665005 | Glean | Software Engineer Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/5012785007 | Together AI | Security Engineer Intern (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/notion/5bc8cbb9-4d08-4217-a968-d485d1b39905 | Notion | Software Engineer, AI Intern (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/notion/23ac2477-0008-4bed-b1c1-81f90a32e9e6 | Notion | Software Engineer Intern (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90 | Notion | Software Engineer Intern (Fall 2026)
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7528020003 | Affirm | Software Engineering Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/5817107004 | Mercury | Software Engineering Intern - AI Enablement (Fall 2026)
+- [ ] https://job-boards.greenhouse.io/obsidiansecurity/jobs/4788725008 | Obsidian Security | Software Engineer Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/gemini/jobs/7360337 | Gemini | Security Engineering Intern (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/whatnot/8250532f-4bfd-4ee5-a041-4a2e54047cf7 | Whatnot | Software Engineer Intern (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/zip/d404b517-9b02-4206-b49e-5c2986603baa | Zip | Software Engineer Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5023394008 | Anthropic | AI Safety Fellow
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5123742008 | Anthropic | Analyst, The Anthropic Institute
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5156057008 | Anthropic | Data Engineer, Safeguards
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5704320004 | Vercel | Software Engineer, Agent
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5778418004 | Vercel | Forward-Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5530586004 | Vercel | Developer Success Engineer
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5796302004 | Vercel | Solutions Architect
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5804110004 | Vercel | Solutions Architect
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4659412005 | Glean | Founding Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4651990005 | Glean | Founding Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4651991005 | Glean | Founding Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4612849005 | Glean | Application Security Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4630926005 | Glean | Cloud Security Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4012745005 | Glean | Software Engineer, Machine Learning
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5792327004 | Arize AI | AI Sales Engineer (US)
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5781408004 | Arize AI | AI Solutions Engineer, EMEA
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5396396004 | Arize AI | Senior AI Product Engineer, Backend
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5396420004 | Arize AI | Senior AI Product Engineer, Fullstack
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7556413 | Intercom | Forward Deployed Software Engineer
+<!-- === END 2026-04-08 SCAN ===  -->
+
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/4502508008 | Anthropic | Application Security Engineer
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5055488008 | Anthropic | Applied AI Engineer
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5014500008 | Anthropic | Applied AI Engineer
