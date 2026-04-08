@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 298 | 2026-04-08 | Haize Labs | Software Engineer Intern | 4.7/5 | Evaluada | ❌ | [272](reports/272-haizelabs-swe-intern-2026-04-08.md) | ⭐ APPLY NOW — adversarial LLM testing + co-founder profile = perfect match, $100-125K annualized NYC |
 | 294 | 2026-04-07 | Stripe | Software Engineer Intern (Summer 2026) | 4.5/5 | Evaluada | ❌ | [268](reports/268-stripe-swe-intern-2026-04-07.md) | Top comp $61.75/hr, backend+security match, SF/NYC, apply ASAP |
 | 295 | 2026-04-07 | SpaceX | Software Engineering Internship/Co-op (Summer 2026) | 4.3/5 | Evaluada | ❌ | [269](reports/269-spacex-swe-intern-2026-04-07.md) | Systems depth match, carlosOS differentiator, TX locations accessible, $36-40/hr |
 | 297 | 2026-04-07 | Microsoft | Software Engineering Intern (Summer 2026) | 4.1/5 | Evaluada | ❌ | [271](reports/271-microsoft-swe-intern-2026-04-07.md) | FAANG tier, target IDNA/Azure AI teams, $55-65/hr, Redmond WA |

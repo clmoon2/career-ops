@@ -2,6 +2,14 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-08 SCAN v2 === -->
+- [ ] https://job-boards.greenhouse.io/haizelabs/jobs/4685944008 | Haize Labs | Software Engineer Intern (AI Safety/LLM Testing) ⭐ HIGH PRIORITY
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7582150 | Cloudflare | Security Engineer Intern (Summer 2026) - Austin TX ⭐ HIGH PRIORITY
+- [ ] https://jobs.lever.co/palantir/bc5c4098-07d5-49ed-a398-a27e6191aa30 | Palantir | Software Engineer, Internship - Production Infrastructure
+- [ ] https://jobs.ashbyhq.com/openai/13a9e4e4-505b-4545-8b2b-b0bcc09c2b4f | OpenAI | Software Engineer Systems Research Internship (PhD focused - verify fit)
+- [ ] https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f | Palantir | Forward Deployed Software Engineer, Internship - France
+<!-- === END 2026-04-08 SCAN v2 === -->
+
 <!-- === NEW 2026-04-08 SCAN === -->
 - [x] https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636 | Palantir | Forward Deployed Software Engineer, Internship - Commercial ⭐ EVALUATED 4.5
 - [x] https://jobs.ashbyhq.com/openai/1f3353ed-78eb-4a01-b783-c44b1c086711 | OpenAI | Software Engineer Internship, Applied Emerging Talent (Fall 2026) ⭐ EVALUATED 4.5

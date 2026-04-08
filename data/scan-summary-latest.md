@@ -1,6 +1,24 @@
-# Portal Scan — 2026-04-08 (Autonomous Agent Run)
+# Portal Scan — 2026-04-08 (Autonomous Agent Run — Final Pass)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
-**Note:** This file was updated by the autonomous scanning agent. Previous scan results from earlier today are preserved below in "Prior Scan Results."
+**Note:** This is the final pass of the 2026-04-08 scan. New listings discovered in this run are listed first. Prior scan results follow.
+
+## Final Pass — New Listings Found (2026-04-08 Pass 2)
+
+| Company | Role | Score | Report | Notes |
+|---------|------|-------|--------|-------|
+| **Haize Labs** ⭐ | Software Engineer Intern (AI Safety/LLM) | **4.7/5** | [272](reports/272-haizelabs-swe-intern-2026-04-08.md) | Best domain match in entire history — adversarial LLM testing + co-founder profile. $100-125K annualized. NYC. **APPLY TODAY.** |
+| **Cloudflare** ⭐ | Security Engineer Intern (Summer 2026) - Austin TX | **4.4/5** | [273](reports/273-cloudflare-security-intern-2026-04-08.md) | Carlos uses CF Workers in prod. OWASP/TLS/CSRF/CSP all covered. Austin TX (1.5hrs from College Station). **Apply this week.** |
+
+### Also Added to Pipeline (Not Yet Fully Evaluated)
+- Palantir — Software Engineer, Internship - Production Infrastructure → https://jobs.lever.co/palantir/bc5c4098-07d5-49ed-a398-a27e6191aa30
+- OpenAI — Systems Research Internship (⚠️ PhD required, verify fit) → https://jobs.ashbyhq.com/openai/13a9e4e4-505b-4545-8b2b-b0bcc09c2b4f
+
+### Confirmed Closed (Removed from Queue)
+Samsung GenAI/LLM Intern, Rockstar Games AppSec Intern (x2), Benchling New Grad, Rocket Lab Security Analyst — all 404/inactive.
+
+---
+
+**Note:** This file was updated by the autonomous scanning agent. Previous scan results from earlier today are preserved below.
 
 Portals/queries executed: 70+ (Greenhouse APIs, Ashby portals, Lever, WebSearch queries)
 New listings found (this agent run): 55+
