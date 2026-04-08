@@ -1,3 +1,47 @@
+# Portal Scan — 2026-04-08 (Autonomous Agent Run — v7)
+
+## v7 Scan — New Listings Found
+
+**Focus:** Companies not yet covered by v1-v6 — new-to-scan Greenhouse APIs (Stripe, Datadog, Block, Discord, Robinhood, MongoDB, Samsara, Brex) + targeted WebSearch (Amazon Security, CrowdStrike, Jane Street, Citadel, Duolingo, Waymo, Splunk) + portals.yml completion (Parloa, LivePerson).
+
+| Company | Role | Score | Report | Notes |
+|---------|------|-------|--------|-------|
+| **Amazon** ⭐ | Security Engineer Summer Internship 2026 | **4.0/5** | [279](reports/279-amazon-security-engineer-intern-2026-04-08.md) | $60-102/hr. HMAC/TLS/OAuth/LLM adversarial testing = direct match. Austin TX option. **Apply within 7 days.** |
+| CrowdStrike | Software Engineer Intern - Summer 2026 | ~3.8 | — | Workday ATS. Sunnyvale CA or Redmond WA (on-site). Python/C/C++/Go. Graduating Dec 2026-Aug 2027 ✓ |
+| Duolingo | Software Engineer Intern - Summer 2026 | ~3.6 | — | Greenhouse. Pittsburgh PA (in-person). $50-52/hr. Python/React match. Needs relocation. |
+| Waymo | Software Engineer Intern Summer 2026 | ~3.5 | — | Greenhouse. Mountain View CA hybrid. $70/hr. Multiple tracks (Positioning/Simulation). Niche domain. |
+| Jane Street | Software Engineer Intern 2026 | ~3.2 | — | Greenhouse. NYC. OCaml primary — skill gap. Very competitive. Quant trading project helps. Low priority. |
+| Citadel | Software Engineer Intern 2026 | ~3.0 | — | Own portal (citadel.com). NYC/Houston/Miami. $4,300-4,800/wk moonshot. C++/finance bar very high. |
+| Splunk/Cisco | Solutions Engineer Intern Summer 2026 | ~3.3 | — | Cisco careers portal. Remote or San Jose CA. $17-26/hr (low). Security-adjacent SE role. |
+
+## Companies Scanned — No New Intern Roles (v7)
+
+| Company | Reason |
+|---------|--------|
+| Stripe | No US intern/new-grad SWE roles (Greenhouse API — 495 jobs, all senior) |
+| Datadog | No SWE intern roles (Greenhouse — 428 jobs, "Associate" = full-time entry level only) |
+| Block | No intern/new-grad roles (Greenhouse — 58 jobs, all senior) |
+| Discord | No intern/new-grad roles (Greenhouse — 85 jobs) |
+| Robinhood | No intern/new-grad roles (Greenhouse — 141 jobs) |
+| Brex | No intern/new-grad roles (Greenhouse — 178 jobs) |
+| MongoDB | Program Mgmt intern only (NYC) — not SWE. Skipped. |
+| Samsara | ADR new grad (sales) + Firmware Co-op — both filtered by title |
+| Two Sigma | Application deadline passed (March 31, 2026) |
+| Zoom | SWE intern listing 404/closed |
+| Parloa | EU/EMEA focus — no US intern roles (portals.yml completion) |
+| LivePerson | EMEA focus — no US intern roles (portals.yml completion) |
+
+## v7 Recommended Next Actions
+
+1. **APPLY NOW:** Amazon Security Engineer Intern [279](reports/279-amazon-security-engineer-intern-2026-04-08.md) — rolling deadline, apply within 7 days. Tailor CV with security proof points leading. List Austin TX as preferred location.
+2. **APPLY THIS WEEK:** CrowdStrike SWE Intern — verify Workday listing still open, then apply. Python/C stack matches. Frame carlosOS + adversarial LLM testing for security company.
+3. **PIPELINE (medium priority):** Duolingo SWE Intern (Pittsburgh PA) — good company, $50-52/hr, Python match. Evaluate if open to relocation.
+4. **SKIP:** Jane Street (OCaml skill gap), Citadel (C++/algo bar), Two Sigma (deadline passed).
+
+_v7 scan ran 2026-04-08. New companies checked: 20+. New listings added: 7 (1 evaluated ≥4.0, 6 in pipeline). Total scan history: 682 entries._
+
+---
+
 # Portal Scan — 2026-04-08 (Autonomous Agent Run — v6)
 
 ## v6 Scan — New Listings Found

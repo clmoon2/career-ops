@@ -2,6 +2,16 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-08 SCAN v7 (Autonomous Agent) === -->
+- [x] https://www.amazon.jobs/en/jobs/3129837/security-engineer-summer-internship-2026 | Amazon | Security Engineer Summer Internship 2026 ⭐ EVALUATED 4.0
+- [ ] https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer-Intern---Summer-2026_R26636 | CrowdStrike | Software Engineer Intern - Summer 2026 (Sunnyvale CA or Redmond WA)
+- [ ] https://job-boards.greenhouse.io/duolingo/jobs/6906928002 | Duolingo | Software Engineer Intern - Summer 2026 (Pittsburgh PA, in-person, $50-52/hr)
+- [ ] https://job-boards.greenhouse.io/janestreet/jobs/8160791002 | Jane Street | Software Engineer Intern - Summer 2026 (NYC — OCaml, very competitive)
+- [ ] https://www.citadel.com/careers/details/software-engineer-intern-us/ | Citadel | Software Engineer Intern 2026 (NYC/Houston/Miami — $4,300-4,800/wk, moonshot)
+- [ ] https://job-boards.greenhouse.io/waymo/jobs/7340138 | Waymo | Software Engineer Intern Summer 2026 (Mountain View CA, hybrid, $70/hr)
+- [ ] https://careers.cisco.com/global/en/job/CISCISGLOBAL2007121EXTERNALENGLOBAL/Splunk-Solutions-Engineer-Intern-Summer-2026 | Splunk/Cisco | Solutions Engineer Intern Summer 2026 (Remote or San Jose CA, $17-26/hr)
+<!-- === END 2026-04-08 SCAN v7 === -->
+
 <!-- === NEW 2026-04-08 SCAN v6 (Autonomous Agent) === -->
 - [ ] https://job-boards.greenhouse.io/semgrep/jobs/4842323007 | Semgrep | Software Engineer Intern, Cloud Platform (Summer 2026) ⭐ EVALUATED 4.3
 - [ ] https://job-boards.greenhouse.io/semgrep/jobs/4842341007 | Semgrep | Software Engineer Intern, Program Analysis (Summer 2026) ⭐ EVALUATED 4.1
