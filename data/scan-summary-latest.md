@@ -1,89 +1,113 @@
-# Portal Scan — 2026-04-07 (Extended Sweep)
+# Portal Scan — 2026-04-08
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-**Date:** 2026-04-07
-**Session:** Autonomous scan agent — extended sweep covering companies missed in prior runs
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## Scan Stats
+## Overview
 
 | Metric | Count |
 |--------|-------|
-| Companies / portals scanned this session | 25+ additional |
-| New listings found | 28 |
-| Filtered (title mismatch / senior-only) | 5 |
-| Duplicates (already evaluated or in pipeline) | 3 |
-| **New added to pipeline.md** | **16** |
-| **Evaluated with full report** | **6** |
+| Portals / APIs queried | 35+ |
+| Companies checked | 60+ |
+| Unique URLs evaluated | ~100 |
+| Filtered by title (skipped) | 16 |
+| Duplicates (already in pipeline/history) | 72+ |
+| **New listings added to pipeline** | **12** |
+
+**Note:** The 2026-04-07 scan was highly comprehensive (479 entries). Today's scan focused on companies not covered yesterday and newly posted roles.
 
 ---
 
-## Top Matches (Score ≥ 4.0) — Full Reports Written
+## New Listings Added (2026-04-08)
 
-| Tracker # | Company | Role | Score | Report |
-|-----------|---------|------|-------|--------|
-| 293 | **Palantir** | Forward Deployed Software Engineer, New Grad (Commercial) | **4.7/5** | [267](reports/267-palantir-fdse-newgrad-commercial-2026-04-07.md) |
-| 294 | **Stripe** | Software Engineer Intern (Summer 2026) | **4.5/5** | [268](reports/268-stripe-swe-intern-2026-04-07.md) |
-| 295 | **SpaceX** | Software Engineering Internship/Co-op (Summer 2026) | **4.3/5** | [269](reports/269-spacex-swe-intern-2026-04-07.md) |
-| 296 | **Cloudflare** | Red Team Security Intern (Summer 2026) | **4.2/5** | [270](reports/270-cloudflare-redteam-intern-2026-04-07.md) |
-| 297 | **Microsoft** | Software Engineering Intern (Summer 2026) | **4.1/5** | [271](reports/271-microsoft-swe-intern-2026-04-07.md) |
-| 298 | **Palantir** | Forward Deployed Software Engineer, New Grad (US Government) | **4.1/5** | [272](reports/272-palantir-fdse-newgrad-usgov-2026-04-07.md) |
+### SWE / New Grad
+| Company | Role | URL |
+|---------|------|-----|
+| Scale AI | Software Engineer - New Grad | https://job-boards.greenhouse.io/scaleai/jobs/4605996005 |
+| Cockroach Labs | Engineering Internships 2026 | https://www.cockroachlabs.com/careers/job/?gh_jid=6291435 |
+| Cockroach Labs | Member of Technical Staff (Early Career) | https://www.cockroachlabs.com/careers/job/?gh_jid=7560119 |
+| Roblox | Summer 2026 SWE - Community Apprenticeship | https://careers.roblox.com/jobs/7654991 |
+| IXL Learning | Software Engineer - Intern (San Mateo) | https://www.ixl.com/company/jobs?gh_jid=8486939002 |
 
----
+### AI/ML
+| Company | Role | URL |
+|---------|------|-----|
+| Typeface | ML Engineer Intern | https://job-boards.greenhouse.io/typeface/jobs/4986825007 |
+| Attentive | AI Intern | https://job-boards.greenhouse.io/attentive/jobs/4209296009 |
+| Okta | Software Engineer AI Intern (Summer 2026) | https://www.okta.com/company/careers/business-technology/software-engineer-ai-intern-summer-2026-7547852/ |
+| Point72 | 2026 AI Intern, Long/Short Equities | https://job-boards.greenhouse.io/point72/jobs/8486146002 |
 
-## New to Pipeline (Pending Evaluation)
-
-| Company | Role | Notes |
-|---------|------|-------|
-| Anduril Industries | SWE Intern (Summer 2026) | Defense tech, systems depth, ~3.9/5 est |
-| Zeta Global | AI Engineer Intern - Core AI | SF hybrid, $23/hr, AI/ML pipeline work |
-| Veeam | AI Intern, Veeam Data Cloud | Remote US, backup/recovery AI, 10 weeks |
-| Audax Group | Summer AI Engineer Intern | Boston MA, private equity AI adoption |
-| Palantir | SWE New Grad - US Government | Complement to FDE tracks already evaluated |
-| PwC | Cybersecurity Consulting Intern (Summer 2026) | Big 4 consulting, cyber/privacy advisory |
-| Goldman Sachs | 2026 Engineering Summer Analyst | Finance infra, Dallas TX office |
-| MEMX | Information Security Intern, Spring 2026 | Part-time spring, NYC hybrid |
-| Booz Allen Hamilton | Summer Games Cybersecurity Intern 2026 | 10-week intensive, different from prior eval |
-| MITRE | CS/Software Engineering Intern | McLean VA, national security |
-| MITRE | Cybersecurity and Information Security Intern | McLean VA, security clearance track |
-| Cloudflare | SWE Intern (Winter/Spring 2026) | Non-summer cycle |
-| Pure Storage | SWE Intern (Summer 2026) | Storage infra, Palo Alto |
-| Klaviyo | Machine Learning Engineer Intern | Email/SMS AI, ML systems |
-| Robinhood | Security Risk Management Intern | Fintech security, Menlo Park CA |
-| StackAdapt | SWE Intern Spring/Summer 2026 | Adtech, full-stack |
+### Consulting / Solutions
+| Company | Role | URL |
+|---------|------|-----|
+| Typeface | Solutions Architect Intern | https://job-boards.greenhouse.io/typeface/jobs/5099650007 |
+| EY | Technology Risk Internship - Summer 2026 | https://job-boards.greenhouse.io/ripplematchinterns/jobs/8017685002 |
+| Point72 | 2026 Technology Internship - Full Stack | https://job-boards.greenhouse.io/point72/jobs/8465224002 |
 
 ---
 
-## Skipped / Not Added
+## Top Matches (Estimated Score >= 4.0)
 
-| Company | Reason |
-|---------|--------|
-| Retool | Senior roles only (3-8 YOE required) |
-| Speechmatics | Senior/mid-level, Cambridge UK focus |
-| Cognigy | No intern/new grad roles, EMEA-focused |
-| Samsung Research America | Master's/PhD required |
-| Amazon SDE Intern | Already evaluated 2026-04-05 (4.5/5, report 232) |
-| Palantir FDE New Grad (generic) | Duplicate of Commercial/US Gov tracks |
-| Langfuse | Senior only (Backend, Frontend, GTM) |
-| n8n, Zapier, Attio, TravelPerk | No intern/new grad matching roles |
+These new listings are most likely to score highly based on Carlos's profile:
 
----
+1. **Scale AI - Software Engineer, New Grad** (est. 4.5/5)
+   Scale AI builds data infrastructure for AI. Carlos's multi-model AI pipeline (5 LLM providers, $0.003/application), 35K-line production backend, and 602-test suite align perfectly. Rolling new grad hiring -- evaluate ASAP.
 
-## Immediate Action Items
+2. **Cockroach Labs - Engineering Internships 2026** (est. 4.0/5)
+   Distributed systems / database infrastructure. Carlos's carlosOS (custom x86 OS from scratch), PostgreSQL admission control with PL/pgSQL, and blue/green CI/CD map directly.
 
-1. **APPLY NOW:** Palantir FDSE Commercial (4.7/5) → highest priority this cycle
-2. **APPLY NOW:** Stripe SWE Intern (4.5/5) → top comp $61.75/hr, backend+security fit
-3. **APPLY NOW:** SpaceX SWE Intern (4.3/5) → Bastrop/Starbase TX locations, carlosOS differentiator
-4. **APPLY NOW:** Cloudflare Red Team Intern (4.2/5) → Austin TX, adversarial security match
-5. **This week:** Microsoft SWE Intern (4.1/5), Palantir FDSE US Gov (4.1/5)
-6. Run `/career-ops pipeline` to evaluate 16 pending listings
+3. **Typeface - ML Engineer Intern** (est. 4.0/5)
+   AI content generation startup. Carlos's LangChain, multi-model pipeline (Claude/DeepSeek/GPT-4o/Gemini), and AI architecture experience are direct matches.
+
+4. **Okta - Software Engineer AI Intern (Summer 2026)** (est. 4.0/5)
+   Identity security + AI. Carlos's security depth (HMAC-SHA256 CSRF, OAuth proxy, TLS 1.2/1.3, CSP) plus AI pipeline work make this a strong two-dimensional fit.
+
+5. **Attentive - AI Intern** (est. 3.8/5)
+   Marketing AI platform. Carlos's production AI pipeline and full-stack skills are relevant. Worth evaluating for scope.
+
+6. **Point72 - 2026 AI Intern, Long/Short Equities** (est. 3.5/5)
+   Quant hedge fund AI. Carlos's quantitative trading system (Sharpe 1.79, 4 strategies, Bloomberg + Alpaca) is a differentiator for this niche role.
 
 ---
 
-## Next Scan Recommendation
+## Companies Checked Today (No New Listings)
 
-Run in 3–5 days. Priority re-checks:
-- Anthropic (Applied AI/FDE roles added frequently)
-- Glean (new intern rounds)
-- OpenAI (fall intern cycle)
-- Cloudflare (additional intern tracks)
+These companies were fully scanned but had no new qualifying listings:
+
+- PolyAI (all senior UK/Serbia roles, no intern/new grad)
+- Temporal (0 open positions)
+- n8n (all senior, no intern/new grad)
+- Zapier (all senior roles)
+- Attio (senior EU-based only)
+- TravelPerk (no matching roles)
+- Tinybird (JS-only page, not parseable)
+- Gallup (Security intern was Omaha NE only -- already logged as skipped)
+- Databricks API (no intern roles returned)
+- Anthropic / Glean / Vercel (no new roles since 2026-04-07 scan)
+
+---
+
+## Pipeline Status
+
+**Total pending in pipeline:** ~395 URLs
+**Added today (2026-04-08):** 12
+**Previously added (2026-04-05 + 2026-04-07):** ~383
+
+---
+
+## Recommended Next Actions
+
+1. **Evaluate immediately:** Scale AI New Grad, Okta AI Intern, Typeface ML Intern
+2. **Run `/career-ops pipeline`** to process pending URLs from all three scans
+3. Pipeline has ~395 items -- use `/career-ops batch` for bulk processing
+4. **Priority evaluation queue:**
+   - Scale AI SWE New Grad
+   - Cockroach Labs Engineering Internships 2026
+   - Okta Software Engineer AI Intern
+   - Typeface ML Engineer Intern
+   - Attentive AI Intern
+   - Point72 AI Intern (quant trading angle)
+5. **Next scan recommended:** 2026-04-11 (3 days)
+
+---
+
+*Scan method: Greenhouse API (Level 2) + WebSearch site: queries (Level 3). Playwright not available in agent mode.*

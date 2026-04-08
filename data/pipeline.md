@@ -379,3 +379,15 @@
 - [ ] https://job-boards.greenhouse.io/purestorage/jobs/7258723 | Pure Storage | Software Engineer Intern (Summer 2026)
 - [ ] https://job-boards.greenhouse.io/klaviyocampus/jobs/7418443003 | Klaviyo | Machine Learning Engineer Intern (Summer 2026)
 - [ ] https://job-boards.greenhouse.io/robinhood/jobs/7161061 | Robinhood | Security Risk Management Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/typeface/jobs/4986825007 | Typeface | ML Engineer Intern
+- [ ] https://job-boards.greenhouse.io/typeface/jobs/5099650007 | Typeface | Solutions Architect Intern
+- [ ] https://www.cockroachlabs.com/careers/job/?gh_jid=6291435 | Cockroach Labs | Engineering Internships 2026
+- [ ] https://www.cockroachlabs.com/careers/job/?gh_jid=7560119 | Cockroach Labs | Member of Technical Staff (Early Career - Developer Infrastructure)
+- [ ] https://job-boards.greenhouse.io/attentive/jobs/4209296009 | Attentive | AI Intern
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4605996005 | Scale AI | Software Engineer - New Grad
+- [ ] https://careers.roblox.com/jobs/7654991 | Roblox | Summer 2026 Software Engineer - Community Apprenticeship
+- [ ] https://www.ixl.com/company/jobs?gh_jid=8486939002 | IXL Learning | Software Engineer - Intern (San Mateo)
+- [ ] https://job-boards.greenhouse.io/ripplematchinterns/jobs/8017685002 | EY | Technology Risk Internship - Summer 2026
+- [ ] https://www.okta.com/company/careers/business-technology/software-engineer-ai-intern-summer-2026-7547852/ | Okta | Software Engineer AI Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/point72/jobs/8486146002 | Point72 | 2026 AI Intern, Long/Short Equities
+- [ ] https://job-boards.greenhouse.io/point72/jobs/8465224002 | Point72 | 2026 Technology Internship - UI/UX Engineer (Full Stack)
