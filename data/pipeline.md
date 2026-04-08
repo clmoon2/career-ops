@@ -2,6 +2,30 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-08 SCAN v6 (Autonomous Agent) === -->
+- [ ] https://job-boards.greenhouse.io/semgrep/jobs/4842323007 | Semgrep | Software Engineer Intern, Cloud Platform (Summer 2026) ⭐ EVALUATED 4.3
+- [ ] https://job-boards.greenhouse.io/semgrep/jobs/4842341007 | Semgrep | Software Engineer Intern, Program Analysis (Summer 2026) ⭐ EVALUATED 4.1
+- [ ] https://job-boards.greenhouse.io/harmonic/jobs/4591178005 | Harmonic | Software Engineer Intern (Summer '26) ⭐ EVALUATED 4.0 — verify deadline
+- [ ] https://job-boards.greenhouse.io/lyft/jobs/8149370002 | Lyft | Software Engineer Intern, Backend (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/lyft/jobs/8168699002 | Lyft | Software Engineer Intern, Machine Learning (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/4830901007 | Anduril Industries | Software Engineer Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/4824364007 | Anduril Industries | Early Career Software Engineer (New Grad 2026)
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5050193007 | Anduril Industries | Early Career SWE, Connected Warfare (New Grad 2026)
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5051227007 | Anduril Industries | Early Career SWE, Mixed Reality (New Grad 2026)
+- [ ] https://job-boards.greenhouse.io/ripple/jobs/7469777 | Ripple | Software Engineer Intern (Summer 2026)
+- [ ] https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Software-Engineering_JR2003206 | Nvidia | 2026 Internships: Software Engineering
+- [ ] https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Deep-Learning_JR2003208 | Nvidia | 2026 Internships: Deep Learning
+- [ ] https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Agentic-AI-and-Deep-Learning-Developer-Intern---Summer-2026_JR2008503 | Nvidia | Agentic AI Solution Engineering Intern (Summer 2026)
+- [ ] https://www.google.com/about/careers/applications/jobs/results/116505799294886598-software-engineering-intern-summer-2026 | Google | Software Engineering Intern, Summer 2026 (BS level) — deadline Apr 23
+- [ ] https://www.metacareers.com/careerprograms/students | Meta | Software Engineer Intern, Summer 2026 — verify deadline
+- [ ] https://jobs.apple.com/en-us/details/200606145/software-engineering-internships | Apple | Software Engineering Internships (Summer 2026)
+- [ ] https://careers.airbnb.com/positions/7453837/ | Airbnb | Software Engineering Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/cerebras/earlytalentcerebras/jobs/7621006003 | Cerebras | Software Engineer Internship - Sunnyvale (Summer 2026)
+- [ ] https://apply.workable.com/huggingface/j/D04BE4F4A3 | Hugging Face | Machine Learning Engineer Internship, WebML (US Remote)
+- [ ] https://jobs.paloaltonetworks.com/en/category/internships-jobs/47263/8829856/1 | Palo Alto Networks | Software Engineer Intern (Summer 2026) — verify open
+- [ ] https://harmonic.ai OR https://job-boards.greenhouse.io/harmonic/jobs/4660951005 | Harmonic | Solutions Engineer, New Grad (Class of 2026)
+<!-- === END 2026-04-08 SCAN v6 === -->
+
 <!-- === NEW 2026-04-08 SCAN v5 (Autonomous Agent — Final) === -->
 - [x] https://jobs.ashbyhq.com/Sierra/8bb2509d-9215-4cb5-8cf1-2bf0dbade6d8 | Sierra | Intern, Agent Development (Summer 2026) ⭐ EVALUATED 4.3
 - [x] https://jobs.ashbyhq.com/1password/44426502-60f1-4639-b662-f48779861ac1 | 1Password | Developer Intern, Data Security (Summer 2026) ⭐ EVALUATED 4.0

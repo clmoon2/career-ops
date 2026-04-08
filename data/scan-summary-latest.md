@@ -1,3 +1,40 @@
+# Portal Scan — 2026-04-08 (Autonomous Agent Run — v6)
+
+## v6 Scan — New Listings Found
+
+| Company | Role | Score Est. | Notes |
+|---------|------|------------|-------|
+| **Semgrep** ⭐ | Software Engineer Intern, Cloud Platform (Summer 2026) | **4.3/5** | AppSec tooling leader; AWS+security+Python match; $2,400/wk; SF 5d/wk in-person |
+| **Semgrep** ⭐ | Software Engineer Intern, Program Analysis (Summer 2026) | **4.1/5** | Static analysis/security; carlosOS systems depth differentiates; Rust+Python |
+| **Harmonic** ⭐ | Software Engineer Intern (Summer '26) | **4.0/5** | VC startup discovery; LLM+Python+TypeScript direct match; NYC; verify deadline |
+| Lyft | Software Engineer Intern, Backend (Summer 2026) | ~3.8 | Greenhouse; SF; verify open |
+| Lyft | Software Engineer Intern, ML (Summer 2026) | ~3.6 | Greenhouse; SF |
+| Anduril Industries | Software Engineer Intern (Summer 2026) | ~3.8 | Defense tech; US person req; C++/Go/Rust/Python |
+| Anduril Industries | Early Career SWE (New Grad 2026) | ~3.7 | 0-2 yr, US person req; multiple locations |
+| Anduril Industries | Early Career SWE, Connected Warfare (New Grad) | ~3.6 | Full stack; 0-2 yr |
+| Ripple | Software Engineer Intern (Summer 2026) | ~3.5 | Crypto payments; Python/Go/k8s; blockchain-adjacent (title OK) |
+| Nvidia | 2026 Internships: Software Engineering | ~3.8 | Workday portal; broad application |
+| Nvidia | 2026 Internships: Deep Learning | ~4.0 | Direct AI/ML match; Workday |
+| Nvidia | Agentic AI Solution Engineering Intern (Summer 2026) | ~4.2 | Multi-modal agentic AI; NVIDIA software stack; strong match |
+| Google | Software Engineering Intern, Summer 2026 (BS) | ~3.8 | FAANG; deadline Apr 23; careers.google.com |
+| Meta | Software Engineer Intern, Summer 2026 | ~3.7 | FAANG; verify deadline; metacareers.com |
+| Apple | Software Engineering Internships (Summer 2026) | ~3.6 | FAANG; jobs.apple.com |
+| Airbnb | Software Engineering Intern (Summer 2026) | ~3.8 | careers.airbnb.com; San Francisco |
+| Cerebras | Software Engineer Internship - Sunnyvale | ~3.7 | AI chip company; SV in-person |
+| Hugging Face | ML Engineer Internship, WebML (US Remote) | ~3.9 | Remote; ML/Python; transformers stack |
+| Palo Alto Networks | Software Engineer Intern (Summer 2026) | ~3.7 | Security leader; verify on jobs.paloaltonetworks.com |
+| Harmonic | Solutions Engineer, New Grad (Class of 2026) | ~3.5 | SE role vs SWE; NYC |
+
+## Companies with No New Relevant Listings (v6)
+Cursor AI (no intern roles), Groq (Winter 2026 only, Summer closed), Modal (no intern roles), Perplexity AI (UK program only — not eligible), Pika Labs (no intern roles), SentinelOne (not on Ashby/Greenhouse), Snyk (not on Ashby/Greenhouse), Wiz (NJ only, not on main ATS), Netflix (deadline Oct 31, 2025 — closed), Uber (apps opened Sep 2025 — likely closed)
+
+## Companies Scanned (v6)
+Google, Meta, Apple, Netflix, Nvidia, Perplexity AI, Cursor AI, Groq, Cerebras, Hugging Face, GitHub (Microsoft), Uber, Lyft, Airbnb, LinkedIn, Palo Alto Networks, SentinelOne, Tenable, Rapid7, HackerOne, CyberArk, Wiz, Lacework, Orca Security, Snyk, Modal, Replicate, Baseten, Semgrep, Harmonic, Ripple, Anduril Industries, Pika Labs, Runway ML, Midjourney
+
+_v6 scan ran 2026-04-08. Queries executed: 40+. New listings found: 21 added to pipeline. Evaluated: 3 full reports (276, 277, 278). Top picks: Semgrep Cloud Platform (4.3), Semgrep Program Analysis (4.1), Nvidia Agentic AI Intern (4.2 est.), Harmonic (4.0)._
+
+---
+
 # Portal Scan — 2026-04-08 (Autonomous Agent Run — v5 Final)
 
 ## v5 Scan — New Listings Found (2026-04-08 Pass 5)
