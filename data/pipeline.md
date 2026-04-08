@@ -2,6 +2,13 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-08 SCAN v4 (Greenhouse API) === -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5153564008 | Anthropic | Security Labs Engineer ⭐
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5123011008 | Anthropic | Offensive Security Research Engineer, Safeguards ⭐
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5063007008 | Anthropic | Software Engineer, Cybersecurity Products
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5098025008 | Anthropic | Model Quality Software Engineer, Claude Code
+<!-- === END 2026-04-08 SCAN v4 === -->
+
 <!-- === NEW 2026-04-08 SCAN v3 === -->
 - [ ] https://jobs.ashbyhq.com/adaptivesecurity/6e9a1249-4d23-4597-8245-8a95930c6e92 | Adaptive Security | Security Intern ⭐
 - [ ] https://jobs.ashbyhq.com/GPTZero/d7e6f3ee-8446-4ac4-b1f8-e79c9876c31a | GPTZero | Machine Learning Intern
