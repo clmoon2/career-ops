@@ -1,113 +1,85 @@
 # Portal Scan — 2026-04-08
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## Summary
 
-## Overview
-
-| Metric | Count |
+| Metric | Value |
 |--------|-------|
-| Portals / APIs queried | 35+ |
-| Companies checked | 60+ |
-| Unique URLs evaluated | ~100 |
-| Filtered by title (skipped) | 16 |
-| Duplicates (already in pipeline/history) | 72+ |
-| **New listings added to pipeline** | **12** |
-
-**Note:** The 2026-04-07 scan was highly comprehensive (479 entries). Today's scan focused on companies not covered yesterday and newly posted roles.
-
----
-
-## New Listings Added (2026-04-08)
-
-### SWE / New Grad
-| Company | Role | URL |
-|---------|------|-----|
-| Scale AI | Software Engineer - New Grad | https://job-boards.greenhouse.io/scaleai/jobs/4605996005 |
-| Cockroach Labs | Engineering Internships 2026 | https://www.cockroachlabs.com/careers/job/?gh_jid=6291435 |
-| Cockroach Labs | Member of Technical Staff (Early Career) | https://www.cockroachlabs.com/careers/job/?gh_jid=7560119 |
-| Roblox | Summer 2026 SWE - Community Apprenticeship | https://careers.roblox.com/jobs/7654991 |
-| IXL Learning | Software Engineer - Intern (San Mateo) | https://www.ixl.com/company/jobs?gh_jid=8486939002 |
-
-### AI/ML
-| Company | Role | URL |
-|---------|------|-----|
-| Typeface | ML Engineer Intern | https://job-boards.greenhouse.io/typeface/jobs/4986825007 |
-| Attentive | AI Intern | https://job-boards.greenhouse.io/attentive/jobs/4209296009 |
-| Okta | Software Engineer AI Intern (Summer 2026) | https://www.okta.com/company/careers/business-technology/software-engineer-ai-intern-summer-2026-7547852/ |
-| Point72 | 2026 AI Intern, Long/Short Equities | https://job-boards.greenhouse.io/point72/jobs/8486146002 |
-
-### Consulting / Solutions
-| Company | Role | URL |
-|---------|------|-----|
-| Typeface | Solutions Architect Intern | https://job-boards.greenhouse.io/typeface/jobs/5099650007 |
-| EY | Technology Risk Internship - Summer 2026 | https://job-boards.greenhouse.io/ripplematchinterns/jobs/8017685002 |
-| Point72 | 2026 Technology Internship - Full Stack | https://job-boards.greenhouse.io/point72/jobs/8465224002 |
+| Date | 2026-04-08 |
+| Portals scanned | 33 companies + 10 WebSearch queries |
+| Total listings checked | 200+ |
+| Already in pipeline/history | 185+ |
+| New listings found | 10 |
+| High-priority (score ≥ 4.0) | 0 new (all prior top picks already in pipeline) |
+| Borderline (score 3.7–3.9) | 3 |
 
 ---
 
-## Top Matches (Estimated Score >= 4.0)
+## New Listings Added to Pipeline
 
-These new listings are most likely to score highly based on Carlos's profile:
-
-1. **Scale AI - Software Engineer, New Grad** (est. 4.5/5)
-   Scale AI builds data infrastructure for AI. Carlos's multi-model AI pipeline (5 LLM providers, $0.003/application), 35K-line production backend, and 602-test suite align perfectly. Rolling new grad hiring -- evaluate ASAP.
-
-2. **Cockroach Labs - Engineering Internships 2026** (est. 4.0/5)
-   Distributed systems / database infrastructure. Carlos's carlosOS (custom x86 OS from scratch), PostgreSQL admission control with PL/pgSQL, and blue/green CI/CD map directly.
-
-3. **Typeface - ML Engineer Intern** (est. 4.0/5)
-   AI content generation startup. Carlos's LangChain, multi-model pipeline (Claude/DeepSeek/GPT-4o/Gemini), and AI architecture experience are direct matches.
-
-4. **Okta - Software Engineer AI Intern (Summer 2026)** (est. 4.0/5)
-   Identity security + AI. Carlos's security depth (HMAC-SHA256 CSRF, OAuth proxy, TLS 1.2/1.3, CSP) plus AI pipeline work make this a strong two-dimensional fit.
-
-5. **Attentive - AI Intern** (est. 3.8/5)
-   Marketing AI platform. Carlos's production AI pipeline and full-stack skills are relevant. Worth evaluating for scope.
-
-6. **Point72 - 2026 AI Intern, Long/Short Equities** (est. 3.5/5)
-   Quant hedge fund AI. Carlos's quantitative trading system (Sharpe 1.79, 4 strategies, Bloomberg + Alpaca) is a differentiator for this niche role.
+| Company | Role | URL | Score Est. | Notes |
+|---------|------|-----|-----------|-------|
+| DV Trading | 2026 Summer Internship - AI Engineer | [link](https://job-boards.greenhouse.io/dvtrading/jobs/4677605005) | **3.9** | RAG + agentic tooling on DevOps team, $30-35/hr, Chicago onsite. Strong tech match (RAG, LLM, Python, CI/CD). Requires summer relocation to Chicago. |
+| Dialpad | Co-op Software Engineer (Intern), Fullstack | [link](https://job-boards.greenhouse.io/dialpad/jobs/8227173002) | **3.8** | Voice AI for business comms. Fullstack co-op. Strong React+backend match. Different posting from existing Dialpad intern in pipeline. |
+| Cohere | Intern of Technical Staff - Sovereign AI | [link](https://jobs.ashbyhq.com/cohere/79e088a4-f232-4290-8d56-9c2432b8e661) | **3.7** | On-prem/air-gapped AI for enterprise/gov. Interesting for Carlos's security + AI pipeline background. |
+| Cohere | Research Internship (Spring/Summer 2026) | [link](https://jobs.ashbyhq.com/cohere/6e850172-a79d-4128-abd2-677731312857) | **3.2** | Research-focused. Carlos is SWE/engineering not ML researcher. Low priority. |
+| Mistral AI | Applied Scientist / Research Engineer (Internship) | [link](https://jobs.lever.co/mistral/426ef8c0-eb26-4004-a690-f33c62b445a7) | **3.0** | Research role, likely Paris. Skip unless confirmed remote. |
+| Mistral AI | AI Scientist - Paris/London (Internship, Master's) | [link](https://jobs.lever.co/mistral/292397f0-4ac7-4309-a0e8-63c97761a2cb) | **2.0** | Master's level, Paris/London. Skip. |
+| ElevenLabs | Impact Program Intern | [link](https://jobs.ashbyhq.com/elevenlabs/4f07f198-5a51-462d-bd86-bf4574c7532d) | **3.0** | Unclear scope from title alone. Low priority without JD confirmation. |
+| Airtable | Software Engineer | [link](https://job-boards.greenhouse.io/airtable/jobs/8495850002) | **3.0** | New generic SWE listing. Likely requires YOE based on Airtable's typical posting pattern. |
+| Airtable | Demo Engineer | [link](https://job-boards.greenhouse.io/airtable/jobs/8423374002) | **3.2** | Solutions/presales demo role. Peripheral to Carlos's primary targets. |
+| Twilio | Software Engineer Intern - Canada | [link](https://job-boards.greenhouse.io/twilio/jobs/7560248) | **2.5** | Canada work authorization required. Carlos is US-based. Skip. |
 
 ---
 
-## Companies Checked Today (No New Listings)
+## Key Observation: Pipeline Already Comprehensive
 
-These companies were fully scanned but had no new qualifying listings:
+The previous scans (04-05, 04-07, 04-08 earlier today) achieved excellent coverage. The pipeline already contains **390+ listings** including all high-value targets:
 
-- PolyAI (all senior UK/Serbia roles, no intern/new grad)
-- Temporal (0 open positions)
-- n8n (all senior, no intern/new grad)
-- Zapier (all senior roles)
-- Attio (senior EU-based only)
-- TravelPerk (no matching roles)
-- Tinybird (JS-only page, not parseable)
-- Gallup (Security intern was Omaha NE only -- already logged as skipped)
-- Databricks API (no intern roles returned)
-- Anthropic / Glean / Vercel (no new roles since 2026-04-07 scan)
+**Already in pipeline — top picks (all ≥ 4.0 potential):**
+- Vapi — New Grad Software Engineer
+- Together AI — Software Engineer Intern (Summer 2026)
+- Decagon — Agent Software Engineer - New Grad (2026 Start)
+- Harvey — Software Engineer, New Grad (2026)
+- Glean — Software Engineer, Intern (Summer 2026)
+- Palantir — Forward Deployed Software Engineer, Internship (Commercial + Gov)
+- Cohere — Software Engineer Intern (Spring/Summer 2026)
+- Anthropic — Forward Deployed Engineer, Applied AI (multiple openings)
+- Cloudflare — Red Team Security Intern + SWE Intern
+- Scale AI — Software Engineering Intern + New Grad
+- OpenAI — Software Engineer Internship / Co-op (Fall 2026)
+- Figma — Software Engineer Intern (2026)
+- Ramp — Software Engineer Internship (Backend + Forward Deployed)
+- DoorDash — Software Engineer Intern
+- Databricks — Software Engineering Intern
+- Grammarly — Software Engineer Intern
+- xAI — Engineering Internship (Summer 2026)
 
 ---
 
-## Pipeline Status
+## Companies Scanned (No New Relevant Listings)
 
-**Total pending in pipeline:** ~395 URLs
-**Added today (2026-04-08):** 12
-**Previously added (2026-04-05 + 2026-04-07):** ~383
+Anthropic, Vercel, Glean, Arize AI, RunPod, Hume AI, Intercom, PolyAI, Temporal, n8n, Zapier, Attio, Tinybird, TravelPerk, LangChain, Weights & Biases, Pinecone, Vapi, Bland AI, Salesforce, Ada, Twilio (US)
 
 ---
 
 ## Recommended Next Actions
 
-1. **Evaluate immediately:** Scale AI New Grad, Okta AI Intern, Typeface ML Intern
-2. **Run `/career-ops pipeline`** to process pending URLs from all three scans
-3. Pipeline has ~395 items -- use `/career-ops batch` for bulk processing
-4. **Priority evaluation queue:**
-   - Scale AI SWE New Grad
-   - Cockroach Labs Engineering Internships 2026
-   - Okta Software Engineer AI Intern
-   - Typeface ML Engineer Intern
-   - Attentive AI Intern
-   - Point72 AI Intern (quant trading angle)
-5. **Next scan recommended:** 2026-04-11 (3 days)
+1. **Run `/career-ops pipeline`** — 390+ pending evaluations. Start with the highest-signal matches:
+   - Vapi, Decagon, Palantir FDE, Glean Intern, Cohere SWE Intern, Harvey, Together AI, Ramp Forward Deployed
+
+2. **DV Trading (score 3.9 — borderline):** Verify if you're open to Chicago for the summer. The RAG + agentic systems work is technically strong, and your quant trading project gives you direct industry context ($30-35/hr).
+
+3. **Dialpad Co-op:** New listing, good fullstack match. Evaluate when processing pipeline.
+
+4. **Skip:** Mistral Paris (wrong location/level), Twilio Canada (wrong country), Mistral PhD (PhD required).
 
 ---
 
-*Scan method: Greenhouse API (Level 2) + WebSearch site: queries (Level 3). Playwright not available in agent mode.*
+## Scan Methodology
+
+- **Greenhouse APIs (JSON):** Anthropic, Airtable, Vercel, Glean, Arize AI, RunPod, Hume AI, Intercom, Twilio, Dialpad
+- **Ashby WebSearch:** Cohere, LangChain, Pinecone, ElevenLabs, Vapi, Bland AI
+- **Lever WebSearch:** Mistral AI, Weights & Biases
+- **General WebSearch:** Salesforce, Ada, DV Trading, cross-portal intern discovery
+
+_Next scan recommended: 2026-04-11_

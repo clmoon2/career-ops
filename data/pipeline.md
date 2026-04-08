@@ -391,3 +391,13 @@
 - [ ] https://www.okta.com/company/careers/business-technology/software-engineer-ai-intern-summer-2026-7547852/ | Okta | Software Engineer AI Intern (Summer 2026)
 - [ ] https://job-boards.greenhouse.io/point72/jobs/8486146002 | Point72 | 2026 AI Intern, Long/Short Equities
 - [ ] https://job-boards.greenhouse.io/point72/jobs/8465224002 | Point72 | 2026 Technology Internship - UI/UX Engineer (Full Stack)
+- [ ] https://jobs.ashbyhq.com/cohere/6e850172-a79d-4128-abd2-677731312857 | Cohere | Research Internship (Spring/Summer 2026)
+- [ ] https://jobs.ashbyhq.com/cohere/79e088a4-f232-4290-8d56-9c2432b8e661 | Cohere | Intern of Technical Staff - Sovereign AI
+- [ ] https://jobs.lever.co/mistral/292397f0-4ac7-4309-a0e8-63c97761a2cb | Mistral AI | AI Scientist - Paris/London (Internship, Master's)
+- [ ] https://jobs.lever.co/mistral/426ef8c0-eb26-4004-a690-f33c62b445a7 | Mistral AI | Applied Scientist / Research Engineer (Internship)
+- [ ] https://jobs.ashbyhq.com/elevenlabs/4f07f198-5a51-462d-bd86-bf4574c7532d | ElevenLabs | Impact Program Intern
+- [ ] https://job-boards.greenhouse.io/dialpad/jobs/8227173002 | Dialpad | Co-op Software Engineer (Intern), Fullstack
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/7560248 | Twilio | Software Engineer Intern - Canada
+- [ ] https://job-boards.greenhouse.io/dvtrading/jobs/4677605005 | DV Trading | 2026 Summer Internship - AI Engineer
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8495850002 | Airtable | Software Engineer
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8423374002 | Airtable | Demo Engineer

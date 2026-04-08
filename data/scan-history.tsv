@@ -496,3 +496,35 @@ https://jobs.ashbyhq.com/attio	2026-04-08	ashby	(all senior EU-based roles)	Atti
 https://jobs.ashbyhq.com/tinybird	2026-04-08	ashby	(JS-only, no parseable roles)	Tinybird	skipped_title
 https://jobs.ashbyhq.com/travelperk	2026-04-08	ashby	(no intern/new grad roles)	TravelPerk	skipped_dup
 https://job-boards.eu.greenhouse.io/polyai/jobs	2026-04-08	greenhouse	(no intern/new grad roles - all senior UK/Serbia)	PolyAI	skipped_title
+https://jobs.ashbyhq.com/cohere/6e850172-a79d-4128-abd2-677731312857	2026-04-08	ashby	Research Internship (Spring/Summer 2026)	Cohere	added
+https://jobs.ashbyhq.com/cohere/79e088a4-f232-4290-8d56-9c2432b8e661	2026-04-08	ashby	Intern of Technical Staff - Sovereign AI	Cohere	added
+https://jobs.lever.co/mistral/292397f0-4ac7-4309-a0e8-63c97761a2cb	2026-04-08	lever	AI Scientist - Paris/London (Internship, Master's)	Mistral AI	added
+https://jobs.lever.co/mistral/426ef8c0-eb26-4004-a690-f33c62b445a7	2026-04-08	lever	Applied Scientist / Research Engineer (Internship)	Mistral AI	added
+https://jobs.lever.co/mistral/589527e0-4f15-4e54-90db-83b2c49f263d	2026-04-08	lever	AI Scientist - Palo Alto (Internship, PhD)	Mistral AI	skipped_title
+https://jobs.ashbyhq.com/elevenlabs/4f07f198-5a51-462d-bd86-bf4574c7532d	2026-04-08	ashby	Impact Program Intern	ElevenLabs	added
+https://job-boards.greenhouse.io/dialpad/jobs/8227173002	2026-04-08	greenhouse	Co-op Software Engineer (Intern), Fullstack	Dialpad	added
+https://job-boards.greenhouse.io/twilio/jobs/7560248	2026-04-08	greenhouse	Software Engineer Intern - Canada	Twilio	added
+https://job-boards.greenhouse.io/dvtrading/jobs/4677605005	2026-04-08	greenhouse	2026 Summer Internship - AI Engineer	DV Trading	added
+https://job-boards.greenhouse.io/airtable/jobs/8495850002	2026-04-08	greenhouse	Software Engineer	Airtable	added
+https://job-boards.greenhouse.io/airtable/jobs/8423374002	2026-04-08	greenhouse	Demo Engineer	Airtable	added
+https://jobs.ashbyhq.com/langchain	2026-04-08	ashby	(no intern/new grad roles)	LangChain	skipped_title
+https://jobs.lever.co/wandb	2026-04-08	lever	(Models US Remote already in pipeline)	Weights & Biases	skipped_dup
+https://jobs.ashbyhq.com/cohere	2026-04-08	ashby	(scanned - 6 intern roles found)	Cohere	added
+https://jobs.ashbyhq.com/pinecone	2026-04-08	ashby	(scanned - already in pipeline)	Pinecone	skipped_dup
+https://jobs.lever.co/mistral	2026-04-08	lever	(scanned - 4 new research intern roles)	Mistral AI	added
+https://jobs.ashbyhq.com/elevenlabs	2026-04-08	ashby	(scanned - Impact Program Intern found)	ElevenLabs	added
+https://jobs.ashbyhq.com/vapi	2026-04-08	ashby	(New Grad SWE already in pipeline)	Vapi	skipped_dup
+https://jobs.ashbyhq.com/bland	2026-04-08	ashby	(all roles already in pipeline)	Bland AI	skipped_dup
+https://careers.salesforce.com	2026-04-08	websearch	(intern roles already in pipeline)	Salesforce	skipped_dup
+https://job-boards.greenhouse.io/twilio	2026-04-08	greenhouse	(US intern already in pipeline, Canada new)	Twilio	added
+https://job-boards.greenhouse.io/dialpad	2026-04-08	greenhouse	(new Co-op Fullstack found)	Dialpad	added
+https://job-boards.greenhouse.io/dvtrading	2026-04-08	greenhouse	(AI Engineer Intern found)	DV Trading	added
+https://job-boards.greenhouse.io/ada18	2026-04-08	greenhouse	(SWE and DevOps interns already in pipeline)	Ada	skipped_dup
+https://job-boards.greenhouse.io/intercom	2026-04-08	greenhouse	(all roles already in pipeline - no interns)	Intercom	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	2026-04-08	greenhouse	(no new tech intern/new grad roles vs 04-05)	Anthropic	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/airtable/jobs	2026-04-08	greenhouse	(2 new listings found - SWE and Demo Eng)	Airtable	added
+https://boards-api.greenhouse.io/v1/boards/vercel/jobs	2026-04-08	greenhouse	(all new roles already in pipeline)	Vercel	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs	2026-04-08	greenhouse	(no new intern/new grad roles vs 04-05)	Glean	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/arizeai/jobs	2026-04-08	greenhouse	(new senior/PM roles - not target level)	Arize AI	skipped_title
+https://boards-api.greenhouse.io/v1/boards/runpod/jobs	2026-04-08	greenhouse	(no new intern/new grad roles)	RunPod	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/humeai/jobs	2026-04-08	greenhouse	(no new intern/new grad roles)	Hume AI	skipped_dup
