@@ -2,6 +2,12 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-08 SCAN v3 === -->
+- [ ] https://jobs.ashbyhq.com/adaptivesecurity/6e9a1249-4d23-4597-8245-8a95930c6e92 | Adaptive Security | Security Intern ⭐
+- [ ] https://jobs.ashbyhq.com/GPTZero/d7e6f3ee-8446-4ac4-b1f8-e79c9876c31a | GPTZero | Machine Learning Intern
+- [ ] https://jobs.ashbyhq.com/ema/5aa53773-f1bd-4ce9-b7cc-1f7bb4fb202e | Ema | Machine Learning Intern
+<!-- === END 2026-04-08 SCAN v3 === -->
+
 <!-- === NEW 2026-04-08 SCAN v2 === -->
 - [ ] https://job-boards.greenhouse.io/haizelabs/jobs/4685944008 | Haize Labs | Software Engineer Intern (AI Safety/LLM Testing) ⭐ HIGH PRIORITY
 - [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7582150 | Cloudflare | Security Engineer Intern (Summer 2026) - Austin TX ⭐ HIGH PRIORITY
