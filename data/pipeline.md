@@ -536,3 +536,20 @@
 - [ ] https://jobs.ashbyhq.com/Commure-Athelas/0f13b112-8d8c-4fb1-ae3d-449cc36cd89e | Commure + Athelas | Software Engineer, Ambient AI (Summer 2026 New Grad)
 - [ ] https://jobs.ashbyhq.com/Commure-Athelas/566a84fb-d93e-4177-ac07-3c16d3ae8e8d | Commure + Athelas | Software Engineering Intern (Summer 2026)
 - [ ] https://jobs.ashbyhq.com/patreon/7302033c-d884-4e13-b6d4-74fcb16fe08a | Patreon | Fullstack Software Engineer (New Grad)
+
+<!-- === NEW 2026-04-08 SCAN v9 (Autonomous Agent - Wave 2) === -->
+- [ ] https://jobs.ashbyhq.com/inductive-bio/4e92bf98-fab8-465c-aae5-48c00fd66af3 | Inductive Bio | Machine Learning Intern
+- [ ] https://jobs.lever.co/artera/e404f923-0387-4086-8ab0-55988a1564d0 | Artera | Software Engineer Intern (Summer 2026)
+- [ ] https://jobs.lever.co/artera/82c93c81-1d5d-4490-9dbc-4c68af88e34f | Artera | Machine Learning Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/ctccampusboard/jobs/4545359005 | CTC (Chicago Trading Company) | Software Engineering Internship (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7482799003 | ID.me | University 2026 Software Development Engineer Intern
+- [ ] https://jobs.ashbyhq.com/spruceid/3d182b7f-482e-45b2-8668-f04f0b5fda8e | Spruce Systems | Full-Stack Software Engineer (New Grad)
+- [ ] https://job-boards.greenhouse.io/charlesriverassociates/jobs/7233876 | Charles River Associates | Cyber & Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/spauldingridge/jobs/5690864004 | Spaulding Ridge | Campus Consulting Internship Salesforce (2026)
+- [ ] https://job-boards.greenhouse.io/custom134932/jobs/5655557004 | Spaulding Ridge | 2026 Summer Campus Consulting Internship
+- [ ] https://job-boards.greenhouse.io/attainpartners/jobs/5015488008 | Attain Partners | Consulting Intern
+- [ ] https://job-boards.greenhouse.io/klaviyocampus/jobs/7418442003 | Klaviyo | AI Engineer Intern (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/magical/4f32b8ee-f773-4981-8cf0-df008e598aab | Magical | Software Engineer, AI (New Grad OK)
+- [ ] https://job-boards.greenhouse.io/imc/jobs/4608584101 | IMC Trading | Machine Learning Research Intern (Summer 2026)
+- [ ] https://jobs.lenovo.com/en_US/careers/JobDetail/AI-Security-Software-Engineer-Intern-Summer-2026/75243 | Lenovo | AI Security Software Engineer Intern (Summer 2026)
+- [ ] https://job-boards.greenhouse.io/praxent/jobs/7618019003 | Praxent | AI Software Engineer Intern (part-time)
