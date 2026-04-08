@@ -1,14 +1,20 @@
 # Portal Scan — 2026-04-08
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Portals/queries executed: 45+ (Greenhouse APIs, Ashby portals, WebSearch queries)
+New listings found (before filter): 90+
+Filtered by title: 15 new relevant listings (after deduplication against 530-entry scan history)
+Duplicates skipped: 75+ (comprehensive 4/5 and 4/7 scans already captured most)
+New added to pipeline: 15 (10 earlier batch + 5 second pass)
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
 | Date | 2026-04-08 |
-| Portals scanned | 33 companies + 10 WebSearch queries |
-| Total listings checked | 200+ |
-| Already in pipeline/history | 185+ |
-| New listings found | 10 |
+| Portals scanned | 45+ companies + 10 WebSearch queries |
+| Total listings checked | 250+ |
+| Already in pipeline/history | 235+ |
+| New listings found | 15 |
 | High-priority (score ≥ 4.0) | 0 new (all prior top picks already in pipeline) |
 | Borderline (score 3.7–3.9) | 3 |
 
@@ -28,6 +34,11 @@
 | Airtable | Software Engineer | [link](https://job-boards.greenhouse.io/airtable/jobs/8495850002) | **3.0** | New generic SWE listing. Likely requires YOE based on Airtable's typical posting pattern. |
 | Airtable | Demo Engineer | [link](https://job-boards.greenhouse.io/airtable/jobs/8423374002) | **3.2** | Solutions/presales demo role. Peripheral to Carlos's primary targets. |
 | Twilio | Software Engineer Intern - Canada | [link](https://job-boards.greenhouse.io/twilio/jobs/7560248) | **2.5** | Canada work authorization required. Carlos is US-based. Skip. |
+| EliseAI | Software Engineer (New Grads 2025-2026) | [link](https://jobs.ashbyhq.com/eliseai/1ffbd278-a5fe-443c-984f-521d61a97353) | **4.0** | AI housing/healthcare platform, NYC. $100K-$180K. Strong fullstack AI match. High priority. |
+| Commure + Athelas | Software Engineer (Summer 2026 New Grad) | [link](https://jobs.ashbyhq.com/Commure-Athelas/00dbfa4a-986c-4c98-a966-47874d1ff0f8) | **3.8** | Healthcare AI platform, Mountain View CA, 5d/wk in-office. Fullstack. Evaluate if open to relocation. |
+| Commure + Athelas | Software Engineer, Ambient AI (Summer 2026 New Grad) | [link](https://jobs.ashbyhq.com/Commure-Athelas/0f13b112-8d8c-4fb1-ae3d-449cc36cd89e) | **4.0** | Ambient AI (LLM-powered documentation), strong alignment with LLM/RAG work on Finch. |
+| Commure + Athelas | Software Engineering Intern (Summer 2026) | [link](https://jobs.ashbyhq.com/Commure-Athelas/566a84fb-d93e-4177-ac07-3c16d3ae8e8d) | **3.8** | Intern version, Mountain View CA. Evaluate with new grad roles together. |
+| Patreon | Fullstack Software Engineer (New Grad) | [link](https://jobs.ashbyhq.com/patreon/7302033c-d884-4e13-b6d4-74fcb16fe08a) | **3.5** | SF or NYC, hybrid 2d/wk. Fullstack match. Not AI-first but solid new grad role. |
 
 ---
 
@@ -64,22 +75,27 @@ Anthropic, Vercel, Glean, Arize AI, RunPod, Hume AI, Intercom, PolyAI, Temporal,
 
 ## Recommended Next Actions
 
-1. **Run `/career-ops pipeline`** — 390+ pending evaluations. Start with the highest-signal matches:
-   - Vapi, Decagon, Palantir FDE, Glean Intern, Cohere SWE Intern, Harvey, Together AI, Ramp Forward Deployed
+1. **Run `/career-ops pipeline`** — 400+ pending evaluations. Start with the highest-signal matches:
+   - **NEW:** EliseAI New Grad, Commure + Athelas Ambient AI New Grad
+   - **Existing top picks:** Vapi, Decagon, Palantir FDE, Glean Intern, Cohere SWE Intern, Harvey, Together AI, Ramp Forward Deployed
 
-2. **DV Trading (score 3.9 — borderline):** Verify if you're open to Chicago for the summer. The RAG + agentic systems work is technically strong, and your quant trading project gives you direct industry context ($30-35/hr).
+2. **EliseAI (score 4.0):** AI startup in NYC, $100K-$180K new grad. Strong AI engineering match with full-stack work.
 
-3. **Dialpad Co-op:** New listing, good fullstack match. Evaluate when processing pipeline.
+3. **Commure + Athelas - Ambient AI (score 4.0):** LLM-powered clinical documentation — directly aligned with Finch/RAG work. Mountain View CA (in-office required).
 
-4. **Skip:** Mistral Paris (wrong location/level), Twilio Canada (wrong country), Mistral PhD (PhD required).
+4. **DV Trading (score 3.9 — borderline):** Verify if you're open to Chicago for the summer. The RAG + agentic systems work is technically strong, and your quant trading project gives you direct industry context ($30-35/hr).
+
+5. **Dialpad Co-op:** New listing, good fullstack match. Evaluate when processing pipeline.
+
+6. **Skip:** Mistral Paris (wrong location/level), Twilio Canada (wrong country), Mistral PhD (PhD required).
 
 ---
 
 ## Scan Methodology
 
-- **Greenhouse APIs (JSON):** Anthropic, Airtable, Vercel, Glean, Arize AI, RunPod, Hume AI, Intercom, Twilio, Dialpad
-- **Ashby WebSearch:** Cohere, LangChain, Pinecone, ElevenLabs, Vapi, Bland AI
+- **Greenhouse APIs (JSON):** Anthropic, Airtable, Vercel, Glean, Arize AI, RunPod, Hume AI, Intercom, Twilio, Dialpad, Temporal
+- **Ashby WebSearch:** Cohere, LangChain, Pinecone, ElevenLabs, Vapi, Bland AI, n8n, Zapier, Attio, Tinybird, TravelPerk, EliseAI, Commure + Athelas, Patreon
 - **Lever WebSearch:** Mistral AI, Weights & Biases
-- **General WebSearch:** Salesforce, Ada, DV Trading, cross-portal intern discovery
+- **General WebSearch:** Salesforce, Ada, DV Trading, cross-portal intern/new grad discovery (8 targeted queries)
 
 _Next scan recommended: 2026-04-11_

@@ -401,3 +401,8 @@
 - [ ] https://job-boards.greenhouse.io/dvtrading/jobs/4677605005 | DV Trading | 2026 Summer Internship - AI Engineer
 - [ ] https://job-boards.greenhouse.io/airtable/jobs/8495850002 | Airtable | Software Engineer
 - [ ] https://job-boards.greenhouse.io/airtable/jobs/8423374002 | Airtable | Demo Engineer
+- [ ] https://jobs.ashbyhq.com/eliseai/1ffbd278-a5fe-443c-984f-521d61a97353 | EliseAI | Software Engineer (New Grads 2025-2026)
+- [ ] https://jobs.ashbyhq.com/Commure-Athelas/00dbfa4a-986c-4c98-a966-47874d1ff0f8 | Commure + Athelas | Software Engineer (Summer 2026 New Grad)
+- [ ] https://jobs.ashbyhq.com/Commure-Athelas/0f13b112-8d8c-4fb1-ae3d-449cc36cd89e | Commure + Athelas | Software Engineer, Ambient AI (Summer 2026 New Grad)
+- [ ] https://jobs.ashbyhq.com/Commure-Athelas/566a84fb-d93e-4177-ac07-3c16d3ae8e8d | Commure + Athelas | Software Engineering Intern (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/patreon/7302033c-d884-4e13-b6d4-74fcb16fe08a | Patreon | Fullstack Software Engineer (New Grad)
