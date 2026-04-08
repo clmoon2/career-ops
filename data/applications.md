@@ -9,8 +9,8 @@
 | 271 | 2026-04-05 | Shield AI | SWE Intern Summer 2026 | 0/5 | Evaluada | ❌ | [220](reports/220-shieldai-swe-2026-04-05.md) | Listing closed (404) |
 | 272 | 2026-04-05 | Nominal | SWE Internship Summer 2026 | 0/5 | Evaluada | ❌ | [221](reports/221-nominal-swe-2026-04-05.md) | Listing closed (404) |
 | 273 | 2026-04-05 | Rigetti | SWE Intern CV & Automation 2026 | 0/5 | Evaluada | ❌ | [222](reports/222-rigetti-swe-2026-04-05.md) | Listing closed (404) |
-| 274 | 2026-04-05 | Shield AI | Embedded SWE Intern Summer 2026 | 0/5 | Evaluada | ❌ | [223](reports/223-shieldai-embedded-2026-04-05.md) | Listing closed (404) |
-| 275 | 2026-04-05 | Best Egg | SWE Intern Summer 2026 | 3.5/5 | Evaluada | ❌ | [224](reports/224-bestegg-swe-2026-04-05.md) | Good fit, fintech, $24/hr |
+| 274 | 2026-04-08 | Sierra | Intern, Agent Development (Summer 2026) | 4.3/5 | Evaluada | ❌ | [274](reports/274-sierra-intern-agent-dev-2026-04-08.md) | Re-eval 2026-04-08 (0→4.3). AI agent platform (Bret Taylor co). SF on-site. Multi-model AI/LangChain/RAG fit = excellent. Apply this week. |
+| 275 | 2026-04-08 | 1Password | Developer Intern, Data Security (Summer 2026) | 4.0/5 | Evaluada | ❌ | [275](reports/275-1password-data-security-intern-2026-04-08.md) | Re-eval 2026-04-08 (3.5→4). Remote. Crypto/security library engineering. HMAC/TLS/OAuth work directly matches. Rust preferred (Carlos has Rust daemon). |
 | 276 | 2026-04-05 | Anchorage Digital | SWE Internship Summer 2026 | 0/5 | Evaluada | ❌ | [225](reports/225-anchorage-swe-2026-04-05.md) | Listing closed (404) |
 | 277 | 2026-04-05 | Hermeus | M&S SWE Intern Spring/Summer 2026 | 0/5 | Evaluada | ❌ | [226](reports/226-hermeus-ms-2026-04-05.md) | Listing closed (404) |
 | 278 | 2026-04-05 | Hermeus | Flight SWE Intern Summer/Fall 2026 | 3.0/5 | Evaluada | ❌ | [227](reports/227-hermeus-flight-2026-04-05.md) | Aerospace/defense, embedded focus, US person req, $25-33/hr |

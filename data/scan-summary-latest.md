@@ -1,3 +1,43 @@
+# Portal Scan — 2026-04-08 (Autonomous Agent Run — v5 Final)
+
+## v5 Scan — New Listings Found (2026-04-08 Pass 5)
+
+**Companies newly scanned:** Sierra (direct Ashby), 1Password (Ashby), Deepgram (Ashby), Lindy (Ashby), Retool, Talkdesk, Gong, Genesys, Langfuse, Cognigy, Speechmatics, Make.com, Factorial, Clarity AI, Illumio, Notion (additional roles)
+
+| Company | Role | Score | Report | Notes |
+|---------|------|-------|--------|-------|
+| **Sierra** ⭐ | Intern, Agent Development (Summer 2026) | **4.3/5** | [274](reports/274-sierra-intern-agent-dev-2026-04-08.md) | Bret Taylor's AI agent company. 300+ enterprise customers. LLM/RAG/React/TypeScript — direct Finch match. SF on-site. **Apply this week.** |
+| **1Password** ⭐ | Developer Intern, Data Security (Summer 2026) | **4.0/5** | [275](reports/275-1password-data-security-intern-2026-04-08.md) | **REMOTE.** Crypto/security library engineering. HMAC/TLS/OAuth work on Finch directly matches. Rust preferred — Carlos has Rust daemon. **Apply this week.** |
+
+### Also Added to Pipeline (Not Yet Fully Evaluated)
+- 1Password — Developer Intern, Device Security (Remote) → https://jobs.ashbyhq.com/1password/a31143c2-8b13-4757-9821-007ea93c2b8c
+- 1Password — Developer Intern, Client Secrets Management (Remote) → https://jobs.ashbyhq.com/1password/2271dd32-0d1a-4014-b6c8-21b22b630705
+- 1Password — Developer Intern, Insights (Remote) → https://jobs.ashbyhq.com/1password/f1501068-4cd5-40cd-b045-5f182192bf79
+- Illumio — Engineering Intern, AI Supportability (Sunnyvale CA, on-site) → https://jobs.ashbyhq.com/illumio/c130215a-b9d3-49bb-9f12-8c4317cd3697
+- Notion — Privacy and Risk Intern (NYC required) → https://jobs.ashbyhq.com/notion/c5e8dbf4-499d-498b-8287-237f4f047da1
+- Sierra — Software Engineer, Agent (New Grad — verify graduation timeline) → https://jobs.ashbyhq.com/sierra/6a75b530-b7bb-4439-bb67-37b4f2b75b96
+- Sierra — APX New Grad Rotational Program (verify timeline) → https://jobs.ashbyhq.com/Sierra/9738d0f0-13be-4e89-9fba-505e7cac288f
+- Lindy — Intern, Engineering (SF on-site) → https://jobs.ashbyhq.com/lindy/db20d3a6-b7dc-4abd-8f28-b49bd2c2857c
+
+### Companies with No New Relevant Listings (v5)
+Deepgram (all senior), Retool (no intern roles), Talkdesk (2025 only), Gong (no intern), Genesys (no intern on ATS), Langfuse (team too small), Cognigy (EMEA/DACH), Speechmatics (UK only), Make.com (EU focus), Factorial (Barcelona), Clarity AI (Madrid)
+
+### v5 Next Actions (Priority Order)
+
+1. **TODAY/THIS WEEK:** Apply Sierra Agent Dev Intern → https://jobs.ashbyhq.com/Sierra/8bb2509d-9215-4cb5-8cf1-2bf0dbade6d8
+   - Write cover letter framing Finch as "AI agent pipeline for job applications"
+   - Address SF relocation proactively
+2. **THIS WEEK:** Apply 1Password Data Security Intern (REMOTE) → https://jobs.ashbyhq.com/1password/44426502-60f1-4639-b662-f48779861ac1
+   - Frame Rust systemd daemon project prominently
+   - "I implement security from first principles, not checklists"
+3. **ALSO APPLY:** 1Password Device Security Intern (same company, different team, non-conflicting)
+4. **PIPELINE:** 400+ listings pending evaluation — top next picks: EliseAI, Commure+Athelas Ambient AI, Haize Labs, Cloudflare Security Intern, Palantir FDSE
+
+---
+_v5 scan ran 2026-04-08. Portals/queries: 60+. New listings found: 14. Evaluated (≥4.0): 2. Next scan: 2026-04-11_
+
+---
+
 # Portal Scan — 2026-04-08 (Autonomous Agent Run — Final Pass)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 **Note:** This is the final pass of the 2026-04-08 scan. New listings discovered in this run are listed first. Prior scan results follow.

@@ -2,6 +2,19 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-08 SCAN v5 (Autonomous Agent — Final) === -->
+- [x] https://jobs.ashbyhq.com/Sierra/8bb2509d-9215-4cb5-8cf1-2bf0dbade6d8 | Sierra | Intern, Agent Development (Summer 2026) ⭐ EVALUATED 4.3
+- [x] https://jobs.ashbyhq.com/1password/44426502-60f1-4639-b662-f48779861ac1 | 1Password | Developer Intern, Data Security (Summer 2026) ⭐ EVALUATED 4.0
+- [ ] https://jobs.ashbyhq.com/1password/a31143c2-8b13-4757-9821-007ea93c2b8c | 1Password | Developer Intern, Device Security (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/1password/2271dd32-0d1a-4014-b6c8-21b22b630705 | 1Password | Developer Intern, Client Secrets Management (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/1password/f1501068-4cd5-40cd-b045-5f182192bf79 | 1Password | Developer Intern, Insights (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/illumio/c130215a-b9d3-49bb-9f12-8c4317cd3697 | Illumio | Engineering Intern, AI Supportability (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/notion/c5e8dbf4-499d-498b-8287-237f4f047da1 | Notion | Privacy and Risk Intern (Summer 2026)
+- [ ] https://jobs.ashbyhq.com/sierra/6a75b530-b7bb-4439-bb67-37b4f2b75b96 | Sierra | Software Engineer, Agent (New Grad — verify timeline)
+- [ ] https://jobs.ashbyhq.com/Sierra/9738d0f0-13be-4e89-9fba-505e7cac288f | Sierra | APX (New Grad Rotational Program — verify timeline)
+- [ ] https://jobs.ashbyhq.com/lindy/db20d3a6-b7dc-4abd-8f28-b49bd2c2857c | Lindy | Intern - Engineering (San Francisco)
+<!-- === END 2026-04-08 SCAN v5 === -->
+
 <!-- === NEW 2026-04-08 SCAN v4 (Greenhouse API) === -->
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5153564008 | Anthropic | Security Labs Engineer ⭐
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5123011008 | Anthropic | Offensive Security Research Engineer, Safeguards ⭐
