@@ -424,7 +424,7 @@
 - [ ] https://job-boards.greenhouse.io/crashplan/jobs/4109234009 | CrashPlan | AI/ML Engineer Intern
 - [ ] https://job-boards.greenhouse.io/hpiq/jobs/5623297004 | HP IQ | Software Engineering Intern, Product Security (Summer 2026)
 - [ ] https://job-boards.greenhouse.io/astranis/jobs/4667477006 | Astranis | Software Engineer Intern - Data Platform (Summer 2026)
-- [ ] https://jobs.ashbyhq.com/Crusoe/e21bb802-1292-476a-8d25-d1ebf18d035a | Crusoe | Product Security Applied AI Intern, Summer 2026
+- [x] https://jobs.ashbyhq.com/Crusoe/e21bb802-1292-476a-8d25-d1ebf18d035a | Crusoe | Product Security Applied AI Intern, Summer 2026 [CLOSED - deactivated Jan 13 2026]
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7611577003 | Celonis | Summernaut Program - Technology Consultant Summer Intern
 - [ ] https://jobs.lever.co/BestEgg/3b828fc3-4fb0-49e8-9832-458c1fd437a9 | Best Egg | 2026 Summer Internship - Software Engineer
 - [ ] https://jobs.lever.co/BestEgg/35e80bd9-f511-4131-adbd-d17ccb5dd285 | Best Egg | 2026 Summer Internship - Backend Software Engineering Intern
@@ -553,3 +553,13 @@
 - [ ] https://job-boards.greenhouse.io/imc/jobs/4608584101 | IMC Trading | Machine Learning Research Intern (Summer 2026)
 - [ ] https://jobs.lenovo.com/en_US/careers/JobDetail/AI-Security-Software-Engineer-Intern-Summer-2026/75243 | Lenovo | AI Security Software Engineer Intern (Summer 2026)
 - [ ] https://job-boards.greenhouse.io/praxent/jobs/7618019003 | Praxent | AI Software Engineer Intern (part-time)
+
+<!-- === NEW 2026-04-09 SCAN (Autonomous Agent - Wave 3) === -->
+- [ ] https://jobs.ashbyhq.com/notion/fc762b58-24c9-4f34-bf5f-2af6e8adc644 | Notion | Software Engineer Intern (Winter 2026)
+- [ ] https://jobs.ashbyhq.com/handshake/25b3e69c-0a49-40db-9184-832a1e6fcf1a | Handshake | Software Engineer Intern
+- [ ] https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/ef135dc3-ab5a-4183-a8a7-ec821fdf8220 | Superhuman | Software Engineer Intern (Summer 2026) [note: Ukraine/remote]
+- [ ] https://jobs.ashbyhq.com/permitflow/78b1fccf-2ed9-4485-bd40-4a5aea3907d4 | PermitFlow | Fullstack Software Engineer (New Grad)
+- [ ] https://jobs.lever.co/matchgroup/55e5b98a-3281-4da1-995c-dbf6e1381575 | Match Group | Cloud Infrastructure Engineer Intern
+- [ ] https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Machine-Learning-Engineer-Intern--Seattle--Summer-2026_10143620-1 | Walt Disney | Machine Learning Engineer Intern (Seattle, Summer 2026)
+- [ ] https://careers-empowerai.icims.com/jobs/8652/ai-ml-intern/job | Empower AI | AI/ML Intern (Reston, VA)
+- [ ] https://gsk-us-earlytalent.icims.com/jobs/10200/summer-intern-responsible-ai-agents/job | GSK | Summer Intern - Responsible AI Agents (San Francisco)
