@@ -592,26 +592,26 @@
 - [ ] https://job-boards.greenhouse.io/purestorage/jobs/7258723 | Pure Storage | Software Engineer Intern (Summer 2026)
 - [ ] https://job-boards.greenhouse.io/klaviyocampus/jobs/7418443003 | Klaviyo | Machine Learning Engineer Intern (Summer 2026)
 - [ ] https://job-boards.greenhouse.io/robinhood/jobs/7161061 | Robinhood | Security Risk Management Intern (Summer 2026)
-- [ ] https://job-boards.greenhouse.io/typeface/jobs/4986825007 | Typeface | ML Engineer Intern
+- [x] #320 | https://job-boards.greenhouse.io/typeface/jobs/4986825007 | Typeface | ML Engineer Intern | 3.4/5 | ❌ NO APLICAR (publications preferred; ML training/inference focus)
 - [ ] https://job-boards.greenhouse.io/typeface/jobs/5099650007 | Typeface | Solutions Architect Intern
 - [ ] https://www.cockroachlabs.com/careers/job/?gh_jid=6291435 | Cockroach Labs | Engineering Internships 2026
 - [ ] https://www.cockroachlabs.com/careers/job/?gh_jid=7560119 | Cockroach Labs | Member of Technical Staff (Early Career - Developer Infrastructure)
-- [ ] https://job-boards.greenhouse.io/attentive/jobs/4209296009 | Attentive | AI Intern
+- [x] #321 | https://job-boards.greenhouse.io/attentive/jobs/4209296009 | Attentive | AI Intern | 3.0/5 | ❌ NO APLICAR ($25/hr hard reject on comp; role content excellent)
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4605996005 | Scale AI | Software Engineer - New Grad
 - [ ] https://careers.roblox.com/jobs/7654991 | Roblox | Summer 2026 Software Engineer - Community Apprenticeship
 - [ ] https://www.ixl.com/company/jobs?gh_jid=8486939002 | IXL Learning | Software Engineer - Intern (San Mateo)
 - [ ] https://job-boards.greenhouse.io/ripplematchinterns/jobs/8017685002 | EY | Technology Risk Internship - Summer 2026
-- [ ] https://www.okta.com/company/careers/business-technology/software-engineer-ai-intern-summer-2026-7547852/ | Okta | Software Engineer AI Intern (Summer 2026)
-- [ ] https://job-boards.greenhouse.io/point72/jobs/8486146002 | Point72 | 2026 AI Intern, Long/Short Equities
+- [!] #322 | https://www.okta.com/company/careers/business-technology/software-engineer-ai-intern-summer-2026-7547852/ | Okta | Software Engineer AI Intern (Summer 2026) | Descartado (listing removed Jan 29, 2026)
+- [x] #323 | https://job-boards.greenhouse.io/point72/jobs/8486146002 | Point72 | 2026 AI Intern, Long/Short Equities | 4.3/5 | ❌ ⭐ Report #286 — quant background differentiator; apply alongside #303 AI Engineer role
 - [ ] https://job-boards.greenhouse.io/point72/jobs/8465224002 | Point72 | 2026 Technology Internship - UI/UX Engineer (Full Stack)
 - [ ] https://jobs.ashbyhq.com/cohere/6e850172-a79d-4128-abd2-677731312857 | Cohere | Research Internship (Spring/Summer 2026)
 - [ ] https://jobs.ashbyhq.com/cohere/79e088a4-f232-4290-8d56-9c2432b8e661 | Cohere | Intern of Technical Staff - Sovereign AI
 - [ ] https://jobs.lever.co/mistral/292397f0-4ac7-4309-a0e8-63c97761a2cb | Mistral AI | AI Scientist - Paris/London (Internship, Master's)
 - [ ] https://jobs.lever.co/mistral/426ef8c0-eb26-4004-a690-f33c62b445a7 | Mistral AI | Applied Scientist / Research Engineer (Internship)
-- [ ] https://jobs.ashbyhq.com/elevenlabs/4f07f198-5a51-462d-bd86-bf4574c7532d | ElevenLabs | Impact Program Intern
+- [x] #314 | https://jobs.ashbyhq.com/elevenlabs/4f07f198-5a51-462d-bd86-bf4574c7532d | ElevenLabs | Impact Program Intern | 2.0/5 | ❌ NO APLICAR (MBA preferred, partnerships role not SWE)
 - [ ] https://job-boards.greenhouse.io/dialpad/jobs/8227173002 | Dialpad | Co-op Software Engineer (Intern), Fullstack
 - [ ] https://job-boards.greenhouse.io/twilio/jobs/7560248 | Twilio | Software Engineer Intern - Canada
-- [ ] https://job-boards.greenhouse.io/dvtrading/jobs/4677605005 | DV Trading | 2026 Summer Internship - AI Engineer
+- [x] #312 | https://job-boards.greenhouse.io/dvtrading/jobs/4677605005 | DV Trading | 2026 Summer Internship - AI Engineer | 3.5/5 | ❌ Evaluada (agentic AI DevOps; Chicago relocation; $30-35/hr below target)
 - [ ] https://job-boards.greenhouse.io/airtable/jobs/8495850002 | Airtable | Software Engineer
 - [ ] https://job-boards.greenhouse.io/airtable/jobs/8423374002 | Airtable | Demo Engineer
 - [ ] https://jobs.ashbyhq.com/eliseai/1ffbd278-a5fe-443c-984f-521d61a97353 | EliseAI | Software Engineer (New Grads 2025-2026)
@@ -627,13 +627,13 @@
 - [ ] https://job-boards.greenhouse.io/ctccampusboard/jobs/4545359005 | CTC (Chicago Trading Company) | Software Engineering Internship (Summer 2026)
 - [ ] https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7482799003 | ID.me | University 2026 Software Development Engineer Intern
 - [ ] https://jobs.ashbyhq.com/spruceid/3d182b7f-482e-45b2-8668-f04f0b5fda8e | Spruce Systems | Full-Stack Software Engineer (New Grad)
-- [ ] https://job-boards.greenhouse.io/charlesriverassociates/jobs/7233876 | Charles River Associates | Cyber & Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)
+- [x] #315 | https://job-boards.greenhouse.io/charlesriverassociates/jobs/7233876 | Charles River Associates | Cyber & Forensic Technology Consulting Analyst/Associate Intern (Summer 2026) | 3.6/5 | ❌ Evaluada (Dallas TX, consulting+cyber archetype, borderline comp)
 - [ ] https://job-boards.greenhouse.io/spauldingridge/jobs/5690864004 | Spaulding Ridge | Campus Consulting Internship Salesforce (2026)
 - [ ] https://job-boards.greenhouse.io/custom134932/jobs/5655557004 | Spaulding Ridge | 2026 Summer Campus Consulting Internship
 - [ ] https://job-boards.greenhouse.io/attainpartners/jobs/5015488008 | Attain Partners | Consulting Intern
-- [ ] https://job-boards.greenhouse.io/klaviyocampus/jobs/7418442003 | Klaviyo | AI Engineer Intern (Summer 2026)
+- [x] #313 | https://job-boards.greenhouse.io/klaviyocampus/jobs/7418442003 | Klaviyo | AI Engineer Intern (Summer 2026) | 3.6/5 | ❌ Evaluada ($56/hr top comp; PhD preferred filter; Boston 5d/wk)
 - [ ] https://jobs.ashbyhq.com/magical/4f32b8ee-f773-4981-8cf0-df008e598aab | Magical | Software Engineer, AI (New Grad OK)
-- [ ] https://job-boards.greenhouse.io/imc/jobs/4608584101 | IMC Trading | Machine Learning Research Intern (Summer 2026)
+- [!] https://job-boards.greenhouse.io/imc/jobs/4608584101 | IMC Trading | Machine Learning Research Intern (Summer 2026) — listing not found on Greenhouse, likely closed
 - [ ] https://jobs.lenovo.com/en_US/careers/JobDetail/AI-Security-Software-Engineer-Intern-Summer-2026/75243 | Lenovo | AI Security Software Engineer Intern (Summer 2026)
 - [ ] https://job-boards.greenhouse.io/praxent/jobs/7618019003 | Praxent | AI Software Engineer Intern (part-time)
 
@@ -644,12 +644,12 @@
 - [ ] https://jobs.ashbyhq.com/permitflow/78b1fccf-2ed9-4485-bd40-4a5aea3907d4 | PermitFlow | Fullstack Software Engineer (New Grad)
 - [ ] https://jobs.lever.co/matchgroup/55e5b98a-3281-4da1-995c-dbf6e1381575 | Match Group | Cloud Infrastructure Engineer Intern
 - [ ] https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Machine-Learning-Engineer-Intern--Seattle--Summer-2026_10143620-1 | Walt Disney | Machine Learning Engineer Intern (Seattle, Summer 2026)
-- [ ] https://careers-empowerai.icims.com/jobs/8652/ai-ml-intern/job | Empower AI | AI/ML Intern (Reston, VA)
-- [ ] https://gsk-us-earlytalent.icims.com/jobs/10200/summer-intern-responsible-ai-agents/job | GSK | Summer Intern - Responsible AI Agents (San Francisco)
+- [x] #317 | https://careers-empowerai.icims.com/jobs/8652/ai-ml-intern/job | Empower AI | AI/ML Intern (Reston, VA) | 2.0/5 | ❌ NO APLICAR (federal contractor, likely clearance required, Reston VA)
+- [x] #316 | https://gsk-us-earlytalent.icims.com/jobs/10200/summer-intern-responsible-ai-agents/job | GSK | Summer Intern - Responsible AI Agents (San Francisco) | 3.2/5 | ❌ Evaluada (JD inaccessible, pharma domain mismatch, SF relocation)
 
 <!-- === NEW 2026-04-09 SCAN (Autonomous Agent - Wave 4) === -->
 - [x] https://job-boards.greenhouse.io/cloudflare/jobs/7781953 | Cloudflare | Product Marketing Engineer Intern (AI & Automation) — Austin TX hybrid, Workers AI+agents, TypeScript ⭐ EVALUATED 4.5 → report #285
-- [ ] https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Austin-Texas-United-States-of-America/Software-Engineer-Intern_R34607 | Zendesk | Software Engineer Intern (Austin, TX) — AI/ML exploratory project, $98-148K annualized, hybrid (~3.8)
-- [ ] https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/9010 | Fortinet | Software Development Engineer Intern (Sunnyvale, CA) — cybersecurity company, FortiSWITCH team, Python/C++, 10-12 weeks (~3.8)
-- [ ] https://jobs.ashbyhq.com/vapi/a2ab3304-b7a8-4187-8681-e5f4a7e3d862 | Vapi | Software Engineering Intern — SF in-person, voice AI startup, backend engineering (~3.8)
-- [ ] https://careers.mastercard.com/us/en/job/R-257331/Software-Engineer-Intern-Summer-2026-United-States | Mastercard | Software Engineer Intern, Summer 2026 — US locations, financial systems + security, Java/Python (~3.5)
+- [x] #308 | https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Austin-Texas-United-States-of-America/Software-Engineer-Intern_R34607 | Zendesk | Software Engineer Intern (Austin, TX) | 3.9/5 | ❌ Evaluada (Austin hybrid, self-directed AI/ML project, $98-148K annualized; evaluate closely)
+- [x] #309 | https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/9010 | Fortinet | Software Development Engineer Intern (Sunnyvale, CA) | 3.2/5 | ❌ NO APLICAR (FortiSWITCH firmware, not AI/security; Sunnyvale relocation; below target comp)
+- [x] #310 | https://jobs.ashbyhq.com/vapi/a2ab3304-b7a8-4187-8681-e5f4a7e3d862 | Vapi | Software Engineering Intern | 3.6/5 | ❌ Evaluada (TypeScript+React+Node exact match, voice AI, SF in-person; undisclosed comp)
+- [!] #311 | https://careers.mastercard.com/us/en/job/R-257331/Software-Engineer-Intern-Summer-2026-United-States | Mastercard | Software Engineer Intern, Summer 2026 | Descartado (listing closed — no longer accepting applications)
