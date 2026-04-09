@@ -2,6 +2,13 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-09 SCAN v11 (Autonomous Agent) === -->
+- [ ] https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Red-Team-Intern---Summer-2026--Remote-_R26841 | CrowdStrike | Red Team Intern — Summer 2026, 100% Remote, $28-35/hr, adversarial emulation ⭐ EVALUATED 4.5
+- [ ] https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/usa---remote/information-security-intern---summer-2026--remote-_r27493 | CrowdStrike | Information Security Intern — Summer 2026, 100% Remote (~3.8)
+- [ ] https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Intelligence-Launch-Intern---Summer-2026--Remote-_R26263 | CrowdStrike | Intelligence Launch Intern — Summer 2026, 100% Remote, threat intel (~3.5)
+- [ ] https://jobs.lever.co/tevora/a35c55b9-6af3-4e97-8c1f-aa3e194c88a3 | Tevora | Cybersecurity Internship Summer 2026 - Federal — Jun-Aug 2026, paid training program (~3.5)
+<!-- === END 2026-04-09 SCAN v11 === -->
+
 <!-- === NEW 2026-04-09 SCAN v10 (Autonomous Agent) === -->
 - [ ] https://job-boards.greenhouse.io/haizelabs/jobs/4685944008 | Haize Labs | Software Engineer Intern — AI safety/red-teaming lab, adversarial LLM research, SF (~4.5 ⭐ TOP PICK)
 - [ ] https://job-boards.greenhouse.io/everagtester/jobs/4970468008 | Ever.Ag | Cybersecurity Intern — Lewisville, TX (DFW!), agtech, on-site (~4.0 ⭐)

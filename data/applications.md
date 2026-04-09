@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 304 | 2026-04-09 | CrowdStrike | Red Team Intern | 4.5/5 | Evaluada | ❌ | [281](reports/281-crowdstrike-red-team-intern-2026-04-09.md) | ⭐ Adversarial emulation + carlosOS assembly + LLM adversarial testing = elite fit; $28-35/hr, 100% remote; verify graduation Dec 2026-Aug 2027 |
 | 299 | 2026-04-08 | Semgrep | Software Engineer Intern, Cloud Platform | 4.3/5 | Evaluada | ❌ | [276](reports/276-semgrep-swe-intern-cloud-platform-2026-04-08.md) | AppSec tooling company; AWS+security+Python direct match; $2,400/wk; SF in-person 5d/wk; verify open |
 | 300 | 2026-04-08 | Semgrep | Software Engineer Intern, Program Analysis | 4.1/5 | Evaluada | ❌ | [277](reports/277-semgrep-swe-intern-program-analysis-2026-04-08.md) | Static analysis security; carlosOS systems depth differentiates; Rust+Python; SF in-person 5d/wk |
 | 301 | 2026-04-08 | Harmonic | Software Engineer Intern (Summer '26) | 4.0/5 | Evaluada | ❌ | [278](reports/278-harmonic-swe-intern-2026-04-08.md) | VC startup discovery platform; LLM+Python+TypeScript direct stack match; NYC; verify Oct 2025 deadline |
