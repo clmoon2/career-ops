@@ -2,6 +2,37 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-09 SCAN v10 (Autonomous Agent) === -->
+- [ ] https://job-boards.greenhouse.io/haizelabs/jobs/4685944008 | Haize Labs | Software Engineer Intern — AI safety/red-teaming lab, adversarial LLM research, SF (~4.5 ⭐ TOP PICK)
+- [ ] https://job-boards.greenhouse.io/everagtester/jobs/4970468008 | Ever.Ag | Cybersecurity Intern — Lewisville, TX (DFW!), agtech, on-site (~4.0 ⭐)
+- [ ] https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/usa---remote/information-security-launch-intern---summer-2026--remote-_r26657 | CrowdStrike | Information Security Launch Intern — Summer 2026, 100% Remote (~4.0 ⭐)
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4677519005 | Scale AI | AI Deployment Strategist Intern — AI + deployment, SF (~4.0 ⭐)
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4593571005 | Scale AI | Forward Deployed Engineer, GenAI — FT new grad/early career (~3.8)
+- [ ] https://job-boards.greenhouse.io/robinhood/jobs/7239236 | Robinhood | Software Engineering Intern, Backend — Menlo Park CA, in-person 3d/wk (~3.7)
+- [ ] https://job-boards.greenhouse.io/robinhood/jobs/7239280 | Robinhood | Software Engineering Intern, Web — Menlo Park CA (~3.6)
+- [ ] https://job-boards.greenhouse.io/robinhood/jobs/7238998 | Robinhood | Software Developer Intern, Web — Menlo Park CA (~3.5)
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7239454 | MongoDB | Software Engineering Intern, AMER 2026 — NYC, Jun 2026 start (~3.6)
+- [ ] https://join.atlassian.com/atlassian-talent-community/jobs/20956?lang=en-us | Atlassian | Software Engineer Intern, Summer 2026 US — SF or Seattle (~3.6)
+- [ ] https://www.atlassian.com/company/careers/details/20959 | Atlassian | Machine Learning Intern, Summer 2026 US — SF or Seattle (~3.7)
+- [ ] https://jobs.ashbyhq.com/airspace-intelligence.com/8d49943d-197e-4b14-b4cf-3df91c7f8437 | Air Space Intelligence | Software Engineer Intern (Summer '26) — Boston, defense/aerospace (~3.5)
+- [ ] https://job-boards.greenhouse.io/gofundme/jobs/7289152 | GoFundMe | Full Stack Software Engineer Intern — SF, May 27 - Aug 7 2026 (~3.5)
+- [ ] https://careers.snowflake.com/us/en/job/SNCOUSFD140617F54C4CFB86D7F95F3DFEBB75EXTERNALENUS497C8AAF976342A097B86AE60D3DED4A/Solution-Engineer-Intern-Summer-2026 | Snowflake | Solution Engineer Intern — Summer 2026 (verify US location, ~3.5)
+- [ ] https://www.coinbase.com/careers/positions/7268895 | Coinbase | Software Engineer Intern — SF, Hybrid, 12 wks Summer 2026 (~3.4, crypto-adjacent)
+- [ ] https://www.coinbase.com/careers/positions/7294075 | Coinbase | Machine Learning Engineer Intern — SF, Hybrid, 12 wks Summer 2026 (~3.6)
+- [ ] https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/XMLNAME-2026-Intern---Software-Engineer_R158531 | Adobe | Software Engineer Intern 2026 — hybrid, multiple US offices (~3.4)
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/5817004004 | Mercury | Full-Stack Engineering Intern — Fall 2026, remote US (~3.4)
+- [ ] https://jobs.ashbyhq.com/ramp/1f75a275-2bcf-4cb2-a121-eef0a453475f | Ramp | AI Operations Internship — Summer 2026, fintech AI (~3.5)
+- [ ] https://jobs.ashbyhq.com/notion/5c3de83e-8992-445c-a424-bfa9e623dd95 | Notion | Data Science Intern — Winter or Summer 2026 (~3.3)
+- [ ] https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8408869002 | Samsung Research America | Intern, XR Full Stack Developer — Summer 2026 (~3.2)
+- [ ] https://job-boards.greenhouse.io/stockx/jobs/8456940002 | StockX | Software Engineering Intern, DRC Team — verify location/timeline (~3.2)
+- [ ] https://job-boards.greenhouse.io/verkada/jobs/5099422007 | Verkada | Backend Software Engineering Intern — Fall 2026, San Mateo CA (~3.3)
+- [ ] https://jobs.ashbyhq.com/charge-robotics/81799a5b-c23f-4d17-9cce-af01b1d44ad9 | Charge Robotics | Engineering Intern — Summer 2026, solar construction robots (~3.2)
+- [ ] https://job-boards.greenhouse.io/impiricus/jobs/5160382008 | Impiricus | Software Engineer Intern (Full-stack) — healthcare, Atlanta/NYC/Remote (~3.2)
+- [ ] https://job-boards.greenhouse.io/zinniaintern/jobs/4612976006 | Zinnia | Software Engineer Intern — Summer 2026, insurance tech, verify location (~3.0)
+- [ ] https://job-boards.greenhouse.io/breezeairways/jobs/6672481003 | Breeze Airways | Information Security Intern — Utah, airline (~3.0)
+- [ ] https://careers.datadoghq.com/detail/7158118/ | Datadog | Software Engineering Intern (Summer) — NY or Boston, May-Aug 2026, observability/monitoring (~3.5)
+<!-- === END 2026-04-09 SCAN v10 === -->
+
 <!-- === NEW 2026-04-09 SCAN v9 (Autonomous Agent) === -->
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4605996005 | Scale AI | Software Engineer - New Grad (2026) — SF, $124-155K ⭐ EVALUATED 4.2
 - [ ] https://job-boards.greenhouse.io/point72/jobs/8169852002 | Point72 | 2026 Summer Internship, AI Engineer — NYC in-person ⭐ EVALUATED 4.2
