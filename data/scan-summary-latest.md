@@ -1,3 +1,90 @@
+# Portal Scan — 2026-04-09 (Scan v14 — Wave 4)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+**Run:** Autonomous Agent Wave 4 (Scan v14)
+**Scan history entries before this run:** 860
+**Companies/portals checked this run:** 35+
+
+## Scan Scope
+
+Waves 1-13 had covered ~860 unique listings across major job boards. This wave focused on:
+1. Exhaustive check of portals.yml remaining companies (Hume AI, Temporal, RunPod, W&B, Retool)
+2. New discovery sweeps: Fortinet, Zendesk, Mastercard, Vapi (intern listing)
+3. Verification of previously-unscanned corners: HRT (closed), Orca/Snyk/Lacework (no interns), Palo Alto Networks (0 listings)
+
+## Results
+
+| Metric | Count |
+|--------|-------|
+| Queries/API calls executed | 35+ |
+| Companies checked this run | 35+ |
+| New listings found | 5 |
+| Filtered (closed/UK/not relevant) | 1 (Cloudflare London) |
+| Added to pipeline.md | 5 |
+| Scored ≥ 4.0 (full report) | 1 (Cloudflare AI & Automation 4.5) |
+| Scan history entries added | 18 |
+
+## New Listings Found This Wave
+
+| Company | Role | Score | Action |
+|---------|------|-------|--------|
+| **Cloudflare** ⭐ | Product Marketing Engineer Intern (AI & Automation) | **4.5** | ✅ Report #285 — APPLY NOW |
+| Zendesk | Software Engineer Intern (Austin, TX) | ~3.8 | Pipeline — evaluate soon |
+| Fortinet | Software Development Engineer Intern (Sunnyvale) | ~3.8 | Pipeline — cybersecurity match |
+| Vapi | Software Engineering Intern (SF) | ~3.8 | Pipeline — voice AI backend |
+| Mastercard | Software Engineer Intern (US) | ~3.5 | Pipeline — financial systems |
+
+## ⭐ Top Match: Cloudflare AI & Automation Intern (4.5/5)
+
+**URL:** https://job-boards.greenhouse.io/cloudflare/jobs/7781953  
+**Location:** Austin, TX — hybrid (3-5 days/week)  
+**Report:** [285](reports/285-cloudflare-ai-automation-intern-2026-04-09.md)
+
+**Why exceptional:**
+- Carlos built a Cloudflare Workers + Hono API gateway at Finch (20+ proxied endpoints, OAuth, S3 signed URLs) — this role asks for Workers AI experience
+- JD explicitly mentions Claude Code as a desired tool — Carlos has direct hands-on use
+- Build AI agents + autonomous workflows = exact Agentic/Automation archetype match
+- TypeScript/React/Tailwind exact stack match
+- Austin, TX (hybrid) — no relocation, same state as TAMU
+- Despite "Product Marketing" in the title, this is a pure engineering role building GTM automation tools and AI agents
+
+**Apply this week.**
+
+## Companies Scanned → No Roles
+
+| Company | Reason |
+|---------|--------|
+| Hume AI | No intern/new grad roles |
+| Temporal | No open positions at all |
+| RunPod | No intern/new grad roles |
+| Weights & Biases | All senior FT only |
+| Hudson River Trading | Applications closed (Summer 2026) |
+| Retool | No intern/new grad roles |
+| Cursor/Anysphere | No structured intern program |
+| Orca Security | All senior FT only |
+| Snyk | No intern listings |
+| Palo Alto Networks | 0 active intern listings currently |
+
+## Pipeline Health Note
+
+Reports #281-#284 (CrowdStrike Red Team, Prophet Security, Baseten, Proofpoint) are referenced in applications.md from Wave 3 but may be missing from disk. Run `node verify-pipeline.mjs` to confirm and re-generate if needed.
+
+## Recommended Next Actions
+
+1. **APPLY IMMEDIATELY:** Cloudflare AI & Automation Intern (Austin, TX) — report #285. Strongest find of the wave.
+2. **EVALUATE:** Zendesk SWE Intern (Austin, $98-148K annualized) — strong comp, AI project, same city
+3. **EVALUATE:** Fortinet SDE Intern — cybersecurity minor is the differentiator, network security background
+4. **APPLY (existing ⭐ reports):** Haize Labs 4.7, CrowdStrike Red Team 4.5, Stripe 4.5 — if not yet applied
+5. **Run:** `node verify-pipeline.mjs` to audit pipeline integrity
+
+## Market Status Note (April 2026)
+
+The job market for Summer 2026 internships is late-cycle. Many elite firms (Jane Street, HRT, Two Sigma, D.E. Shaw) have closed. Focus on:
+- Companies still actively hiring (Cloudflare, Zendesk, Fortinet, Vapi)
+- Re-verifying older pipeline items for closure before applying
+
+---
+
 # Portal Scan — 2026-04-09 (Scan v13)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

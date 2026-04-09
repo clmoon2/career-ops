@@ -646,3 +646,10 @@
 - [ ] https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Machine-Learning-Engineer-Intern--Seattle--Summer-2026_10143620-1 | Walt Disney | Machine Learning Engineer Intern (Seattle, Summer 2026)
 - [ ] https://careers-empowerai.icims.com/jobs/8652/ai-ml-intern/job | Empower AI | AI/ML Intern (Reston, VA)
 - [ ] https://gsk-us-earlytalent.icims.com/jobs/10200/summer-intern-responsible-ai-agents/job | GSK | Summer Intern - Responsible AI Agents (San Francisco)
+
+<!-- === NEW 2026-04-09 SCAN (Autonomous Agent - Wave 4) === -->
+- [x] https://job-boards.greenhouse.io/cloudflare/jobs/7781953 | Cloudflare | Product Marketing Engineer Intern (AI & Automation) — Austin TX hybrid, Workers AI+agents, TypeScript ⭐ EVALUATED 4.5 → report #285
+- [ ] https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Austin-Texas-United-States-of-America/Software-Engineer-Intern_R34607 | Zendesk | Software Engineer Intern (Austin, TX) — AI/ML exploratory project, $98-148K annualized, hybrid (~3.8)
+- [ ] https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/9010 | Fortinet | Software Development Engineer Intern (Sunnyvale, CA) — cybersecurity company, FortiSWITCH team, Python/C++, 10-12 weeks (~3.8)
+- [ ] https://jobs.ashbyhq.com/vapi/a2ab3304-b7a8-4187-8681-e5f4a7e3d862 | Vapi | Software Engineering Intern — SF in-person, voice AI startup, backend engineering (~3.8)
+- [ ] https://careers.mastercard.com/us/en/job/R-257331/Software-Engineer-Intern-Summer-2026-United-States | Mastercard | Software Engineer Intern, Summer 2026 — US locations, financial systems + security, Java/Python (~3.5)
