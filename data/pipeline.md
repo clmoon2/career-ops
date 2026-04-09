@@ -681,3 +681,13 @@
 - [x] #309 | https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/9010 | Fortinet | Software Development Engineer Intern (Sunnyvale, CA) | 3.2/5 | ❌ NO APLICAR (FortiSWITCH firmware, not AI/security; Sunnyvale relocation; below target comp)
 - [x] #310 | https://jobs.ashbyhq.com/vapi/a2ab3304-b7a8-4187-8681-e5f4a7e3d862 | Vapi | Software Engineering Intern | 3.6/5 | ❌ Evaluada (TypeScript+React+Node exact match, voice AI, SF in-person; undisclosed comp)
 - [!] #311 | https://careers.mastercard.com/us/en/job/R-257331/Software-Engineer-Intern-Summer-2026-United-States | Mastercard | Software Engineer Intern, Summer 2026 | Descartado (listing closed — no longer accepting applications)
+
+<!-- === NEW 2026-04-09 SCAN v17 (Autonomous Agent) === -->
+- [ ] https://jobs.ashbyhq.com/decagon/aa9c9d2a-aba9-429e-bf91-8303247fbcd6 | Decagon | Agent Software Engineer Intern (Summer 2026) — SF May-Sep 2026; agentic AI customer support; a16z/Accel-backed; near-perfect archetype match ⭐ EVALUATED 4.4
+- [ ] https://job-boards.greenhouse.io/robinhood/jobs/7163239 | Robinhood | Machine Learning Engineer Intern, Agentic ML (Summer 2026) — Menlo Park 3d/wk; $48/hr; agentic ML for fintech AI products; quant trading background differentiates ⭐ EVALUATED 4.1
+- [ ] https://jobs.ashbyhq.com/sierra/6a75b530-b7bb-4439-bb67-37b4f2b75b96 | Sierra | Software Engineer, Agent (New Grad) — SF in-person; $180-200K + equity FTE; Bret Taylor co; React/TS/Go/RAG; agentic AI platform ⭐ EVALUATED 4.0
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/5012768007 | Together AI | Software Engineer Intern (Summer 2026) — SF; $58/hr + housing stipend; May-Aug or Jun-Sep 2026; ML platform ⭐ EVALUATED 3.9
+- [ ] https://careers.salesforce.com/en/jobs/jr308796/summer-2026-intern-software-engineer/ | Salesforce | Summer 2026 Intern - Software Engineer — SF/Seattle/NYC; $49-59/hr; 12 weeks; Dec 2026+ grad; Agentforce platform (~3.7)
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/7560246 | Twilio | Software Engineer Intern - United States — US remote; 3 months; Python/JS/Go; communications infra; $47-50/hr (~3.5)
+- [ ] https://job-boards.greenhouse.io/veeamsoftware/jobs/4736372101 | Veeam Software | AI Intern, Veeam Data Cloud (Summer 2026) — AI data summarization; verify US location and comp (~3.4)
+<!-- === END 2026-04-09 SCAN v17 === -->

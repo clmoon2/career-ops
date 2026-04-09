@@ -918,3 +918,24 @@ https://boards-api.greenhouse.io/v1/boards/arizeai/jobs	2026-04-09	greenhouse-ap
 https://jobs.ashbyhq.com/perplexity	2026-04-09	ashby	(scanned: EU internships only — Berlin/Belgrade/London; no US roles)	Perplexity AI	skipped_title
 https://www.leidos.com/careers	2026-04-09	websearch	(remote SWE intern requires Master's degree; NJ/MD/VA locations only)	Leidos	skipped_title
 https://www.drata.com/about/careers	2026-04-09	ashby	(no intern/new grad roles — all senior/director/manager level)	Drata	skipped_no_intern
+https://jobs.ashbyhq.com/decagon/aa9c9d2a-aba9-429e-bf91-8303247fbcd6	2026-04-09	ashby	Agent Software Engineer Intern (Summer 2026)	Decagon	added
+https://job-boards.greenhouse.io/robinhood/jobs/7163239	2026-04-09	greenhouse	Machine Learning Engineer Intern, Agentic ML	Robinhood	added
+https://job-boards.greenhouse.io/togetherai/jobs/5012768007	2026-04-09	greenhouse	Software Engineer Intern (Summer 2026)	Together AI	added
+https://jobs.ashbyhq.com/sierra/6a75b530-b7bb-4439-bb67-37b4f2b75b96	2026-04-09	ashby	Software Engineer, Agent (New Grad)	Sierra	added
+https://careers.salesforce.com/en/jobs/jr308796/summer-2026-intern-software-engineer/	2026-04-09	websearch	Summer 2026 Intern - Software Engineer	Salesforce	added
+https://careers.salesforce.com/en/jobs/jr313214/summer-2026-intern-ai-research/	2026-04-09	websearch	Summer 2026 Intern - AI Research	Salesforce	skipped_title
+https://jobs.ashbyhq.com/gigaml/aa903645-854f-4404-9d49-8a96f0dcc2cc	2026-04-09	ashby	Software Engineer Intern (Summer 2026)	Giga	skipped_dup
+https://job-boards.greenhouse.io/twilio/jobs/7560246	2026-04-09	greenhouse	Software Engineer Intern - United States	Twilio	added
+https://jobs.ashbyhq.com/cohere/66c98ca3-334b-4a6a-a27c-5807b3686121	2026-04-09	ashby	Software Engineer Intern (Spring/Summer 2026)	Cohere	skipped_dup
+https://job-boards.greenhouse.io/veeamsoftware/jobs/4736372101	2026-04-09	greenhouse	AI Intern, Veeam Data Cloud (Summer 2026)	Veeam Software	added
+https://jobs.ashbyhq.com/whatnot/8250532f-4bfd-4ee5-a041-4a2e54047cf7	2026-04-09	ashby	Software Engineer Intern (Summer 2026)	Whatnot	skipped_dup
+https://job-boards.greenhouse.io/cloudflare/jobs/7296923	2026-04-09	greenhouse	Software Engineer Intern (Summer 2026, London UK)	Cloudflare	skipped_title
+https://jobs.ashbyhq.com/elevenlabs	2026-04-09	ashby	(no intern/new grad roles - all mid/senior)	ElevenLabs	skipped_no_intern
+https://jobs.ashbyhq.com/langchain	2026-04-09	ashby	(no intern/new grad roles)	LangChain	skipped_no_intern
+https://jobs.ashbyhq.com/n8n	2026-04-09	ashby	(no intern/new grad roles - all senior FT)	n8n	skipped_no_intern
+https://jobs.ashbyhq.com/zapier	2026-04-09	ashby	(no intern/new grad roles - all senior FT)	Zapier	skipped_no_intern
+https://jobs.ashbyhq.com/bland	2026-04-09	ashby	(no intern roles - FDE and senior FT only)	Bland AI	skipped_no_intern
+https://jobs.ashbyhq.com/deepgram	2026-04-09	ashby	(no intern roles - senior/manager level only)	Deepgram	skipped_no_intern
+https://jobs.ashbyhq.com/lindy	2026-04-09	ashby	(no intern/new grad roles - all senior FT)	Lindy	skipped_no_intern
+https://jobs.lever.co/mistral/cf4616fc-977a-475c-bb2e-eb46a2c4a94f	2026-04-09	lever	Software Engineer, New Grad (Paris-based)	Mistral AI	skipped_title
+https://jobs.lever.co/mistral/881941e1-2741-48e2-8767-12866965fac5	2026-04-09	lever	Applied AI, Forward Deployed ML Engineer (Internship, Paris)	Mistral AI	skipped_title

@@ -1,3 +1,60 @@
+# Portal Scan — 2026-04-09 (Scan v17 — Autonomous Agent)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+**Run:** Autonomous Agent v17
+**Scan history entries before this run:** ~930
+**Companies/portals checked this run:** 30+
+**Focus:** Uncovered portals.yml companies + new discovery (Decagon, Robinhood Agentic ML, Together AI, Sierra New Grad, Salesforce, Twilio)
+
+## Stats
+
+| Metric | Count |
+|--------|-------|
+| portals.yml companies verified | 9 (ElevenLabs, LangChain, n8n, Zapier, Bland AI, Deepgram, Lindy, Mistral, Dialpad) |
+| Discovery searches run | 12 WebSearch + 10 WebFetch |
+| New listings found | 7 (+ 2 dupes/skipped) |
+| Skipped (no intern roles) | 9 companies |
+| **New listings added to pipeline** | **7** |
+| **Full evaluation reports written (≥4.0)** | **4 (287, 288, 289, 290)** |
+| TSV tracker additions written | 9 (324-332), merged to applications.md |
+
+## ⭐ Top Matches
+
+### Decagon — Agent Software Engineer Intern — 4.4/5
+**URL:** https://jobs.ashbyhq.com/decagon/aa9c9d2a-aba9-429e-bf91-8303247fbcd6  |  **Report:** [287](reports/287-decagon-agent-swe-intern-2026-04-09.md)
+- SF in-person, May–Sep 2026; a16z/Accel-backed; builds AI agents for enterprise customer support
+- Carlos's 7-stage multi-model AI pipeline + LangChain + RAG = near-perfect archetype match
+- **Action: Apply immediately.**
+
+### Robinhood — ML Engineer Intern, Agentic ML — 4.1/5
+**URL:** https://job-boards.greenhouse.io/robinhood/jobs/7163239  |  **Report:** [288](reports/288-robinhood-ml-agentic-intern-2026-04-09.md)
+- Menlo Park CA 3d/wk, $48/hr; agentic ML for fintech AI products
+- Quant trading background (Bloomberg/Alpaca) differentiates from pure ML candidates
+- **Action: Apply. Verify Greenhouse URL still live.**
+
+### Sierra — Software Engineer, Agent (New Grad) — 4.0/5
+**URL:** https://jobs.ashbyhq.com/sierra/6a75b530-b7bb-4439-bb67-37b4f2b75b96  |  **Report:** [290](reports/290-sierra-swe-agent-new-grad-2026-04-09.md)
+- SF in-person, $180-200K + equity FTE; Bret Taylor co; React/TS/Go/RAG
+- **Action: Apply. Also see intern version (#274, 4.3).**
+
+### Together AI — SWE Intern — 3.9/5
+**URL:** https://job-boards.greenhouse.io/togetherai/jobs/5012768007  |  **Report:** [289](reports/289-together-ai-swe-intern-2026-04-09.md)
+- SF, $58/hr + housing stipend, May-Aug or Jun-Sep 2026
+- **Action: Apply to Platform/Product Engineering track.**
+
+## Companies Verified → No Intern Roles (v17)
+ElevenLabs, LangChain, n8n, Zapier, Bland AI, Deepgram, Lindy, Mistral AI (Europe only), Dialpad
+
+## Recommended Next Actions
+1. **APPLY NOW:** Decagon Agent SWE Intern (4.4/5, #287) — closes fast
+2. **APPLY NOW:** CrowdStrike Red Team Intern (4.5/5) — 100% remote
+3. **APPLY NOW:** Haize Labs SWE Intern (4.7/5) — adversarial LLM research
+4. **APPLY:** Robinhood ML Agentic Intern (4.1/5, #288) — verify URL
+5. **APPLY:** Sierra SWE Agent New Grad (4.0/5, #290) — $180-200K FTE
+6. **APPLY:** Together AI SWE Intern (3.9/5, #289) — $58/hr + housing
+
+---
+
 # Portal Scan — 2026-04-09 (Scan v16 — Autonomous Agent)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
