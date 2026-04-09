@@ -910,3 +910,11 @@ https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90	2026-04-09	
 https://jobs.ashbyhq.com/sentry/5e112240-922a-48f1-8865-9e7f89687f39	2026-04-09	websearch-ashby	Software Engineer, Intern (Fall 2026)	Sentry	added
 https://job-boards.greenhouse.io/freeformfuturecorp/jobs/6852163003	2026-04-09	websearch-greenhouse	Software Engineer (New Grad Summer 2026)	Freeform	added
 https://job-boards.greenhouse.io/underdogfantasy/jobs/4647374005	2026-04-09	websearch-greenhouse	Associate Software Engineer, 2026 New Grad	Underdog Fantasy	added
+https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	2026-04-09	greenhouse-api	(re-checked: no intern/new grad — BDR and Analyst roles only)	Anthropic	skipped_no_intern
+https://boards-api.greenhouse.io/v1/boards/airtable/jobs	2026-04-09	greenhouse-api	(re-checked: no intern/new grad — SW Eng New Grad from 4/5 removed)	Airtable	skipped_no_intern
+https://boards-api.greenhouse.io/v1/boards/vercel/jobs	2026-04-09	greenhouse-api	(re-checked: no intern/new grad — all senior/manager roles)	Vercel	skipped_no_intern
+https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs	2026-04-09	greenhouse-api	(re-checked: SWE Intern 4595665005 confirmed active from 4/7)	Glean	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/arizeai/jobs	2026-04-09	greenhouse-api	(re-checked: no intern/entry-level roles — all senior/manager)	Arize AI	skipped_no_intern
+https://jobs.ashbyhq.com/perplexity	2026-04-09	ashby	(scanned: EU internships only — Berlin/Belgrade/London; no US roles)	Perplexity AI	skipped_title
+https://www.leidos.com/careers	2026-04-09	websearch	(remote SWE intern requires Master's degree; NJ/MD/VA locations only)	Leidos	skipped_title
+https://www.drata.com/about/careers	2026-04-09	ashby	(no intern/new grad roles — all senior/director/manager level)	Drata	skipped_no_intern

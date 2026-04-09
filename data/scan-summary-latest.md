@@ -1,3 +1,56 @@
+# Portal Scan — 2026-04-09 (Scan v16 — Autonomous Agent)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+**Run:** Autonomous Agent v16
+**Scan history entries before this run:** ~1,000+
+**Companies/portals checked this run:** 45+
+**Focus:** Portals.yml API re-check + broad WebSearch discovery + missing report recovery
+
+## Stats
+
+| Metric | Count |
+|--------|-------|
+| Greenhouse APIs re-checked | 5 (Anthropic, Airtable, Vercel, Glean, Arize AI) |
+| Companies checked via WebSearch | 40+ |
+| New listings found (not in prior history) | 0 |
+| Duplicate/already-scanned | all |
+| **New listings added to pipeline** | **0** |
+| **Missing reports written (≥4.0)** | **4 (281, 282, 283, 284)** |
+
+## Assessment
+
+This scan session confirmed that the scan history is **comprehensively maintained** from prior sessions (2026-04-07 through 2026-04-09). All major portals.yml companies were verified within the last 48 hours. No truly new intern/new-grad listings were found that weren't already in the pipeline.
+
+### Key coverage gaps confirmed closed:
+- **Anthropic**: No intern/new grad roles (BDR/Analyst only); previously covered
+- **Airtable, Vercel, Arize AI**: No intern roles active
+- **Perplexity**: EU-only internships (Berlin, Belgrade, London); no US openings
+- **Leidos**: Remote SWE intern requires Master's degree
+- **Drata**: No intern/new grad roles
+
+## Missing Reports Written This Session
+
+| # | Company | Role | Score | Report |
+|---|---------|------|-------|--------|
+| 281 | CrowdStrike | Red Team Intern (Remote, Summer 2026) | **4.5/5** ⭐ | [281](reports/281-crowdstrike-red-team-intern-2026-04-09.md) |
+| 282 | Prophet Security | SWE New Grad (Backend/ML) | **4.3/5** ⭐ | [282](reports/282-prophet-security-swe-new-grad-2026-04-09.md) |
+| 283 | Baseten | SWE Intern (FDE track recommended) | **4.0/5** | [283](reports/283-baseten-swe-intern-2026-04-09.md) |
+| 284 | Proofpoint | SWE Intern, AI Agents (Satori) | **4.2/5** ⭐ | [284](reports/284-proofpoint-swe-intern-ai-agents-2026-04-09.md) |
+
+These were tracked in applications.md but lacked actual report files. Reports now complete.
+
+## Recommended Next Actions
+
+1. **APPLY NOW:** CrowdStrike Red Team Intern (4.5, remote) — verify graduation date Dec 2026–Aug 2027
+2. **APPLY NOW:** Haize Labs SWE Intern (4.7, highest score in pipeline)
+3. **APPLY NOW:** Stripe SWE Intern (4.5, $61.75/hr)
+4. **APPLY:** Cloudflare Security Engineer Intern (4.3, Austin TX)
+5. **APPLY:** Proofpoint Satori AI Agents Intern (4.2, Draper UT)
+6. **APPLY:** Prophet Security New Grad (4.3, Menlo Park — relocation needed)
+7. **RUN** `/career-ops pipeline` to evaluate the 100+ pending URLs in 3.4–3.9 score range
+
+---
+
 # Portal Scan — 2026-04-09 (Scan v15 — Wave 5)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
