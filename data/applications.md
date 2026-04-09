@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 305 | 2026-04-09 | Prophet Security | SWE New Grad (Backend/ML) | 4.3/5 | Evaluada | ❌ | [282](reports/282-prophet-security-swe-new-grad-2026-04-09.md) | ⭐ Agentic AI SOC platform; Python/LLM/security exact crossover; $41M Accel-backed; Menlo Park in-person |
+| 306 | 2026-04-09 | Baseten | Software Engineering Intern | 4.0/5 | Evaluada | ❌ | [283](reports/283-baseten-swe-intern-2026-04-09.md) | ML inference platform; FDE/Infra track target; 90th pct comp; SF or NYC 3d/wk; 2026 grads only |
 | 304 | 2026-04-09 | CrowdStrike | Red Team Intern | 4.5/5 | Evaluada | ❌ | [281](reports/281-crowdstrike-red-team-intern-2026-04-09.md) | ⭐ Adversarial emulation + carlosOS assembly + LLM adversarial testing = elite fit; $28-35/hr, 100% remote; verify graduation Dec 2026-Aug 2027 |
 | 299 | 2026-04-08 | Semgrep | Software Engineer Intern, Cloud Platform | 4.3/5 | Evaluada | ❌ | [276](reports/276-semgrep-swe-intern-cloud-platform-2026-04-08.md) | AppSec tooling company; AWS+security+Python direct match; $2,400/wk; SF in-person 5d/wk; verify open |
 | 300 | 2026-04-08 | Semgrep | Software Engineer Intern, Program Analysis | 4.1/5 | Evaluada | ❌ | [277](reports/277-semgrep-swe-intern-program-analysis-2026-04-08.md) | Static analysis security; carlosOS systems depth differentiates; Rust+Python; SF in-person 5d/wk |

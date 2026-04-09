@@ -2,6 +2,20 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-09 SCAN v12 (Autonomous Agent) === -->
+- [ ] https://jobs.ashbyhq.com/prophet-security/b432d9fa-f627-433f-8fda-71e3ada89039 | Prophet Security | SWE New Grad (Backend/ML) — Agentic AI SOC platform; Python+LLMs+security; Accel-backed $41M; Menlo Park in-person ⭐ EVALUATED 4.3
+- [ ] https://jobs.ashbyhq.com/baseten/4e6757f3-74c0-4d3d-9b0b-eb56ab561c37 | Baseten | Software Engineering Intern (2026 Grads Only) — ML inference platform; FDE/Infra track; SF or NYC 3d/wk; 90th pct comp ⭐ EVALUATED 4.0
+- [ ] https://jobs.ashbyhq.com/suno/35b8b187-b136-4bf6-af4d-b28ff892dc53 | Suno | Software Engineering Internship (Summer 2026) — Music AI; Cambridge MA; Python/TypeScript (~3.5)
+- [ ] https://job-boards.greenhouse.io/sigmacomputing/jobs/7639837003 | Sigma Computing | Software Engineering Intern (Summer 2026) — BI platform with AI copilot; SF; (~3.4)
+- [ ] https://jobs.ashbyhq.com/synthflow/b0cb2768-ac18-42a3-94b2-5e627f24023c | Synthflow AI | Forward Deployed Engineer — Voice AI; FDE full-time; EU/US (~3.5)
+- [ ] https://jobs.ashbyhq.com/exa/8932d319-b456-4ee0-9efd-16d82be8de80 | Exa | Forward Deployed Engineer — AI web search API; FDE full-time (~3.5)
+- [ ] https://job-boards.greenhouse.io/schonfeld/jobs/7246747 | Schonfeld | 2026 Software Engineering Summer Intern — quant trading; NYC; Carlos quant project fits (~3.6)
+- [ ] https://job-boards.greenhouse.io/virtu/jobs/7848570002 | Virtu Financial | Software Engineer Intern — HFT; Austin TX or NYC; quant/systems (~3.5)
+- [ ] https://job-boards.greenhouse.io/enova/jobs/7270805 | Enova International | Software Engineer Internship (Hybrid) — fintech AI; Chicago hybrid Jun-Aug; (~3.3)
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5029463007 | Anduril Industries | Software Engineer Intern, Frontier Systems — defense tech; Irvine CA; systems focus (~3.5)
+- [ ] https://jobs.ashbyhq.com/suno/991c9785-9bd5-499a-98aa-146e8c947752 | Suno | Software Engineer, Early Career — Music AI; Cambridge MA; full-time new grad (~3.3)
+<!-- === END 2026-04-09 SCAN v12 === -->
+
 <!-- === NEW 2026-04-09 SCAN v11 (Autonomous Agent) === -->
 - [ ] https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Red-Team-Intern---Summer-2026--Remote-_R26841 | CrowdStrike | Red Team Intern — Summer 2026, 100% Remote, $28-35/hr, adversarial emulation ⭐ EVALUATED 4.5
 - [ ] https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/usa---remote/information-security-intern---summer-2026--remote-_r27493 | CrowdStrike | Information Security Intern — Summer 2026, 100% Remote (~3.8)
