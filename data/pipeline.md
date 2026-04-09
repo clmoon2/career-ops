@@ -2,6 +2,28 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-09 SCAN v9 (Autonomous Agent) === -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4605996005 | Scale AI | Software Engineer - New Grad (2026) — SF, $124-155K ⭐ EVALUATED 4.2
+- [ ] https://job-boards.greenhouse.io/point72/jobs/8169852002 | Point72 | 2026 Summer Internship, AI Engineer — NYC in-person ⭐ EVALUATED 4.2
+- [ ] https://jobs.lever.co/palantir/ffa836f8-1249-45c1-a3b4-d0597014ce66 | Palantir | Forward Deployed Software Engineer, Internship — general listing (~4.5, see entry #1 for Commercial variant)
+- [ ] https://jobs.ashbyhq.com/cohere/2c89e31e-d062-47b7-85cf-1ac6424e273a | Cohere | Machine Learning Intern/Co-op (Spring/Summer 2026) — possible new UUID for same role as 2c669d85
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8495850002 | Airtable | Software Engineer — new posting (FT, may require experience)
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4674863005 | Scale AI | DevOps Engineer, Infrastructure & Security — DC, FT 2-3yr req, clearance preferred (~2.5)
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4651559005 | Scale AI | Product Security Engineer - Public Sector — DC/St. Louis, senior FT, clearance (~2.5)
+- [ ] https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79 | Palantir | Software Engineer, New Grad - Defense — possible dup of entry #146 (same title, different UUID)
+- [ ] https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f | Palantir | Forward Deployed Software Engineer, Internship - France — Oct 2026 start, France (~3.0)
+- [ ] https://jobs.lever.co/secureframe/29ff0477-faeb-44d6-abb3-8e894fc92a22 | Secureframe | New Grad Software Engineer, Growth — NYC hybrid, compliance SaaS (~3.5)
+- [ ] https://jobs.lever.co/artera/e404f923-0387-4086-8ab0-55988a1564d0 | Artera | Software Engineer Intern (Summer 2026) — healthcare SaaS (~3.0)
+- [ ] https://jobs.lever.co/matchgroup/55e5b98a-3281-4da1-995c-dbf6e1381575 | Match Group | Cloud Infrastructure Engineer Intern — Tinder infra, 12 wks Jun-Aug 2026 (~3.5)
+- [ ] https://jobs.lever.co/theathletic/e55c3738-517a-4033-843d-0c572f63145e | The Athletic | Engineering Student Intern, Summer 2026 (Remote) — sports media, remote (~3.0)
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7761468 | Cloudflare | Business Analyst Intern, Revenue Operations (AI Innovation) — AI strategy/analytics (~3.0)
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7758279 | Cloudflare | Customer Solutions Engineer Intern — pre-sales SE intern (~3.0)
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7668989 | Cloudflare | Data Analytics Intern — data/BI analytics (~2.5)
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7591586 | Cloudflare | Frontend Engineer, AI Crawl Control — AI + Frontend, FT role at Cloudflare (~3.5)
+- [ ] https://job-boards.greenhouse.io/memphismeats/jobs/7525926003 | UPSIDE Foods | AI Intern (Summer 2026) — food tech/cell ag AI, 16 wks (~3.0)
+- [ ] https://job-boards.greenhouse.io/audaxgroup/jobs/4613476005 | Audax Group | Summer AI Engineer Intern — PE/alt investments, AI pipelines (~3.0)
+<!-- === END 2026-04-09 SCAN v9 === -->
+
 <!-- === NEW 2026-04-08 SCAN v8 (Autonomous Agent) === -->
 - [x] https://jobsus.deloitte.com/dallas-tx/deloitte-risk-financial-advisory-intern-cyber-summer-2026/F8B88A6899774BB581997BB24DA8B9B0/job/ | Deloitte | Risk & Financial Advisory Intern - Cyber (Summer 2026) — Dallas/Houston TX, $40.87/hr ⭐ EVALUATED 4.0
 - [x] https://www.capitalonecareers.com/job/richmond/technology-internship-program-summer-2026/31238/84615219872 | Capital One | Technology Internship Program (Summer 2026) — Plano TX (DFW), $65/hr ⭐ EVALUATED 4.0

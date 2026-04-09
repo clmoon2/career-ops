@@ -2,6 +2,11 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 299 | 2026-04-08 | Semgrep | Software Engineer Intern, Cloud Platform | 4.3/5 | Evaluada | ❌ | [276](reports/276-semgrep-swe-intern-cloud-platform-2026-04-08.md) | AppSec tooling company; AWS+security+Python direct match; $2,400/wk; SF in-person 5d/wk; verify open |
+| 300 | 2026-04-08 | Semgrep | Software Engineer Intern, Program Analysis | 4.1/5 | Evaluada | ❌ | [277](reports/277-semgrep-swe-intern-program-analysis-2026-04-08.md) | Static analysis security; carlosOS systems depth differentiates; Rust+Python; SF in-person 5d/wk |
+| 301 | 2026-04-08 | Harmonic | Software Engineer Intern (Summer '26) | 4.0/5 | Evaluada | ❌ | [278](reports/278-harmonic-swe-intern-2026-04-08.md) | VC startup discovery platform; LLM+Python+TypeScript direct stack match; NYC; verify Oct 2025 deadline |
+| 302 | 2026-04-09 | Scale AI | Software Engineer, New Grad | 4.2/5 | Evaluada | ❌ | [279](reports/279-scaleai-swe-newgrad-2026-04-09.md) | Full-stack Python/React/RAG at top AI data company; $124-155K; verify graduation window (req Fall 2025–Spring 2026) |
+| 303 | 2026-04-09 | Point72 | Summer Intern, AI Engineer | 4.2/5 | Evaluada | ❌ | [280](reports/280-point72-ai-engineer-intern-2026-04-09.md) | GenAI + quant finance = rare combo; Bloomberg/Alpaca background differentiates; NYC in-person |
 | 298 | 2026-04-08 | Haize Labs | Software Engineer Intern | 4.7/5 | Evaluada | ❌ | [272](reports/272-haizelabs-swe-intern-2026-04-08.md) | ⭐ APPLY NOW — adversarial LLM testing + co-founder profile = perfect match, $100-125K annualized NYC |
 | 294 | 2026-04-07 | Stripe | Software Engineer Intern (Summer 2026) | 4.5/5 | Evaluada | ❌ | [268](reports/268-stripe-swe-intern-2026-04-07.md) | Top comp $61.75/hr, backend+security match, SF/NYC, apply ASAP |
 | 295 | 2026-04-07 | SpaceX | Software Engineering Internship/Co-op (Summer 2026) | 4.3/5 | Evaluada | ❌ | [269](reports/269-spacex-swe-intern-2026-04-07.md) | Systems depth match, carlosOS differentiator, TX locations accessible, $36-40/hr |
