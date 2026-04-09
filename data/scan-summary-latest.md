@@ -1,3 +1,102 @@
+# Portal Scan — 2026-04-09 (Scan v15 — Wave 5)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+**Run:** Autonomous Agent Wave 5 (Scan v15)
+**Scan history entries before this run:** 878
+**Searches executed this run:** 10 WebSearch + 5 WebFetch
+**Focus:** Broad discovery via WebSearch across Ashby/Greenhouse/Lever/Intuit job boards
+
+## Stats
+
+| Metric | Count |
+|--------|-------|
+| WebSearch queries executed | 10 |
+| WebFetch verifications | 5 |
+| New URLs discovered | 34 |
+| Closed/expired listings filtered | 2 (Censys, Together AI Research) |
+| Duplicate listings filtered | 0 |
+| **New listings added to pipeline** | **32** |
+| Full evaluation reports written (≥4.0) | 1 (Cloudflare Security Engineer Intern 4.3) |
+| Scan history entries added | 34 |
+
+## ⭐ Top Match: Cloudflare Security Engineer Intern (4.3/5)
+
+**URL:** https://job-boards.greenhouse.io/cloudflare/jobs/7582150
+**Location:** Austin, TX (in-office 3-5d/wk; local residency required, no relocation)
+**Duration:** 12-16 weeks summer
+**Stack:** Go, Rust, Python, C/C++
+**Report:** [287](reports/287-cloudflare-security-engineer-intern-2026-04-09.md)
+
+**Why exceptional:** Carlos has Cloudflare Workers in PRODUCTION (edge API gateway, Hono, OAuth handling, S3 signed URLs at ApplyEasy). He implemented OWASP Top 10 defenses in production code (HMAC-SHA256 CSRF, CSP, LaTeX injection prevention). Cybersecurity minor directly applicable. Rust + C/C++ (carlosOS) + Python stack matches JD exactly. Austin TX accessible from College Station.
+
+**Action:** Apply this week.
+
+## New Listings Added to Pipeline
+
+### Score 4.0+ (Evaluate These Next)
+
+| Company | Role | URL | Est. Score |
+|---------|------|-----|-----------|
+| ⭐ Cloudflare | **Security Engineer Intern** (Austin TX) | /cloudflare/jobs/7582150 | **4.3** (Report #287) |
+| Cloudflare | Software Engineer Intern (Austin TX) | /cloudflare/jobs/7206269 | ~4.0 |
+| Notion | Software Engineer, AI Intern (NYC) | notion/5bc8cbb9 | ~4.0 |
+| The Voleon Group | Software Engineer Intern (NYC quant ML) | voleon/100b2cb6 | ~4.0 |
+
+### Score 3.7-3.9 (Good Fits)
+
+| Company | Role | Notes |
+|---------|------|-------|
+| Affirm | SWE Intern ($55/hr, SF) | Fintech, Python/backend match |
+| Intuit | Full Stack Engineering Intern | $35-66/hr, Mountain View CA |
+| Ramp | Backend SWE Intern | NYC fintech, Python/FastAPI direct match |
+| PDT Partners | SWE Internship (NYC quant) | 10 wks Jun-Aug |
+| Intuit | Cyber Security Intern | Mountain View CA, cyber minor match |
+| Symmetry Systems | Full Stack Intern (data+AI security) | Security × SWE crossover |
+| Intuit | AI Science Intern | Mountain View CA |
+
+### Score 3.4-3.6 (Pipeline Queue)
+
+| Company | Role |
+|---------|------|
+| Notion | Software Engineer Intern (NYC Summer) |
+| Klaviyo | Full-stack SWE Intern (Boston, $56/hr) |
+| Tessera Labs | Backend SWE Intern (Python/FastAPI/AI) |
+| Replit | SWE Intern Summer 2026 |
+| LaunchDarkly | Fullstack SWE Intern |
+| Neuralink | SWE Intern (Austin TX or Fremont CA) |
+| Aquatic Capital | SWE Intern (quant) |
+| Zettabyte | SWE Intern (GPU cloud) |
+| Lambda | ML Research Intern 2026 |
+| Saronic | Full Stack Intern (defense/autonomous vessels) |
+| GoLinks | Fullstack Intern (Remote) |
+| Match Group | Backend Intern (LA/Palo Alto) |
+| Figma | Early Career SWE 2026 |
+| Sigma Computing | SWE New Grad Program |
+
+## Closed Listings Found
+| Company | Role | Status |
+|---------|------|--------|
+| Censys | AI/ML Engineering Intern (8167601002) | CLOSED — ID not found on board |
+| Together AI | Research Intern, Model Shaping (5015074007) | CLOSED — ID not found on board |
+
+## Recommended Next Actions
+
+1. **APPLY NOW:** Cloudflare Security Engineer Intern (report #287 ready, Austin TX)
+2. **APPLY NOW:** Cloudflare SWE Intern Austin TX (~4.0, sister listing)
+3. **EVALUATE:** Voleon Group (quant ML hedge fund — Carlos's quant project is rare differentiator)
+4. **EVALUATE:** Notion AI Intern + Affirm + Ramp (all strong product/fintech fits)
+5. **CONFIRM:** Intuit has 3 separate intern listings (Full Stack, Cyber Security, AI Science) — all Mountain View CA
+
+## Austin TX Cluster Note
+This scan found 3 Austin-area internships in one run:
+- Cloudflare Security Engineer Intern (confirmed open)
+- Cloudflare SWE Intern (confirmed open)
+- Neuralink SWE Intern (C/C++ focus)
+
+All three are viable for a TAMU student spending summer in Austin. Consider coordinating applications.
+
+---
+
 # Portal Scan — 2026-04-09 (Scan v14 — Wave 4)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

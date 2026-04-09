@@ -2,6 +2,34 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-09 SCAN v14 (Autonomous Agent) === -->
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7582150 | Cloudflare | Security Engineer Intern (Summer 2026) — OWASP/security-first; Austin TX in-office (accessible from TAMU); Go/Rust/Python/C; prod Cloudflare Workers stack ⭐ EVALUATED 4.3
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7206269 | Cloudflare | Software Engineer Intern (Summer 2026, Austin TX) — general SWE at Cloudflare, Austin in-office, Python/Go/Rust; sister listing to Security Intern (~4.0)
+- [ ] https://jobs.ashbyhq.com/notion/5bc8cbb9-4d08-4217-a968-d485d1b39905 | Notion | Software Engineer, AI Intern (Summer 2026) — NYC office May-Sep; product AI feature engineering; TypeScript/Python; top productivity brand (~4.0)
+- [ ] https://jobs.lever.co/voleon/100b2cb6-f9cc-42c3-add9-db143a76f0f0 | The Voleon Group | Software Engineer Intern (Summer 2026) — quant ML hedge fund; NYC; Carlos's quant trading system (Bloomberg/Alpaca/Sharpe 1.79) is a rare differentiator (~4.0)
+- [ ] https://jobs.lever.co/SymmetrySystems/dbca271b-a99b-48ab-83f2-b596a037ad65 | Symmetry Systems | Full Stack Software Engineer Intern (Summer 2026) — data + AI security platform; full stack × security crossover; verify location/comp (~3.7)
+- [ ] https://jobs.intuit.com/job/mountain-view/summer-2026-full-stack-engineering-intern/27595/87369451136 | Intuit | Full Stack Engineering Intern (Summer 2026) — major company; $35-66/hr range; Python/TS/cloud full stack; Mountain View CA (~3.8)
+- [ ] https://jobs.intuit.com/job/mountain-view/summer-2026-cyber-security-intern/27595/87369447136 | Intuit | Cyber Security Intern (Summer 2026) — cybersecurity minor match; Mountain View CA; grad date Dec 2026+ required (~3.7)
+- [ ] https://jobs.intuit.com/job/mountain-view/summer-2026-ai-science-intern/27595/87369447088 | Intuit | AI Science Intern (Summer 2026) — multi-model AI background fits; Mountain View CA; verify ML research focus vs engineering (~3.7)
+- [ ] https://jobs.ashbyhq.com/ramp/c50962b5-c641-4d44-bbe5-7f1d6e7ce51f | Ramp | Software Engineer Internship, Backend (Summer 2026) — fast-growing fintech; NYC; Python/FastAPI direct match; financial ops automation context (~3.7)
+- [ ] https://job-boards.greenhouse.io/pdtpartners/jobs/7073180 | PDT Partners | Summer 2026 Software Engineering Internship — NYC quant trading firm; 10 wks Jun-mid Aug; systems + Python focus (~3.7)
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7528020003 | Affirm | Software Engineering Intern (Summer 2026) — $55/hr; fintech BNPL; Python/backend; SF; verify listing still open (~3.8)
+- [ ] https://job-boards.greenhouse.io/launchdarkly/jobs/7632240003 | LaunchDarkly | Fullstack Software Engineer Intern — DevOps/feature flags platform; React/Python stack match; verify location/timing (~3.5)
+- [ ] https://jobs.ashbyhq.com/tessera-labs/e55f2ac2-b178-48e3-816c-1dcb2cc11a83 | Tessera Labs | Backend Software Engineer Intern — Python/FastAPI/SQLAlchemy + AI-driven features = direct stack match; verify location/comp (~3.6)
+- [ ] https://jobs.ashbyhq.com/zettabyte-space/ec96b63a-e11c-4589-ab25-4f1779fb8759 | Zettabyte | Software Engineering Intern (Summer 2026) — GPU cloud platform; cloud-native infra/backend; niche but interesting for AI infra angle (~3.5)
+- [ ] https://job-boards.greenhouse.io/neuralink/jobs/6672977003 | Neuralink | Software Engineer Intern — C/C++/Python; Austin TX or Fremont CA; systems depth (carlosOS) differentiates; neurotechnology niche (~3.5)
+- [ ] https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1 | Replit | Software Engineering Intern (Summer 2026) — AI coding platform; 12-wk paid; SF; Python/React match (~3.5)
+- [ ] https://job-boards.greenhouse.io/klaviyocampus/jobs/7603083003 | Klaviyo | Full-stack Software Engineer Intern (Summer 2026) — Boston 5d/wk; Jun 1-Aug 14; $56/hr; full-stack track (different from evaluated AI Engineer Intern) (~3.6)
+- [ ] https://jobs.lever.co/saronic/e7e1fa64-1d8d-4348-b145-064787eab591 | Saronic | Full Stack Engineer Intern (Summer 2026) — autonomous surface vessels; Python/React full stack; defense sector (~3.5)
+- [ ] https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002 | Aquatic Capital Management | Software Engineer Intern (Summer 2026) — quant trading; distributed systems; verify comp/location (~3.5)
+- [ ] https://jobs.ashbyhq.com/notion/23ac2477-0008-4bed-b1c1-81f90a32e9e6 | Notion | Software Engineer Intern (Summer 2026, NYC) — NYC office May-Sep; TypeScript/Python full stack; standard Notion SWE intern (~3.6)
+- [ ] https://jobs.ashbyhq.com/golinks/441bb00f-cda4-41bb-8ec1-7e56db28f25f | GoLinks | Fullstack Engineering Intern (Remote, Summer 2026) — React/SQL; remote-first; productivity tooling (~3.4)
+- [ ] https://jobs.ashbyhq.com/lambda/264f889c-38f4-42a5-9534-064a9512a3fe | Lambda | 2026 Machine Learning Research Intern — GPU cloud/AI infra; ML research focus; verify undergrad eligibility (~3.5)
+- [ ] https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003 | Sigma Computing | Software Engineer (New Grad Program) — SF; BI/AI copilot platform; verify timeline requirements (~3.4)
+- [ ] https://job-boards.greenhouse.io/figma/jobs/5616603004 | Figma | Early Career, Software Engineer (2026) — design tooling company; TypeScript-heavy; SF; verify 2026 grad requirement (~3.4)
+- [ ] https://jobs.lever.co/matchgroup/724734f1-b60b-49ae-8905-8663de76ad7a | Match Group | Backend Engineer Intern — Jun 1-Aug 28; LA/Palo Alto hybrid; backend APIs; dating app infra context (~3.4)
+<!-- === END 2026-04-09 SCAN v14 === -->
+
 <!-- === NEW 2026-04-09 SCAN v13 (Autonomous Agent) === -->
 - [ ] https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Software-Engineering-Intern---AI-Agents_R13776 | Proofpoint | Software Engineering Intern, AI Agents (Satori) — agentic AI platform at top cybersecurity company; multi-agent + guardrails + alignment; Draper UT ⭐ EVALUATED 4.2
 - [ ] https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Boston-Massachusetts/Software-Engineer-Intern--Summer-2026-_R13689 | Proofpoint | Software Engineer Intern (Summer 2026) — Data Security Platform; Python/AWS/ML; Boston MA (~3.7)
