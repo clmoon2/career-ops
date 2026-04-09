@@ -2,6 +2,15 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-09 SCAN v13 (Autonomous Agent) === -->
+- [ ] https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Software-Engineering-Intern---AI-Agents_R13776 | Proofpoint | Software Engineering Intern, AI Agents (Satori) — agentic AI platform at top cybersecurity company; multi-agent + guardrails + alignment; Draper UT ⭐ EVALUATED 4.2
+- [ ] https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Boston-Massachusetts/Software-Engineer-Intern--Summer-2026-_R13689 | Proofpoint | Software Engineer Intern (Summer 2026) — Data Security Platform; Python/AWS/ML; Boston MA (~3.7)
+- [ ] https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Sunnyvale-CA/Agentic-AI-Workflows-Intern_R13934 | Proofpoint | Agentic AI Workflows Intern — enterprise AI adoption; Sunnyvale CA; June-Aug 2026 (~3.5)
+- [ ] https://job-boards.greenhouse.io/tanium/jobs/7228091 | Tanium | Solution Engineering Intern — endpoint security; Addison TX (DFW!); $27/hr; Jun-Aug 2026 (~3.4)
+- [ ] https://jobs.ashbyhq.com/naptha/96df9dd3-85bc-4cff-b806-973b78bb433a | Naptha AI | Software Engineer Intern — AI agent infrastructure startup; verify location/comp (~3.5)
+- [ ] https://jobs.ashbyhq.com/mach/0bd28864-1061-4e26-b874-46f95821565f | Mach Industries | Summer Intern 2026 - Software — defense/autonomous systems; Huntington Beach CA; 12 wks (~3.0)
+<!-- === END 2026-04-09 SCAN v13 === -->
+
 <!-- === NEW 2026-04-09 SCAN v12 (Autonomous Agent) === -->
 - [ ] https://jobs.ashbyhq.com/prophet-security/b432d9fa-f627-433f-8fda-71e3ada89039 | Prophet Security | SWE New Grad (Backend/ML) — Agentic AI SOC platform; Python+LLMs+security; Accel-backed $41M; Menlo Park in-person ⭐ EVALUATED 4.3
 - [ ] https://jobs.ashbyhq.com/baseten/4e6757f3-74c0-4d3d-9b0b-eb56ab561c37 | Baseten | Software Engineering Intern (2026 Grads Only) — ML inference platform; FDE/Infra track; SF or NYC 3d/wk; 90th pct comp ⭐ EVALUATED 4.0

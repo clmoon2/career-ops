@@ -1,3 +1,62 @@
+# Portal Scan — 2026-04-09 (Scan v13)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+**Run:** Autonomous Agent (scan v13)
+**Scan history entries before this run:** 843
+**Companies scanned this run:** 21+
+
+## Scan Scope
+
+Previous agents (v1–v12) had already covered most major job boards. This run focused on:
+1. Unscanned portals.yml tracked companies: PolyAI, Parloa, Intercom (Greenhouse APIs)
+2. Brand new companies: Proofpoint, Tanium, Mach Industries, Naptha AI, MatX
+3. Broad discovery sweeps across Ashby, Greenhouse, Lever
+
+## Results
+
+| Metric | Count |
+|--------|-------|
+| Queries / API calls executed | 25+ |
+| New listings found | 17 |
+| Filtered (grad-level, India-based, not relevant) | 7 |
+| Added to pipeline.md | 6 |
+| Scored ≥ 4.0 (full reports) | 1 |
+| Scan history entries added | 17 |
+
+## New Listings Added to Pipeline
+
+| Company | Role | Score | Notes |
+|---------|------|-------|-------|
+| Proofpoint | Software Engineering Intern, AI Agents (Satori) | **4.2** ⭐ | Agentic AI at top cybersecurity co; multi-agent + guardrails; Draper UT |
+| Proofpoint | Software Engineer Intern (Summer 2026) | ~3.7 | Data Security Platform; Python/AWS/ML; Boston MA |
+| Proofpoint | Agentic AI Workflows Intern | ~3.5 | Enterprise AI adoption workflows; Sunnyvale CA |
+| Tanium | Solution Engineering Intern | ~3.4 | Endpoint security; Addison TX (DFW); $27/hr Jun-Aug |
+| Naptha AI | Software Engineer Intern | ~3.5 | AI agent infrastructure startup; verify details |
+| Mach Industries | Summer Intern 2026 - Software | ~3.0 | Defense autonomous systems; Huntington Beach CA |
+
+## Top Match
+
+### ⭐ Proofpoint — Software Engineering Intern, AI Agents (Satori) — 4.2/5
+- URL: https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Software-Engineering-Intern---AI-Agents_R13776
+- Carlos's TidalHack 6-agent AutoGen system + Finch's LangChain validation gates = direct archetype match
+- Report: [284](reports/284-proofpoint-swe-intern-ai-agents-2026-04-09.md)
+- Action: Apply ASAP
+
+## Companies Scanned → No Relevant Roles
+- PolyAI: All senior FT, no internships
+- Parloa: All senior FT, no internships
+- Intercom: All senior FT, no internships
+- Tanium AI Research Intern: Master's/PhD required
+- MatX ML Research Intern: Hardware chip background required
+- CloudSEK: India-based
+
+## Recommended Next Actions
+1. Apply immediately to Proofpoint AI Agents (4.2/5, report 284 ready)
+2. Run `/career-ops pipeline` to evaluate backlog of 60+ pending URLs
+3. Apply to existing ⭐ roles: Haize Labs (4.7), CrowdStrike Red Team (4.5), Best Egg (4.5), Notion AI (4.5)
+
+---
+
 # Portal Scan — 2026-04-09 (Scan v12)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
