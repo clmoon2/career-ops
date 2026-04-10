@@ -1159,3 +1159,11 @@ https://job-boards.greenhouse.io/togetherai/jobs/5014290007	2026-04-10	v25_webse
 https://job-boards.greenhouse.io/cloudflare/jobs/7566017	2026-04-10	v25_websearch	Talent Analytics Intern (Summer 2026)	Cloudflare	skipped_title
 https://job-boards.greenhouse.io/nex/jobs/5057346008	2026-04-10	v25_websearch	Summer 2026 Internship Program	Nex	skipped_title
 https://jobs.lever.co/wandb	2026-04-10	v25_wandb_scan	(no intern roles found - all senior FT)	Weights & Biases	skipped_no_intern
+https://jobs.ashbyhq.com/numeric/aa134424-5e42-4e12-ab57-acb49e937acb	2026-04-10	v26_ashby	Software Engineer Intern	Numeric	added
+https://job-boards.greenhouse.io/benchling/jobs/7362703	2026-04-10	v26_websearch	Software Engineer Intern (Summer 2026)	Benchling	skipped_closed
+https://job-boards.greenhouse.io/mongodb/jobs/7292747	2026-04-10	v26_websearch	2026 Security Engineering Intern Seattle	MongoDB	skipped_closed
+https://job-boards.greenhouse.io/twitch/jobs/8216024002	2026-04-10	v26_websearch	Undergrad Security Engineering Intern	Twitch	skipped_closed
+https://job-boards.greenhouse.io/podium81/jobs/6932534	2026-04-10	v26_websearch	Security Engineering Intern	Podium	skipped_closed
+https://job-boards.greenhouse.io/mercury/jobs/5668761004	2026-04-10	v26_websearch	Backend Engineering Intern (Summer 2026)	Mercury	skipped_closed
+https://job-boards.greenhouse.io/anthropic/jobs/5030244008	2026-04-10	v26_greenhouse_api	Anthropic Fellows Program - AI Security	Anthropic	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/temporal/jobs	2026-04-10	v26_greenhouse_api	(API returned empty - no open roles)	Temporal	skipped_no_intern

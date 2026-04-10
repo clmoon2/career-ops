@@ -1,101 +1,83 @@
-# Portal Scan Summary — 2026-04-10 (v25, Extension)
+# Scan Summary — 2026-04-10 (v26, Autonomous Agent)
 
-**Run:** Autonomous Agent v25 (Extension Scan)
-**Date:** 2026-04-10
-**Previous scan:** v24 (2026-04-10)
+## Overview
 
----
-
-## Stats (v25 Extension)
-
-| Metric | Count |
+| Metric | Value |
 |--------|-------|
-| Companies searched via WebSearch (new this run) | 25+ |
-| Greenhouse API checks | 1 (Glean — confirmed no new roles) |
-| Total unique URLs dedup-checked | ~150 |
-| New listings added to pipeline | 2 |
-| Skipped (title filter — non-SWE/non-target roles) | 3 |
-| Skipped (all already in history from v17–v24) | ~145 |
-| Skipped (no active intern roles) | 2 companies (WandB, Retool) |
-| High-scoring new listings (≥ 4.0) | 0 |
+| Date | 2026-04-10 |
+| Scan version | v26 (autonomous agent) |
+| Companies/portals scanned | 35+ |
+| Greenhouse APIs fetched | 9 (Anthropic, Airtable, Vercel, Arize AI, RunPod, Glean, Temporal, Hume AI, Intercom) |
+| WebSearch queries executed | 20+ |
+| Total URLs checked against history | 100+ |
+| Already in history (skipped_dup) | ~95 |
+| New URLs discovered | 8 |
+| Active new listings added to pipeline | 1 (unverified, low score) |
+| Confirmed closed/redirected | 5 |
+| Score ≥ 4.0 reports written | 0 |
 
----
+## Context
 
-## New Listings Added (pipeline.md — v25 block)
+This was scan v26, run the same day as scans v22–v25 (all on 2026-04-10). The previous scans today were exceptionally comprehensive — by the time v26 ran, the 1,160+ URL scan history had captured essentially all actively-posted Summer 2026 internship listings across Greenhouse, Ashby, and Lever.
 
-| Score Est. | Company | Role | Notes |
-|------------|---------|------|-------|
-| ~2.5 | Impiricus | Backend Software Engineer Intern | Remote/Atlanta/NYC; $25/hr 8 wks; Python/Golang/PostgreSQL/LLM; healthcare HCP comms niche; comp below target |
-| ~2.0 | Zeta Global | Value Consulting Analyst Intern | NYC hybrid; $23/hr; Jun–Aug 2026; Excel/PPT-focused business consulting, not SWE |
+**Bottom line:** The pipeline is fully current as of today. No new high-quality roles were missed by previous scans.
 
----
+## New Listings Found
 
-## Companies Scanned — v25 Extension
+### Added to Pipeline (1)
 
-| Company | Method | Result |
-|---------|--------|--------|
-| Palantir | WebSearch | All intern/new grad roles already in history |
-| Weights & Biases | WebSearch | No active intern roles (all senior FTE) |
-| Pinecone | WebSearch | All roles already in history |
-| Retool | WebSearch | No intern/new grad listings indexed |
-| Deepgram | WebSearch | No specific Summer 2026 intern listings found |
-| Cloudflare | WebSearch | All SWE interns in history; 1 skipped_title (Talent Analytics) |
-| Together AI | WebSearch | GTM Systems Analyst Intern skipped_title; other roles in history |
-| Notion, Replit, Cohere, Whatnot | WebSearch | All in history |
-| Shield AI, Symmetry Systems, Voleon | WebSearch | All in history |
-| Nominal, Actian, Rigetti, Veeva | WebSearch | All in history |
-| Sigma Computing, CLEAR, Astranis | WebSearch | All in history |
-| Glean | Greenhouse API | No new roles; Software Engineer Intern marked closed |
-| DoorDash, Robinhood, Affirm, Klaviyo | WebSearch | All in history |
-| Mercury, Roadie, Impiricus (full-stack) | WebSearch | All in history |
-| Palo Alto Networks | WebSearch | In history (RippleMatch board) |
-| Nex | WebFetch | Non-SWE tracks (Biz Dev/Finance/Design) — skipped_title |
-| Impiricus (backend) | WebFetch | **NEW** — Python/Golang/LLM backend, $25/hr |
-| Zeta Global (consulting) | WebFetch | **NEW** — Value consulting analyst, $23/hr |
-| Nvidia | WebSearch | No Summer 2026 intern results indexed |
-| Deloitte, Accenture | WebSearch | Already in pipeline from prior scans |
+| Company | Title | Score Est. | Notes |
+|---------|-------|-----------|-------|
+| Numeric | Software Engineer Intern (Summer 2026) | ~2.8 | Accounting/finance AI startup. Below recommended threshold. Unverified (Ashby JS). |
 
----
+### Confirmed Closed — Not Added (5)
 
-## High-Scoring Listings (≥ 4.0): **None Found**
+| Company | Title | Status |
+|---------|-------|--------|
+| Benchling | Software Engineer Intern (Summer 2026) | 404 — CLOSED |
+| MongoDB | 2026 Security Engineering Intern, Seattle | Redirected to general careers page — CLOSED |
+| Twitch | Undergrad Security Engineering Intern | Redirected to general board — CLOSED |
+| Podium | Security Engineering Intern | Redirected to general board — CLOSED |
+| Mercury | Backend Engineering Intern (Summer 2026) | Redirected to general board — CLOSED |
 
-Both new listings are below threshold:
-- **Impiricus ($25/hr, 8 wks):** Good Python/LLM match but comp well below $70K floor; short 8-week stint; healthcare niche
-- **Zeta Global ($23/hr):** Business analytics/consulting with Excel; not tech SWE; comp below target
+## Companies Scanned This Run
 
----
+**Greenhouse API (Level 2):**
+- Anthropic — no new intern roles (fellows program already captured in v22)
+- Airtable — all existing roles already in history
+- Vercel — Forward Deployed Engineer v0, Software Engineer Agent — all in history
+- Arize AI — all senior/experienced hire, no interns
+- RunPod — Security Engineer + SWE Full-Stack — already in history
+- Glean — Software Engineer Intern already in history
+- Temporal — empty jobs board (no open roles)
+- Hume AI — all senior, no interns
+- Intercom — all senior, no interns
 
-## Pipeline Health Note
+**WebSearch (Level 3) — Companies confirmed covered by prior scans:**
+- Cloudflare, Scale AI, Together AI, C3 AI, Figma, Glean, Robinhood, Loop ✓
+- Palantir (SWE intern, FDE intern, new grad infra) ✓
+- Cohere (SWE intern, ML co-op, research intern) ✓
+- Verkada, Astranis, Benchling, Affirm, Enova, DoorDash ✓
+- Mistral AI (FDE intern, AI Scientist intern) ✓
+- Censys, Point72, iCapital, Planet, CLEAR, Lucid Motors ✓
+- Gemini, MongoDB, Twitch, Sigma Computing, Klaviyo ✓
 
-By v25, today's scan waves (v17–v25) have been extremely comprehensive — 1,161 total history entries. **Pipeline is well-saturated.** Focus should now shift to:
-1. Evaluating high-priority backlog (Decagon, Sierra, Robinhood Agentic ML, Together AI SE)
-2. Applying to top-rated roles before deadlines
+## Pipeline Status
 
----
+The pipeline (pipeline.md) is fully current. Top high-priority entries from earlier scans today:
 
-## Carry-Forward: High-Priority Pipeline Items (from v24)
-
-| Score | Company | Role | Urgency |
-|-------|---------|------|---------|
-| 4.7 ⭐ | Anthropic | Fellows — AI Security | **⚠️ DEADLINE APRIL 26** |
-| 4.6 ⭐ | Mechanize | SWE Intern ($100/hr) | Apply ASAP |
-| 4.5 ⭐ | CrowdStrike | Red Team Intern | Remote, apply ASAP |
-| 4.5 ⭐ | Together AI | Security Engineer Intern | SF, $58/hr |
-| 4.4 ⭐ | Cloudflare | Security Engineer Intern | Austin TX |
-| 4.4 | Decagon | Agent SWE Intern | SF — pending evaluation |
-| 4.3 ⭐ | Point72 | AI Intern | $130K annualized |
-| 4.1 | Robinhood | ML Engineer Intern, Agentic ML | Menlo Park |
-| 4.0 | Sierra | SWE, Agent (New Grad) | SF, $180-200K FTE |
-
----
+- **⚠️ Anthropic Fellows Program — AI Safety** (~4.2, deadline **April 26, 2026!**)
+- **Scale AI** — Security Engineering New Grad + SWE New Grad
+- **Cloudflare** — SWE Intern (Austin, London, multiple locations)
+- **Together AI** — SWE Intern ($58/hr) + Security Engineer Intern
+- **Glean** — SWE Intern ($57–69/hr, Palo Alto)
+- **Labelbox** — Cyber Security Intern
+- **Astera Labs** — Applied AI Engineer Intern (Fall Co-Op)
 
 ## Recommended Next Actions
 
-1. **URGENT — Anthropic Fellows (AI Security) deadline April 26** — 16 days. Apply now.
-2. **Run `/career-ops pipeline`** on Decagon Agent SWE Intern and Sierra new grad for full reports.
-3. **Apply to Mechanize ($100/hr) and CrowdStrike Red Team** — both strong matches.
-4. **Next full scan:** 2026-04-17. Fall 2026 internship cycle beginning; pivot to Fall 2026 + New Grad FTE.
-
----
-
-*Generated by career-ops autonomous agent v25 — 2026-04-10*
+1. **⚠️ URGENT: Apply to Anthropic Fellows Program (AI Safety) — deadline April 26, 2026**
+2. Run `/career-ops pipeline` to evaluate the pending backlog
+3. Prioritize: Scale AI Security/SWE New Grad, Cloudflare SWE Interns, Glean SWE Intern
+4. Schedule next autonomous scan in 3–5 days (new postings typically added Mon–Wed)
+5. Check Impiricus backend intern + Zeta Global consulting intern (added in v25) for evaluation

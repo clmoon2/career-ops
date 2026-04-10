@@ -2,6 +2,10 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-10 SCAN v26 (Autonomous Agent) === -->
+- [ ] https://jobs.ashbyhq.com/numeric/aa134424-5e42-4e12-ab57-acb49e937acb | Numeric | Software Engineer Intern (Summer 2026) — accounting/finance AI data platform (small startup, fintech niche); "Software Engineer" title match; Carlos has Python + React + TypeScript stack; accounting domain is far from AI/security/consulting archetypes; low brand value for CS career; ⚠️ verification needed (Ashby JS-only page, unconfirmed active) (~2.8) — below recommended threshold
+<!-- === END 2026-04-10 SCAN v26 === -->
+
 <!-- === NEW 2026-04-10 SCAN v24 (Autonomous Agent) === -->
 - [ ] https://jobs.ashbyhq.com/elevenlabs/fce67b4c-bce8-442c-a334-06f327408f3d | ElevenLabs | Forward Deployed Engineer - Strategist — voice AI unicorn (TTS/STT leader, $1B+ valuation); FDE top archetype = customer-facing technical work designing bespoke integrations; entry-to-mid level accessible (student clubs/side projects accepted); Python + API integration; remote globally (Mexico-based role); ⚠️ verify Spanish fluency requirement and whether US-based applications accepted; Carlos co-founder/team leadership = strong project ownership match (~3.4)
 - [ ] https://jobs.ashbyhq.com/bland/70588f70-3d2a-4a3b-9daa-1b8495eda386 | Bland AI | Forward Deployed Engineer — voice phone AI agents startup ($65M Series B, 40-person team); pre-sales to post-sales technical role; top FDE archetype; Python + API integration + voice AI = strong alignment; FTE role (likely experienced hire); high growth startup; verify experience requirements and comp (~3.5)
