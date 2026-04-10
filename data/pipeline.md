@@ -2,6 +2,13 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-10 SCAN v24 (Autonomous Agent) === -->
+- [ ] https://jobs.ashbyhq.com/elevenlabs/fce67b4c-bce8-442c-a334-06f327408f3d | ElevenLabs | Forward Deployed Engineer - Strategist — voice AI unicorn (TTS/STT leader, $1B+ valuation); FDE top archetype = customer-facing technical work designing bespoke integrations; entry-to-mid level accessible (student clubs/side projects accepted); Python + API integration; remote globally (Mexico-based role); ⚠️ verify Spanish fluency requirement and whether US-based applications accepted; Carlos co-founder/team leadership = strong project ownership match (~3.4)
+- [ ] https://jobs.ashbyhq.com/bland/70588f70-3d2a-4a3b-9daa-1b8495eda386 | Bland AI | Forward Deployed Engineer — voice phone AI agents startup ($65M Series B, 40-person team); pre-sales to post-sales technical role; top FDE archetype; Python + API integration + voice AI = strong alignment; FTE role (likely experienced hire); high growth startup; verify experience requirements and comp (~3.5)
+- [ ] https://joinbytedance.com/search/7537377558908963090 | ByteDance | Software Engineer Intern (AI Platform) — 2026 Summer (BS/MS); design/architect large-scale ML infrastructure for CV/graphics/deep learning models; Python + ML systems; San Jose CA on-site; $45-60/hr; 12 weeks; ⚠️ Chinese parent company brand risk; ML infrastructure focus (less Carlos's application AI archetype); rolling admissions (~3.2)
+- [ ] https://joinbytedance.com/search/7540345448911309074 | ByteDance | Software Engineer Graduate (AI Platform) — 2026 Start (BS/MS); new grad FTE on AI Platform team; large-scale ML system design and architecture; San Jose CA; ⚠️ Chinese parent company brand risk; ML infra focus not Carlos's primary archetype (~3.1)
+<!-- === END 2026-04-10 SCAN v24 === -->
+
 <!-- === NEW 2026-04-10 SCAN v23 (Autonomous Agent) === -->
 - [ ] https://job-boards.greenhouse.io/labelbox/jobs/5009527007 | Labelbox | Cyber Security Intern — AI data labeling/MLOps platform; security program scaling + SIEM/tooling work; cybersecurity minor + HMAC/TLS/OAuth/CSRF + adversarial LLM testing = direct match; verify comp and timeline (~3.8)
 - [ ] https://job-boards.greenhouse.io/asteraearlycareer/jobs/4598303005 | Astera Labs | Applied AI Engineer Intern - Fall Co-Op — AI connectivity hardware platform (PCIe/CXL for AI data centers); "Applied AI Engineer" title = exact archetype; Fall co-op starting Sept; Python + AI pipeline focus; NVIDIA/hyperscaler customers; verify comp/dates (~3.5)
