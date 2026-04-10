@@ -1,118 +1,101 @@
-# Portal Scan Summary — 2026-04-10 (v24)
+# Portal Scan Summary — 2026-04-10 (v25, Extension)
 
-**Run:** Autonomous Agent v24  
-**Date:** 2026-04-10  
-**Previous scan:** v23 (2026-04-10)
+**Run:** Autonomous Agent v25 (Extension Scan)
+**Date:** 2026-04-10
+**Previous scan:** v24 (2026-04-10)
 
 ---
 
-## Stats
+## Stats (v25 Extension)
 
 | Metric | Count |
 |--------|-------|
-| Companies from portals.yml checked | 26 |
-| Additional companies searched (broader) | 10 |
-| Total unique URLs evaluated | ~45 |
-| New listings added to pipeline | 4 |
-| Skipped (already in pipeline/history) | ~35+ duplicates |
-| Skipped (title filter — no match) | ~15 |
-| Skipped (all roles senior, no intern/new grad) | 10 companies |
+| Companies searched via WebSearch (new this run) | 25+ |
+| Greenhouse API checks | 1 (Glean — confirmed no new roles) |
+| Total unique URLs dedup-checked | ~150 |
+| New listings added to pipeline | 2 |
+| Skipped (title filter — non-SWE/non-target roles) | 3 |
+| Skipped (all already in history from v17–v24) | ~145 |
+| Skipped (no active intern roles) | 2 companies (WandB, Retool) |
 | High-scoring new listings (≥ 4.0) | 0 |
 
 ---
 
-## New Listings Added (pipeline.md — v24 block)
+## New Listings Added (pipeline.md — v25 block)
 
-| Score | Company | Role | URL |
-|-------|---------|------|-----|
-| ~3.5 | Bland AI | Forward Deployed Engineer | https://jobs.ashbyhq.com/bland/70588f70-3d2a-4a3b-9daa-1b8495eda386 |
-| ~3.4 | ElevenLabs | Forward Deployed Engineer - Strategist | https://jobs.ashbyhq.com/elevenlabs/fce67b4c-bce8-442c-a334-06f327408f3d |
-| ~3.2 | ByteDance | Software Engineer Intern — AI Platform (Summer 2026) | https://joinbytedance.com/search/7537377558908963090 |
-| ~3.1 | ByteDance | Software Engineer Graduate — AI Platform (2026 Start) | https://joinbytedance.com/search/7540345448911309074 |
-
-**Note:** No new listings scored ≥ 4.0. All high-value opportunities for Carlos were already in the pipeline from previous scans (v21–v23). The pipeline is well-populated.
+| Score Est. | Company | Role | Notes |
+|------------|---------|------|-------|
+| ~2.5 | Impiricus | Backend Software Engineer Intern | Remote/Atlanta/NYC; $25/hr 8 wks; Python/Golang/PostgreSQL/LLM; healthcare HCP comms niche; comp below target |
+| ~2.0 | Zeta Global | Value Consulting Analyst Intern | NYC hybrid; $23/hr; Jun–Aug 2026; Excel/PPT-focused business consulting, not SWE |
 
 ---
 
-## Companies Scanned — Summary
+## Companies Scanned — v25 Extension
 
-### portals.yml companies — no intern/new grad roles found
 | Company | Method | Result |
 |---------|--------|--------|
-| PolyAI | Greenhouse EU API | All senior/director — no intern/new grad |
-| Intercom | Greenhouse API | All senior/principal — no intern/new grad |
-| Temporal | Greenhouse API | 0 open positions (empty board) |
-| Weights & Biases | WebSearch | No intern or new grad roles |
-| LangChain | WebSearch | No listings indexed |
-| Pinecone | WebSearch | No listings indexed |
-| n8n | WebSearch | No intern/new grad results |
-| Zapier | WebSearch | No intern/new grad results |
-| Retool | WebSearch | FTE SWE roles only, no intern/new grad |
-| Dialpad | WebSearch | India only co-op, not relevant |
-| Gong | WebSearch | No specific postings found |
-| Talkdesk | WebSearch | No specific postings found |
-| Lindy AI | WebSearch | No results |
-| Attio | WebSearch | No intern/new grad |
-| Tinybird | WebSearch | No intern/new grad |
-| Hugging Face | WebSearch | Comp below $70K minimum — skip |
-
-### portals.yml companies — already in pipeline (no new listings)
-| Company | Method | Status |
-|---------|--------|--------|
-| Anthropic | Greenhouse API | Fellows programs all already in pipeline (AI Security ⭐ EVALUATED 4.7) |
-| Scale AI | Greenhouse API | All intern/new grad roles already in pipeline |
-| Cohere | WebSearch | SWE Intern + ML Intern already in pipeline |
-| CrowdStrike | WebSearch | Red Team Intern (⭐ EVALUATED 4.5), Info Security Launch (~4.0), SWE Intern all in pipeline |
-| Databricks | WebSearch | SWE Intern 2026 already in pipeline |
-| Mistral AI | WebSearch | SWE New Grad + FDE Intern already in pipeline/history |
-| Vapi | WebSearch | New Grad SWE already in pipeline |
-| Stripe | WebSearch | SWE Intern already in scan history |
-| Nvidia | WebSearch | SWE + DL + Agentic AI interns already in pipeline |
-| Palo Alto Networks | WebSearch | Already in pipeline from earlier scans |
-| ElevenLabs | WebSearch | Impact Program Intern (#314, 2.0/5 NO APLICAR); AppSec Engineer already in pipeline; **2 new roles found** |
-| Bland AI | WebSearch | AI Solutions Engineer + others already in pipeline; **1 new FDE URL found** |
-| ByteDance | WebSearch | Security Assurance + Network Security already in pipeline; **2 new AI Platform roles found** |
+| Palantir | WebSearch | All intern/new grad roles already in history |
+| Weights & Biases | WebSearch | No active intern roles (all senior FTE) |
+| Pinecone | WebSearch | All roles already in history |
+| Retool | WebSearch | No intern/new grad listings indexed |
+| Deepgram | WebSearch | No specific Summer 2026 intern listings found |
+| Cloudflare | WebSearch | All SWE interns in history; 1 skipped_title (Talent Analytics) |
+| Together AI | WebSearch | GTM Systems Analyst Intern skipped_title; other roles in history |
+| Notion, Replit, Cohere, Whatnot | WebSearch | All in history |
+| Shield AI, Symmetry Systems, Voleon | WebSearch | All in history |
+| Nominal, Actian, Rigetti, Veeva | WebSearch | All in history |
+| Sigma Computing, CLEAR, Astranis | WebSearch | All in history |
+| Glean | Greenhouse API | No new roles; Software Engineer Intern marked closed |
+| DoorDash, Robinhood, Affirm, Klaviyo | WebSearch | All in history |
+| Mercury, Roadie, Impiricus (full-stack) | WebSearch | All in history |
+| Palo Alto Networks | WebSearch | In history (RippleMatch board) |
+| Nex | WebFetch | Non-SWE tracks (Biz Dev/Finance/Design) — skipped_title |
+| Impiricus (backend) | WebFetch | **NEW** — Python/Golang/LLM backend, $25/hr |
+| Zeta Global (consulting) | WebFetch | **NEW** — Value consulting analyst, $23/hr |
+| Nvidia | WebSearch | No Summer 2026 intern results indexed |
+| Deloitte, Accenture | WebSearch | Already in pipeline from prior scans |
 
 ---
 
-## Pipeline Health — Top Pending Items
+## High-Scoring Listings (≥ 4.0): **None Found**
 
-The pipeline is **well-populated**. Key pending high-priority items:
+Both new listings are below threshold:
+- **Impiricus ($25/hr, 8 wks):** Good Python/LLM match but comp well below $70K floor; short 8-week stint; healthcare niche
+- **Zeta Global ($23/hr):** Business analytics/consulting with Excel; not tech SWE; comp below target
 
-| Score | Company | Role | Notes |
-|-------|---------|------|-------|
-| 4.7 ⭐ | Anthropic | Fellows Program — AI Security | ⚠️ **DEADLINE APRIL 26!** Apply immediately |
-| 4.6 ⭐ | Mechanize | Software Engineering Intern | $100/hr — apply ASAP |
-| 4.5 ⭐ | CrowdStrike | Red Team Intern (Summer 2026) | Remote, adversarial emulation |
-| 4.5 ⭐ | Together AI | Security Engineer Intern | $58/hr, SF, May 18 or Jun 15 start |
-| 4.4 ⭐ | Cloudflare | Security Engineer Intern | Austin TX in-office |
-| 4.3 ⭐ | Point72 | AI Intern — Long/Short Equities | $130K annualized |
-| 4.2 ⭐ | Scale AI | Software Engineer - New Grad | $124-155K, SF |
-| 4.2 | Anthropic | Fellows Program — AI Safety | ⚠️ **DEADLINE APRIL 26!** |
-| ~4.0 ⭐ | CrowdStrike | Info Security Launch Intern | Remote |
-| ~4.0 | Scale AI | AI Deployment Strategist Intern | SF |
+---
+
+## Pipeline Health Note
+
+By v25, today's scan waves (v17–v25) have been extremely comprehensive — 1,161 total history entries. **Pipeline is well-saturated.** Focus should now shift to:
+1. Evaluating high-priority backlog (Decagon, Sierra, Robinhood Agentic ML, Together AI SE)
+2. Applying to top-rated roles before deadlines
+
+---
+
+## Carry-Forward: High-Priority Pipeline Items (from v24)
+
+| Score | Company | Role | Urgency |
+|-------|---------|------|---------|
+| 4.7 ⭐ | Anthropic | Fellows — AI Security | **⚠️ DEADLINE APRIL 26** |
+| 4.6 ⭐ | Mechanize | SWE Intern ($100/hr) | Apply ASAP |
+| 4.5 ⭐ | CrowdStrike | Red Team Intern | Remote, apply ASAP |
+| 4.5 ⭐ | Together AI | Security Engineer Intern | SF, $58/hr |
+| 4.4 ⭐ | Cloudflare | Security Engineer Intern | Austin TX |
+| 4.4 | Decagon | Agent SWE Intern | SF — pending evaluation |
+| 4.3 ⭐ | Point72 | AI Intern | $130K annualized |
+| 4.1 | Robinhood | ML Engineer Intern, Agentic ML | Menlo Park |
+| 4.0 | Sierra | SWE, Agent (New Grad) | SF, $180-200K FTE |
 
 ---
 
 ## Recommended Next Actions
 
-1. **URGENT — Apply to Anthropic Fellows (AI Security) before April 26.** 4.7/5 score, direct adversarial LLM testing alignment, $3,850/wk + $15K/mo compute. 16 days left.
-
-2. **Apply to Mechanize SWE Intern ASAP.** $100/hr, RL eval tasks for frontier AI labs, adversarial testing exact match.
-
-3. **Run `/career-ops pipeline`** to evaluate remaining unevaluated items:
-   - Scale AI Security Engineering New Grad (~4.0)
-   - CrowdStrike Info Security Launch Intern (~4.0)
-   - Censys AI/ML Engineering Intern (~3.8)
-   - Cohere SWE Intern + Databricks SWE Intern
-
-4. **Low-priority new adds from this scan** (all below 4.0, verify before applying):
-   - Bland AI FDE (~3.5): Voice phone AI, FTE, experience likely required
-   - ElevenLabs FDE Strategist (~3.4): Voice AI, Mexico-based market, verify location/language
-   - ByteDance AI Platform Intern (~3.2): Chinese company risk, ML infra focus
-
-5. **Next scan:** 2026-04-17. Focus: Fall 2026 internships opening (many companies begin posting April-May). Summer 2026 hiring largely closed for big tech; pivot toward Fall 2026 and New Grad FTE roles.
+1. **URGENT — Anthropic Fellows (AI Security) deadline April 26** — 16 days. Apply now.
+2. **Run `/career-ops pipeline`** on Decagon Agent SWE Intern and Sierra new grad for full reports.
+3. **Apply to Mechanize ($100/hr) and CrowdStrike Red Team** — both strong matches.
+4. **Next full scan:** 2026-04-17. Fall 2026 internship cycle beginning; pivot to Fall 2026 + New Grad FTE.
 
 ---
 
-*Generated by career-ops autonomous agent v24 — 2026-04-10*
+*Generated by career-ops autonomous agent v25 — 2026-04-10*

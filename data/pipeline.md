@@ -839,3 +839,8 @@
 - [ ] https://job-boards.greenhouse.io/twilio/jobs/7560246 | Twilio | Software Engineer Intern - United States — US remote; 3 months; Python/JS/Go; communications infra; $47-50/hr (~3.5)
 - [ ] https://job-boards.greenhouse.io/veeamsoftware/jobs/4736372101 | Veeam Software | AI Intern, Veeam Data Cloud (Summer 2026) — AI data summarization; verify US location and comp (~3.4)
 <!-- === END 2026-04-09 SCAN v17 === -->
+
+<!-- === NEW 2026-04-10 SCAN v25 (Autonomous Agent - Wave 5) === -->
+- [ ] https://job-boards.greenhouse.io/impiricus/jobs/5160169008 | Impiricus | Backend Software Engineer Intern — Remote/Atlanta/NYC; $25/hr; 8 weeks (Jun 15 or Jul 6 start); Python/Golang/PostgreSQL/AWS/LLM integrations
+- [ ] https://job-boards.greenhouse.io/zetasummerinternship/jobs/5745797004 | Zeta Global | Value Consulting Analyst Intern — NYC hybrid; $23/hr; Jun 2 - Aug 14 2026; AI/MarTech consulting, ROI frameworks, value engineering
+<!-- === END 2026-04-10 SCAN v25 === -->
