@@ -975,3 +975,20 @@ https://boards-api.greenhouse.io/v1/boards/airtable/jobs	2026-04-10	greenhouse-a
 https://boards-api.greenhouse.io/v1/boards/vercel/jobs	2026-04-10	greenhouse-api	(re-checked: no intern/new grad - all senior/manager)	Vercel	skipped_no_intern
 https://boards-api.greenhouse.io/v1/boards/arizeai/jobs	2026-04-10	greenhouse-api	(re-checked: no intern/entry-level - all senior/manager)	Arize AI	skipped_no_intern
 https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs	2026-04-10	greenhouse-api	(re-checked: new FTE SE roles, SWE Intern 4595665005 likely closed)	Glean	skipped_no_intern
+https://job-boards.greenhouse.io/anthropic/jobs/5183044008	2026-04-10	greenhouse-api	Anthropic Fellows Program — AI Safety	Anthropic	added
+https://job-boards.greenhouse.io/anthropic/jobs/5183051008	2026-04-10	greenhouse-api	Anthropic Fellows Program — ML Systems & Performance	Anthropic	added
+https://job-boards.greenhouse.io/anthropic/jobs/5183052008	2026-04-10	greenhouse-api	Anthropic Fellows Program — Reinforcement Learning	Anthropic	added
+https://jobs.ashbyhq.com/Crusoe/509d70b8-31f5-4214-ad35-d22b4e0d1cca	2026-04-10	websearch	Software Engineering Intern (Summer 2026)	Crusoe	added
+https://jobs.ashbyhq.com/Crusoe/16c1f006-146c-4f60-8917-2ac136821405	2026-04-10	websearch	Software Engineering Intern, Network Team (Summer 2026)	Crusoe	added
+https://job-boards.greenhouse.io/sigmacomputing/jobs/7588094003	2026-04-10	websearch	Software Engineering Intern (Summer 2026)	Sigma Computing	added
+https://job-boards.greenhouse.io/metronome/jobs/4894044008	2026-04-10	websearch	Software Engineering Intern (Summer 2026)	Metronome	added
+https://jobs.ashbyhq.com/sift/1685904a-155a-4ccc-aaa3-3a886ffa0ecc	2026-04-10	websearch	Software Engineering Intern	Sift	added
+https://jobs.ashbyhq.com/zip/8d430f5d-3a7a-4dc5-8859-ff31c4169be2	2026-04-10	websearch	Software Engineer Intern (Summer 2026)	Zip	added
+https://jobs.ashbyhq.com/radiant-industries/b19412fd-026b-49ce-8f7e-49ca3ea5a159	2026-04-10	websearch	Summer 2026 Internship - Software Engineering	Radiant Industries	added
+https://jobs.lever.co/qvest.us/562f1eb0-369d-410a-8b5b-5a4e3d7d4e5b	2026-04-10	websearch	Consulting Internship, Summer 2026	Qvest US	added
+https://job-boards.greenhouse.io/2026_summer_intern_program/jobs/4134986009	2026-04-10	websearch	2026 Summer Software Engineering Intern	GridBlock	added
+https://jobs.ashbyhq.com/Solace/d7906c8c-395f-4d6b-8e64-e2c7be52b929	2026-04-10	websearch	Associate Software Engineer (College Grad 2026)	Solace	added
+https://job-boards.greenhouse.io/robinhood/jobs/7235228	2026-04-10	websearch	Software Developer Intern, Backend (Summer 2026)	Robinhood	skipped_closed
+https://job-boards.greenhouse.io/vercel/jobs/5872425004	2026-04-10	greenhouse-api	Forward Deployed Engineer v0	Vercel	skipped_title
+https://job-boards.greenhouse.io/gleanwork/jobs/4592324005	2026-04-10	greenhouse-api	Software Engineer, University Grad	Glean	skipped_dup
+https://job-boards.greenhouse.io/gleanwork/jobs/4595665005	2026-04-10	greenhouse-api	Software Engineer, Intern (Summer 2026)	Glean	skipped_dup

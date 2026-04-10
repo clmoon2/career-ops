@@ -1,3 +1,82 @@
+# Portal Scan — 2026-04-10 (Scan v16 — Autonomous Agent)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+**Run:** Autonomous Agent v16
+**Date:** 2026-04-10
+**Scan history entries before this run:** 977
+**Companies/portals scanned:** 25+ (Greenhouse APIs × 7, WebSearch × 12)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## Stats
+
+| Metric | Count |
+|--------|-------|
+| Greenhouse APIs fetched | 7 (Anthropic, Vercel, Glean, Airtable, Arize AI, RunPod, Hume AI) |
+| WebSearch queries executed | 12 |
+| Total listings reviewed | 200+ |
+| New listings added to pipeline | 13 |
+| Listings skipped (already in history/pipeline) | 130+ |
+| Listings skipped (title filter / senior) | 60+ |
+| Listings skipped (closed/redirected) | 1 (Robinhood 7235228) |
+| **Full evaluation reports written (≥4.0)** | **0** |
+
+## ⚠️ URGENT — Anthropic Fellows Program (Deadline: April 26)
+
+Three new Anthropic fellowship tracks found that weren't in scan history:
+
+| Role | Score | URL |
+|------|-------|-----|
+| **Fellows — ML Systems & Performance** | **~3.8** | [link](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) |
+| **Fellows — AI Safety** | **~3.8** | [link](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) |
+| Fellows — Reinforcement Learning | ~3.2 | [link](https://job-boards.greenhouse.io/anthropic/jobs/5183052008) |
+
+**Key details:**
+- Application deadline: **April 26, 2026** (16 days from now)
+- Start: July 20, 2026 (4 months full-time)
+- Compensation: **$3,850/wk + $15k/month compute** (~$15,400/month all-in)
+- Location: Berkeley CA or London
+- Not a traditional internship but a prestigious fellowship; 80%+ publication rate
+
+**ML Systems & Performance** is engineering-focused (building CPU simulators, accelerator backends, synthetic data pipelines — not pure research). Carlos's 35K-line multi-model AI pipeline + distributed systems = strong fit for the engineering component. Weak point: no LLM training experience, only LLM *usage*.
+
+**AI Safety** directly aligns with Carlos's LLM adversarial testing project (adversarial robustness track).
+
+**Recommendation:** Evaluate ML Systems & Performance before April 26. Even at ~3.8, the Anthropic brand + exceptional comp warrant a serious read.
+
+## Other New Listings (10 total, non-Anthropic)
+
+| Company | Role | Score |
+|---------|------|-------|
+| Crusoe | Software Engineering Intern (Summer 2026) | ~3.7 |
+| Sigma Computing | Software Engineering Intern (Summer 2026) | ~3.5 |
+| Metronome | Software Engineering Intern (Summer 2026) | ~3.5 |
+| Sift | Software Engineering Intern | ~3.5 |
+| Zip | Software Engineer Intern (Summer 2026) | ~3.5 |
+| Radiant Industries | Summer 2026 Internship - Software Engineering | ~3.3 |
+| Crusoe | Software Engineering Intern, Network Team | ~3.3 |
+| Qvest US | Consulting Internship, Summer 2026 | ~3.2 |
+| GridBlock | 2026 Summer Software Engineering Intern | ~3.2 |
+| Solace | Associate Software Engineer (College Grad 2026) | ~3.1 |
+
+## Key Observations
+
+1. **Market saturation:** The Summer 2026 internship market is mature. All major companies from previous scans (Anthropic standard intern, OpenAI, Palantir FDSE, Cloudflare ×3, Together AI, Notion AI/SWE, Voleon, Ramp, Robinhood Backend, Scale AI, Affirm, DoorDash, Replit, Decagon, CrowdStrike, Stripe, etc.) are already in the pipeline. This scan found 13 genuinely new listings, mostly smaller companies.
+
+2. **Pipeline is very deep:** 100+ listings already tracked from previous scans. Focus should shift from discovery to execution — applying to existing high-score items.
+
+3. **Crusoe** (~3.7) is the most interesting non-Anthropic find: GPU cloud company with strong AI infra angle and a Python/cloud backend that matches Carlos's profile.
+
+## Recommended Next Actions
+
+1. **URGENT (16 days):** Read Anthropic Fellows — ML Systems & Performance JD. If the research-vs-engineering ratio feels acceptable, apply before April 26.
+2. **URGENT (3 days):** Planet Labs AI/ML Intern deadline is **April 13** — already in pipeline from v15.
+3. **APPLY NOW (existing ⭐):** Together AI Security Intern (4.5, report ready), Cloudflare Security (4.3), CrowdStrike Red Team (4.5), Haize Labs (4.7), Stripe (4.5).
+4. **EVALUATE:** Crusoe SWE Intern (~3.7) — GPU cloud AI infra is interesting.
+5. **RUN:** `/career-ops pipeline` to process the 100+ pending URLs and evaluate highest-score items.
+6. **Next scan:** 3-5 days. Market is late-cycle; focus on re-verifying pipeline items for closure.
+
+---
+
 # Portal Scan — 2026-04-10 (Scan v15 — Autonomous Agent)
 
 ## 2026-04-10 Summary

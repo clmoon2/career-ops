@@ -2,6 +2,22 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-10 SCAN v16 (Autonomous Agent) === -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5183044008 | Anthropic | Anthropic Fellows Program — AI Safety — ⚠️ DEADLINE APRIL 26! 4-month full-time fellowship; Jul 20 start; $3,850/wk + $15k/mo compute; Berkeley/London; adversarial robustness + mechanistic interpretability; adversarial LLM testing project directly relevant (~3.8)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5183051008 | Anthropic | Anthropic Fellows Program — ML Systems & Performance — ⚠️ DEADLINE APRIL 26! Engineering-focused (CPU simulators, accelerator backends, synthetic data pipelines); Jul 20 start; $3,850/wk; Carlos's 35K-line ML pipeline + distributed systems match (~3.8)
+- [ ] https://jobs.ashbyhq.com/Crusoe/509d70b8-31f5-4214-ad35-d22b4e0d1cca | Crusoe | Software Engineering Intern (Summer 2026) — GPU cloud + sustainable AI infra; Python/cloud backend; verify comp/dates/location (~3.7)
+- [ ] https://job-boards.greenhouse.io/sigmacomputing/jobs/7588094003 | Sigma Computing | Software Engineering Intern (Summer 2026) — BI/analytics platform; $50/hr; 12 weeks SF in-person; verify graduation requirement (~3.5)
+- [ ] https://job-boards.greenhouse.io/metronome/jobs/4894044008 | Metronome | Software Engineering Intern (Summer 2026) — usage-based billing platform; inaugural cohort; requires prior SWE internship; verify requirements (~3.5)
+- [ ] https://jobs.ashbyhq.com/sift/1685904a-155a-4ccc-aaa3-3a886ffa0ecc | Sift | Software Engineering Intern — fraud/abuse ML + security detection; Python/distributed systems; verify comp/location/dates (~3.5)
+- [ ] https://jobs.ashbyhq.com/zip/8d430f5d-3a7a-4dc5-8859-ff31c4169be2 | Zip | Software Engineer Intern (Summer 2026) — procurement automation platform; Python/TypeScript; verify comp/location (~3.5)
+- [ ] https://jobs.ashbyhq.com/radiant-industries/b19412fd-026b-49ce-8f7e-49ca3ea5a159 | Radiant Industries | Summer 2026 Internship - Software Engineering — nuclear energy startup; niche systems work; verify stack/comp/location (~3.3)
+- [ ] https://jobs.ashbyhq.com/Crusoe/16c1f006-146c-4f60-8917-2ac136821405 | Crusoe | Software Engineering Intern, Network Team (Summer 2026) — network-focused; less direct match than core SWE role (~3.3)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5183052008 | Anthropic | Anthropic Fellows Program — Reinforcement Learning — ⚠️ DEADLINE APRIL 26! RL research; no RL background in CV; only if pivoting to research (~3.2)
+- [ ] https://jobs.lever.co/qvest.us/562f1eb0-369d-410a-8b5b-5a4e3d7d4e5b | Qvest US | Consulting Internship, Summer 2026 — tech consulting; digital media/data/AI focus; small firm; verify scope/comp/location (~3.2)
+- [ ] https://job-boards.greenhouse.io/2026_summer_intern_program/jobs/4134986009 | GridBlock | 2026 Summer Software Engineering Intern — verify what GridBlock does before applying (~3.2)
+- [ ] https://jobs.ashbyhq.com/Solace/d7906c8c-395f-4d6b-8e64-e2c7be52b929 | Solace | Associate Software Engineer (College Grad 2026) — digital mental health; limited tech relevance; low priority (~3.1)
+<!-- === END 2026-04-10 SCAN v16 === -->
+
 <!-- === NEW 2026-04-10 SCAN v15 (Autonomous Agent) === -->
 - [ ] https://job-boards.greenhouse.io/togetherai/jobs/5012785007 | Together AI | Security Engineer Intern (Summer 2026) — $58/hr; SF on-site; AI-native security (preventative+reactive controls); adversarial LLM+OAuth+TLS match; May18-Aug7 or Jun15-Sep4 ⭐ EVALUATED 4.5
 - [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7714373 | Planet Labs | Intern, AI/ML Engineer (Summer 2026) — ⚠️ DEADLINE APRIL 13! $40-60/hr; SF hybrid 3d/wk; Python/ML/geospatial; Jun-Sep 2026; ITAR compliance req (~3.7)
