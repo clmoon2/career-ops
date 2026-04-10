@@ -2,6 +2,26 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-10 SCAN v15 (Autonomous Agent) === -->
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/5012785007 | Together AI | Security Engineer Intern (Summer 2026) — $58/hr; SF on-site; AI-native security (preventative+reactive controls); adversarial LLM+OAuth+TLS match; May18-Aug7 or Jun15-Sep4 ⭐ EVALUATED 4.5
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7714373 | Planet Labs | Intern, AI/ML Engineer (Summer 2026) — ⚠️ DEADLINE APRIL 13! $40-60/hr; SF hybrid 3d/wk; Python/ML/geospatial; Jun-Sep 2026; ITAR compliance req (~3.7)
+- [ ] https://job-boards.greenhouse.io/gemini/jobs/7360337 | Gemini | Security Engineering Intern (Summer 2026) — NYC 3d/wk; vuln triage+automation scripts; crypto company but pure security engineering work (~3.7)
+- [ ] https://jobs.ashbyhq.com/sentry/aedee875-ffca-477a-bc8c-1347628cc596 | Sentry | Software Engineer, New Grad (2026) — error monitoring platform; distributed systems; verify comp/location (~3.8)
+- [ ] https://jobs.ashbyhq.com/meshy/4d91eb31-80a5-44de-82bc-ba6e3f4f0d2b | Meshy LLC | Software Engineer - New Grad — 3D generative AI ($52M Sequoia); Sunnyvale CA hybrid; strong Python+full stack match (~3.7)
+- [ ] https://job-boards.greenhouse.io/verkada/jobs/4836993007 | Verkada | Backend Software Engineering Intern 2026 — physical security company backend; San Mateo CA; Redis/DynamoDB distributed systems (~3.6)
+- [ ] https://job-boards.greenhouse.io/icapitalnetwork/jobs/8244398002 | iCapital | ML/AI Engineering Summer 2026 Intern — fintech; NYC; Jun 7-Aug 8; rising junior/senior; AI/ML on financial data (~3.5)
+- [ ] https://jobs.ashbyhq.com/handshake/eece422a-da6b-42e7-b694-3329e6ae4d6a | Handshake | AI/Machine Learning Engineer Intern — career networking platform; May18-Aug7 or Jun15-Sep4; verify location/comp (~3.5)
+- [ ] https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/ef135dc3-ab5a-4183-a8a7-ec821fdf8220 | Superhuman | Software Engineer Intern (Summer 2026) — AI email client; verify comp/location (~3.5)
+- [ ] https://job-boards.greenhouse.io/gallup/jobs/4185955009 | Gallup | Security Engineer Intern (Summer 2026) — Omaha NE on-site M-Thu; cybersecurity minor match; analytics company; 12 weeks (~3.4)
+- [ ] https://jobs.ashbyhq.com/super.com/aa78bb98-1185-4a4a-ab2d-d01026194aa0 | Super.com | Software Engineering Intern – Infrastructure (DevOps) — May11-Aug21; DevOps/cloud infra; verify comp/location (~3.4)
+- [ ] https://jobs.ashbyhq.com/vantage/19c9753f-25be-4e76-af53-04717bdcc25b | Vantage | Software Engineering Intern (Summer 2026) — FinOps platform (AWS/GCP cost analytics); verify comp/location (~3.4)
+- [ ] https://job-boards.greenhouse.io/astranis/jobs/4667477006 | Astranis | Software Engineer Intern - Data Platform (Summer 2026) — SF; satellite telemetry systems; Python data engineering (~3.4)
+- [ ] https://job-boards.greenhouse.io/zinniaintern/jobs/4612976006 | Zinnia | Software Engineer Intern - Summer 2026 — insurance tech; verify comp/location/stack (~3.3)
+- [ ] https://jobs.ashbyhq.com/notion/fc762b58-24c9-4f34-bf5f-2af6e8adc644 | Notion | Software Engineer Intern (Winter 2026) — SF; Sep-Dec 2026 cohort; verify availability (~3.4)
+- [ ] https://job-boards.greenhouse.io/verkada/jobs/5099422007 | Verkada | Backend Software Engineering Intern - Fall 2026 — San Mateo CA; backend distributed systems; Fall 2026 cohort (~3.5)
+- [ ] https://jobs.ashbyhq.com/brainco/0abea2f1-324e-47cc-9055-d015827ba641 | Brain Co. | AI/ML Engineering Internship Summer 2026 — Elad Gil/Andrej Karpathy-backed; applied AI startup; verify if summer intern role distinct from existing Early Career listing (~3.6)
+<!-- === END 2026-04-10 SCAN v15 === -->
+
 <!-- === NEW 2026-04-09 SCAN v14 (Autonomous Agent) === -->
 - [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7582150 | Cloudflare | Security Engineer Intern (Summer 2026) — OWASP/security-first; Austin TX in-office (accessible from TAMU); Go/Rust/Python/C; prod Cloudflare Workers stack ⭐ EVALUATED 4.3
 - [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7206269 | Cloudflare | Software Engineer Intern (Summer 2026, Austin TX) — general SWE at Cloudflare, Austin in-office, Python/Go/Rust; sister listing to Security Intern (~4.0)

@@ -1,3 +1,37 @@
+# Portal Scan — 2026-04-10 (Scan v15 — Autonomous Agent)
+
+## 2026-04-10 Summary
+
+| Metric | Count |
+|--------|-------|
+| Portals / sources scanned | 28 (Greenhouse APIs × 6, WebSearch × 10, Ashby direct × 12) |
+| New listings added to pipeline | 17 |
+| Listings skipped (closed) | 4 |
+| Listings skipped (title/senior filter) | 9 |
+| Full evaluations written (score ≥ 4.0) | 1 |
+
+### Top Match — EVALUATED
+
+**⭐ 4.5/5 — Together AI — Security Engineer Intern (Summer 2026)**
+- URL: https://job-boards.greenhouse.io/togetherai/jobs/5012785007
+- $58/hr (~$120K annualized); SF on-site; May18-Aug7 or Jun15-Sep4
+- Perfect CV match: HMAC/OAuth proxy/TLS + adversarial LLM testing → security at an AI company
+- Report: [287](reports/287-together-ai-security-intern-2026-04-10.md)
+
+### Urgent — ⚠️ Planet Labs deadline April 13 (3 days!)
+- URL: https://job-boards.greenhouse.io/planetlabs/jobs/7714373
+- Score ~3.7; $40-60/hr; SF hybrid; Python/ML/geospatial; ITAR compliance required
+
+### Other new listings in pipeline (17 total)
+Together AI Security (4.5⭐), Planet Labs AI/ML (3.7⚠️), Gemini Security (3.7), Sentry New Grad (3.8), Meshy LLC New Grad (3.7), Verkada Backend Intern (3.6), iCapital ML Intern (3.5), Handshake AI/ML Intern (3.5), Superhuman SWE Intern (3.5), Gallup Security (3.4), Super.com DevOps Intern (3.4), Vantage SWE (3.4), Astranis Data Platform (3.4), Zinnia SWE (3.3), Notion Winter 2026 (3.4), Verkada Fall 2026 (3.5), Brain Co. AI/ML Intern (3.6)
+
+### Recommended Next Actions
+1. Apply to Together AI Security Intern immediately (4.5/5)
+2. ⚠️ Review Planet Labs before April 13 deadline
+3. Run `/career-ops pipeline` to process remaining pending URLs
+
+---
+
 # Portal Scan — 2026-04-09 (Scan v17 — Autonomous Agent)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

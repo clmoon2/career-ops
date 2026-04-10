@@ -75,7 +75,7 @@
 | 243 | 2026-04-05 | Schonfeld | Cybersecurity Ops Summer Intern 2026 | N/A | Evaluada | ❌ | [243](reports/243-schonfeld-cybersec-ops-2026-04-05.md) | Posting removed from Greenhouse board |
 | 244 | 2026-04-05 | Tevora | Cybersecurity Internship Summer 2026 | N/A | Evaluada | ❌ | [244](reports/244-tevora-cybersec-2026-04-05.md) | Posting removed from Lever (403) |
 | 245 | 2026-04-05 | MEMX | InfoSec Intern Summer 2026 | N/A | Evaluada | ❌ | [245](reports/245-memx-infosec-2026-04-05.md) | Posting removed from Greenhouse board |
-| 246 | 2026-04-05 | Together AI | Security Engineer Intern Summer 2026 | N/A | Evaluada | ❌ | [246](reports/246-together-ai-seceng-2026-04-05.md) | Posting removed from Greenhouse board |
+| 246 | 2026-04-10 | Together AI | Security Engineer Intern | 4.5/5 | Evaluada | ❌ | [287](reports/287-together-ai-security-intern-2026-04-10.md) | Re-eval 2026-04-10 (0→4.5). ⭐ Security × AI company crossover; HMAC/OAuth/TLS/adversarial LLM match; $58/hr; SF on-site May-Aug |
 | 247 | 2026-04-05 | XTX Markets | InfoSec Intern Summer 2026 | N/A | Evaluada | ❌ | [247](reports/247-xtx-markets-infosec-2026-04-05.md) | Posting removed from Greenhouse board |
 | 248 | 2026-04-05 | Bandwidth | DevSecOps Intern Summer 2026 | N/A | Evaluada | ❌ | [248](reports/248-bandwidth-devsecops-2026-04-05.md) | Posting removed from Greenhouse board |
 | 249 | 2026-04-05 | Robinhood | Security Risk Management Intern Summer 2026 | N/A | Evaluada | ❌ | [249](reports/249-robinhood-secrisk-2026-04-05.md) | Posting removed from Greenhouse board |
