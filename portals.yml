@@ -493,3 +493,12 @@ tracked_companies:
     scan_query: 'site:jobs.ashbyhq.com/travelperk'
     notes: "Barcelona. Business travel unicorn."
     enabled: true
+
+  # -- Big Tech (US) --
+
+  - name: ByteDance
+    careers_url: https://jobs.bytedance.com/en/position?limit=20&current=1&functionCategory=Security%2C%20Risk%20%26%20Trust%7CSoftware%20Development
+    scan_method: websearch
+    scan_query: '"bytedance" intern "2026" "software engineer" OR "security" site:joinbytedance.com OR site:jobs.bytedance.com'
+    notes: "San Jose CA. Security + SWE internships $45-60/hr. Chinese parent company (consider brand risk)."
+    enabled: true

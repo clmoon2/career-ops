@@ -2,6 +2,12 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-10 SCAN v19 (Autonomous Agent) === -->
+- [ ] https://joinbytedance.com/search/7592416621414205701 | ByteDance | Security Software Engineer Project Intern (Security Assurance) 2026 — San Jose CA; $45-60/hr; pentest + red team + offensive security; cybersecurity minor + adversarial LLM testing + HMAC/TLS match; ⚠️ Chinese parent company brand risk (~3.5)
+- [ ] https://joinbytedance.com/search/7595749912930420997 | ByteDance | Software Engineer Project Intern (Network Security) 2026 — San Jose CA; $45-60/hr; ML/DL-based DDoS/WAF/anomaly detection; Python/ML match but niche network security focus; rolling start May-Jun 2026 (~3.2)
+- [ ] https://jobs.bytedance.com/en/position/7600201731980675333/detail | ByteDance | Security Software Engineer Project Intern (Network Security) 2026 — San Jose CA; $45-60/hr; ML security algorithms + LLM-assisted rule generation; Python/AI match; verify if overlaps with other ByteDance listing (~3.3)
+<!-- === END 2026-04-10 SCAN v19 === -->
+
 <!-- === NEW 2026-04-10 SCAN v18 (Autonomous Agent) === -->
 - [ ] https://job-boards.greenhouse.io/togetherai/jobs/5012785007 | Together AI | Security Engineer Intern (Summer 2026) — $58/hr; SF on-site; adversarial LLM testing + OAuth/TLS/CSRF = exact security match; May18-Aug7 or Jun15-Sep4 ⭐ EVALUATED 4.5
 - [ ] https://jobs.ashbyhq.com/decagon/aa9c9d2a-aba9-429e-bf91-8303247fbcd6 | Decagon | Agent Software Engineer Intern (Summer 2026) — SF May-Sep 2026; agentic AI; a16z/Accel-backed; multi-model AI pipeline + LangChain + RAG = near-perfect match ⭐ EVALUATED 4.4
