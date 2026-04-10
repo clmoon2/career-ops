@@ -2,6 +2,16 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-10 SCAN v20 (Autonomous Agent) === -->
+- [ ] https://jobs.ashbyhq.com/openai/566ce27d-8a1c-497c-a301-0912010d7b29 | OpenAI | Software Engineer Internship / Co-op, Applied Emerging Talent (Summer 2026) — SF/Seattle in-person; $60/hr; 12-wk; Python/React/Postgres exact stack match; ChatGPT/API product teams; very competitive pool ⭐ EVALUATED 4.2
+- [ ] https://jobs.ashbyhq.com/openai/83002509-5242-4145-a717-b31bcac1d4aa | OpenAI | Software Engineer, Applied Emerging Talent (2026) — Full-time new grad role; SF; same Applied Engineering team; building ChatGPT/API features; highly competitive (~3.8)
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/5012769007 | Together AI | Frontier Agents Intern (Summer 2026) — SF on-site; $58-63/hr; agentic AI research (multi-step tasks, training recipes, failure mode analysis); ⚠️ PhD + ML publications REQUIRED — not a match for undergrad (~2.5)
+- [ ] https://jobs.ashbyhq.com/socure/b4116152-5342-4ed3-a764-f656b3b0e949 | Socure | Software Engineer Intern — Remote US; identity verification AI platform; real-time fraud detection; Python/AI match; security-adjacent domain; verify comp and 2026 dates (~3.4)
+- [ ] https://jobs.ashbyhq.com/gamechanger/e782e817-22d9-4524-a653-b94913001dae | GameChanger | Software Engineer Summer Intern — NYC in-person; June 1–Aug 7 2026; 10 weeks; sports tech (not AI-first); SWE generalist role; verify comp (~3.1)
+- [ ] https://jobs.ashbyhq.com/tessera-labs/dce8d8e5-f169-4bdb-b1c2-f4754fca31e7 | Tessera Labs | Software Engineer Intern - Backend — San Jose CA; backend at security/data company; different listing from e55f2ac2 already in pipeline; verify stack and comp (~3.3)
+- [ ] https://job-boards.greenhouse.io/botauto/jobs/5182929008 | Bot Auto | Intern Software Engineer - AI Agents — Houston TX; autonomous trucking + AI agents; Python/AI match but niche automotive domain; Texas location is a plus (~3.3)
+<!-- === END 2026-04-10 SCAN v20 === -->
+
 <!-- === NEW 2026-04-10 SCAN v19 (Autonomous Agent) === -->
 - [ ] https://joinbytedance.com/search/7592416621414205701 | ByteDance | Security Software Engineer Project Intern (Security Assurance) 2026 — San Jose CA; $45-60/hr; pentest + red team + offensive security; cybersecurity minor + adversarial LLM testing + HMAC/TLS match; ⚠️ Chinese parent company brand risk (~3.5)
 - [ ] https://joinbytedance.com/search/7595749912930420997 | ByteDance | Software Engineer Project Intern (Network Security) 2026 — San Jose CA; $45-60/hr; ML/DL-based DDoS/WAF/anomaly detection; Python/ML match but niche network security focus; rolling start May-Jun 2026 (~3.2)

@@ -1,114 +1,85 @@
-# Portal Scan Summary — 2026-04-10 (v19)
+# Portal Scan — 2026-04-10 (v20)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan type:** Autonomous agent scan  
-**Candidate:** Carlos Luna-Peña  
-**Run time:** 2026-04-10  
-**Scan version:** v19 (4th scan of the day, following v15-v18)
-
----
-
-## Coverage
-
-| Source | Companies / Queries Scanned |
-|--------|----------------------------|
-| Greenhouse API | Vercel, Glean, Arize AI, Temporal, Airtable, RunPod |
-| WebSearch — Greenhouse | 15+ targeted queries across SWE/Security/AI/ML/DevOps/New Grad |
-| WebSearch — Ashby | 8+ queries for Summer 2026 and new grad roles |
-| WebSearch — Lever | 6+ queries for internships and new grad |
-| GitHub repos | SimplifyJobs/Summer2026-Internships, speedyapply/2026-AI-College-Jobs, speedyapply/2026-SWE-College-Jobs |
-| Direct company pages | ByteDance, Wiz, Snyk, Semgrep, Cribl, Grafana, Pinecone |
-| Total portals/queries | **25+ companies, 30+ search queries** |
+**Agent:** Autonomous scan (career-ops v20)
+**Scan type:** Greenhouse API + WebSearch multi-portal discovery
 
 ---
 
-## Results
+## Stats
 
 | Metric | Count |
 |--------|-------|
-| Listings discovered (total, across all sources) | ~180+ |
-| Already in scan history (skipped_dup) | ~177 |
-| Filtered by title (skipped_title) | ~3 |
-| **New listings added to pipeline** | **3** |
+| Companies/portals scanned | 25 |
+| Search queries executed | 14 |
+| Total URLs found | 47 |
+| Filtered (title mismatch / senior-only) | 17 |
+| Duplicates (already in history/pipeline) | 23 |
+| **New listings added to pipeline** | **7** |
+| Evaluations written (score ≥ 4.0) | 1 |
 
 ---
 
-## New Listings Added (v19)
+## Portals Scanned
 
-All 3 new listings are from ByteDance (first time ByteDance has been scanned):
+**Greenhouse API (direct):**
+- Intercom — 155 jobs, all senior/sales. No intern listings.
+- PolyAI — 24 jobs, all senior or Serbia/UK-only. No intern listings.
+- Temporal — 0 jobs (empty board).
 
-| Company | Role | Location | Comp | Score Est. |
-|---------|------|----------|------|------------|
-| ByteDance | Security SWE Project Intern (Security Assurance) 2026 | San Jose, CA | $45-60/hr | ~3.5 |
-| ByteDance | SWE Project Intern (Network Security) 2026 | San Jose, CA | $45-60/hr | ~3.2 |
-| ByteDance | Security SWE Project Intern (Network Security) 2026 | San Jose, CA | $45-60/hr | ~3.3 |
-
-**URLs:**
-- `https://joinbytedance.com/search/7592416621414205701` — Security Assurance (pentest/red team/offensive sec)
-- `https://joinbytedance.com/search/7595749912930420997` — Network Security (ML/DL DDoS/WAF modeling)
-- `https://jobs.bytedance.com/en/position/7600201731980675333/detail` — Network Security (LLM-assisted rule gen)
+**WebSearch discovery (22 queries across Ashby, Greenhouse, Lever):**
+- OpenAI, ElevenLabs, LangChain, Zapier, n8n, Pinecone, W&B, Replit, Harvey, Cohere, Ramp, Benchling, Whatnot, Sentry, Zip, Kikoff, Profound, Figma, Stripe, Ripple, Bot Auto, Tessera Labs, Socure, GameChanger, Second Dinner, Brain Co., Giga, Farsight, Delinea, Notion, Verkada, Okta, Klaviyo, HP IQ, PDT Partners
 
 ---
 
-## Top Matches — Score ≥ 4.0
+## New Listings Added to Pipeline
 
-**None found in this scan.** All new listings scored below 4.0:
-
-- ByteDance Security Assurance: ~3.5 — Pentest/red team work matches cybersecurity minor and adversarial LLM testing, but ByteDance brand risk (Chinese parent company, TikTok political scrutiny) and no explicit pentest experience in CV lower the score.
-- ByteDance roles don't clear the 4.0 threshold for a full evaluation report.
-
----
-
-## Context: v15-v18 Already Very Comprehensive
-
-The previous four scans on 2026-04-10 (v15, v16, v17, v18) were extremely thorough, covering:
-- All Greenhouse, Ashby, Lever, and Workable portals
-- SimplifyJobs, SpeedyApply repositories
-- Major tech companies (Anthropic, Palantir, Cloudflare, Together AI, Decagon, Brex, Roadie, etc.)
-- Security firms (Gemini, Rockstar Games, Obsidian Security, CrowdStrike, etc.)
-- AI/ML companies (Robinhood, Credit Karma, Samsung Research, etc.)
-
-Total scan history: **1,059 entries** as of this scan.
+| Company | Role | Score | URL |
+|---------|------|-------|-----|
+| OpenAI | Software Engineer Internship / Co-op, Applied Emerging Talent (Summer 2026) | **4.2/5** ⭐ EVALUATED | https://jobs.ashbyhq.com/openai/566ce27d-8a1c-497c-a301-0912010d7b29 |
+| OpenAI | Software Engineer, Applied Emerging Talent (2026) — new grad | ~3.8/5 | https://jobs.ashbyhq.com/openai/83002509-5242-4145-a717-b31bcac1d4aa |
+| Socure | Software Engineer Intern | ~3.4/5 | https://jobs.ashbyhq.com/socure/b4116152-5342-4ed3-a764-f656b3b0e949 |
+| Tessera Labs | Software Engineer Intern - Backend (new URL) | ~3.3/5 | https://jobs.ashbyhq.com/tessera-labs/dce8d8e5-f169-4bdb-b1c2-f4754fca31e7 |
+| Bot Auto | Intern Software Engineer - AI Agents | ~3.3/5 | https://job-boards.greenhouse.io/botauto/jobs/5182929008 |
+| GameChanger | Software Engineer Summer Intern | ~3.1/5 | https://jobs.ashbyhq.com/gamechanger/e782e817-22d9-4524-a653-b94913001dae |
+| Together AI | Frontier Agents Intern (Summer 2026) | ~2.5/5 ⚠️ PhD req | https://job-boards.greenhouse.io/togetherai/jobs/5012769007 |
 
 ---
 
-## Pipeline Status
+## Top Match (Score ≥ 4.0) — Report Written
 
-Outstanding pending evaluations from v15-v18 with estimated scores ≥ 3.7 (worth evaluating):
+### ⭐ OpenAI — Software Engineer Internship, Applied Emerging Talent (Summer 2026)
+**Score: 4.2/5** | Report: [292](reports/292-openai-swe-intern-summer-2026-04-10.md)
 
-| Company | Role | Est. Score | Priority |
-|---------|------|------------|----------|
-| Palantir | Forward Deployed SWE Intern - US Gov | ~4.0 | High |
-| Databricks | Software Engineering Intern (2026) | ~3.8 | High |
-| Cohere | Software Engineer Intern (Spring/Summer 2026) | ~3.7 | High |
-| Ramp | University Grad 2026: SWE Backend | ~3.8 | High |
-| Sentry | Software Engineer, New Grad (2026) | ~3.8 | High |
-| Together AI | Software Engineer Intern (Summer 2026) | ~3.7 | Medium |
-| Schonfeld | 2026 Cybersecurity Operations Summer Intern | ~3.7 | Medium |
-| Datadog | Software Engineering Intern (Summer) | ~3.7 | Medium |
-| Planet Labs | Intern AI/ML Engineer (Summer 2026) | ~3.6 | Medium |
-| Rockstar Games | Intern: Application Security | ~3.6 | Medium |
+- **$60/hr** (~$124K annualized) — top quartile for undergrad interns
+- **San Francisco, CA** and **Seattle, WA** (in-person)
+- **12-week** Summer 2026 internship
+- **Stack**: Python (backend), JavaScript/React, PostgreSQL — Carlos matches all three in production
+- **Team**: Applied Engineering — ships ChatGPT and OpenAI API features
+- **Why it fits**: Carlos's Finch platform (35K-line Flask, React 19, Postgres with PL/pgSQL, multi-LLM pipeline) is an exact match for the stated requirements. Production AI experience + live SaaS are rare for an undergrad intern applicant.
+- **Risk**: Highly competitive pool. Lead with concrete metrics and demo link (applyeasy.tech).
 
 ---
 
-## ⚠️ Upcoming Deadlines
+## Key Observation — Market Signal
 
-| Company | Role | Deadline |
-|---------|------|----------|
-| Anthropic | Fellows Program — AI Security | **April 26, 2026** |
-| Anthropic | Fellows Program — AI Safety | **April 26, 2026** |
-| Anthropic | Fellows Program — ML Systems | **April 26, 2026** |
-| Planet Labs | Intern AI/ML Engineer | **~April 13, 2026** |
+The Summer 2026 intern market on Ashby/Greenhouse is largely saturated — most high-priority listings (Cloudflare, Notion, Together AI Security, Anthropic Fellows, Palantir, Decagon, Scale AI, etc.) have already been added to the pipeline in v1-v19. This v20 scan confirms the OpenAI Summer 2026 intern listing is a new posting distinct from the previously tracked Fall 2026 co-op.
+
+**Companies with no active Summer 2026 SWE/Security intern listings:**
+- Temporal (0 jobs on Greenhouse)
+- Intercom (senior-only)
+- PolyAI (senior + EMEA-only)
+- LangChain, Pinecone, W&B, Zapier, n8n (no undergrad intern programs visible)
 
 ---
 
 ## Recommended Next Actions
 
-1. **URGENT:** Apply to Anthropic Fellows Program (AI Security) — deadline April 26. Already evaluated at 4.7/5.
-2. **URGENT:** Check Planet Labs status — deadline ~April 13. Verify listing still active.
-3. **Evaluate pipeline backlog:** Run `/career-ops pipeline` to process the 20+ pending listings from v15-v18.
-4. **ByteDance:** Review Security Assurance internship (~3.5) if interested in offensive security at scale. Note: Chinese parent company (ByteDance/TikTok) brand risk — consider carefully before applying.
-5. **Add ByteDance to portals.yml** for future scans (confirmed US internships in San Jose).
+1. **Apply: OpenAI Summer 2026 SWE Intern** (Report 292) — deadline unknown; apply this week; lead with applyeasy.tech demo
+2. **Apply: Anthropic Fellows Program — AI Security** (#246, deadline April 26!) — top priority still open
+3. **Review pipeline**: 30+ evaluated listings pending decision; run `/career-ops pipeline` to batch-process high-priority items
+4. **Check on applied roles**: CrowdStrike Red Team (#304, 4.5/5), Haize Labs (#298, 4.7/5), Notion AI Intern (#254, 4.5/5)
 
 ---
 
-*Next recommended scan: 2026-04-13 (3 days)*
+*Next suggested scan: 2026-04-13 or earlier if Anthropic Fellows deadline pressure increases.*
