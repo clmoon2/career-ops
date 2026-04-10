@@ -1,7 +1,7 @@
-# Scan Summary — 2026-04-10 (v17 Autonomous Agent)
+# Scan Summary — 2026-04-10 (v18 Autonomous Agent)
 
-**Date:** 2026-04-10  
-**Scan version:** v17  
+**Date:** 2026-04-10
+**Scan version:** v18
 **Agent:** Autonomous scan agent
 
 ---
@@ -10,114 +10,79 @@
 
 | Metric | Count |
 |--------|-------|
-| Portals / sources scanned | 25+ |
-| New listings found | 28 |
-| Added to pipeline | 23 |
-| Skipped (title/location filter) | 5 |
+| Portals / sources scanned | 30+ |
+| New listings found (v18) | 8 |
+| Added to pipeline | 8 |
+| Skipped (title/PhD/location filter) | 6 |
 | Full evaluation reports written | 2 |
-| Tracker entries updated | 2 |
+| Tracker entries added/updated | 7 |
 
 ---
 
-## Top Matches (Score ≥ 4.0)
+## Top Matches (Score ≥ 4.0) — NEW from v18
 
-### ⭐ #1 — Anthropic Fellows Program — AI Security | 4.7/5
-**URL:** https://job-boards.greenhouse.io/anthropic/jobs/5030244008  
-**Report:** [287](reports/287-anthropic-fellows-ai-security-2026-04-10.md)  
-**⚠️ DEADLINE: APRIL 26, 2026 — 16 days away**
+### ⭐ #1 — Together AI — Security Engineer Intern (Summer 2026) | 4.5/5
+**URL:** https://job-boards.greenhouse.io/togetherai/jobs/5012785007
+**Report:** [291](reports/291-together-ai-security-intern-2026-04-10.md)
 
-Why: Carlos's LLM Adversarial Testing project maps DIRECTLY to this fellowship's red teaming focus. Adversarial prompt injection, system prompt bypasses, developer mode simulation = exact match. Security engineering stack (HMAC-SHA256, OAuth proxy, TLS 1.2/1.3, CSP) adds production security depth. Cybersecurity minor + Python 35K-line codebase seals it.
+Why: $58/hr ($120K annualized). Carlos's adversarial LLM testing project maps directly to AI security threat modeling at an inference company. HMAC-SHA256 CSRF, OAuth proxy, TLS hardening, CSP lockdown, LaTeX injection prevention — this is the security stack Finch was built with. The "AI inference company security" context is rare and prestigious. May 18–Aug 7 or Jun 15–Sep 4.
 
-Comp: $3,850/wk (~$200K annualized) + $15K/mo compute funding  
-Location: Berkeley CA, London UK, or Remote (US/UK/CA)  
-**Action: Apply immediately. This is the highest-priority item this week.**
-
----
-
-### ⭐ #2 — Palantir Technologies — Software Engineer, Internship | 4.1/5
-**URL:** https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c  
-**Report:** [288](reports/288-palantir-swe-intern-2026-04-10.md)
-
-Why: Top-1% comp ($10,500/mo + $3,500 housing). Palantir interns own end-to-end projects — matches Carlos's solo builder profile exactly.
-
-Comp: $10,500/mo + $3,500/mo housing + airfare  
-Location: NYC, Washington DC, Seattle, Palo Alto  
-**Action: Verify graduation timeline (must plan to graduate in 2027). Also apply to FDSE Intern - US Government track.**
+Comp: $58/hr (~$120K annualized)
+Location: SF on-site (no relocation listed — verify)
+**Action: Apply this week. This is a tier-1 security intern role at a top AI company.**
 
 ---
 
-## New Listings Added to Pipeline (v17)
+### ⭐ #2 — Decagon — Agent Software Engineer Intern (Summer 2026) | 4.4/5
+**URL:** https://jobs.ashbyhq.com/decagon/aa9c9d2a-aba9-429e-bf91-8303247fbcd6
+**Report:** [282](reports/282-decagon-agent-swe-intern-2026-04-10.md)
 
-| Priority | Company | Role | Score Est. |
-|----------|---------|------|------------|
-| ⭐ HIGH | Anthropic | Fellows — AI Security | 4.7 |
-| ⭐ HIGH | Palantir | SWE Intern (general) | 4.1 |
-| HIGH | Palantir | FDSE Intern - US Gov | ~4.0 |
-| MED | Palantir | SWE Intern - Prod Infra | ~3.9 |
-| MED | Ramp | University Grad 2026 Backend | ~3.8 |
-| MED | Databricks | SWE Intern 2026 | ~3.8 |
-| MED | Palantir | SWE Intern - Defense Tech | ~3.8 |
-| MED | Together AI | SWE Intern (Summer 2026) | ~3.7 |
-| MED | Schonfeld | Cybersecurity Operations Intern | ~3.7 |
-| MED | Datadog | SWE Intern (Summer) | ~3.7 |
-| MED | Cohere | SWE Intern (Spring/Summer 2026) | ~3.7 |
-| MED | Delinea | SWE Intern - Summer 2026 | ~3.6 |
-| MED | Rockstar Games | AppSec Intern (Summer 2026) | ~3.6 |
-| MED | Cohere | ML Intern (Spring/Summer 2026) | ~3.5 |
-| MED | PDT Partners | Systems Engineering Intern | ~3.5 |
-| MED | PermitFlow | Fullstack SWE, New Grad | ~3.5 |
-| LOW | MEMX | Information Security Intern | ~3.4 |
-| LOW | Giga | SWE Intern | ~3.4 |
-| LOW | TENEX.AI | SWE Intern | ~3.4 |
-| LOW | CLEAR | SWE Intern (Summer 2026) | ~3.3 |
-| LOW | Farsight AI | SWE Intern | ~3.3 |
-| LOW | Northwood Space | SWE Intern | ~3.1 |
-| LOW | Anthropic | Fellows (general meta-listing) | ~3.8 |
+Why: Decagon builds AI customer support agents for Notion, Rippling, Duolingo. Carlos built a 7-stage AI pipeline with 5 LLM providers (Claude Sonnet, DeepSeek, Gemini, GPT-4o) at Finch — identical architecture to Decagon's product. Multi-model orchestration + LangChain + RAG + Python backend = near-perfect fit. a16z + Accel-backed. SF May–Sep 2026.
+
+Comp: Not disclosed (startup = competitive)
+Location: SF on-site
+**Action: Apply. Finch's pipeline is the strongest possible proof point for this role.**
 
 ---
 
-## Companies Scanned This Run
+## Other New Listings Added to Pipeline (v18)
 
-- Anthropic (Greenhouse API — new AI Security fellows track found)
-- Palantir (Lever — internship tracks, distinct from new grad roles scanned Apr 5)
-- Cohere (Ashby — intern roles, distinct from full-time roles scanned Apr 5)
-- Databricks (Greenhouse — first scan)
-- Together AI (Greenhouse — SWE intern, distinct from Security intern scanned Apr 9)
-- Datadog (custom careers page)
-- Schonfeld (Greenhouse — cybersecurity track)
-- Ramp (Ashby — new grad track)
-- Delinea (Ashby — first scan)
-- Farsight AI (Ashby — first scan)
-- PDT Partners (Greenhouse — systems track)
-- MEMX (Greenhouse — first scan)
-- Rockstar Games (Greenhouse — verify listing status)
-- CLEAR (Greenhouse — first scan)
-- Giga / gigaml (Ashby — first scan)
-- PermitFlow (Ashby — first scan)
-- TENEX.AI (Ashby — first scan)
-- Northwood Space (Ashby — first scan)
-- Intercom (Greenhouse API — no intern/new grad roles)
-- Temporal (Greenhouse API — no open roles)
+| Company | Role | Score | Notes |
+|---------|------|-------|-------|
+| Brex | Software Engineer Intern | 3.8 | SF hybrid $55/hr; Python+AI tooling; Java/Kotlin gap |
+| Roadie (UPS) | AI Engineer Intern | 3.7 | Remote; FastAPI+LangChain+LangGraph+pgvector exact stack |
+| Planet Labs | AI/ML Engineer Intern | 3.6 | Check ITAR compliance; geospatial AI |
+| RA Capital | AI Engineering Intern | 3.4 | Boston; biotech hedge fund; domain mismatch |
+| SharkNinja | Applied AI & Analytics Intern | 3.3 | Consumer hardware AI; verify comp/location |
+| BillionToOne | AI Engineering Intern | 3.2 | Genomics + AI; verify details |
 
 ---
 
-## Recommended Next Actions
+## Tracker Recovery — Missed Entries from Previous Scans
 
-1. **🚨 APPLY NOW:** Anthropic Fellows — AI Security (deadline April 26, 16 days!)
-2. **Apply this week:** Palantir internship — verify 2027 graduation req → apply to multiple tracks
-3. **Evaluate from pipeline:** Run `/career-ops pipeline` on medium-priority listings (Databricks, Schonfeld, Datadog, Ramp new grad)
-4. **Check existing pipeline:** CrowdStrike Red Team (4.5), Haize Labs (4.7), Sierra Agent Dev (4.3), Stripe (4.5), Together AI Security Intern (4.5) — confirm applications submitted
+This scan recovered 4 entries from previous scan runs that were prepared but never merged:
 
----
-
-## Filtered / Skipped
-
-- Palo Alto Networks via RippleMatch — 404 (listing closed)
-- Cloudflare 7296923 — London UK, not US-based
-- Lightspark — Lightning Network / crypto focus (negative filter)
-- Rockstar Games Security Automation — "no current openings" in job board check
-- Freeform New Grad — manufacturing/hardware focus, ABET requirement
+| # | Company | Role | Score |
+|---|---------|------|-------|
+| 327 | Sierra | Software Engineer, Agent (New Grad) | 4.0 |
+| 328 | Salesforce | Summer 2026 Intern - Software Engineer | 3.7 |
+| 330 | Twilio | Software Engineer Intern | 3.5 |
+| 332 | Veeam | AI Intern, Veeam Data Cloud | 3.4 |
 
 ---
 
-*Generated: 2026-04-10 | Autonomous Scan Agent v17*
+## Active Pipeline — Top Urgency
+
+| Role | Score | Deadline | Action |
+|------|-------|----------|--------|
+| Anthropic Fellows — AI Security | 4.7 | **APRIL 26** | Apply NOW |
+| Together AI — Security Intern | 4.5 | Not stated | Apply this week |
+| CrowdStrike — Red Team Intern | 4.5 | Not stated | Apply this week |
+| Decagon — Agent SWE Intern | 4.4 | Not stated | Apply this week |
+| Cloudflare — Security Intern (Austin) | 4.4 | Not stated | Apply this week |
+| Proofpoint — AI Agents Intern | 4.2 | Not stated | Apply soon |
+| Palantir — SWE Intern | 4.1 | Not stated | Apply soon |
+| Sierra — Intern Agent Development | 4.3 | Not stated | Apply soon |
+
+→ **PRIORITY: Anthropic Fellows AI Security deadline is April 26 — 16 days away.**
+→ Run `/career-ops pipeline` to evaluate remaining pending listings.

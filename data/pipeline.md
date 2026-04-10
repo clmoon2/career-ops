@@ -2,6 +2,17 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-10 SCAN v18 (Autonomous Agent) === -->
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/5012785007 | Together AI | Security Engineer Intern (Summer 2026) — $58/hr; SF on-site; adversarial LLM testing + OAuth/TLS/CSRF = exact security match; May18-Aug7 or Jun15-Sep4 ⭐ EVALUATED 4.5
+- [ ] https://jobs.ashbyhq.com/decagon/aa9c9d2a-aba9-429e-bf91-8303247fbcd6 | Decagon | Agent Software Engineer Intern (Summer 2026) — SF May-Sep 2026; agentic AI; a16z/Accel-backed; multi-model AI pipeline + LangChain + RAG = near-perfect match ⭐ EVALUATED 4.4
+- [ ] https://job-boards.greenhouse.io/brex/jobs/8434389002 | Brex | Software Engineer Intern (Summer 2026) — SF hybrid; Jun-Sep 2026; $55/hr; Python backend + AI-first tooling; Java/Kotlin gap but strong fintech brand (~3.8)
+- [ ] https://job-boards.greenhouse.io/roadie/jobs/8479096002 | Roadie | AI Engineer Intern (Summer 2026) — Remote; FastAPI+LangChain+LangGraph+pgvector+AWS+Docker exact stack match; RAG+AI agents focus; comp not listed (~3.7)
+- [ ] https://job-boards.greenhouse.io/racapitalmanagementllc/jobs/5177331008 | RA Capital | AI Engineering Intern (Summer 2026) — Boston MA; AI engineering at biotech/pharma hedge fund; Python+AI match; biotech domain mismatch (~3.4)
+- [ ] https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4669665006 | SharkNinja | Applied AI and Analytics Intern (Summer 2026) — consumer hardware AI; Python+ML match; verify comp/location (~3.3)
+- [ ] https://job-boards.greenhouse.io/billiontoone/jobs/4680728005 | BillionToOne | AI Engineering Intern (Summer 2026) — genomics company; AI engineering focus; verify stack/location/comp (~3.2)
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7762819 | Planet Labs | Intern AI/ML Engineer (Summer 2026) — ⚠️ check ITAR compliance req; geospatial + Python/ML; SF hybrid; different URL from 7714373 listing (~3.6)
+<!-- === END 2026-04-10 SCAN v18 === -->
+
 <!-- === NEW 2026-04-10 SCAN v17 (Autonomous Agent) === -->
 - [x] https://job-boards.greenhouse.io/anthropic/jobs/5030244008 | Anthropic | Anthropic Fellows Program — AI Security — ⚠️ DEADLINE APRIL 26! Red teaming + adversarial LLM testing = perfect match; $3,850/wk + $15K/mo compute; July 20 start; Berkeley/remote; cybersecurity minor + LLM adversarial testing project ⭐ EVALUATED 4.7
 - [x] https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c | Palantir | Software Engineer, Internship — $10,500/mo + $3,500 housing; NYC/DC/Seattle/Palo Alto; end-to-end ownership matches Carlos's solo builder profile; verify 2027 graduation req ⭐ EVALUATED 4.1
