@@ -1,7 +1,8 @@
-# Portal Scan Summary — 2026-04-10 (v21)
+# Portal Scan Summary — 2026-04-10 (v22)
 
-**Run type:** Autonomous agent — incremental scan
-**Previous scan:** v20 (2026-04-10, same day — this run found companies/listings not covered by v20)
+**Run:** Autonomous Agent scan
+**Date:** 2026-04-10
+**Previous scan:** v21 (2026-04-10)
 
 ---
 
@@ -9,86 +10,60 @@
 
 | Metric | Count |
 |--------|-------|
-| Queries executed | 18 |
-| Companies/portals checked | 20+ |
-| Raw URLs found | ~35 |
-| Already seen (history) | ~22 |
-| Filtered (geo/seniority/closed) | 8 |
-| **New listings added to pipeline** | **8** |
-| Full evaluations written | 1 |
+| Companies/portals scanned | 28 |
+| Greenhouse API checks | 9 (Anthropic, Glean, Vercel, Arize AI, Airtable, Together AI, RunPod, Intercom, Hume AI) |
+| WebSearch queries run | 14 |
+| Total listings examined | ~450 |
+| New listings added to pipeline | 32 |
+| Skipped duplicates | 7 |
+| Full evaluations (score ≥ 4.0) | **1** (Anthropic Fellows AI Safety) |
 
 ---
 
-## New Listings Added to Pipeline
+## Top Matches (Score ≥ 4.0)
 
-| # | Company | Role | Est. Score | Notes |
-|---|---------|------|-----------|-------|
-| ⭐ | **Mechanize** | Software Engineering Intern | **4.6/5** | $100/hr — highest rate in all scans; RL eval infra for frontier AI labs |
-| + | Cloudflare | AI Automation Intern (M&A) | ~3.5 | $24/hr; build LLM agents at Cloudflare; Austin/SF/NYC |
-| + | TransMarket Group | DevOps/SRE Intern | ~3.5 | Chicago; quant trading; Python+Docker+CI/CD |
-| + | Cloudflare | Research Engineer Intern | ~3.2 | Austin; security/crypto/systems research; Rust/C/Go preferred |
-| + | Allen Institute for AI | Research Internship (Agentic LLMs) | ~3.3 | Seattle; agentic LLM research; research background preferred |
-| + | 10a Labs | AI Red Teamer (Entry Level) | ~3.3 | NYC/SF/DC; entry-level red team AI; verify full-time vs intern |
-| + | Vapi | Infrastructure Engineer - Security | ~3.2 | Full-time (not intern); security at voice AI infra; verify new-grad eligibility |
-| + | Primer | Spring/Summer 2026 Engineering Intern | ~3.3 | NLP for defense/intel; verify location + clearance req |
+| # | Company | Role | Score | Notes |
+|---|---------|------|-------|-------|
+| 340 | **Anthropic** | Fellows Program — AI Safety | **4.2/5** | ⭐ **DEADLINE APRIL 26** — $3,850/wk + $15K/mo compute; adversarial LLM testing = direct match; report [292](reports/292-anthropic-fellows-ai-safety-2026-04-10.md) |
 
 ---
 
-## Evaluated This Run
+## High Priority Pending Evaluation (3.8+)
 
-### ⭐ Mechanize — Software Engineering Intern (4.6/5)
-**Report:** [281](reports/281-mechanize-swe-intern-2026-04-10.md)
-**URL:** https://jobs.ashbyhq.com/mechanize/d148d54f-6db7-4c28-9699-0304596f554e
-
-The standout find of this scan cycle. Mechanize builds RL evaluation environments used by frontier AI labs to train and evaluate coding models. $100/hour is the highest intern compensation seen across all 281 evaluations in this system.
-
-Why it's a near-perfect match:
-- Adversarial LLM testing project on CV = exact skill match for "analyze where models fail"
-- 35K-line Python production codebase = Python proficiency at scale
-- Multi-model AI pipeline ($0.003/app) = deep LLM behavior intuition
-- ATS scoring engine (785 keywords, quality floor) = grading infrastructure experience
-
-Only constraint: SF on-site. Relocation required from College Station TX. At $100/hr for 12 weeks, economically justified.
-
-**→ Apply immediately. Top opportunity in the v21 scan.**
+| Company | Role | Est. Score | URL |
+|---------|------|-----------|-----|
+| Scale AI | Software Engineer, Security Engineering — New Grad | ~4.0 | [job-boards.greenhouse.io/scaleai/jobs/4523725005](https://job-boards.greenhouse.io/scaleai/jobs/4523725005) |
+| Notion | Software Engineer Intern (Fall 2026) | ~3.8 | [jobs.ashbyhq.com/notion/5b15697c](https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90) |
+| Censys | 2026 AI/ML Engineering Intern, Platform | ~3.8 | [job-boards.greenhouse.io/censys/jobs/8167601002](https://job-boards.greenhouse.io/censys/jobs/8167601002) ⚠️ verify active |
+| Cloudflare | Software Engineer Intern (Summer 2026) ×2 | ~3.8 | jobs 7296923 + 7574676 |
+| Anthropic | Fellows Program — ML Systems & Performance | ~3.6 | [job-boards.greenhouse.io/anthropic/jobs/5183051008](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) |
 
 ---
 
-## Filtered / Skipped
+## Medium Priority (3.3–3.7)
 
-| URL | Company | Reason |
-|-----|---------|--------|
-| ...cloudflare.../7574676 | Cloudflare | Cannot verify — likely closed or London track |
-| ...grammarly.../7491439 | Grammarly | 404 — listing closed |
-| ...willowtree.../8094349002 | TELUS Digital | 404 — listing closed |
-| ...baringa.../4778983101 | Baringa | UK-based, no US role |
-| ...perplexity.../b9e1ff | Perplexity | Berlin internship — geo-excluded |
-| ...perplexity.../79a07e | Perplexity | UK internship — geo-excluded |
-| ...digs.../4663936006 | Digs | Spring 2026 only — timing miss |
+Cloudflare SWE Intern (Spring + Winter/Spring), Whatnot SWE Intern, Patreon Fullstack New Grad, Meshy SWE New Grad, Aquatic Capital SWE Intern, Ada DevOps Intern, Okta Data Platform Intern, Verisign Technical Internships, Audax AI Engineer Intern, PermitFlow Fullstack New Grad, Scale AI Public Sector New Grad.
 
 ---
 
-## Companies Checked This Run
+## Notable Skips (already tracked)
 
-**WebSearch portals scanned:**
-- Ashby: Mechanize, Vapi, Primer, Perplexity, Replit (new grad), Notion (fall), Giga, Zettabyte
-- Greenhouse: Cloudflare (all tracks), TransMarket Group, Allen Institute for AI, 10a Labs, Grammarly, TELUS Digital/WillowTree, Baringa, Bandwidth, Zscaler, Gemini, Rockstar (sec ops), Dark Wolf, C3 AI, Glean, Pendo, Mercury, xAI
-- Lever: Mistral AI (FDE intern, new grad), Weights & Biases (no intern listings found), Symmetry Systems, Voleon, Shield AI
-- Salesforce: confirmed already in v20 history (jr308796, jr326948, jr313214)
-- Sierra: confirmed already in v20 history (8bb2509d)
+- Scale AI SWE New Grad (#302, 4.2/5) — already evaluated
+- DV Trading AI Engineer Intern (#312, 3.5/5) — already evaluated
+- Hermeus Datalinks/C2 (#279, 3.0/5) — already evaluated
+
+---
+
+## New Companies Found (not in portals.yml)
+
+Censys, Aquatic Capital Management, Meshy, Verisign, Audax Group → consider adding to portals.yml
 
 ---
 
 ## Recommended Next Actions
 
-1. **Apply to Mechanize** — immediately. Top priority. Cover letter: adversarial LLM testing + ATS scoring engine as grading infrastructure.
-2. **Evaluate Cloudflare AI Automation Intern** — $24/hr is low but Cloudflare brand + LLM agent project may be worth it.
-3. **Check 10a Labs AI Red Teamer** — confirm if entry-level full-time vs intern. Cybersecurity minor is a strong match.
-4. **Evaluate TransMarket Group DevOps** — Chicago quant firm, Python+Docker, solid secondary-archetype fit.
-5. **Run `/career-ops pipeline`** to process 50+ pending entries from v17-v21 scans.
-
----
-
-*Run pipeline: `/career-ops pipeline`*
-*View all pending: `data/pipeline.md`*
-*Health check: `node verify-pipeline.mjs`*
+1. **🚨 APPLY NOW** — Anthropic Fellows AI Safety — **deadline April 26, 2026**. Report [292](reports/292-anthropic-fellows-ai-safety-2026-04-10.md). Frame adversarial LLM testing as empirical AI safety red-teaming.
+2. **Evaluate** — Scale AI Security Engineering New Grad (strong match if graduation window allows)
+3. **Verify** — Censys AI/ML Intern may be closed (only senior roles visible on main page)
+4. **Fall option** — Notion Fall 2026 Intern: high quality with less competition than summer
+5. **Run** — `node merge-tracker.mjs` to merge tracker entry #340 (Anthropic Fellows)
