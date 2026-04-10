@@ -1,8 +1,7 @@
-# Portal Scan — 2026-04-10 (v20)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Portal Scan Summary — 2026-04-10 (v21)
 
-**Agent:** Autonomous scan (career-ops v20)
-**Scan type:** Greenhouse API + WebSearch multi-portal discovery
+**Run type:** Autonomous agent — incremental scan
+**Previous scan:** v20 (2026-04-10, same day — this run found companies/listings not covered by v20)
 
 ---
 
@@ -10,76 +9,86 @@
 
 | Metric | Count |
 |--------|-------|
-| Companies/portals scanned | 25 |
-| Search queries executed | 14 |
-| Total URLs found | 47 |
-| Filtered (title mismatch / senior-only) | 17 |
-| Duplicates (already in history/pipeline) | 23 |
-| **New listings added to pipeline** | **7** |
-| Evaluations written (score ≥ 4.0) | 1 |
-
----
-
-## Portals Scanned
-
-**Greenhouse API (direct):**
-- Intercom — 155 jobs, all senior/sales. No intern listings.
-- PolyAI — 24 jobs, all senior or Serbia/UK-only. No intern listings.
-- Temporal — 0 jobs (empty board).
-
-**WebSearch discovery (22 queries across Ashby, Greenhouse, Lever):**
-- OpenAI, ElevenLabs, LangChain, Zapier, n8n, Pinecone, W&B, Replit, Harvey, Cohere, Ramp, Benchling, Whatnot, Sentry, Zip, Kikoff, Profound, Figma, Stripe, Ripple, Bot Auto, Tessera Labs, Socure, GameChanger, Second Dinner, Brain Co., Giga, Farsight, Delinea, Notion, Verkada, Okta, Klaviyo, HP IQ, PDT Partners
+| Queries executed | 18 |
+| Companies/portals checked | 20+ |
+| Raw URLs found | ~35 |
+| Already seen (history) | ~22 |
+| Filtered (geo/seniority/closed) | 8 |
+| **New listings added to pipeline** | **8** |
+| Full evaluations written | 1 |
 
 ---
 
 ## New Listings Added to Pipeline
 
-| Company | Role | Score | URL |
-|---------|------|-------|-----|
-| OpenAI | Software Engineer Internship / Co-op, Applied Emerging Talent (Summer 2026) | **4.2/5** ⭐ EVALUATED | https://jobs.ashbyhq.com/openai/566ce27d-8a1c-497c-a301-0912010d7b29 |
-| OpenAI | Software Engineer, Applied Emerging Talent (2026) — new grad | ~3.8/5 | https://jobs.ashbyhq.com/openai/83002509-5242-4145-a717-b31bcac1d4aa |
-| Socure | Software Engineer Intern | ~3.4/5 | https://jobs.ashbyhq.com/socure/b4116152-5342-4ed3-a764-f656b3b0e949 |
-| Tessera Labs | Software Engineer Intern - Backend (new URL) | ~3.3/5 | https://jobs.ashbyhq.com/tessera-labs/dce8d8e5-f169-4bdb-b1c2-f4754fca31e7 |
-| Bot Auto | Intern Software Engineer - AI Agents | ~3.3/5 | https://job-boards.greenhouse.io/botauto/jobs/5182929008 |
-| GameChanger | Software Engineer Summer Intern | ~3.1/5 | https://jobs.ashbyhq.com/gamechanger/e782e817-22d9-4524-a653-b94913001dae |
-| Together AI | Frontier Agents Intern (Summer 2026) | ~2.5/5 ⚠️ PhD req | https://job-boards.greenhouse.io/togetherai/jobs/5012769007 |
+| # | Company | Role | Est. Score | Notes |
+|---|---------|------|-----------|-------|
+| ⭐ | **Mechanize** | Software Engineering Intern | **4.6/5** | $100/hr — highest rate in all scans; RL eval infra for frontier AI labs |
+| + | Cloudflare | AI Automation Intern (M&A) | ~3.5 | $24/hr; build LLM agents at Cloudflare; Austin/SF/NYC |
+| + | TransMarket Group | DevOps/SRE Intern | ~3.5 | Chicago; quant trading; Python+Docker+CI/CD |
+| + | Cloudflare | Research Engineer Intern | ~3.2 | Austin; security/crypto/systems research; Rust/C/Go preferred |
+| + | Allen Institute for AI | Research Internship (Agentic LLMs) | ~3.3 | Seattle; agentic LLM research; research background preferred |
+| + | 10a Labs | AI Red Teamer (Entry Level) | ~3.3 | NYC/SF/DC; entry-level red team AI; verify full-time vs intern |
+| + | Vapi | Infrastructure Engineer - Security | ~3.2 | Full-time (not intern); security at voice AI infra; verify new-grad eligibility |
+| + | Primer | Spring/Summer 2026 Engineering Intern | ~3.3 | NLP for defense/intel; verify location + clearance req |
 
 ---
 
-## Top Match (Score ≥ 4.0) — Report Written
+## Evaluated This Run
 
-### ⭐ OpenAI — Software Engineer Internship, Applied Emerging Talent (Summer 2026)
-**Score: 4.2/5** | Report: [292](reports/292-openai-swe-intern-summer-2026-04-10.md)
+### ⭐ Mechanize — Software Engineering Intern (4.6/5)
+**Report:** [281](reports/281-mechanize-swe-intern-2026-04-10.md)
+**URL:** https://jobs.ashbyhq.com/mechanize/d148d54f-6db7-4c28-9699-0304596f554e
 
-- **$60/hr** (~$124K annualized) — top quartile for undergrad interns
-- **San Francisco, CA** and **Seattle, WA** (in-person)
-- **12-week** Summer 2026 internship
-- **Stack**: Python (backend), JavaScript/React, PostgreSQL — Carlos matches all three in production
-- **Team**: Applied Engineering — ships ChatGPT and OpenAI API features
-- **Why it fits**: Carlos's Finch platform (35K-line Flask, React 19, Postgres with PL/pgSQL, multi-LLM pipeline) is an exact match for the stated requirements. Production AI experience + live SaaS are rare for an undergrad intern applicant.
-- **Risk**: Highly competitive pool. Lead with concrete metrics and demo link (applyeasy.tech).
+The standout find of this scan cycle. Mechanize builds RL evaluation environments used by frontier AI labs to train and evaluate coding models. $100/hour is the highest intern compensation seen across all 281 evaluations in this system.
+
+Why it's a near-perfect match:
+- Adversarial LLM testing project on CV = exact skill match for "analyze where models fail"
+- 35K-line Python production codebase = Python proficiency at scale
+- Multi-model AI pipeline ($0.003/app) = deep LLM behavior intuition
+- ATS scoring engine (785 keywords, quality floor) = grading infrastructure experience
+
+Only constraint: SF on-site. Relocation required from College Station TX. At $100/hr for 12 weeks, economically justified.
+
+**→ Apply immediately. Top opportunity in the v21 scan.**
 
 ---
 
-## Key Observation — Market Signal
+## Filtered / Skipped
 
-The Summer 2026 intern market on Ashby/Greenhouse is largely saturated — most high-priority listings (Cloudflare, Notion, Together AI Security, Anthropic Fellows, Palantir, Decagon, Scale AI, etc.) have already been added to the pipeline in v1-v19. This v20 scan confirms the OpenAI Summer 2026 intern listing is a new posting distinct from the previously tracked Fall 2026 co-op.
+| URL | Company | Reason |
+|-----|---------|--------|
+| ...cloudflare.../7574676 | Cloudflare | Cannot verify — likely closed or London track |
+| ...grammarly.../7491439 | Grammarly | 404 — listing closed |
+| ...willowtree.../8094349002 | TELUS Digital | 404 — listing closed |
+| ...baringa.../4778983101 | Baringa | UK-based, no US role |
+| ...perplexity.../b9e1ff | Perplexity | Berlin internship — geo-excluded |
+| ...perplexity.../79a07e | Perplexity | UK internship — geo-excluded |
+| ...digs.../4663936006 | Digs | Spring 2026 only — timing miss |
 
-**Companies with no active Summer 2026 SWE/Security intern listings:**
-- Temporal (0 jobs on Greenhouse)
-- Intercom (senior-only)
-- PolyAI (senior + EMEA-only)
-- LangChain, Pinecone, W&B, Zapier, n8n (no undergrad intern programs visible)
+---
+
+## Companies Checked This Run
+
+**WebSearch portals scanned:**
+- Ashby: Mechanize, Vapi, Primer, Perplexity, Replit (new grad), Notion (fall), Giga, Zettabyte
+- Greenhouse: Cloudflare (all tracks), TransMarket Group, Allen Institute for AI, 10a Labs, Grammarly, TELUS Digital/WillowTree, Baringa, Bandwidth, Zscaler, Gemini, Rockstar (sec ops), Dark Wolf, C3 AI, Glean, Pendo, Mercury, xAI
+- Lever: Mistral AI (FDE intern, new grad), Weights & Biases (no intern listings found), Symmetry Systems, Voleon, Shield AI
+- Salesforce: confirmed already in v20 history (jr308796, jr326948, jr313214)
+- Sierra: confirmed already in v20 history (8bb2509d)
 
 ---
 
 ## Recommended Next Actions
 
-1. **Apply: OpenAI Summer 2026 SWE Intern** (Report 292) — deadline unknown; apply this week; lead with applyeasy.tech demo
-2. **Apply: Anthropic Fellows Program — AI Security** (#246, deadline April 26!) — top priority still open
-3. **Review pipeline**: 30+ evaluated listings pending decision; run `/career-ops pipeline` to batch-process high-priority items
-4. **Check on applied roles**: CrowdStrike Red Team (#304, 4.5/5), Haize Labs (#298, 4.7/5), Notion AI Intern (#254, 4.5/5)
+1. **Apply to Mechanize** — immediately. Top priority. Cover letter: adversarial LLM testing + ATS scoring engine as grading infrastructure.
+2. **Evaluate Cloudflare AI Automation Intern** — $24/hr is low but Cloudflare brand + LLM agent project may be worth it.
+3. **Check 10a Labs AI Red Teamer** — confirm if entry-level full-time vs intern. Cybersecurity minor is a strong match.
+4. **Evaluate TransMarket Group DevOps** — Chicago quant firm, Python+Docker, solid secondary-archetype fit.
+5. **Run `/career-ops pipeline`** to process 50+ pending entries from v17-v21 scans.
 
 ---
 
-*Next suggested scan: 2026-04-13 or earlier if Anthropic Fellows deadline pressure increases.*
+*Run pipeline: `/career-ops pipeline`*
+*View all pending: `data/pipeline.md`*
+*Health check: `node verify-pipeline.mjs`*

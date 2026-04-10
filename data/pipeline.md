@@ -2,6 +2,17 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-10 SCAN v21 (Autonomous Agent) === -->
+- [ ] https://jobs.ashbyhq.com/mechanize/d148d54f-6db7-4c28-9699-0304596f554e | Mechanize | Software Engineering Intern — SF on-site; **$100/hr** (highest rate seen); build RL eval tasks for frontier AI labs; Python + LLM behavior + adversarial testing = exact match; grads 2026/2027; US work auth required ⭐ EVALUATED 4.6
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7589903 | Cloudflare | AI Automation Intern (M&A Integration Ops) (Summer 2026) — Austin/SF/NYC; $24/hr; build LLM-powered automation for M&A integration ops; Gemini/NotebookLM; 12-wk; low pay but Cloudflare brand and AI-first project (~3.5)
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7358525 | Cloudflare | Research Engineer Intern (Summer 2026) — Austin TX on-site; security/privacy/cryptography research; Rust/C/Go + peer-reviewed research preferred; above Carlos's current research profile but worth a shot (~3.2)
+- [ ] https://job-boards.greenhouse.io/transmarketgroup/jobs/4749908007 | TransMarket Group | DevOps/SRE Intern — Chicago IL; quant trading firm; Python + Docker + GitHub Actions + Grafana/Prometheus; CI/CD + infra focus; DevOps archetype match (~3.5)
+- [ ] https://job-boards.greenhouse.io/thealleninstitute/jobs/7366263 | Allen Institute for AI | Research Internship, Advancing Open Agentic LLMs — Seattle WA; agentic LLM research; ML research background preferred; more research-adjacent than applied engineering (~3.3)
+- [ ] https://job-boards.greenhouse.io/10alabs/jobs/4002004009 | 10a Labs | AI Red Teamer (Entry Level) — NYC/SF/DC; entry-level red teaming for AI; Python/Bash scripting; cybersecurity minor + adversarial LLM testing maps well; verify full-time vs intern (~3.3)
+- [ ] https://jobs.ashbyhq.com/vapi/51de69e3-987e-42dc-9d11-897b09a04dbb | Vapi | Infrastructure Engineer - Security — full-time (not intern); security ownership at voice AI infra company; HMAC/TLS/OAuth expertise exact match; verify if new grad eligible (~3.2)
+- [ ] https://jobs.ashbyhq.com/primer/edd1667b-6323-444a-adc1-40bae5b9a3b0 | Primer | Spring/Summer 2026 Engineering Intern — NLP for defense/intelligence; Python; verify location and clearance requirements (~3.3)
+<!-- === END 2026-04-10 SCAN v21 === -->
+
 <!-- === NEW 2026-04-10 SCAN v20 (Autonomous Agent) === -->
 - [ ] https://jobs.ashbyhq.com/openai/566ce27d-8a1c-497c-a301-0912010d7b29 | OpenAI | Software Engineer Internship / Co-op, Applied Emerging Talent (Summer 2026) — SF/Seattle in-person; $60/hr; 12-wk; Python/React/Postgres exact stack match; ChatGPT/API product teams; very competitive pool ⭐ EVALUATED 4.2
 - [ ] https://jobs.ashbyhq.com/openai/83002509-5242-4145-a717-b31bcac1d4aa | OpenAI | Software Engineer, Applied Emerging Talent (2026) — Full-time new grad role; SF; same Applied Engineering team; building ChatGPT/API features; highly competitive (~3.8)
