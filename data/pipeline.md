@@ -2,6 +2,14 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-10 SCAN v23 (Autonomous Agent) === -->
+- [ ] https://job-boards.greenhouse.io/labelbox/jobs/5009527007 | Labelbox | Cyber Security Intern — AI data labeling/MLOps platform; security program scaling + SIEM/tooling work; cybersecurity minor + HMAC/TLS/OAuth/CSRF + adversarial LLM testing = direct match; verify comp and timeline (~3.8)
+- [ ] https://job-boards.greenhouse.io/asteraearlycareer/jobs/4598303005 | Astera Labs | Applied AI Engineer Intern - Fall Co-Op — AI connectivity hardware platform (PCIe/CXL for AI data centers); "Applied AI Engineer" title = exact archetype; Fall co-op starting Sept; Python + AI pipeline focus; NVIDIA/hyperscaler customers; verify comp/dates (~3.5)
+- [ ] https://jobs.lever.co/matchgroup/ce55175b-fdd1-40ca-9407-7cc5e1533982 | Match Group | Machine Learning Engineer Intern — Palo Alto hybrid (3d/wk); June 1–Aug 28 2026; Python + ML; consumer tech (Tinder/Hinge/Match); not AI-native but solid ML infra team; verify comp (likely $50-55/hr) (~3.2)
+- [ ] https://jobs.lever.co/weride/8f84c602-8a79-43f6-b662-74a92ef761f5 | WeRide.ai | 2026 Summer Intern - Software Engineer — autonomous vehicles startup; 5d/wk in-office (San Jose CA); Chinese-backed company (similar brand risk as ByteDance); 12-wk; verify tech stack, comp, and US work auth requirements (~2.8)
+- [ ] https://job-boards.greenhouse.io/usafacts/jobs/4029866009 | USAFacts | Data & AI Engineer Intern — civic data/analytics journalism platform; Python + data pipelines + AI integration; non-profit adjacent; low brand value but interesting civic tech work; verify comp and timeline (~3.0)
+<!-- === END 2026-04-10 SCAN v23 === -->
+
 <!-- === NEW 2026-04-10 SCAN v22 (Autonomous Agent) === -->
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5183044008 | Anthropic | Anthropic Fellows Program — AI Safety — **⚠️ DEADLINE APRIL 26!** $3,850/wk + $15K/mo compute; 4-month fellowship; July 20 start; Berkeley/remote; adversarial LLM testing = direct AI safety red-teaming match; Python + adversarial prompting + security depth; no pub history = main gap ⭐ EVALUATED 4.2
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4523725005 | Scale AI | Software Engineer, Security Engineering — New Grad — SF; $124-155K; building security automation tools; cybersecurity minor + defense-in-depth impl + adversarial LLM testing = strong match; verify graduation window (same as #302, req Fall 2025–Spring 2026) (~4.0)
