@@ -2,6 +2,30 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-10 SCAN v17 (Autonomous Agent) === -->
+- [x] https://job-boards.greenhouse.io/anthropic/jobs/5030244008 | Anthropic | Anthropic Fellows Program — AI Security — ⚠️ DEADLINE APRIL 26! Red teaming + adversarial LLM testing = perfect match; $3,850/wk + $15K/mo compute; July 20 start; Berkeley/remote; cybersecurity minor + LLM adversarial testing project ⭐ EVALUATED 4.7
+- [x] https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c | Palantir | Software Engineer, Internship — $10,500/mo + $3,500 housing; NYC/DC/Seattle/Palo Alto; end-to-end ownership matches Carlos's solo builder profile; verify 2027 graduation req ⭐ EVALUATED 4.1
+- [ ] https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2 | Palantir | Forward Deployed Software Engineer, Internship - US Government — FDE deployment at gov agencies; $10,500/mo; production deployment experience matches; verify clearance req (~4.0)
+- [ ] https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1 | Palantir | Software Engineer, Internship - Production Infrastructure — infra/reliability track; $10,500/mo; verify graduation req (~3.9)
+- [ ] https://boards.greenhouse.io/databricks/jobs/6866534002 | Databricks | Software Engineering Intern (2026) — major data/AI company; Python/Java/C++; ML-adjacent work; 12-16 week summer intern; verify location/graduation window (~3.8)
+- [ ] https://jobs.ashbyhq.com/cohere/66c98ca3-334b-4a6a-a27c-5807b3686121 | Cohere | Software Engineer Intern (Spring/Summer 2026) — frontier AI lab; full-stack/backend/ML infra; Toronto/NYC/SF remote-flexible; comp unspecified; strong brand (~3.7)
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/5012768007 | Together AI | Software Engineer Intern (Summer 2026) — AI inference company (distinct from Security Intern #321); verify comp/location/overlap (~3.7)
+- [ ] https://job-boards.greenhouse.io/schonfeld/jobs/7248075 | Schonfeld | 2026 Cybersecurity Operations Summer Intern — quant fund; $100-120K annualized; 10 weeks; security ops at financial firm; cybersecurity minor match; verify listing open (~3.7)
+- [ ] https://careers.datadoghq.com/detail/7158137/ | Datadog | Software Engineering Intern (Summer) — observability company; NYC or Boston; May 18-Aug 21; strong Python/distributed systems match; $100-110K annualized (~3.7)
+- [ ] https://jobs.ashbyhq.com/ramp/83075cf0-9c22-4475-9c6b-e21923a96df8 | Ramp | University Grad 2026: Software Engineer - Backend — top fintech new grad; Python/FastAPI match; NYC; verify 2026 grad requirement (~3.8)
+- [ ] https://jobs.ashbyhq.com/cohere/2c669d85-e3d7-43f1-aa43-be33e12ff8a5 | Cohere | Machine Learning Intern/Co-op (Spring/Summer 2026) — ML engineering at frontier AI lab; comp unspecified; verify ML depth requirement (~3.5)
+- [ ] https://jobs.ashbyhq.com/delinea/3eed48b7-b60c-4c50-adc2-4523337e1592 | Delinea | Software Engineering Intern - Summer 2026 — identity security with AI platform; cybersecurity minor match; verify comp/location (~3.6)
+- [ ] https://jobs.ashbyhq.com/farsight/096cdc49-06ae-4724-8f46-c58184e98334 | Farsight AI | Software Engineering Intern (Summer 2026) — agentic AI for fintech; Python/AWS/frontier models; Manhattan 4d/wk; $4K/mo = below comp minimum (~3.3)
+- [ ] https://job-boards.greenhouse.io/pdtpartners/jobs/7158038 | PDT Partners | 2026 Summer Internship - Systems Engineering — NYC quant firm; systems/DevOps/infra focus; different from SWE intern already in pipeline (~3.5)
+- [ ] https://job-boards.greenhouse.io/memx/jobs/4987814008 | MEMX | Information Security Intern, Summer 2026 (Hybrid) — exchange platform security; financial markets interest; verify comp/location (~3.4)
+- [ ] https://job-boards.greenhouse.io/rsgur/jobs/7670952003 | Rockstar Games | Intern: Application Security (Summer 2026) — NYC 10 weeks Jun-Aug; AppSec (HMAC/TLS/OAuth work matches); verify listing open — showed "no openings" in Playwright check (~3.6)
+- [ ] https://job-boards.greenhouse.io/clear/jobs/7546221 | CLEAR | Software Engineering Intern (Summer 2026) — identity verification fintech; NYC; 10 weeks; Python/cloud; Jan 2026 posting; verify still open (~3.3)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5023394008 | Anthropic | Anthropic Fellows Program (General) — meta-listing covering all tracks including AI Security; ⚠️ DEADLINE APRIL 26! apply to AI Security track (5030244008) primarily (~3.8)
+- [ ] https://jobs.ashbyhq.com/gigaml/aa903645-854f-4404-9d49-8a96f0dcc2cc | Giga | Software Engineer Intern (Summer 2026) — AI-powered products for top brands; ML-adjacent; small startup; comp/location unspecified (~3.4)
+- [ ] https://jobs.ashbyhq.com/permitflow/78b1fccf-2ed9-4485-bd40-4a5aea3907d4 | PermitFlow | Fullstack Software Engineer, New Grad — agentic AI for construction permitting; full-time new grad role; verify comp/timeline (~3.5)
+- [ ] https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7 | Palantir | Software Engineer, Internship - Defense Tech — defense sector internship; $10,500/mo; verify comfort with defense work (~3.8)
+<!-- === END 2026-04-10 SCAN v17 === -->
+
 <!-- === NEW 2026-04-10 SCAN v16 (Autonomous Agent) === -->
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5183044008 | Anthropic | Anthropic Fellows Program — AI Safety — ⚠️ DEADLINE APRIL 26! 4-month full-time fellowship; Jul 20 start; $3,850/wk + $15k/mo compute; Berkeley/London; adversarial robustness + mechanistic interpretability; adversarial LLM testing project directly relevant (~3.8)
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5183051008 | Anthropic | Anthropic Fellows Program — ML Systems & Performance — ⚠️ DEADLINE APRIL 26! Engineering-focused (CPU simulators, accelerator backends, synthetic data pipelines); Jul 20 start; $3,850/wk; Carlos's 35K-line ML pipeline + distributed systems match (~3.8)

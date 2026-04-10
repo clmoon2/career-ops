@@ -47,7 +47,7 @@
 | 285 | 2026-04-05 | CrowdStrike | SWE Intern Summer 2026 | 4.5/5 | Evaluada | ❌ | [234](reports/234-crowdstrike-swe-2026-04-05.md) | Excellent fit -- cybersecurity company, broad SWE |
 | 286 | 2026-04-05 | Optiver | SWE Internship 2026 | 4.0/5 | Evaluada | ❌ | [235](reports/235-optiver-swe-2026-04-05.md) | Strong fit -- quant trading firm, top comp, competitive |
 | 287 | 2026-04-05 | RTX Raytheon | SWE Intern Summer 2026 Remote | 0/5 | Evaluada | ❌ | [236](reports/236-rtx-swe-2026-04-05.md) | Listing closed (410 Gone) |
-| 288 | 2026-04-05 | Staples | Full Stack SWE Intern June 2026 | 3.0/5 | Evaluada | ❌ | [237](reports/237-staples-fullstack-2026-04-05.md) | Decent fit, generic full-stack role, Framingham MA |
+| 288 | 2026-04-10 | Palantir | Software Engineer, Internship | 4.1/5 | Evaluada | ❌ | [288](reports/288-palantir-swe-intern-2026-04-10.md) | Re-eval 2026-04-10 (3→4.1). $10,500/mo + $3,500 housing; NYC/DC/Seattle/PaloAlto; verify 2027 graduation requirement |
 | 289 | 2026-04-05 | Intuit | Full Stack Engineering Intern Summer 2026 | 0/5 | Evaluada | ❌ | [238](reports/238-intuit-fullstack-2026-04-05.md) | Listing closed (404) |
 | 290 | 2026-04-05 | Datadog | SWE Intern | 0/5 | Evaluada | ❌ | [239](reports/239-datadog-swe-2026-04-05.md) | Listing closed (404) |
 | 291 | 2026-04-05 | Datadog | SWE Intern SRE | 0/5 | Evaluada | ❌ | [240](reports/240-datadog-sre-2026-04-05.md) | Listing closed (404) |
@@ -75,7 +75,7 @@
 | 243 | 2026-04-05 | Schonfeld | Cybersecurity Ops Summer Intern 2026 | N/A | Evaluada | ❌ | [243](reports/243-schonfeld-cybersec-ops-2026-04-05.md) | Posting removed from Greenhouse board |
 | 244 | 2026-04-05 | Tevora | Cybersecurity Internship Summer 2026 | N/A | Evaluada | ❌ | [244](reports/244-tevora-cybersec-2026-04-05.md) | Posting removed from Lever (403) |
 | 245 | 2026-04-05 | MEMX | InfoSec Intern Summer 2026 | N/A | Evaluada | ❌ | [245](reports/245-memx-infosec-2026-04-05.md) | Posting removed from Greenhouse board |
-| 246 | 2026-04-10 | Together AI | Security Engineer Intern | 4.5/5 | Evaluada | ❌ | [287](reports/287-together-ai-security-intern-2026-04-10.md) | Re-eval 2026-04-10 (0→4.5). ⭐ Security × AI company crossover; HMAC/OAuth/TLS/adversarial LLM match; $58/hr; SF on-site May-Aug |
+| 246 | 2026-04-10 | Anthropic | Fellows Program — AI Security | 4.7/5 | Evaluada | ❌ | [287](reports/287-anthropic-fellows-ai-security-2026-04-10.md) | Re-eval 2026-04-10 (4.5→4.7). ⭐ DEADLINE APRIL 26! Adversarial LLM red teaming = perfect match; $3,850/wk + $15K/mo compute; Berkeley/remote; apply NOW |
 | 247 | 2026-04-05 | XTX Markets | InfoSec Intern Summer 2026 | N/A | Evaluada | ❌ | [247](reports/247-xtx-markets-infosec-2026-04-05.md) | Posting removed from Greenhouse board |
 | 248 | 2026-04-05 | Bandwidth | DevSecOps Intern Summer 2026 | N/A | Evaluada | ❌ | [248](reports/248-bandwidth-devsecops-2026-04-05.md) | Posting removed from Greenhouse board |
 | 249 | 2026-04-05 | Robinhood | Security Risk Management Intern Summer 2026 | N/A | Evaluada | ❌ | [249](reports/249-robinhood-secrisk-2026-04-05.md) | Posting removed from Greenhouse board |
