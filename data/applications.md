@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 348 | 2026-04-11 | NVIDIA | Solutions Architect – New College Graduate 2026 | 4.5/5 | Evaluada | ❌ | [348](reports/348-nvidia-solutions-architect-newgrad-2026-04-11.md) | 18-month SA rotation; $108-196K; Santa Clara CA; confirm 2026 graduation; top match scan-v34 |
 | 347 | 2026-04-11 | Cloudflare | Software Engineer Intern (Summer 2026) | 4.8/5 | Evaluada | ❌ | [293](reports/293-cloudflare-swe-intern-2026-04-11.md) | Re-eval 2026-04-11 (4→4.8). Austin TX in-office; prod Cloudflare Workers experience — top differentiator; apply + fast-track AI assignment |
 | 344 | 2026-04-11 | Dex (Joindex) | AI/ML Engineer Intern (Summer 2026) | 4.3/5 | Evaluada | ❌ | [344](reports/344-dex-ai-ml-engineer-intern-2026-04-11.md) | YC W25; browser agents + LLM engineering; exact match to Chrome ext + Playwright work; $6K-10K/mo SF |
 | 345 | 2026-04-11 | SafetyKit | Full Stack Engineer Intern (Summer 2026) | 4.2/5 | Evaluada | ❌ | [345](reports/345-safetykit-fullstack-intern-2026-04-11.md) | YC S23; highest comp in scan history $12.5K-16.5K/mo; AI content moderation; TypeScript+AWS; SF in-person |

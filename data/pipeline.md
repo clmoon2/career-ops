@@ -2,6 +2,18 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-11 SCAN v34 (Autonomous Agent — NVIDIA/xAI/HeyGen new grad sweep) === -->
+<!-- ⭐⭐ PRIORITY 1: NVIDIA Solutions Architect New Grad — top match, report written ⭐⭐ -->
+- [x] https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Solutions-Architect--Worldwide-Field-Operations---New-College-Graduate-2026_JR2004686 | NVIDIA | Solutions Architect – New College Graduate 2026 | 4.5/5 | ⭐⭐ EVALUATED — 18-month rotation; $108-196K; Santa Clara; confirm graduation 2026; report: 293
+- [ ] https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Developer-Technology-Engineer--AI---New-College-Grad-2026_JR2014130-1 | NVIDIA | Developer Technology Engineer, AI – New Grad 2026 | ~4.0/5 | DevRel/SA hybrid; AI-focused; Python + ML background strong match; Santa Clara
+- [ ] https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Software-Engineer--AI-Inference-Systems---New-College-Graduate-2026_JR2015076 | NVIDIA | Software Engineer, AI Inference Systems – New Grad 2026 | ~4.0/5 | Inference at scale; multi-model pipeline experience relevant; Santa Clara
+- [ ] https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Software-Engineer--AI-Infrastructure---New-College-Grad-2026_JR2007199 | NVIDIA | Software Engineer, AI Infrastructure – New Grad 2026 | ~3.8/5 | AI infra; Python/Docker/AWS background strong; may need CUDA depth
+- [ ] https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Software-Engineer--Distributed-Systems---New-College-Grad-2026_JR2013681 | NVIDIA | Software Engineer, Distributed Systems – New Grad 2026 | ~3.8/5 | Distributed systems coursework + Finch backend experience; check JD
+- [ ] https://job-boards.greenhouse.io/xai/jobs/5052356007 | xAI | Member of Technical Staff – Government – New Grad | ~3.8/5 | Grok AI for US government; Palo Alto/LA/DC; requires clearance eligibility; CS 2024-2026 grad; no prior gov exp needed
+- [ ] https://job-boards.greenhouse.io/heygen/jobs/4546885007 | HeyGen | Software Engineer, University Graduate | ~3.8/5 | $120-150K; SF/Palo Alto/LA/Toronto; AI video company; React/TypeScript/Python/Go; new grad with internship exp required
+- [ ] https://job-boards.greenhouse.io/spacex/jobs/8403219002 | SpaceX | Software Engineering Internship/Co-op – Fall 2026 | ~3.5/5 | $30-36/hr; same program as summer but Fall term; verify graduation timing
+- [ ] https://job-boards.greenhouse.io/spacex/jobs/8376990002 | SpaceX | New Graduate Engineer, Software (Starlink) | ~3.6/5 | Full-time new grad; Starlink software; Python/distributed systems; verify graduation eligibility
+
 <!-- === NEW 2026-04-11 SCAN v33 (Autonomous Agent — Cloudflare/BigTech/Security sweep) === -->
 <!-- ⭐⭐ PRIORITY 1: Cloudflare (Austin TX) — direct production Cloudflare Workers experience ⭐⭐ -->
 - [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7206269 | Cloudflare | Software Engineer Intern (Summer 2026) – Austin TX | 4.8/5 | ⭐⭐ APPLY TODAY + fast-track AI assignment — built prod Cloudflare Workers gateway w/ Hono; exact stack match; Austin in-office; report: 293

@@ -1,70 +1,72 @@
-# Portal Scan Summary — 2026-04-11 (scan-v33)
+# Portal Scan Summary — 2026-04-11 (scan-v34)
 
-**Autonomous scan agent run** | scan-v33
+**Autonomous scan agent run** | scan-v34
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## Coverage
 
-| Category | Companies / Queries |
-|----------|---------------------|
-| Greenhouse API | Anthropic, Airtable, Vercel, Glean, Hume AI, Arize AI, RunPod, Intercom, Temporal |
-| Ashby direct | LangChain, Cohere, ElevenLabs, Pinecone |
-| Lever direct | Palantir |
-| WebSearch | Google, Amazon, OpenAI, Microsoft, Meta, ByteDance + domain-specific queries |
-| Targeted searches | SWE Intern, Security Intern, AI/ML Intern, DevOps Intern, Consulting Intern |
+| Category | Companies / Queries Checked |
+|----------|---------------------------|
+| NVIDIA Workday (new grad roles) | Solutions Architect, AI Infrastructure, System SW Eng, AI/ML Infra, DevTech Eng, AI Inference, Distributed Systems |
+| Greenhouse direct | HeyGen, xAI, SpaceX (Fall/New Grad), Palo Alto Networks via RippleMatch |
+| WebSearch broad | CrowdStrike, Booz Allen Hamilton, Salesforce, Deloitte, IBM, MITRE, SentinelOne, McKinsey/BCG |
+| Ashby direct | Vapi, Deepgram, Bland AI, Zapier, n8n |
+| Lever direct | Palantir new grad variants |
+| GitHub aggregators | Replit, Ramp, Zip, Notion, Giga, Air Space Intelligence |
 
-**Companies scanned:** 25+
-**Total raw results evaluated:** ~70
-**Already in history (skip_dup):** ~52
+**Focus:** NVIDIA new grad roles (not previously scanned), security/consulting companies, remaining portals.yml companies
+**Companies scanned:** 30+
+**Total raw results evaluated:** ~65
+**Already in history (skip_dup):** ~44
 
 ## Results
 
 | Status | Count |
 |--------|-------|
-| New added to pipeline | 3 |
-| Skipped — too senior (3+ yr req) | 8 |
-| Skipped — listing closed (404) | 2 |
-| Skipped — title filter | 2 |
-| Already known (dup) | ~52 |
+| New added to pipeline | 9 |
+| Evaluated with full report | 1 |
+| Skipped — listing closed (404/410) | 3 |
+| Skipped — already in history | 44+ |
+| Skipped — title/seniority filter | 2 |
 
-## New Listings Added to pipeline.md
+## New Listings Added to pipeline.md (scan-v34)
 
-| Company | Title | URL | Est. Score | Notes |
-|---------|-------|-----|-----------|-------|
-| Google | Software Engineering Intern, Summer 2026 | [link](https://careers.google.com/jobs/results/140357549328081606-software-engineering-intern/) | ~3.8 | Austin/Sunnyvale/MTV; $92-122K ann.; **deadline Apr 23 ⚠️** |
-| Google | Software Engineering Intern, Google Public Sector | [link](https://careers.google.com/jobs/results/104981114489053894-software-engineering-intern/) | ~3.5 | NYC/Cambridge MA; govt focus; US citizen preferred |
-| Google | Software Engineering Intern (BS), Summer 2026 | [link](https://careers.google.com/jobs/results/75808725415142086-software-engineering-intern/) | ~3.8 | Same program, BS-specific listing; **deadline Apr 23 ⚠️** |
+| Company | Title | Est. Score | Notes |
+|---------|-------|-----------|-------|
+| NVIDIA | Solutions Architect, New College Graduate 2026 | **4.5/5** | EVALUATED — report #293; $108-196K; Santa Clara; 18-month rotation |
+| NVIDIA | Developer Technology Engineer, AI – New Grad 2026 | ~4.0/5 | DevRel/SA hybrid; AI-focused; Python + ML |
+| NVIDIA | Software Engineer, AI Inference Systems – New Grad | ~4.0/5 | Inference at scale; multi-model pipeline exp |
+| NVIDIA | Software Engineer, AI Infrastructure – New Grad | ~3.8/5 | AI infra; Python/Docker/AWS; may need CUDA |
+| NVIDIA | Software Engineer, Distributed Systems – New Grad | ~3.8/5 | Distributed systems + Finch backend |
+| xAI | Member of Technical Staff – Government – New Grad | ~3.8/5 | Grok AI for US gov; clearance eligibility needed |
+| HeyGen | Software Engineer, University Graduate | ~3.8/5 | $120-150K; SF/Palo Alto; React/Python/Go |
+| SpaceX | Software Engineering Internship/Co-op – Fall 2026 | ~3.5/5 | Fall term; $30-36/hr |
+| SpaceX | New Graduate Engineer, Software (Starlink) | ~3.6/5 | Full-time new grad; Starlink |
 
-## Top Matches (score >= 4.0)
+## Top Match — NVIDIA Solutions Architect, New College Graduate 2026 — 4.5/5
 
-**None found this scan.** All new listings scored estimated < 4.0:
-- Google SWE Intern: ~3.8 (strong portfolio fit, but Google is highly competitive and generic SWE role not AI/security-specific; no explicit AI focus in JD)
+**Full evaluation report: [#293](reports/293-nvidia-solutions-architect-newgrad-2026-04-11.md)**
 
-## Notable Skipped (Senior Roles — Bookmark for Post-Grad)
+- **Compensation:** $108,000–$196,000 base + equity. Exceeds Carlos's $80-120K target from the floor.
+- **Role:** 18-month rotation through hyperscale cloud, automotive, healthcare, robotics, and AI Factory as Solutions Architect.
+- **CV fit:** Multi-model AI pipeline architect (5 LLM providers, Finch), 35K+ line Python codebase, ML/AI coursework, C/C++ depth (carlosOS), team lead.
+- **Gate:** Must confirm 2026 graduation date.
+- **Action:** If graduating 2026, apply within 3-5 days.
 
-These LangChain roles were found but require 3+ years experience. **Revisit after graduation:**
+## Notable Observations
 
-| Company | Title | URL | Req Experience |
-|---------|-------|-----|---------------|
-| LangChain | Deployed Engineer (Austin) | [link](https://jobs.ashbyhq.com/langchain/937e131f-1055-4f1f-bd8a-f036e4ba0666) | 3+ years, $150-250K OTE |
-| LangChain | Deployed Engineer (Dallas) | [link](https://jobs.ashbyhq.com/langchain/8b533cc4-6654-44b4-b3fc-004def2a9927) | 3+ years, $150-250K OTE |
-| LangChain | Solutions Architect (Austin) | [link](https://jobs.ashbyhq.com/langchain/da7cbabd-ceed-4d7d-ae25-f226cac0c1c1) | 7+ years, $170-190K |
-| LangChain | Fullstack Software Engineer, Applied AI | [link](https://jobs.ashbyhq.com/langchain/c75915ba-a32b-4e17-873d-19b47564170d) | 3+ years, $165-190K |
-
-LangChain is a near-perfect archetype match (35K-line Python codebase, Finch uses LangChain/LangGraph). Austin and Dallas locations are ideal. **Re-check after graduation.**
-
-## Observations
-
-- **Pipeline saturation:** scan-v32 (earlier today) was extremely comprehensive. Scan history now has 1,404 entries. Most major opportunities have been captured in prior scans.
-- **Amazon closures:** Two Amazon intern listings (AI Devices intern + Cloud Support intern) returned 404 — these postings closed between scan-v32 and this run. Market is moving fast.
-- **LangChain expansion:** LangChain is aggressively hiring Deployed Engineers and Solutions Architects in Austin and Dallas — but all require 3+ years. Perfect post-grad target.
-- **Google deadline:** The Google SWE Intern deadline is **April 23, 2026 — only 12 days away.** If applying, act now.
-- **OpenAI:** Ashby URLs for OpenAI Summer 2026 intern (566ce27d) were already in pipeline from prior scan. Pipeline is current.
+- **NVIDIA new grad track discovered for first time.** Scan-v34 surfaced 7 NVIDIA new-grad roles (JR200x/JR201x series) never previously indexed. All appear recently posted.
+- **Security market thinning.** MITRE AI Security (R115784) closed between v33 and v34. Two PAN RippleMatch roles also 404. Summer 2026 security window is closing.
+- **MBB consulting deadlines past.** McKinsey/BCG/Bain summer 2026 applications closed summer/fall 2025. No action.
+- **xAI + NVIDIA hiring new grads in April.** Both are spot-hiring outside the normal recruiting cycle. Unusual — should be prioritized.
+- **Pipeline saturation:** Scan history now at 1,425+ entries. Internship market largely covered. New grad track is the frontier.
 
 ## Recommended Next Actions
 
-1. **URGENT (12 days):** Evaluate and apply to Google SWE Intern before April 23 deadline — run `/career-ops pipeline` on the Google URLs
-2. **Pipeline review:** 3 new Google entries ready for evaluation
-3. **LangChain (post-grad):** Save LangChain Deployed Engineer (Austin/Dallas) for when you graduate — near-perfect fit at $150-250K OTE
-4. **Next scan:** Focus on May 2026 new grad openings as companies start posting June start dates; check back in 3-5 days
+1. **URGENT: Confirm graduation date** — gate for all NVIDIA new grad roles. If 2026, apply to SA role (#293) within 3-5 days.
+2. **Apply NVIDIA SA + DevTech (JR2014130) as a pair** — complementary archetypes, both SA-track.
+3. **Evaluate xAI MTS Gov** — unique opportunity, no prior clearance required.
+4. **Evaluate HeyGen University Grad** — $120-150K, AI company, good fallback.
+5. **Google SWE Intern (from v33):** Deadline April 23 — 12 days remaining.
+6. **Next scan:** 5-7 days, targeting May/June 2026 new grad wave.
