@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 343 | 2026-04-11 | Crustdata | Software Engineering Intern (Forward Deployed) | 4.0/5 | Evaluated | ❌ | [343](reports/343-crustdata-fde-intern-2026-04-11.md) | FDE archetype match; YC F24, 300+ enterprise customers, profitable; $4-8K/mo; SF on-site; Python/TypeScript; AI APIs for agents; apply + negotiate comp |
 | 340 | 2026-04-11 | Glean | Software Engineer Intern (Summer 2026) | 4.5/5 | Evaluada | ❌ | [340](reports/340-glean-swe-intern-2026-04-11.md) | AI search; $57-69/hr; Palo Alto/SF hybrid; backend+security+ML tracks; strong match |
 | 341 | 2026-04-11 | Ramp | Software Engineer Internship - Forward Deployed | 4.5/5 | Evaluada | ❌ | [341](reports/341-ramp-fde-intern-2026-04-11.md) | FDE archetype; $11K/mo + housing; NYC/SF; enterprise fintech; top comp |
 | 342 | 2026-04-11 | Datadog | Software Engineering Intern, SRE (Summer 2026) | 4.0/5 | Evaluada | ❌ | [342](reports/342-datadog-sre-intern-2026-04-11.md) | SRE/DevOps; NYC; observability leader; new fresh URL (old #291 was closed 404); blue/green CI/CD match |
