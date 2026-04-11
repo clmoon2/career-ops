@@ -1,3 +1,71 @@
+# Portal Scan Summary — 2026-04-11 (v31)
+
+**Scan ID:** v31 | **Agent:** Autonomous Agent | **Date:** 2026-04-11
+
+> _This summary supersedes v30. See bottom of file for previous summaries._
+
+---
+
+## Stats
+
+| Metric | Count |
+|--------|-------|
+| Portals / queries executed | 25+ |
+| Companies checked | 30+ |
+| Listings found (total) | 60+ |
+| Filtered (title/seniority/closed) | ~55 |
+| Duplicates skipped | ~(already in history) |
+| **New listings added to pipeline** | **5** |
+| Full reports written (score ≥ 4.0) | 3 |
+
+---
+
+## New Listings Added to pipeline.md
+
+| # | Company | Role | Score | Notes |
+|---|---------|------|-------|-------|
+| 344 ⭐ | Dex (Joindex) | AI/ML Engineer Intern | **4.3/5** | YC W25; browser agents + LLM infra; EXACT match to Chrome ext + Playwright work; $6K-10K/mo SF |
+| 345 ⭐ | SafetyKit | Full Stack Engineer Intern | **4.2/5** | YC S23; **HIGHEST COMP IN SCAN HISTORY** $12.5K-16.5K/mo; AI content moderation; adversarial LLM testing = differentiator |
+| 346 ⭐ | Socratix AI | Software Engineering Intern | **4.1/5** | YC S25; AI fraud detection; Python+FastAPI+PostgreSQL+React exact stack; Cybersecurity minor fit |
+| — | Reacher | Software Engineer Intern | ~3.9/5 | YC S25; creator marketing + LLMs; Python+FastAPI+React; SF; $6K-10K/mo |
+| — | 14.ai | AI Internship | ~3.4/5 | YC W24; AI agents; SF (housing provided); $3K-10K/mo wide range — borderline |
+
+---
+
+## Top Matches — Action Required
+
+### 1. Dex (Joindex) — AI/ML Engineer Intern ⭐ APPLY IMMEDIATELY
+**Score: 4.3/5** → [Report #344](reports/344-dex-ai-ml-engineer-intern-2026-04-11.md)  
+YC W25 | SF in-person | $6K–$10K/mo  
+Browser agents + LLM engineering = exact overlap with Application Automation Engine and Finch Chrome extension.
+
+### 2. SafetyKit — Full Stack Engineer Intern ⭐ APPLY IMMEDIATELY
+**Score: 4.2/5** → [Report #345](reports/345-safetykit-fullstack-intern-2026-04-11.md)  
+YC S23 | SF in-person | $12,500–$16,500/mo (highest in scan history)  
+AI content moderation for Character.ai/Substack/Upwork. Adversarial LLM testing = direct differentiator.
+
+### 3. Socratix AI — Software Engineering Intern ⭐ APPLY THIS WEEK
+**Score: 4.1/5** → [Report #346](reports/346-socratix-ai-swe-intern-2026-04-11.md)  
+YC S25 | Mountain View | $6K–$10K/mo  
+Python + FastAPI + PostgreSQL + React exact stack match. AI fraud detection = security-adjacent.
+
+---
+
+## Recommended Next Actions
+
+1. Apply to **Dex (Joindex)** — strongest technical fit in batch
+2. Apply to **SafetyKit** — exceptional comp, adversarial LLM background differentiates
+3. Apply to **Socratix AI** — exact stack match, security domain fit
+4. Review **Reacher** in pipeline — good tech match, decide on creator economy domain
+5. Skip **14.ai AI Internship** — comp floor too low, Full Stack URL already in pipeline
+
+_Next scan recommended: 2026-04-14_
+
+---
+
+> _Previous v30 summary below_
+---
+
 # Portal Scan Summary — 2026-04-11 (v30)
 
 **Scan ID:** v30 | **Agent:** Autonomous Agent | **Date:** 2026-04-11

@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 344 | 2026-04-11 | Dex (Joindex) | AI/ML Engineer Intern (Summer 2026) | 4.3/5 | Evaluada | ❌ | [344](reports/344-dex-ai-ml-engineer-intern-2026-04-11.md) | YC W25; browser agents + LLM engineering; exact match to Chrome ext + Playwright work; $6K-10K/mo SF |
+| 345 | 2026-04-11 | SafetyKit | Full Stack Engineer Intern (Summer 2026) | 4.2/5 | Evaluada | ❌ | [345](reports/345-safetykit-fullstack-intern-2026-04-11.md) | YC S23; highest comp in scan history $12.5K-16.5K/mo; AI content moderation; TypeScript+AWS; SF in-person |
+| 346 | 2026-04-11 | Socratix AI | Software Engineering Intern | 4.1/5 | Evaluada | ❌ | [346](reports/346-socratix-ai-swe-intern-2026-04-11.md) | YC S25; AI fraud detection; Python+FastAPI+PostgreSQL+React exact stack match; security-adjacent; Mountain View |
 | 343 | 2026-04-11 | Crustdata | Software Engineering Intern (Forward Deployed) | 4.0/5 | Evaluated | ❌ | [343](reports/343-crustdata-fde-intern-2026-04-11.md) | FDE archetype match; YC F24, 300+ enterprise customers, profitable; $4-8K/mo; SF on-site; Python/TypeScript; AI APIs for agents; apply + negotiate comp |
 | 340 | 2026-04-11 | Glean | Software Engineer Intern (Summer 2026) | 4.5/5 | Evaluada | ❌ | [340](reports/340-glean-swe-intern-2026-04-11.md) | AI search; $57-69/hr; Palo Alto/SF hybrid; backend+security+ML tracks; strong match |
 | 341 | 2026-04-11 | Ramp | Software Engineer Internship - Forward Deployed | 4.5/5 | Evaluada | ❌ | [341](reports/341-ramp-fde-intern-2026-04-11.md) | FDE archetype; $11K/mo + housing; NYC/SF; enterprise fintech; top comp |

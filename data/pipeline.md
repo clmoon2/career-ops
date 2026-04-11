@@ -2,6 +2,14 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-11 SCAN v31 (Autonomous Agent) === -->
+- [x] #344 | https://www.ycombinator.com/companies/joindex/jobs/jgOpS9K-2026-summer-ai-ml-engineer-intern | Dex (Joindex) | 2026 Summer AI/ML Engineer Intern | 4.3/5 | ⭐ APPLY IMMEDIATELY — YC W25; browser agents + LLM infra; exact match to Chrome ext + Playwright automation work; Python+TypeScript; $6K-10K/mo SF
+- [x] #345 | https://www.ycombinator.com/companies/safetykit/jobs/eQpUzRD-full-stack-engineer-intern-summer-2026 | SafetyKit | Full Stack Engineer Intern (Summer 2026) | 4.2/5 | ⭐ APPLY IMMEDIATELY — YC S23; HIGHEST COMP in scan history $12.5K-16.5K/mo; AI content moderation (Character.ai/Substack/Upwork); TypeScript+SQL+AWS; adversarial LLM testing background = direct differentiator; SF in-person
+- [x] #346 | https://www.ycombinator.com/companies/socratix-ai/jobs/2mXtwgz-software-engineering-intern | Socratix AI | Software Engineering Intern | 4.1/5 | ⭐ APPLY THIS WEEK — YC S25; AI fraud detection; Python+FastAPI+PostgreSQL+React exact stack match; Cybersecurity minor = security-adjacent domain fit; Mountain View; $6K-10K/mo
+- [ ] https://www.ycombinator.com/companies/reacher/jobs/HxPjZJm-software-engineer-intern-fall-2025-summer-2026 | Reacher | Software Engineer Intern (Summer 2026) — YC S25; creator marketing automation; Python+FastAPI+GCP+React+LLMs; SF on-site; $6K-10K/mo; strong tech stack match though domain is creator economy not primary target (~3.9)
+- [ ] https://www.ycombinator.com/companies/14-ai/jobs/nyx4rnH-ai-internship-now-and-summer-2026 | 14.ai | AI Internship (Summer 2026) — YC W24; AI customer service agents; SF (housing provided); $3K-10K/mo wide range — floor is low; AI agent building work is interesting but less technical; note: Full Stack URL already in pipeline; this is the AI-specific track (~3.4, borderline)
+<!-- === END 2026-04-11 SCAN v31 === -->
+
 <!-- === NEW 2026-04-11 SCAN v30 (Autonomous Agent) === -->
 - [ ] https://www.ycombinator.com/companies/crustdata/jobs/xNllWNH-software-engineering-intern-forward-deployed-summer-2026 | Crustdata | Software Engineering Intern (Forward Deployed) Summer 2026 — ⭐ EVALUATED 4.0/5 (report #343); $4K-8K/mo; SF on-site; FDE archetype = exact match (Carlos deployed ApplyEasy against 50+ ATS platforms + Cloudflare edge gateway); YC F24, 300+ enterprise customers, profitable, growing fast; Python/TypeScript; APIs for AI agents; ⚠️ wide comp range — negotiate toward $7-8K/mo
 - [ ] https://www.ycombinator.com/companies/browser-use/jobs/JwGWpEP-summer-software-engineering-intern-now-and-summer-2026 | Browser Use | Summer Software Engineering Intern (now/Summer 2026) — SF on-site (HackerHouse); $6K-$16K/mo range; 50K+ GitHub stars open-source browser AI project; Python focus; Carlos built Application Automation Engine w/ Playwright + stealth suite + CAPTCHA + computer vision = direct work overlap; very early stage; immediate or summer start (~3.8)
