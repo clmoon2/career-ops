@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 340 | 2026-04-11 | Glean | Software Engineer Intern (Summer 2026) | 4.5/5 | Evaluada | ❌ | [340](reports/340-glean-swe-intern-2026-04-11.md) | AI search; $57-69/hr; Palo Alto/SF hybrid; backend+security+ML tracks; strong match |
+| 341 | 2026-04-11 | Ramp | Software Engineer Internship - Forward Deployed | 4.5/5 | Evaluada | ❌ | [341](reports/341-ramp-fde-intern-2026-04-11.md) | FDE archetype; $11K/mo + housing; NYC/SF; enterprise fintech; top comp |
+| 342 | 2026-04-11 | Datadog | Software Engineering Intern, SRE (Summer 2026) | 4.0/5 | Evaluada | ❌ | [342](reports/342-datadog-sre-intern-2026-04-11.md) | SRE/DevOps; NYC; observability leader; new fresh URL (old #291 was closed 404); blue/green CI/CD match |
 | 333 | 2026-04-08 | Cloudflare | Security Engineer Intern (Summer 2026) | 4.4/5 | Evaluada | ❌ | [273](reports/273-cloudflare-security-intern-2026-04-08.md) | ⭐ Austin TX in-office; OAuth/TLS/CSRF stack + security engineering at Cloudflare; adversarial LLM testing relevant; apply soon |
 | 334 | 2026-04-10 | Together AI | Security Engineer Intern (Summer 2026) | 4.5/5 | Evaluada | ❌ | [291](reports/291-together-ai-security-intern-2026-04-10.md) | ⭐ $58/hr; SF on-site; AI security at frontier inference company; adversarial LLM testing + OAuth/TLS/CSRF = exact match; May18-Aug7 or Jun15-Sep4 |
 | 336 | 2026-04-10 | Brex | Software Engineer Intern (Summer 2026) | 3.8/5 | Evaluada | ❌ | - | SF hybrid 3d/wk; Jun-Sep 2026; $55/hr; Python backend + AI-first tooling; FastAPI/backend fit but Java/Kotlin preferred stack is partial gap; strong fintech brand |
