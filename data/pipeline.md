@@ -961,3 +961,9 @@
 - [ ] https://job-boards.greenhouse.io/impiricus/jobs/5160169008 | Impiricus | Backend Software Engineer Intern — Remote/Atlanta/NYC; $25/hr; 8 weeks (Jun 15 or Jul 6 start); Python/Golang/PostgreSQL/AWS/LLM integrations
 - [ ] https://job-boards.greenhouse.io/zetasummerinternship/jobs/5745797004 | Zeta Global | Value Consulting Analyst Intern — NYC hybrid; $23/hr; Jun 2 - Aug 14 2026; AI/MarTech consulting, ROI frameworks, value engineering
 <!-- === END 2026-04-10 SCAN v25 === -->
+
+## scan-v33 — 2026-04-11
+
+- [ ] https://careers.google.com/jobs/results/140357549328081606-software-engineering-intern/ | Google | Software Engineering Intern, Summer 2026 — Austin TX / Sunnyvale CA / MTV; $44-59/hr (~$92-122K annualized for BS); 12-14 weeks; Python/Java/C++/JS; deadline Apr 23 ⚠️ URGENT
+- [ ] https://careers.google.com/jobs/results/104981114489053894-software-engineering-intern/ | Google | Software Engineering Intern, Google Public Sector — NYC/Sunnyvale/Cambridge MA; government/federal focus; US citizen preferred; $44-59/hr
+- [ ] https://careers.google.com/jobs/results/75808725415142086-software-engineering-intern/ | Google | Software Engineering Intern (BS), Summer 2026 — BS-targeted listing; same program; deadline Apr 23 ⚠️ URGENT

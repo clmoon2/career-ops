@@ -1387,3 +1387,18 @@ https://job-boards.greenhouse.io/runpod/	2026-04-11	scan-v32-greenhouse	(no inte
 https://job-boards.greenhouse.io/intercom/	2026-04-11	scan-v32-greenhouse	(all senior EMEA roles, no intern)	Intercom	skipped_no_intern
 https://jobs.lever.co/wandb/	2026-04-11	scan-v32-lever	(no intern/new grad roles found)	Weights & Biases	skipped_no_intern
 https://www.shopify.com/careers/usa-engineering-internships-summer-2026-usa_b2dbdf1e-ab44-46ed-9a11-69a1a1e4b20c	2026-04-11	scan-v32-websearch	USA Engineering Internships Summer 2026	Shopify	skipped_closed
+https://careers.google.com/jobs/results/140357549328081606-software-engineering-intern/	2026-04-11	scan-v33-websearch	Software Engineering Intern, Summer 2026	Google	added
+https://careers.google.com/jobs/results/104981114489053894-software-engineering-intern/	2026-04-11	scan-v33-websearch	Software Engineering Intern, Google Public Sector	Google	added
+https://careers.google.com/jobs/results/75808725415142086-software-engineering-intern/	2026-04-11	scan-v33-websearch	Software Engineering Intern (BS), Summer 2026	Google	added
+https://jobs.ashbyhq.com/langchain/937e131f-1055-4f1f-bd8a-f036e4ba0666	2026-04-11	scan-v33-ashby	Deployed Engineer (Austin)	LangChain	skipped_senior
+https://jobs.ashbyhq.com/langchain/8b533cc4-6654-44b4-b3fc-004def2a9927	2026-04-11	scan-v33-ashby	Deployed Engineer (Dallas)	LangChain	skipped_senior
+https://jobs.ashbyhq.com/langchain/da7cbabd-ceed-4d7d-ae25-f226cac0c1c1	2026-04-11	scan-v33-ashby	Solutions Architect (Austin)	LangChain	skipped_senior
+https://jobs.ashbyhq.com/langchain/933a41a3-43ca-44de-a0ae-f541149151b7	2026-04-11	scan-v33-ashby	Solutions Architect (Dallas)	LangChain	skipped_senior
+https://jobs.ashbyhq.com/langchain/9037a071-eef2-4083-83f3-d6a5b531aa1d	2026-04-11	scan-v33-ashby	Education Engineer, Fullstack	LangChain	skipped_senior
+https://jobs.ashbyhq.com/langchain/defd4191-7a83-464c-a297-91ebd52981e1	2026-04-11	scan-v33-ashby	Education Engineer, Machine Learning	LangChain	skipped_senior
+https://jobs.ashbyhq.com/langchain/c75915ba-a32b-4e17-873d-19b47564170d	2026-04-11	scan-v33-ashby	Fullstack Software Engineer, Applied AI	LangChain	skipped_senior
+https://jobs.ashbyhq.com/langchain/74e5f9f4-e44a-4594-ba26-abdf71bf287d	2026-04-11	scan-v33-ashby	Python OSS Engineer	LangChain	skipped_senior
+https://www.amazon.jobs/en/jobs/3128945/software-dev-engineer-intern-ai-summer-2026-amazon-devices-services	2026-04-11	scan-v33-websearch	Software Dev Engineer Intern - AI (Summer 2026)	Amazon	skipped_closed
+https://amazon.jobs/en/jobs/3137751/cloud-support-engineer-internship-2026-us	2026-04-11	scan-v33-websearch	Cloud Support Engineer Internship - 2026 (US)	Amazon	skipped_closed
+https://jobs.ashbyhq.com/elevenlabs/a3097257-a07a-4a7e-b9fe-b8555c1a0fa7	2026-04-11	scan-v33-ashby	Automations Engineer	ElevenLabs	skipped_title
+https://jobs.ashbyhq.com/elevenlabs/f80d0420-b6e6-4110-940c-293f64b9761e	2026-04-11	scan-v33-ashby	Compliance Engineer - US	ElevenLabs	skipped_title
