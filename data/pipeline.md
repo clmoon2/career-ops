@@ -2,6 +2,23 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-11 SCAN v35 (Autonomous Agent — Security/AI/Fintech sweep) === -->
+<!-- ⭐⭐ PRIORITY 1: Glean SWE Intern — $57-69/hr, AI search + security tracks, report written ⭐⭐ -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4595665005 | Glean | Software Engineer, Intern (Summer 2026) | 4.1/5 | ⭐⭐ EVALUATED — $57-69/hr; Palo Alto/SF hybrid; AI+backend+security tracks; confirm grad Fall 2026+; report: 296
+<!-- ⭐ PRIORITY 2: Obsidian Security + Apple InfoSec ⭐ -->
+- [ ] https://job-boards.greenhouse.io/obsidiansecurity/jobs/4788725008 | Obsidian Security | Software Engineer Intern (Summer 2026) | 4.0/5 | ⭐ EVALUATED — SaaS security full-stack; OAuth/HMAC/TLS security engineering = direct match; report: 297
+- [ ] https://jobs.apple.com/en-us/details/200624078-2114/information-security-internship | Apple | Information Security Internship | 4.0/5 | ⭐ EVALUATED — Detection Eng or SWE track; cybersecurity minor + prod security + carlosOS depth; report: 298
+<!-- Secondary (3.5-3.9): Apply if top priorities move forward -->
+- [ ] https://job-boards.greenhouse.io/figma/jobs/5602159004 | Figma | Software Engineer Intern (2026) | 3.8/5 | SF/NYC; React/TS/Python stack match; strong brand; no direct Figma-stack exp but fundamentals align
+- [ ] https://job-boards.greenhouse.io/figma/jobs/5616603004 | Figma | Early Career, Software Engineer (2026) | 3.7/5 | SF/NYC; new grad track; same tech alignment as intern role
+- [ ] https://jobs.apple.com/en-us/details/200622722-1418/cybersecurity-analyst-internship-enterprise-systems | Apple | Cybersecurity Analyst Internship | 3.5/5 | More analyst vs. engineering; cybersecurity minor aligns; apply if InfoSec track fills
+- [ ] https://jobs.ashbyhq.com/whatnot/8250532f-4bfd-4ee5-a041-4a2e54047cf7 | Whatnot | Software Engineer Intern (Summer 2026) | 3.7/5 | Livestream e-commerce; React/backend; competitive comp; less AI/security focused
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7528020003 | Affirm | Software Engineering Intern – Summer 2026 | 3.6/5 | $55/hr remote; backend fintech; Kotlin-heavy stack vs Python but strong production backend match
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7485072003 | Affirm | Software Engineer, Early Career | 3.5/5 | New grad track; remote; same stack considerations as intern; NYC/SF hybrid preferred
+- [ ] https://careers.google.com/jobs/results/78833989648818886-software-engineering-intern/ | Google | Software Engineering Intern 2026 | 3.6/5 | Penultimate year required (grad Dec 2026-2027); highly competitive; verify eligibility
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7578913 | Cloudflare | Threat Detection and Incident Response Intern (Summer 2026) | 3.5/5 | ⚠️ Lisbon office — US candidates not applicable; skip unless Cloudflare confirms US section
+<!-- === END 2026-04-11 SCAN v35 === -->
+
 <!-- === NEW 2026-04-11 SCAN v34 (Autonomous Agent — NVIDIA/xAI/HeyGen new grad sweep) === -->
 <!-- ⭐⭐ PRIORITY 1: NVIDIA Solutions Architect New Grad — top match, report written ⭐⭐ -->
 - [x] https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Solutions-Architect--Worldwide-Field-Operations---New-College-Graduate-2026_JR2004686 | NVIDIA | Solutions Architect – New College Graduate 2026 | 4.5/5 | ⭐⭐ EVALUATED — 18-month rotation; $108-196K; Santa Clara; confirm graduation 2026; report: 293

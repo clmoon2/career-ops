@@ -1,72 +1,92 @@
-# Portal Scan Summary — 2026-04-11 (scan-v34)
+# Scan Summary — v35
 
-**Autonomous scan agent run** | scan-v34
+**Date:** 2026-04-11
+**Scan ID:** scan-v35
+**Agent:** Autonomous (Claude Code)
+**Focus:** Security, AI, Fintech, Big Tech — Summer 2026 internships and 2026 new grad roles
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
-## Coverage
+## Portals Scanned
 
-| Category | Companies / Queries Checked |
-|----------|---------------------------|
-| NVIDIA Workday (new grad roles) | Solutions Architect, AI Infrastructure, System SW Eng, AI/ML Infra, DevTech Eng, AI Inference, Distributed Systems |
-| Greenhouse direct | HeyGen, xAI, SpaceX (Fall/New Grad), Palo Alto Networks via RippleMatch |
-| WebSearch broad | CrowdStrike, Booz Allen Hamilton, Salesforce, Deloitte, IBM, MITRE, SentinelOne, McKinsey/BCG |
-| Ashby direct | Vapi, Deepgram, Bland AI, Zapier, n8n |
-| Lever direct | Palantir new grad variants |
-| GitHub aggregators | Replit, Ramp, Zip, Notion, Giga, Air Space Intelligence |
+| Portal | Companies Covered |
+|--------|-------------------|
+| Greenhouse (direct) | Glean, Obsidian Security, Figma, Affirm, Cloudflare (new listings), xAI |
+| Ashby (direct) | Whatnot, Notion (Fall) |
+| WebSearch | Apple, Google, Accenture, Goldman Sachs, JPMorgan, Anduril, Two Sigma, Databricks, Palantir, Stripe, OpenAI, Microsoft |
 
-**Focus:** NVIDIA new grad roles (not previously scanned), security/consulting companies, remaining portals.yml companies
-**Companies scanned:** 30+
-**Total raw results evaluated:** ~65
-**Already in history (skip_dup):** ~44
+**Total companies checked:** 24+
+**Known listings (skipped as dups):** Anthropic, Palantir FDSEs, Stripe, OpenAI, Databricks, Anduril, Microsoft, Booz Allen, CrowdStrike, ByteDance, Amazon, Cloudflare SWE/Security Austin
 
-## Results
+---
 
-| Status | Count |
-|--------|-------|
-| New added to pipeline | 9 |
-| Evaluated with full report | 1 |
-| Skipped — listing closed (404/410) | 3 |
-| Skipped — already in history | 44+ |
-| Skipped — title/seniority filter | 2 |
+## New Listings Found: 13 added, 9 skipped
 
-## New Listings Added to pipeline.md (scan-v34)
+### Added to Pipeline
 
-| Company | Title | Est. Score | Notes |
-|---------|-------|-----------|-------|
-| NVIDIA | Solutions Architect, New College Graduate 2026 | **4.5/5** | EVALUATED — report #293; $108-196K; Santa Clara; 18-month rotation |
-| NVIDIA | Developer Technology Engineer, AI – New Grad 2026 | ~4.0/5 | DevRel/SA hybrid; AI-focused; Python + ML |
-| NVIDIA | Software Engineer, AI Inference Systems – New Grad | ~4.0/5 | Inference at scale; multi-model pipeline exp |
-| NVIDIA | Software Engineer, AI Infrastructure – New Grad | ~3.8/5 | AI infra; Python/Docker/AWS; may need CUDA |
-| NVIDIA | Software Engineer, Distributed Systems – New Grad | ~3.8/5 | Distributed systems + Finch backend |
-| xAI | Member of Technical Staff – Government – New Grad | ~3.8/5 | Grok AI for US gov; clearance eligibility needed |
-| HeyGen | Software Engineer, University Graduate | ~3.8/5 | $120-150K; SF/Palo Alto; React/Python/Go |
-| SpaceX | Software Engineering Internship/Co-op – Fall 2026 | ~3.5/5 | Fall term; $30-36/hr |
-| SpaceX | New Graduate Engineer, Software (Starlink) | ~3.6/5 | Full-time new grad; Starlink |
+| # | Company | Role | Score | Notes |
+|---|---------|------|-------|-------|
+| 349 | Glean | Software Engineer, Intern (Summer 2026) | **4.1/5** | $57-69/hr; AI search + backend + security tracks |
+| 350 | Obsidian Security | Software Engineer Intern (Summer 2026) | **4.0/5** | SaaS security full-stack; security engineering match |
+| 351 | Apple | Information Security Internship | **4.0/5** | Detection Eng or SWE track; cybersecurity + systems depth |
+| — | Figma | Software Engineer Intern (2026) | 3.8/5 | SF/NYC; React/TS/Python match |
+| — | Figma | Early Career, Software Engineer (2026) | 3.7/5 | SF/NYC; new grad track |
+| — | Apple | Cybersecurity Analyst Internship | 3.5/5 | Analyst-track; less engineering than InfoSec role |
+| — | Whatnot | Software Engineer Intern (Summer 2026) | 3.7/5 | Livestream e-commerce; full-stack backend |
+| — | Affirm | Software Engineering Intern (Summer 2026) | 3.6/5 | $55/hr; fintech backend; Kotlin-heavy stack |
+| — | Affirm | Software Engineer, Early Career | 3.5/5 | New grad; NYC/SF hybrid |
+| — | Google | Software Engineering Intern 2026 | 3.6/5 | Verify penultimate year eligibility |
+| — | JPMorgan | Software Engineer Internship | 3.4/5 | Big bank; Java/Python; brand signal; less AI-focused |
+| — | Notion | Software Engineer Intern (Fall 2026) | 3.2/5 | Fall term timing conflicts with school |
+| — | Cloudflare TDIR Intern | Threat Detection IR Intern | 3.5/5 | Lisbon location — not US |
 
-## Top Match — NVIDIA Solutions Architect, New College Graduate 2026 — 4.5/5
+### Skipped (closed, duplicate, or filtered)
 
-**Full evaluation report: [#293](reports/293-nvidia-solutions-architect-newgrad-2026-04-11.md)**
+- Accenture Technology Summer Analyst: application deadline passed (March 30, 2026)
+- Goldman Sachs 2026 Summer Analyst: likely closed
+- Two Sigma SWE Internship NYC: deadline passed (March 31, 2026)
+- Anduril SWE New Grad: already in history
+- Databricks SWE Intern 2026: already in history
+- Cloudflare (7582169): London — not US
+- Cloudflare (7578913): Lisbon — not US
+- xAI Engineering Intern (5054417007): Civil/Mechanical/Electrical focus, not SWE
+- Google BS/MS Intern: Zurich/Taiwan locations
 
-- **Compensation:** $108,000–$196,000 base + equity. Exceeds Carlos's $80-120K target from the floor.
-- **Role:** 18-month rotation through hyperscale cloud, automotive, healthcare, robotics, and AI Factory as Solutions Architect.
-- **CV fit:** Multi-model AI pipeline architect (5 LLM providers, Finch), 35K+ line Python codebase, ML/AI coursework, C/C++ depth (carlosOS), team lead.
-- **Gate:** Must confirm 2026 graduation date.
-- **Action:** If graduating 2026, apply within 3-5 days.
+---
 
-## Notable Observations
+## Top Matches (Score >= 4.0) — Full Reports Written
 
-- **NVIDIA new grad track discovered for first time.** Scan-v34 surfaced 7 NVIDIA new-grad roles (JR200x/JR201x series) never previously indexed. All appear recently posted.
-- **Security market thinning.** MITRE AI Security (R115784) closed between v33 and v34. Two PAN RippleMatch roles also 404. Summer 2026 security window is closing.
-- **MBB consulting deadlines past.** McKinsey/BCG/Bain summer 2026 applications closed summer/fall 2025. No action.
-- **xAI + NVIDIA hiring new grads in April.** Both are spot-hiring outside the normal recruiting cycle. Unusual — should be prioritized.
-- **Pipeline saturation:** Scan history now at 1,425+ entries. Internship market largely covered. New grad track is the frontier.
+### Glean — Software Engineer, Intern (Summer 2026) — 4.1/5
+- **URL:** https://job-boards.greenhouse.io/gleanwork/jobs/4595665005
+- **Report:** [296](reports/296-glean-swe-intern-2026-04-11.md)
+- **Why:** $57-69/hr (top intern comp), multi-track (backend/AI/search/security), Carlos's 5-provider AI pipeline + production backend + security engineering maps to 3 of 5 tracks
+- **Action:** Confirm graduation timeline is Fall 2026+ (JD requires returning to school after internship)
 
-## Recommended Next Actions
+### Obsidian Security — Software Engineer Intern (Summer 2026) — 4.0/5
+- **URL:** https://job-boards.greenhouse.io/obsidiansecurity/jobs/4788725008
+- **Report:** [297](reports/297-obsidian-security-swe-intern-2026-04-11.md)
+- **Why:** SaaS security company, full-stack engineer role. OAuth proxy, HMAC-SHA256 CSRF, TLS hardening, adversarial LLM testing = direct differentiator. Most applicants have coursework; Carlos has production security systems.
+- **Action:** Apply. Verify location (likely Palo Alto hybrid).
 
-1. **URGENT: Confirm graduation date** — gate for all NVIDIA new grad roles. If 2026, apply to SA role (#293) within 3-5 days.
-2. **Apply NVIDIA SA + DevTech (JR2014130) as a pair** — complementary archetypes, both SA-track.
-3. **Evaluate xAI MTS Gov** — unique opportunity, no prior clearance required.
-4. **Evaluate HeyGen University Grad** — $120-150K, AI company, good fallback.
-5. **Google SWE Intern (from v33):** Deadline April 23 — 12 days remaining.
-6. **Next scan:** 5-7 days, targeting May/June 2026 new grad wave.
+### Apple — Information Security Internship — 4.0/5
+- **URL:** https://jobs.apple.com/en-us/details/200624078-2114/information-security-internship
+- **Report:** [298](reports/298-apple-infosec-intern-2026-04-11.md)
+- **Why:** Apple brand, 4 tracks (SWE, Detection Eng, IR, Pentesting). Detection Engineering + SWE align with security engineering background. carlosOS kernel work adds systems depth unusual in interns.
+- **Action:** Apply to Detection Engineering or SWE track. Target Austin TX if location is selectable.
+
+---
+
+## Recommended Next Actions (Priority Order)
+
+1. **Confirm graduation date** — determines Glean eligibility (requires Fall 2026 or Spring 2027 grad)
+2. **Apply — Obsidian Security** (open, strong match, less competition than FAANG)
+3. **Apply — Apple Information Security** (top brand, detection engineering track is the best fit)
+4. **Apply — Glean** (if graduation confirmed Fall 2026+, this is the highest-comp match)
+5. **Apply — Figma SWE Intern** (strong full-stack match, good brand)
+6. **Clear pipeline backlog** — 30+ evaluated roles from v33/v34 still pending (priority: Cloudflare Austin SWE 7206269 and Security 7582150 are marked APPLY TODAY)
+
+---
+
+## Market Note
+
+April is late in the Summer 2026 intern hiring season. Most programs that opened in Aug-Dec 2025 have already filled or are closing. Remaining open roles are rolling-admission (Cloudflare, Glean, Obsidian), later-posting, or at smaller companies. Focus should shift toward submitting applications from the existing pipeline rather than scanning for more roles. The Cloudflare Austin SWE and Security roles from v33 should be submitted immediately if not done yet.

@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 351 | 2026-04-11 | Apple | Information Security Internship | 4.0/5 | Evaluada | ❌ | [298](reports/298-apple-infosec-intern-2026-04-11.md) | Detection Eng or SWE track; cybersecurity minor + prod security impl + carlosOS systems depth = strong |
 | 348 | 2026-04-11 | NVIDIA | Solutions Architect – New College Graduate 2026 | 4.5/5 | Evaluada | ❌ | [348](reports/348-nvidia-solutions-architect-newgrad-2026-04-11.md) | 18-month SA rotation; $108-196K; Santa Clara CA; confirm 2026 graduation; top match scan-v34 |
 | 347 | 2026-04-11 | Cloudflare | Software Engineer Intern (Summer 2026) | 4.8/5 | Evaluada | ❌ | [293](reports/293-cloudflare-swe-intern-2026-04-11.md) | Re-eval 2026-04-11 (4→4.8). Austin TX in-office; prod Cloudflare Workers experience — top differentiator; apply + fast-track AI assignment |
 | 344 | 2026-04-11 | Dex (Joindex) | AI/ML Engineer Intern (Summer 2026) | 4.3/5 | Evaluada | ❌ | [344](reports/344-dex-ai-ml-engineer-intern-2026-04-11.md) | YC W25; browser agents + LLM engineering; exact match to Chrome ext + Playwright work; $6K-10K/mo SF |
@@ -59,7 +60,7 @@
 | 278 | 2026-04-05 | Hermeus | Flight SWE Intern Summer/Fall 2026 | 3.0/5 | Evaluada | ❌ | [227](reports/227-hermeus-flight-2026-04-05.md) | Aerospace/defense, embedded focus, US person req, $25-33/hr |
 | 279 | 2026-04-05 | Hermeus | SWE Intern Datalinks/C2 Summer/Fall 2026 | 3.0/5 | Evaluada | ❌ | [228](reports/228-hermeus-datalinks-2026-04-05.md) | Aerospace/defense, networking/RF focus, US person req, $25-33/hr |
 | 280 | 2026-04-05 | Best Egg | Backend SWE Intern Summer 2026 | 4.5/5 | Evaluada | ❌ | [229](reports/229-bestegg-backend-2026-04-05.md) | Excellent fit -- Python/FastAPI backend, $24/hr remote |
-| 281 | 2026-04-05 | Obsidian Security | SWE Intern Summer 2026 | 0/5 | Evaluada | ❌ | [230](reports/230-obsidian-swe-2026-04-05.md) | Listing closed -- no intern positions on careers page |
+| 281 | 2026-04-11 | Obsidian Security | Software Engineer Intern (Summer 2026) | 4.0/5 | Evaluada | ❌ | [297](reports/297-obsidian-security-swe-intern-2026-04-11.md) | Re-eval 2026-04-11 (0→4). SaaS security full-stack; Carlos's OAuth/HMAC/TLS security engineering = direct differentiator |
 | 282 | 2026-04-05 | HP IQ | SWE Intern Product Security Summer 2026 | 0/5 | Evaluada | ❌ | [231](reports/231-hpiq-security-2026-04-05.md) | Listing closed -- job ID not found, no intern positions |
 | 283 | 2026-04-05 | Amazon | SDE Internship Summer 2026 | 4.5/5 | Evaluada | ❌ | [232](reports/232-amazon-sde-2026-04-05.md) | Excellent fit -- top tier, $110-160K annualized, broad SWE |
 | 284 | 2026-04-05 | Amazon | Robotics SDE Intern/Co-op 2026 | 3.5/5 | Evaluada | ❌ | [233](reports/233-amazon-robotics-2026-04-05.md) | Good fit with stretch into robotics, $105-185K annualized |
