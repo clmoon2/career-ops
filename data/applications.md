@@ -2,7 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
-| 347 | 2026-04-11 | Transcarent | Software Engineering Intern – Identity | 4.0/5 | Evaluada | ❌ | [293](reports/293-transcarent-identity-intern-2026-04-11.md) | IAM/SSO backend intern, Seattle hybrid, strong OAuth/security match |
+| 347 | 2026-04-11 | Cloudflare | Software Engineer Intern (Summer 2026) | 4.8/5 | Evaluada | ❌ | [293](reports/293-cloudflare-swe-intern-2026-04-11.md) | Re-eval 2026-04-11 (4→4.8). Austin TX in-office; prod Cloudflare Workers experience — top differentiator; apply + fast-track AI assignment |
 | 344 | 2026-04-11 | Dex (Joindex) | AI/ML Engineer Intern (Summer 2026) | 4.3/5 | Evaluada | ❌ | [344](reports/344-dex-ai-ml-engineer-intern-2026-04-11.md) | YC W25; browser agents + LLM engineering; exact match to Chrome ext + Playwright work; $6K-10K/mo SF |
 | 345 | 2026-04-11 | SafetyKit | Full Stack Engineer Intern (Summer 2026) | 4.2/5 | Evaluada | ❌ | [345](reports/345-safetykit-fullstack-intern-2026-04-11.md) | YC S23; highest comp in scan history $12.5K-16.5K/mo; AI content moderation; TypeScript+AWS; SF in-person |
 | 346 | 2026-04-11 | Socratix AI | Software Engineering Intern | 4.1/5 | Evaluada | ❌ | [346](reports/346-socratix-ai-swe-intern-2026-04-11.md) | YC S25; AI fraud detection; Python+FastAPI+PostgreSQL+React exact stack match; security-adjacent; Mountain View |
@@ -45,8 +45,8 @@
 | 302 | 2026-04-09 | Scale AI | Software Engineer, New Grad | 4.2/5 | Evaluada | ❌ | [279](reports/279-scaleai-swe-newgrad-2026-04-09.md) | Full-stack Python/React/RAG at top AI data company; $124-155K; verify graduation window (req Fall 2025–Spring 2026) |
 | 303 | 2026-04-09 | Point72 | Summer Intern, AI Engineer | 4.2/5 | Evaluada | ❌ | [280](reports/280-point72-ai-engineer-intern-2026-04-09.md) | GenAI + quant finance = rare combo; Bloomberg/Alpaca background differentiates; NYC in-person |
 | 298 | 2026-04-08 | Haize Labs | Software Engineer Intern | 4.7/5 | Evaluada | ❌ | [272](reports/272-haizelabs-swe-intern-2026-04-08.md) | ⭐ APPLY NOW — adversarial LLM testing + co-founder profile = perfect match, $100-125K annualized NYC |
-| 294 | 2026-04-07 | Stripe | Software Engineer Intern (Summer 2026) | 4.5/5 | Evaluada | ❌ | [268](reports/268-stripe-swe-intern-2026-04-07.md) | Top comp $61.75/hr, backend+security match, SF/NYC, apply ASAP |
-| 295 | 2026-04-07 | SpaceX | Software Engineering Internship/Co-op (Summer 2026) | 4.3/5 | Evaluada | ❌ | [269](reports/269-spacex-swe-intern-2026-04-07.md) | Systems depth match, carlosOS differentiator, TX locations accessible, $36-40/hr |
+| 294 | 2026-04-11 | Cloudflare | Security Engineer Intern (Summer 2026) | 4.7/5 | Evaluada | ❌ | [294](reports/294-cloudflare-security-intern-2026-04-11.md) | Re-eval 2026-04-11 (4.5→4.7). Austin TX local req; cybersecurity minor + OWASP/CSRF/TLS/OAuth production impl = exact match |
+| 295 | 2026-04-11 | Together AI | Software Engineer Intern (Summer 2026) | 4.5/5 | Evaluada | ❌ | [295](reports/295-together-ai-swe-intern-2026-04-11.md) | Re-eval 2026-04-11 (4.3→4.5). SF on-site $58/hr; 5-provider AI pipeline matches Platform Engineering track exactly |
 | 297 | 2026-04-07 | Microsoft | Software Engineering Intern (Summer 2026) | 4.1/5 | Evaluada | ❌ | [271](reports/271-microsoft-swe-intern-2026-04-07.md) | FAANG tier, target IDNA/Azure AI teams, $55-65/hr, Redmond WA |
 | 271 | 2026-04-05 | Shield AI | SWE Intern Summer 2026 | 0/5 | Evaluada | ❌ | [220](reports/220-shieldai-swe-2026-04-05.md) | Listing closed (404) |
 | 272 | 2026-04-05 | Nominal | SWE Internship Summer 2026 | 0/5 | Evaluada | ❌ | [221](reports/221-nominal-swe-2026-04-05.md) | Listing closed (404) |
