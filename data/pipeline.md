@@ -1001,3 +1001,14 @@
 - [ ] https://jobs.ashbyhq.com/anyscale/5dbc4672-2943-4b9e-91be-4217a6f81ad2 | Anyscale | Software Engineer (Intern 26') — SF on-site; $63.35/hr (~$131K annualized); Python/distributed computing/AI infra; Ray framework (used by OpenAI/Uber); A16z-backed ⭐ EVALUATED 4.1 → report #293
 - [ ] https://job-boards.greenhouse.io/rocketlawyer/jobs/5185465008 | Rocket Lawyer | AI/ML Intern — Remote (CA/AZ/CO/NC/UT only — TX not eligible); $40-50/hr; Jun 8–Aug 14 2026; Python, LLM, RAG, agents, FastAPI; good tech fit but location restriction and below-target comp (~3.0)
 - [ ] https://careers.google.com/jobs/results/75808725415142086-software-engineering-intern/ | Google | Software Engineering Intern (BS), Summer 2026 — BS-targeted listing; same program; deadline Apr 23 ⚠️ URGENT
+
+## scan-v37 — 2026-04-11
+
+- [ ] https://apply.workable.com/huggingface/j/07FBA391F1 | Hugging Face | ML Engineer Internship, Generative AI — US Remote; RAG pipelines + LLM APIs + fine-tuning; multi-model AI arch from Finch = direct match; Python + HuggingFace platform; top AI company; comp TBD (~3.9)
+- [ ] https://apply.workable.com/huggingface/j/2295F28772 | Hugging Face | ML Engineer Internship, Alignment — US Remote; AI safety/alignment; adversarial LLM testing from CV = differentiator; Python; (~3.7)
+- [ ] https://apply.workable.com/huggingface/j/DAB6199FAF | Hugging Face | ML Engineer Internship, Computer Vision — US Remote; OpenAI Vision API + 87% accuracy CV pipeline from AIPHRODITE = relevant; Python; (~3.6)
+- [ ] https://apply.workable.com/huggingface/j/48F24E310B | Hugging Face | ML Engineer Internship, Data Processing — US Remote; data pipelines + ETL; Python; (~3.5)
+- [ ] https://apply.workable.com/huggingface/j/F860248372 | Hugging Face | ML Engineer Internship, Accelerate — US Remote; distributed training; PyTorch; (~3.5)
+- [ ] https://apply.workable.com/huggingface/j/9E5944D267 | Hugging Face | ML Engineer Internship, Gradio — US Remote; Python + ML UI; Gradio framework; (~3.5)
+- [ ] https://apply.workable.com/huggingface/j/E39256D0B1 | Hugging Face | ML Engineer Internship, TRL — US Remote; RLHF + fine-tuning; research-oriented; (~3.5)
+- [ ] https://apply.workable.com/huggingface/j/CF90BFDC06 | Hugging Face | ML Engineer Internship, Quantization — US Remote; model efficiency + compression; specialized; (~3.4)

@@ -1,114 +1,125 @@
-# Portal Scan Summary — 2026-04-11 (scan-v36)
+# Portal Scan Summary — 2026-04-11 (scan-v37)
 
 **Run date:** 2026-04-11  
-**Scan version:** v36 (7th autonomous scan batch today, following v30–v35)  
-**Agent:** Autonomous scan agent
+**Scan version:** v37 (8th autonomous scan batch today, following v30–v36)  
+**Agent:** Autonomous scan agent (Claude Sonnet 4.6)
 
 ---
 
 ## Overview
 
 ```
-Companies scanned:       28
-Search queries run:      18
-New listings found:       2
-Skipped (duplicate):     25
-Skipped (closed/title):   1
-Added to pipeline:        2
-Reports generated:        1 (Anyscale, #293)
+Companies/portals scanned:   30+
+Search queries run:          25+
+Total results reviewed:      200+
+New listings found:           8
+Skipped (duplicate):        190+
+Skipped (closed/title):       4
+Added to pipeline:            8
+Reports generated:            0 (best score ~3.9, below 4.0 threshold)
 ```
 
 ---
 
 ## New Listings Added to Pipeline
 
-| # | Company | Role | Location | Comp | Score | Report |
-|---|---------|------|----------|------|-------|--------|
-| 1 | **Anyscale** | Software Engineer (Intern 26') | SF, CA (on-site) | $63.35/hr | **4.1/5** ⭐ | [#293](reports/293-anyscale-swe-intern-2026-04-11.md) |
-| 2 | Rocket Lawyer | AI/ML Intern | Remote (CA/AZ/CO/NC/UT) | $40-50/hr | 3.0/5 | — |
+All 8 new listings are **Hugging Face ML Engineering Internships (US Remote)** — the prior scan (v36) had only discovered the WebML track. This scan found 8 additional tracks:
+
+| # | Company | Role | Location | Comp | Score Est. |
+|---|---------|------|----------|------|-----------|
+| 1 | Hugging Face | ML Engineer Internship, Generative AI | US Remote | ~$40-55/hr TBD | ~3.9 |
+| 2 | Hugging Face | ML Engineer Internship, Alignment | US Remote | ~$40-55/hr TBD | ~3.7 |
+| 3 | Hugging Face | ML Engineer Internship, Computer Vision | US Remote | ~$40-55/hr TBD | ~3.6 |
+| 4 | Hugging Face | ML Engineer Internship, Data Processing | US Remote | ~$40-55/hr TBD | ~3.5 |
+| 5 | Hugging Face | ML Engineer Internship, Accelerate | US Remote | ~$40-55/hr TBD | ~3.5 |
+| 6 | Hugging Face | ML Engineer Internship, Gradio | US Remote | ~$40-55/hr TBD | ~3.5 |
+| 7 | Hugging Face | ML Engineer Internship, TRL | US Remote | ~$40-55/hr TBD | ~3.5 |
+| 8 | Hugging Face | ML Engineer Internship, Quantization | US Remote | ~$40-55/hr TBD | ~3.4 |
+
+*Hardware Optimization track found but skipped (requires hardware expertise outside Carlos's stack).*
 
 ---
 
-## Top Match: Anyscale (4.1/5)
+## Scoring Notes — Hugging Face ML Internships
 
-**Why it scored high:**
-- Anyscale builds Ray, the distributed computing framework powering OpenAI, Uber, Shopify, Microsoft
-- $63.35/hr (~$131K annualized) — top quartile intern comp, well above Carlos's targets
-- Carlos's production Python (35K LOC, 602 tests, AWS EC2 CI/CD) is directly relevant
-- Multi-model AI pipeline experience (5 LLM providers, $0.003/application) matches Anyscale's focus
-- carlosOS (custom OS in C/Assembly) signals systems depth for distributed computing work
-- Backed by A16z, NEA, Google Ventures — strong brand; SF location (Carlos is open to relocation)
+**Why these score 3.4–3.9 (not ≥4.0):**
 
-**Action:** Apply immediately. Full report at `reports/293-anyscale-swe-intern-2026-04-11.md`.
+- **Comp:** Not disclosed, but HuggingFace internship comp is typically ~$40–55/hr (~$83K–$114K annualized). This hits Carlos's minimum ($70K) but sits below the $80–120K target midpoint.
+- **Tech fit:** Carlos's multi-model pipeline work (5 LLM providers, LangChain, RAG, adversarial testing) maps strongly to the **Generative AI** and **Alignment** tracks. Computer Vision aligns to the AIPHRODITE OpenAI Vision API pipeline (87% accuracy). Tracks like Quantization and Hardware Optimization require hardware/ML-research depth not yet in Carlos's profile.
+- **Role archetype:** These are ML practitioner/research intern roles. Carlos's primary strength is production AI systems, not ML research. Partial overlap.
+- **Company prestige:** Hugging Face is top-tier for AI/ML brand and learning value.
 
----
-
-## Why Only 2 New Listings
-
-Scans v30–v35 (run earlier today) were extremely comprehensive, covering:
-- All portals.yml tracked companies (40+ companies via Greenhouse API, Ashby, Lever)
-- Major tech companies (Google, Microsoft, Amazon, Apple, Meta, NVIDIA)
-- AI-native companies (OpenAI, Anthropic, Cohere, Mistral, Together AI, Groq, Replit, etc.)
-- Security companies (Cloudflare, CrowdStrike, SentinelOne, Obsidian Security, etc.)
-- Fintech (Stripe, Brex, Mercury, Ramp, Robinhood, JPMorgan, etc.)
-- Defense tech (Anduril, SpaceX, Palantir, Shield AI, CACI)
-- Consulting (Deloitte, Accenture, Booz Allen)
-
-Scan-v36 expanded to 28 additional companies not previously targeted and found that the vast majority had either no intern programs or their listings were already in pipeline.
+**Best bet:** Generative AI track (~3.9) — closest match to Carlos's LangChain + multi-model + RAG work. Worth evaluating further.
 
 ---
 
-## Companies Searched in scan-v36
+## Why No New Full Reports
+
+Best new listing (HuggingFace Generative AI) estimated at ~3.9, just below the 4.0 threshold. No other genuinely new listings were found above 3.5. Scans v32–v36 already covered all top-scoring companies earlier today and generated multiple 4.0+ reports.
+
+---
+
+## Companies Searched in scan-v37
 
 | Company | Platform | Result |
 |---------|----------|--------|
-| Anyscale | Ashby | ✅ **NEW — added** |
-| Rocket Lawyer | Greenhouse | ✅ **NEW — added** |
-| Citadel | Custom | ❌ Deadline Jan 31, 2026 (closed) |
-| Cerebras | Greenhouse | dup (added Apr 8) |
-| Mercury | Greenhouse | dup (multiple intern roles already in pipeline) |
-| Sigma Computing | Greenhouse | dup (multiple listings already in pipeline) |
-| Brex | Greenhouse | no current intern roles active |
-| Gusto | Greenhouse | dup (already in pipeline) |
-| Stripe | Greenhouse | dup (already in pipeline) |
-| CoreWeave | Greenhouse | no intern roles found |
-| Point72 (AI intern) | Greenhouse | dup (added Apr 10) |
-| ServiceNow | Custom | listing closed/inaccessible |
-| Snyk | Workday | UK/Israel-based, no US interns |
-| Atlassian | Custom | no Greenhouse/Ashby listing found |
-| LaunchDarkly | Greenhouse | dup (added Apr 7) |
-| Databricks | Greenhouse | dup (added Apr 7) |
-| Lyft | Greenhouse | dup (added Apr 8) |
-| Sentry | Ashby | dup (added Apr 7) |
-| Zip | Ashby | dup (added Apr 7) |
-| Fizz | Ashby | dup (added Apr 7) |
-| Moloco | Greenhouse | dup (added Apr 7) |
-| Planet Labs | Greenhouse | dup (added Apr 11 v32) |
-| Delinea | Ashby | dup (added Apr 7) |
-| Brain Co. | Ashby | dup (added Apr 7) |
-| Baseten | Ashby | dup (added Apr 9) |
-| Hugging Face | Workable | dup (added Apr 8) |
-| OpenAI (Fall 2026) | Ashby | dup (added Apr 10–11) |
-| Pendo | Greenhouse | dup (added Apr 7) |
+| **Hugging Face** (9 tracks) | Workable | ✅ **8 NEW tracks added** (WebML was already in pipeline) |
+| Microsoft | careers.microsoft.com | dup (added Apr 7–11) |
+| Meta | metacareers.com | dup (added Apr 8) |
+| Datadog (Security Intern) | careers.datadoghq.com | ❌ 404 — listing closed |
+| SentinelOne | Greenhouse/web | dup (added Apr 8–10) |
+| Okta | Greenhouse/Workday | dup (added Apr 7–11) |
+| Zscaler | Greenhouse | dup (added Apr 7–11) |
+| Wiz | Greenhouse/web | no US intern listings |
+| Cisco | jobs.cisco.com | no 2026 US intern postings found |
+| IBM (AI Automation Intern) | avature.net | dup (added Apr 8) |
+| Ramp | Ashby | dup (added Apr 7–10) |
+| Replit | Ashby | dup (added Apr 7) |
+| Plaid | RippleMatch | dup (noted in history) |
+| Block/Square | Greenhouse | Embedded/Firmware = negative filter |
+| DoorDash | Greenhouse | dup (added Apr 7–11) |
+| Shield AI | Lever | dup (added Apr 7) |
+| Anduril | Lever | dup (added Apr 11) |
+| Applied Intuition | Lever/web | no current intern openings found |
+| Marshall Wace | Greenhouse | London/Singapore only, no US |
+| PDT Partners | Greenhouse | dup (added Apr 7) |
+| CTC | Greenhouse | dup (added Apr 8) |
+| Censys | Greenhouse | dup (added Apr 7) |
+| CrashPlan | Greenhouse | dup (added Apr 7) |
+| Arize AI | Greenhouse API | all senior roles, no intern/new grad |
+| Hume AI | Greenhouse API | no intern/new grad roles |
+| RunPod | Greenhouse | senior roles only |
+| Temporal | Greenhouse | no open jobs |
+| Weights & Biases | Lever | no intern roles (confirmed Apr 11) |
+| Benchling | Ashby | dup (added Apr 5) |
+| Harvey | Ashby | dup (added Apr 5, SF in-person req) |
 
 ---
 
 ## Cumulative Pipeline Status (Today, 2026-04-11)
 
-All scans (v30–v36) ran today. Combined stats:
-- **Total companies scanned today:** 100+
-- **New listings added to pipeline today:** ~40+ (across all scan batches)
-- **Evaluations completed (score >= 4.0):** Multiple (see reports/)
-- **Top recommendations still pending application:** Google (deadline Apr 23), Anyscale, Cloudflare Austin
+All scans (v30–v37) ran today. Combined stats for 2026-04-11:
+- **Total companies scanned:** 130+
+- **New listings added to pipeline today:** ~50+ (across all 8 scan batches)
+- **Evaluations completed (score ≥ 4.0):** 15+ new reports generated today
+- **Listings pending application (score ≥ 4.0):** 20+ in pipeline
 
 ---
 
-## Recommended Next Actions
+## Top Recommendations (Action Required)
 
-1. **Apply to Google immediately** — deadline Apr 23, multiple active URLs in pipeline (scan-v33). This is the most urgent.
-2. **Apply to Anyscale** — $63.35/hr, A16z-backed AI infra company, Python + AI pipeline fit. Report #293.
-3. **Review scan-v34/v35 pipeline additions** — SpaceX (Fall 2026), Glean, Obsidian Security, Apple InfoSec, Figma, JPMorgan, Notion — all added today but not yet evaluated.
-4. **Run `/career-ops pipeline`** to systematically evaluate the backlog of pending URLs.
+| Priority | Company | Role | Score | Comp | Deadline |
+|----------|---------|------|-------|------|---------|
+| 🔴 URGENT | Google | Software Engineering Intern | ~4.0 | $44-59/hr | **Apr 23** |
+| ⭐ NOW | Cloudflare | SWE Intern (Austin TX) | 4.8 | — | ASAP |
+| ⭐ NOW | Mechanize | SWE Intern | 4.6 | $100/hr | ASAP |
+| ⭐ NOW | Haize Labs | SWE Intern | 4.7 | $100-125K | ASAP |
+| ⭐ NOW | Together AI | Security Intern | 4.5 | $58/hr | ASAP |
+| ⭐ NOW | Glean | SWE Intern | 4.5 | $57-69/hr | ASAP |
+| ⭐ NOW | Ramp | FDE Internship | 4.5 | $11K/mo | ASAP |
+| ⭐ NOW | NVIDIA | Solutions Architect New Grad | 4.5 | $108-196K | ASAP |
+
+**Primary action:** Stop scanning and start applying. The pipeline is saturated with high-quality leads.
 
 ---
 
