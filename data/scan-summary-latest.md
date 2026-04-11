@@ -1,8 +1,46 @@
-# Portal Scan Summary — 2026-04-11 (v31)
+# Portal Scan Summary — 2026-04-11 (v32)
 
-**Scan ID:** v31 | **Agent:** Autonomous Agent | **Date:** 2026-04-11
+**Scan ID:** v32 | **Agent:** Autonomous Agent | **Date:** 2026-04-11
 
-> _This summary supersedes v30. See bottom of file for previous summaries._
+> _This summary supersedes v31. See bottom of file for previous summaries._
+
+---
+
+## Scan v32 Results
+
+**Run type:** Post-v31 continuation scan (companies not yet covered today)
+**Companies checked:** 32 | **Queries run:** 38
+
+| Metric | Count |
+|--------|-------|
+| Listings found (total) | 47 |
+| Filtered (title/seniority/closed) | 22 |
+| Duplicates | 18 |
+| **New listings added to pipeline** | **7** |
+| Reports generated (score ≥ 4.0) | **1** |
+
+### ⭐ Top Match: Transcarent Identity Intern (4.0/5) — Report #293
+IAM/SSO backend intern (Seattle hybrid). Carlos's OAuth proxy + HMAC-SHA256 CSRF work maps directly to Ping Identity + AWS/GCP backend IAM integration this team builds. Company: $3B digital health unicorn, Glen Tullman (Livongo founder), CNBC Disruptor 50 2025.
+**URL:** https://job-boards.greenhouse.io/transcarent/jobs/5814748004
+
+### Other New Listings (< 4.0, in pipeline)
+- Planet Labs — Intern, Software Engineering, AI (3.5/5) — SF, verify active
+- Transcarent — Clinical Tools Intern (3.0/5) — Java-heavy, skip unless Identity rejected
+- Bloom YC X25 — AI/Full Stack Intern (3.0/5) — Zurich-based
+- CACI — SWE Intern Dulles (3.0/5) — defense contractor
+- CACI — SQE Intern Austin (2.8/5) — QA role, Austin location only plus
+- Advanced Space — SWE Intern (2.5/5) — aerospace
+
+### Companies Checked with No New Listings
+Temporal (empty board), Arize AI (senior only), RunPod (no interns), LangChain (no change), Salesforce (already in pipeline), W&B (no interns), Palantir (already in pipeline), Gong (no interns), Genesys (no interns), Talkdesk (only 2025 posting), ElevenLabs (no change), Vapi (already in pipeline), Bland AI (already in pipeline), PolyAI (UK, no interns), Together AI (already in pipeline), Cloudflare (already in pipeline), Robinhood (already in pipeline), Schonfeld (already in pipeline), Anthropic (already in pipeline), OpenAI (already in pipeline), Deloitte (already in pipeline), Accenture (already in pipeline), Point72 (already in pipeline), Wiz (NJ location, skipped), Datadog (already in pipeline), Proofpoint (already in pipeline), Bot Auto (already in pipeline), RA Capital (already in pipeline).
+
+### Recommended Next Actions
+1. **Apply: Transcarent Identity Intern** — report #293, strongest IAM/security fit of any scan
+2. **Evaluate: Dex (Joindex) #344, SafetyKit #345, Socratix AI #346** — all scored 4.1-4.3 from v31
+3. **Verify: Planet Labs SWE AI** (job/7660168) — Playwright-verify before applying
+4. **Batch evaluate remaining pipeline** — 100+ pending entries need evaluation
+
+---
 
 ---
 

@@ -1309,3 +1309,41 @@ https://job-boards.greenhouse.io/veeamsoftware/jobs/4651007101	2026-04-11	scan-v
 https://jobs.ashbyhq.com/brainco/0abea2f1-324e-47cc-9055-d015827ba641	2026-04-11	scan-v31-ashby	AI/ML Engineering Internship (Summer 2026)	Brain Co.	skipped_dup
 https://job-boards.greenhouse.io/cloudflare/jobs/7702175	2026-04-11	scan-v31-greenhouse	Technical Program Manager Intern (Summer 2026)	Cloudflare	skipped_title
 https://www.ycombinator.com/companies/14-ai/jobs/Fb5zL8d-ai-internship-now-full-time-in-san-francisco	2026-04-11	scan-v31-yc	AI Internship (full-time SF)	14.ai	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/temporal/jobs	2026-04-11	scan-v32-greenhouse-api	(empty board - no jobs)	Temporal	skipped_no_intern
+https://boards-api.greenhouse.io/v1/boards/arizeai/jobs	2026-04-11	scan-v32-greenhouse-api	(senior only - AI Product Engineer, DevOps APJ; no intern/new grad)	Arize AI	skipped_no_intern
+https://boards-api.greenhouse.io/v1/boards/runpod/jobs	2026-04-11	scan-v32-greenhouse-api	(no intern roles; Security Engineer + SWE FTE only)	RunPod	skipped_no_intern
+https://www.langchain.com/careers	2026-04-11	scan-v32-ashby	(no new listings since April 5 scan)	LangChain	skipped_dup
+https://careers.salesforce.com	2026-04-11	scan-v32-websearch	(all intern roles already in pipeline from April 7-8)	Salesforce	skipped_dup
+https://jobs.lever.co/wandb	2026-04-11	scan-v32-lever	(no intern roles found; all senior FTE)	Weights & Biases	skipped_no_intern
+https://jobs.lever.co/palantir	2026-04-11	scan-v32-lever	(all FDSE/SWE intern roles already in pipeline)	Palantir	skipped_dup
+https://www.gong.io/careers	2026-04-11	scan-v32-websearch	(no intern/new grad roles found for 2026)	Gong	skipped_no_intern
+https://www.genesys.com/careers	2026-04-11	scan-v32-websearch	(no intern roles found for 2026)	Genesys	skipped_no_intern
+https://www.talkdesk.com/careers	2026-04-11	scan-v32-websearch	(only Summer 2025 intern posting found; no 2026)	Talkdesk	skipped_no_intern
+https://jobs.ashbyhq.com/elevenlabs	2026-04-11	scan-v32-ashby	(no new intern listings since April 5)	ElevenLabs	skipped_dup
+https://jobs.ashbyhq.com/vapi	2026-04-11	scan-v32-ashby	(New Grad SWE already in pipeline from April 7)	Vapi	skipped_dup
+https://jobs.ashbyhq.com/bland	2026-04-11	scan-v32-ashby	(ML Engineer / TTS roles already in pipeline)	Bland AI	skipped_dup
+https://poly.ai/careers	2026-04-11	scan-v32-websearch	(no intern/new grad SWE roles; 1 general engineer post; UK-based)	PolyAI	skipped_no_intern
+https://job-boards.greenhouse.io/togetherai	2026-04-11	scan-v32-greenhouse	(all intern roles already in pipeline)	Together AI	skipped_dup
+https://job-boards.greenhouse.io/cloudflare	2026-04-11	scan-v32-greenhouse	(all intern roles already in pipeline)	Cloudflare	skipped_dup
+https://job-boards.greenhouse.io/robinhood	2026-04-11	scan-v32-greenhouse	(all intern roles already in pipeline)	Robinhood	skipped_dup
+https://job-boards.greenhouse.io/schonfeld	2026-04-11	scan-v32-greenhouse	(all intern roles already in pipeline)	Schonfeld	skipped_dup
+https://job-boards.greenhouse.io/anthropic	2026-04-11	scan-v32-greenhouse	(all intern/fellow roles already in pipeline)	Anthropic	skipped_dup
+https://jobs.ashbyhq.com/openai	2026-04-11	scan-v32-ashby	(all intern roles already in pipeline)	OpenAI	skipped_dup
+https://apply.deloitte.com/careers	2026-04-11	scan-v32-websearch	(Cyber intern + Technology intern already in pipeline)	Deloitte	skipped_dup
+https://www.accenture.com/us-en/careers	2026-04-11	scan-v32-websearch	(Technology Summer Analyst already in pipeline)	Accenture	skipped_dup
+https://job-boards.greenhouse.io/point72	2026-04-11	scan-v32-greenhouse	(AI Engineer intern already in pipeline)	Point72	skipped_dup
+https://job-boards.greenhouse.io/planetlabs/jobs/7660168	2026-04-11	scan-v32-greenhouse	Intern, Software Engineering, AI	Planet Labs	added
+https://www.wiz.io/careers	2026-04-11	scan-v32-websearch	(Summer 2026 intern found but NJ location; already marked skipped from April 9)	Wiz	skipped_title
+https://careers.datadoghq.com	2026-04-11	scan-v32-websearch	(SWE intern + SRE intern already in pipeline)	Datadog	skipped_dup
+https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Sunnyvale-CA/Agentic-AI-Workflows-Intern_R13934	2026-04-11	scan-v32-workday	(Agentic AI Workflows Intern already in pipeline)	Proofpoint	skipped_dup
+https://job-boards.greenhouse.io/botauto/jobs/5182929008	2026-04-11	scan-v32-greenhouse	(AI Agents intern already in pipeline)	Bot Auto	skipped_dup
+https://job-boards.greenhouse.io/racapitalmanagementllc/jobs/5177331008	2026-04-11	scan-v32-greenhouse	(AI Engineering Intern already in pipeline)	RA Capital	skipped_dup
+https://job-boards.greenhouse.io/transcarent/jobs/5814748004	2026-04-11	scan-v32-greenhouse	Software Engineering Intern – Identity	Transcarent	added
+https://job-boards.greenhouse.io/transcarent/jobs/5808306004	2026-04-11	scan-v32-greenhouse	Software Engineering Intern – Clinical Tools	Transcarent	added
+https://www.ycombinator.com/companies/bloom-4/jobs/VAkpMHI-ai-full-stack-student-internship-winter-or-summer-2026	2026-04-11	scan-v32-yc	AI / Full-Stack Student Internship (Summer 2026)	Bloom	added
+https://www.ycombinator.com/companies/chunkr/jobs/aL1Vluh-software-engineer-internship-summer-2026	2026-04-11	scan-v32-yc	(404 - listing closed)	Chunkr	skipped_closed
+https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Dulles/Software-Engineering-Intern---Summer-2026_317969	2026-04-11	scan-v32-workday	Software Engineering Intern – Summer 2026	CACI	added
+https://caci.wd1.myworkdayjobs.com/External/job/US-TX-Austin/Software-Quality-Engineer-Intern---Summer-2026_316652	2026-04-11	scan-v32-workday	Software Quality Engineer Intern – Summer 2026 (Austin)	CACI	added
+https://job-boards.greenhouse.io/advancedspace/jobs/4212371009	2026-04-11	scan-v32-greenhouse	2026 Software Engineering Summer Intern	Advanced Space	added
+https://jobs.ashbyhq.com/Hippocratic%20AI/0437c678-bd5a-429d-b34b-bfd3b70d1793	2026-04-11	scan-v32-ashby	(Residency program - requires 2+ years experience; not intern-eligible)	Hippocratic AI	skipped_title
+https://jobs.ashbyhq.com/Hippocratic%20AI/964acae6-87cf-46f2-8591-9ffc34e7c128	2026-04-11	scan-v32-ashby	(Contract role - not internship)	Hippocratic AI	skipped_title

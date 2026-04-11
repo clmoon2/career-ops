@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 347 | 2026-04-11 | Transcarent | Software Engineering Intern – Identity | 4.0/5 | Evaluada | ❌ | [293](reports/293-transcarent-identity-intern-2026-04-11.md) | IAM/SSO backend intern, Seattle hybrid, strong OAuth/security match |
 | 344 | 2026-04-11 | Dex (Joindex) | AI/ML Engineer Intern (Summer 2026) | 4.3/5 | Evaluada | ❌ | [344](reports/344-dex-ai-ml-engineer-intern-2026-04-11.md) | YC W25; browser agents + LLM engineering; exact match to Chrome ext + Playwright work; $6K-10K/mo SF |
 | 345 | 2026-04-11 | SafetyKit | Full Stack Engineer Intern (Summer 2026) | 4.2/5 | Evaluada | ❌ | [345](reports/345-safetykit-fullstack-intern-2026-04-11.md) | YC S23; highest comp in scan history $12.5K-16.5K/mo; AI content moderation; TypeScript+AWS; SF in-person |
 | 346 | 2026-04-11 | Socratix AI | Software Engineering Intern | 4.1/5 | Evaluada | ❌ | [346](reports/346-socratix-ai-swe-intern-2026-04-11.md) | YC S25; AI fraud detection; Python+FastAPI+PostgreSQL+React exact stack match; security-adjacent; Mountain View |

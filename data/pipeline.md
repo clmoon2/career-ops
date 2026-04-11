@@ -2,6 +2,15 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-11 SCAN v32 (Autonomous Agent) === -->
+- [ ] https://job-boards.greenhouse.io/transcarent/jobs/5814748004 | Transcarent | Software Engineering Intern – Identity | 4.0/5 | ⭐ APPLY — IAM/SSO backend, AWS/GCP, Python/TypeScript; OAuth proxy work maps 1:1; Seattle hybrid; $3B digital health unicorn post-Accolade merger; report: 293
+- [ ] https://job-boards.greenhouse.io/transcarent/jobs/5808306004 | Transcarent | Software Engineering Intern – Clinical Tools | 3.0/5 | Java-heavy + healthcare focus; Seattle hybrid; skip unless Identity is rejected
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7660168 | Planet Labs | Intern, Software Engineering, AI | 3.5/5 | AI/ML on satellite imagery; Python/ML; SF; strong CV match via AIPHRODITE vision pipeline work; verify listing active
+- [ ] https://www.ycombinator.com/companies/bloom-4/jobs/VAkpMHI-ai-full-stack-student-internship-winter-or-summer-2026 | Bloom (YC X25) | AI / Full-Stack Student Internship (Summer 2026) | 3.0/5 | AI app builder; TypeScript/Supabase/Next.js; Zurich-based (remote unclear); small team; borderline fit
+- [ ] https://job-boards.greenhouse.io/advancedspace/jobs/4212371009 | Advanced Space | 2026 Software Engineering Summer Intern | 2.5/5 | Aerospace software; Westminster CO; Systems/C++ focus; adjacent via carlosOS but domain mismatch
+- [ ] https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Dulles/Software-Engineering-Intern---Summer-2026_317969 | CACI | Software Engineering Intern – Summer 2026 | 3.0/5 | Defense contractor; Dulles VA; likely requires clearance eligibility; SWE intern but narrow domain
+- [ ] https://caci.wd1.myworkdayjobs.com/External/job/US-TX-Austin/Software-Quality-Engineer-Intern---Summer-2026_316652 | CACI | Software Quality Engineer Intern – Summer 2026 (Austin, TX) | 2.8/5 | Austin location is a plus but QA role; defense contractor focus; skip unless need local options
+
 <!-- === NEW 2026-04-11 SCAN v31 (Autonomous Agent) === -->
 - [x] #344 | https://www.ycombinator.com/companies/joindex/jobs/jgOpS9K-2026-summer-ai-ml-engineer-intern | Dex (Joindex) | 2026 Summer AI/ML Engineer Intern | 4.3/5 | ⭐ APPLY IMMEDIATELY — YC W25; browser agents + LLM infra; exact match to Chrome ext + Playwright automation work; Python+TypeScript; $6K-10K/mo SF
 - [x] #345 | https://www.ycombinator.com/companies/safetykit/jobs/eQpUzRD-full-stack-engineer-intern-summer-2026 | SafetyKit | Full Stack Engineer Intern (Summer 2026) | 4.2/5 | ⭐ APPLY IMMEDIATELY — YC S23; HIGHEST COMP in scan history $12.5K-16.5K/mo; AI content moderation (Character.ai/Substack/Upwork); TypeScript+SQL+AWS; adversarial LLM testing background = direct differentiator; SF in-person
