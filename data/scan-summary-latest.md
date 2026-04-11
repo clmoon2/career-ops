@@ -1,83 +1,92 @@
-# Scan Summary — 2026-04-10 (v26, Autonomous Agent)
+# Portal Scan Summary — 2026-04-11
 
-## Overview
+**Scan version:** v27 (Autonomous Agent)
+**Previous scan:** 2026-04-10 (v15–v26, very comprehensive — 120+ companies, 1,168 entries in scan history)
 
-| Metric | Value |
+---
+
+## Coverage
+
+| Metric | Count |
 |--------|-------|
-| Date | 2026-04-10 |
-| Scan version | v26 (autonomous agent) |
-| Companies/portals scanned | 35+ |
-| Greenhouse APIs fetched | 9 (Anthropic, Airtable, Vercel, Arize AI, RunPod, Glean, Temporal, Hume AI, Intercom) |
-| WebSearch queries executed | 20+ |
-| Total URLs checked against history | 100+ |
-| Already in history (skipped_dup) | ~95 |
-| New URLs discovered | 8 |
-| Active new listings added to pipeline | 1 (unverified, low score) |
-| Confirmed closed/redirected | 5 |
-| Score ≥ 4.0 reports written | 0 |
+| Portals / companies checked | 25+ |
+| Greenhouse APIs queried | 3 (Parloa, Intercom, Hume AI) |
+| Ashby portals checked | 8 (Deepgram, Sierra, Lindy, Pinecone, Attio, Travelperk, Tinybird, Clarity AI) |
+| WebSearch queries executed | 12+ |
+| Total URLs evaluated | 100+ |
+| **New listings added to pipeline** | **2** |
+| Skipped (already in history) | ~90 |
+| Skipped (no intern roles) | ~10 |
+
+---
 
 ## Context
 
-This was scan v26, run the same day as scans v22–v25 (all on 2026-04-10). The previous scans today were exceptionally comprehensive — by the time v26 ran, the 1,160+ URL scan history had captured essentially all actively-posted Summer 2026 internship listings across Greenhouse, Ashby, and Lever.
+Today's scan ran the day after an extremely comprehensive scan (v15–v26) that covered 120+ companies and 1,168 known URLs. As a result, most companies and listings were duplicates. The scan focused on:
 
-**Bottom line:** The pipeline is fully current as of today. No new high-quality roles were missed by previous scans.
+1. **Unscanned portals.yml companies** (Parloa, Intercom, Deepgram, Retool, Pinecone, Sierra, Lindy, Attio, Travelperk, Tinybird, Clarity AI) — none had new intern/entry-level roles not already in history
+2. **Web searches** for new Summer 2026 SWE/Security/AI/ML/DevOps intern listings on Greenhouse, Ashby, and Lever
+3. **GitHub speedyapply/2026-AI-College-Jobs** repo for recently added listings
 
-## New Listings Found
+---
 
-### Added to Pipeline (1)
+## New Listings Added (2 total)
 
-| Company | Title | Score Est. | Notes |
-|---------|-------|-----------|-------|
-| Numeric | Software Engineer Intern (Summer 2026) | ~2.8 | Accounting/finance AI startup. Below recommended threshold. Unverified (Ashby JS). |
+| Company | Role | URL | Score | Notes |
+|---------|------|-----|-------|-------|
+| Cypress Creek Renewables | AI Automation Summer Intern | [Greenhouse](https://job-boards.greenhouse.io/cypresscreekrenewables/jobs/7793341) | ~3.0 | NYC; cleantech; AI automation archetype match; non-tech domain |
+| Radix Trading | Quantitative Technologist (C++ Intern) | [Greenhouse](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002) | ~2.8 | Chicago; C++ prop trading; quant domain relevant but C++ gap |
 
-### Confirmed Closed — Not Added (5)
+**Neither listing meets the 4.0+ evaluation threshold.** No full reports generated.
 
-| Company | Title | Status |
-|---------|-------|--------|
-| Benchling | Software Engineer Intern (Summer 2026) | 404 — CLOSED |
-| MongoDB | 2026 Security Engineering Intern, Seattle | Redirected to general careers page — CLOSED |
-| Twitch | Undergrad Security Engineering Intern | Redirected to general board — CLOSED |
-| Podium | Security Engineering Intern | Redirected to general board — CLOSED |
-| Mercury | Backend Engineering Intern (Summer 2026) | Redirected to general board — CLOSED |
+---
 
-## Companies Scanned This Run
+## Companies with No New Intern Roles
 
-**Greenhouse API (Level 2):**
-- Anthropic — no new intern roles (fellows program already captured in v22)
-- Airtable — all existing roles already in history
-- Vercel — Forward Deployed Engineer v0, Software Engineer Agent — all in history
-- Arize AI — all senior/experienced hire, no interns
-- RunPod — Security Engineer + SWE Full-Stack — already in history
-- Glean — Software Engineer Intern already in history
-- Temporal — empty jobs board (no open roles)
-- Hume AI — all senior, no interns
-- Intercom — all senior, no interns
+| Company | Status |
+|---------|--------|
+| Parloa | No intern/entry roles (all senior FDE/engineer FTE, Berlin/NYC) |
+| Intercom | No intern/entry roles (all senior FTE) |
+| Hume AI | No new listings since previous scan |
+| Deepgram | No intern/entry roles (all senior FTE) |
+| Retool | 0 open roles currently |
+| Groq | Winter 2026 only (past deadline) |
+| Pinecone | No intern roles (Associate Field Engineer only) |
+| Sierra | All roles already in scan history |
+| Lindy | All roles already in scan history |
+| Attio | Senior EU-based roles only |
+| TravelPerk | No intern/new grad roles |
+| Tinybird | JS-only page, no parseable intern roles |
+| Clarity AI | No matching roles |
+| n8n | No specific intern roles on Ashby |
 
-**WebSearch (Level 3) — Companies confirmed covered by prior scans:**
-- Cloudflare, Scale AI, Together AI, C3 AI, Figma, Glean, Robinhood, Loop ✓
-- Palantir (SWE intern, FDE intern, new grad infra) ✓
-- Cohere (SWE intern, ML co-op, research intern) ✓
-- Verkada, Astranis, Benchling, Affirm, Enova, DoorDash ✓
-- Mistral AI (FDE intern, AI Scientist intern) ✓
-- Censys, Point72, iCapital, Planet, CLEAR, Lucid Motors ✓
-- Gemini, MongoDB, Twitch, Sigma Computing, Klaviyo ✓
+---
 
-## Pipeline Status
+## High-Priority Pipeline Items (from previous scans, not yet acted on)
 
-The pipeline (pipeline.md) is fully current. Top high-priority entries from earlier scans today:
+The following items from previous scans are still pending evaluation and warrant attention:
 
-- **⚠️ Anthropic Fellows Program — AI Safety** (~4.2, deadline **April 26, 2026!**)
-- **Scale AI** — Security Engineering New Grad + SWE New Grad
-- **Cloudflare** — SWE Intern (Austin, London, multiple locations)
-- **Together AI** — SWE Intern ($58/hr) + Security Engineer Intern
-- **Glean** — SWE Intern ($57–69/hr, Palo Alto)
-- **Labelbox** — Cyber Security Intern
-- **Astera Labs** — Applied AI Engineer Intern (Fall Co-Op)
+| Priority | Company | Role | Score Est. | Notes |
+|----------|---------|------|------------|-------|
+| ⭐ EVALUATED | Anthropic | Fellows Program — AI Safety | 4.2 | **⚠️ DEADLINE APRIL 26** — 15 days left |
+| ⭐ EVALUATED | Mechanize | Software Engineering Intern | 4.6 | $100/hr — apply immediately |
+| ⭐ EVALUATED | OpenAI | Software Engineer Internship (Summer 2026) | 4.2 | Apply ASAP |
+| PENDING | Scale AI | Security Engineering New Grad | ~4.0 | Needs full evaluation |
+| PENDING | Cloudflare | Security Engineer Intern (Summer 2026) | ~3.8 | Needs full evaluation |
+| PENDING | Censys | AI/ML Engineering Intern | ~3.8 | Needs full evaluation |
+| PENDING | Labelbox | Cyber Security Intern | ~3.8 | Needs full evaluation |
+| PENDING | Together AI | Security Engineer Intern | ~3.8 | Needs full evaluation |
+| PENDING | Notion | Software Engineer Intern (Summer 2026) | ~3.8 | Needs full evaluation |
+
+---
 
 ## Recommended Next Actions
 
-1. **⚠️ URGENT: Apply to Anthropic Fellows Program (AI Safety) — deadline April 26, 2026**
-2. Run `/career-ops pipeline` to evaluate the pending backlog
-3. Prioritize: Scale AI Security/SWE New Grad, Cloudflare SWE Interns, Glean SWE Intern
-4. Schedule next autonomous scan in 3–5 days (new postings typically added Mon–Wed)
-5. Check Impiricus backend intern + Zeta Global consulting intern (added in v25) for evaluation
+1. **Apply immediately** to Mechanize ($100/hr, 4.6) and OpenAI Summer 2026 (4.2) — both already evaluated
+2. **⚠️ DEADLINE ALERT:** Anthropic Fellows Program AI Safety — deadline April 26, 2026 (15 days)
+3. **Evaluate** Scale AI Security New Grad, Cloudflare Security Intern, Censys AI/ML Intern next
+4. **Next scan recommended:** April 14-15, 2026 (weekend gap check for any new postings)
+
+---
+
+*Scan completed: 2026-04-11 | Total scan history entries: 1,185+*

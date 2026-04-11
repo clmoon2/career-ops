@@ -1167,3 +1167,20 @@ https://job-boards.greenhouse.io/podium81/jobs/6932534	2026-04-10	v26_websearch	
 https://job-boards.greenhouse.io/mercury/jobs/5668761004	2026-04-10	v26_websearch	Backend Engineering Intern (Summer 2026)	Mercury	skipped_closed
 https://job-boards.greenhouse.io/anthropic/jobs/5030244008	2026-04-10	v26_greenhouse_api	Anthropic Fellows Program - AI Security	Anthropic	skipped_dup
 https://boards-api.greenhouse.io/v1/boards/temporal/jobs	2026-04-10	v26_greenhouse_api	(API returned empty - no open roles)	Temporal	skipped_no_intern
+https://job-boards.eu.greenhouse.io/parloa	2026-04-11	v27_greenhouse_api	(no intern/entry roles — all senior FDE/engineer FTE)	Parloa	skipped_no_intern
+https://job-boards.greenhouse.io/intercom	2026-04-11	v27_greenhouse_api	(no intern/entry roles — all senior FTE)	Intercom	skipped_no_intern
+https://job-boards.greenhouse.io/humeai	2026-04-11	v27_greenhouse_api	(no new listings since last scan)	Hume AI	skipped_dup
+https://jobs.ashbyhq.com/deepgram	2026-04-11	v27_ashby	(no intern/entry roles — all senior FTE)	Deepgram	skipped_no_intern
+https://retool.com/careers	2026-04-11	v27_websearch	(0 open roles currently)	Retool	skipped_no_intern
+https://groq.com/careers	2026-04-11	v27_websearch	(no Summer 2026 intern roles — Winter 2026 only, past)	Groq	skipped_title
+https://jobs.ashbyhq.com/pinecone	2026-04-11	v27_ashby	(no intern/entry roles — Associate Field Engineer only)	Pinecone	skipped_no_intern
+https://jobs.ashbyhq.com/sierra	2026-04-11	v27_ashby	(all roles already in scan history)	Sierra	skipped_dup
+https://jobs.ashbyhq.com/lindy	2026-04-11	v27_ashby	(all roles already in scan history)	Lindy	skipped_dup
+https://jobs.ashbyhq.com/attio	2026-04-11	v27_ashby	(all senior EU-based roles, no intern/new grad)	Attio	skipped_dup
+https://jobs.ashbyhq.com/travelperk	2026-04-11	v27_ashby	(no intern/new grad roles)	TravelPerk	skipped_dup
+https://jobs.ashbyhq.com/tinybird	2026-04-11	v27_ashby	(JS-only page, no intern roles)	Tinybird	skipped_dup
+https://jobs.lever.co/clarity-ai	2026-04-11	v27_lever	(no matching roles)	Clarity AI	skipped_dup
+https://job-boards.greenhouse.io/cypresscreekrenewables/jobs/7793341	2026-04-11	v27_websearch	AI Automation Summer Intern	Cypress Creek Renewables	added
+https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002	2026-04-11	v27_websearch	Quantitative Technologist (C++ Intern)	Radix Trading	added
+https://job-boards.greenhouse.io/planetlabs/jobs/7774031	2026-04-11	v27_greenhouse	Intern, Machine Learning & AI (grad degree required)	Planet Labs	skipped_title
+https://jobs.lever.co/nimblerx/0e03bf8c-ef8d-4bcf-8395-9f1782af7cb7	2026-04-11	v27_lever	Software Engineer Intern (potential dup of ceea467c)	NimbleRx	skipped_dup

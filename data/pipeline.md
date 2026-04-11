@@ -2,6 +2,11 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-11 SCAN v27 (Autonomous Agent) === -->
+- [ ] https://job-boards.greenhouse.io/cypresscreekrenewables/jobs/7793341 | Cypress Creek Renewables | AI Automation Summer Intern — NYC; renewable energy company (~500 employees); "AI Automation" = Agentic/Automation archetype match; Python + LLM/automation tools likely required; Carlos has multi-model AI pipeline + LangChain + n8n + automation experience = strong skill match; domain (cleantech/solar) is far from Carlos's primary archetypes; limited brand value for CS career trajectory; non-tech company (~3.0) — below recommended threshold
+- [ ] https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002 | Radix Trading | Quantitative Technologist (C++ Intern) — Chicago; prop trading firm; C++ primary (Carlos has C/C++ from carlosOS + x86 Assembly background, but Python is his primary); distributed systems + trading infrastructure; Carlos's quant trading system (Bloomberg/Alpaca, Sharpe 1.79) = relevant domain experience; C++ depth gap is the main risk; competitive quant firm but not an AI-native SWE role (~2.8) — below recommended threshold
+<!-- === END 2026-04-11 SCAN v27 === -->
+
 <!-- === NEW 2026-04-10 SCAN v26 (Autonomous Agent) === -->
 - [ ] https://jobs.ashbyhq.com/numeric/aa134424-5e42-4e12-ab57-acb49e937acb | Numeric | Software Engineer Intern (Summer 2026) — accounting/finance AI data platform (small startup, fintech niche); "Software Engineer" title match; Carlos has Python + React + TypeScript stack; accounting domain is far from AI/security/consulting archetypes; low brand value for CS career; ⚠️ verification needed (Ashby JS-only page, unconfirmed active) (~2.8) — below recommended threshold
 <!-- === END 2026-04-10 SCAN v26 === -->
