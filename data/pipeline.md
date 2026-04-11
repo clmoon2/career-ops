@@ -995,4 +995,9 @@
 
 - [ ] https://careers.google.com/jobs/results/140357549328081606-software-engineering-intern/ | Google | Software Engineering Intern, Summer 2026 — Austin TX / Sunnyvale CA / MTV; $44-59/hr (~$92-122K annualized for BS); 12-14 weeks; Python/Java/C++/JS; deadline Apr 23 ⚠️ URGENT
 - [ ] https://careers.google.com/jobs/results/104981114489053894-software-engineering-intern/ | Google | Software Engineering Intern, Google Public Sector — NYC/Sunnyvale/Cambridge MA; government/federal focus; US citizen preferred; $44-59/hr
+
+## scan-v36 — 2026-04-11
+
+- [ ] https://jobs.ashbyhq.com/anyscale/5dbc4672-2943-4b9e-91be-4217a6f81ad2 | Anyscale | Software Engineer (Intern 26') — SF on-site; $63.35/hr (~$131K annualized); Python/distributed computing/AI infra; Ray framework (used by OpenAI/Uber); A16z-backed ⭐ EVALUATED 4.1 → report #293
+- [ ] https://job-boards.greenhouse.io/rocketlawyer/jobs/5185465008 | Rocket Lawyer | AI/ML Intern — Remote (CA/AZ/CO/NC/UT only — TX not eligible); $40-50/hr; Jun 8–Aug 14 2026; Python, LLM, RAG, agents, FastAPI; good tech fit but location restriction and below-target comp (~3.0)
 - [ ] https://careers.google.com/jobs/results/75808725415142086-software-engineering-intern/ | Google | Software Engineering Intern (BS), Summer 2026 — BS-targeted listing; same program; deadline Apr 23 ⚠️ URGENT
