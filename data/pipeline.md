@@ -2,6 +2,21 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-12 SCAN v39 (Autonomous Agent — broad company sweep: Zip, Whatnot, Anduril, Benchling, Nvidia, Glacis, PAN, Astranis, Fizz) === -->
+<!-- ⭐ PRIORITY: Zip SWE Intern — $58-60/hr; Python/TS/React; Sequoia-backed; customers OpenAI/Anthropic ⭐ -->
+- [ ] https://jobs.ashbyhq.com/zip/2bad03a8-4e98-480e-b8cb-bc65d36e429f | Zip | Software Engineer Intern (Summer 2026) | 4.0/5 | ⭐ EVALUATED — $58-60/hr; SF hybrid; Python/TS/React/GraphQL; AI procurement; Sequoia-backed; report: 293
+<!-- Medium priority additions (pipeline only) -->
+- [ ] https://jobs.ashbyhq.com/whatnot/8250532f-4bfd-4ee5-a041-4a2e54047cf7 | Whatnot | Software Engineer Intern (Summer 2026) | 3.8/5 | $65/hr + $6K housing; 12-16 weeks; hubs NYC/LA/SF/Seattle; hybrid; full-stack; no specific AI/security focus
+- [ ] https://jobs.ashbyhq.com/glacis-ai/e08f7cde-6b65-420a-874f-4cb7c906f1a2 | Glacis | Agentic AI Engineering Intern | 3.5/5 | Remote; n8n + Claude + Python; automation-focused; 3-6 months; no comp disclosed; Vietnam HQ — verify
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/4807506007 | Anduril | Software Engineer Intern (Summer 2026) | 3.5/5 | Defense tech; ~$50/hr + $8.25K housing; Costa Mesa/Irvine/Atlanta/Seattle/Boston; Python/C++; no clearance required for intern
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5029463007 | Anduril | Software Engineer Intern, Frontier Systems (Summer 2026) | 3.4/5 | Irvine CA; defense tech; hardware-adjacent; lower fit than main SWE intern
+- [ ] https://job-boards.greenhouse.io/benchling/jobs/7362703 | Benchling | Software Engineer, Intern (Summer 2026) | 3.2/5 | $60/hr; SF 4d/wk; life sciences platform; Python/Java/C++; domain miss but strong stack match
+- [ ] https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Software-Engineer-Intern--2026_JR2008747 | Nvidia | Software Engineer Intern 2026 (PerfLab) | 3.4/5 | $20-71/hr range; Santa Clara CA; Python/AI tooling; performance testing focus — not product
+- [ ] https://jobs.paloaltonetworks.com/job/12237212/intern-software-engineer-santa-clara-ca/ | Palo Alto Networks | Intern — Software Engineer (Summer 2026) | 3.6/5 | $43/hr; Santa Clara CA 3d/wk; cybersecurity domain fits minor; below comp target
+- [ ] https://job-boards.greenhouse.io/astranis/jobs/4648080006 | Astranis | Software Engineer — Backend Intern (Summer 2026) | 3.3/5 | Satellite internet; SF; Python/backend; niche domain; verify comp
+- [ ] https://jobs.ashbyhq.com/fizz/c33b0bb7-d87f-4666-8622-36604fe10b20 | Fizz | Software Engineering Intern (Summer 2026) | 2.5/5 | Campus social app; low priority — verify comp before applying
+<!-- === END 2026-04-12 SCAN v39 === -->
+
 <!-- === NEW 2026-04-12 SCAN v38 (Autonomous Agent — April 12 freshness sweep via speedyapply + Actian/BrowserOS/Replit) === -->
 <!-- ⭐⭐ PRIORITY 1: Replit New Grad — $140-180K + equity; AI agents + full-stack TS/React/Python; top match ⭐⭐ -->
 - [ ] https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc | Replit | Software Engineer - New Grad (Summer 2026) | 4.5/5 | ⭐⭐ EVALUATED — $140-180K + equity; Foster City CA hybrid; AI coding agents + full-stack; direct CV match; report: 293
