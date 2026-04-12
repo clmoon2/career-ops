@@ -1,5 +1,77 @@
-# Portal Scan — 2026-04-12 (scan-v42)
+# Portal Scan — 2026-04-12 (scan-v43)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**Agent:** Autonomous (career-ops scan agent)
+**Date:** 2026-04-12
+**Scan scope:** 25+ companies and portals — SWE, Security, AI/ML, Consulting, Finance, Infrastructure
+
+---
+
+## ⚠️ URGENT DEADLINE ALERT
+
+**Airbnb Software Engineering Intern (Summer 2026)**
+- URL: https://careers.airbnb.com/positions/7453837/
+- **DEADLINE: April 13, 2026 at 9:00am PDT (TOMORROW)**
+- Score: ~3.7/5 | Comp: $49/hr | 12-week | SF + virtual
+- Already in pipeline (added April 8). **Apply before 9am PDT tomorrow.**
+
+**Anthropic Fellows Program — AI Security**
+- URL: https://job-boards.greenhouse.io/anthropic/jobs/5030244008
+- **DEADLINE: April 26, 2026** (2 weeks away)
+- $3,850/week + $15K/month compute | 4-month starting July 20, 2026
+- Cybersecurity minor + HMAC/TLS/OAuth/adversarial LLM testing = exact match. Already evaluated.
+
+---
+
+## Scan Statistics
+
+| Metric | Value |
+|--------|-------|
+| Companies / portals checked | 25+ |
+| Total URLs evaluated | ~50 |
+| New listings found | 2 |
+| Filtered (closed/no intern/wrong title) | ~18 |
+| Duplicates (already in history) | ~30 |
+| Reports written | 1 (ThirdLayer Full-Stack, 4.0/5) |
+| Pipeline additions | 2 new + deadline alerts |
+
+---
+
+## Top Match This Scan
+
+### ⭐ ThirdLayer (Dex) — Full-Stack Engineer Intern (Summer 2026)
+**Score: 4.0/5** | **Report: #352** | **Tracker: #354**
+
+- **URL:** https://www.ycombinator.com/companies/thirdlayer/jobs/xgLbSux-summer-2026-full-stack-engineer-intern
+- **Comp:** $6,000 – $10,000/month | **Location:** SF on-site | **YC W25**
+- **Stack:** React, Next.js, TypeScript, Python, SQL; browser extensions + AI agent control
+- Finch Chrome MV3 extension (dual-mode autofill) + Application Automation Engine (50+ ATS platforms) = **direct proof points**
+- **Action:** Apply. Note: same company as Dex AI/ML intern (report #344). Confirm whether both-track applications are welcome.
+
+---
+
+## Pipeline-Only Additions
+
+| Company | Role | Score | Notes |
+|---------|------|-------|-------|
+| Tessera Labs | Frontend SWE Intern | 3.3/5 | $45-50/hr; San Jose/Remote; React/TS; enterprise AI; frontend-only |
+
+---
+
+## Confirmed No New Listings (key companies)
+
+Goldman Sachs SA (CLOSED), Two Sigma (CLOSED), Adobe Product Security (CLOSED), MBB Consulting (all closed Summer 2026), SentinelOne (no intern boards), Wiz (no intern boards), Snyk (UK only), ServiceNow UTG (closed), Retool (no roles), all portals.yml companies re-confirmed.
+
+---
+
+## Recommended Next Actions
+
+1. **URGENT:** Apply Airbnb before April 13, 9am PDT → https://careers.airbnb.com/positions/7453837/
+2. **This week:** Apply ThirdLayer Full-Stack (report #352) → https://www.workatastartup.com/jobs/80751
+3. **By April 26:** Submit Anthropic Fellows AI Security → https://job-boards.greenhouse.io/anthropic/jobs/5030244008
+4. **Next scan:** Wait 3-5 days. Most boards re-scanned 2-3x this week. Fresh content likely April 15-16.
+
+---
 
 ## Run Stats
 

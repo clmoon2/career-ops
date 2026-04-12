@@ -2,6 +2,16 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-12 SCAN v43 (Autonomous Agent — broad freshness sweep: 20+ portals/companies) === -->
+<!-- ⭐ PRIORITY: ThirdLayer Full-Stack Intern — same company as Dex AI/ML #344 but different track; Chrome MV3+React+TS = direct proof point ⭐ -->
+- [ ] https://www.ycombinator.com/companies/thirdlayer/jobs/xgLbSux-summer-2026-full-stack-engineer-intern | ThirdLayer (Dex) | Full-Stack Engineer Intern (Summer 2026) | 4.0/5 | ⭐ EVALUATED — $6-10K/mo; SF on-site; YC W25; Chrome MV3+React+TS+Python browser AI copilot; Finch extension exact match; note: same company as Dex AI/ML intern (report #344) — choose track or apply both; report: 352
+<!-- ⚠️ URGENT DEADLINE ALERT ⚠️ -->
+<!-- Airbnb SWE Intern (careers.airbnb.com/positions/7453837/) — DEADLINE TOMORROW April 13, 2026 at 9:00am PDT! Already in pipeline (scan-v32 area). Apply NOW if interested. $49/hr; 12-week; SF + virtual. -->
+<!-- Secondary additions (pipeline only — no full report) -->
+- [ ] https://jobs.ashbyhq.com/tessera-labs/4614d053-2c8f-4317-8cd2-1d1290721b06 | Tessera Labs | Software Engineering Intern, Frontend (Summer 2026) | 3.3/5 | San Jose CA or Remote; $45-50/hr; React/TypeScript/Next.js/Tailwind; enterprise AI automation (SAP/Salesforce/Workday); frontend-only focus less ideal than backend roles
+<!-- Scanned and found nothing new (companies confirmed closed/no intern roles): Goldman Sachs Engineering SA (CLOSED, deadline Feb 28), Two Sigma SWE Intern (CLOSED, deadline April 1), Adobe Product Security Intern R161483 (CLOSED 410), Consulting firms MBB (closed for Summer 2026), SentinelOne (no intern listings on main boards), Wiz (no intern listings on main boards), ServiceNow UTG SWE Intern (confirmed closed), Snyk (UK/Israel only), Retool (no open roles). All portals.yml companies confirmed still no new intern/new-grad roles. -->
+<!-- === END 2026-04-12 SCAN v43 === -->
+
 <!-- === NEW 2026-04-12 SCAN v40 (Autonomous Agent — new company sweep: Sentra, Parspec, Etched, Pluralsight, Motorola, T-Mobile, Continue) === -->
 <!-- ⭐ PRIORITY: Sentra New Grad — $120-220K + 0.3-0.6% equity; a16z+Together; org memory AI; Python/React/LLM/RAG exact match ⭐ -->
 - [ ] https://jobs.ashbyhq.com/sentra/3c9729ca-67b3-4f9f-9c64-5e1e10be1719 | Sentra | Software Engineer - New Grad | 4.2/5 | ⭐ EVALUATED — $120-220K+equity; SF hybrid; a16z seed; Finch RAG/merge arch is direct analog; report: 349
