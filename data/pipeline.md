@@ -2,6 +2,17 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-12 SCAN v38 (Autonomous Agent — April 12 freshness sweep via speedyapply + Actian/BrowserOS/Replit) === -->
+<!-- ⭐⭐ PRIORITY 1: Replit New Grad — $140-180K + equity; AI agents + full-stack TS/React/Python; top match ⭐⭐ -->
+- [ ] https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc | Replit | Software Engineer - New Grad (Summer 2026) | 4.5/5 | ⭐⭐ EVALUATED — $140-180K + equity; Foster City CA hybrid; AI coding agents + full-stack; direct CV match; report: 293
+<!-- ⭐ PRIORITY 2: BrowserOS ML Research Intern — YC S24 agentic browser; Chrome MV3 + TypeScript + browser agents = trifecta ⭐ -->
+- [ ] https://www.ycombinator.com/companies/browseros/jobs/XFrdIN5-ml-research-engineer-intern | BrowserOS | ML Research Engineer Intern | 4.2/5 | ⭐ EVALUATED — $6-10K/mo; SF; open-source agentic browser; Chrome MV3 + TS + AI agents exact match; report: 294
+<!-- Secondary (pipeline additions — no full report) -->
+- [ ] https://jobs.lever.co/actian/9252be3b-ad28-468f-9860-d51bbf99b688 | Actian | DevOps Backstage Intern (Summer 2026) | 3.5/5 | Remote; 12-week starting June 8; Internal Developer Platform on Backstage/Kubernetes; CI/CD + Docker + GitHub Actions alignment; no full report
+- [ ] https://jobs.lever.co/gr0/81a6ff41-681b-4be1-828b-8853288c2608 | GR0 | Applied AI Engineering Intern | ~3.0/5 | Los Angeles; digital marketing agency; 403 on fetch — verify JD before applying
+- [ ] https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Lexington-MA/AI-Data-Analyst-Intern_R0237476 | Booz Allen Hamilton | AI Data Analyst Intern | 2.5/5 | Lexington MA; part-time; Secret clearance required; data analyst vs engineering — low priority
+<!-- === END 2026-04-12 SCAN v38 === -->
+
 <!-- === NEW 2026-04-11 SCAN v35 (Autonomous Agent — Security/AI/Fintech sweep) === -->
 <!-- ⭐⭐ PRIORITY 1: Glean SWE Intern — $57-69/hr, AI search + security tracks, report written ⭐⭐ -->
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4595665005 | Glean | Software Engineer, Intern (Summer 2026) | 4.1/5 | ⭐⭐ EVALUATED — $57-69/hr; Palo Alto/SF hybrid; AI+backend+security tracks; confirm grad Fall 2026+; report: 296
