@@ -1050,3 +1050,39 @@
 - [ ] https://apply.workable.com/huggingface/j/9E5944D267 | Hugging Face | ML Engineer Internship, Gradio — US Remote; Python + ML UI; Gradio framework; (~3.5)
 - [ ] https://apply.workable.com/huggingface/j/E39256D0B1 | Hugging Face | ML Engineer Internship, TRL — US Remote; RLHF + fine-tuning; research-oriented; (~3.5)
 - [ ] https://apply.workable.com/huggingface/j/CF90BFDC06 | Hugging Face | ML Engineer Internship, Quantization — US Remote; model efficiency + compression; specialized; (~3.4)
+
+## scan-v41 — 2026-04-12
+
+<!-- === NEW 2026-04-12 SCAN v41 (Autonomous Agent - Wave 6) === -->
+
+### ⭐ Top Matches (Evaluated — Reports Written)
+- [ ] https://openai.com/careers/software-engineer-internship-co-op-applied-emerging-talent-(summer-2026)/ | OpenAI | Software Engineer Internship (Summer 2026) — SF/Seattle in-person; ~$60/hr; Python/React/AI exact match; EVALUATED 4.5 → report #293
+- [ ] https://jobs.ashbyhq.com/cohere/66c98ca3-334b-4a6a-a27c-5807b3686121 | Cohere | Software Engineer Intern (Spring/Summer 2026) — Remote-flexible (US/Canada); 3-6mo co-op; Flask+React+CI/CD direct match; EVALUATED 4.2 → report #294
+- [ ] https://jobs.ashbyhq.com/harvey/b6509622-5c1e-4a3f-916b-6e56b8fd212f | Harvey | Software Engineering Intern (Summer 2026) — SF; agentic AI/LLM eval; a16z $300M+ raised; EVALUATED 4.1 → report #295
+
+### 🔷 Priority Pending (score est. 3.7-4.0)
+- [ ] https://openai.com/careers/software-engineer-systems-research-internship-applied-emerging-talent-(summer-2026)-san-francisco/ | OpenAI | Software Engineer Systems Research Internship (Summer 2026) — SF only; 13 weeks; research-oriented; Python/ML (~3.9)
+- [ ] https://jobs.ashbyhq.com/cohere/2c669d85-e3d7-43f1-aa43-be33e12ff8a5 | Cohere | Machine Learning Intern/Co-op (Spring/Summer 2026) — Remote-flexible; LLM/NLP focus; multi-model AI pipeline match (~4.0)
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/7640764002 | Databricks | Software Engineering Intern (2026) — SF/remote; Python/distributed systems; AI data platform; strong brand (~3.9)
+- [ ] https://careers.salesforce.com/en/jobs/jr334473/summer-2026-intern-applied-ai-strategy-research/ | Salesforce | Summer 2026 Intern - Applied AI Strategy & Research — SF; Office of CEO; Agentforce + AI strategy; consulting archetype (~3.8)
+- [ ] https://careers.salesforce.com/en/jobs/jr326948/summer-2026-intern-solution-engineer/ | Salesforce | Summer 2026 Intern - Solution Engineer — NYC; SE consulting role; technical advisor to customers (~3.7)
+- [ ] https://careers.snowflake.com/us/en/job/SNCOUSFD140617F54C4CFB86D7F95F3DFEBB75EXTERNALENUS497C8AAF976342A097B86AE60D3DED4A/Solution-Engineer-Intern-Summer-2026 | Snowflake | Solution Engineer Intern (Summer 2026) — REMOTE TX ⭐; Texas location; consulting/SE; cloud data platform (~3.8)
+- [ ] https://careers.snowflake.com/us/en/job/SNCOUS4298E941D1294D7FA965FAA68E6E599EEXTERNALENUS897E1850C5904462B1870516B65B2034/Software-Engineer-Intern-AI-ML-2026 | Snowflake | Software Engineer Intern (AI/ML) 2026 — US; AI/ML focus; cloud data platform (~3.7)
+- [ ] https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer-Intern---Summer-2026_R26636 | CrowdStrike | Software Engineer Intern (Summer 2026) — Redmond WA; cybersecurity leader; security minor match (~3.8)
+- [ ] https://careers.salesforce.com/en/jobs/jr308796/summer-2026-intern-software-engineer/ | Salesforce | Summer 2026 Intern - Software Engineer — SF/Seattle/NYC/Bellevue; Agentforce team; Python/AI focus (~3.8)
+- [ ] https://jobs.ashbyhq.com/notion/5bc8cbb9-4d08-4217-a968-d485d1b39905 | Notion | Software Engineer, AI Intern (Summer 2026) — SF; AI features; React/Next.js stack (~3.8)
+
+### 🔸 Pipeline Pending (score est. 3.3-3.7)
+- [ ] https://job-boards.greenhouse.io/obsidiansecurity/jobs/4788725008 | Obsidian Security | Software Engineer - Intern (Summer 2026) — cybersecurity/identity; security minor match (~3.7)
+- [ ] https://jobs.ashbyhq.com/delinea/3eed48b7-b60c-4c50-adc2-4523337e1592 | Delinea | Software Engineering Intern (Summer 2026) — AI-powered identity security; security + AI match (~3.6)
+- [ ] https://jobs.ashbyhq.com/farsight/096cdc49-06ae-4724-8f46-c58184e98334 | Farsight AI | Software Engineering Intern (Summer 2026) — agentic AI for financial services; small startup (~3.6)
+- [ ] https://jobs.ashbyhq.com/notion/23ac2477-0008-4bed-b1c1-81f90a32e9e6 | Notion | Software Engineer Intern (Summer 2026) — SF; React; good product company (~3.7)
+- [ ] https://careers.salesforce.com/en/jobs/jr313214/summer-2026-intern-ai-research/ | Salesforce | Summer 2026 Intern - AI Research — Palo Alto; AI research lab; Python/ML; research-heavy (~3.5)
+- [ ] https://jobs.ashbyhq.com/cohere/6e850172-a79d-4128-abd2-677731312857 | Cohere | Research Internship (Spring/Summer 2026) — Remote-flexible; research track; less production focus (~3.6)
+- [ ] https://joinbytedance.com/search/7592416621414205701 | ByteDance | Security Software Engineer Project Intern (Security Assurance) 2026 — $45-60/hr; pen test/red team/AI security; NOTE: brand risk (~3.5)
+- [ ] https://jobs.bytedance.com/en/position/7600201731980675333/detail | ByteDance | Security Software Engineer Project Intern (Network Security) 2026 — $45-60/hr; ML for anomaly detection; NOTE: brand risk (~3.4)
+- [ ] https://joinbytedance.com/search/7600176309125466373 | ByteDance | Software Engineer Project Intern (Security Engineering) 2026 — $45-60/hr; security platform engineering; NOTE: brand risk (~3.4)
+- [ ] https://jobs.ashbyhq.com/gigaml/aa903645-854f-4404-9d49-8a96f0dcc2cc | Giga | Software Engineer Intern (Summer 2026) — AI-powered products; small startup; ML focus (~3.5)
+- [ ] https://jobs.ashbyhq.com/vantage/19c9753f-25be-4e76-af53-04717bdcc25b | Vantage | Software Engineering Intern (Summer 2026) — FinOps/cloud cost; Python; less AI focus (~3.0)
+
+<!-- === END 2026-04-12 SCAN v41 === -->

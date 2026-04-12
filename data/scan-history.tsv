@@ -1532,3 +1532,46 @@ https://job-boards.greenhouse.io/cloudflare/jobs/7731593	2026-04-12	scan-v40-gre
 https://job-boards.greenhouse.io/cloudflare/jobs/7731626	2026-04-12	scan-v40-greenhouse	Forward Deployed Engineer	Cloudflare	skipped_title
 https://job-boards.greenhouse.io/cloudflare/jobs/7728103	2026-04-12	scan-v40-greenhouse	Forward Deployed Engineer	Cloudflare	skipped_title
 https://job-boards.greenhouse.io/cloudflare/jobs/7778849	2026-04-12	scan-v40-greenhouse	Forward Deployed Engineer	Cloudflare	skipped_title
+https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	2026-04-12	scan-v41-greenhouse	(no new intern/new-grad roles beyond Fellows)	Anthropic	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs	2026-04-12	scan-v41-greenhouse	(no new roles since Apr 5)	Glean	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/vercel/jobs	2026-04-12	scan-v41-greenhouse	(no new intern roles; all senior full-time)	Vercel	skipped_title
+https://job-boards.greenhouse.io/vercel/jobs/5778418004	2026-04-12	scan-v41-greenhouse	Forward-Deployed Engineer	Vercel	skipped_title
+https://job-boards.greenhouse.io/vercel/jobs/5872425004	2026-04-12	scan-v41-greenhouse	Forward Deployed Engineer, v0	Vercel	skipped_title
+https://boards-api.greenhouse.io/v1/boards/airtable/jobs	2026-04-12	scan-v41-greenhouse	(no intern/new-grad roles)	Airtable	skipped_title
+https://boards-api.greenhouse.io/v1/boards/runpod/jobs	2026-04-12	scan-v41-greenhouse	(no intern roles)	RunPod	skipped_title
+https://jobs.ashbyhq.com/elevenlabs	2026-04-12	scan-v41-ashby	(no intern roles; senior only)	ElevenLabs	skipped_title
+https://jobs.ashbyhq.com/vapi	2026-04-12	scan-v41-ashby	(no intern roles; MTS full-time only)	Vapi	skipped_title
+https://jobs.ashbyhq.com/bland	2026-04-12	scan-v41-ashby	(no intern roles)	Bland AI	skipped_title
+https://jobs.ashbyhq.com/n8n	2026-04-12	scan-v41-ashby	(no intern roles; EU-focused)	n8n	skipped_title
+https://jobs.ashbyhq.com/zapier	2026-04-12	scan-v41-ashby	(no intern roles; senior AI/ML only)	Zapier	skipped_title
+https://jobs.ashbyhq.com/deepgram	2026-04-12	scan-v41-ashby	(no intern roles; senior engineering)	Deepgram	skipped_title
+https://jobs.ashbyhq.com/langchain	2026-04-12	scan-v41-ashby	(no intern roles; Deployed Engineer full-time; Senior only)	LangChain	skipped_title
+https://jobs.ashbyhq.com/pinecone	2026-04-12	scan-v41-ashby	(no intern roles; Senior/Staff only)	Pinecone	skipped_title
+https://jobs.lever.co/palantir	2026-04-12	scan-v41-lever	(all Palantir roles already in history)	Palantir	skipped_dup
+https://jobs.lever.co/wandb	2026-04-12	scan-v41-lever	(no intern roles; all senior full-time)	Weights & Biases	skipped_title
+https://openai.com/careers/software-engineer-internship-co-op-applied-emerging-talent-(summer-2026)/	2026-04-12	scan-v41-websearch	Software Engineer Internship / Co-op Applied Emerging Talent (Summer 2026)	OpenAI	added
+https://openai.com/careers/software-engineer-systems-research-internship-applied-emerging-talent-(summer-2026)-san-francisco/	2026-04-12	scan-v41-websearch	Software Engineer Systems Research Internship Applied Emerging Talent (Summer 2026)	OpenAI	added
+https://careers.salesforce.com/en/jobs/jr308796/summer-2026-intern-software-engineer/	2026-04-12	scan-v41-websearch	Summer 2026 Intern - Software Engineer	Salesforce	added
+https://careers.salesforce.com/en/jobs/jr313214/summer-2026-intern-ai-research/	2026-04-12	scan-v41-websearch	Summer 2026 Intern - AI Research	Salesforce	added
+https://careers.salesforce.com/en/jobs/jr334473/summer-2026-intern-applied-ai-strategy-research/	2026-04-12	scan-v41-websearch	Summer 2026 Intern - Applied AI Strategy & Research	Salesforce	added
+https://careers.salesforce.com/en/jobs/jr326948/summer-2026-intern-solution-engineer/	2026-04-12	scan-v41-websearch	Summer 2026 Intern - Solution Engineer	Salesforce	added
+https://jobs.bytedance.com/en/position/7600201731980675333/detail	2026-04-12	scan-v41-websearch	Security Software Engineer Project Intern (Network Security) - 2026 Start	ByteDance	added
+https://joinbytedance.com/search/7592416621414205701	2026-04-12	scan-v41-websearch	Security Software Engineer Project Intern (Security Assurance) - 2026 Start	ByteDance	added
+https://joinbytedance.com/search/7600176309125466373	2026-04-12	scan-v41-websearch	Software Engineer Project Intern (Security Engineering) - 2026 Start	ByteDance	added
+https://jobs.ashbyhq.com/cohere/2c669d85-e3d7-43f1-aa43-be33e12ff8a5	2026-04-12	scan-v41-ashby	Machine Learning Intern/Co-op (Spring/Summer 2026)	Cohere	added
+https://jobs.ashbyhq.com/cohere/66c98ca3-334b-4a6a-a27c-5807b3686121	2026-04-12	scan-v41-ashby	Software Engineer Intern (Spring/Summer 2026)	Cohere	evaluated
+https://jobs.ashbyhq.com/cohere/6e850172-a79d-4128-abd2-677731312857	2026-04-12	scan-v41-ashby	Research Internship (Spring/Summer 2026)	Cohere	added
+https://jobs.ashbyhq.com/harvey/b6509622-5c1e-4a3f-916b-6e56b8fd212f	2026-04-12	scan-v41-ashby	Software Engineering Intern (Summer 2026)	Harvey	evaluated
+https://jobs.ashbyhq.com/notion/23ac2477-0008-4bed-b1c1-81f90a32e9e6	2026-04-12	scan-v41-ashby	Software Engineer Intern (Summer 2026)	Notion	added
+https://jobs.ashbyhq.com/notion/5bc8cbb9-4d08-4217-a968-d485d1b39905	2026-04-12	scan-v41-ashby	Software Engineer AI Intern (Summer 2026)	Notion	added
+https://jobs.ashbyhq.com/gigaml/aa903645-854f-4404-9d49-8a96f0dcc2cc	2026-04-12	scan-v41-ashby	Software Engineer Intern (Summer 2026)	Giga	added
+https://jobs.ashbyhq.com/farsight/096cdc49-06ae-4724-8f46-c58184e98334	2026-04-12	scan-v41-ashby	Software Engineering Intern (Summer 2026)	Farsight AI	added
+https://jobs.ashbyhq.com/delinea/3eed48b7-b60c-4c50-adc2-4523337e1592	2026-04-12	scan-v41-ashby	Software Engineering Intern (Summer 2026)	Delinea	added
+https://jobs.ashbyhq.com/vantage/19c9753f-25be-4e76-af53-04717bdcc25b	2026-04-12	scan-v41-ashby	Software Engineering Intern (Summer 2026)	Vantage	added
+https://job-boards.greenhouse.io/databricks/jobs/7640764002	2026-04-12	scan-v41-greenhouse	Software Engineering Intern (2026)	Databricks	added
+https://boards.greenhouse.io/databricks/jobs/6865704002	2026-04-12	scan-v41-greenhouse	Software Engineer - New Grad (2026 Start)	Databricks	added
+https://job-boards.greenhouse.io/obsidiansecurity/jobs/4788725008	2026-04-12	scan-v41-greenhouse	Software Engineer - Intern (Summer 2026)	Obsidian Security	added
+https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer-Intern---Summer-2026_R26636	2026-04-12	scan-v41-workday	Software Engineer Intern - Summer 2026	CrowdStrike	added
+https://careers.salesforce.com/en/jobs/jr337175/summer-2026-intern-strategy-change-management/	2026-04-12	scan-v41-websearch	Summer 2026 Intern - Strategy & Change Management	Salesforce	skipped_title
+https://careers.snowflake.com/us/en/job/SNCOUSFD140617F54C4CFB86D7F95F3DFEBB75EXTERNALENUS497C8AAF976342A097B86AE60D3DED4A/Solution-Engineer-Intern-Summer-2026	2026-04-12	scan-v41-websearch	Solution Engineer Intern - Summer 2026	Snowflake	added
+https://careers.snowflake.com/us/en/job/SNCOUS4298E941D1294D7FA965FAA68E6E599EEXTERNALENUS897E1850C5904462B1870516B65B2034/Software-Engineer-Intern-AI-ML-2026	2026-04-12	scan-v41-websearch	Software Engineer Intern (AI/ML) - 2026	Snowflake	added
