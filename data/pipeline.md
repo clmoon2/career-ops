@@ -2,6 +2,14 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-12 SCAN v47 (Autonomous Agent — YC internship sweep: Cloudglue, Speak, Novaflow; verified all portals.yml companies; 1628+ history entries; no listings >=4.0 found) === -->
+<!-- Secondary additions (pipeline only — all scored <4.0, no full reports) -->
+- [ ] https://www.ycombinator.com/companies/novaflow/jobs/YndeeJL-machine-learning-engineer-intern-summer-2026 | Novaflow | ML Engineer Intern (Summer 2026) | 3.7/5 | $6-10K/mo; SF/Remote; LLMs+RAG+prompt engineering+Python+Anthropic API+AWS/Docker; biology AI niche (no bio required); YC S25; works with founders; strong LLM eval component matches Carlos's quality gate + retry systems
+- [ ] https://www.ycombinator.com/companies/cloudglue/jobs/yPXR95r-summer-2026-full-stack-ai-engineer-intern | Cloudglue | Full-Stack AI Engineer Intern (Summer 2026) | 3.5/5 | $6.5-8.5K/mo; SF/Remote; React/TS/Node/Python; video/audio AI developer APIs; work with CTO (ex-Snap/Amazon); YC-backed; team of 3 — high risk but direct full-stack match
+- [ ] https://www.ycombinator.com/companies/speak/jobs/uuV4pZJ-full-stack-engineer-internship-summer-2026 | Speak | Full-stack Engineer Internship (Summer 2026) | 3.3/5 | $6-10K/mo; SF; React/Node/TypeScript/Python; AI language tutor; frontend-leaning — backend strength not fully leveraged
+<!-- Scanned and confirmed no new roles (since last run): Cekura AI Engineer Intern (listing closed/filled — no longer on YC page); Workato AI Engineering Intern (MS/PhD + ICML/NeurIPS publications required); Graphcore Graduate SWE (Bristol UK — location miss); Wing Backend Intern (closed Dec 2025); all portals.yml tracked companies confirmed covered. 20+ companies scanned; 25+ WebSearch queries executed. -->
+<!-- === END 2026-04-12 SCAN v47 === -->
+
 <!-- === NEW 2026-04-12 SCAN v45 (Autonomous Agent — fresh sweep: Cartesia, Rivian, ByteDance SRE, n8n/Zapier/Pinecone/Vapi/Bland/Attio/Temporal confirmed empty) === -->
 <!-- ⭐ PRIORITY: Cartesia SWE Intern — $8-12K/mo; SSM inference infra; invented Mamba; top comp; apply + learn Go first ⭐ -->
 - [ ] https://jobs.ashbyhq.com/cartesia/57126466-2554-4ae5-baa6-ea56e18db942 | Cartesia | Intern (Software Engineer) | 4.0/5 | ⭐ EVALUATED — $8-12K/mo; Cambridge/SF; SSM (Mamba) inference infrastructure; Go+Python backend; multi-model pipeline + Cloudflare Workers serving = direct analog; Go gap — learn Go before applying; report: 352

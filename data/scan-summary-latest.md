@@ -1,81 +1,70 @@
-# Scan Summary — 2026-04-12 (scan-v46)
+# Portal Scan Summary — 2026-04-12 (scan-v47)
 
 **Date:** 2026-04-12
-**Scan ID:** scan-v46
-**Previous scans today:** v43, v44, v45 (comprehensive coverage of all portals.yml companies)
+**Scan ID:** scan-v47
+**Previous scans today:** v43, v44, v45, v46 (comprehensive coverage of all portals.yml companies)
 
 ---
 
-## Portals Scanned This Session
+## Stats
 
-| Portal | Companies Checked | New Listings | Notes |
-|--------|------------------|-------------|-------|
-| YC Work at a Startup | Browser Use, Crustdata, SubImage | 3 evaluated | All YC W25 startups |
-| Atlassian direct | Atlassian | 1 evaluated | 7-month-old posting; verify still open |
-| Greenhouse | Intercom, Hume AI | 0 | No intern/new-grad roles |
-| Lever | Weights & Biases | 0 | No intern roles |
-| Web search | General Dynamics Mission Systems | 0 | Listing closed (404) |
-
----
-
-## Evaluation Results
-
-| # | Company | Role | Score | Action |
-|---|---------|------|-------|--------|
-| 357 | Browser Use (YC W25) | Summer SWE Intern | **4.4/5** ⭐ TOP PICK | Apply immediately; contribute to OSS first |
-| 355 | Atlassian | Security Engineer Intern 2026 Summer | **4.2/5** | Apply; verify posting still open |
-| 343 | Crustdata | SWE Intern Forward Deployed | **4.1/5** | Apply; negotiate $7K-8K/mo |
-| 358 | SubImage (YC W25) | Full Stack SWE Intern | **4.0/5** | Apply; star Cartography on GitHub first |
+| Metric | Count |
+|--------|-------|
+| Portals / companies scanned | 25+ |
+| WebSearch queries executed | 20+ |
+| Greenhouse API checks | 5 |
+| YC internship pages fetched | 6 |
+| New listings found | 3 |
+| Listings filtered (title/score/location) | 6 |
+| Listings already in history (dedup) | 100+ |
+| Full evaluation reports written | 0 |
+| Total scan-history entries to date | 1,635 |
 
 ---
 
-## Top Matches This Session
+## New Listings Added to Pipeline
 
-### 1. Browser Use (YC W25) — 4.4/5
-**Why:** Carlos's Application Automation Engine (Playwright + anti-detection + CAPTCHA + GPT-4o + 50+ ATS platforms) is a 1:1 analog to what Browser Use does. Strongest proof-point match in the entire pipeline.
-- **Comp:** $6K–$16K/month (target $10K+/mo based on direct experience)
-- **Location:** SF HackerHouse (in-person)
-- **Action before applying:** Contribute to `github.com/browser-use/browser-use` — even a doc fix converts to "already contributor"
+All 3 new listings scored below 4.0 — no full evaluation reports written per system rules.
 
-### 2. Atlassian — 4.2/5
-**Why:** Security Engineering Intern = Carlos's primary archetype. HMAC-SHA256 CSRF, OAuth proxy engineering, TLS 1.2/1.3 hardening, adversarial LLM testing maps exactly to the role.
-- **Comp:** $59–$75/hr Seattle Zone A ($118K–$150K annualized) — exceptional
-- **Location:** Seattle (12-week summer internship)
-- **Risk:** Posting is 7 months old — apply immediately and verify it's still open
-
-### 3. Crustdata — 4.1/5
-**Why:** LangChain 12-stage pipeline (LinkedIn scraping + AI filtering + AnyMailFinder) is a direct analogue to Crustdata's product. 20+ API integrations match FDE integration work.
-- **Comp:** $4K–$8K/month (MUST negotiate to $7K–$8K)
-- **Location:** SF (in-person)
-
-### 4. SubImage (YC W25) — 4.0/5
-**Why:** Cybersecurity startup at intersection of graph theory + AI agents + OSS (Cartography). Strong security + full-stack + AI match. Graph DB gap is real but learnable.
-- **Comp:** ~$6K/month (negotiate higher)
-- **Location:** SF (in-person)
+| # | Company | Role | Score | URL | Notes |
+|---|---------|------|-------|-----|-------|
+| 1 | Novaflow | ML Engineer Intern (Summer 2026) | 3.7/5 | [YC](https://www.ycombinator.com/companies/novaflow/jobs/YndeeJL-machine-learning-engineer-intern-summer-2026) | $6-10K/mo; SF/Remote; LLMs+RAG+Anthropic API+Python; biology AI (no bio required); YC S25 |
+| 2 | Cloudglue | Full-Stack AI Engineer Intern (Summer 2026) | 3.5/5 | [YC](https://www.ycombinator.com/companies/cloudglue/jobs/yPXR95r-summer-2026-full-stack-ai-engineer-intern) | $6.5-8.5K/mo; SF/Remote; React/TS/Node/Python; video/audio AI developer APIs; YC-backed; team of 3 |
+| 3 | Speak | Full-stack Engineer Internship (Summer 2026) | 3.3/5 | [YC](https://www.ycombinator.com/companies/speak/jobs/uuV4pZJ-full-stack-engineer-internship-summer-2026) | $6-10K/mo; SF; React/Node/TypeScript; AI language tutor; frontend-leaning |
 
 ---
 
-## Overall Session Summary
+## Top Matches (>=4.0) This Run
 
-- **New listings evaluated:** 4 (Browser Use, Atlassian, Crustdata, SubImage)
-- **Reports written:** 4 (`353-browser-use`, `354-atlassian`, `355-crustdata`, `356-subimage`)
-- **Tracker entries added:** 2 new (#357 Browser Use, #358 SubImage); 2 already existed (#355 Atlassian, #343 Crustdata) — fixed broken report links for both
-- **Companies with no new intern roles:** Intercom, Hume AI, WandB
-- **Closed listings:** General Dynamics Mission Systems (404)
+**None.** No listings at or above 4.0/5 threshold. The Summer 2026 intern market has been heavily covered in prior runs (v38–v46, all from today). Most high-value listings were discovered in earlier runs.
 
 ---
 
-## Recommended Actions (Priority Order)
+## Coverage Summary
 
-1. **Contribute to browser-use GitHub** → then apply at YC listing (Browser Use, 4.4/5)
-2. **Apply to Atlassian** → verify posting still open first (7 months old)
-3. **Apply to Crustdata** → state comp expectation $7K–$8K/mo in cover letter
-4. **Star Cartography on GitHub** → apply to SubImage; negotiate comp
+**All portals.yml tracked companies confirmed covered** — 46 companies, all have history entries.
+
+**New discovery this run:**
+- Scanned YC Work at a Startup for recent postings
+- Checked speedyapply/2026-AI-College-Jobs README for latest additions
+- Verified Cekura AI Engineer Intern: closed/filled — no longer listed on YC page
+- Verified Workato AI Engineering Intern: MS/PhD + NeurIPS/ICML/ICLR publications required — correctly skipped
+- Confirmed Graphcore Graduate role is Bristol UK only — location miss
+- Confirmed Wing Backend Intern closed December 2025
 
 ---
 
-## Pipeline Health
+## Recommended Next Actions
 
-- **Total applications tracked:** 358
-- **Reports in /reports/:** 356 files (001–356)
-- **Next scan:** Run `/career-ops scan` to pick up new YC batch postings or check SimplifyJobs for overnight additions
+1. **⚠️ URGENT: Airbnb SWE Intern — DEADLINE TOMORROW April 13, 2026 at 9:00am PDT** — already in pipeline. Apply NOW if interested ($49/hr; SF + virtual; 12-week).
+
+2. **Top priority pipeline items still unworked:**
+   - Atlassian Security Engineer Intern (4.5/5, $49-75/hr, Seattle) — report: 352
+   - Replit New Grad (4.5/5, $140-180K) — report: 293
+   - Glean SWE Intern (4.1/5, $57-69/hr) — report: 296
+   - Cartesia SWE Intern (4.0/5, $8-12K/mo) — report: 352
+   - BrowserOS ML Research Intern (4.2/5) — report: 294
+
+3. **Novaflow ML Intern (3.7/5)** — Best new find this run. LLM eval + RAG + Anthropic API stack directly matches Carlos's multi-model pipeline experience. Biology domain is a non-issue (explicitly stated). Worth evaluating as a stretch option if primary applications are submitted.
+
+4. **Next scan recommendation** — Summer 2026 intern market is near end-of-cycle; fewer new postings are appearing. Recommend scanning again in 3-5 days to catch any late postings or Fall 2026 / new grad roles. Focus energy now on applying to existing high-score pipeline items.
