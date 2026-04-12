@@ -1,157 +1,106 @@
-# Portal Scan — 2026-04-12 (scan-v43)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Portal Scan — 2026-04-12 (scan-v44)
 
-**Agent:** Autonomous (career-ops scan agent)
+**Agent:** Autonomous scan agent
 **Date:** 2026-04-12
-**Scan scope:** 25+ companies and portals — SWE, Security, AI/ML, Consulting, Finance, Infrastructure
+**Scan ID:** scan-v44
 
 ---
 
-## ⚠️ URGENT DEADLINE ALERT
+## Summary
 
-**Airbnb Software Engineering Intern (Summer 2026)**
-- URL: https://careers.airbnb.com/positions/7453837/
-- **DEADLINE: April 13, 2026 at 9:00am PDT (TOMORROW)**
-- Score: ~3.7/5 | Comp: $49/hr | 12-week | SF + virtual
-- Already in pipeline (added April 8). **Apply before 9am PDT tomorrow.**
-
-**Anthropic Fellows Program — AI Security**
-- URL: https://job-boards.greenhouse.io/anthropic/jobs/5030244008
-- **DEADLINE: April 26, 2026** (2 weeks away)
-- $3,850/week + $15K/month compute | 4-month starting July 20, 2026
-- Cybersecurity minor + HMAC/TLS/OAuth/adversarial LLM testing = exact match. Already evaluated.
+```
+Companies/portals queried:    25+
+New listings added to pipeline: 2
+Filtered (title/scope/score): 8 skipped
+Top matches (score ≥ 4.0):    1 (full report written)
+```
 
 ---
 
-## Scan Statistics
+## Portals Scanned This Run
 
-| Metric | Value |
-|--------|-------|
-| Companies / portals checked | 25+ |
-| Total URLs evaluated | ~50 |
-| New listings found | 2 |
-| Filtered (closed/no intern/wrong title) | ~18 |
-| Duplicates (already in history) | ~30 |
-| Reports written | 1 (ThirdLayer Full-Stack, 4.0/5) |
-| Pipeline additions | 2 new + deadline alerts |
-
----
-
-## Top Match This Scan
-
-### ⭐ ThirdLayer (Dex) — Full-Stack Engineer Intern (Summer 2026)
-**Score: 4.0/5** | **Report: #352** | **Tracker: #354**
-
-- **URL:** https://www.ycombinator.com/companies/thirdlayer/jobs/xgLbSux-summer-2026-full-stack-engineer-intern
-- **Comp:** $6,000 – $10,000/month | **Location:** SF on-site | **YC W25**
-- **Stack:** React, Next.js, TypeScript, Python, SQL; browser extensions + AI agent control
-- Finch Chrome MV3 extension (dual-mode autofill) + Application Automation Engine (50+ ATS platforms) = **direct proof points**
-- **Action:** Apply. Note: same company as Dex AI/ML intern (report #344). Confirm whether both-track applications are welcome.
+| Company | Method | Result |
+|---------|--------|--------|
+| Arize AI | Greenhouse API | No intern roles — senior/PM/sales only |
+| PolyAI | Greenhouse API (EU) | No intern roles — all senior, UK-based |
+| Workato | Greenhouse API | AI Eng Intern requires MS/PhD + publications — skipped |
+| Optiver | WebSearch → Greenhouse | ✅ SWE Intern (Summer 2026, Chicago) — added to pipeline |
+| Atlassian | WebSearch → direct | ✅ Security Engineer Intern, US — EVALUATED 4.5/5 |
+| Proofpoint | Workday | DevOps AI Forge Intern — 3.4/5, below threshold |
+| Dropbox | Greenhouse API | Poland-based intern only — not US |
+| EarnIn | WebSearch | No internship listings — FT senior only |
+| Twilio | WebSearch | No active 2026 US intern listings |
+| Mistral AI | History check | All roles already in scan history |
+| Lindy | History check | All roles already in scan history |
+| Sierra | History check | All roles already in scan history |
+| + 12 more | WebSearch queries | Results already in scan history or filtered |
 
 ---
 
-## Pipeline-Only Additions
+## Top Match — Full Report
 
-| Company | Role | Score | Notes |
-|---------|------|-------|-------|
-| Tessera Labs | Frontend SWE Intern | 3.3/5 | $45-50/hr; San Jose/Remote; React/TS; enterprise AI; frontend-only |
+### ⭐ Atlassian — Security Engineer Intern, 2026 Summer US
+**Score:** 4.5/5 | **Report:** [352](reports/352-atlassian-security-intern-2026-04-12.md)
+**URL:** https://join.atlassian.com/event-12707/jobs/20957
+**Comp:** $49–75/hr | **Location:** Seattle, WA | **Duration:** 12 weeks
+
+**Why strong:** Cybersecurity Minor + production security engineering (HMAC-SHA256 CSRF, OAuth proxy, TLS 1.2/1.3 with ECDSA, CORS/CSP/LaTeX injection prevention, adversarial LLM testing) maps directly to all four stated responsibilities: (1) monitoring/analytics systems to detect compromises, (2) vulnerability automation across products/Marketplace apps, (3) product feature hardening, (4) infrastructure security. $49-75/hr is top-quartile for security internships. Major enterprise brand (JIRA/Confluence/Trello).
+
+**Action:** Apply immediately. Tailor resume to front-load security engineering depth (Cybersec Minor, HMAC/TLS/OAuth, adversarial LLM testing).
 
 ---
 
-## Confirmed No New Listings (key companies)
+## Pipeline Addition
 
-Goldman Sachs SA (CLOSED), Two Sigma (CLOSED), Adobe Product Security (CLOSED), MBB Consulting (all closed Summer 2026), SentinelOne (no intern boards), Wiz (no intern boards), Snyk (UK only), ServiceNow UTG (closed), Retool (no roles), all portals.yml companies re-confirmed.
+### Optiver — Software Engineer Intern (Summer 2026, Chicago)
+**Score:** 3.7/5 | **URL:** https://boards.greenhouse.io/optiverus/jobs/7973726002
+**Comp:** $60–70K annualized + housing + flights | **Location:** Chicago, IL (in-person)
+
+**Why decent:** Quantitative Trading System project (Alpaca, Bloomberg, vectorbt, pandas) is a direct credential for a quant HFT firm. SWE Intern is primary target role. C++/Python required — Carlos has both. Comp is strong with full relocation package.
+
+**Why not higher:** Quant HFT domain is niche; C++ not Carlos's primary language; in-person Chicago required.
+
+**Action:** Worth evaluating further before applying. Consider timeline vs other higher-priority applications.
+
+---
+
+## Skipped (No New Roles or Below Threshold)
+
+| Company | Reason |
+|---------|--------|
+| Arize AI | No intern roles — senior/PM only |
+| PolyAI | No intern roles — all senior, UK-based |
+| Workato AI Eng Intern | Requires MS/PhD + top-venue publications |
+| Proofpoint DevOps AI Forge | 3.4/5 — below threshold; Draper UT; no comp disclosed |
+| Dropbox | Only Poland-based intern (not US) |
+| EarnIn | No internship program found |
+| Twilio | No active 2026 US intern listings |
+
+---
+
+## Today's Combined Scan Coverage (v38–v44)
+
+Today's combined runs covered **80+ companies** across:
+- All portals.yml tracked companies
+- Ashby, Greenhouse, Lever boards (broad queries)
+- Workday (CrowdStrike, Proofpoint, Nvidia, Adobe, Motorola, Pluralsight, T-Mobile, iHeartMedia)
+- YC companies (SimplifyJobs/Summer2026-Internships, speedyapply repos)
+- WebSearch queries across all role categories (SWE, Security, AI/ML, DevOps, Backend, New Grad)
+
+**Pipeline now contains 50+ active listings** ready for evaluation.
+
+---
+
+## ⚠️ URGENT DEADLINE
+
+**Airbnb SWE Intern (careers.airbnb.com/positions/7453837/) — DEADLINE TOMORROW April 13, 2026 at 9:00am PDT!** Already in pipeline. Apply NOW if interested. $49/hr; 12-week; SF + virtual.
 
 ---
 
 ## Recommended Next Actions
 
-1. **URGENT:** Apply Airbnb before April 13, 9am PDT → https://careers.airbnb.com/positions/7453837/
-2. **This week:** Apply ThirdLayer Full-Stack (report #352) → https://www.workatastartup.com/jobs/80751
-3. **By April 26:** Submit Anthropic Fellows AI Security → https://job-boards.greenhouse.io/anthropic/jobs/5030244008
-4. **Next scan:** Wait 3-5 days. Most boards re-scanned 2-3x this week. Fresh content likely April 15-16.
-
----
-
-## Run Stats
-
-| Metric | Count |
-|--------|-------|
-| Companies scanned | 22 |
-| Greenhouse API queries | 8 |
-| Ashby pages scanned | 12 |
-| Lever pages attempted | 3 (403 — fell back to WebSearch) |
-| WebSearch queries | 15+ |
-| External sources checked | SimplifyJobs GitHub, SpeedyApply GitHub |
-| Total listings seen | 180+ |
-| Filtered by title (positive match) | 45 |
-| Duplicates (already in history/pipeline) | 42 |
-| **New listings added to pipeline** | **3** |
-| **Evaluated (score >= 4.0)** | **2 (OpenAI 4.5, Harvey 4.1)** |
-
----
-
-## New Listings Added
-
-| URL | Company | Role | Score | Status |
-|-----|---------|------|-------|--------|
-| [Workday link](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/San-Antonio-TX-Stone-Oak/Software-Engineer-Intern_Req37982-2) | iHeartMedia | Software Engineer Intern | ~2.5 | pipeline pending |
-| [Oracle Cloud link](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/9464) | Fortive | AI / Software Engineering Intern | ~3.0 | pipeline pending |
-| [Greenhouse link](https://job-boards.greenhouse.io/botauto/jobs/5182922008) | Bot Auto | Intern SWE-Operation Platforms | ~2.8 | pipeline pending |
-
----
-
-## Evaluations Completed This Run
-
-### ⭐ OpenAI — Software Engineer Internship (Summer 2026) — **4.5/5**
-- **URL:** https://openai.com/careers/software-engineer-internship-co-op-applied-emerging-talent-(summer-2026)/
-- **Report:** [#350](reports/350-openai-swe-intern-summer-2026-2026-04-12.md)
-- **Tracker:** #353
-- **Location:** SF or Seattle, in-person
-- **Comp:** ~$60/hr
-- **Why top match:** Carlos is already building what OpenAI Applied Engineering ships — 5-provider multi-model pipeline (including GPT-4o), blue/green CI/CD, 602-test suite, full-stack Python/React/TypeScript. Near-perfect stack alignment. Strong recommendation to apply immediately.
-
-### Harvey — Software Engineering Intern (Summer 2026) — **4.1/5**
-- **URL:** https://jobs.ashbyhq.com/harvey/b6509622-5c1e-4a3f-916b-6e56b8fd212f
-- **Report:** [#351](reports/351-harvey-swe-intern-summer-2026-2026-04-12.md)
-- **Tracker:** #354
-- **Location:** SF, in-person
-- **Comp:** ~$60/hr
-- **Why strong match:** Agentic AI for legal professionals — matches Carlos's TidalHack 6-agent AutoGen system and LangChain 12-stage pipeline patterns. Python/TypeScript/React/Tailwind exact stack. a16z-backed, $300M+ raised.
-
----
-
-## Notes on Scan Coverage
-
-- **High dedup rate** (42/45 filtered matches were already known): scans v38-v41 were comprehensive. The pipeline is now well-populated with legitimate leads.
-- **Discovery channels that found new listings:** SimplifyJobs Summer2026 GitHub repo (updated 2026-04-10/11) and SpeedyApply 2026-AI-College-Jobs GitHub repo were the most productive new sources.
-- **Lever 403 errors:** All 3 Lever boards (Palantir, W&B, Mistral) returned 403. Fell back to WebSearch — Palantir/Mistral listings already in history.
-- **Ashby JS-blocked:** All Ashby pages require JavaScript rendering. WebSearch with `site:jobs.ashbyhq.com` is the correct workaround until Playwright is used.
-- **OpenAI/Harvey evaluation correction:** scan-v41 noted these as evaluated with report numbers #293 and #295 — both wrong (taken). Correct report numbers are #350 and #351. Pipeline entries updated.
-
----
-
-## Priority Next Actions
-
-1. **Apply to OpenAI** (4.5/5, report #350) — highest priority. Lead with Finch multi-model pipeline + $0.003/application cost optimization. Apply via jobs.ashbyhq.com/openai.
-2. **Apply to Harvey** (4.1/5, report #351) — high priority. Lead with TidalHack 6-agent AutoGen system. Apply via jobs.ashbyhq.com/harvey/b6509622...
-3. **Evaluate Priority Pending queue** (run `/career-ops pipeline` to process):
-   - Cohere ML Intern (est. ~4.0) — Remote-flexible, LLM focus
-   - Databricks SWE Intern (est. ~3.9) — SF/remote, distributed systems
-   - Snowflake Solution Engineer TX (est. ~3.8) — Remote TX ⭐
-   - CrowdStrike SWE Intern (est. ~3.8) — Security minor match
-   - Salesforce SWE Intern (est. ~3.8) — SF/NYC/Seattle, Agentforce team
-   - Notion AI Intern (est. ~3.8) — SF, React/Next.js
-
----
-
-## Portals Covered This Run
-
-| Portal / Method | Companies |
-|---|---|
-| Greenhouse API (L2) | Anthropic, Arize AI, Hume AI, Intercom, Glean, RunPod, PolyAI, Parloa |
-| Ashby WebSearch | Cohere, ElevenLabs, Deepgram, Vapi, LangChain, Pinecone, Attio, Bland AI |
-| Lever WebSearch | Palantir, Weights & Biases, Mistral AI, Clarity AI |
-| WebSearch (L3) | OpenAI, Salesforce, ByteDance, Databricks, Snowflake, CrowdStrike, Notion |
-| External repos | SimplifyJobs/Summer2026-Internships, speedyapply/2026-AI-College-Jobs |
-| Direct company | iHeartMedia (Workday), Fortive (Oracle Cloud), Bot Auto (Greenhouse) |
+1. **⭐ Apply to Atlassian Security Intern immediately** — 4.5/5, top security match, $49-75/hr
+2. **⚠️ Apply to Airbnb SWE Intern TODAY** — deadline tomorrow April 13 at 9am PDT
+3. **Evaluate Optiver SWE Intern** (3.7/5) — quant trading angle is real; decide if Chicago fits
+4. Run `/career-ops pipeline` to evaluate top-scored pending listings
+5. Run `node merge-tracker.mjs` to sync tracker additions

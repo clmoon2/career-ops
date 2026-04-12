@@ -2,6 +2,14 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-12 SCAN v44 (Autonomous Agent — remaining portals sweep: Arize AI, PolyAI, Workato, Optiver, Atlassian + fresh WebSearch queries: security/DevOps/ML/backend internships) === -->
+<!-- ⭐ PRIORITY: Atlassian Security Engineer Intern — $49-75/hr; Seattle; Cybersec Minor+HMAC/TLS/OAuth exact match across all 4 JD areas; top security pick ⭐ -->
+- [ ] https://join.atlassian.com/event-12707/jobs/20957 | Atlassian | Security Engineer Intern, 2026 Summer US | 4.5/5 | ⭐ EVALUATED — $49-75/hr; Seattle hybrid 12wk; Cybersec Minor+HMAC/TLS/OAuth proxy/adversarial LLM map to all 4 stated responsibilities; top-quartile comp; apply immediately; report: 352
+<!-- Secondary additions (pipeline only — no full report) -->
+- [ ] https://boards.greenhouse.io/optiverus/jobs/7973726002 | Optiver | Software Engineer Intern (Summer 2026) | 3.7/5 | Chicago in-person; $60-70K annualized+housing+flights; quant HFT firm; C++/Python required; quant trading system project (Alpaca/Bloomberg/vectorbt/pandas) = relevant background; decent but niche — evaluate before applying
+<!-- Scanned and found no new intern/new-grad roles: Arize AI (senior/PM/sales only — no internships), PolyAI (all senior + UK-based), Workato AI Eng intern (MS/PhD + publications required), Dropbox (Poland-based intern only — not US), EarnIn (no internship listings — FT senior only), Twilio (no active 2026 US listings found). Proofpoint DevOps AI Forge R13844 scored 3.4/5 — below threshold; Draper UT location; Terraform/K8s gap; no comp listed. -->
+<!-- === END 2026-04-12 SCAN v44 === -->
+
 <!-- === NEW 2026-04-12 SCAN v43 (Autonomous Agent — broad freshness sweep: 20+ portals/companies) === -->
 <!-- ⭐ PRIORITY: ThirdLayer Full-Stack Intern — same company as Dex AI/ML #344 but different track; Chrome MV3+React+TS = direct proof point ⭐ -->
 - [ ] https://www.ycombinator.com/companies/thirdlayer/jobs/xgLbSux-summer-2026-full-stack-engineer-intern | ThirdLayer (Dex) | Full-Stack Engineer Intern (Summer 2026) | 4.0/5 | ⭐ EVALUATED — $6-10K/mo; SF on-site; YC W25; Chrome MV3+React+TS+Python browser AI copilot; Finch extension exact match; note: same company as Dex AI/ML intern (report #344) — choose track or apply both; report: 352
