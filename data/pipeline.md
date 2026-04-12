@@ -1056,9 +1056,9 @@
 <!-- === NEW 2026-04-12 SCAN v41 (Autonomous Agent - Wave 6) === -->
 
 ### ⭐ Top Matches (Evaluated — Reports Written)
-- [ ] https://openai.com/careers/software-engineer-internship-co-op-applied-emerging-talent-(summer-2026)/ | OpenAI | Software Engineer Internship (Summer 2026) — SF/Seattle in-person; ~$60/hr; Python/React/AI exact match; EVALUATED 4.5 → report #293
+- [x] https://openai.com/careers/software-engineer-internship-co-op-applied-emerging-talent-(summer-2026)/ | OpenAI | Software Engineer Internship (Summer 2026) — SF/Seattle in-person; ~$60/hr; Python/React/AI exact match; EVALUATED 4.5 → report #350
 - [ ] https://jobs.ashbyhq.com/cohere/66c98ca3-334b-4a6a-a27c-5807b3686121 | Cohere | Software Engineer Intern (Spring/Summer 2026) — Remote-flexible (US/Canada); 3-6mo co-op; Flask+React+CI/CD direct match; EVALUATED 4.2 → report #294
-- [ ] https://jobs.ashbyhq.com/harvey/b6509622-5c1e-4a3f-916b-6e56b8fd212f | Harvey | Software Engineering Intern (Summer 2026) — SF; agentic AI/LLM eval; a16z $300M+ raised; EVALUATED 4.1 → report #295
+- [x] https://jobs.ashbyhq.com/harvey/b6509622-5c1e-4a3f-916b-6e56b8fd212f | Harvey | Software Engineering Intern (Summer 2026) — SF; agentic AI/LLM eval; a16z $300M+ raised; EVALUATED 4.1 → report #351
 
 ### 🔷 Priority Pending (score est. 3.7-4.0)
 - [ ] https://openai.com/careers/software-engineer-systems-research-internship-applied-emerging-talent-(summer-2026)-san-francisco/ | OpenAI | Software Engineer Systems Research Internship (Summer 2026) — SF only; 13 weeks; research-oriented; Python/ML (~3.9)
@@ -1086,3 +1086,12 @@
 - [ ] https://jobs.ashbyhq.com/vantage/19c9753f-25be-4e76-af53-04717bdcc25b | Vantage | Software Engineering Intern (Summer 2026) — FinOps/cloud cost; Python; less AI focus (~3.0)
 
 <!-- === END 2026-04-12 SCAN v41 === -->
+
+<!-- === NEW 2026-04-12 SCAN v42 === -->
+
+### 🟡 Pipeline Pending (score est. 2.5-3.0) — scan-v42
+- [ ] https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/San-Antonio-TX-Stone-Oak/Software-Engineer-Intern_Req37982-2 | iHeartMedia | Software Engineer Intern — San Antonio TX; media tech; Java/Python mix; (~2.5)
+- [ ] https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/9464 | Fortive | AI / Software Engineering Intern — industrial tech; AI/Python; enterprise IoT platform; (~3.0)
+- [ ] https://job-boards.greenhouse.io/botauto/jobs/5182922008 | Bot Auto | Intern Software Engineer-Operation Platforms — autonomous vehicles; operations platform; Python/backend; (~2.8)
+
+<!-- === END 2026-04-12 SCAN v42 === -->

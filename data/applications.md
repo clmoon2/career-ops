@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 353 | 2026-04-12 | OpenAI | Software Engineer Internship (Summer 2026) | 4.5/5 | Evaluada | ❌ | [353](reports/350-openai-swe-intern-summer-2026-2026-04-12.md) | SF/Seattle in-person; ~$60/hr; multi-model pipeline exact match; 5-provider AI incl GPT-4o; top pick |
 | 352 | 2026-04-12 | Sentra | Software Engineer New Grad | 4.2/5 | Evaluada | ❌ | [349](reports/349-sentra-swe-new-grad-2026-04-12.md) | a16z+TogetherFund seed; 20K-220K+equity; org memory AI; Finch RAG/merge arch is direct analog; SF hybrid; apply |
 | 351 | 2026-04-11 | Apple | Information Security Internship | 4.0/5 | Evaluada | ❌ | [298](reports/298-apple-infosec-intern-2026-04-11.md) | Detection Eng or SWE track; cybersecurity minor + prod security impl + carlosOS systems depth = strong |
 | 348 | 2026-04-11 | NVIDIA | Solutions Architect – New College Graduate 2026 | 4.5/5 | Evaluada | ❌ | [348](reports/348-nvidia-solutions-architect-newgrad-2026-04-11.md) | 18-month SA rotation; $108-196K; Santa Clara CA; confirm 2026 graduation; top match scan-v34 |
@@ -115,7 +116,7 @@
 | 144 | 2026-04-05 | Deepgram | Site Reliability Engineer - AI & ML Infrastructure | 1.5/5 | Evaluada | ❌ | [109](reports/109-deepgram-sre-2026-04-05.md) | 5+ yrs SRE, expert K8s/Terraform/Slurm -- far outside profile; skip |
 | 120 | 2026-04-05 | Vercel | Solutions Architect | 2.0/5 | Evaluada | ❌ | [039](reports/039-vercel-2026-04-05.md) | Pre-sales/consulting track; needs customer-facing tech experience |
 | 121 | 2026-04-05 | Benchling | Software Engineer, New Grad (2026) | 4.0/5 | Evaluada | ❌ | [077](reports/077-benchling-2026-04-05.md) | Strong full-stack match, React-heavy, $144K+equity, SF hybrid; biotech domain but eng-focused |
-| 122 | 2026-04-05 | Harvey | Software Engineer, New Grad (2026) | 3.5/5 | Evaluada | ❌ | [078](reports/078-harvey-2026-04-05.md) | AI-native legal tech, top comp (~$190K+equity), but listing appears closed |
+| 122 | 2026-04-12 | Harvey | Software Engineering Intern (Summer 2026) | 4.1/5 | Evaluada | ❌ | [354](reports/351-harvey-swe-intern-summer-2026-2026-04-12.md) | Re-eval 2026-04-12 (3.5→4.1). SF in-person; agentic AI/LLM; a16z $300M+; React/Python/TS; TidalHack multi-agent match |
 | 123 | 2026-04-05 | Quora | SWE New Grad - Data Infrastructure (Remote) | 3.0/5 | Evaluada | ❌ | [079](reports/079-quora-data-infra-2026-04-05.md) | Listing appears closed; data infra specialization doesn't match app-level experience |
 | 124 | 2026-04-05 | Quora | AI Engineer New Grad - Poe (Remote) | 4.5/5 | Evaluada | ❌ | [080](reports/080-quora-poe-ai-2026-04-05.md) | Best match in batch -- RAG/prompt eng/LLM orchestration maps directly to Finch; remote; $107-153K+equity |
 | 125 | 2026-04-05 | Quora | ML Engineer New Grad - Ads (Remote) | 2.5/5 | Evaluada | ❌ | [081](reports/081-quora-ml-ads-2026-04-05.md) | Listing appears closed; ads ML is specialized domain mismatch, skip |

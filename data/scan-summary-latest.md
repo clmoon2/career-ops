@@ -1,114 +1,85 @@
-# Portal Scan Summary — 2026-04-12 (scan-v41)
+# Portal Scan — 2026-04-12 (scan-v42)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Run:** Autonomous Agent Wave 6 — scan-v41
-**Date:** 2026-04-12
-**Previous scans today:** v38, v39, v40 (this is the 4th scan of the day)
-
----
-
-## Stats
+## Run Stats
 
 | Metric | Count |
 |--------|-------|
-| Companies checked | 28 |
-| Search queries executed | 12 |
-| Total URLs discovered | 46 |
-| Filtered (no intern/new-grad roles) | 19 |
-| Duplicates (already in history) | 3 |
-| New listings added to pipeline | 24 |
-| Evaluated (reports written) | 3 |
+| Companies scanned | 22 |
+| Greenhouse API queries | 8 |
+| Ashby pages scanned | 12 |
+| Lever pages attempted | 3 (403 — fell back to WebSearch) |
+| WebSearch queries | 15+ |
+| External sources checked | SimplifyJobs GitHub, SpeedyApply GitHub |
+| Total listings seen | 180+ |
+| Filtered by title (positive match) | 45 |
+| Duplicates (already in history/pipeline) | 42 |
+| **New listings added to pipeline** | **3** |
+| **Evaluated (score >= 4.0)** | **2 (OpenAI 4.5, Harvey 4.1)** |
 
 ---
 
-## Companies Scanned
+## New Listings Added
 
-**Greenhouse API:** Anthropic, Glean, Vercel, Airtable, RunPod, Databricks, Obsidian Security
-**Ashby:** ElevenLabs, Vapi, Bland AI, n8n, Zapier, Deepgram, LangChain, Pinecone, Cohere, Harvey, Notion, Giga, Farsight AI, Delinea, Vantage
-**Lever (WebSearch):** Palantir (all skipped_dup), Weights & Biases (no interns)
-**WebSearch:** OpenAI, Salesforce, ByteDance, Snowflake, CrowdStrike
-
-**Skipped (no relevant openings):** ElevenLabs, Vapi, Bland AI, n8n, Zapier, Deepgram, LangChain, Pinecone, Airtable, RunPod, Weights & Biases
-
----
-
-## New Listings Added to Pipeline (24)
-
-### ⭐ Evaluated — Reports Written
-
-| Score | Company | Role | Report |
-|-------|---------|------|--------|
-| 4.5/5 | **OpenAI** | Software Engineer Internship (Summer 2026) | [#293](reports/293-openai-swe-intern-2026-04-12.md) |
-| 4.2/5 | **Cohere** | Software Engineer Intern (Spring/Summer 2026) | [#294](reports/294-cohere-swe-intern-2026-04-12.md) |
-| 4.1/5 | **Harvey** | Software Engineering Intern (Summer 2026) | [#295](reports/295-harvey-swe-intern-2026-04-12.md) |
-
-### 🔷 High Priority (Pending Evaluation)
-
-| Est. Score | Company | Role | Notes |
-|------------|---------|------|-------|
-| ~4.0 | Cohere | Machine Learning Intern/Co-op (Spring/Summer 2026) | Remote-flexible; LLM/NLP focus |
-| ~3.9 | OpenAI | Software Engineer Systems Research Internship | SF only; research track |
-| ~3.9 | Databricks | Software Engineering Intern (2026) | SF; Python/distributed systems; AI platform |
-| ~3.8 | Salesforce | Summer 2026 Intern - Software Engineer | SF/Seattle/NYC; Agentforce team |
-| ~3.8 | Salesforce | Summer 2026 Intern - Applied AI Strategy & Research | SF; Office of CEO; AI/consulting |
-| ~3.8 | Snowflake | Solution Engineer Intern (Remote, TX) ⭐ | **Remote from Texas**; SE/consulting |
-| ~3.8 | CrowdStrike | Software Engineer Intern (Summer 2026) | Redmond WA; cybersecurity leader |
-| ~3.8 | Notion | Software Engineer, AI Intern (Summer 2026) | SF; React/Next.js + AI features |
-| ~3.7 | Salesforce | Summer 2026 Intern - Solution Engineer | NYC; SE consulting |
-| ~3.7 | Snowflake | Software Engineer Intern (AI/ML) 2026 | US; AI/ML focus |
-| ~3.7 | Obsidian Security | Software Engineer - Intern (Summer 2026) | Identity security; security minor |
-| ~3.7 | Notion | Software Engineer Intern (Summer 2026) | SF; React; product company |
-| ~3.6 | Delinea | Software Engineering Intern (Summer 2026) | AI identity security |
-| ~3.6 | Farsight AI | Software Engineering Intern (Summer 2026) | Agentic AI + finance |
-| ~3.6 | Cohere | Research Internship (Spring/Summer 2026) | Remote; research track |
-| ~3.5 | Salesforce | Summer 2026 Intern - AI Research | Palo Alto; research-heavy |
-| ~3.5 | ByteDance | Security SWE Intern (Security Assurance) | $45-60/hr; brand risk noted |
-| ~3.5 | Giga | Software Engineer Intern (Summer 2026) | AI products; small startup |
-| ~3.4 | ByteDance | Security SWE Intern (Network Security) | $45-60/hr; brand risk noted |
-| ~3.4 | ByteDance | SWE Intern (Security Engineering) | $45-60/hr; brand risk noted |
-| ~3.0 | Vantage | Software Engineering Intern (Summer 2026) | FinOps; less AI focus |
+| URL | Company | Role | Score | Status |
+|-----|---------|------|-------|--------|
+| [Workday link](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/San-Antonio-TX-Stone-Oak/Software-Engineer-Intern_Req37982-2) | iHeartMedia | Software Engineer Intern | ~2.5 | pipeline pending |
+| [Oracle Cloud link](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/9464) | Fortive | AI / Software Engineering Intern | ~3.0 | pipeline pending |
+| [Greenhouse link](https://job-boards.greenhouse.io/botauto/jobs/5182922008) | Bot Auto | Intern SWE-Operation Platforms | ~2.8 | pipeline pending |
 
 ---
 
-## Top Matches This Scan — Analysis
+## Evaluations Completed This Run
 
-### 1. OpenAI SWE Intern (4.5/5) — APPLY IMMEDIATELY
-The single highest-priority role found in this scan. ~$60/hr (~$124.8K annualized), in-person SF/Seattle, Python/React/AI exact match. Carlos's Finch production system is the perfect portfolio piece. The React 19 SPA + Python backend + multi-model AI pipeline = exactly what OpenAI's Applied Engineering team wants. **Only blocker: relocation to SF/Seattle.**
+### ⭐ OpenAI — Software Engineer Internship (Summer 2026) — **4.5/5**
+- **URL:** https://openai.com/careers/software-engineer-internship-co-op-applied-emerging-talent-(summer-2026)/
+- **Report:** [#350](reports/350-openai-swe-intern-summer-2026-2026-04-12.md)
+- **Tracker:** #353
+- **Location:** SF or Seattle, in-person
+- **Comp:** ~$60/hr
+- **Why top match:** Carlos is already building what OpenAI Applied Engineering ships — 5-provider multi-model pipeline (including GPT-4o), blue/green CI/CD, 602-test suite, full-stack Python/React/TypeScript. Near-perfect stack alignment. Strong recommendation to apply immediately.
 
-### 2. Cohere SWE Intern (4.2/5) — APPLY
-Remote-flexible (US) at a frontier AI lab. 3-6 month co-op style. Cohere's JD reads like a Finch retrospective — Flask backend, React frontend, data pipelines, CI/CD tooling, scalable ML infrastructure. **No relocation needed from College Station.**
-
-### 3. Harvey SWE Intern (4.1/5) — APPLY
-Agentic AI for legal. a16z + OpenAI-backed, $3B+ valuation. The "experiment with and evaluate cutting-edge LLMs" requirement maps directly to Carlos's Adversarial LLM Testing project and multi-agent pipeline at TidalHack. **Best for demonstrating agentic AI depth.**
-
-### Special mention: Snowflake Solution Engineer Intern (Remote, TX)
-Listed as remote in Texas — Carlos could do this from College Station without relocating. Consulting/SE role aligns with the Technology Consulting archetype. Worth a closer look.
-
----
-
-## Notable Skips This Scan
-
-- **ElevenLabs, Vapi, Bland AI** — Hot voice AI companies but zero intern programs; all senior full-time
-- **LangChain** — Has "Deployed Engineer" roles but all full-time; no interns
-- **Weights & Biases** — All senior/staff roles; no intern program visible
-- **n8n, Zapier** — No intern roles; senior engineering only
+### Harvey — Software Engineering Intern (Summer 2026) — **4.1/5**
+- **URL:** https://jobs.ashbyhq.com/harvey/b6509622-5c1e-4a3f-916b-6e56b8fd212f
+- **Report:** [#351](reports/351-harvey-swe-intern-summer-2026-2026-04-12.md)
+- **Tracker:** #354
+- **Location:** SF, in-person
+- **Comp:** ~$60/hr
+- **Why strong match:** Agentic AI for legal professionals — matches Carlos's TidalHack 6-agent AutoGen system and LangChain 12-stage pipeline patterns. Python/TypeScript/React/Tailwind exact stack. a16z-backed, $300M+ raised.
 
 ---
 
-## Recommended Next Actions
+## Notes on Scan Coverage
 
-1. **Apply to OpenAI today** — confirm SF relocation willingness
-2. **Apply to Cohere** — confirm term length (spring vs summer vs full 6-month)
-3. **Apply to Harvey** — write cover letter leading with adversarial LLM testing
-4. **Evaluate Cohere ML Intern** — strong match, run `/career-ops oferta` on it
-5. **Evaluate Snowflake SE Intern** — unique remote-TX location; run `/career-ops oferta`
-6. **Run `/career-ops pipeline`** to process the 21 pending listings in this scan batch
-
----
-
-## Cumulative Pipeline Status (2026-04-12)
-
-Four scan runs today (v38-v41) have added significant volume. Recommend a focused `/career-ops pipeline` session to batch-process the priority queue before applications expire.
+- **High dedup rate** (42/45 filtered matches were already known): scans v38-v41 were comprehensive. The pipeline is now well-populated with legitimate leads.
+- **Discovery channels that found new listings:** SimplifyJobs Summer2026 GitHub repo (updated 2026-04-10/11) and SpeedyApply 2026-AI-College-Jobs GitHub repo were the most productive new sources.
+- **Lever 403 errors:** All 3 Lever boards (Palantir, W&B, Mistral) returned 403. Fell back to WebSearch — Palantir/Mistral listings already in history.
+- **Ashby JS-blocked:** All Ashby pages require JavaScript rendering. WebSearch with `site:jobs.ashbyhq.com` is the correct workaround until Playwright is used.
+- **OpenAI/Harvey evaluation correction:** scan-v41 noted these as evaluated with report numbers #293 and #295 — both wrong (taken). Correct report numbers are #350 and #351. Pipeline entries updated.
 
 ---
 
-*Generated by career-ops scan-v41 autonomous agent*
+## Priority Next Actions
+
+1. **Apply to OpenAI** (4.5/5, report #350) — highest priority. Lead with Finch multi-model pipeline + $0.003/application cost optimization. Apply via jobs.ashbyhq.com/openai.
+2. **Apply to Harvey** (4.1/5, report #351) — high priority. Lead with TidalHack 6-agent AutoGen system. Apply via jobs.ashbyhq.com/harvey/b6509622...
+3. **Evaluate Priority Pending queue** (run `/career-ops pipeline` to process):
+   - Cohere ML Intern (est. ~4.0) — Remote-flexible, LLM focus
+   - Databricks SWE Intern (est. ~3.9) — SF/remote, distributed systems
+   - Snowflake Solution Engineer TX (est. ~3.8) — Remote TX ⭐
+   - CrowdStrike SWE Intern (est. ~3.8) — Security minor match
+   - Salesforce SWE Intern (est. ~3.8) — SF/NYC/Seattle, Agentforce team
+   - Notion AI Intern (est. ~3.8) — SF, React/Next.js
+
+---
+
+## Portals Covered This Run
+
+| Portal / Method | Companies |
+|---|---|
+| Greenhouse API (L2) | Anthropic, Arize AI, Hume AI, Intercom, Glean, RunPod, PolyAI, Parloa |
+| Ashby WebSearch | Cohere, ElevenLabs, Deepgram, Vapi, LangChain, Pinecone, Attio, Bland AI |
+| Lever WebSearch | Palantir, Weights & Biases, Mistral AI, Clarity AI |
+| WebSearch (L3) | OpenAI, Salesforce, ByteDance, Databricks, Snowflake, CrowdStrike, Notion |
+| External repos | SimplifyJobs/Summer2026-Internships, speedyapply/2026-AI-College-Jobs |
+| Direct company | iHeartMedia (Workday), Fortive (Oracle Cloud), Bot Auto (Greenhouse) |
