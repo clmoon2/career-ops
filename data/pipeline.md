@@ -2,6 +2,13 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-12 SCAN v47 (Autonomous Agent — discovery sweep: Parloa, Ada, AviaryAI, Ember, Mistral, Cognition, Cyble, 30+ companies via WebSearch/YC board) === -->
+<!-- No listings scored ≥4.0. Two new YC companies added to pipeline for awareness. -->
+- [ ] https://www.ycombinator.com/companies/ember/jobs/OTB0qby-full-stack-engineering-intern-summer-2026 | Ember | Full Stack Engineering Intern (Summer 2026) | 3.5/5 | SF; $6K-10K/mo; YC; AI healthcare operations (revenue cycle automation); TypeScript+React+Node.js+Python exact stack match; LLM integration; domain = healthcare back-office (not primary target); good comp floor; consider if pipeline is light
+- [ ] https://www.ycombinator.com/companies/aviaryai/jobs/K8Ciyah-full-stack-engineer-intern-summer-2026 | AviaryAI | Full Stack Engineer Intern (Summer 2026) | 3.4/5 | NY or Chicago; $5K-8K/mo; YC S22; AI for financial institutions (voice agents + dashboards); TypeScript+React+Python; NOT working on core AI/voice layer; regulated industry domain; decent stack match but below comp threshold; skip unless NYC preferred
+<!-- Scanned and found no new intern roles: Parloa (all senior FTE, EU-based), Ada (all senior FTE), Cognition (no intern program — Devin AI), Cyble (India-based — not US), Netflix (no active 2026 intern listings), Stripe/Microsoft/Figma/Lyft/Duolingo/Replit/Lambda/Sigma/1Password/Pendo/Ironclad/Ramp/LaunchDarkly/Together-AI/DV-Trading-DevOps/GoLinks/Brain-Co/Mistral-FDE/Zettabyte: all already in history. -->
+<!-- === END 2026-04-12 SCAN v47 === -->
+
 <!-- === NEW 2026-04-12 SCAN v45 (Autonomous Agent — fresh sweep: Cartesia, Rivian, ByteDance SRE, n8n/Zapier/Pinecone/Vapi/Bland/Attio/Temporal confirmed empty) === -->
 <!-- ⭐ PRIORITY: Cartesia SWE Intern — $8-12K/mo; SSM inference infra; invented Mamba; top comp; apply + learn Go first ⭐ -->
 - [ ] https://jobs.ashbyhq.com/cartesia/57126466-2554-4ae5-baa6-ea56e18db942 | Cartesia | Intern (Software Engineer) | 4.0/5 | ⭐ EVALUATED — $8-12K/mo; Cambridge/SF; SSM (Mamba) inference infrastructure; Go+Python backend; multi-model pipeline + Cloudflare Workers serving = direct analog; Go gap — learn Go before applying; report: 352
