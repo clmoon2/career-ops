@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 356 | 2026-04-12 | Cartesia | Intern (Software Engineer) | 4.0/5 | Evaluada | ❌ | [356](reports/352-cartesia-swe-intern-2026-04-12.md) | $8-12K/mo; Cambridge/SF; SSM inference infra; Go gap noted; exceptional comp — apply + learn Go first |
 | 355 | 2026-04-12 | Atlassian | Security Engineer Intern, 2026 Summer US | 4.5/5 | Evaluada | ❌ | [355](reports/352-atlassian-security-intern-2026-04-12.md) | Seattle 12wk $49-75/hr; Cybersec Minor+HMAC/TLS/OAuth exact match; top security internship — apply immediately |
 | 354 | 2026-04-12 | ThirdLayer (Dex) | Full-Stack Engineer Intern (Summer 2026) | 4.0/5 | Evaluada | ❌ | [352](reports/352-thirdlayer-fullstack-intern-2026-04-12.md) | YC W25; $6-10K/mo; SF on-site; Chrome MV3+React+TypeScript+Python browser AI copilot; same company as Dex AI/ML intern (#344); apply to one or both |
 | 353 | 2026-04-12 | OpenAI | Software Engineer Internship (Summer 2026) | 4.5/5 | Evaluada | ❌ | [353](reports/350-openai-swe-intern-summer-2026-2026-04-12.md) | SF/Seattle in-person; ~$60/hr; multi-model pipeline exact match; 5-provider AI incl GPT-4o; top pick |

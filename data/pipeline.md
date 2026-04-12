@@ -2,6 +2,17 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-12 SCAN v45 (Autonomous Agent — fresh sweep: Cartesia, Rivian, ByteDance SRE, n8n/Zapier/Pinecone/Vapi/Bland/Attio/Temporal confirmed empty) === -->
+<!-- ⭐ PRIORITY: Cartesia SWE Intern — $8-12K/mo; SSM inference infra; invented Mamba; top comp; apply + learn Go first ⭐ -->
+- [ ] https://jobs.ashbyhq.com/cartesia/57126466-2554-4ae5-baa6-ea56e18db942 | Cartesia | Intern (Software Engineer) | 4.0/5 | ⭐ EVALUATED — $8-12K/mo; Cambridge/SF; SSM (Mamba) inference infrastructure; Go+Python backend; multi-model pipeline + Cloudflare Workers serving = direct analog; Go gap — learn Go before applying; report: 352
+<!-- Secondary additions (pipeline only — no full report) -->
+- [ ] https://careers.rivian.com/careers-home/jobs/27719 | Rivian | Cybersecurity Summer 2026 Internships (bucket) | 3.5/5 | Palo Alto $33-51/hr, Irvine $26-45/hr; Cybersecurity Automation/Engineering/Risk teams; Python+networking+cloud/app security; bucket app — verify Palo Alto placement; cybersec minor aligns; domain gap (automotive)
+- [ ] https://joinbytedance.com/search/7535646140345272584 | ByteDance | SRE Intern (Data Infrastructure) - Summer 2026 | 3.2/5 | Seattle; Python+Linux+K8s+distributed systems; DevOps/SRE alignment; ⚠️ Chinese parent company brand concern (noted in portals.yml)
+- [ ] https://joinbytedance.com/search/7531963784211106055 | ByteDance | SRE Intern (Video Infrastructure) - 2026 | 3.1/5 | ⚠️ same brand concern; video infra = further from core targets
+- [ ] https://joinbytedance.com/search/7537845175629662472 | ByteDance | SRE Intern (Traffic Platform) - Summer 2026 | 3.1/5 | ⚠️ same brand concern; traffic platform = interesting infra but niche
+<!-- Scanned and found no new intern/new-grad roles: n8n (all senior/EU), Zapier (all senior FTE), Pinecone (all senior), Bland AI (all senior/FTE), Vapi (all senior FTE), Attio (EU/senior only), Temporal (empty board), Ada (404 API), Factorial (404 API), TravelPerk (JS-blocked). All other portals.yml companies confirmed no new listings since last scan. -->
+<!-- === END 2026-04-12 SCAN v45 === -->
+
 <!-- === NEW 2026-04-12 SCAN v44 (Autonomous Agent — remaining portals sweep: Arize AI, PolyAI, Workato, Optiver, Atlassian + fresh WebSearch queries: security/DevOps/ML/backend internships) === -->
 <!-- ⭐ PRIORITY: Atlassian Security Engineer Intern — $49-75/hr; Seattle; Cybersec Minor+HMAC/TLS/OAuth exact match across all 4 JD areas; top security pick ⭐ -->
 - [ ] https://join.atlassian.com/event-12707/jobs/20957 | Atlassian | Security Engineer Intern, 2026 Summer US | 4.5/5 | ⭐ EVALUATED — $49-75/hr; Seattle hybrid 12wk; Cybersec Minor+HMAC/TLS/OAuth proxy/adversarial LLM map to all 4 stated responsibilities; top-quartile comp; apply immediately; report: 352
