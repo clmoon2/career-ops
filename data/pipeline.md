@@ -1124,3 +1124,13 @@
 - [ ] https://job-boards.greenhouse.io/botauto/jobs/5182922008 | Bot Auto | Intern Software Engineer-Operation Platforms — autonomous vehicles; operations platform; Python/backend; (~2.8)
 
 <!-- === END 2026-04-12 SCAN v42 === -->
+
+<!-- === NEW 2026-04-12 SCAN v46 === -->
+
+### ✅ Evaluated (score ≥ 4.0) — scan-v46
+- [x] https://www.ycombinator.com/companies/browser-use/jobs/JwGWpEP-summer-software-engineering-intern-now-and-summer-2026 | Browser Use (YC W25) | Summer SWE Intern — AI browser automation; 50K GitHub stars; $6K-16K/mo SF; App Automation Engine = perfect proof; **4.4/5** → report #353
+- [x] https://join.atlassian.com/event-12707/jobs/20957 | Atlassian | Security Engineer Intern 2026 Summer U.S. — Seattle 12wk; $59-75/hr; enterprise security monitoring + vuln research; **4.2/5** → report #354
+- [x] https://www.ycombinator.com/companies/crustdata/jobs/xNllWNH-software-engineering-intern-forward-deployed-summer-2026 | Crustdata | Software Engineering Intern Forward Deployed — SF; $4K-8K/mo; B2B data APIs + AI agents; **4.1/5** → report #355
+- [x] https://www.ycombinator.com/companies/subimage/jobs/WLWS24s-full-stack-software-engineer-intern-summer-2026 | SubImage (YC W25) | Full Stack SWE Intern — SF; ~$6K/mo; cybersecurity graph + AI agents + OSS Cartography; **4.0/5** → report #356
+
+<!-- === END 2026-04-12 SCAN v46 === -->

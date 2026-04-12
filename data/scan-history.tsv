@@ -1619,3 +1619,11 @@ https://jobs.ashbyhq.com/bland	2026-04-12	scan-v45-ashby	(no intern roles — al
 https://www.vapi.ai/jobs	2026-04-12	scan-v45-ashby	(no intern roles — all senior FTE)	Vapi	skipped_no_intern
 https://attio.com/jobs	2026-04-12	scan-v45-ashby	(no intern/new-grad roles — EU/senior only)	Attio	skipped_no_intern
 https://boards-api.greenhouse.io/v1/boards/temporal/jobs	2026-04-12	scan-v45-greenhouse	(empty job board — no listings)	Temporal	skipped_no_intern
+https://job-boards.greenhouse.io/intercom	2026-04-12	scan-v46-greenhouse	(no intern/new-grad roles found)	Intercom	skipped_no_intern
+https://job-boards.greenhouse.io/humeai	2026-04-12	scan-v46-greenhouse	(no intern/new-grad roles — all senior FTE)	Hume AI	skipped_no_intern
+https://jobs.lever.co/wandb	2026-04-12	scan-v46-lever	(no intern roles — all senior FTE)	Weights & Biases	skipped_no_intern
+https://gdmissionsystems.com/careers/intern-engineer-cyber-manassas-va-usa-2026-70094-opportunity	2026-04-12	scan-v46-websearch	Intern Engineer (Cyber) — Summer 2026	General Dynamics Mission Systems	skipped_closed
+https://www.ycombinator.com/companies/browser-use/jobs/JwGWpEP-summer-software-engineering-intern-now-and-summer-2026	2026-04-12	scan-v46-yc	Summer Software Engineering Intern (Summer 2026)	Browser Use	added
+https://join.atlassian.com/event-12707/jobs/20957	2026-04-12	scan-v46-direct	Security Engineer Intern 2026 Summer U.S.	Atlassian	added
+https://www.ycombinator.com/companies/crustdata/jobs/xNllWNH-software-engineering-intern-forward-deployed-summer-2026	2026-04-12	scan-v46-yc	Software Engineering Intern Forward Deployed (Summer 2026)	Crustdata	added
+https://www.ycombinator.com/companies/subimage/jobs/WLWS24s-full-stack-software-engineer-intern-summer-2026	2026-04-12	scan-v46-yc	Full Stack Software Engineer Intern (Summer 2026)	SubImage	added
