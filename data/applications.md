@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 352 | 2026-04-12 | Sentra | Software Engineer New Grad | 4.2/5 | Evaluada | ❌ | [349](reports/349-sentra-swe-new-grad-2026-04-12.md) | a16z+TogetherFund seed; 20K-220K+equity; org memory AI; Finch RAG/merge arch is direct analog; SF hybrid; apply |
 | 351 | 2026-04-11 | Apple | Information Security Internship | 4.0/5 | Evaluada | ❌ | [298](reports/298-apple-infosec-intern-2026-04-11.md) | Detection Eng or SWE track; cybersecurity minor + prod security impl + carlosOS systems depth = strong |
 | 348 | 2026-04-11 | NVIDIA | Solutions Architect – New College Graduate 2026 | 4.5/5 | Evaluada | ❌ | [348](reports/348-nvidia-solutions-architect-newgrad-2026-04-11.md) | 18-month SA rotation; $108-196K; Santa Clara CA; confirm 2026 graduation; top match scan-v34 |
 | 347 | 2026-04-11 | Cloudflare | Software Engineer Intern (Summer 2026) | 4.8/5 | Evaluada | ❌ | [293](reports/293-cloudflare-swe-intern-2026-04-11.md) | Re-eval 2026-04-11 (4→4.8). Austin TX in-office; prod Cloudflare Workers experience — top differentiator; apply + fast-track AI assignment |
