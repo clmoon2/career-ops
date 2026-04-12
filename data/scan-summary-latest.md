@@ -1,80 +1,72 @@
-# Scan Summary — 2026-04-12 (scan-v47)
+# Portal Scan Summary — 2026-04-12 (Session v48)
 
 **Date:** 2026-04-12
-**Scan ID:** scan-v47
-**Previous scans today:** v38–v46 (comprehensive coverage across all portals.yml companies + YC board + SpeedyApply + large tech WebSearch sweeps)
+**Scan ID:** scan-v48 (autonomous agent)
+**Previous scans today:** v38–v47 (comprehensive coverage across all portals.yml companies + YC board + SpeedyApply + large tech WebSearch sweeps)
 
 ---
 
-## Portals Scanned This Session
+## Coverage
 
-| Portal | Companies Checked | New Listings | Notes |
-|--------|------------------|-------------|-------|
-| EU Greenhouse API | Parloa | 0 | All senior FTE, EU-based |
-| Greenhouse API | Ada | 0 | All senior FTE |
-| Ashby | Cognition | 0 | No intern program (Devin/Windsurf — all senior FTE) |
-| YC Work at a Startup | AviaryAI, Ember, Cyble, Swif.ai, Circleback, Reacher | 2 new | AviaryAI + Ember NEW; Cyble India-based (skip); others already in history |
-| WebSearch | Microsoft, Stripe, Netflix, Mistral, Uber, Lyft, Spotify, Figma, Duolingo, Plaid, BCG/McKinsey/Deloitte, JPMorgan, Goldman | 0 | All either already in history, applications closed, or no active listings |
-| Greenhouse WebSearch | Pendo, Ironclad, LaunchDarkly, DV Trading DevOps, Together AI SWE, GoLinks, PitchBook | 0 | All already in history |
+| Source | Companies / Queries | Result |
+|--------|---------------------|--------|
+| portals.yml companies (WebSearch) | LivePerson, Talkdesk, Dialpad, Gong, Genesys, Langfuse, Cognigy, Speechmatics, Make.com, Tinybird, Clarity AI, Factorial | All confirmed no US intern roles or already in history |
+| Greenhouse API spot-checks | Anthropic, Together AI, Cloudflare, C3 AI, Verkada | All roles already in history (1,640+ entries) |
+| YC board deep dive | 15+ YC W25/W26 companies | 2 new companies found |
+| WebSearch broad sweeps | 25+ queries across SWE/Security/AI/Backend internships | All results already in history |
 
----
-
-## Evaluation Results
-
-*No new listings scored ≥ 4.0/5 in this scan. Two new pipeline additions (both 3.4–3.5/5):*
-
-| Company | Role | Score | Action |
-|---------|------|-------|--------|
-| Ember (YC) | Full Stack Engineering Intern (SF) | 3.5/5 | Consider if pipeline light — $6K-10K/mo, good stack, healthcare domain |
-| AviaryAI (YC S22) | Full Stack Engineer Intern (NY/Chicago) | 3.4/5 | Low priority — not on core AI layer, $5K-8K/mo floor |
+**Total companies verified this session:** 30+
+**Scan history size:** 1,648 entries (post-session)
 
 ---
 
-## Overall Session Summary (v47 + today's full run v38–v46)
+## New Listings Found (v48)
 
-- **Total new listings found today:** ~80+ URLs across all scans
-- **High-priority matches evaluated (≥4.0/5):** 8 reports written today
-- **Reports written today (v43–v46):** Browser Use (4.4), OpenAI SWE (4.5), Cartesia (4.0), Atlassian Security (4.5/4.2), Harvey (4.2), Crustdata (4.1), SubImage (4.0)
-- **v47 new listings added:** AviaryAI (3.4/5), Ember (3.5/5)
-- **Companies with no new intern roles:** Parloa, Ada, Cognition, Netflix, Cyble (India), Duolingo (Thrive program dead link)
-- **Major discovery:** All well-known companies (Stripe, Microsoft, Figma, Lyft, Mistral, etc.) already comprehensively scanned in earlier sessions today
+| # | Company | Role | Score | URL |
+|---|---------|------|-------|-----|
+| 1 | Mosaic (YC W25) | Full Stack Engineering Internship (Winter/Summer 2026) | 3.1/5 | [link](https://www.ycombinator.com/companies/mosaic-2/jobs/xyE4cJw-full-stack-engineering-internship-winter-summer-2026) |
+| 2 | Cuckoo Labs (YC W25) | Full Stack Engineering Internship (Summer 2026) | 3.2/5 | [link](https://www.ycombinator.com/companies/cuckoo-labs/jobs/aL45Uy5-full-stack-engineering-internship-summer-2026) |
 
----
-
-## Top Open Matches (cumulative — not yet applied)
-
-| Rank | Company | Role | Score | Action |
-|------|---------|------|-------|--------|
-| 1 | Cloudflare | Software Engineer Intern (Austin TX) | 4.8/5 | Apply immediately — Cloudflare Workers prod experience = top differentiator |
-| 2 | OpenAI | Software Engineer Internship (Summer 2026) | 4.5/5 | Apply immediately |
-| 2 | Atlassian | Security Engineer Intern (Summer 2026) | 4.5/5 | Apply immediately — verify posting still open |
-| 2 | Together AI | Security Engineer Intern | 4.5/5 | Apply — $58/hr, adversarial LLM testing exact match |
-| 2 | NVIDIA | Solutions Architect New College Graduate | 4.5/5 | Apply — confirm 2026 graduation |
-| 3 | Glean | Software Engineer Intern | 4.5/5 | Apply — $57-69/hr, backend+security+ML tracks |
-| 3 | Ramp | Forward Deployed Intern | 4.5/5 | Apply — $11K/mo + housing |
-| 4 | Browser Use (YC) | Summer SWE Intern | 4.4/5 | Contribute to OSS first → then apply |
-| 5 | Cloudflare | Security Engineer Intern (Austin) | 4.4/5 | Apply — #333 in tracker |
-| 6 | Harvey | Software Engineering Intern | 4.2/5 | Apply — legal AI, strong Python/AI match |
-| 6 | Atlassian | Security Engineer Intern | 4.2/5 | Apply — verify posting still open |
-| 7 | Cartesia | SWE Intern | 4.0/5 | Learn Go first → then apply |
+**Top matches (≥ 4.0):** None from this session.
 
 ---
 
-## Recommended Next Actions
+## Session Notes
 
-1. **Apply to Cloudflare SWE Intern** (Austin, 4.8/5) — highest-scoring open match; prod Cloudflare Workers experience is a top differentiator
-2. **Apply to OpenAI SWE Intern** (4.5/5) — multi-model pipeline exact match
-3. **Apply to Together AI Security Intern** (4.5/5) — adversarial LLM testing + TLS/OAuth exact match; deadline May 18
-4. **Apply to Atlassian Security Intern** (4.5/5) — verify posting still open (7 months old)
-5. **Apply to Glean SWE Intern** (4.5/5) — $57-69/hr; strong brand
-6. **Apply to Ramp FDE Intern** (4.5/5) — $11K/mo + housing; NYC/SF
-7. **Contribute to browser-use/browser-use GitHub** → then apply at Browser Use listing
+This session (v48) ran after an exceptionally thorough set of scans earlier today (v43–v47) that together covered:
+- All 45+ portals.yml companies
+- 1,640+ job listings across Greenhouse, Ashby, Lever, Workday, and YC boards
+- Cloudflare's entire 2026 intern cohort (10+ roles)
+- 50+ YC companies with 2026 intern programs
+
+The pipeline is comprehensive and up-to-date. The 2 new YC companies found (Mosaic, Cuckoo Labs) are both below the 4.0 threshold — added to pipeline for awareness only.
 
 ---
 
-## Pipeline Health
+## Priority Action Items (Cumulative — All Sessions Today)
 
-- **Total applications tracked:** 358
-- **Reports in /reports/:** 358+ files
-- **Scan coverage:** All major portals.yml companies covered today; YC board ~80% covered
-- **Next scan recommendation:** Run `/career-ops scan` in 2-3 days to catch new YC S25 batch postings or late-April new grad openings
+These are the highest-scored listings from today's scans that have not yet been applied to:
+
+| Score | Company | Role | Report | Note |
+|-------|---------|------|--------|------|
+| ⭐ 4.5/5 | Atlassian | Security Engineer Intern (Summer 2026) | [#354](reports/354-atlassian-security-engineer-intern-2026-04-12.md) | **APPLY IMMEDIATELY** — $49-75/hr; Seattle hybrid; Cybersec minor + HMAC/TLS/OAuth = exact match |
+| ⭐ 4.4/5 | Cloudflare | Security Engineer Intern (Austin, TX) | [#273](reports/273-cloudflare-security-intern-2026-04-08.md) | **HIGH PRIORITY** — Austin; no relocation; direct Workers/security stack match |
+| 4.2/5 | Sentra | Software Engineer - New Grad | [#349](reports/349-sentra-swe-newgrad-2026-04-12.md) | $120-220K+equity; SF; a16z; RAG/Python exact match |
+| 4.0/5 | Cartesia | Intern (Software Engineer) | [#352](reports/352-cartesia-swe-intern-2026-04-12.md) | $8-12K/mo; Cambridge/SF; SSM inference infra; learn Go first |
+| 4.0/5 | ThirdLayer | Full-Stack Engineer Intern (Summer 2026) | [#352](reports/352-cartesia-swe-intern-2026-04-12.md) | $6-10K/mo; SF on-site; Chrome MV3+React+TS = direct Finch match |
+| ⚠️ URGENT | Airbnb | Software Engineering Intern (Summer 2026) | in pipeline | **DEADLINE APRIL 13 9am PDT** — $49/hr; 12-week; apply NOW |
+
+**Top pipeline items (3.5–3.9, evaluate before applying):**
+- Optiver SWE Intern (Chicago) — $60-70K+housing; quant HFT; C++/Python
+- Rivian Cybersecurity Internships (bucket) — $33-51/hr; Palo Alto; cybersec minor aligns
+- Palantir FDSE Intern (Commercial) — FDE archetype; strong brand
+
+---
+
+## Next Actions
+
+1. **URGENT:** Apply to Airbnb SWE Intern before April 13 9am PDT
+2. Apply to Atlassian Security Intern (top-scored active listing, $49-75/hr, Seattle hybrid)
+3. Apply to Cloudflare Security Intern (Austin — no relocation needed from College Station)
+4. Decide on Cartesia (learn Go basics first — 2-3 days investment, $8-12K/mo payoff)
+5. Run `/career-ops pipeline` to evaluate remaining pending listings

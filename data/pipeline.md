@@ -2,6 +2,13 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-12 SCAN v48 (Autonomous Agent — final sweep: YC board deep dive, Greenhouse APIs spot-check, 25+ WebSearch queries across SWE/Security/AI) === -->
+<!-- No listings scored ≥4.0. Two new YC W25 companies added. -->
+- [ ] https://www.ycombinator.com/companies/mosaic-2/jobs/xyE4cJw-full-stack-engineering-internship-winter-summer-2026 | Mosaic | Full Stack Engineering Internship (Winter/Summer 2026) | 3.1/5 | SF on-site; YC W25; ex-Tesla team; agentic video editing platform (node-based AI canvas); full-stack pipelines + video inference + evals; creative AI domain (not primary target); no comp listed; very early stage
+- [ ] https://www.ycombinator.com/companies/cuckoo-labs/jobs/aL45Uy5-full-stack-engineering-internship-summer-2026 | Cuckoo Labs | Full Stack Engineering Internship (Summer 2026) | 3.2/5 | SF or Seoul; $5K-8K/mo; YC W25; real-time AI translation + video localization; RAG + multilingual AI; enterprise security (SOC 2 Type II); clients include Snowflake/W&B; interesting real-time infra but niche language-tech domain
+<!-- Confirmed no new intern roles this session (all already in history): all portals.yml companies verified, 25+ WebSearch sweeps. History now at 1,640+ entries. -->
+<!-- === END 2026-04-12 SCAN v48 === -->
+
 <!-- === NEW 2026-04-12 SCAN v47 (Autonomous Agent — discovery sweep: Parloa, Ada, AviaryAI, Ember, Mistral, Cognition, Cyble, 30+ companies via WebSearch/YC board) === -->
 <!-- No listings scored ≥4.0. Two new YC companies added to pipeline for awareness. -->
 - [ ] https://www.ycombinator.com/companies/ember/jobs/OTB0qby-full-stack-engineering-intern-summer-2026 | Ember | Full Stack Engineering Intern (Summer 2026) | 3.5/5 | SF; $6K-10K/mo; YC; AI healthcare operations (revenue cycle automation); TypeScript+React+Node.js+Python exact stack match; LLM integration; domain = healthcare back-office (not primary target); good comp floor; consider if pipeline is light
