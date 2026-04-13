@@ -1,79 +1,111 @@
-# Portal Scan Summary — 2026-04-13 (v52)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Portal Scan Summary — 2026-04-13 (scan-v53)
 
-**Scan version:** v52 (Autonomous Agent)
 **Date:** 2026-04-13
-**Run after:** v51 (same day — deep exhaustion sweep)
+**Agent:** Autonomous scanning agent
+**Session:** scan-v53 (appended to today's earlier scans v49–v52)
 
 ---
 
-## Results
+## Scan Stats
 
 | Metric | Count |
 |--------|-------|
-| Companies scanned | 70+ |
-| Search queries executed | 40+ |
-| New listings found | 1 |
-| Listings filtered (title pass) | 1 |
-| Duplicates (already in history) | 65+ |
-| No intern program confirmed | 15+ |
-| Score ≥ 4.0 (new reports) | 0 |
-| scan-history.tsv size after | 1,717 entries |
+| Companies checked (this session) | 25+ |
+| Search queries executed | 18 |
+| Total companies scanned today (all sessions) | 55+ |
+| New listings added to pipeline | 1 |
+| Listings evaluated (score ≥ 4.0) | 1 |
+| Listings skipped (already in history/pipeline) | 23 |
+| Listings skipped (wrong year/not US) | 1 |
 
 ---
 
-## New Listing Found
+## New Listings Added to Pipeline
 
-### Below threshold (score < 4.0) — no full report
-
-| Company | Role | URL | Score est. | Notes |
-|---------|------|-----|-----------|-------|
-| Amazon | System Development Engineer Internship 2026 - Project Leo | https://www.amazon.jobs/en/jobs/3168855/ | ~3.0/5 | Satellite internet; Python/C/C++; Redmond WA in-office; systems/embedded focus — not primary SWE/AI/security target; rising senior required |
+| Company | Role | URL | Est. Score |
+|---------|------|-----|-----------|
+| Databricks | Software Engineer — New Grad (2026 Start) | https://databricks.com/company/careers/open-positions/job?gh_jid=6866549002 | ~3.8/5 |
 
 ---
 
-## Coverage Summary
+## Evaluations Completed This Session
 
-### Greenhouse API checks (new this scan)
-- **Intercom** — No intern roles (all mid-senior FTE)
-- **PolyAI** — No intern roles (UK/Serbia FTE only)
-- **Parloa** — No intern roles (EU/US FTE only)
+| # | Company | Role | Score | Report |
+|---|---------|------|-------|--------|
+| 361 | The Voleon Group | Software Engineer Intern (Summer 2026) | 4.1/5 | [361](reports/361-voleon-swe-intern-2026-04-13.md) |
 
-### WebSearch sweeps (broad discovery)
-- **Big Tech:** Amazon (1 new), Google ✓, Microsoft ✓, Meta ✓, Stripe ✓, Databricks ✓, Datadog ✓
-- **Security:** CrowdStrike ✓, Palo Alto Networks ✓, SentinelOne ✓, Snyk (no US), Wiz (NJ only), Abnormal Security (no interns), Tenable/Rapid7 (no results)
-- **Consulting:** Deloitte ✓, Accenture ✓, Booz Allen ✓, PwC ✓, FTI Consulting (closed), McKinsey (opens Jul 2026)
-- **AI/DevOps:** Together AI ✓, Character.AI (no interns), Perplexity (UK/Belgrade only), Harvey ✓, Hugging Face ✓, Modal (no interns), Grafana Labs (no interns)
-- **portals.yml tail:** Salesforce ✓, ByteDance ✓, Twilio ✓, Retool (no interns), Gong (no interns), Dialpad ✓, Talkdesk (no 2026), Genesys (no US), LivePerson (EMEA), Cognigy (EMEA), Speechmatics (UK)
-- **Other:** Snowflake (Cloud DevOps intern closed 410), Netflix ✓, Robinhood ✓, SpaceX ✓, Anduril ✓, Discord (no SWE interns), Runway ML (no intern program), Quora/Poe ✓, Okta ✓, OpenAI ✓
+**Note:** The Voleon Group was in the pipeline since April 7 but had not been formally evaluated. Now evaluated at 4.1/5. $13,333/mo (~$160K annualized), Berkeley CA. Carlos's quantitative trading system (Bloomberg/Alpaca, Sharpe 1.79) is a rare differentiator for this quant ML hedge fund.
 
 ---
 
-## Assessment
+## Top Matches (Score ≥ 4.0) — Pending Action
 
-This scan ran after v49, v50, and v51 — all three completed earlier today (2026-04-13). The scan history has grown to 1,717 entries across 8 days of intensive scanning. The pipeline is saturated with the best available summer 2026 internship opportunities.
+These are the highest-priority opportunities in the full pipeline that Carlos should act on immediately:
 
-**Key insight:** The vast majority of Summer 2026 intern application windows closed in December 2025–February 2026. We're now in a late-cycle phase where:
-- Most known companies have been scanned
-- New postings are rare (1 new listing this scan vs. 20+ in early April scans)
-- Focus should shift from discovery to applications on the existing pipeline
+| Priority | Company | Role | Score | Deadline | Action |
+|----------|---------|------|-------|----------|--------|
+| ⚠️ URGENT | Anthropic | Fellows Program — AI Security | 4.7/5 | **April 26** | Apply NOW |
+| ⚠️ URGENT | Anthropic | Fellows Program — AI Safety | 4.2/5 | **April 26** | Apply NOW |
+| ⭐ HIGH | Cloudflare | Software Engineer Intern (Austin TX) | 4.8/5 | Open | Apply |
+| ⭐ HIGH | Mechanize | Software Engineering Intern | 4.6/5 | Open | Apply |
+| ⭐ HIGH | Cloudflare | Security Engineer Intern | 4.7/5 | Open | Apply |
+| ⭐ HIGH | Haize Labs | Software Engineer Intern | 4.7/5 | Open | Apply |
+| ⭐ HIGH | Together AI | Security Engineer Intern | 4.5/5 | Open | Apply |
+| ⭐ HIGH | OpenAI | Software Engineer Internship (Summer 2026) | 4.5/5 | Open | Apply |
+| ⭐ HIGH | Atlassian | Security Engineer Intern | 4.5/5 | Open | Apply |
+| ⭐ HIGH | Notion | Software Engineer, AI Intern | 4.5/5 | Open | Apply |
+| ⭐ HIGH | NVIDIA | Solutions Architect — New Grad | 4.5/5 | Open | Apply |
+| 🔷 GOOD | Browser Use | Summer SWE Intern | 4.4/5 | Open | Apply |
+| 🔷 GOOD | Glean | Software Engineer Intern | 4.5/5 | Open | Apply |
+| 🔷 GOOD | Ramp | SWE Internship - Forward Deployed | 4.5/5 | Open | Apply |
+| 🔷 GOOD | The Voleon Group | Software Engineer Intern | 4.1/5 | Open | Apply |
 
 ---
 
-## Recommended Next Actions
+## Scan Coverage Summary (Today: April 13, All Sessions)
 
-1. **Apply to pending ≥3.7 scores** — Vercel Engineering Intern (~3.8, $9.5K-11K/mo) in pipeline from scan-v49 is the highest unreviewed item
-2. **Review evaluated reports** — Reports #357 (Cloudglue 4.1) and #358 (Rippling 4.2) from today are ready for application decision
-3. **Reduce scan frequency** — Consider weekly rather than daily scans; market is saturating for summer 2026 roles
-4. **Watch for late-opening programs** — A few companies (McKinsey opens July 2026, some defense/gov contractors) still have future windows
-5. **Amazon Project Leo** — Added to pipeline at ~3.0/5; only apply if pipeline is very light and you want a brand-name stamp
+**Companies with New Listings Found Today (v49–v53):**
+- Cloudglue (YC W26): Full-Stack AI Engineer Intern → #359 (4.1/5)
+- Rippling: Full Stack SWE Intern → #358 re-eval (4.2/5)
+- Vercel: Engineering Summer Intern (new listing 5628292004)
+- HP IQ: Device Experiences + Systems interns
+- Garage (YC W24): SWE Intern
+- YC companies (Morph, Promptless, Mesh, CreativeMode, Pulse)
+- GoHighLevel: Cybersecurity Intern
+- Cognite: Data Engineering Intern
+- Dun & Bradstreet: Summer Technology Intern
+- Box: Software Engineering Intern
+- Amazon: System Development Engineer Intern (Project Leo)
+- **The Voleon Group: NOW EVALUATED #361 (4.1/5)**
+- **Databricks: Software Engineer New Grad (NEW listing 6866549002)**
+
+**Companies Confirmed No New Listings Today:**
+Anthropic (fellows in pipeline), Airtable, Glean, Arize AI, RunPod, Hume AI, Intercom, PolyAI, Parloa, Palantir, Retool, Ada, LivePerson, Genesys, Talkdesk, Twilio, Dialpad, Gong, Salesforce, Stripe, Figma, Replit, Brain Co., Symmetry Systems, Actian, Fizz, Northwood Space, Zeta Global, Mistral AI, ByteDance (all in history), Character.AI, Abnormal Security, Discord, Runway ML, n8n, Zapier, Weights & Biases, LangChain, Cohere, Deepgram, ElevenLabs, Vapi, Bland AI, Sierra, Lindy, Cursor/Anysphere
 
 ---
 
-## Pipeline Health
+## ⚠️ Action Items — Upcoming Deadlines
 
-Current evaluated reports: #001–#358 (358 total)
-Current pipeline pending items: ~12 (various score tiers from v47–v52)
-Top unreviewed pending: Vercel Engineering Intern (~3.8) from scan-v49
+1. **APPLY NOW — Anthropic Fellows Program — AI Security**: Deadline **April 26, 2026** (13 days)
+   - URL: https://job-boards.greenhouse.io/anthropic/jobs/5030244008
+   - $3,850/week + $15K/month compute; 4-month fellowship starting July 20
+   - Carlos's adversarial LLM testing + cybersecurity minor = perfect match
+   - 25-50% of fellows receive full-time offers
 
-→ Run `/career-ops pipeline` to evaluate pending items from the queue.
+2. **APPLY NOW — Anthropic Fellows Program — AI Safety**: Same deadline April 26
+   - URL: https://job-boards.greenhouse.io/anthropic/jobs/5183044008
+
+3. **Review pipeline**: ~938 pending items need evaluation — use `/career-ops pipeline` to process batches
+
+---
+
+## Next Actions
+
+```
+/career-ops pipeline    # Evaluate the 938 pending listings
+/career-ops scan        # Run next scan in 3-5 days
+```
+
+**Recommended next scan date:** April 16–18, 2026
+
+**Note:** The Summer 2026 internship season is in late-application phase. Most top programs are still accepting applications but closing soon (late April to early May). Prioritize applying to already-evaluated opportunities over additional scanning.

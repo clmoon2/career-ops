@@ -1715,3 +1715,26 @@ https://character.ai/careers	2026-04-13	scan-v52-websearch	(no intern roles — 
 https://careers.abnormalsecurity.com	2026-04-13	scan-v52-websearch	(no intern roles — all mid/senior FTE)	Abnormal Security	skipped_no_intern
 https://www.genesys.com/careers	2026-04-13	scan-v52-websearch	(no US intern roles — confirmed again EU/Toronto focus)	Genesys	skipped_no_intern
 https://job-boards.greenhouse.io/talkdesk2	2026-04-13	scan-v52-greenhouse	(no 2026 summer intern roles — only Summer 2025 intern found, closed)	Talkdesk	skipped_no_intern
+https://jobs.lever.co/mistral	2026-04-13	scan-v53-lever	(all Mistral roles already in history since 4/7)	Mistral AI	skipped_dup
+https://jobs.bytedance.com/en/position/7600201731980675333/detail	2026-04-13	scan-v53-websearch	Security Software Engineer Project Intern (Network Security) 2026	ByteDance	skipped_dup
+https://joinbytedance.com/search/7592416621414205701	2026-04-13	scan-v53-websearch	Security Software Engineer Project Intern (Security Assurance) 2026	ByteDance	skipped_dup
+https://joinbytedance.com/search/7600176309125466373	2026-04-13	scan-v53-websearch	Software Engineer Project Intern (Security Engineering) 2026	ByteDance	skipped_dup
+https://joinbytedance.com/search/7600175469758040325	2026-04-13	scan-v53-websearch	Software Engineer Project Intern (Security-Data) 2026	ByteDance	skipped_dup
+https://careers.salesforce.com/en/jobs/jr334473/summer-2026-intern-applied-ai-strategy-research/	2026-04-13	scan-v53-websearch	Summer 2026 Intern - Applied AI Strategy & Research	Salesforce	skipped_dup
+https://careers.salesforce.com/en/jobs/jr326948/summer-2026-intern-solution-engineer/	2026-04-13	scan-v53-websearch	Summer 2026 Intern - Solution Engineer	Salesforce	skipped_dup
+https://stripe.com/jobs	2026-04-13	scan-v53-websearch	(no new US SWE intern roles beyond history)	Stripe	skipped_dup
+https://databricks.com/company/careers/open-positions/job?gh_jid=6866549002	2026-04-13	scan-v53-websearch	Software Engineer - New Grad (2026 Start)	Databricks	added
+https://job-boards.greenhouse.io/figma/jobs/5616603004	2026-04-13	scan-v53-greenhouse	Early Career, Software Engineer (2026)	Figma	skipped_dup
+https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1	2026-04-13	scan-v53-ashby	Software Engineering Intern (Summer 2026)	Replit	skipped_dup
+https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc	2026-04-13	scan-v53-ashby	Software Engineer - New Grad (Summer 2026)	Replit	skipped_dup
+https://jobs.lever.co/SymmetrySystems/dbca271b-a99b-48ab-83f2-b596a037ad65	2026-04-13	scan-v53-lever	Full Stack Software Engineer - 2026 Summer Intern	Symmetry Systems	skipped_dup
+https://jobs.lever.co/actian/21624589-9c91-48ca-bce7-ba4d0bb9a868	2026-04-13	scan-v53-lever	AI Security Intern	Actian Corporation	skipped_dup
+https://jobs.lever.co/voleon/100b2cb6-f9cc-42c3-add9-db143a76f0f0	2026-04-13	scan-v53-lever	Software Engineer Intern (Summer 2026) — EVALUATED 4.1/5	The Voleon Group	evaluated
+https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002	2026-04-13	scan-v53-greenhouse	Software Engineer Intern (Summer 2027 — not 2026)	Aquatic Capital Management	skipped_wrong_year
+https://job-boards.greenhouse.io/hpiq/jobs/5622481004	2026-04-13	scan-v53-greenhouse	Software Engineer Intern, Cloud Services (Summer 2026) — already in history	HP IQ	skipped_dup
+https://job-boards.greenhouse.io/hpiq/jobs/5623297004	2026-04-13	scan-v53-greenhouse	Software Engineering Intern, Product Security (Summer 2026) — already in history	HP IQ	skipped_dup
+https://jobs.ashbyhq.com/brainco/0abea2f1-324e-47cc-9055-d015827ba641	2026-04-13	scan-v53-ashby	AI/ML Engineering Internship Summer 2026	Brain Co.	skipped_dup
+https://jobs.ashbyhq.com/fizz/c33b0bb7-d87f-4666-8622-36604fe10b20	2026-04-13	scan-v53-ashby	Software Engineering Intern (Summer 2026)	Fizz	skipped_dup
+https://jobs.ashbyhq.com/NorthwoodSpace/385cac5a-45c0-4ffc-8aec-163c765c469f	2026-04-13	scan-v53-ashby	Software Engineer Intern (Summer 2026)	Northwood Space	skipped_dup
+https://job-boards.greenhouse.io/zetasummerinternship/jobs/5745753004	2026-04-13	scan-v53-greenhouse	AI Engineer Intern - Core AI	Zeta Global	skipped_dup
+https://jobs.lever.co/mistral/881941e1-2741-48e2-8767-12866965fac5	2026-04-13	scan-v53-lever	Applied AI Forward Deployed ML Engineer (Internship)	Mistral AI	skipped_dup

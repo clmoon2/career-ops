@@ -1205,3 +1205,15 @@
 - [ ] https://job-boards.greenhouse.io/2026_summer_intern_program/jobs/4162864009 | Edged IQ | 2026 Engineering Analytics Intern — Remote US; BI/analytics infrastructure; low fit for target archetypes; (~1.8)
 
 <!-- === END 2026-04-13 SCAN v50 === -->
+
+<!-- === NEW 2026-04-13 SCAN v53 (Autonomous Agent — deep sweep: Mistral/ByteDance/Salesforce/Stripe/Databricks/Figma/Replit/Voleon/Symmetry/Aquatic/etc.) === -->
+<!-- Scanned and found no new intern roles (all already in history or pipeline): Mistral AI (all roles in history since 4/7), ByteDance (all security intern roles in pipeline since 4/11), Salesforce (Applied AI Research + Solution Engineer + SWE Intern all in pipeline), Stripe (in history, no new US SWE intern listings), Figma (in history since 4/9), Replit (in history since 4/7), Symmetry Systems (in history since 4/7), Brain Co. (in history), Fizz (in history), Actian AI Security (in history), Aquatic Capital Management (Summer 2027 only — not 2026), Zeta Global (in history), Datacor (in history), Audax Group (in history), Northwood Space (in history), Anthropic Fellows All Tracks (in pipeline since 4/7 — DEADLINE APRIL 26), The Voleon Group (in pipeline since 4/7 — NOW EVALUATED as #361) -->
+<!-- ✅ NEW FIND: Databricks Software Engineer — New Grad (2026 Start) — new listing ID 6866549002 (previous New Grad ID 6886281002 was closed April 11) -->
+
+### 🔷 Priority Pending (score est. 3.7-4.0) — scan-v53
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6866549002 | Databricks | Software Engineer — New Grad (2026 Start) — major cloud/data/AI company; Python/Java/Scala; distributed systems; verify active and graduation window; strong brand (~3.8)
+
+### ✅ Evaluated (score ≥ 4.0) — scan-v53
+- [x] https://jobs.lever.co/voleon/100b2cb6-f9cc-42c3-add9-db143a76f0f0 | The Voleon Group | Software Engineer Intern (Summer 2026) — $13,333/mo ($160K annualized); Berkeley CA; quant ML hedge fund; quant trading system (Bloomberg/Alpaca/Sharpe 1.79) = rare differentiator; high-performance distributed systems; **4.1/5** → report #361
+
+<!-- === END 2026-04-13 SCAN v53 === -->
