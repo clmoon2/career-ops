@@ -2,6 +2,21 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-13 SCAN v51 (Autonomous Agent — 25+ company Greenhouse API + WebSearch sweep; Rippling discovered) === -->
+<!-- ⭐ EVALUATED: Rippling 4.2/5 → report #358 ⭐ -->
+
+### ✅ Evaluated (score ≥ 4.0) — scan-v51
+- [x] https://ats.rippling.com/rippling/jobs/2f242b59-eee3-41f5-a5d7-55b7545cb9fb | Rippling | Full Stack Software Engineer Intern (Summer 2026) — SF/NYC; $75/hr ⭐ top comp; Python+React stack exact match; 150+ interns 2026 (doubling program); 13 wks structured; production full-stack maps directly to Finch; **4.2/5** → report #358
+
+### 🔹 Pipeline Pending (score est. 3.0-3.7) — scan-v51
+- [ ] https://job-boards.greenhouse.io/boxinc/jobs/7553772 | Box | Software Engineering Intern - Summer 2026 | 3.7/5 | Redwood City CA; cloud content management; Python/React; 12 wks; established company ($4.2B); not AI-native but solid SWE match
+- [ ] https://jobs.lever.co/gohighlevel/5628aebc-0c9e-44f0-8f4d-5ec28e632560 | GoHighLevel | Cybersecurity Intern | 3.3/5 | Remote (appears India-facing); GCP cloud security; cert requirements (CEH/CompTIA+); marketing SaaS not security-native; below threshold — skip unless pipeline is light
+- [ ] https://jobs.lever.co/cognite/0cf5b5c5-c451-40dd-bbca-03f1d36648eb | Cognite | Data Engineering Intern (Summer 2026) | 3.2/5 | Industrial AI/IoT; Python/data; Norwegian company; data engineering focus not primary target
+- [ ] https://jobs.lever.co/dnb/c66c61a1-6121-4ab1-884e-688799660558 | Dun & Bradstreet | 2026 Summer Internship Program - Technology | 3.0/5 | Enterprise data analytics; consulting-adjacent; broad tech internship program
+<!-- Skipped (below threshold or filtered): CertiK Security Research Internship (blockchain security focus — company negative signal even if title passes filter); HP IQ SWE intern (device/firmware adjacent — already in scan-v50 history) -->
+<!-- Companies confirmed no new intern roles this session (already in history): Anthropic, Airtable, Vercel, Glean, Arize AI, RunPod, Hume AI, Temporal (empty), Scale AI, Palantir, Cohere, Notion, Handshake, Cloudflare (all Cloudflare intern roles in history), Ramp, Replit, Benchling, Verkada, Affirm, Zscaler, Gemini, Shield AI, Nominal, Lambda, Brain Co., Sigma Computing, Symmetry Systems, Tevora, Whatnot, Obsidian Security, Veeam, Klaviyo, Okta, Qvest US -->
+<!-- === END 2026-04-13 SCAN v51 === -->
+
 <!-- === NEW 2026-04-13 SCAN v49 (Autonomous Agent — 25+ company sweep: YC W26 deep dive, Ashby/Greenhouse/Lever portals, new AI/ML/security/full-stack intern postings) === -->
 <!-- ⭐ EVALUATED: Cloudglue 4.1/5 → report #357 ⭐ -->
 
