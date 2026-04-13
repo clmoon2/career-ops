@@ -1,102 +1,94 @@
-# Portal Scan Summary — 2026-04-13 (scan-v57)
+# Portal Scan Summary — 2026-04-13 (scan-v58)
 
-**Scan ID:** v57  
-**Date:** 2026-04-13  
-**Agent:** Autonomous scan agent (Claude Sonnet 4.6)  
-**Candidate:** Carlos Luna-Peña
+**Scan ID:** v58
+**Date:** 2026-04-13
+**Agent:** Autonomous scan agent (Claude Sonnet 4.6)
 
 ---
 
-## Scan Statistics
+## Portals Scanned
+
+### WebSearch Queries (25+)
+- Lever: SWE interns Summer 2026, AI/ML interns Summer 2026, DevOps/SRE interns, cybersecurity interns, new grad 2026 AI/SWE, consulting internships
+- Ashby: SWE interns Summer 2026, security interns, DevOps interns, new grad 2026, AI/ML interns
+- Greenhouse: SWE/AI/Security interns Summer 2026, new grad 2026, DevOps/cloud interns
+- YC: Summer 2026 AI/SWE interns, new batch discovery
+- Big 4 consulting: Technology internships Summer 2026
+
+### Greenhouse API Checks
+- Anthropic: No new intern/new grad roles (fellows all in history)
+- Glean: No new intern roles (University Grad in history, no active interns)
+
+### Companies Directly Verified
+25+ companies across Lever, Ashby, Greenhouse, YC: WeRide.ai, Wealthsimple, Aledade, a0.dev, Rigetti, Shield AI, Belvedere Trading, Voleon, PDT Partners, Aquatic Capital, SpaceX, Gemini, Schonfeld, Rockstar Games, MEMX, 1Password, Handshake, UnlikelyAI, GCM Grosvenor, Cloudflare BA, Mechanize, Cohere, Notion, Ramp, Zip, Sigma Computing, Obsidian Security, Tevora, Verkada, Roadie, iCapital, Censys, Anthropic, Glean
+
+---
+
+## Results
 
 | Metric | Count |
 |--------|-------|
-| Companies/portals checked | 25+ |
-| WebSearch queries executed | 18 |
-| Total URLs evaluated | ~60 |
-| New listings found | 3 |
-| Listings scored ≥4.0 | 0 |
-| Listings added to pipeline | 3 |
-| Duplicates / already in history | ~50 |
-| Skipped (closed/filtered) | 6 |
-| History entries total (after scan) | 1,795 |
+| WebSearch queries run | 25+ |
+| Greenhouse API checks | 2 |
+| Raw listings found | 70+ |
+| Already in scan history (duplicates) | 64+ |
+| Filtered by title (negative/seniority) | 3 |
+| Filtered by score (<3.0) | 3 |
+| **New listings added to pipeline** | **3** |
+| Listings scored ≥ 4.0 | **0** |
+| Full evaluation reports written | **0** |
 
 ---
 
-## New Listings Added to Pipeline
+## New Listings Found
 
-### 🔸 Score ~3.8 — Cua (YC) — Research Intern
-**URL:** https://www.ycombinator.com/companies/cua/jobs/bSnxsAi-research-intern-summer-2026  
-**Company:** Cua — AI agents that use computers (general-purpose computer use)  
-**Location:** San Francisco, CA / Remote (US)  
-**Comp:** $8,000–$9,250/month ⭐  
-**Tech:** PyTorch, Python, AWS/GCP  
-**Role:** Generate/curate multi-modal data for AI agents, design agent systems, automate benchmarking, explore training techniques  
-**Why relevant:** YC-backed, 9K+ GitHub stars, open-source framework for AI computer use agents — Carlos's AutoGen multi-agent work (TidalHack) + browser automation (Playwright + Chrome extension) maps to agent system design. Top compensation.  
-**Why not higher:** Research intern role (training/fine-tuning focus) vs Carlos's production engineering profile. PyTorch not in CV.  
-**Score:** 3.8/5
+### Added to Pipeline
 
----
+| Company | Role | Score | Notes |
+|---------|------|-------|-------|
+| Aledade | Summer Internship - AI Researcher | 3.5/5 | Remote; browser-use agents + LangChain + VLMs + HITL; healthcare domain gap |
+| WeRide.ai | New Grads 2026 - General Software Engineer | 3.0/5 | San Jose CA; $120K–165K; AV domain; verify graduation eligibility |
+| a0.dev (YC W25) | Software Engineering Intern (Summer 2026) | 3.0/5 | SF in-person; TypeScript/Next.js/React Native; 3-person startup |
 
-### 🔸 Score ~3.7 — Speak (YC) — Full-stack Engineer Internship
-**URL:** https://www.ycombinator.com/companies/speak/jobs/uuV4pZJ-full-stack-engineer-internship-summer-2026  
-**Company:** Speak — AI-powered language learning app (millions of users, YC-backed)  
-**Location:** San Francisco, CA (in-person)  
-**Comp:** $6,000–$10,000/month  
-**Tech:** React, Node.js, TypeScript, Python  
-**Role:** Build AI-driven product experiences and UI across the stack  
-**Why relevant:** Direct stack match — Carlos's React 19 SPA (1,348-line usePipeline hook), TypeScript + Python + Node. Millions of real users. YC-backed, competitive comp.  
-**Why not higher:** Language learning domain not Carlos's primary focus. SF in-person only. Frontend-leaning vs Carlos's backend-heavy profile.  
-**Score:** 3.7/5
+### Skipped
+
+| Company | Role | Reason |
+|---------|------|--------|
+| WeRide.ai | New Grads 2026 - Software Engineer (Computer Vision) | 2.0/5 — no CV/perception background |
+| WeRide.ai | New Grads 2026 - Software Engineer, Algorithm | MS/PhD focus — skipped |
+| Wealthsimple | Intern, Software Development (Summer 2026) | 2.5/5 — Canada-based company |
 
 ---
 
-### 🔸 Score ~3.1 — Bandwidth — Software Development Intern (SW Infrastructure)
-**URL:** https://job-boards.greenhouse.io/bandwidth/jobs/7386207  
-**Company:** Bandwidth — Cloud communications API platform (CPaaS)  
-**Location:** Raleigh, NC (in-person)  
-**Comp:** Not disclosed  
-**Tech:** Python, Go, JavaScript, Ruby, Git, AWS  
-**Role:** Build developer tooling and improve build pipelines  
-**Why relevant:** Python/JS/AWS stack overlap. CI/CD experience from Finch relevant.  
-**Why not higher:** No AI component. Comp not disclosed. Raleigh NC in-person. Go and Ruby not in CV.  
-**Score:** 3.1/5 — apply only if pipeline is light and NC location preferred
+## Top Matches (Score ≥ 4.0)
+
+**None this scan.** Scan-v58 is operating in diminishing-returns territory — 58 scans covering 1,801 history entries. Most newly found listings are duplicates or below threshold.
 
 ---
 
-## Companies Scanned (No New Findings)
+## Best New Find: Aledade AI Researcher (3.5/5)
 
-**YC batch (new/closed):** Fresco (closed 404), Bild AI (closed 404), Tsenta (closed 404), Dex/Joindex full-stack (= ThirdLayer in history scan-v43), Novaflow (bioinformatics, in history), Glacis (Vietnam HQ, in history), Circleback (in history), CTGT (in history)
+**URL:** https://jobs.lever.co/aledade/78c0450d-60f4-4260-b60d-3ea4120377eb
 
-**Greenhouse:** Bandwidth DevSecOps/Platform (in history), HP IQ all variants (in history), Rockstar Games (in history), Sigma Computing (in history), Zscaler (in history), MEMX (in history), Dark Wolf Solutions (in history), PDT Partners (in history), Aquatic Capital (in history), Censys (in history), iCapital (in history), Roadie (in history), Lucid Motors (in history), CoVar (in history), Viant Technology (in history), DV Trading (in history), Samsung Research (in history), Robinhood (in history), CLEAR (in history), Klaviyo (in history), Astranis (in history), GridBlock (in history), Metronome (in history — likely closed), Figma (in history), Obsidian Security (in history), C3 AI (in history), Affirm (in history), DoorDash (in history), Crusoe (in history — closed)
+- **What:** 10-week summer internship (June 1–Aug 7 2026) building a Universal EHR Context Protocol using browser-use agents, VLMs, LangChain, and HITL approval pipelines
+- **Why it's interesting:** The JD explicitly mentions Claude Code and Cursor. Carlos's Finch browser automation (Playwright + LangChain + multi-model pipelines + HITL) maps directly.
+- **Domain gap:** Healthcare/EHR/FHIR knowledge required — not in Carlos's CV. Would need to learn quickly.
+- **Verdict:** Apply if healthcare AI is interesting. Strong tech-match; teachable domain.
 
-**Ashby:** Replit, Notion, Cohere, Harvey, Zip, Pylon, Profound, Meshy, Kikoff, Vantage, Zettabyte, Tessera Labs, Crusoe, Sierra, Decagon, Farsight AI, Giga, Superhuman, Whatnot, Brain Co, Glacis — all in history
+---
 
-**Lever:** WeRide new grad (in history), Mistral new grad (in history, Paris only), Palantir defense tech (in history), Hermeus (in history)
+## Context
+
+- **Scan saturation signal:** After 58 scans, the pipeline is comprehensive. A scan returning 3 new listings (vs 20+ in early scans) is a healthy signal.
+- **Summer 2026 window:** April 13 is late in the Summer 2026 intern hiring season. Most major programs (Goldman, Snap, Two Sigma) closed Jan–Mar 2026. Remaining programs are at smaller companies with rolling deadlines.
+- **Best recent evaluated role still open:** Cloudflare Solutions Intern (#362, 4.0/5) — July–Dec 2026 timeline, Austin TX.
 
 ---
 
 ## Recommended Next Actions
 
-1. **Cua (3.8/5)** — High-quality YC company with top comp ($8-9.25K/mo). Review full listing. If comfortable with research angle + willing to highlight AutoGen/agent system design experience, worth applying.
-
-2. **Speak (3.7/5)** — Clean stack match, YC-backed, real users, competitive comp. If SF in-person works for summer, solid option. Apply emphasizing React 19 + TypeScript + Python work from Finch/AIPHRODITE.
-
-3. **Bandwidth (3.1/5)** — Below primary threshold. Skip unless pipeline is very light or Raleigh NC is specifically desired.
-
-4. **Priority pipeline items from prior scans still pending review:**
-   - Cloudflare Solutions Engineer Intern (report #362, 4.0/5) — highest priority
-   - Rippling Full Stack Intern (report #358, 4.2/5) — highest priority
-   - Cloudglue Full-Stack AI Intern (report #357, 4.1/5) — high priority
-   - Vercel Engineering Summer Intern (~3.8, scan-v49) — worth reviewing
-   - Box SWE Intern (3.7/5, scan-v51) — pending decision
-
-5. **Run `/career-ops pipeline`** to batch-evaluate pending listings from earlier scans.
-
----
-
-## Market Signal
-
-The intern market is showing late-cycle saturation — most quality postings from major companies have been in the system since early April. New listings are skewing toward smaller YC startups (Cua, Speak) and mid-market companies (Bandwidth). The pipeline is deep with good options already pending review.
-
-**Recommendation:** Shift focus from discovery to applications. Prioritize Rippling (4.2/5), Cloudglue (4.1/5), and Cloudflare Solutions Engineer (4.0/5) — these are strong matches already evaluated. Apply before April ends.
+1. **Evaluate Aledade** — Read full JD; if healthcare AI is appealing, apply. Carlos's LangChain + browser automation + HITL experience is the exact match they describe.
+2. **Apply to high-scoring evaluated roles** — OpenAI #350 (verify open), Harvey #351, Cartesia #352, Atlassian Security #354, Crustdata #355 — if not yet applied.
+3. **Run `/career-ops pipeline`** — Evaluate Cua (3.8/5) and Speak (3.7/5) from scan-v57 that are still pending.
+4. **Check graduation date** — WeRide requires Dec 2025–Jun 2026 graduation. Confirm before applying.
+5. **Next scan:** Wait 2–3 days. Scan saturation is high; new listings need time to appear.
