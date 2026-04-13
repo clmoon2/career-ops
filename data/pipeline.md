@@ -1217,3 +1217,12 @@
 - [x] https://jobs.lever.co/voleon/100b2cb6-f9cc-42c3-add9-db143a76f0f0 | The Voleon Group | Software Engineer Intern (Summer 2026) — $13,333/mo ($160K annualized); Berkeley CA; quant ML hedge fund; quant trading system (Bloomberg/Alpaca/Sharpe 1.79) = rare differentiator; high-performance distributed systems; **4.1/5** → report #361
 
 <!-- === END 2026-04-13 SCAN v53 === -->
+
+<!-- === NEW 2026-04-13 SCAN v54 (Autonomous Agent — deep sweep: defense/consulting/quant/security/AI companies not previously covered) === -->
+<!-- Checked 40+ companies: GDIT, Ankura, Wiz, SentinelOne, D.E. Shaw (closed), Saronic Systems (403/closed), Decagon (senior only), Temporal (0 jobs), Pinecone (API 404), plus all portals.yml tracked companies + security/quant/consulting/YC categories. Most results already in history (v1-v53). 2 new listings found. -->
+
+### 🟠 Pipeline Pending (score est. <3.0) — scan-v54
+- [ ] https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-VA-Springfield/Artificial-Intelligence-Machine-Learning-Associate-Intern_RQ218217-1 | GDIT (General Dynamics IT) | AI/Machine Learning Associate Intern — Springfield VA; 10wks; $22.95-$31.05/hr; US citizenship required; defense IT contractor; low AI-product fit; (~2.3)
+- [ ] https://ankura.wd5.myworkdayjobs.com/en-US/ankura/job/Texas/University-Intern--AI_R104691 | Ankura | University Intern - AI — Texas; consulting/advisory firm; AI analytics for legal/financial consulting; technology consulting archetype partial fit; (~2.6)
+
+<!-- === END 2026-04-13 SCAN v54 === -->
