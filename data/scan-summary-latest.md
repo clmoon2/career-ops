@@ -1,79 +1,102 @@
-# Portal Scan Summary — 2026-04-13 (scan-v56)
+# Portal Scan Summary — 2026-04-13 (scan-v57)
 
+**Scan ID:** v57  
 **Date:** 2026-04-13  
-**Scan ID:** v56 (final pass of today's session — v49–v56 combined)  
-**Candidate:** Carlos Luna-Peña  
-**Scan History Entries:** 1,786 total (1,763 before today's session)  
-**Tracker Entries:** 362 evaluated roles  
+**Agent:** Autonomous scan agent (Claude Sonnet 4.6)  
+**Candidate:** Carlos Luna-Peña
 
 ---
 
-## Today's Full Session Summary (Scans v49–v56)
+## Scan Statistics
 
-This was a comprehensive multi-pass autonomous scanning session covering the full portals.yml company list plus broad discovery queries.
-
-### Portals Scanned
-- **Greenhouse API:** Anthropic, Hume AI, Airtable, Vercel, RunPod, Glean, Arize AI, Intercom, PolyAI, Parloa, Factorial (404), Temporal (0 jobs), Pinecone (404), Ada, Verkada, Sigma Computing, Astranis, C3 AI, Mercury, Robinhood, Figma, Anduril, Planet Labs, Rocket Lawyer, Cloudflare (NEW find)
-- **Ashby:** Pinecone, Vapi, n8n, Zapier, Attio, TravelPerk, Bland AI, Lindy, LangChain, Weights & Biases, Cohere, Deepgram, ElevenLabs, Tinybird, Harvey, Superhuman, Replit, Notion (all positions), Farsight AI, Giga, Delinea, Whatnot, Zip, Benchling, Vantage
-- **Lever:** Palantir (all tracks), Mistral AI, Weights & Biases, Clarity AI, Waabi, Match Group, Artera, Veeva, GR0, Voleon
-- **YC Directory:** Browser Use, Cloudglue, Crustdata, Circleback, Candle, Promptless, CTGT, Mesh, SubImage, Swif.ai, a0.dev (404), Deep24 (NEW find)
-- **Workday:** GDIT, Ankura, Samsung Research America, Booz Allen Hamilton, Roblox
-- **WebSearch discovery:** 15+ broad queries covering security, DevOps, consulting, AI engineering, speedyapply repos
-
-### Companies with No Results / Already Covered
-ElevenLabs (Impact Intern 2.0/5 skip), Deepgram (no intern), Retool (no intern), Ada (both interns in pipeline), Tinybird (no intern), Clarity AI (no intern), Harvey (evaluated), Snyk (UK only), CoreWeave (no intern), Vanta (no intern), Drata (no intern), Roblox (PhD required), Palo Alto Networks (in history), CrowdStrike (in history), Gemini (in history), MongoDB (in history), Grammarly/Enova/Pendo/DoorDash (all in history), all Palantir tracks (in history), Mistral AI (in history), ByteDance (in history), Salesforce (in history), Stripe (in history)
-
----
-
-## New Listings Found — scan-v56
-
-| Company | Role | Score | URL | Status |
-|---------|------|-------|-----|--------|
-| **Cloudflare** | Solutions Engineer - Intern (Summer & Fall 2026) | **4.0/5** | [Link](https://job-boards.greenhouse.io/cloudflare/jobs/7792962) | ✅ Evaluated — Report #362 |
-| Deep24 (YC W26) | Software Engineering Intern | ~3.2/5 | [Link](https://www.ycombinator.com/companies/deep24/jobs/HQOPclv-software-engineering-intern) | 🟠 Pipeline (low priority) |
+| Metric | Count |
+|--------|-------|
+| Companies/portals checked | 25+ |
+| WebSearch queries executed | 18 |
+| Total URLs evaluated | ~60 |
+| New listings found | 3 |
+| Listings scored ≥4.0 | 0 |
+| Listings added to pipeline | 3 |
+| Duplicates / already in history | ~50 |
+| Skipped (closed/filtered) | 6 |
+| History entries total (after scan) | 1,795 |
 
 ---
 
-## Top Matches (score ≥ 4.0) — Today's Session (v49–v56)
+## New Listings Added to Pipeline
 
-| # | Company | Role | Score | Notes |
-|---|---------|------|-------|-------|
-| 362 | Cloudflare | Solutions Engineer Intern (July–Dec 2026) | 4.0/5 | Austin TX; 6-month; prod Workers experience = unmatched differentiator |
-| 361 | The Voleon Group | Software Engineer Intern (Summer 2026) | 4.1/5 | $160K annualized; Berkeley CA; quant ML |
-| 360 | Rippling | Full Stack SWE Intern | 4.2/5 | $75/hr SF/NYC; Python+React |
-| 359 | Cloudglue | Full-Stack AI Engineer Intern | 4.1/5 | YC W26; SF; video/multimodal AI |
+### 🔸 Score ~3.8 — Cua (YC) — Research Intern
+**URL:** https://www.ycombinator.com/companies/cua/jobs/bSnxsAi-research-intern-summer-2026  
+**Company:** Cua — AI agents that use computers (general-purpose computer use)  
+**Location:** San Francisco, CA / Remote (US)  
+**Comp:** $8,000–$9,250/month ⭐  
+**Tech:** PyTorch, Python, AWS/GCP  
+**Role:** Generate/curate multi-modal data for AI agents, design agent systems, automate benchmarking, explore training techniques  
+**Why relevant:** YC-backed, 9K+ GitHub stars, open-source framework for AI computer use agents — Carlos's AutoGen multi-agent work (TidalHack) + browser automation (Playwright + Chrome extension) maps to agent system design. Top compensation.  
+**Why not higher:** Research intern role (training/fine-tuning focus) vs Carlos's production engineering profile. PyTorch not in CV.  
+**Score:** 3.8/5
 
 ---
 
-## All-Time Top Pending Applications
+### 🔸 Score ~3.7 — Speak (YC) — Full-stack Engineer Internship
+**URL:** https://www.ycombinator.com/companies/speak/jobs/uuV4pZJ-full-stack-engineer-internship-summer-2026  
+**Company:** Speak — AI-powered language learning app (millions of users, YC-backed)  
+**Location:** San Francisco, CA (in-person)  
+**Comp:** $6,000–$10,000/month  
+**Tech:** React, Node.js, TypeScript, Python  
+**Role:** Build AI-driven product experiences and UI across the stack  
+**Why relevant:** Direct stack match — Carlos's React 19 SPA (1,348-line usePipeline hook), TypeScript + Python + Node. Millions of real users. YC-backed, competitive comp.  
+**Why not higher:** Language learning domain not Carlos's primary focus. SF in-person only. Frontend-leaning vs Carlos's backend-heavy profile.  
+**Score:** 3.7/5
 
-| Score | Company | Role | Notes |
-|-------|---------|------|-------|
-| 4.8/5 | Cloudflare | SWE Intern (Summer 2026) | Austin TX; apply ASAP |
-| 4.7/5 | Cloudflare | Security Engineer Intern | Austin TX; apply ASAP |
-| 4.7/5 | Haize Labs | SWE Intern | $100-125K NYC; adversarial LLM |
-| 4.6/5 | Mechanize | SWE Intern | $100/hr SF; RL eval infra |
-| 4.5/5 | Atlassian | Security Engineer Intern | Seattle; $49-75/hr; cybersec exact match |
-| 4.5/5 | OpenAI | SWE Internship | SF/Seattle; ~$60/hr; top pick |
-| 4.5/5 | Together AI | Security Engineer Intern | $58/hr; SF; AI security |
-| 4.5/5 | Together AI | SWE Intern | $58/hr; SF; AI platform |
-| 4.5/5 | Glean | SWE Intern | $57-69/hr; AI search |
-| 4.5/5 | Ramp | SWE Internship - Forward Deployed | $11K/mo + housing; NYC/SF |
-| 4.5/5 | NVIDIA | Solutions Architect New Grad | $108-196K; 18-month rotation |
-| 4.4/5 | Browser Use | Summer SWE Intern | $6-16K/mo SF; YC W25; top pick |
-| 4.4/5 | Decagon | Agent SWE Intern | SF; agentic AI |
+---
+
+### 🔸 Score ~3.1 — Bandwidth — Software Development Intern (SW Infrastructure)
+**URL:** https://job-boards.greenhouse.io/bandwidth/jobs/7386207  
+**Company:** Bandwidth — Cloud communications API platform (CPaaS)  
+**Location:** Raleigh, NC (in-person)  
+**Comp:** Not disclosed  
+**Tech:** Python, Go, JavaScript, Ruby, Git, AWS  
+**Role:** Build developer tooling and improve build pipelines  
+**Why relevant:** Python/JS/AWS stack overlap. CI/CD experience from Finch relevant.  
+**Why not higher:** No AI component. Comp not disclosed. Raleigh NC in-person. Go and Ruby not in CV.  
+**Score:** 3.1/5 — apply only if pipeline is light and NC location preferred
+
+---
+
+## Companies Scanned (No New Findings)
+
+**YC batch (new/closed):** Fresco (closed 404), Bild AI (closed 404), Tsenta (closed 404), Dex/Joindex full-stack (= ThirdLayer in history scan-v43), Novaflow (bioinformatics, in history), Glacis (Vietnam HQ, in history), Circleback (in history), CTGT (in history)
+
+**Greenhouse:** Bandwidth DevSecOps/Platform (in history), HP IQ all variants (in history), Rockstar Games (in history), Sigma Computing (in history), Zscaler (in history), MEMX (in history), Dark Wolf Solutions (in history), PDT Partners (in history), Aquatic Capital (in history), Censys (in history), iCapital (in history), Roadie (in history), Lucid Motors (in history), CoVar (in history), Viant Technology (in history), DV Trading (in history), Samsung Research (in history), Robinhood (in history), CLEAR (in history), Klaviyo (in history), Astranis (in history), GridBlock (in history), Metronome (in history — likely closed), Figma (in history), Obsidian Security (in history), C3 AI (in history), Affirm (in history), DoorDash (in history), Crusoe (in history — closed)
+
+**Ashby:** Replit, Notion, Cohere, Harvey, Zip, Pylon, Profound, Meshy, Kikoff, Vantage, Zettabyte, Tessera Labs, Crusoe, Sierra, Decagon, Farsight AI, Giga, Superhuman, Whatnot, Brain Co, Glacis — all in history
+
+**Lever:** WeRide new grad (in history), Mistral new grad (in history, Paris only), Palantir defense tech (in history), Hermeus (in history)
 
 ---
 
 ## Recommended Next Actions
 
-1. **URGENT — Apply NOW:** Anthropic AI Safety Fellows (deadline: **April 26, 2026**)
-2. **Apply this week:** Cloudflare SWE Intern (#347, 4.8/5) + Security Intern (#294/#333, 4.7/5) — Austin TX local
-3. **Apply this week:** Haize Labs (#298, 4.7/5), Mechanize (#304, 4.6/5), Atlassian (#355, 4.5/5), OpenAI (#353, 4.5/5)
-4. **Verify then apply:** Cloudflare Solutions Engineer (#362, 4.0/5) — confirm graduation date first (needs Dec 2026 grad or Summer 2026 grad)
-5. **Run `/career-ops pipeline`** to process the 50+ pending URLs in pipeline.md
-6. **Next scan:** ~2026-04-18 (5 days)
+1. **Cua (3.8/5)** — High-quality YC company with top comp ($8-9.25K/mo). Review full listing. If comfortable with research angle + willing to highlight AutoGen/agent system design experience, worth applying.
+
+2. **Speak (3.7/5)** — Clean stack match, YC-backed, real users, competitive comp. If SF in-person works for summer, solid option. Apply emphasizing React 19 + TypeScript + Python work from Finch/AIPHRODITE.
+
+3. **Bandwidth (3.1/5)** — Below primary threshold. Skip unless pipeline is very light or Raleigh NC is specifically desired.
+
+4. **Priority pipeline items from prior scans still pending review:**
+   - Cloudflare Solutions Engineer Intern (report #362, 4.0/5) — highest priority
+   - Rippling Full Stack Intern (report #358, 4.2/5) — highest priority
+   - Cloudglue Full-Stack AI Intern (report #357, 4.1/5) — high priority
+   - Vercel Engineering Summer Intern (~3.8, scan-v49) — worth reviewing
+   - Box SWE Intern (3.7/5, scan-v51) — pending decision
+
+5. **Run `/career-ops pipeline`** to batch-evaluate pending listings from earlier scans.
 
 ---
 
-*Generated by career-ops autonomous scan agent. Scan-v56 completed 2026-04-13.*
+## Market Signal
+
+The intern market is showing late-cycle saturation — most quality postings from major companies have been in the system since early April. New listings are skewing toward smaller YC startups (Cua, Speak) and mid-market companies (Bandwidth). The pipeline is deep with good options already pending review.
+
+**Recommendation:** Shift focus from discovery to applications. Prioritize Rippling (4.2/5), Cloudglue (4.1/5), and Cloudflare Solutions Engineer (4.0/5) — these are strong matches already evaluated. Apply before April ends.
