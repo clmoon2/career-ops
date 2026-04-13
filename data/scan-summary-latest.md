@@ -1,72 +1,79 @@
-# Portal Scan Summary — 2026-04-12 (Session v48)
+# Scan Summary — 2026-04-13 (v49)
 
-**Date:** 2026-04-12
-**Scan ID:** scan-v48 (autonomous agent)
-**Previous scans today:** v38–v47 (comprehensive coverage across all portals.yml companies + YC board + SpeedyApply + large tech WebSearch sweeps)
-
----
-
-## Coverage
-
-| Source | Companies / Queries | Result |
-|--------|---------------------|--------|
-| portals.yml companies (WebSearch) | LivePerson, Talkdesk, Dialpad, Gong, Genesys, Langfuse, Cognigy, Speechmatics, Make.com, Tinybird, Clarity AI, Factorial | All confirmed no US intern roles or already in history |
-| Greenhouse API spot-checks | Anthropic, Together AI, Cloudflare, C3 AI, Verkada | All roles already in history (1,640+ entries) |
-| YC board deep dive | 15+ YC W25/W26 companies | 2 new companies found |
-| WebSearch broad sweeps | 25+ queries across SWE/Security/AI/Backend internships | All results already in history |
-
-**Total companies verified this session:** 30+
-**Scan history size:** 1,648 entries (post-session)
+**Run date:** 2026-04-13
+**Scan ID:** scan-v49
+**Agent:** Autonomous (career-ops scan skill)
+**Companies scanned:** 28
+**New listings found:** 7
+**Listings evaluated (score ≥ 4.0):** 1
+**Reports written:** 1 (report #357)
 
 ---
 
-## New Listings Found (v48)
+## Top Match: Evaluated
 
-| # | Company | Role | Score | URL |
-|---|---------|------|-------|-----|
-| 1 | Mosaic (YC W25) | Full Stack Engineering Internship (Winter/Summer 2026) | 3.1/5 | [link](https://www.ycombinator.com/companies/mosaic-2/jobs/xyE4cJw-full-stack-engineering-internship-winter-summer-2026) |
-| 2 | Cuckoo Labs (YC W25) | Full Stack Engineering Internship (Summer 2026) | 3.2/5 | [link](https://www.ycombinator.com/companies/cuckoo-labs/jobs/aL45Uy5-full-stack-engineering-internship-summer-2026) |
+| Score | Company | Role | URL | Report |
+|-------|---------|------|-----|--------|
+| **4.1/5** | Cloudglue (YC W26) | Full-Stack AI Engineer Intern (Summer 2026) | [Link](https://www.ycombinator.com/companies/cloudglue/jobs/yPXR95r-summer-2026-full-stack-ai-engineer-intern) | [#357](reports/357-cloudglue-fullstack-ai-intern-2026-04-13.md) |
 
-**Top matches (≥ 4.0):** None from this session.
-
----
-
-## Session Notes
-
-This session (v48) ran after an exceptionally thorough set of scans earlier today (v43–v47) that together covered:
-- All 45+ portals.yml companies
-- 1,640+ job listings across Greenhouse, Ashby, Lever, Workday, and YC boards
-- Cloudflare's entire 2026 intern cohort (10+ roles)
-- 50+ YC companies with 2026 intern programs
-
-The pipeline is comprehensive and up-to-date. The 2 new YC companies found (Mosaic, Cuckoo Labs) are both below the 4.0 threshold — added to pipeline for awareness only.
+**Why Cloudglue:** Video/audio AI APIs (React/TypeScript/Python/Node), ex-Snap/Amazon/CMU founders published at DEF CON + NeurIPS. Carlos's 5-provider LLM pipeline and computer vision work (OpenAI Vision API, 87% accuracy) map directly to their multimodal AI integration work. Strong full-stack match. Apply immediately.
 
 ---
 
-## Priority Action Items (Cumulative — All Sessions Today)
+## New Listings Added to Pipeline (Not Yet Evaluated)
 
-These are the highest-scored listings from today's scans that have not yet been applied to:
+| Score Est. | Company | Role | URL |
+|------------|---------|------|-----|
+| ~3.8 | Vercel | Engineering Summer Intern | [Link](https://job-boards.greenhouse.io/vercel/jobs/5628292004) |
+| ~3.6 | Morph (YC S23) | ML Engineering Intern | [Link](https://www.ycombinator.com/companies/morph/jobs/6enPRLQ-machine-learning-engineering-intern) |
+| ~3.6 | Promptless (YC) | Summer AI Engineering Intern | [Link](https://www.ycombinator.com/companies/promptless/jobs/DM0KHQY-summer-ai-engineering-intern) |
+| ~3.5 | Mesh (YC) | AI Engineer Intern (Summer 2026) | [Link](https://www.ycombinator.com/companies/mesh-2/jobs/84BevmU-ai-engineer-intern-summer-2026) |
+| ~3.4 | CreativeMode (YC S24) | SWE Intern (Summer 2026) | [Link](https://www.ycombinator.com/companies/creativemode/jobs/SqRWS9Z-swe-intern-summer-2026) |
+| ~3.2 | Pulse (YC) | ML Engineer Intern (Summer 2026) | [Link](https://www.ycombinator.com/companies/pulse-3/jobs/N4xZlwq-machine-learning-engineer-intern-summer-2026) |
 
-| Score | Company | Role | Report | Note |
-|-------|---------|------|--------|------|
-| ⭐ 4.5/5 | Atlassian | Security Engineer Intern (Summer 2026) | [#354](reports/354-atlassian-security-engineer-intern-2026-04-12.md) | **APPLY IMMEDIATELY** — $49-75/hr; Seattle hybrid; Cybersec minor + HMAC/TLS/OAuth = exact match |
-| ⭐ 4.4/5 | Cloudflare | Security Engineer Intern (Austin, TX) | [#273](reports/273-cloudflare-security-intern-2026-04-08.md) | **HIGH PRIORITY** — Austin; no relocation; direct Workers/security stack match |
-| 4.2/5 | Sentra | Software Engineer - New Grad | [#349](reports/349-sentra-swe-newgrad-2026-04-12.md) | $120-220K+equity; SF; a16z; RAG/Python exact match |
-| 4.0/5 | Cartesia | Intern (Software Engineer) | [#352](reports/352-cartesia-swe-intern-2026-04-12.md) | $8-12K/mo; Cambridge/SF; SSM inference infra; learn Go first |
-| 4.0/5 | ThirdLayer | Full-Stack Engineer Intern (Summer 2026) | [#352](reports/352-cartesia-swe-intern-2026-04-12.md) | $6-10K/mo; SF on-site; Chrome MV3+React+TS = direct Finch match |
-| ⚠️ URGENT | Airbnb | Software Engineering Intern (Summer 2026) | in pipeline | **DEADLINE APRIL 13 9am PDT** — $49/hr; 12-week; apply NOW |
+**Vercel note:** $9.5K–$11K/month is exceptional intern comp (top quartile). TypeScript/Next.js focus is slightly frontend-heavy but brand and comp premium make this worth a dedicated evaluation.
 
-**Top pipeline items (3.5–3.9, evaluate before applying):**
-- Optiver SWE Intern (Chicago) — $60-70K+housing; quant HFT; C++/Python
-- Rivian Cybersecurity Internships (bucket) — $33-51/hr; Palo Alto; cybersec minor aligns
-- Palantir FDSE Intern (Commercial) — FDE archetype; strong brand
+**Morph note:** LLM code editing inference at 10,500 tok/sec. Technically elite. Carlos lacks CUDA depth but Finch's multi-model pipeline thinking could transfer. Worth evaluating.
 
 ---
 
-## Next Actions
+## Companies Scanned — No New Listings
 
-1. **URGENT:** Apply to Airbnb SWE Intern before April 13 9am PDT
-2. Apply to Atlassian Security Intern (top-scored active listing, $49-75/hr, Seattle hybrid)
-3. Apply to Cloudflare Security Intern (Austin — no relocation needed from College Station)
-4. Decide on Cartesia (learn Go basics first — 2-3 days investment, $8-12K/mo payoff)
-5. Run `/career-ops pipeline` to evaluate remaining pending listings
+| Company | Status | Reason |
+|---------|--------|--------|
+| Palantir | skipped_dup | All intern roles (SWE, FDSE Commercial/Gov/Defense) in history since 4/7 |
+| ElevenLabs | skipped_no_intern | Only Impact Program Intern (in history since 4/10); no new listings |
+| Cohere | skipped_dup | SWE Intern + ML Intern + Research Intern all in history since 4/10–4/12 |
+| Sierra | skipped_no_intern | No intern program found |
+| Deepgram | skipped_no_intern | All senior FTE; no intern roles |
+| Anthropic | skipped_dup | Both Fellows programs in history (AI Safety + AI Security); deadline April 26 ⚠️ |
+| LangChain | skipped_no_intern | No intern roles; Deployed Engineer is FTE only |
+| Weights & Biases | skipped_no_intern | No intern roles; all senior FTE |
+| Bindwell | skipped_score | ML for biotech/pesticide molecular discovery; 2.8 — domain mismatch |
+| Novaflow | skipped_score | Bioinformatics/computational biology ML; 2.3 — domain mismatch |
+| Conductor Quantum | skipped_score | Quantum computing ML; 2.0 — out of scope |
+
+---
+
+## Recommended Next Actions
+
+1. **Apply to Cloudglue** (4.1/5) — Review cloudglue.dev API docs, lead with multi-model AI pipeline + computer vision, negotiate $7K–$8K/month. ([Report #357](reports/357-cloudglue-fullstack-ai-intern-2026-04-13.md))
+
+2. **Evaluate Vercel** (~3.8/5) — $9.5K–11K/month exceptional comp. Run full evaluation.
+
+3. **⚠️ URGENT: Google SWE Intern deadline April 23** — ~10 days. In pipeline (scan-v33). Evaluate immediately.
+
+4. **⚠️ URGENT: Anthropic Fellows Program deadline April 26** — 13 days. Two programs in pipeline: AI Safety + AI Security.
+
+5. **Apply to Browser Use (4.4/5)** — Top existing pipeline pick. $6K–16K/month, AI browser agents, App Automation Engine = perfect proof point. Report #353.
+
+6. **Evaluate Morph** — Elite LLM inference infrastructure. High ceiling even with CUDA gap.
+
+---
+
+## Pipeline Health
+
+- **Total scan history entries:** ~1,660+
+- **Today's new entries:** 18 (7 added, 3 skipped_score, 8 skipped_dup/no_intern)
+- **Reports written all-time:** 357
+- **Tracker entries (applications.md):** 200+ (max #359 after Cloudglue merge)

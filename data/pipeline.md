@@ -2,6 +2,27 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-13 SCAN v49 (Autonomous Agent — 25+ company sweep: YC W26 deep dive, Ashby/Greenhouse/Lever portals, new AI/ML/security/full-stack intern postings) === -->
+<!-- ⭐ EVALUATED: Cloudglue 4.1/5 → report #357 ⭐ -->
+
+### ✅ Evaluated (score ≥ 4.0) — scan-v49
+- [x] https://www.ycombinator.com/companies/cloudglue/jobs/yPXR95r-summer-2026-full-stack-ai-engineer-intern | Cloudglue (YC W26) | Full-Stack AI Engineer Intern (Summer 2026) — SF in-person; video/audio AI APIs; React/TypeScript/Python/Node; ex-Snap/Amazon/CMU founders; published at DEF CON + NeurIPS; multi-model AI pipeline = direct match; **4.1/5** → report #357
+
+### 🔷 Priority Pending (score est. 3.7-4.0) — scan-v49
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5628292004 | Vercel | Engineering Summer Intern (Summer 2026) — SF hybrid; $9.5K-11K/mo ⭐ top comp; JavaScript/TypeScript/Next.js; AI SDK + v0.dev context; strong brand; frontend-heavy but exceptional comp; (~3.8)
+- [ ] https://www.ycombinator.com/companies/morph/jobs/6enPRLQ-machine-learning-engineering-intern | Morph (YC S23) | Machine Learning Engineering Intern — SF; LLM code editing inference engine (10,500 tok/sec); PyTorch/TF/JAX + CUDA kernels; powers vibe coding / devtools / IDEs; technically elite team; ML systems specialization gap but high ceiling (~3.6)
+
+### 🔸 Pipeline Pending (score est. 3.3-3.7) — scan-v49
+- [ ] https://www.ycombinator.com/companies/promptless/jobs/DM0KHQY-summer-ai-engineering-intern | Promptless (YC) | Summer AI Engineering Intern — context-aware AI agents + embedded UX; new URL (previous closed); Python/AI agent work; small team; (~3.6)
+- [ ] https://www.ycombinator.com/companies/mesh-2/jobs/84BevmU-ai-engineer-intern-summer-2026 | Mesh (YC) | AI Engineer Intern (Summer 2026) — AI-powered accounting agents; LLM/RAG pipeline experience match; fintech/accounting domain; (~3.5)
+- [ ] https://www.ycombinator.com/companies/creativemode/jobs/SqRWS9Z-swe-intern-summer-2026 | CreativeMode (YC S24) | SWE Intern (Summer 2026) — SF in-person; $5.8K-7.5K/mo; Python/Go/TypeScript/NextJS; Lovable for Minecraft mods (vibe coding); gaming niche but strong full-stack fit; (~3.4)
+- [ ] https://www.ycombinator.com/companies/pulse-3/jobs/N4xZlwq-machine-learning-engineer-intern-summer-2026 | Pulse (YC) | ML Engineer Intern (Summer 2026) — document extraction ML; PyTorch; 2nd/3rd year undergrad target; narrow domain (~3.2)
+
+<!-- Scanned and found no new intern roles (all already in history): Palantir (all intern roles in history since 4/7), ElevenLabs (no intern roles since 4/11), Cohere (all in history since 4/11), Sierra (no intern program), Deepgram (all senior FTE), Anthropic Fellows (both roles in history since 4/7), LangChain (no intern roles — all senior), Weights & Biases (no intern roles), n8n/Zapier/Pinecone/Bland/Vapi (confirmed no intern roles), Handshake/Brain Co./Sigma Computing/iCapital/DV Trading/Roadie (all in history since 4/7), Ramp/Notion/Replit/Superhuman/Whatnot/Zettabyte (all in history since 4/7), Disney ML/SWE AI Interns (in history since 4/9), Intuit (in history since 4/9), Glean/Vercel (previously had Glean in history; Vercel Engineering Intern 5628292 is NEW above), Circleback/Swif.ai/Reacher/14.ai/SafetyKit/Socratix (all in history since 4/11). Novaflow/Bindwell/Conductor Quantum scored <3.0 — see skip section. -->
+
+<!-- Skipped (score <3.0): Novaflow (bioinformatics, 2.3), Bindwell (biotech ML/pesticides, 2.8), Conductor Quantum (quantum computing, 2.0) -->
+<!-- === END 2026-04-13 SCAN v49 === -->
+
 <!-- === NEW 2026-04-12 SCAN v48 (Autonomous Agent — final sweep: YC board deep dive, Greenhouse APIs spot-check, 25+ WebSearch queries across SWE/Security/AI) === -->
 <!-- No listings scored ≥4.0. Two new YC W25 companies added. -->
 - [ ] https://www.ycombinator.com/companies/mosaic-2/jobs/xyE4cJw-full-stack-engineering-internship-winter-summer-2026 | Mosaic | Full Stack Engineering Internship (Winter/Summer 2026) | 3.1/5 | SF on-site; YC W25; ex-Tesla team; agentic video editing platform (node-based AI canvas); full-stack pipelines + video inference + evals; creative AI domain (not primary target); no comp listed; very early stage

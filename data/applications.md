@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 359 | 2026-04-13 | Cloudglue | Full-Stack AI Engineer Intern (Summer 2026) | 4.1/5 | Evaluada | ❌ | [359](reports/357-cloudglue-fullstack-ai-intern-2026-04-13.md) | YC W26 video/audio AI APIs; React/TypeScript/Python; ex-Snap/Amazon/CMU founders; DEF CON pub; SF in-person; strong full-stack + multimodal AI match |
 | 357 | 2026-04-12 | Browser Use | Summer SWE Intern (Summer 2026) | 4.4/5 | Evaluada | ❌ | [357](reports/353-browser-use-swe-intern-summer-2026-2026-04-12.md) | YC W25 AI browser agents; $6K-16K/mo SF; App Automation Engine = perfect proof point; apply immediately + contribute to OSS first |
 | 358 | 2026-04-12 | SubImage | Full Stack SWE Intern (Summer 2026) | 4.0/5 | Evaluada | ❌ | [358](reports/356-subimage-fullstack-swe-intern-2026-04-12.md) | YC W25 cybersecurity startup; ~$6K/mo SF on-site; security+AI+fullstack match top-tier; graph DB gap; negotiate comp |
 | 356 | 2026-04-12 | Cartesia | Intern (Software Engineer) | 4.0/5 | Evaluada | ❌ | [356](reports/352-cartesia-swe-intern-2026-04-12.md) | $8-12K/mo; Cambridge/SF; SSM inference infra; Go gap noted; exceptional comp — apply + learn Go first |
