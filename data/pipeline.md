@@ -1217,3 +1217,22 @@
 - [x] https://jobs.lever.co/voleon/100b2cb6-f9cc-42c3-add9-db143a76f0f0 | The Voleon Group | Software Engineer Intern (Summer 2026) — $13,333/mo ($160K annualized); Berkeley CA; quant ML hedge fund; quant trading system (Bloomberg/Alpaca/Sharpe 1.79) = rare differentiator; high-performance distributed systems; **4.1/5** → report #361
 
 <!-- === END 2026-04-13 SCAN v53 === -->
+
+<!-- === NEW 2026-04-13 SCAN v54 (Autonomous Agent — NVIDIA/Adobe/TikTok new listings sweep) === -->
+<!-- Scanned: Greenhouse APIs (Temporal 503), SimplifyJobs README (new today listings), speedyapply AI repo, Extern article (503), Adobe careers page, NVIDIA Workday, TikTok/ByteDance lifeattiktok.com new listings, Cloudflare new intern roles, Datadog (already in history), portals.yml companies (all checked — most skipped_no_intern or skipped_dup) -->
+<!-- Scan scope: 25+ portals/companies, 15+ WebSearch queries -->
+
+### ✅ Evaluated (score ≥ 4.0) — scan-v54
+- [x] https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/System-Software-Engineer-Intern--AI-Infrastructure--Summer-2026_JR2006826 | NVIDIA | System Software Engineer Intern, AI Infrastructure (Summer 2026) — Santa Clara CA; AI agent infra; LangChain+multi-model pipeline exact match; world's most valuable AI company; **4.1/5** → report #362
+
+### 🔷 Priority Pending (score est. 3.7-4.0) — scan-v54
+- [ ] https://careers.adobe.com/us/en/job/R162233/2026-Intern-Generative-AI-Software-Engineer | Adobe | 2026 Intern — Generative AI Software Engineer — San Jose CA hybrid; Adobe Firefly Foundry team; Python/JS + LLMs; $45-55/hr; GenAI products at enterprise scale (~3.8)
+- [ ] https://lifeattiktok.com/search/7600535181632457013 | TikTok | Security Software Engineer Project Intern (Product Security) — 2026 Start; $45-60/hr; pentests, security assessments, JS/Go/Python/Rust; security minor direct match; NOTE: ByteDance brand risk (~3.7)
+
+### 🔸 Pipeline Pending (score est. 3.3-3.7) — scan-v54
+- [ ] https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Software-Engineering-Intern--Omniverse---Summer-2026_JR2007644 | NVIDIA | Software Engineering Intern, Omniverse (Summer 2026) — Santa Clara CA; robotics/simulation platform; Python + C++; less AI pipeline fit but NVIDIA brand (~3.5)
+- [ ] https://careers.adobe.com/us/en/job/R158493/2026-AI-ML-Intern-Machine-Learning-Engineer | Adobe | 2026 AI/ML Intern — Machine Learning Engineer — San Jose CA; ML research track; Python; diffusion/LLM models; less builder-fit (~3.5)
+- [ ] https://lifeattiktok.com/search/7621299118434961669 | TikTok | Software Engineer Project Intern (Content AI Infrastructure) — 2026 Start; $45-60/hr; AI infra + distributed systems; Python/Go/C++; NOTE: ByteDance brand risk (~3.5)
+- [ ] https://lifeattiktok.com/search/7582152132208429365 | TikTok | Backend Software Engineer Intern (Privacy and Security) — 2026 Start; $45-60/hr; backend + privacy/security; Go/Python/Java/C++; NOTE: ByteDance brand risk (~3.4)
+
+<!-- === END 2026-04-13 SCAN v54 === -->

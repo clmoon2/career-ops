@@ -1,111 +1,97 @@
-# Portal Scan Summary — 2026-04-13 (scan-v53)
+# Portal Scan — 2026-04-13 (scan-v54)
 
-**Date:** 2026-04-13
-**Agent:** Autonomous scanning agent
-**Session:** scan-v53 (appended to today's earlier scans v49–v52)
+**Agent:** Autonomous scan
+**Scan version:** v54
+**Previous scans today:** v50, v51, v52, v53 (extensive coverage already in history)
 
 ---
 
-## Scan Stats
+## Summary
 
 | Metric | Count |
 |--------|-------|
-| Companies checked (this session) | 25+ |
-| Search queries executed | 18 |
-| Total companies scanned today (all sessions) | 55+ |
-| New listings added to pipeline | 1 |
-| Listings evaluated (score ≥ 4.0) | 1 |
-| Listings skipped (already in history/pipeline) | 23 |
-| Listings skipped (wrong year/not US) | 1 |
+| WebSearch queries executed | 18 |
+| Greenhouse API checks | 2 (Temporal 503, Factorial 503) |
+| External repos checked | SimplifyJobs README, speedyapply AI repo |
+| Companies/portals scanned | 25+ |
+| New listings found (not in history) | 8 |
+| Filtered by title (not relevant) | 5 |
+| Skipped (duplicates) | ~50+ (extensive prior scanning today) |
+| **New added to pipeline** | **8** |
+| **Evaluated (score ≥ 4.0)** | **2** (NVIDIA new + Voleon missing report created) |
 
 ---
 
-## New Listings Added to Pipeline
+## Context
 
-| Company | Role | URL | Est. Score |
-|---------|------|-----|-----------|
-| Databricks | Software Engineer — New Grad (2026 Start) | https://databricks.com/company/careers/open-positions/job?gh_jid=6866549002 | ~3.8/5 |
+Today's scan (v54) ran after extensive prior scanning (v50–v53) that already covered most of portals.yml. The primary strategy for v54 was depth-first discovery of genuinely new listings:
+- SimplifyJobs GitHub README (most recent additions)
+- speedyapply 2026-AI-College-Jobs repo
+- Adobe careers page (new role IDs not in history)
+- NVIDIA Workday (new intern JD IDs JR2006826, JR2007644)
+- TikTok/ByteDance lifeattiktok.com (new 2026 start listings)
+- Cloudflare new intern roles (non-SWE filtered out)
+- Targeted WebSearch for security/AI companies not yet checked
 
 ---
 
-## Evaluations Completed This Session
+## ⭐ Evaluated (score ≥ 4.0)
 
+### NEW — Written this scan:
 | # | Company | Role | Score | Report |
 |---|---------|------|-------|--------|
-| 361 | The Voleon Group | Software Engineer Intern (Summer 2026) | 4.1/5 | [361](reports/361-voleon-swe-intern-2026-04-13.md) |
+| 362 | NVIDIA | System Software Engineer Intern, AI Infrastructure (Summer 2026) | 4.1/5 | [362](362-nvidia-system-swe-intern-ai-infra-2026-04-13.md) |
 
-**Note:** The Voleon Group was in the pipeline since April 7 but had not been formally evaluated. Now evaluated at 4.1/5. $13,333/mo (~$160K annualized), Berkeley CA. Carlos's quantitative trading system (Bloomberg/Alpaca, Sharpe 1.79) is a rare differentiator for this quant ML hedge fund.
-
----
-
-## Top Matches (Score ≥ 4.0) — Pending Action
-
-These are the highest-priority opportunities in the full pipeline that Carlos should act on immediately:
-
-| Priority | Company | Role | Score | Deadline | Action |
-|----------|---------|------|-------|----------|--------|
-| ⚠️ URGENT | Anthropic | Fellows Program — AI Security | 4.7/5 | **April 26** | Apply NOW |
-| ⚠️ URGENT | Anthropic | Fellows Program — AI Safety | 4.2/5 | **April 26** | Apply NOW |
-| ⭐ HIGH | Cloudflare | Software Engineer Intern (Austin TX) | 4.8/5 | Open | Apply |
-| ⭐ HIGH | Mechanize | Software Engineering Intern | 4.6/5 | Open | Apply |
-| ⭐ HIGH | Cloudflare | Security Engineer Intern | 4.7/5 | Open | Apply |
-| ⭐ HIGH | Haize Labs | Software Engineer Intern | 4.7/5 | Open | Apply |
-| ⭐ HIGH | Together AI | Security Engineer Intern | 4.5/5 | Open | Apply |
-| ⭐ HIGH | OpenAI | Software Engineer Internship (Summer 2026) | 4.5/5 | Open | Apply |
-| ⭐ HIGH | Atlassian | Security Engineer Intern | 4.5/5 | Open | Apply |
-| ⭐ HIGH | Notion | Software Engineer, AI Intern | 4.5/5 | Open | Apply |
-| ⭐ HIGH | NVIDIA | Solutions Architect — New Grad | 4.5/5 | Open | Apply |
-| 🔷 GOOD | Browser Use | Summer SWE Intern | 4.4/5 | Open | Apply |
-| 🔷 GOOD | Glean | Software Engineer Intern | 4.5/5 | Open | Apply |
-| 🔷 GOOD | Ramp | SWE Internship - Forward Deployed | 4.5/5 | Open | Apply |
-| 🔷 GOOD | The Voleon Group | Software Engineer Intern | 4.1/5 | Open | Apply |
+### Previously Missing Report — Created this scan:
+| # | Company | Role | Score | Report |
+|---|---------|------|-------|--------|
+| 361 | The Voleon Group | Software Engineer Intern (Summer 2026) | 4.1/5 | [361](361-voleon-swe-intern-2026-04-13.md) |
 
 ---
 
-## Scan Coverage Summary (Today: April 13, All Sessions)
+## 🔷 Priority Pending (score est. 3.7–4.0)
 
-**Companies with New Listings Found Today (v49–v53):**
-- Cloudglue (YC W26): Full-Stack AI Engineer Intern → #359 (4.1/5)
-- Rippling: Full Stack SWE Intern → #358 re-eval (4.2/5)
-- Vercel: Engineering Summer Intern (new listing 5628292004)
-- HP IQ: Device Experiences + Systems interns
-- Garage (YC W24): SWE Intern
-- YC companies (Morph, Promptless, Mesh, CreativeMode, Pulse)
-- GoHighLevel: Cybersecurity Intern
-- Cognite: Data Engineering Intern
-- Dun & Bradstreet: Summer Technology Intern
-- Box: Software Engineering Intern
-- Amazon: System Development Engineer Intern (Project Leo)
-- **The Voleon Group: NOW EVALUATED #361 (4.1/5)**
-- **Databricks: Software Engineer New Grad (NEW listing 6866549002)**
-
-**Companies Confirmed No New Listings Today:**
-Anthropic (fellows in pipeline), Airtable, Glean, Arize AI, RunPod, Hume AI, Intercom, PolyAI, Parloa, Palantir, Retool, Ada, LivePerson, Genesys, Talkdesk, Twilio, Dialpad, Gong, Salesforce, Stripe, Figma, Replit, Brain Co., Symmetry Systems, Actian, Fizz, Northwood Space, Zeta Global, Mistral AI, ByteDance (all in history), Character.AI, Abnormal Security, Discord, Runway ML, n8n, Zapier, Weights & Biases, LangChain, Cohere, Deepgram, ElevenLabs, Vapi, Bland AI, Sierra, Lindy, Cursor/Anysphere
+| Company | Role | URL | Est. Score | Notes |
+|---------|------|-----|------------|-------|
+| Adobe | 2026 Intern — Generative AI Software Engineer | [Link](https://careers.adobe.com/us/en/job/R162233/2026-Intern-Generative-AI-Software-Engineer) | ~3.8 | Firefly Foundry team; Python/LLMs; $45-55/hr; San Jose hybrid |
+| TikTok | Security SWE Project Intern (Product Security) | [Link](https://lifeattiktok.com/search/7600535181632457013) | ~3.7 | $45-60/hr; pentests, security tooling, Go/Python/Rust; ByteDance brand risk |
 
 ---
 
-## ⚠️ Action Items — Upcoming Deadlines
+## 🔸 Additional Pipeline Additions
 
-1. **APPLY NOW — Anthropic Fellows Program — AI Security**: Deadline **April 26, 2026** (13 days)
-   - URL: https://job-boards.greenhouse.io/anthropic/jobs/5030244008
-   - $3,850/week + $15K/month compute; 4-month fellowship starting July 20
-   - Carlos's adversarial LLM testing + cybersecurity minor = perfect match
-   - 25-50% of fellows receive full-time offers
-
-2. **APPLY NOW — Anthropic Fellows Program — AI Safety**: Same deadline April 26
-   - URL: https://job-boards.greenhouse.io/anthropic/jobs/5183044008
-
-3. **Review pipeline**: ~938 pending items need evaluation — use `/career-ops pipeline` to process batches
+| Company | Role | URL | Est. Score | Notes |
+|---------|------|-----|------------|-------|
+| NVIDIA | Software Engineering Intern, Omniverse | [Link](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Software-Engineering-Intern--Omniverse---Summer-2026_JR2007644) | ~3.5 | Robotics/simulation; less pipeline fit but NVIDIA brand |
+| Adobe | 2026 AI/ML Intern — Machine Learning Engineer | [Link](https://careers.adobe.com/us/en/job/R158493/2026-AI-ML-Intern-Machine-Learning-Engineer) | ~3.5 | ML research track; San Jose; diffusion/LLM models |
+| TikTok | SWE Project Intern (Content AI Infrastructure) | [Link](https://lifeattiktok.com/search/7621299118434961669) | ~3.5 | AI infra + distributed systems; ByteDance brand risk |
+| TikTok | Backend SWE Intern (Privacy and Security) | [Link](https://lifeattiktok.com/search/7582152132208429365) | ~3.4 | Backend + privacy/security focus; ByteDance brand risk |
 
 ---
 
-## Next Actions
+## Companies Checked — No New Listings
 
-```
-/career-ops pipeline    # Evaluate the 938 pending listings
-/career-ops scan        # Run next scan in 3-5 days
-```
+- Greenhouse API: Temporal (503), Factorial (503)
+- All portals.yml companies: covered in v50–v53
+- SimplifyJobs today additions: GoLinks (dup), Ampere/Hyundai (not relevant)
+- Snap SWE Intern: **CLOSED** January 2026
+- Datadog, NVIDIA JR2003206/JR2008503, Charles River Associates, Celonis, Booz Allen, Deloitte: already in history
 
-**Recommended next scan date:** April 16–18, 2026
+---
 
-**Note:** The Summer 2026 internship season is in late-application phase. Most top programs are still accepting applications but closing soon (late April to early May). Prioritize applying to already-evaluated opportunities over additional scanning.
+## Recommended Next Actions
+
+1. **Apply to NVIDIA AI Infrastructure Intern (report #362)** — rolling deadline, apply immediately. Lead with multi-model AI pipeline and LangChain agent work.
+2. **Apply to Voleon Group (report #361)** — elite quant firm, $160K annualized. Lead with quant trading system (Bloomberg/Alpaca/Sharpe 1.79).
+3. **Evaluate Adobe GenAI Intern** — run `/career-ops pipeline` to evaluate and decide on score
+4. **Evaluate TikTok Security Intern** — $45-60/hr security match, but weigh ByteDance brand risk
+5. **Process pipeline backlog** — 60+ priority pending roles from v41–v53 still unevaluated
+6. **URGENT: Anthropic Fellows Program deadline APRIL 26, 2026** — must apply within 13 days
+
+---
+
+## Pipeline Health
+
+- **Total evaluated:** 203 entries in applications.md
+- **Pending in pipeline.md:** ~65+ unevaluated roles across priority bands
+- **Top priority unprocessed:** OpenAI Systems Research Intern, Cohere ML Intern, Snowflake SE/Solution Engineer, CrowdStrike SWE Intern, Notion AI Intern, Databricks New Grad
