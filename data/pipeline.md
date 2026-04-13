@@ -1226,3 +1226,11 @@
 - [ ] https://ankura.wd5.myworkdayjobs.com/en-US/ankura/job/Texas/University-Intern--AI_R104691 | Ankura | University Intern - AI — Texas; consulting/advisory firm; AI analytics for legal/financial consulting; technology consulting archetype partial fit; (~2.6)
 
 <!-- === END 2026-04-13 SCAN v54 === -->
+
+<!-- === NEW 2026-04-13 SCAN v54b (Autonomous Agent — gap-fill sweep: Snap, Samsung Bixby, Waabi, semiconductors, defense, finance, niche cybersecurity, DevOps tools, social media; 1 new listing found; history now 1752 entries) === -->
+<!-- No listings scored ≥4.0. 1 new listing added to pipeline. -->
+
+### 🔸 Pipeline Pending (score est. ~3.2) — scan-v54b
+- [ ] https://jobs.lever.co/waabi/9873fd9d-285f-4bf5-ac74-f69547615bc9 | Waabi | Systems Engineer Internship/Co-op (Summer 2026) | 3.2/5 | Autonomous driving AI; Python+Rust (Carlos has Rust via typing daemon); LLM usage for requirements generation; Platform Requirements & Verification team; Toronto/SF/Dallas TX/Pittsburgh; Dallas TX = no-relocation advantage
+<!-- Scanned and confirmed no new roles: Snap SWE Intern (CLOSED Jan 27 2026), Samsung Bixby Edge AI Language (research role, on-device ML, publications expected, Mountain View CA — 2.7/5), Qualcomm (hardware focus only), Intel (no SWE interns for Summer 2026), AMD (no relevant listings), L3Harris (defense hardware), Lockheed Martin (clearance required), Raytheon/RTX (no relevant listings), Capital One (in history), JPMorgan (in history), Goldman Sachs (in history, closed), ServiceNow (in history, closed), MITRE (in history), Tenable (no intern program), Rapid7 (no US interns), Darktrace (no intern program), GitLab (all senior/FTE), Harness (no intern roles), Cisco (no direct URL found), Pinterest (no relevant postings), Reddit (no relevant postings), iHeartMedia (in history), Giga ML (in history), Dev Technology (in history), Best Egg (in history), SoloPulse (in history), NimbleRx (in history), Veeva (in history), Nominal (in history), CoVar (in history), Robinhood Agentic ML (in history), Datacor (in history), Delinea (in history) -->
+<!-- === END 2026-04-13 SCAN v54b === -->
