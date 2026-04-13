@@ -1701,3 +1701,17 @@ https://job-boards.greenhouse.io/vercel	2026-04-13	scan-v51-greenhouse-api	(no n
 https://job-boards.greenhouse.io/runpod	2026-04-13	scan-v51-greenhouse-api	(no intern roles — all senior FTE or APAC)	RunPod	skipped_no_intern
 https://job-boards.greenhouse.io/gleanwork	2026-04-13	scan-v51-greenhouse-api	(no new intern roles — university grad 4592324005 already in history)	Glean	skipped_dup
 https://job-boards.greenhouse.io/arizeai	2026-04-13	scan-v51-greenhouse-api	(no intern roles — all senior FTE or sales)	Arize AI	skipped_no_intern
+https://job-boards.greenhouse.io/intercom	2026-04-13	scan-v52-greenhouse-api	(no intern/entry-level SWE roles — all mid-senior FTE)	Intercom	skipped_no_intern
+https://job-boards.eu.greenhouse.io/polyai	2026-04-13	scan-v52-greenhouse-api	(no intern roles — all senior FTE or specialist; one FDE role UK-only)	PolyAI	skipped_no_intern
+https://job-boards.eu.greenhouse.io/parloa	2026-04-13	scan-v52-greenhouse-api	(no intern roles — all senior FTE across EU/US offices)	Parloa	skipped_no_intern
+https://www.amazon.jobs/en/jobs/3168855/system-development-engineer-internship-2026-us-project-leo	2026-04-13	scan-v52-websearch	System Development Engineer Internship 2026 - Project Leo	Amazon	added
+https://fticonsult.referrals.selectminds.com/jobs/2026-intern-technology-20954	2026-04-13	scan-v52-websearch	2026 Intern - Technology	FTI Consulting	skipped_closed
+https://careers.snowflake.com/us/en/job/SNCOUS8D56A754404A4DDCAA2A5B8D04D6F423EXTERNALENUS9D4D785AAD514D83A9939F8D71DD29F4/Cloud-DevOps-Intern-Summer-2026	2026-04-13	scan-v52-websearch	Cloud DevOps Intern - Summer 2026	Snowflake	skipped_closed
+https://jobs.lever.co/palantir	2026-04-13	scan-v52-lever	(all intern/new-grad roles already in history)	Palantir	skipped_dup
+https://cursor.com/careers	2026-04-13	scan-v52-websearch	(no structured intern program — SDE FTE only, Anysphere)	Cursor/Anysphere	skipped_no_intern
+https://job-boards.greenhouse.io/discord	2026-04-13	scan-v52-greenhouse	(no SWE intern roles — all senior FTE; Community intern is non-technical)	Discord	skipped_no_intern
+https://runwayml.com/careers	2026-04-13	scan-v52-websearch	(Greenhouse board inaccessible — all FTE roles, no intern program found)	Runway ML	skipped_no_intern
+https://character.ai/careers	2026-04-13	scan-v52-websearch	(no intern roles — all senior research/engineering FTE)	Character.AI	skipped_no_intern
+https://careers.abnormalsecurity.com	2026-04-13	scan-v52-websearch	(no intern roles — all mid/senior FTE)	Abnormal Security	skipped_no_intern
+https://www.genesys.com/careers	2026-04-13	scan-v52-websearch	(no US intern roles — confirmed again EU/Toronto focus)	Genesys	skipped_no_intern
+https://job-boards.greenhouse.io/talkdesk2	2026-04-13	scan-v52-greenhouse	(no 2026 summer intern roles — only Summer 2025 intern found, closed)	Talkdesk	skipped_no_intern

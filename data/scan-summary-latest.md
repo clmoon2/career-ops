@@ -1,94 +1,79 @@
-# Portal Scan — 2026-04-13 (scan-v51 — Autonomous Agent)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Portal Scan Summary — 2026-04-13 (v52)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan version:** v51
+**Scan version:** v52 (Autonomous Agent)
 **Date:** 2026-04-13
-**Candidate:** Carlos Luna-Peña
+**Run after:** v51 (same day — deep exhaustion sweep)
 
 ---
-
-## v51 Summary
-
-| Metric | Count |
-|--------|-------|
-| Portals / queries executed | 30+ |
-| Companies checked | 26 (Greenhouse APIs + WebSearch) |
-| New listings added to pipeline | **5** |
-| Evaluated (score ≥ 4.0) | **1** |
-| Reports written | 1 (#358 Rippling) |
-
-### Top Match — Rippling Full Stack SWE Intern (4.2/5)
-- **$75/hr** — top-quartile intern comp (above Palantir $60/hr)
-- Python (Flask) + React stack: exact match to Carlos's Finch platform
-- SF or NYC, 13 weeks, 150+ intern cohort (doubling from 2025)
-- **Apply immediately** — verify listing is open via browser (ATS is JS-rendered)
-- Report: [#358](reports/358-rippling-fullstack-swe-intern-2026-04-13.md)
-
-### Other New Pipeline Additions
-- Box SWE Intern (3.7/5) — Redwood City CA, established cloud company
-- GoHighLevel Cybersecurity Intern (3.3/5) — remote, India-facing, below threshold
-- Cognite Data Engineering Intern (3.2/5) — industrial AI/IoT
-- D&B Technology Internship (3.0/5) — enterprise data analytics
-
-### Recommended Immediate Actions
-1. Apply to **Rippling** — highest priority new listing
-2. Apply to **Browser Use** (4.4/5, already in pipeline) — highest overall score in pipeline
-3. Apply to **Atlassian Security Intern** (4.5/5, already in pipeline, Seattle $49-75/hr)
-4. Apply to **Anthropic Fellows Program — AI Security** (deadline April 26!)
-
----
-
-## Previous Scan (v50) — 2026-04-13
-**Previous scan:** v49 (2026-04-13)
 
 ## Results
 
 | Metric | Count |
 |--------|-------|
-| Companies scanned | 30+ |
-| Total URLs checked | ~300 |
-| New listings found (passed title filter) | 5 |
-| Filtered by title (negative keyword / location) | 2 |
-| Already in history (skipped_dup / skipped_no_intern) | 17+ |
-| Added to pipeline.md | 5 |
+| Companies scanned | 70+ |
+| Search queries executed | 40+ |
+| New listings found | 1 |
+| Listings filtered (title pass) | 1 |
+| Duplicates (already in history) | 65+ |
+| No intern program confirmed | 15+ |
+| Score ≥ 4.0 (new reports) | 0 |
+| scan-history.tsv size after | 1,717 entries |
 
-## New Listings Added
+---
 
-### 🟡 Pipeline Pending (score est. 3.5-4.0)
+## New Listing Found
 
-| Company | Role | Est. Score | Notes |
-|---------|------|-----------|-------|
-| Garage (YC W24) | Software Engineering Intern (Summer 2026) | ~3.8 | NYC; $6K-8K/mo; AI appraisal + marketplace; React/FastAPI |
-| HP IQ | SWE Intern, Device Experiences (Summer 2026) | ~3.2 | SF; device-level AI features; Python/C++ |
-| HP IQ | SWE Intern, Systems (Summer 2026) | ~3.0 | SF; OS integrations; carlosOS relevant |
+### Below threshold (score < 4.0) — no full report
 
-### 🟠 Pipeline Pending (score est. <3.0)
+| Company | Role | URL | Score est. | Notes |
+|---------|------|-----|-----------|-------|
+| Amazon | System Development Engineer Internship 2026 - Project Leo | https://www.amazon.jobs/en/jobs/3168855/ | ~3.0/5 | Satellite internet; Python/C/C++; Redmond WA in-office; systems/embedded focus — not primary SWE/AI/security target; rising senior required |
 
-| Company | Role | Est. Score | Notes |
-|---------|------|-----------|-------|
-| Edged Energy | 2026 Summer Data Science Intern | ~2.2 | Remote; data center analytics; low AI-product fit |
-| Edged IQ | 2026 Engineering Analytics Intern | ~1.8 | Remote; BI/analytics; low target archetype fit |
+---
 
-## Filtered Out
+## Coverage Summary
 
-| Company | Role | Reason |
-|---------|------|--------|
-| HP IQ | SWE Intern, Firmware (Summer 2026) | Negative keyword: "Firmware" |
-| Goodnotes | Machine Learning Internship (Summer 2026) | London UK only — out of scope |
+### Greenhouse API checks (new this scan)
+- **Intercom** — No intern roles (all mid-senior FTE)
+- **PolyAI** — No intern roles (UK/Serbia FTE only)
+- **Parloa** — No intern roles (EU/US FTE only)
 
-## Portals Scanned (no new listings)
+### WebSearch sweeps (broad discovery)
+- **Big Tech:** Amazon (1 new), Google ✓, Microsoft ✓, Meta ✓, Stripe ✓, Databricks ✓, Datadog ✓
+- **Security:** CrowdStrike ✓, Palo Alto Networks ✓, SentinelOne ✓, Snyk (no US), Wiz (NJ only), Abnormal Security (no interns), Tenable/Rapid7 (no results)
+- **Consulting:** Deloitte ✓, Accenture ✓, Booz Allen ✓, PwC ✓, FTI Consulting (closed), McKinsey (opens Jul 2026)
+- **AI/DevOps:** Together AI ✓, Character.AI (no interns), Perplexity (UK/Belgrade only), Harvey ✓, Hugging Face ✓, Modal (no interns), Grafana Labs (no interns)
+- **portals.yml tail:** Salesforce ✓, ByteDance ✓, Twilio ✓, Retool (no interns), Gong (no interns), Dialpad ✓, Talkdesk (no 2026), Genesys (no US), LivePerson (EMEA), Cognigy (EMEA), Speechmatics (UK)
+- **Other:** Snowflake (Cloud DevOps intern closed 410), Netflix ✓, Robinhood ✓, SpaceX ✓, Anduril ✓, Discord (no SWE interns), Runway ML (no intern program), Quora/Poe ✓, Okta ✓, OpenAI ✓
 
-- Temporal, Intercom, PolyAI — all senior FTE only
-- Hume AI, Airtable, Glean, Vapi — all known roles, no new interns
-- RunPod, Arize AI — no intern programs
-- Pinecone, Weights & Biases — no new interns beyond history
-- n8n, Zapier, Attio, TravelPerk, Bland AI, Lindy — no intern programs
+---
+
+## Assessment
+
+This scan ran after v49, v50, and v51 — all three completed earlier today (2026-04-13). The scan history has grown to 1,717 entries across 8 days of intensive scanning. The pipeline is saturated with the best available summer 2026 internship opportunities.
+
+**Key insight:** The vast majority of Summer 2026 intern application windows closed in December 2025–February 2026. We're now in a late-cycle phase where:
+- Most known companies have been scanned
+- New postings are rare (1 new listing this scan vs. 20+ in early April scans)
+- Focus should shift from discovery to applications on the existing pipeline
+
+---
 
 ## Recommended Next Actions
 
-1. **Evaluate Garage (YC W24)** — highest est. score at ~3.8; AI appraisal platform + full-stack; YC pedigree; good React/Python match
-2. **Evaluate HP IQ Device Experiences** — HP AI lab, SF; worth a quick eval to confirm fit
-3. **Skip Edged Energy / Edged IQ** — low fit scores, analytics-focused rather than SWE/AI-product
+1. **Apply to pending ≥3.7 scores** — Vercel Engineering Intern (~3.8, $9.5K-11K/mo) in pipeline from scan-v49 is the highest unreviewed item
+2. **Review evaluated reports** — Reports #357 (Cloudglue 4.1) and #358 (Rippling 4.2) from today are ready for application decision
+3. **Reduce scan frequency** — Consider weekly rather than daily scans; market is saturating for summer 2026 roles
+4. **Watch for late-opening programs** — A few companies (McKinsey opens July 2026, some defense/gov contractors) still have future windows
+5. **Amazon Project Leo** — Added to pipeline at ~3.0/5; only apply if pipeline is very light and you want a brand-name stamp
 
-→ Run `/career-ops pipeline` to evaluate the new listings.
-→ Next scan recommended in 2-3 days (scan-v51).
+---
+
+## Pipeline Health
+
+Current evaluated reports: #001–#358 (358 total)
+Current pipeline pending items: ~12 (various score tiers from v47–v52)
+Top unreviewed pending: Vercel Engineering Intern (~3.8) from scan-v49
+
+→ Run `/career-ops pipeline` to evaluate pending items from the queue.

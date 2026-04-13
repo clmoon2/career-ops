@@ -2,6 +2,14 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-13 SCAN v52 (Autonomous Agent — 55+ company sweep: Greenhouse APIs for Intercom/PolyAI/Parloa, Big Tech, Security, Consulting, AI/DevOps, portals.yml tail; 1 new listing found; history now 1717 entries) === -->
+<!-- No listings scored ≥4.0. 1 new listing added to pipeline. -->
+
+### 🔸 Pipeline Pending (score est. ~3.0) — scan-v52
+- [ ] https://www.amazon.jobs/en/jobs/3168855/system-development-engineer-internship-2026-us-project-leo | Amazon | System Development Engineer Internship 2026 - Project Leo | 3.0/5 | Satellite internet (low-Earth orbit); Python/C/C++; in-office Redmond WA; systems focus not primary target; strong brand but not AI/security/SWE match; rising senior required (grad Oct 2026–Sep 2029)
+<!-- Scanned and confirmed no new roles (all in history): Intercom (no interns), PolyAI (no interns), Parloa (no interns), Dialpad (in history), Genesys (no US interns), Talkdesk (no 2026 summer), LivePerson (EMEA), Cognigy (EMEA), Speechmatics (UK), Salesforce (in history), ByteDance (in history), Twilio (in history), Retool (no interns), Gong (no interns), CrowdStrike (in history), Palo Alto Networks (in history), SentinelOne (in history), Snyk (no US interns), Wiz (NJ only), Stripe (in history), Databricks (in history), Datadog (in history), Hugging Face (in history), Modal (no interns), Together AI (in history), Character.AI (no interns), Perplexity (UK/Belgrade only), Harvey (in history), Notion (in history), Ramp (in history), Replit (in history), Giga (in history), Farsight AI (in history), SpaceX (in history), Anduril (in history), Robinhood (in history), xAI (in history, eng intern = hardware focus), Tesla (in history), Snowflake (in history, Cloud DevOps intern closed), Netflix (in history), Microsoft (in history), Google (in history), Meta (in history), Runway ML (no intern program), Quora/Poe (in history), Okta (in history), OpenAI (in history), Etched (in history), Ironclad (in history), Decagon (in history), Zip (in history), Fizz (in history), Walrus (in history), SubImage (in history), Mach Industries (in history), Air Space Intelligence (in history), Abnormal Security (no interns), Discord (no SWE interns), Deloitte (in history), Accenture (in history), Booz Allen (in history), PwC (in history), FTI Consulting (closed), Grammarly (in history), Scale AI (in history), C3 AI (in history), DoorDash (in history), Figma (in history) -->
+<!-- === END 2026-04-13 SCAN v52 === -->
+
 <!-- === NEW 2026-04-13 SCAN v51 (Autonomous Agent — 25+ company Greenhouse API + WebSearch sweep; Rippling discovered) === -->
 <!-- ⭐ EVALUATED: Rippling 4.2/5 → report #358 ⭐ -->
 
