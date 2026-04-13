@@ -2,6 +2,15 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-13 SCAN v55 (Autonomous Agent — deep freshness sweep: portals.yml full re-check, Greenhouse APIs for RunPod/Arize/Workato/Glean, Ashby for Perplexity/Letta/LlamaIndex/Cursor/Anyscale, Lever for new companies, SimplifyJobs/speedyapply repos, 30+ WebSearch queries across SWE/Security/AI/DevOps/quant/defense; 1 new listing found; history now 1763 entries) === -->
+<!-- No listings scored ≥4.0. 1 new listing added to pipeline. -->
+<!-- Companies confirmed no new intern roles this scan: RunPod (no interns — all senior FTE), Arize AI (no interns), Workato Intern AI Engineering (MS/PhD only), Anyscale (listing closed), Perplexity (UK/Belgrade only), Letta (no intern program), LlamaIndex (no intern program), Cursor/Anysphere (no intern program), OpenAI Fellows+Systems Research (all in history), Anthropic Fellows (all in history), PIP Labs (Web3 — filtered), Pivotal aerospace (below threshold — 2.0/5), Groq (Winter only — no Summer 2026), Coreweave (no interns), Fireworks AI (no intern program), OpenPipe (acquired by CoreWeave), Braintrust (no intern program), Shopify (closed), Netflix (no active Summer 2026), Snyk (UK/Israel), ServiceNow ML Intern (already in history), Decagon (intern closed), Versana scored 2.5/5 — see pipeline below -->
+
+### 🟠 Pipeline Pending (score est. ~2.5) — scan-v55
+- [ ] https://jobs.lever.co/Versana/f07c26bc-7359-44ba-b11e-8d1aaf97c001 | Versana | Tech Internship (Summer 2026) | 2.5/5 | NYC in-office; fintech for syndicated loan credit markets; Java/SQL/React stack; not AI-focused; no comp listed; below primary threshold — apply only if NYC preferred and pipeline is very light
+
+<!-- === END 2026-04-13 SCAN v55 === -->
+
 <!-- === NEW 2026-04-13 SCAN v52 (Autonomous Agent — 55+ company sweep: Greenhouse APIs for Intercom/PolyAI/Parloa, Big Tech, Security, Consulting, AI/DevOps, portals.yml tail; 1 new listing found; history now 1717 entries) === -->
 <!-- No listings scored ≥4.0. 1 new listing added to pipeline. -->
 

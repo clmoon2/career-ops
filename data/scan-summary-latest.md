@@ -1,143 +1,117 @@
-# Portal Scan Summary — 2026-04-13 (scan-v54)
+# Portal Scan Summary — 2026-04-13 (v55)
 
-**Date:** 2026-04-13
-**Agent:** Autonomous scanning agent
-**Session:** scan-v54 (appended to today's earlier scans v49–v53)
+**Scan ID:** v55  
+**Date:** 2026-04-13  
+**Candidate:** Carlos Luna-Peña  
+**Target:** Summer 2026 internships + 2026 new grad roles — SWE, Security, AI/ML, DevOps, Consulting
 
 ---
 
-## Scan Stats
+## Summary
 
 | Metric | Count |
 |--------|-------|
-| Companies checked (this session) | 40+ |
-| Search queries executed | 25+ |
-| Total companies scanned today (all sessions) | 70+ |
-| New listings added to pipeline | 2 |
-| Listings evaluated (score ≥ 4.0) | 0 |
-| Listings skipped (already in history/pipeline) | 50+ |
-| Listings skipped (closed/wrong year/no intern) | 9 |
+| Companies / portals scanned | 30+ |
+| WebSearch queries executed | 25+ |
+| Total history entries (cumulative) | 1,763 |
+| New URLs discovered this scan | 11 |
+| New listings added to pipeline | 1 |
+| Listings scored ≥ 4.0 | 0 |
+| Full evaluation reports written | 0 |
 
 ---
 
-## New Listings Added to Pipeline
+## Scan Coverage
 
-| Company | Role | URL | Est. Score |
-|---------|------|-----|-----------|
-| GDIT (General Dynamics IT) | AI/ML Associate Intern | https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-VA-Springfield/Artificial-Intelligence-Machine-Learning-Associate-Intern_RQ218217-1 | ~2.3/5 |
-| Ankura | University Intern - AI | https://ankura.wd5.myworkdayjobs.com/en-US/ankura/job/Texas/University-Intern--AI_R104691 | ~2.6/5 |
+### Greenhouse APIs (direct)
+- **RunPod** — no intern roles (18 roles, all senior FTE)
+- **Arize AI** — no intern roles (30 roles, all senior/PM/sales)
+- **Workato** — AI Engineering Intern requires MS/PhD (publications at NeurIPS/ICML); skipped
+- **Glean** — University Grad confirmed still active (already in pipeline #340, 4.5/5)
+- **Anthropic** — Fellows Program (AI Safety, AI Security, ML Systems, RL) all confirmed in history; deadline April 26
 
-**Note:** Both new listings score below 3.5/5 and are NOT recommended for application. GDIT is a defense IT contractor with low pay ($22-31/hr), and Ankura is a litigation/financial advisory firm using AI tools rather than building them. Included in pipeline for completeness only.
+### Ashby Boards (direct)
+- **Perplexity** — 4 intern roles all UK/Belgrade/London; US Research Residency ($220K) is grad-level
+- **Letta (MemGPT)** — no intern program; all senior FTE
+- **LlamaIndex** — no intern program; all senior FTE
+- **Cursor/Anysphere** — confirmed no intern program (3rd confirmation)
+- **Anyscale** — SWE Intern 26' listing now closed on Ashby
 
----
+### Lever Discovery
+- **Versana** — Tech Internship NYC — NEW, 2.5/5 (below threshold, see pipeline)
+- **Pivotal** (aerospace) — SWE Intern — NEW, 2.0/5 (aerospace tilt-aircraft; below threshold; skipped)
+- **PIP Labs** — Software Engineer Intern — filtered (Web3/Story Protocol blockchain = negative keyword)
 
-## Evaluations Completed This Session
+### Other Portals Confirmed (all in history)
+- SimplifyJobs/Summer2026-Internships repo: HP IQ, Motorola Solutions, iHeartMedia, GoLinks, Anduril Frontier Systems — all already in history
+- speedyapply/2026-SWE-College-Jobs + 2026-AI-College-Jobs: Booz Allen AI Analyst, GDIT, GR0, Hootsuite — all in history
+- YC board: all W24-W26 company internships confirmed in history
+- Greenhouse/Ashby/Lever sweep queries (15+ searches): all results in history
 
-None — no new listings scored ≥ 4.0.
-
----
-
-## Companies Confirmed No New Listings (v54 deep sweep)
-
-**Defense/Consulting/Quant (new targets checked):**
-- Wiz: no intern roles (only experienced hires on Lever)
-- SentinelOne AI/ML Intern: PhD required, listing now 404 (closed)
-- D.E. Shaw Software Developer Intern: application deadline passed (~Dec 2025)
-- Saronic Systems SWE Intern (ae36dcf1): 403 Forbidden — closed
-- Booz Allen Hamilton: AI Data Analyst Intern (added earlier, scan-v38)
-- GR0: Applied AI Engineering Intern (added earlier, scan-v38)
-
-**portals.yml companies confirmed no intern/new-grad roles:**
-- Temporal: 0 open jobs (board empty)
-- Pinecone: API 404 (endpoint unavailable)
-- Decagon: 60+ senior roles only, no intern/new-grad
-- Attio, TravelPerk, Tinybird, Clarity AI, Factorial, Langfuse, Cognigy, Speechmatics, Make.com: confirmed in prior scans (all EMEA-focused or no intern roles)
-
-**Security/AI companies (confirmed duplicate or closed):**
-- CrowdStrike SWE Intern: in history since 4/8
-- Palo Alto Networks SWE Intern: in history since 4/8
-- Jane Street SWE Intern: in history since 4/8
-- Scale AI SWE Intern + ML Research Intern: in history since 4/7
-- Hugging Face ML Intern: in history since 4/8
-- Deloitte Cyber Intern: in history since 4/5 and 4/8
-- Accenture Technology Analyst: in history since 4/7-4/8
-- Google SWE Intern (Summer 2026): in history since 4/8-4/11
+### Confirmed Closed/No Interns (re-verified)
+- Groq: Winter 2026 only — no Summer 2026 intern program
+- CoreWeave: no intern roles (API confirmed)
+- Fireworks AI: no intern program found
+- OpenPipe: acquired by CoreWeave (no standalone jobs)
+- Braintrust Data: no intern program (LLM eval SaaS)
+- Shopify USA Engineering Internship: closed
+- Netflix: no active Summer 2026 listings
+- Snyk: UK/Israel focused — no US intern roles
+- Decagon: Agent SWE Intern listing closed
+- ServiceNow ML Intern: already in history (skipped_dup)
 
 ---
 
-## Top Matches (Score ≥ 4.0) — Pending Action
+## New Listings Found (1 total)
 
-These are the highest-priority opportunities in the full pipeline that Carlos should act on immediately:
+### Pipeline Only (score < 4.0)
 
-| Priority | Company | Role | Score | Deadline | Action |
-|----------|---------|------|-------|----------|--------|
-| ⚠️ URGENT | Anthropic | Fellows Program — AI Security | 4.7/5 | **April 26** | Apply NOW |
-| ⚠️ URGENT | Anthropic | Fellows Program — AI Safety | 4.2/5 | **April 26** | Apply NOW |
-| ⭐ HIGH | Cloudflare | Software Engineer Intern (Austin TX) | 4.8/5 | Open | Apply |
-| ⭐ HIGH | Cloudflare | Security Engineer Intern | 4.7/5 | Open | Apply |
-| ⭐ HIGH | Haize Labs | Software Engineer Intern | 4.7/5 | Open | Apply |
-| ⭐ HIGH | Mechanize | Software Engineering Intern | 4.6/5 | Open | Apply |
-| ⭐ HIGH | Together AI | Security Engineer Intern | 4.5/5 | Open | Apply |
-| ⭐ HIGH | OpenAI | Software Engineer Internship (Summer 2026) | 4.5/5 | Open | Apply |
-| ⭐ HIGH | Atlassian | Security Engineer Intern | 4.5/5 | Open | Apply |
-| ⭐ HIGH | Notion | Software Engineer, AI Intern | 4.5/5 | Open | Apply |
-| ⭐ HIGH | NVIDIA | Solutions Architect — New Grad | 4.5/5 | Open | Apply |
-| ⭐ HIGH | Glean | Software Engineer Intern | 4.5/5 | Open | Apply |
-| ⭐ HIGH | Ramp | SWE Internship - Forward Deployed | 4.5/5 | Open | Apply |
-| 🔷 GOOD | Browser Use | Summer SWE Intern | 4.4/5 | Open | Apply |
-| 🔷 GOOD | The Voleon Group | Software Engineer Intern | 4.1/5 | Open | Apply |
+| # | Company | Role | Location | Score | URL |
+|---|---------|------|----------|-------|-----|
+| 1 | Versana | Tech Internship (Summer 2026) | New York, NY | 2.5/5 | [Link](https://jobs.lever.co/Versana/f07c26bc-7359-44ba-b11e-8d1aaf97c001) |
+
+**Versana scoring rationale:**
+- Fintech company for syndicated loan credit markets (not AI/security domain)
+- Stack: Java, SQL, React — Java is in negative filter; React is a fit
+- No AI/ML component to the work
+- NYC in-office (not Texas; requires relocation)
+- No comp listed (unknown rate)
+- Not a primary target archetype; apply only if pipeline is very light
 
 ---
 
-## Scan Coverage Summary (Today: April 13, All Sessions v49–v54)
+## Top Matches (score ≥ 4.0)
 
-**Session v54 — New Companies Scanned:**
-GDIT, Ankura, Wiz, D.E. Shaw, SentinelOne, Saronic (Systems), Temporal, Pinecone, Decagon, Visa, ServiceNow, Artera, CrowdStrike, Palo Alto Networks, Jane Street, Scale AI, Hugging Face, Snowflake, Datadog, Grafana, Sentry, Google, SAIC, Leidos, Microsoft, Netflix (new grad), Meta, DV Trading, Workato, Rocket Lawyer, Output Biosciences, HRT, Citadel, Harvey, Replit (new grad), YC W26 sweep (Swif.ai, Candle, Reacher, 14.ai, Circleback, a0.dev, SafetyKit, Dex, Ember, AviaryAI, Socratix AI, Waypoint Transit)
-
-**Companies with New Listings Found Today (v49–v54):**
-- Cloudglue (YC W26): Full-Stack AI Engineer Intern → #359 (4.1/5)
-- Rippling: Full Stack SWE Intern → #358 re-eval (4.2/5)
-- Vercel: Engineering Summer Intern (new listing 5628292004)
-- HP IQ: Device Experiences + Systems interns
-- Garage (YC W24): SWE Intern
-- Amazon: System Development Engineer Internship (Project Leo)
-- The Voleon Group: EVALUATED #361 (4.1/5)
-- Databricks: Software Engineer New Grad (new listing 6866549002)
-- GDIT: AI/ML Associate Intern (new, ~2.3/5)
-- Ankura: University Intern - AI (new, ~2.6/5)
+**None found this scan.** The pipeline has been comprehensively scanned across 55+ iterations (v1-v55) covering 1,763 unique listings. The Summer 2026 internship landscape for Carlos's targets is well-represented in the existing pipeline.
 
 ---
 
-## ⚠️ Action Items — Upcoming Deadlines
+## Existing High-Priority Pipeline (already evaluated, action required)
 
-1. **APPLY NOW — Anthropic Fellows Program — AI Security**: Deadline **April 26, 2026** (13 days)
-   - URL: https://job-boards.greenhouse.io/anthropic/jobs/5030244008
-   - $3,850/week + $15K/month compute; 4-month fellowship starting July 20
-   - Carlos's adversarial LLM testing + cybersecurity minor = perfect match
-   - 25-50% of fellows receive full-time offers
+These were previously found and evaluated — prioritize applications now:
 
-2. **APPLY NOW — Anthropic Fellows Program — AI Safety**: Same deadline April 26
-   - URL: https://job-boards.greenhouse.io/anthropic/jobs/5183044008
-
-3. **Review pipeline**: ~940+ pending items need evaluation — use `/career-ops pipeline` to process batches
-
----
-
-## Scan Assessment
-
-**The Summer 2026 internship market is in late-application phase.** The previous scans (v1–v53) were extremely comprehensive, covering 1,700+ listings across 200+ companies. This v54 sweep confirmed that coverage is now close to exhaustive for the major job boards.
-
-**Recommendation:** Rather than continuing to scan, Carlos should focus all energy on **applying to already-evaluated high-score roles** — particularly the Anthropic Fellows deadline on April 26. There are 15+ evaluated opportunities with scores ≥ 4.0 waiting for action.
+| Priority | Company | Role | Score | Deadline / Status |
+|----------|---------|------|-------|-------------------|
+| ⭐⭐⭐ | Cloudflare | SWE Intern (Summer 2026) | 4.8/5 | Austin TX in-office — apply ASAP |
+| ⭐⭐⭐ | Atlassian | Security Engineer Intern | 4.5/5 | Seattle $49-75/hr — apply ASAP |
+| ⭐⭐⭐ | Together AI | Security Engineer Intern | 4.5/5 | SF $58/hr; May 18 or Jun 15 start |
+| ⭐⭐⭐ | OpenAI | Software Engineer Internship | 4.5/5 | SF/Seattle ~$60/hr |
+| ⭐⭐⭐ | Glean | SWE Intern | 4.5/5 | Palo Alto $57-69/hr |
+| ⭐⭐⭐ | Ramp | FDE Intern | 4.5/5 | NYC/SF $11K/mo + housing |
+| ⭐⭐⭐ | NVIDIA | Solutions Architect New Grad | 4.5/5 | Santa Clara $108-196K — verify graduation |
+| ⭐⭐ | Anthropic | Fellows Program — AI Security | 4.0-4.5/5 | **DEADLINE APRIL 26** — apply NOW |
+| ⭐⭐ | Rippling | Full Stack SWE Intern | 4.2/5 | SF/NYC $75/hr |
+| ⭐⭐ | Voleon | SWE Intern | 4.1/5 | Berkeley $160K annualized; quant ML |
+| ⭐⭐ | Cloudglue | Full-Stack AI Engineer Intern | 4.1/5 | SF in-person; YC W26 |
 
 ---
 
-## Next Actions
+## Recommended Next Actions
 
-```
-/career-ops pipeline    # Evaluate the 940+ pending listings
-/career-ops scan        # Run next scan in 5-7 days (April 18-20)
-```
-
-**Recommended next scan date:** April 18–20, 2026
-
-**Note:** The Summer 2026 internship season is in late-application phase. Most top programs are still accepting applications but closing soon (late April to early May). Prioritize applying to already-evaluated opportunities over additional scanning.
+1. **Apply to Anthropic Fellows Program (AI Security track) by April 26** — deadline is in 13 days. This is the highest-urgency item in the pipeline.
+2. **Apply to Cloudflare SWE Intern (4.8/5)** — top score in pipeline, Austin TX is no-relocation.
+3. **Apply to Atlassian Security Engineer Intern (4.5/5)** — top security match, excellent comp.
+4. **Apply to Together AI Security Engineer Intern (4.5/5)** — adversarial LLM testing + OAuth/TLS exact match.
+5. **Apply to OpenAI SWE Intern (4.5/5)** — top AI company, multi-model pipeline exact match.
+6. Continue evaluating pending pipeline entries (Vercel Engineering Intern ~3.8, Cartesia ~4.0, Box ~3.7, Optiver ~3.7).
+7. Run next scan in 2-3 days to catch any new Summer 2026 openings.
