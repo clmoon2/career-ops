@@ -1,117 +1,79 @@
-# Portal Scan Summary — 2026-04-13 (v55)
+# Portal Scan Summary — 2026-04-13 (scan-v56)
 
-**Scan ID:** v55  
 **Date:** 2026-04-13  
+**Scan ID:** v56 (final pass of today's session — v49–v56 combined)  
 **Candidate:** Carlos Luna-Peña  
-**Target:** Summer 2026 internships + 2026 new grad roles — SWE, Security, AI/ML, DevOps, Consulting
+**Scan History Entries:** 1,786 total (1,763 before today's session)  
+**Tracker Entries:** 362 evaluated roles  
 
 ---
 
-## Summary
+## Today's Full Session Summary (Scans v49–v56)
 
-| Metric | Count |
-|--------|-------|
-| Companies / portals scanned | 30+ |
-| WebSearch queries executed | 25+ |
-| Total history entries (cumulative) | 1,763 |
-| New URLs discovered this scan | 11 |
-| New listings added to pipeline | 1 |
-| Listings scored ≥ 4.0 | 0 |
-| Full evaluation reports written | 0 |
+This was a comprehensive multi-pass autonomous scanning session covering the full portals.yml company list plus broad discovery queries.
 
----
+### Portals Scanned
+- **Greenhouse API:** Anthropic, Hume AI, Airtable, Vercel, RunPod, Glean, Arize AI, Intercom, PolyAI, Parloa, Factorial (404), Temporal (0 jobs), Pinecone (404), Ada, Verkada, Sigma Computing, Astranis, C3 AI, Mercury, Robinhood, Figma, Anduril, Planet Labs, Rocket Lawyer, Cloudflare (NEW find)
+- **Ashby:** Pinecone, Vapi, n8n, Zapier, Attio, TravelPerk, Bland AI, Lindy, LangChain, Weights & Biases, Cohere, Deepgram, ElevenLabs, Tinybird, Harvey, Superhuman, Replit, Notion (all positions), Farsight AI, Giga, Delinea, Whatnot, Zip, Benchling, Vantage
+- **Lever:** Palantir (all tracks), Mistral AI, Weights & Biases, Clarity AI, Waabi, Match Group, Artera, Veeva, GR0, Voleon
+- **YC Directory:** Browser Use, Cloudglue, Crustdata, Circleback, Candle, Promptless, CTGT, Mesh, SubImage, Swif.ai, a0.dev (404), Deep24 (NEW find)
+- **Workday:** GDIT, Ankura, Samsung Research America, Booz Allen Hamilton, Roblox
+- **WebSearch discovery:** 15+ broad queries covering security, DevOps, consulting, AI engineering, speedyapply repos
 
-## Scan Coverage
-
-### Greenhouse APIs (direct)
-- **RunPod** — no intern roles (18 roles, all senior FTE)
-- **Arize AI** — no intern roles (30 roles, all senior/PM/sales)
-- **Workato** — AI Engineering Intern requires MS/PhD (publications at NeurIPS/ICML); skipped
-- **Glean** — University Grad confirmed still active (already in pipeline #340, 4.5/5)
-- **Anthropic** — Fellows Program (AI Safety, AI Security, ML Systems, RL) all confirmed in history; deadline April 26
-
-### Ashby Boards (direct)
-- **Perplexity** — 4 intern roles all UK/Belgrade/London; US Research Residency ($220K) is grad-level
-- **Letta (MemGPT)** — no intern program; all senior FTE
-- **LlamaIndex** — no intern program; all senior FTE
-- **Cursor/Anysphere** — confirmed no intern program (3rd confirmation)
-- **Anyscale** — SWE Intern 26' listing now closed on Ashby
-
-### Lever Discovery
-- **Versana** — Tech Internship NYC — NEW, 2.5/5 (below threshold, see pipeline)
-- **Pivotal** (aerospace) — SWE Intern — NEW, 2.0/5 (aerospace tilt-aircraft; below threshold; skipped)
-- **PIP Labs** — Software Engineer Intern — filtered (Web3/Story Protocol blockchain = negative keyword)
-
-### Other Portals Confirmed (all in history)
-- SimplifyJobs/Summer2026-Internships repo: HP IQ, Motorola Solutions, iHeartMedia, GoLinks, Anduril Frontier Systems — all already in history
-- speedyapply/2026-SWE-College-Jobs + 2026-AI-College-Jobs: Booz Allen AI Analyst, GDIT, GR0, Hootsuite — all in history
-- YC board: all W24-W26 company internships confirmed in history
-- Greenhouse/Ashby/Lever sweep queries (15+ searches): all results in history
-
-### Confirmed Closed/No Interns (re-verified)
-- Groq: Winter 2026 only — no Summer 2026 intern program
-- CoreWeave: no intern roles (API confirmed)
-- Fireworks AI: no intern program found
-- OpenPipe: acquired by CoreWeave (no standalone jobs)
-- Braintrust Data: no intern program (LLM eval SaaS)
-- Shopify USA Engineering Internship: closed
-- Netflix: no active Summer 2026 listings
-- Snyk: UK/Israel focused — no US intern roles
-- Decagon: Agent SWE Intern listing closed
-- ServiceNow ML Intern: already in history (skipped_dup)
+### Companies with No Results / Already Covered
+ElevenLabs (Impact Intern 2.0/5 skip), Deepgram (no intern), Retool (no intern), Ada (both interns in pipeline), Tinybird (no intern), Clarity AI (no intern), Harvey (evaluated), Snyk (UK only), CoreWeave (no intern), Vanta (no intern), Drata (no intern), Roblox (PhD required), Palo Alto Networks (in history), CrowdStrike (in history), Gemini (in history), MongoDB (in history), Grammarly/Enova/Pendo/DoorDash (all in history), all Palantir tracks (in history), Mistral AI (in history), ByteDance (in history), Salesforce (in history), Stripe (in history)
 
 ---
 
-## New Listings Found (1 total)
+## New Listings Found — scan-v56
 
-### Pipeline Only (score < 4.0)
-
-| # | Company | Role | Location | Score | URL |
-|---|---------|------|----------|-------|-----|
-| 1 | Versana | Tech Internship (Summer 2026) | New York, NY | 2.5/5 | [Link](https://jobs.lever.co/Versana/f07c26bc-7359-44ba-b11e-8d1aaf97c001) |
-
-**Versana scoring rationale:**
-- Fintech company for syndicated loan credit markets (not AI/security domain)
-- Stack: Java, SQL, React — Java is in negative filter; React is a fit
-- No AI/ML component to the work
-- NYC in-office (not Texas; requires relocation)
-- No comp listed (unknown rate)
-- Not a primary target archetype; apply only if pipeline is very light
+| Company | Role | Score | URL | Status |
+|---------|------|-------|-----|--------|
+| **Cloudflare** | Solutions Engineer - Intern (Summer & Fall 2026) | **4.0/5** | [Link](https://job-boards.greenhouse.io/cloudflare/jobs/7792962) | ✅ Evaluated — Report #362 |
+| Deep24 (YC W26) | Software Engineering Intern | ~3.2/5 | [Link](https://www.ycombinator.com/companies/deep24/jobs/HQOPclv-software-engineering-intern) | 🟠 Pipeline (low priority) |
 
 ---
 
-## Top Matches (score ≥ 4.0)
+## Top Matches (score ≥ 4.0) — Today's Session (v49–v56)
 
-**None found this scan.** The pipeline has been comprehensively scanned across 55+ iterations (v1-v55) covering 1,763 unique listings. The Summer 2026 internship landscape for Carlos's targets is well-represented in the existing pipeline.
+| # | Company | Role | Score | Notes |
+|---|---------|------|-------|-------|
+| 362 | Cloudflare | Solutions Engineer Intern (July–Dec 2026) | 4.0/5 | Austin TX; 6-month; prod Workers experience = unmatched differentiator |
+| 361 | The Voleon Group | Software Engineer Intern (Summer 2026) | 4.1/5 | $160K annualized; Berkeley CA; quant ML |
+| 360 | Rippling | Full Stack SWE Intern | 4.2/5 | $75/hr SF/NYC; Python+React |
+| 359 | Cloudglue | Full-Stack AI Engineer Intern | 4.1/5 | YC W26; SF; video/multimodal AI |
 
 ---
 
-## Existing High-Priority Pipeline (already evaluated, action required)
+## All-Time Top Pending Applications
 
-These were previously found and evaluated — prioritize applications now:
-
-| Priority | Company | Role | Score | Deadline / Status |
-|----------|---------|------|-------|-------------------|
-| ⭐⭐⭐ | Cloudflare | SWE Intern (Summer 2026) | 4.8/5 | Austin TX in-office — apply ASAP |
-| ⭐⭐⭐ | Atlassian | Security Engineer Intern | 4.5/5 | Seattle $49-75/hr — apply ASAP |
-| ⭐⭐⭐ | Together AI | Security Engineer Intern | 4.5/5 | SF $58/hr; May 18 or Jun 15 start |
-| ⭐⭐⭐ | OpenAI | Software Engineer Internship | 4.5/5 | SF/Seattle ~$60/hr |
-| ⭐⭐⭐ | Glean | SWE Intern | 4.5/5 | Palo Alto $57-69/hr |
-| ⭐⭐⭐ | Ramp | FDE Intern | 4.5/5 | NYC/SF $11K/mo + housing |
-| ⭐⭐⭐ | NVIDIA | Solutions Architect New Grad | 4.5/5 | Santa Clara $108-196K — verify graduation |
-| ⭐⭐ | Anthropic | Fellows Program — AI Security | 4.0-4.5/5 | **DEADLINE APRIL 26** — apply NOW |
-| ⭐⭐ | Rippling | Full Stack SWE Intern | 4.2/5 | SF/NYC $75/hr |
-| ⭐⭐ | Voleon | SWE Intern | 4.1/5 | Berkeley $160K annualized; quant ML |
-| ⭐⭐ | Cloudglue | Full-Stack AI Engineer Intern | 4.1/5 | SF in-person; YC W26 |
+| Score | Company | Role | Notes |
+|-------|---------|------|-------|
+| 4.8/5 | Cloudflare | SWE Intern (Summer 2026) | Austin TX; apply ASAP |
+| 4.7/5 | Cloudflare | Security Engineer Intern | Austin TX; apply ASAP |
+| 4.7/5 | Haize Labs | SWE Intern | $100-125K NYC; adversarial LLM |
+| 4.6/5 | Mechanize | SWE Intern | $100/hr SF; RL eval infra |
+| 4.5/5 | Atlassian | Security Engineer Intern | Seattle; $49-75/hr; cybersec exact match |
+| 4.5/5 | OpenAI | SWE Internship | SF/Seattle; ~$60/hr; top pick |
+| 4.5/5 | Together AI | Security Engineer Intern | $58/hr; SF; AI security |
+| 4.5/5 | Together AI | SWE Intern | $58/hr; SF; AI platform |
+| 4.5/5 | Glean | SWE Intern | $57-69/hr; AI search |
+| 4.5/5 | Ramp | SWE Internship - Forward Deployed | $11K/mo + housing; NYC/SF |
+| 4.5/5 | NVIDIA | Solutions Architect New Grad | $108-196K; 18-month rotation |
+| 4.4/5 | Browser Use | Summer SWE Intern | $6-16K/mo SF; YC W25; top pick |
+| 4.4/5 | Decagon | Agent SWE Intern | SF; agentic AI |
 
 ---
 
 ## Recommended Next Actions
 
-1. **Apply to Anthropic Fellows Program (AI Security track) by April 26** — deadline is in 13 days. This is the highest-urgency item in the pipeline.
-2. **Apply to Cloudflare SWE Intern (4.8/5)** — top score in pipeline, Austin TX is no-relocation.
-3. **Apply to Atlassian Security Engineer Intern (4.5/5)** — top security match, excellent comp.
-4. **Apply to Together AI Security Engineer Intern (4.5/5)** — adversarial LLM testing + OAuth/TLS exact match.
-5. **Apply to OpenAI SWE Intern (4.5/5)** — top AI company, multi-model pipeline exact match.
-6. Continue evaluating pending pipeline entries (Vercel Engineering Intern ~3.8, Cartesia ~4.0, Box ~3.7, Optiver ~3.7).
-7. Run next scan in 2-3 days to catch any new Summer 2026 openings.
+1. **URGENT — Apply NOW:** Anthropic AI Safety Fellows (deadline: **April 26, 2026**)
+2. **Apply this week:** Cloudflare SWE Intern (#347, 4.8/5) + Security Intern (#294/#333, 4.7/5) — Austin TX local
+3. **Apply this week:** Haize Labs (#298, 4.7/5), Mechanize (#304, 4.6/5), Atlassian (#355, 4.5/5), OpenAI (#353, 4.5/5)
+4. **Verify then apply:** Cloudflare Solutions Engineer (#362, 4.0/5) — confirm graduation date first (needs Dec 2026 grad or Summer 2026 grad)
+5. **Run `/career-ops pipeline`** to process the 50+ pending URLs in pipeline.md
+6. **Next scan:** ~2026-04-18 (5 days)
+
+---
+
+*Generated by career-ops autonomous scan agent. Scan-v56 completed 2026-04-13.*

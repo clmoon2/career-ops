@@ -1761,3 +1761,26 @@ https://jobs.ashbyhq.com/perplexity	2026-04-13	scan-v55-ashby	(only UK/Belgrade/
 https://jobs.ashbyhq.com/letta	2026-04-13	scan-v55-ashby	(no intern roles — all senior FTE; MemGPT/Letta no undergrad intern program)	Letta	skipped_no_intern
 https://jobs.ashbyhq.com/llamaindex	2026-04-13	scan-v55-ashby	(no intern roles — all senior FTE; LlamaCloud no intern program)	LlamaIndex	skipped_no_intern
 https://cursor.com/careers	2026-04-13	scan-v55-websearch	(no intern program — Anysphere/Cursor confirmed FTE only)	Cursor	skipped_no_intern
+https://jobs.ashbyhq.com/elevenlabs/4f07f198-5a51-462d-bd86-bf4574c7532d	2026-04-13	scan-v56-ashby	Impact Program Intern (already evaluated #314 at 2.0/5 — MBA preferred)	ElevenLabs	skipped_dup
+https://jobs.ashbyhq.com/deepgram	2026-04-13	scan-v56-ashby	(no intern roles — all senior FTE: sales, engineering, management)	Deepgram	skipped_no_intern
+https://retool.com/careers	2026-04-13	scan-v56-websearch	(no intern listings found via websearch)	Retool	skipped_no_intern
+https://job-boards.greenhouse.io/ada18	2026-04-13	scan-v56-greenhouse	(both SWE and DevOps interns already in history since 4/7)	Ada	skipped_dup
+https://jobs.ashbyhq.com/tinybird	2026-04-13	scan-v56-ashby	(no intern roles found)	Tinybird	skipped_no_intern
+https://jobs.lever.co/clarity-ai	2026-04-13	scan-v56-lever	(no intern roles found)	Clarity AI	skipped_no_intern
+https://jobs.ashbyhq.com/harvey/b6509622-5c1e-4a3f-916b-6e56b8fd212f	2026-04-13	scan-v56-ashby	(SWE Intern already evaluated #351)	Harvey	skipped_dup
+https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/ef135dc3-ab5a-4183-a8a7-ec821fdf8220	2026-04-13	scan-v56-ashby	(SWE Intern already in history)	Superhuman	skipped_dup
+https://careers.roblox.com/jobs/7755263	2026-04-13	scan-v56-websearch	2026 Machine Learning Engineer PhD Intern (PhD + publications required)	Roblox	skipped_title
+https://job-boards.greenhouse.io/rocketlawyer/jobs/4582507008	2026-04-13	scan-v56-greenhouse	Software Engineering Intern (URL returns board overview, not active individual listing)	Rocket Lawyer	skipped_closed
+https://job-boards.greenhouse.io/zscaler/jobs/5100446007	2026-04-13	scan-v56-greenhouse	(AI/ML Intern - Agentic Cloud — already in history scan-v32)	Zscaler	skipped_dup
+https://snyk.io/careers/all-jobs/	2026-04-13	scan-v56-websearch	(no US intern roles — UK/Israel focused; confirmed again)	Snyk	skipped_title
+https://boards-api.greenhouse.io/v1/boards/coreweave/jobs	2026-04-13	scan-v56-greenhouse	(no intern roles confirmed)	CoreWeave	skipped_no_intern
+https://www.vanta.com/careers	2026-04-13	scan-v56-websearch	(no intern listings on Ashby)	Vanta	skipped_no_intern
+https://drata.com/about/careers	2026-04-13	scan-v56-websearch	(no intern listings confirmed)	Drata	skipped_no_intern
+https://job-boards.greenhouse.io/roblox/jobs/7755263	2026-04-13	scan-v56-greenhouse	(PhD ML intern — PhD required, skip)	Roblox	skipped_title
+https://jobs.lever.co/gr0/81a6ff41-681b-4be1-828b-8853288c2608	2026-04-13	scan-v56-lever	(Applied AI Engineering Intern — already in history scan-v38)	GR0	skipped_dup
+https://job-boards.greenhouse.io/rocketlawyer/jobs/5185465008	2026-04-13	scan-v56-greenhouse	(AI/ML Intern — already in history scan-v36)	Rocket Lawyer	skipped_dup
+https://job-boards.greenhouse.io/planetlabs/jobs/7660168	2026-04-13	scan-v56-greenhouse	(SWE AI Intern — already in history scan-v32)	Planet Labs	skipped_dup
+https://www.ycombinator.com/companies/mesh-2/jobs/84BevmU-ai-engineer-intern-summer-2026	2026-04-13	scan-v56-yc	(AI Engineer Intern — already added scan-v49)	Mesh	skipped_dup
+https://www.ycombinator.com/companies/deep24/jobs/HQOPclv-software-engineering-intern	2026-04-13	scan-v56-yc	Software Engineering Intern — SF; $6-10K/mo; AI college admissions; General Catalyst; flexible timing; ~3.2/5	Deep24	added
+https://job-boards.greenhouse.io/cloudflare/jobs/7792962	2026-04-13	scan-v56-greenhouse	Solutions Engineer - Intern (Summer & Fall 2026) — Austin TX; July-Dec 2026; prod Cloudflare Workers match; 4.0/5 — EVALUATED report #362	Cloudflare	added
+https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University--Applied-AI-Software-Developer_R0236821	2026-04-13	scan-v56-workday	University Applied AI Software Developer Intern (McLean VA; clearance likely; defense contractor)	Booz Allen Hamilton	skipped_title
