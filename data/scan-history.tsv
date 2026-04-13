@@ -1664,3 +1664,27 @@ https://jobs.ashbyhq.com/deepgram	2026-04-13	scan-v49-ashby	(no intern roles —
 https://job-boards.greenhouse.io/anthropic	2026-04-13	scan-v49-greenhouse	(both Fellows programs already in history since 4/7; deadline 4/26 reminder)	Anthropic	skipped_dup
 https://jobs.ashbyhq.com/langchain	2026-04-13	scan-v49-ashby	(no intern roles — all senior FTE, Deployed Engineer is FTE)	LangChain	skipped_no_intern
 https://jobs.lever.co/wandb	2026-04-13	scan-v49-lever	(no intern roles — confirmed no new listings)	Weights & Biases	skipped_no_intern
+https://boards-api.greenhouse.io/v1/boards/temporal/jobs	2026-04-13	scan-v50-greenhouse	(no jobs listed — 0 results)	Temporal	skipped_no_intern
+https://job-boards.greenhouse.io/intercom	2026-04-13	scan-v50-greenhouse	(all senior FTE — no intern roles)	Intercom	skipped_no_intern
+https://job-boards.eu.greenhouse.io/polyai	2026-04-13	scan-v50-greenhouse	(all senior FTE, UK-only — no US intern)	PolyAI	skipped_no_intern
+https://job-boards.greenhouse.io/humeai	2026-04-13	scan-v50-greenhouse	(no new roles beyond 4/5 history)	Hume AI	skipped_dup
+https://job-boards.greenhouse.io/airtable	2026-04-13	scan-v50-greenhouse	(New Grad role 8409376002 already in history; no new intern roles)	Airtable	skipped_dup
+https://job-boards.greenhouse.io/runpod	2026-04-13	scan-v50-greenhouse	(no new intern roles — all senior FTE or APAC)	RunPod	skipped_dup
+https://job-boards.greenhouse.io/gleanwork	2026-04-13	scan-v50-greenhouse	(university grad 4592324005 already in history; no new interns)	Glean	skipped_dup
+https://job-boards.greenhouse.io/arizeai	2026-04-13	scan-v50-greenhouse	(no intern roles — all senior FTE or sales)	Arize AI	skipped_no_intern
+https://jobs.ashbyhq.com/pinecone	2026-04-13	scan-v50-ashby	(no new intern roles — Science NYC intern already in history)	Pinecone	skipped_dup
+https://jobs.lever.co/wandb	2026-04-13	scan-v50-lever	(no intern roles — all senior FTE)	Weights & Biases	skipped_dup
+https://jobs.ashbyhq.com/vapi	2026-04-13	scan-v50-ashby	(New Grad SWE already in history; no intern roles)	Vapi	skipped_dup
+https://jobs.ashbyhq.com/n8n	2026-04-13	scan-v50-ashby	(no intern roles — all senior FTE)	n8n	skipped_dup
+https://jobs.ashbyhq.com/zapier	2026-04-13	scan-v50-ashby	(no intern roles — all senior FTE)	Zapier	skipped_dup
+https://jobs.ashbyhq.com/attio	2026-04-13	scan-v50-ashby	(no intern roles — all senior/lead EU-based)	Attio	skipped_dup
+https://jobs.ashbyhq.com/travelperk	2026-04-13	scan-v50-ashby	(no intern roles)	TravelPerk	skipped_dup
+https://jobs.ashbyhq.com/bland	2026-04-13	scan-v50-ashby	(no intern roles — FDE and senior FTE only)	Bland AI	skipped_dup
+https://jobs.ashbyhq.com/lindy	2026-04-13	scan-v50-ashby	(no intern roles — all senior FTE)	Lindy	skipped_dup
+https://www.ycombinator.com/companies/garage-2/jobs/WTo4sB8-software-engineering-intern-summer-2026	2026-04-13	scan-v50-yc	Software Engineering Intern (Summer 2026)	Garage (YC W24)	added
+https://job-boards.greenhouse.io/hpiq/jobs/5622472004	2026-04-13	scan-v50-greenhouse	Software Engineering Intern, Device Experiences (Summer 2026)	HP IQ	added
+https://job-boards.greenhouse.io/hpiq/jobs/5602840004	2026-04-13	scan-v50-greenhouse	Software Engineering Intern, Systems (Summer 2026)	HP IQ	added
+https://job-boards.greenhouse.io/hpiq/jobs/5621959004	2026-04-13	scan-v50-greenhouse	Software Engineering Intern, Firmware (Summer 2026)	HP IQ	skipped_title
+https://job-boards.greenhouse.io/gntemp/jobs/5674841004	2026-04-13	scan-v50-greenhouse	Machine Learning Internship - Summer 2026 (London UK only)	Goodnotes	skipped_title
+https://job-boards.greenhouse.io/2026_summer_intern_program/jobs/4068679009	2026-04-13	scan-v50-greenhouse	2026 Summer Data Science Intern	Edged Energy	added
+https://job-boards.greenhouse.io/2026_summer_intern_program/jobs/4162864009	2026-04-13	scan-v50-greenhouse	2026 Engineering Analytics Intern	Edged IQ	added

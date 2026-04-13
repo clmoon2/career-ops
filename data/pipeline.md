@@ -1169,3 +1169,16 @@
 - [x] https://www.ycombinator.com/companies/subimage/jobs/WLWS24s-full-stack-software-engineer-intern-summer-2026 | SubImage (YC W25) | Full Stack SWE Intern — SF; ~$6K/mo; cybersecurity graph + AI agents + OSS Cartography; **4.0/5** → report #356
 
 <!-- === END 2026-04-12 SCAN v46 === -->
+
+<!-- === NEW 2026-04-13 SCAN v50 === -->
+
+### 🟡 Pipeline Pending (score est. 3.5-4.0) — scan-v50
+- [ ] https://www.ycombinator.com/companies/garage-2/jobs/WTo4sB8-software-engineering-intern-summer-2026 | Garage (YC W24) | Software Engineering Intern (Summer 2026) — NYC; $6K-8K/mo; AI appraisal platform + full-stack marketplace; React/Python/FastAPI match; (~3.8)
+- [ ] https://job-boards.greenhouse.io/hpiq/jobs/5622472004 | HP IQ | Software Engineering Intern, Device Experiences (Summer 2026) — SF; HP AI innovation lab; device-level AI features + cross-platform UX; Python/C++ stack; (~3.2)
+- [ ] https://job-boards.greenhouse.io/hpiq/jobs/5602840004 | HP IQ | Software Engineering Intern, Systems (Summer 2026) — SF; systems-level software + OS integrations; carlosOS kernel background relevant; (~3.0)
+
+### 🟠 Pipeline Pending (score est. <3.0) — scan-v50
+- [ ] https://job-boards.greenhouse.io/2026_summer_intern_program/jobs/4068679009 | Edged Energy | 2026 Summer Data Science Intern — Remote US; data center analytics; Python/data science; low AI-product fit; (~2.2)
+- [ ] https://job-boards.greenhouse.io/2026_summer_intern_program/jobs/4162864009 | Edged IQ | 2026 Engineering Analytics Intern — Remote US; BI/analytics infrastructure; low fit for target archetypes; (~1.8)
+
+<!-- === END 2026-04-13 SCAN v50 === -->
