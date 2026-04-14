@@ -1,96 +1,109 @@
-# Portal Scan — 2026-04-14 (v69)
+# Portal Scan Summary — 2026-04-14 (scan-v70)
 
-**Date:** 2026-04-14
-**Scan version:** v69 (Autonomous Agent — broad gap-fill sweep)
-**Agent:** Autonomous scan agent
-
----
-
-## Coverage
-
-This scan performed a broad gap-fill sweep across 80+ companies and categories, cross-referencing against the 1,974-entry scan history built across v1–v68.
-
-### Companies / Categories Checked
-
-| Category | Companies Checked | Result |
-|----------|------------------|--------|
-| Major Tech | NVIDIA, Meta, Amazon, Uber, Netflix, Apple, Lyft | All in history (v7–v39) |
-| Fintech | Coinbase, Block, Brex, Ramp, Stripe, Plaid, Mercury | All in history (v7–v29) |
-| AI Labs | Anthropic, OpenAI, Perplexity, xAI, Cohere, Together AI, Mistral | All in history; Perplexity no intern program |
-| Security | Wiz, Snyk, Rapid7, CyberArk, Tenable, SentinelOne, Obsidian | All in history (v7–v68) |
-| Defense Tech | Anduril, Shield AI, Palantir, Leidos | In history; Leidos roles skipped (clearance req) |
-| Consulting | McKinsey, BCG, Bain, Deloitte, Accenture | MBB deadlines passed Jul-Sep 2025; Deloitte/Accenture in history |
-| YC Internships | Circleback, Candle, 14.ai, Dex, SubImage, Browser Use | All in history (v30–v46) |
-| DevOps/Cloud | Ada, Showpad, Arcesium (NEW!), Klaviyo, Sigma Computing | Arcesium NEW; others in history |
-| Aggregators | SimplifyJobs, SpeedyApply SWE, SpeedyApply AI | All scanned v65/v68; no new adds |
-| portals.yml | Anthropic, ElevenLabs, Zscaler, Tenstorrent, ByteDance, TikTok, Cloudflare | All scanned v59–v68 today |
+**Agent:** Autonomous scan agent  
+**Scan version:** v70 (continuing from v69 earlier today)  
+**Date:** 2026-04-14  
+**History size after scan:** 2,001 entries
 
 ---
 
-## Results
+## Scan Coverage
 
-| Metric | Count |
-|--------|-------|
-| Companies/categories scanned | 80+ |
-| WebSearch queries executed | 25 |
-| Listings confirmed already in history | 1,974+ |
-| New listings found | **2** |
-| Score >= 4.0 (full reports written) | **0** |
-| Added to pipeline | **2** |
+**Total queries executed:** 30+ WebSearch + 20+ WebFetch calls  
+**Companies/portals scanned:** 25+  
+**New listings found:** 3 (all below ≥4.0 threshold)  
+**New pipeline additions:** 0  
+**New history entries:** 13
 
 ---
 
-## New Listings Found
+## New Listings Found (below pipeline threshold)
 
-### 🟠 Added to Pipeline (score 3.0–3.3 — below 4.0 threshold)
+| Company | Role | Location | Score | Notes |
+|---------|------|----------|-------|-------|
+| Nielsen | Cloud Resilience & Security Automation Intern | New York, NY | 3.0/5 | Python/Boto3/AWS/IAM match; media domain gap; NYC relocation; no comp disclosed |
+| FireMon | Software Engineering Intern | Kansas City, KS | 2.5/5 | Network/firewall security company; wrong security subdomain for Carlos; KS location; unknown comp |
+| Jabil | Cloud & Infrastructure Manufacturing Test Developer Intern | Austin, TX | 2.0/5 | "Cloud" in title but manufacturing test domain; not SWE/AI/Security build work |
 
-| # | Company | Role | URL | Score | Notes |
-|---|---------|------|-----|-------|-------|
-| 1 | Arcesium | Software Engineer Intern (Summer 2026) | https://job-boards.greenhouse.io/arcesiumllc/jobs/4958459007 | ~3.3/5 | $10K/mo + housing; NYC on-site; fintech SaaS; Python/TypeScript; strong comp but domain gap + relocation |
-| 2 | Arcesium | Infrastructure Engineer Intern (Summer 2026) | https://job-boards.greenhouse.io/arcesiumllc/jobs/4958467007 | ~3.0/5 | $10K/mo + housing; NYC on-site; Linux/K8s/Docker/AWS; SRE/cloud; infra-heavy focus + fintech + relocation |
-
----
-
-## Scan Saturation Note
-
-After 69 scan iterations (1,988 history entries), the pipeline has reached high coverage saturation for Summer 2026 internships. Most major US tech, AI, security, fintech, and consulting companies have been captured across the pipeline. The scan is transitioning to:
-
-1. **Maintenance mode**: Monitoring for newly posted roles at tracked companies
-2. **Fall 2026 / new grad watch**: Some companies beginning to post Fall 2026 co-ops and 2026 new grad roles
-3. **Application focus**: Priority is now **applying** to the top pipeline listings
+**None scored ≥4.0 → no evaluation reports written.**
 
 ---
 
-## Top Priority Actions
+## Companies Confirmed No Open Intern Roles
 
-### 🔴 URGENT — Apply Now
+| Company | Notes |
+|---------|-------|
+| Grafana Labs | 130 positions all mid-senior FTE; no intern program |
+| GitLab | All Intermediate/Senior/Principal FTE; no intern roles |
+| Plaid | Summer 2026 Intern exists but via RippleMatch only (non-standard ATS) |
+| Navan | No intern listings found on careers page |
+| Snyk | UK/Israel-focused; confirmed no US intern roles |
+| Arize AI | 32 positions all FTE mid-senior; no intern program visible |
+| Credera | Technology Consulting Intern application deadline: September 2025 (past) |
+| Pariveda | Career Accelerator targets Freshmen/Sophomores only |
+| RunPod | API returned 503 (temporarily unavailable) |
 
-| # | Company | Role | Score | Notes |
-|---|---------|------|-------|-------|
-| 292 | Anthropic Fellows | AI Security track | **>=4.0** | **DEADLINE APRIL 26** — apply this week! |
-| 356 | Browser Use (YC W25) | Summer SWE Intern | **4.4/5** | $6K-16K/mo SF; apply before competition fills |
-| 354 | Atlassian | Security Engineer Intern 2026 | **4.2/5** | Seattle; $59-75/hr |
-| 355 | Crustdata | SWE Intern Forward Deployed | **4.1/5** | SF; $4K-8K/mo |
-| 361 | Voleon Group | SWE Intern Summer 2026 | **4.1/5** | $13,333/mo; Berkeley CA; quant ML |
-| 363 | Tenstorrent | Applied AI Workflow Automation Intern | **4.0/5** | Austin TX/remote |
-| 364 | ElevenLabs | FDE Recent Graduate | **4.0/5** | Remote+SF/NYC; new grad |
-| 362 | Cloudflare | Solutions Engineer Intern | **4.0/5** | Austin TX; verify graduation timeline first |
+---
 
-### 🟡 Pipeline Pending (score 3.5–3.9)
+## Repositories Scanned
 
-- IBM Back End Developer Intern ($75-139K/yr; Austin/Dallas TX)
-- Zscaler SWE Intern ($45-65/hr; San Jose; cybersecurity)
-- Lenovo AI Application Development Intern (LangChain/LangGraph; Morrisville NC)
-- Notion SWE Intern (SF; React)
-- Delinea SWE Intern (AI identity security; ~3.6)
-- Farsight AI SWE Intern (agentic AI fintech; ~3.6)
-- Databricks Software Engineer New Grad 2026 (~3.8; verify active)
+| Repo | New Entries Found |
+|------|-------------------|
+| `speedyapply/2026-SWE-College-Jobs` (0-4d entries) | Nielsen (3.0/5), FireMon (2.5/5), Jabil (2.0/5); rest are manufacturing/defense/non-target |
+| `jobright-ai/2026-Software-Engineer-New-Grad` | PayPal (Java-heavy), NVIDIA FTE, Goldman FTE, L3Harris FTE; none qualifying |
+| `speedyapply/2026-AI-College-Jobs` | No new additions since v68 scan |
+
+---
+
+## Pipeline Status
+
+**Pending pipeline entries (awaiting evaluation):**
+- scan-v67: Amazon Robotics Intern ~3.8/5, RTX Collins Aerospace ~3.2/5
+- scan-v66: IBM Back End Developer Intern ~3.7/5, IBM Software Developer Austin ~3.5/5
+- scan-v64: NYT Full-stack Intern ~3.5/5, Toshiba Agentic SWE Intern ~3.0/5
+- scan-v69: Arcesium SWE Intern ~3.3/5, Arcesium Infra Intern ~3.0/5
+- scan-v60: Lenovo AI Application Development Intern ~3.7/5
+
+---
+
+## Top Evaluated (≥4.0, still open for application)
+
+| Score | Company | Role | Report |
+|-------|---------|------|--------|
+| 4.8/5 | Cloudflare | Software Engineer Intern Austin TX | #347 |
+| 4.7/5 | Cloudflare | Security Engineer Intern Austin TX | #294 |
+| 4.7/5 | Haize Labs | Software Engineer Intern NYC | #298 |
+| 4.6/5 | Mechanize | Software Engineering Intern SF | #304 |
+| 4.5/5 | Atlassian | Security Engineer Intern Seattle | #355 |
+| 4.5/5 | OpenAI | Software Engineer Internship SF/Seattle | #353 |
+| 4.5/5 | Together AI | Security Engineer Intern SF | #334 |
+| 4.5/5 | Together AI | Software Engineer Intern SF | #295 |
+| 4.5/5 | Glean | Software Engineer Intern Palo Alto/SF | #340 |
+| 4.5/5 | NVIDIA | Solutions Architect New Grad | #348 |
+| 4.5/5 | Ramp | Forward Deployed Intern NYC/SF | #341 |
+| 4.4/5 | Browser Use | Summer SWE Intern SF | #357 |
+| 4.4/5 | Decagon | Agent SWE Intern SF | #305 |
+| 4.3/5 | Proofpoint | SWE Intern AI Agents Draper UT | #307 |
+| 4.3/5 | Point72 | AI Intern Long/Short Equities NYC | #323 |
+| 4.3/5 | Dex (Joindex) | AI/ML Engineer Intern SF | #344 |
+| 4.3/5 | Sierra | Intern Agent Development SF | #274 |
+| 4.2/5 | Rippling | Full Stack SWE Intern SF/NYC | #358 |
+| 4.2/5 | Semgrep | SWE Intern Cloud Platform SF | #299 |
+| 4.2/5 | SafetyKit | Full Stack Intern SF | #345 |
+| 4.1/5 | Cloudglue | Full-Stack AI Engineer Intern SF | #359 |
+| 4.1/5 | Voleon | Software Engineer Intern Berkeley | #361 |
+| 4.0/5 | Tenstorrent | Applied AI Workflow Automation Intern Austin | #363 |
+| 4.0/5 | ElevenLabs | Forward Deployed Engineer New Grad | #364 |
 
 ---
 
 ## Recommended Next Actions
 
-1. **URGENT:** Apply to Anthropic Fellows Program (AI Security) before April 26
-2. Apply to Browser Use, Atlassian, Crustdata, Voleon — all scored 4.0+
-3. Run `/career-ops pipeline` to process 3.5-3.9 tier listings
-4. Monitor for Fall 2026 co-op postings beginning in May
+1. **Apply to top picks immediately** — Cloudflare Austin (4.8/5), Haize Labs (4.7/5), Mechanize (4.6/5), Atlassian Security (4.5/5)
+2. **Run `/career-ops pipeline`** to evaluate 9 pending entries (IBM x2, Arcesium x2, Lenovo, Amazon Robotics, NYT, RTX, Toshiba)
+3. **Check Plaid manually** — intern application via RippleMatch: https://builtin.com/job/plaid-software-engineering-intern-summer-2026-application-ripplematch/7094240
+4. **Market is late-stage** — Summer 2026 intern windows are closing. Prioritize applications this week.
+
+---
+
+*Scan v70 complete. History: 2,001 entries. Next scan recommended in 3-5 days.*
