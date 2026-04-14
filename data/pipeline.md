@@ -2,6 +2,18 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-14 SCAN v64 (Autonomous Agent — freshness sweep: SimplifyJobs April 14 new additions, Greenhouse/Ashby/Lever/YC 25+ WebSearch queries, portals.yml company confirmations (Ada/ElevenLabs/Attio/Tinybird/TravelPerk/Langfuse/Factorial/Make.com confirmed no new intern roles); 2 new listings found (NYT Full-stack 3.5/5, Toshiba Agentic 3.0/5); history now 1,913 entries) === -->
+<!-- No listings scored ≥4.0. 2 new listings added to pipeline. -->
+<!-- Companies confirmed no new intern roles this scan: Ada (API shows 0 intern roles), ElevenLabs (only Marketing+Impact India interns — no SWE interns), Attio (senior EU-based FTE only), TravelPerk (no intern roles), Tinybird (JS-only page — no intern listing), Langfuse (no intern program), Make.com (no US interns), Factorial (Barcelona HQ — no US roles), Clarity AI (no matching roles), OTG Management (airport hospitality — skipped_title) -->
+
+### 🔸 Pipeline Pending (score est. ~3.5) — scan-v64
+- [ ] https://job-boards.greenhouse.io/thenewyorktimes/jobs/4624814005 | The New York Times | Full-stack Engineering Intern | 3.5/5 | NYC hybrid; $40/hr x 35hrs x 10wks (June 1 2026); full-stack React+Go/Java/Python; NYT Games/Cooking/journalism tools; Carlos has React 19, Python, TypeScript, full-stack production system — all match; prestige brand; media/journalism domain (not primary AI/security focus); NYC requires relocation from TX
+
+### 🟠 Pipeline Pending (score est. ~3.0) — scan-v64
+- [ ] https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5103766007 | Toshiba Global Commerce | Agentic Software Engineering Intern | 3.0/5 | Raleigh/Durham NC on-site 5d/wk; May 18–Aug 7 2026; LangChain+RAG+vector DB+agentic+prompt engineering; Java/JS primary; Toshiba retail/POS domain; no comp listed; skip unless pipeline light
+
+<!-- === END 2026-04-14 SCAN v64 === -->
+
 <!-- === NEW 2026-04-14 SCAN v63 (Autonomous Agent — combined deep sweep: Greenhouse APIs (Arize AI, Temporal, RunPod, Stripe, Brex, West Monroe, Cloudflare refresh); Lever (Palantir full board re-scan); WebSearch across 45+ companies: cybersecurity (CrowdStrike, PAN, SentinelOne, Okta, Semgrep, Chainguard, Together AI, Verisign, Dark Wolf, Gemini, MEMX, Schonfeld), cloud/infra (Datadog, Confluent, Databricks, MongoDB, HashiCorp, Grafana), consulting (Deloitte, Accenture, EY), AI/ML (Viam, Brain Co, Zello, Fortinet, Cadence, Roblox, NVIDIA, Anduril), fintech (Stripe, Salesforce); SimplifyJobs + speedyapply GitHub curated lists; 0 new pipeline additions; 24 new history entries; history now 1910 entries) === -->
 <!-- No listings scored ≥4.0. 0 new listings added to pipeline. -->
 <!-- New findings this scan (all below pipeline threshold): Deloitte GPS Summer Scholar Tech Packages (2.5/5 — enterprise SAP/Oracle impl, 50% travel, Arlington VA); Pure Storage SWE Intern Prague (non-US); Cloudflare Solutions Eng Intern Lisbon (non-US, PT work auth required); Chainguard Packaging Intern (404 closed); Palantir Deployment Strategist US Gov (2.0/5 — clearance + DC/HI + 2026-graduation-as-final-internship req); Palantir DS Intern commercial (2.5/5 — 2026-graduation constraint = eligibility risk); Palantir DS Build-to-Apply US Gov (2.0/5); Efficient Computer Compiler Intern (2.5/5 — hardware/LLVM domain gap). Companies confirmed no new intern roles: Stripe, Brex, West Monroe (board empty), Cloudflare (only Fall 2026 BA Marketing non-SWE), Arize AI, Temporal, RunPod, Viam, Cadence, SentinelOne, MongoDB, Databricks, CrowdStrike, PAN, Okta, Confluent, Salesforce, Anduril, NVIDIA, Roblox, Zendesk, Axon, Zscaler (all roles), Brain Co, HPIQ, CLEAR, Handshake, WeRide, Accenture, Notion, Cohere, Ramp, SpaceX. -->

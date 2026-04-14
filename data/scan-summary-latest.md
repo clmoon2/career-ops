@@ -1,119 +1,99 @@
-# Portal Scan — 2026-04-14 (scan-v63)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Portal Scan — 2026-04-14 (v64)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Run:** scan-v63 (combined — two parallel autonomous agents)
+**Scan:** v64 (6th autonomous scan today)
 **Date:** 2026-04-14
+**Agent mode:** Autonomous (WebSearch + Greenhouse API + Lever board checks; Playwright unavailable)
 
----
+## Stats
 
-## Results
+| Metric | Count |
+|--------|-------|
+| Portals / boards scanned | 30+ |
+| WebSearch queries executed | 25+ |
+| Raw listings evaluated | ~50 |
+| Filtered by title (no positive keyword) | 1 |
+| Filtered by score (<3.0) | 0 |
+| Duplicates (already in history) | ~47 |
+| **New listings added to pipeline.md** | **2** |
+| Listings scored ≥4.0 (full reports) | 0 |
+| New entries added to scan-history.tsv | 3 |
+| History total (lines) | 1,913 |
 
-```
-Portals / companies scanned:   45+
-Search queries executed:        40+
-Total new URLs encountered:     ~12 (not previously in history)
-Passed title filter (US-based):  1
-Passed score threshold (≥3.0):   0
-Added to pipeline.md:            0
-Full reports written (≥4.0):     0
-New history entries added:      24
-History total:                ~1,910 entries
-```
+## Portals Checked This Scan
 
----
+### SimplifyJobs GitHub — April 14 New Additions
+- **The New York Times** — Full-stack Engineering Intern (new, 3.5/5) ✅ added
+- **Toshiba Global Commerce** — Agentic Software Engineering Intern (new, 3.0/5) ✅ added
+- **OTG Management** — Software Intern (skipped_title — airport hospitality, data analysis + Excel, non-SWE/AI role)
 
-## Companies Scanned
+### Greenhouse API / WebFetch (portals.yml tracked companies)
+- **Ada** — 0 intern roles in API response
+- **ElevenLabs** — Only Marketing Intern + Impact India roles; no SWE interns
+- **Attio** — Senior EU-based FTE only; no intern program
+- **TravelPerk** — No intern roles listed
+- **Tinybird** — JS-rendered page, no intern listings extractable
+- **Langfuse** — No intern program
+- **Make.com** — No US-based interns
+- **Factorial** — Barcelona HQ; no US roles
 
-### Greenhouse API direct checks
-| Company | Result |
-|---------|--------|
-| Arize AI | No intern roles (32 FTE-only positions) |
-| Temporal | No jobs listed (0 positions) |
-| RunPod | No intern roles (all FTE) |
-| Stripe | No intern/new-grad SWE roles (only Data Analyst Intern requiring Master's) |
-| Brex | No interns — all mid-senior FTE |
-| West Monroe | Board empty (0 jobs); Aug 2025 LinkedIn posts likely closed by April 2026 |
-| Cloudflare (refresh) | Only new role = Fall 2026 BA Marketing Intern — non-SWE, skipped |
+### WebSearch (25+ queries across portals)
+- Ashby: All portals.yml companies — all in history
+- Greenhouse: All portals.yml companies — all in history
+- Lever: All portals.yml companies — all in history
+- YC Summer 2026 intern listings — all in history
+- SimplifyJobs/speedyapply GitHub new entries — 3 found (2 added, 1 skipped_title)
 
-### Lever Board (full scan)
-| Company | Result |
-|---------|--------|
-| Palantir | 3 new Deployment Strategist Internship variants found (all ≤2.5/5 — see below) |
+## New Listings Added to Pipeline
 
-### New findings (not in history)
-| Company | Title | Score | Disposition |
-|---------|-------|-------|-------------|
-| Deloitte | GPS Summer Scholar – Tech Packages | 2.5/5 | `skipped_score` — enterprise SAP/Oracle impl, 50% travel, not Carlos's stack |
-| Palantir | Deployment Strategist Intern - Commercial | 2.5/5 | `skipped_score` — consulting role, 2026-graduation constraint |
-| Palantir | Deployment Strategist Intern - US Gov | 2.0/5 | `skipped_score` — clearance required, DC/Honolulu HI |
-| Palantir | Deployment Strategist Build-to-Apply - US Gov | 2.0/5 | `skipped_score` — clearance + graduation constraint |
-| Efficient Computer | Compiler Intern | 2.5/5 | `skipped_score` — LLVM/hardware domain gap |
-| Pure Storage | SW Engineer – Summer 2026 Internship | — | `skipped_location` — Prague, Czech Republic |
-| Cloudflare | Solutions Engineer Intern (Summer 2026) | — | `skipped_location` — Lisbon, Portugal |
-| Chainguard | Software Engineer Intern (Packaging) | — | `skipped_closed` — 404 removed |
+### The New York Times — Full-stack Engineering Intern
+- **URL:** https://job-boards.greenhouse.io/thenewyorktimes/jobs/4624814005
+- **Score:** 3.5/5
+- **Comp:** $40/hr × 35hrs/wk × 10wks (June 1, 2026 start)
+- **Location:** NYC hybrid
+- **Stack:** React, Go/Java/Python
+- **Why added:** Strong tech match (React 19, Python, TypeScript, full-stack prod system); prestige brand (NYT Games/Cooking/journalism tools); below 4.0 due to media/journalism domain (not primary AI/security focus) and NYC relocation required from TX
 
-### Companies confirmed no new roles (all in history)
-CrowdStrike · Palo Alto Networks · SentinelOne · Datadog · Okta · Confluent · Databricks · MongoDB · Viam · Semgrep · Salesforce · Anduril · NVIDIA · Roblox · Zendesk · Axon (US) · Zscaler (all roles) · Brain Co · HPIQ · CLEAR · Handshake · WeRide · Accenture · Notion · Cohere · Giga · Ramp · Farsight · Sigma Computing · Cloudflare (SWE Austin) · SpaceX · DV Trading · Klaviyo · Verkada · Robinhood · PDT Partners · Together AI Security · Gemini · MEMX · Schonfeld · Dark Wolf · Verisign · Bandwidth DevSecOps · Artera · Belvedere Trading · Tevora · Replit · Superhuman · DoorDash · Roadie
+### Toshiba Global Commerce — Agentic Software Engineering Intern
+- **URL:** https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5103766007
+- **Score:** 3.0/5
+- **Comp:** Not listed
+- **Location:** Raleigh/Durham NC on-site 5d/wk
+- **Dates:** May 18 – Aug 7, 2026
+- **Stack:** LangChain, RAG, vector DB, prompt engineering, Java/JS
+- **Why added:** Agentic AI stack matches Carlos's profile; but Java/JS primary (not Python), Toshiba retail/POS domain is low-fit, no comp listed, on-site NC 5d/wk
 
----
+## Outstanding Pipeline Items (from all scans)
 
-## Score Notes — Sub-threshold Findings
-
-### Palantir Deployment Strategist, Internship — Commercial (2.5/5)
-- **URL:** https://jobs.lever.co/palantir/9f0dcd19-22ec-4860-8f85-dff02a30dbb7
-- **Comp:** $6,700/month (~$80K annualized)
-- **Location:** NYC / DC / SF
-- **Why skipped:** Client-facing business consulting role (not core SWE/security); requires 2026 graduation as *final internship* before graduating — eligibility risk; Python/SQL only "a plus"
-- **Note:** If Carlos is graduating Dec 2026, worth reconsidering — Palantir brand is strong.
-
-### Deloitte GPS Summer Scholar Tech Packages (2.5/5)
-- **URL:** https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Consulting-LLP-Government-Public-Services-Summer-Scholar-Tech-Packages/312563
-- **Comp:** $38/hr | **Location:** Arlington/Rosslyn, VA
-- **Why skipped:** "Tech Packages" = SAP/Oracle/Workday implementation — not Carlos's stack (Python/React/AWS/LangChain). 50% travel requirement. Government consulting trajectory.
-
-### Efficient Computer Compiler Intern (2.5/5)
-- **URL:** https://job-boards.greenhouse.io/efficientcomputer
-- **Location:** San Jose, CA
-- **Why skipped:** LLVM/compiler specialization at hardware startup. Carlos has C/C++ + carlosOS kernel experience but no compiler toolchain background. Domain gap vs. primary SWE/AI/security targets.
-
----
-
-## Context — Late-Cycle Market
-
-This is scan v63, the fifth autonomous scan run on 2026-04-14. Scans v59–v62 (earlier today) swept:
-- All portals.yml companies (Greenhouse APIs + Ashby direct + Lever direct)
-- 60+ WebSearch queries across Greenhouse/Ashby/Lever/YC/SimplifyJobs
-- Curated lists (SimplifyJobs, speedyapply GitHub)
-
-The summer 2026 intern market is at **late-cycle**: most top-tier companies have filled their summer cohorts. Remaining openings are niche, location-constrained, or lower-fit.
-
----
-
-## Outstanding Pipeline Items (from all scans — still pending)
+The following items remain pending in pipeline.md and have not been applied to yet:
 
 | Score | Company | Role | Notes |
 |-------|---------|------|-------|
-| 4.0/5 | Tenstorrent | Applied AI Workflow Automation Intern | Report #363; Austin TX/Santa Clara; n8n in JD |
-| 4.0/5 | ElevenLabs | Forward Deployed Engineer - Recent Grad | Report #364; Remote+SF/NY; voice AI $3.3B |
+| 4.0/5 | Tenstorrent | Applied AI Workflow Automation Intern | Report #363; Austin TX/Santa Clara/Fort Collins; n8n in JD + CV |
+| 4.0/5 | ElevenLabs | Forward Deployed Engineer - Recent Graduate | Report #364; Remote+SF/NY; voice AI $3.3B |
 | 3.8/5 | Cua (YC) | Research Intern Summer 2026 | SF/Remote; $8K-9.25K/mo; AI computer-use agents |
 | 3.7/5 | Speak (YC) | Full-stack Engineer Internship | SF in-person; $6-10K/mo; React/Node/Python |
 | 3.7/5 | Zscaler | Software Engineer Intern (Summer 2026) | San Jose CA hybrid; $45-65/hr; cloud security |
 | 3.7/5 | Lenovo | AI Application Development Intern | Morrisville NC; LangChain+Python+LLM |
-| 3.5/5 | Aledade | Summer Internship - AI Researcher | Remote 10wks; browser-use agents; healthcare |
-| 3.3/5 | Hootsuite | Co-op Intern, Internal AI Operations | ⚠️ URGENT: interview window April 14-24 |
+| 3.5/5 | Aledade | Summer Internship - AI Researcher | Remote 10wks; browser-use agents; healthcare domain |
+| 3.5/5 | The New York Times | Full-stack Engineering Intern | NYC hybrid; $40/hr; React+Go/Java/Python; v64 new |
+| 3.3/5 | Hootsuite | Co-op Intern, Internal AI Operations | URGENT: interview window April 14-24; Anthropic API role |
 | 3.2/5 | Commvault | AI & Support Automation Intern | Remote USA; May 26-Aug 7 |
 | 3.1/5 | Bandwidth | Software Development Intern (SW Infra) | Raleigh NC in-person |
-
----
+| 3.0/5 | WeRide.ai | New Grads 2026 - General SWE | San Jose CA in-person; verify graduation eligibility |
+| 3.0/5 | a0.dev (YC) | Software Engineering Intern | SF in-person; TypeScript/Next.js |
+| 3.0/5 | Toshiba Global Commerce | Agentic Software Engineering Intern | Raleigh NC 5d/wk; LangChain+RAG; no comp; v64 new |
+| 2.8/5 | Bandwidth | Network Development Engineering Intern | Raleigh NC; Python/Go/Linux |
+| 2.5/5 | Versana | Tech Internship | NYC in-office; Java/SQL/React; fintech |
 
 ## Recommended Next Actions
 
-1. **URGENT — Hootsuite interview window closes April 24.** Verify US work eligibility before applying (Canadian company).
-2. **Apply to Tenstorrent (#363) and ElevenLabs FDE (#364)** — both scored 4.0/5, reports ready.
-3. **Evaluate Cua, Speak, Zscaler, Lenovo** — all scored 3.7–3.8/5, worth full evaluation.
-4. **Run `/career-ops pipeline`** to process remaining pending items.
-5. Consider scanning for **fall 2026 co-ops** and **2027 summer early applications** (open Oct–Nov 2026).
-6. Run `/career-ops scan` again in 3–5 days to catch late-posted roles.
+1. **URGENT — Hootsuite interview window closes April 24:** Verify US work eligibility for Canadian co-op before applying
+2. **Apply to Tenstorrent (#363) and ElevenLabs FDE (#364)** — both scored 4.0/5, reports ready
+3. **Evaluate Cua, Speak, Zscaler, Lenovo** — all scored 3.7-3.8/5, worth full evaluation
+4. **NYT Full-stack (3.5/5):** Worth applying if NYC relocation is acceptable — prestige brand, strong tech match
+5. **Toshiba Agentic SWE (3.0/5):** Skip unless pipeline is light — no comp, Java-primary, on-site NC 5d/wk
+6. **Run `/career-ops pipeline`** to process remaining pending items
 
 ---
-*Generated by career-ops autonomous scan agent — 2026-04-14 (scan-v63, merged)*
+*Generated by career-ops autonomous scan agent — 2026-04-14 (scan v64)*
