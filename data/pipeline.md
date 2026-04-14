@@ -2,6 +2,12 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-14 SCAN v65 (Autonomous Agent — deep verification sweep: Greenhouse APIs (Intercom no intern, PolyAI no intern, Anthropic refresh confirms no new roles); WebSearch across 25+ companies: Cognigy/Speechmatics/Dialpad/Fiserv/FireMon/ATPCO (portals.yml completeness check); speedyapply/2026-SWE-College-Jobs repo (new repo — all entries already in history); 0 new pipeline additions; 10 new history entries; history now 1930 entries) === -->
+<!-- No listings scored ≥4.0. 0 new listings added to pipeline. -->
+<!-- Companies confirmed no intern roles: Intercom, PolyAI, Cognigy, Speechmatics (UK). Past deadline: Fiserv. URL not found: FireMon, ATPCO. -->
+
+<!-- === END 2026-04-14 SCAN v65 === -->
+
 <!-- === NEW 2026-04-14 SCAN v63b (Autonomous Agent supplemental — Greenhouse (Commvault re-check: Sales Eng Intern 1.5/5 skipped, Product Strategy/Payroll interns filtered; Parloa no intern roles), Ashby (Codeium no 2026 intern), SimplifyJobs (GoLinks dup, Flagship Pioneering 2.5/5); 0 new pipeline additions; 7 new history entries; history now 1920 entries) === -->
 <!-- No listings scored ≥4.0. 0 new listings added to pipeline. -->
 <!-- New findings (all below threshold): Flagship Pioneering Digital Tools & AI Builder Co-Op (2.5/5 — Cambridge MA on-site; biotech domain; $25-35/hr; React+Python); Commvault Sales Eng Intern (1.5/5 — pre-sales demos, non-technical); Parloa confirmed no intern program; Codeium no Summer 2026 interns. -->
