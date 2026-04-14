@@ -1,105 +1,123 @@
-# Portal Scan Summary — 2026-04-14 (Scan v65)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Portal Scan Summary — 2026-04-14 (v66)
 
+**Agent:** Autonomous Scanner (Claude Sonnet 4.6)
+**Scan ID:** scan-v66
 **Date:** 2026-04-14
-**Scan version:** v65 (autonomous agent — deep verification sweep)
-**Context:** 8th scan run today. Prior runs (v59–v64b) covered the full portals.yml + aggregators. This run verifies remaining unchecked portals.yml companies and a newly discovered aggregator repo.
+**History size after scan:** 1,942 entries
 
 ---
 
-## Scan Results
+## Overview
 
-| Metric | Count |
-|--------|-------|
-| Portals/companies explicitly scanned | 25+ |
-| APIs called (Greenhouse) | 3 (Intercom, PolyAI, Anthropic) |
-| WebSearch queries executed | 18 |
-| Aggregator repos scanned | 2 (speedyapply/2026-SWE-College-Jobs + GitHub confirmation) |
-| Total URLs evaluated | 50+ |
-| Filtered (no intern roles) | 4 companies |
-| Filtered (past deadline) | 1 company (Fiserv) |
-| Filtered (URL not found) | 2 companies (FireMon, ATPCO) |
-| Duplicates (already in history) | ~40+ results |
-| **New listings added to pipeline.md** | **0** |
-| History entries added | 10 |
-| **scan-history.tsv total entries** | **1930** |
+```
+Portals/companies scanned:     22+
+Queries executed:               25+ WebSearch queries
+Listings found (all):           12 new URLs evaluated
+Title filter pass:              7
+Duplicates (already known):     0 new dups found
+New listings added to pipeline: 2
+Skipped (score <3.5):           3
+Skipped (no intern/closed):     7
+```
 
 ---
 
-## Companies Verified This Run
+## New Listings Added to Pipeline
 
-### Confirmed No Intern Roles
-- **Intercom** — 0 intern/new-grad roles; all mid-senior AE/CSM/Senior SWE FTE
-- **PolyAI** — 21 positions, all FTE (Account Mgr, Agent Designer, Senior Deployment Strategist); no intern program
-- **Cognigy** — Senior-only FTE (Senior Full-Stack, Staff SWE, NLU SWE, MLOps); no intern program
-- **Speechmatics** — Cambridge UK HQ only; no US internship program
+| # | Company | Role | Location | Score | URL |
+|---|---------|------|----------|-------|-----|
+| 1 | IBM | Back End Developer Intern 2026 | Austin/Dallas TX + multiple US | **3.7/5** | https://careers.ibm.com/en_US/careers/JobDetail/Back-End-Developer-Intern-2026/55372 |
+| 2 | IBM | Software Developer Intern Austin 2026 | Austin TX hybrid | **3.5/5** | https://careers.ibm.com/en_US/careers/JobDetail/Software-Developer-Intern-Austin-2026/72308 |
 
-### Past Deadline
-- **Fiserv** — Summer 2026 intern program (AppDev Frisco TX, Cybersecurity Omaha NE, Infrastructure Berkeley Heights NJ) all had application deadline of March 20, 2026
+### Highlights
 
-### URL Not Resolved
-- **FireMon** — Listed in speedyapply/2026-SWE-College-Jobs but no public Greenhouse/Ashby/Lever URL found
-- **ATPCO** — Cloud Engineer Intern listed in aggregator but no public job board URL found
+**IBM Back End Developer Intern (3.7/5)**
+- Python/C/C++/Golang/SQL + REST APIs required — Carlos has all of these
+- $75-139K/yr annualized (~$36-67/hr)
+- Austin TX included in location options (~2 hrs from College Station)
+- Backend depth matches Finch's 46-route Flask API architecture
+- No visa sponsorship needed; hybrid arrangement
+- Caution: IBM enterprise culture, not startup speed
 
-### Confirmed Duplicates (Already in History)
-- **Anthropic** — API refresh: 15 new FTE roles (AE Public Sector, Analytics, Commercial Counsel, Fellows AI Safety/ML Systems/RL all already added); no new intern/new-grad
-- **Dialpad** — SWE Intern 7720522002 in history (4/7); Co-op roles Jan 2026 start (past deadline) + Canada-only
-- All YC companies, SimplifyJobs, vanshb03/Summer2026-Internships, speedyapply/2026-AI-College-Jobs confirmed exhausted from today's v59-v64b runs
-
----
-
-## New Aggregator Discovered
-
-**speedyapply/2026-SWE-College-Jobs** — Different from 2026-AI-College-Jobs (broader SWE focus). Scanned for the first time. Key entries confirmed already in history:
-- Zscaler AI/ML Intern Agentic Cloud → history (scan-v32, April 11)
-- iHeartMedia SWE Intern San Antonio TX → history (scan-v42, April 12)
-- Anduril Frontier Systems SWE Intern → history (scan-v39, April 12)
-- Advanced Space 2026 SWE Intern → history (scan-v32, April 11)
-- CACI Austin SWE Intern → history (scan-v32, April 11)
-- Motorola Solutions Embedded Intern → filtered (negative keyword: Embedded)
+**IBM Software Developer Intern Austin (3.5/5)**
+- React/Angular/Vue + Node.js/Python/SQL — Carlos has React 19, Python, TypeScript, Node.js
+- Austin TX specifically (optimal for TAMU student, ~2 hrs from College Station)
+- Co-Op fixed-term contract; 20% travel requirement
+- Same IBM enterprise culture trade-off
+- Strong stack match but Co-Op format (may be longer than standard 10-12 week internship)
 
 ---
 
-## Top Pending Pipeline Items (All Today's Scans v59–v65)
+## Below Threshold (added to history only)
 
-| Priority | Company | Role | Score | Notes |
-|----------|---------|------|-------|-------|
-| ⭐ HIGH | ElevenLabs | Forward Deployed Engineer - Recent Graduate | 4.0/5 | **Evaluated** Report #364 — apply ASAP |
-| 🔴 URGENT | Anthropic | Fellows Program — AI Security | — | **Deadline April 26!** In pipeline |
-| 🔸 MED | Lenovo | AI Application Development Intern (Summer 2026) | ~3.7/5 | Pending evaluation |
-| 🔸 MED | Zscaler | Software Engineer Intern, Software Development | ~3.7/5 | Pending evaluation |
-| 🔸 MED | Speak | Full-Stack Engineer Internship (Summer 2026) | ~3.7/5 | Pending evaluation |
-| 🔸 MED | The New York Times | Full-stack Engineering Intern | ~3.5/5 | Pending evaluation |
-| 🔸 MED | Aledade | Summer Internship - AI Researcher | ~3.5/5 | Pending evaluation |
+| Company | Role | Location | Score | Note |
+|---------|------|----------|-------|------|
+| Apptronik | Autonomy Software Intern | Austin TX | 2.5/5 | C++/Python/ROS2; robotics autonomy domain gap; no comp listed |
+| IBM | AI Engineer Intern - Sales Program (53118) | Austin/Dallas TX | 2.5/5 | 50% travel; client-facing sales, not pure engineering |
+| ENFOS | Frontend Engineering Intern | Durham NC | 2.0/5 | Environmental domain; UI/UX focus only; $21-29/hr |
+| Berkley Technology Services | Cloud Team Intern | Wilmington DE | 1.5/5 | Insurance IT; non-tech-product company |
+
+---
+
+## Companies Confirmed No Intern Roles This Scan
+
+| Company | Status | Note |
+|---------|--------|------|
+| Gong | skipped_no_intern | All senior FTE (no 2026 intern program found) |
+| Twilio | skipped_no_intern | No intern program visible via site: search |
+| LivePerson | skipped_no_intern | All senior FTE roles |
+| Retool | skipped_no_intern | Greenhouse board 404 — likely changed ATS platform |
+| Airbnb Connect | skipped_title | University students explicitly ineligible per program rules |
+| Stoke Space | skipped_past_deadline | Application window was September-November 2025 |
+
+---
+
+## Active Pipeline Summary (all pending listings as of v66)
+
+**Score ~3.7-4.0:**
+- Tenstorrent Applied AI Workflow Automation (report #363, 4.0/5)
+- IBM Back End Developer Intern 2026 (3.7/5) ← NEW
+- Zscaler SWE Intern (3.7/5) — San Jose CA hybrid; $45-65/hr
+- Lenovo AI Application Development Intern (3.7/5) — Morrisville NC; posted Apr 6
+
+**Score ~3.5:**
+- IBM Software Developer Intern Austin 2026 (3.5/5) ← NEW
+- The New York Times Full-stack Intern (3.5/5) — NYC hybrid; $40/hr; June 1
+- Aledade AI Researcher Intern (3.5/5) — Remote; LangChain/browser-use agents
+
+**Score ~3.0-3.3:**
+- Hootsuite Internal AI Operations Co-op (3.3/5) — ⚠️ URGENT: interview window April 14-24
+- Commvault AI & Support Automation Intern (3.2/5) — Remote USA
+- Toshiba Agentic SWE Intern (3.0/5) — Raleigh NC on-site
+
+---
+
+## Context: Summer 2026 Market Status
+
+Today's scans (v61-v66) have been comprehensive across all configured portals:
+- **1,942 total entries** in scan history
+- **65+ companies** confirmed no new intern roles across today's scans
+- All major aggregators checked: SimplifyJobs, SpeedyApply (SWE + AI repos), YC Internships, GitHub curated lists, Extern "still open" guide
+- All portals.yml companies have been checked at least once today
+
+The Summer 2026 intern market is entering its late phase. Most application windows closed February-March 2026. IBM, a handful of startups, and defense contractors still accept rolling applications.
 
 ---
 
 ## Recommended Next Actions
 
-1. 🔴 **URGENT: Anthropic Fellows Program (AI Security)** — Deadline April 26, 2026 (12 days). Already in pipeline.
-2. **Apply to ElevenLabs FDE New Grad** — Report #364 scored 4.0/5; apply this week.
-3. **Run `/career-ops pipeline`** — Process 15+ pending URLs: Lenovo, Zscaler, Speak, NYT Full-Stack, Aledade.
-4. **Next scan: April 16-17** — Rolling postings continue mid-April. Wait 2-3 days.
-5. **Portfolio** — Ensure applyeasy.tech linked in all applications.
+1. **⚠️ URGENT — Hootsuite** (scan-v60): Interview window is April 14-24. Verify US work eligibility (Canadian company). Score 3.3/5. Run `/career-ops oferta` to evaluate.
+
+2. **Apply — IBM Back End Developer Intern** (3.7/5): Strong backend match. Run `/career-ops oferta` with the URL for full evaluation + PDF.
+
+3. **Apply — IBM Software Developer Intern Austin** (3.5/5): Austin TX proximity is a plus. Confirm Co-Op dates vs TAMU schedule. Run `/career-ops oferta` for full evaluation + PDF.
+
+4. **Apply — Zscaler SWE Intern** (3.7/5): Strong cybersecurity + Python/AWS/Docker stack match. San Jose CA — requires relocation.
+
+5. **Apply — Lenovo AI LLM Intern** (3.7/5): LangChain/LLM/Python — direct match to Finch stack. Morrisville NC. Posted April 6 — apply soon.
+
+6. **Run `/career-ops pipeline`** to batch-evaluate the top pending listings and generate application materials.
 
 ---
 
-## Today's Full Scan Coverage (v59–v65)
-
-| Run | New Listings | Notable Finds |
-|-----|-------------|---------------|
-| v59 | 2 | Tenstorrent AI Workflow (4.0/5 #363), Commvault AI Intern (3.2/5) |
-| v60 | 2 | Hootsuite Co-op (3.3/5), Lenovo AI Intern (3.7/5) |
-| v61 | 1 | Zscaler SWE Intern (3.7/5), ElevenLabs FDE New Grad evaluated #364 (4.0/5) |
-| v62 | 0 | No qualifying new listings |
-| v63 | 0 | Deep 45+ company sweep, all confirmed in history |
-| v63b | 0 | Supplemental sweep, 0 new additions |
-| v64 | 2 | NYT Full-Stack Intern (3.5/5), Toshiba Agentic Intern (3.0/5) |
-| v65 | 0 | Portals.yml verification, new aggregator repo scanned |
-
-**Total new pipeline additions today:** ~10 across all runs
-**scan-history.tsv entries:** 1930 (was ~1800 at start of day)
-
----
-
-*Generated by autonomous scan agent — 2026-04-14*
+*Generated by career-ops autonomous scanner v66 | 2026-04-14*

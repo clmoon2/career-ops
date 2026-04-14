@@ -2,6 +2,18 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-14 SCAN v66 (Autonomous Agent — comprehensive freshness sweep v66: 25+ WebSearch queries across Greenhouse/Ashby/Lever/YC; Greenhouse API (Glean confirmed closed, Retool 404); portals.yml company checks (Gong no intern, Twilio no results, LivePerson no results, Lindy already in history, Retool board 404); IBM Austin-specific roles discovered; Apptronik Austin robotics intern found; SimplifyJobs new entries checked (all in history); SpeedyApply AI/SWE repos checked (all in history); Extern "still open" list checked (all in history); Airbnb Connect excluded (university students not eligible); 2 new listings added to pipeline; 12 new history entries; history now 1942 entries) === -->
+<!-- ⭐ No listings scored ≥4.0 this scan. 2 new listings added to pipeline (score 3.5-3.7). -->
+<!-- Companies confirmed no new intern roles this scan: Gong (no intern listings), Twilio (no results via site:), LivePerson (no results), Retool (Greenhouse board 404 — likely changed platform), Lindy (already in history), Glean (SWE intern closed, Univ Grad in history), Stoke Space (application window closed Sep-Nov). Airbnb Connect excluded (university students not eligible per program rules). IBM AI Intern Sales (53118) skipped (50% travel, sales-focused, low engineering fit). ENFOS Frontend skipped (2.0/5 — environmental domain, UI/UX, $21-29/hr). Berkley Tech Cloud skipped (1.5/5 — insurance IT, Wilmington DE). -->
+
+### 🔸 Pipeline Pending (score est. ~3.7) — scan-v66
+- [ ] https://careers.ibm.com/en_US/careers/JobDetail/Back-End-Developer-Intern-2026/55372 | IBM | Back End Developer Intern 2026 | 3.7/5 | Multiple US locations including Austin/Dallas TX; Python/C/C++/Golang/Perl/SQL + REST APIs; $75-139K/yr annualized (~$36-67/hr); Carlos has Python ✓, C++ ✓, REST APIs (46+ API routes in Finch) ✓, SQL/PostgreSQL ✓; IBM large enterprise (not startup culture) but strong brand + backend depth match; no visa sponsorship needed; hybrid; apply if backend-focused IBM internship appeals
+
+### 🔸 Pipeline Pending (score est. ~3.5) — scan-v66
+- [ ] https://careers.ibm.com/en_US/careers/JobDetail/Software-Developer-Intern-Austin-2026/72308 | IBM | Software Developer Intern Austin 2026 | 3.5/5 | Austin TX hybrid (~2 hrs from College Station); React/Angular/Vue, Node.js, Java, Python, SQL, Git; $75-138K/yr annualized; Co-Op (fixed-term contract); 20% travel; Carlos has React 19 ✓, Python ✓, Node.js ✓, TypeScript ✓, Git ✓ — near-perfect stack match; IBM enterprise culture trade-off; Austin proximity is a plus for TAMU student
+
+<!-- === END 2026-04-14 SCAN v66 === -->
+
 <!-- === NEW 2026-04-14 SCAN v65 (Autonomous Agent — deep verification sweep: Greenhouse APIs (Intercom no intern, PolyAI no intern, Anthropic refresh confirms no new roles); WebSearch across 25+ companies: Cognigy/Speechmatics/Dialpad/Fiserv/FireMon/ATPCO (portals.yml completeness check); speedyapply/2026-SWE-College-Jobs repo (new repo — all entries already in history); 0 new pipeline additions; 10 new history entries; history now 1930 entries) === -->
 <!-- No listings scored ≥4.0. 0 new listings added to pipeline. -->
 <!-- Companies confirmed no intern roles: Intercom, PolyAI, Cognigy, Speechmatics (UK). Past deadline: Fiserv. URL not found: FireMon, ATPCO. -->
