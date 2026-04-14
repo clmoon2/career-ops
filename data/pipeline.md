@@ -2,6 +2,12 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-14 SCAN v62 (Autonomous Agent — freshness sweep: Greenhouse APIs (Bandwidth, PMG, WorldQuant), Ashby (Notion early-career roles), 20+ WebSearch queries across Greenhouse/Ashby/Lever/YC/SimplifyJobs for new Summer 2026 intern postings; 0 new listings added to pipeline; 6 new history entries; history now 1868 entries) === -->
+<!-- No listings scored ≥4.0. 0 new listings added to pipeline. -->
+<!-- New findings this scan (all below threshold or ineligible): Bandwidth Network Dev Eng Intern (2.8/5 — below threshold); PMG AI & SWE Intern (2.7/5, Dallas TX 5d/wk in-office — below threshold); WorldQuant AI/LLM Intern (past deadline — started Jan 2026); Notion Fullstack/Infrastructure/AI-Agentic-Search "Early Career" (all require 1-5 yrs FTE experience — ineligible for current students) -->
+
+<!-- === END 2026-04-14 SCAN v62 === -->
+
 <!-- === NEW 2026-04-14 SCAN v61 (Autonomous Agent — targeted freshness sweep: Greenhouse APIs (Anthropic/Airtable/Vercel/Glean), Cloudflare board, Zscaler new listing, 25+ WebSearch queries across Ashby/Greenhouse/Lever/YC/SimplifyJobs for new Summer 2026 intern postings; 1 new listing found (Zscaler SWE Intern $45-65/hr); history now 1862 entries) === -->
 <!-- No listings scored ≥4.0. 1 new listing added to pipeline. -->
 <!-- Companies confirmed no new roles this scan: Anthropic (no new intern — all Fellows in history), Airtable (no intern roles), Vercel (no intern roles), Glean (SWE Intern closed, Univ Grad in history), Cloudflare (only new role = Business Systems Analyst — non-SWE/business ops, skip), DV Trading/Bandwidth/Dev Technology/Datacor/Actian/Zoox/Match Group/Best Egg/Spaulding Ridge (all in history), Notion/Cohere/Replit/Whatnot/Ramp/Farsight/Sigma Computing (all in history), all portals.yml companies confirmed no new intern listings since 4/14 morning scan-v60 -->
