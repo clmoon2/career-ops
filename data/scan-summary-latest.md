@@ -7,7 +7,7 @@
 
 ---
 
-## Summary
+## Results at a Glance
 
 | Metric | Count |
 |--------|-------|
@@ -24,17 +24,17 @@
 | Reports generated (score ≥ 4.0) | 0 |
 
 **Scan history entries added:** 6
-**Total history entries:** 1,868
+**Total history entries:** 1,882+
 
 ---
 
-## New Listings Added to Pipeline
+## New Listings Found
 
 None. All candidates this scan were below the pipeline threshold or ineligible.
 
 ---
 
-## Listings Evaluated This Scan
+## Companies Scanned
 
 | Company | Role | Score | Disposition |
 |---------|------|-------|-------------|
@@ -45,36 +45,32 @@ None. All candidates this scan were below the pipeline threshold or ineligible.
 | Notion | Software Engineer, Infrastructure, Early Career | N/A | Ineligible — requires 1-3 years FTE professional experience |
 | Notion | Software Engineer, AI Agentic Search, Early Career | N/A | Ineligible — requires 2-5 years professional experience |
 
----
-
-## Companies Confirmed Clear (No New Roles)
-
-All portals.yml companies and additional targets confirmed no new intern listings beyond those already in history:
-
-- **Bandwidth** — 1 new role found (Network Dev Eng Intern, 2.8/5 — below threshold, added to history)
-- **PMG** — 1 new role found (AI & SWE Intern, 2.7/5 — below threshold, added to history)
-- **WorldQuant** — AI/LLM Intern found but past deadline (started Jan 2026)
-- **Notion** — 3 "early career" SWE roles found; all require 1-5 yrs FTE experience, ineligible for current students
-- All other portals.yml companies: no new intern listings since scan-v61 this morning
+All other portals.yml companies: no new intern listings since scan-v61 this morning.
 
 ---
 
-## Pipeline Health Note
+## Key Context for Next Session
 
-The scan history is now at **1,868 entries** across **62 scans**. The Summer 2026 internship market is well-saturated in the discovery pipeline. Focus should be firmly on **evaluation + application** of the 40+ pending items already in pipeline.md.
+The scan history is now at **1,882+ entries** across **62 scans**. The Summer 2026 internship market is well-saturated in the discovery pipeline. Focus should be firmly on **evaluation + application** of the 40+ pending items already in pipeline.md.
+
+**Active opportunities requiring immediate action:**
+- **[scan-v61] ElevenLabs FDE Recent Graduate** (#364, 4.0/5) — NEW GRAD FTE, Remote+SF/NYC, $3.3B voice AI leader. Apply this week.
+- **[scan-v60] Hootsuite Internal AI Operations** — interview window **April 14–24**: https://job-boards.greenhouse.io/hootsuite/jobs/7808288
+- **[scan-v60] Lenovo AI Application Development** — posted April 6, actively hiring: https://jobs.lenovo.com/en_US/careers/JobDetail/AI-Application-Development-Intern-Summer-2026/76249
+- **Anthropic Fellows Program** — deadline **April 26, 2026** (12 days away)
 
 ---
 
 ## Recommended Next Actions
 
-1. **[URGENT TODAY] Hootsuite Internal AI Operations** (interview window April 14–24): Verify US work eligibility, then apply at https://job-boards.greenhouse.io/hootsuite/jobs/7808288
+1. **[URGENT TODAY] Apply to Hootsuite Internal AI Operations** — interview window April 14–24: https://job-boards.greenhouse.io/hootsuite/jobs/7808288
+2. **[HIGH PRIORITY] Apply to Lenovo AI App Dev Intern** — posted April 6, actively hiring: https://jobs.lenovo.com/en_US/careers/JobDetail/AI-Application-Development-Intern-Summer-2026/76249
+3. **Apply to ElevenLabs FDE Recent Graduate** — report #364; check graduation date, apply this week
+4. **[DEADLINE April 26] Anthropic Fellows** — already in pipeline since scan-v7; act if not yet applied
+5. **Process existing pipeline** — run `/career-ops pipeline` to evaluate remaining pending items: Zscaler SWE Intern (~3.7), Cua Research Intern (~3.8), Vercel Engineering Intern (~3.8), Cloudflare Solutions Engineer (#362), Rippling Full Stack ($75/hr, #358)
 
-2. **[HIGH PRIORITY] Lenovo AI Application Development** (posted April 6, actively hiring): https://jobs.lenovo.com/en_US/careers/JobDetail/AI-Application-Development-Intern-Summer-2026/76249
+---
 
-3. **[DEADLINE APPROACHING] Anthropic Fellows Program** — AI Security and ML Systems tracks especially relevant:
-   - AI Security: https://job-boards.greenhouse.io/anthropic/jobs/5030244008
-   - ML Systems & Performance: https://job-boards.greenhouse.io/anthropic/jobs/5183051008
+## Scanner Notes
 
-4. **[scan-v61] Zscaler SWE Intern** ($45-65/hr, San Jose, 3.7/5): https://job-boards.greenhouse.io/zscaler/jobs/5103680007
-
-5. **Run `/career-ops pipeline`** to evaluate high-priority pending items: Cua Research Intern (~3.8), Vercel Engineering Intern (~3.8), Cloudflare Solutions Engineer (#362), Rippling Full Stack ($75/hr, #358), Tenstorrent AI Automation (#363), Cloudglue Full-Stack AI (#357).
+This v62 scan confirms that discovery yield is now minimal. All major portals are covered. Recommend **pausing scans** and shifting focus to evaluating and applying to the existing pipeline.

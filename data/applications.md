@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 364 | 2026-04-14 | ElevenLabs | Forward Deployed Engineer, Recent Graduate | 4.0/5 | Evaluada | ❌ | [364](reports/364-elevenlabs-fde-recent-grad-2026-04-14.md) | NEW GRAD FTE; Remote+SF/NYC; voice AI leader $3.3B; Python+multi-model AI exact match; apply immediately if graduating 2026 |
 | 363 | 2026-04-14 | Tenstorrent | Applied AI Workflow Automation, Intern | 4.0/5 | Evaluada | ❌ | [363](reports/363-tenstorrent-applied-ai-workflow-automation-intern-2026-04-14.md) | n8n exact match; Python+LLMs+RAG+HITL = full stack alignment; Austin TX (no relocation); $32-79/hr range; flexible term Summer available |
 | 361 | 2026-04-13 | The Voleon Group | Software Engineer Intern (Summer 2026) | 4.1/5 | Evaluada | ❌ | [361](reports/361-voleon-swe-intern-2026-04-13.md) | $13,333/mo ($160K); Berkeley CA; quant trading system (Bloomberg/Alpaca) = rare differentiator; ML-driven trading systems |
 | 359 | 2026-04-13 | Cloudglue | Full-Stack AI Engineer Intern (Summer 2026) | 4.1/5 | Evaluada | ❌ | [359](reports/357-cloudglue-fullstack-ai-intern-2026-04-13.md) | YC W26 video/audio AI APIs; React/TypeScript/Python; ex-Snap/Amazon/CMU founders; DEF CON pub; SF in-person; strong full-stack + multimodal AI match |

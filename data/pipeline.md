@@ -1320,3 +1320,19 @@
 - [ ] https://www.ycombinator.com/companies/deep24/jobs/HQOPclv-software-engineering-intern | Deep24 (YC W26) | Software Engineering Intern — SF in-person; $6K–10K/mo; AI for college admissions (General Catalyst backed); no specific tech stack listed; flexible timing (not explicitly Summer 2026); (~3.2)
 
 <!-- === END 2026-04-13 SCAN v56 === -->
+
+<!-- === NEW 2026-04-14 SCAN v61 (Autonomous Agent — Greenhouse APIs + WebSearch across portals.yml companies + SimplifyJobs GitHub repo; 25+ companies scanned; 7 new listings found; 2 high-score finds; scan history updated) -->
+<!-- Scanned: Anthropic (no new interns), Hume AI (no interns), Airtable (no interns), Vercel (no new interns), Temporal (0 jobs), Arize AI (2 new FTE roles, 2-5yr exp required — skip), RunPod (no interns), Glean (all in history), Palantir (all in history), ElevenLabs (NEW: FDE Recent Graduate + FDE SWE), Mistral AI (all in history), Weights & Biases (no interns), Cohere (all in history), ByteDance (NEW: AI Security intern, Singapore), Sierra (all in history), Twilio (all in history), Retool (no interns), LangChain (no interns), Deepgram (no interns), Bland AI (all in history), Harvey (all in history), Perplexity (all in history), Tenstorrent (evaluated scan-v59), Commvault (added scan-v59), Zscaler (NEW: SWE intern San Jose), TikTok (NEW: Model Infrastructure intern, C++ heavy), SimplifyJobs repo scan completed -->
+
+### ✅ Evaluated (score ≥ 4.0) — scan-v61
+- [x] https://jobs.ashbyhq.com/elevenlabs/dd26398c-54d8-4200-a181-65e6203ec9a6 | ElevenLabs | Forward Deployed Engineer, Recent Graduate — **4.0/5** → report #364 | Remote+SF/NYC; voice AI leader $3.3B Series C; Python+multi-model AI exact match; new grad FTE role; apply immediately if graduating Spring/Summer 2026
+
+### 🟡 Pipeline Pending (score 3.5–3.9) — scan-v61
+- [ ] https://job-boards.greenhouse.io/zscaler/jobs/5103680007 | Zscaler | Software Engineer Intern (Summer 2026) — San Jose CA; $45-65/hr; Python+Rust+Java; security company (zero trust); Claude Code+GitHub Copilot in workflow; AWS+Docker preferred; cybersecurity minor = strong archetype match; (~3.7)
+- [ ] https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6 | ElevenLabs | Forward Deployed Engineer - Software Engineer — FTE (non-intern); Remote+SF/NY; similar to #364 but no "recent grad" label; Python+customer-facing; no explicit YOE req; overlap with #364 — apply to both or one; (~3.5)
+
+### 🟠 Pipeline Pending (score est. ≤ 3.0) — scan-v61
+- [ ] https://joinbytedance.com/search/7600541368906680629 | ByteDance | Software Engineer Project Intern (AI Security) - 2026 Start — Singapore-based (hard location blocker for Carlos); Python+Golang; LLM security (jailbreaking+prompt injection+RedTeaming); AI security research platform; strong skill match but international relocation required; (~2.5)
+- [ ] https://lifeattiktok.com/search/7624284785283746053 | TikTok | Software Engineer Project Intern (Model Infrastructure) - 2026 Summer — San Jose CA; C++/Python; CUDA/GPU stack; PyTorch/TF; recommendation systems at scale; $45/hr; deep C++/systems focus mismatches Carlos's Python/AI stack; (~2.5)
+
+<!-- === END 2026-04-14 SCAN v61 === -->
