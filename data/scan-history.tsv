@@ -1813,3 +1813,25 @@ https://www.ycombinator.com/companies/joindex/jobs/jgOpS9K-2026-summer-ai-ml-eng
 https://jobs.ashbyhq.com/Commure-Athelas/566a84fb-d93e-4177-ac07-3c16d3ae8e8d	2026-04-14	scan-v59-ashby	(Commure+Athelas SWE Intern — already in history scan-v7 2026-04-08)	Commure + Athelas	skipped_dup
 https://simplify.jobs/2026-SWE	2026-04-14	scan-v59-simplify	(broad sweep: most new listings today = hardware/embedded/non-target; Tenstorrent AI Workflow new; Commvault AI new; all others in history or filtered)	SimplifyJobs	added
 https://github.com/speedyapply/2026-AI-College-Jobs	2026-04-14	scan-v59-speedyapply	(scanned; Booz Allen AI Data Analyst in history scan-v54; GDIT in history scan-v54; Planet ML in history; Adobe ML Intern = FAANG/grad level; most new = hardware/bio/defense)	SpeedyApply AI	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	2026-04-14	scan-v60-greenhouse	(no new intern/new grad roles — all Fellows already in history since 4/7)	Anthropic	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/humeai/jobs	2026-04-14	scan-v60-greenhouse	(no intern roles — all senior FTE: AI Researcher, Front-End, Platform Engineers)	Hume AI	skipped_no_intern
+https://boards-api.greenhouse.io/v1/boards/intercom/jobs	2026-04-14	scan-v60-greenhouse	(no intern roles — all mid-senior FTE: sales, engineering, product)	Intercom	skipped_no_intern
+https://boards-api.greenhouse.io/v1/boards/polyai/jobs	2026-04-14	scan-v60-greenhouse	(no intern roles — 21 roles, all senior FTE: Account Manager, Deployment Strategist, Enterprise AE)	PolyAI	skipped_no_intern
+https://jobs.ashbyhq.com/vapi	2026-04-14	scan-v60-ashby	(no roles visible on Ashby page)	Vapi	skipped_no_intern
+https://jobs.ashbyhq.com/n8n	2026-04-14	scan-v60-ashby	(no roles visible on Ashby page)	n8n	skipped_no_intern
+https://jobs.ashbyhq.com/zapier	2026-04-14	scan-v60-ashby	(no roles visible on Ashby page)	Zapier	skipped_no_intern
+https://job-boards.greenhouse.io/hootsuite/jobs/7808288	2026-04-14	scan-v60-greenhouse	Co-op/Intern, Internal AI Operations (Summer 2026) — Anthropic API+Zapier+Gemini; CAD comp; Canada-based co-op; interview April 14-24; 3.3/5	Hootsuite	added
+https://jobs.lenovo.com/en_US/careers/JobDetail/AI-Application-Development-Intern-Summer-2026/76249	2026-04-14	scan-v60-websearch	AI Application Development Intern (Summer 2026) — LangChain+LangGraph+LLM+Python; Morrisville NC; posted April 6 2026; 3.7/5	Lenovo	added
+https://jobs.lenovo.com/en_US/careers/JobDetail/Commercial-AI-Automation-Intern/76257	2026-04-14	scan-v60-websearch	Commercial AI & Automation Intern (Summer 2026) — no-code/low-code AI tools; business ops focus; 2.8/5 — below target score	Lenovo	skipped_score
+https://jobs.lenovo.com/en_US/careers/JobDetail/Software-Engineering-Intern-AI-Experiences-Summer-2026/75222	2026-04-14	scan-v60-websearch	Software Engineering Intern (AI Experiences) — Java/Kotlin mobile; not target stack for Carlos	Lenovo	skipped_title
+https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f	2026-04-14	scan-v60-lever	Software Engineering Intern 2026 Summer — already in history scan-v7	Shield AI	skipped_dup
+https://jobs.lever.co/artera/e404f923-0387-4086-8ab0-55988a1564d0	2026-04-14	scan-v60-lever	Software Engineer Intern (Summer 2026) — already in history scan-v8	Artera	skipped_dup
+https://job-boards.greenhouse.io/togetherai/jobs/5012768007	2026-04-14	scan-v60-greenhouse	Software Engineer Intern (Summer 2026) — already in history scan-v7	Together AI	skipped_dup
+https://job-boards.greenhouse.io/togetherai/jobs/5012785007	2026-04-14	scan-v60-greenhouse	Security Engineer Intern (Summer 2026) — already in history scan-v7	Together AI	skipped_dup
+https://job-boards.greenhouse.io/obsidiansecurity/jobs/4788725008	2026-04-14	scan-v60-greenhouse	Software Engineer - Intern (Summer 2026) — already in history scan-v7	Obsidian Security	skipped_dup
+https://jobs.ashbyhq.com/notion/5bc8cbb9-4d08-4217-a968-d485d1b39905	2026-04-14	scan-v60-ashby	Software Engineer AI Intern (Summer 2026) — already in history	Notion	skipped_dup
+https://jobs.ashbyhq.com/decagon/aa9c9d2a-aba9-429e-bf91-8303247fbcd6	2026-04-14	scan-v60-ashby	Agent Software Engineer Intern (Summer 2026) — already in history scan-v7	Decagon	skipped_dup
+https://www.ycombinator.com/companies/cloudglue/jobs/yPXR95r-summer-2026-full-stack-ai-engineer-intern	2026-04-14	scan-v60-yc	Full-Stack AI Engineer Intern (Summer 2026) — already in history scan-v49	Cloudglue	skipped_dup
+https://job-boards.greenhouse.io/roadie/jobs/8479096002	2026-04-14	scan-v60-greenhouse	AI Engineer Intern (Summer 2026) — already in history scan-v7	Roadie	skipped_dup
+https://job-boards.greenhouse.io/censys/jobs/8167601002	2026-04-14	scan-v60-greenhouse	2026 AI/ML Engineering Intern — already in history scan-v7 (closed)	Censys	skipped_dup
+https://www.atlassian.com/company/careers/details/20959	2026-04-14	scan-v60-websearch	Machine Learning Intern Summer 2026 US — already in history scan-v9	Atlassian	skipped_dup
