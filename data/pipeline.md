@@ -1394,3 +1394,12 @@
 - [ ] https://lifeattiktok.com/search/7624284785283746053 | TikTok | Software Engineer Project Intern (Model Infrastructure) - 2026 Summer — San Jose CA; C++/Python; CUDA/GPU stack; PyTorch/TF; recommendation systems at scale; $45/hr; deep C++/systems focus mismatches Carlos's Python/AI stack; (~2.5)
 
 <!-- === END 2026-04-14 SCAN v61 === -->
+
+<!-- === NEW 2026-04-14 SCAN v69 (Autonomous Agent — broad gap-fill sweep; 20+ categories scanned; 80+ companies checked across NVIDIA/Meta/Amazon/fintech/consulting/security/YC/Ashby/Greenhouse/Lever; all prior major targets confirmed in history from v1-v68; 2 new listings found: Arcesium Infrastructure Intern + Software Engineer Intern) -->
+<!-- Confirmed in history (no new adds): NVIDIA, Meta, Amazon, Uber, Netflix, Apple, Lyft, Stripe, Coinbase, Block, Brex, Ramp, Google, Microsoft, Datadog, Snowflake, Confluent, Okta, Deloitte, Accenture, McKinsey/BCG/Bain (deadlines passed), Wiz, Snyk, Rapid7, CyberArk, Tenable, SentinelOne, Shield AI, Palantir, Anduril, ElevenLabs, Zscaler, Anthropic Fellows, Decagon, Notion, Together AI, YC batch companies (Circleback/Candle/14.ai/Dex/SubImage), Censys, Handshake, Verkada, Ada, Showpad, Klaviyo, Sigma Computing, Benchling, Affirm, Loop, Profound, xAI, Match Group, Arcesium (FDE 4585057007 already in history), Rigetti, D&B, Versana, Cleerly, Lenovo (2 roles added v60), Hootsuite (added v60), Tenstorrent (evaluated #363 v59), Commvault (added v59), SimplifyJobs/SpeedyApply repos all checked v65/v68. -->
+
+### 🟠 Pipeline Pending (score est. 3.0–3.5) — scan-v69
+- [ ] https://job-boards.greenhouse.io/arcesiumllc/jobs/4958459007 | Arcesium | Software Engineer Intern (Summer 2026) — New York on-site; $10K/month + housing stipend; fintech SaaS for hedge funds/asset managers; Python+TypeScript; excellent comp but fintech domain gap; NYC relocation required; (~3.3)
+- [ ] https://job-boards.greenhouse.io/arcesiumllc/jobs/4958467007 | Arcesium | Infrastructure Engineer Intern (Summer 2026) — New York on-site; $10K/month + housing stipend; Linux/Kubernetes/Docker/Python/AWS/GenAI tools; cloud automation+SRE; excellent comp but infra-heavy focus; NYC relocation required; (~3.0)
+
+<!-- === END 2026-04-14 SCAN v69 === -->

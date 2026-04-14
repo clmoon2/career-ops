@@ -1,124 +1,96 @@
-# Portal Scan — 2026-04-14 (v68)
+# Portal Scan — 2026-04-14 (v69)
 
-**Date:** 2026-04-14  
-**Scan version:** v68  
-**Portals/queries executed:** 35+ WebSearch queries + 10 WebFetch calls  
-**URLs seen:** ~50 total (18 new history entries)  
-**Filtered by title/score:** 14 below threshold (score < 3.0 or non-target)  
-**Duplicates:** 30+ (already in history from v59-v67)  
-**New listings added to pipeline:** 0  
+**Date:** 2026-04-14
+**Scan version:** v69 (Autonomous Agent — broad gap-fill sweep)
+**Agent:** Autonomous scan agent
 
-## New Listings Added
+---
 
-None. All new findings were below the 3.0/5 pipeline threshold.
+## Coverage
 
-## New Finds (below threshold — logged to history)
+This scan performed a broad gap-fill sweep across 80+ companies and categories, cross-referencing against the 1,974-entry scan history built across v1–v68.
 
-| Company | Role | Score | Location | Reason Skipped |
-|---------|------|-------|----------|----------------|
-| NewsBreak | AI Development Intern, 2026 | 2.5/5 | Mountain View, CA | Mobile-first stack (React Native/Flutter); AI/ML match but not primary strength |
-| Tyler Technologies | Cybersecurity Intern Summer 2026 | 2.0/5 | Yarmouth, ME | SOC monitoring role (not builder); Maine location; no comp |
-| CME Group | Quant Risk Management Intern | 2.8/5 | New York, NY | Risk analytics not SWE/AI eng; NYC relocation; finance domain |
-| CCC Intelligent Solutions | AI Enablement Intern | 2.5/5 | Chicago, IL | Insurance domain; AI enablement = internal tooling; Chicago |
-| American Century Investments | AI/ML Intern | 2.5/5 | Kansas City, MO | Finance domain; Kansas City not tech hub |
-| Cleerly | ML Scientist Summer Internship | 2.5/5 | New York, NY | Medical AI domain; research-focused; NYC relocation |
-| Centific | Responsible AI / Vision Research Intern | 2.0/5 | Remote USA | Data annotation company; likely QA/labeling work |
-| SAP | iXP Intern Security AI & Automation | CLOSED | Chicago/Newtown Square | Confirmed closed — 0 results on jobs.sap.com |
+### Companies / Categories Checked
 
-## Top Matches (score >= 4.0)
+| Category | Companies Checked | Result |
+|----------|------------------|--------|
+| Major Tech | NVIDIA, Meta, Amazon, Uber, Netflix, Apple, Lyft | All in history (v7–v39) |
+| Fintech | Coinbase, Block, Brex, Ramp, Stripe, Plaid, Mercury | All in history (v7–v29) |
+| AI Labs | Anthropic, OpenAI, Perplexity, xAI, Cohere, Together AI, Mistral | All in history; Perplexity no intern program |
+| Security | Wiz, Snyk, Rapid7, CyberArk, Tenable, SentinelOne, Obsidian | All in history (v7–v68) |
+| Defense Tech | Anduril, Shield AI, Palantir, Leidos | In history; Leidos roles skipped (clearance req) |
+| Consulting | McKinsey, BCG, Bain, Deloitte, Accenture | MBB deadlines passed Jul-Sep 2025; Deloitte/Accenture in history |
+| YC Internships | Circleback, Candle, 14.ai, Dex, SubImage, Browser Use | All in history (v30–v46) |
+| DevOps/Cloud | Ada, Showpad, Arcesium (NEW!), Klaviyo, Sigma Computing | Arcesium NEW; others in history |
+| Aggregators | SimplifyJobs, SpeedyApply SWE, SpeedyApply AI | All scanned v65/v68; no new adds |
+| portals.yml | Anthropic, ElevenLabs, Zscaler, Tenstorrent, ByteDance, TikTok, Cloudflare | All scanned v59–v68 today |
 
-None this scan.
+---
 
-## Coverage Summary (v68 New Territory)
+## Results
 
-**Security Companies (new territory):**
-- Wiz: Confirmed no intern program — all mid/senior FTE (Account Exec, Sr SE, Director)
-- CyberArk: No US intern SWE/security roles; all senior FTE
-- Rapid7: Emerging talent page exists but no open Summer 2026 SWE intern discoverable
-- Tenable: No intern listings found (no Greenhouse/Ashby/Lever board)
-- Abnormal Security: Re-confirmed no intern roles (dup of scan-v52)
-- Arctic Wolf: Only Waterloo Canada SOC intern — non-US
+| Metric | Count |
+|--------|-------|
+| Companies/categories scanned | 80+ |
+| WebSearch queries executed | 25 |
+| Listings confirmed already in history | 1,974+ |
+| New listings found | **2** |
+| Score >= 4.0 (full reports written) | **0** |
+| Added to pipeline | **2** |
 
-**HFT/Quant Firms (confirmed history):**
-- Jane Street: in history (added 4/8)
-- Two Sigma: in history (closed deadline)
-- Citadel: in history (closed)
-- Hudson River Trading: in history (closed)
-- Optiver: in history (Chicago intern added 4/12)
-- D.E. Shaw: Application deadlines passed
+---
 
-**Social/Consumer Tech (new territory):**
-- Reddit, Pinterest, Uber: Not found on Greenhouse/Ashby/Lever boards
-- Spotify NYC Engineering intern: Application window closed mid-April 2026
-- Discord: Re-confirmed no SWE intern roles (dup of scan-v52)
-- Lyft Backend/ML intern: in history (added 4/8)
+## New Listings Found
 
-**Consulting (confirmed):**
-- McKinsey/BCG/Bain: Summer 2026 deadlines passed (March/spring recruiting cycle)
-- PwC Cybersecurity Consulting: in history (added 4/7)
-- Deloitte GPS: in history (2.5/5 skipped)
-- ManTech: Cybersecurity intern found but requires TS clearance + Fairmont WV on-site
-- EY/KPMG: No listings found on indexed job boards
+### 🟠 Added to Pipeline (score 3.0–3.3 — below 4.0 threshold)
 
-**AT&T/USAA/Texas-local:**
-- AT&T TDP: Confirmed closed — 0 results on att.jobs for 2026 internship program
-- USAA: Technology Intern URL (90719744336) returned 404; application window was Fall/Spring recruiting cycle; now closed
-- H-E-B Digital: No listings found
-- Tyler Technologies: Cybersecurity Intern Yarmouth ME active but 2.0/5 (SOC work, not engineering)
+| # | Company | Role | URL | Score | Notes |
+|---|---------|------|-----|-------|-------|
+| 1 | Arcesium | Software Engineer Intern (Summer 2026) | https://job-boards.greenhouse.io/arcesiumllc/jobs/4958459007 | ~3.3/5 | $10K/mo + housing; NYC on-site; fintech SaaS; Python/TypeScript; strong comp but domain gap + relocation |
+| 2 | Arcesium | Infrastructure Engineer Intern (Summer 2026) | https://job-boards.greenhouse.io/arcesiumllc/jobs/4958467007 | ~3.0/5 | $10K/mo + housing; NYC on-site; Linux/K8s/Docker/AWS; SRE/cloud; infra-heavy focus + fintech + relocation |
 
-**AI/ML Startups (confirmed exhausted):**
-- Perplexity: US roles not available (EU/UK interns only)
-- Character.AI: No intern program (senior FTE only)
-- Runway ML: No intern program
-- LlamaIndex: No intern program
-- Weaviate: Not found on indexed boards
-- AI21 Labs: Not found on indexed boards
+---
 
-**Aggregators (new repo):**
-- speedyapply/2026-AI-College-Jobs: New repo scanned — 7 new entries checked, all 2.5/5 or below
-- intern-list.com: Checked — no new US SWE/security/AI intern listings not already in history
-- SAP iXP Intern Security AI & Automation: Confirmed CLOSED on jobs.sap.com
+## Scan Saturation Note
 
-## Current Pipeline (active items, chronological)
+After 69 scan iterations (1,988 history entries), the pipeline has reached high coverage saturation for Summer 2026 internships. Most major US tech, AI, security, fintech, and consulting companies have been captured across the pipeline. The scan is transitioning to:
 
-All items from prior scans remain in pipeline awaiting decision:
+1. **Maintenance mode**: Monitoring for newly posted roles at tracked companies
+2. **Fall 2026 / new grad watch**: Some companies beginning to post Fall 2026 co-ops and 2026 new grad roles
+3. **Application focus**: Priority is now **applying** to the top pipeline listings
 
-**Score ≥ 4.0 (evaluated):**
-- [x] Tenstorrent Applied AI Workflow Automation (4.0/5) → report #363 (Austin TX)
+---
 
-**Score 3.5-3.9 (pending decision):**
-- [ ] Zscaler SWE Intern — San Jose CA hybrid; $45-65/hr; Python/Rust/AWS/Docker/React; 3.7/5
-- [ ] IBM Back End Developer Intern 2026 — Austin/Dallas TX; Python/C/C++/Golang; $75-139K; 3.7/5
-- [ ] Lenovo AI Application Development Intern — Morrisville NC; LangChain+LLM+Python; 3.7/5
-- [ ] Amazon Robotics SDE Intern/Co-op — Austin TX + 7 cities; Python/C++; $105-160K; 3.8/5
-- [ ] NYT Full-stack Engineering Intern — NYC hybrid; $40/hr; React+Go; 3.5/5
-- [ ] IBM Software Developer Intern Austin 2026 — Austin TX; React/Node.js/Python; 3.5/5
+## Top Priority Actions
 
-**Score 3.0-3.4 (low priority):**
-- [ ] RTX Collins Aerospace SWE Intern Remote — Austin TX; Python/Java; 3.2/5
-- [ ] Hootsuite Co-op Internal AI Operations — CAD comp; Anthropic API+Zapier; 3.3/5 (URGENT: interview April 14-24)
-- [ ] Commvault AI & Support Automation Intern — Remote USA; Python+LLM; 3.2/5
-- [ ] Toshiba Global Commerce Agentic SWE Intern — Raleigh NC on-site; LangChain; 3.0/5
+### 🔴 URGENT — Apply Now
+
+| # | Company | Role | Score | Notes |
+|---|---------|------|-------|-------|
+| 292 | Anthropic Fellows | AI Security track | **>=4.0** | **DEADLINE APRIL 26** — apply this week! |
+| 356 | Browser Use (YC W25) | Summer SWE Intern | **4.4/5** | $6K-16K/mo SF; apply before competition fills |
+| 354 | Atlassian | Security Engineer Intern 2026 | **4.2/5** | Seattle; $59-75/hr |
+| 355 | Crustdata | SWE Intern Forward Deployed | **4.1/5** | SF; $4K-8K/mo |
+| 361 | Voleon Group | SWE Intern Summer 2026 | **4.1/5** | $13,333/mo; Berkeley CA; quant ML |
+| 363 | Tenstorrent | Applied AI Workflow Automation Intern | **4.0/5** | Austin TX/remote |
+| 364 | ElevenLabs | FDE Recent Graduate | **4.0/5** | Remote+SF/NYC; new grad |
+| 362 | Cloudflare | Solutions Engineer Intern | **4.0/5** | Austin TX; verify graduation timeline first |
+
+### 🟡 Pipeline Pending (score 3.5–3.9)
+
+- IBM Back End Developer Intern ($75-139K/yr; Austin/Dallas TX)
+- Zscaler SWE Intern ($45-65/hr; San Jose; cybersecurity)
+- Lenovo AI Application Development Intern (LangChain/LangGraph; Morrisville NC)
+- Notion SWE Intern (SF; React)
+- Delinea SWE Intern (AI identity security; ~3.6)
+- Farsight AI SWE Intern (agentic AI fintech; ~3.6)
+- Databricks Software Engineer New Grad 2026 (~3.8; verify active)
+
+---
 
 ## Recommended Next Actions
 
-1. **URGENT:** Hootsuite interview window is April 14-24 — evaluate if you want to pursue (3.3/5, Canada-based co-op, Anthropic API)
-2. **High priority:** Run `/career-ops pipeline` to evaluate Zscaler (3.7/5, $45-65/hr, cybersecurity) and Amazon Robotics (3.8/5, $105-160K, Austin option)
-3. **Coverage is exhausted:** History now at 1,974 entries — 68 scans completed, all major platforms and companies covered for Summer 2026
-4. **Focus shifts to applications:** Pipeline has 10 pending items (scores 3.0-3.8); recommend evaluating top items and making apply decisions
-5. **Next scan:** Check back in 1-2 weeks for late-season postings — some companies do post in May for remaining slots
-
-## Coverage Completeness Assessment (Summer 2026)
-
-| Category | Coverage | Notes |
-|----------|----------|-------|
-| Big Tech (FAANG+) | ✅ Exhaustive | All in history or confirmed closed |
-| AI Labs (OpenAI, Anthropic, Cohere, Mistral) | ✅ Complete | In pipeline or history |
-| AI Startups (YC + Ashby/Greenhouse indexed) | ✅ Complete | All major ones covered |
-| Security Companies | ✅ Complete | Most have no intern program |
-| HFT/Quant Trading | ✅ Complete | Citadel/Two Sigma closed; Optiver/Jane Street in pipeline |
-| Texas/Local | ✅ Complete | Tenstorrent (Austin) in pipeline; AT&T/USAA closed |
-| Consulting (tech focus) | ✅ Complete | Most deadlines passed; Booz Allen/GDIT in history |
-| Defense/Gov | ✅ Complete | Clearance required for most |
-| Social/Consumer | ✅ Complete | Most closed or no intern |
-| Fintech | ✅ Complete | JPM/GS/CapOne/Stripe/Brex/Ramp all covered |
+1. **URGENT:** Apply to Anthropic Fellows Program (AI Security) before April 26
+2. Apply to Browser Use, Atlassian, Crustdata, Voleon — all scored 4.0+
+3. Run `/career-ops pipeline` to process 3.5-3.9 tier listings
+4. Monitor for Fall 2026 co-op postings beginning in May
