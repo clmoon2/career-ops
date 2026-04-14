@@ -1884,3 +1884,18 @@ https://job-boards.greenhouse.io/worldquant/jobs/4574082006	2026-04-14	scan-v62-
 https://jobs.ashbyhq.com/notion/f7399542-9122-481a-bf64-43bf8093748b	2026-04-14	scan-v62-ashby	Software Engineer, Fullstack, Early Career — requires 1-3 yrs FTE exp	Notion	skipped_title
 https://jobs.ashbyhq.com/notion/add58865-8b9f-4cf7-9720-2908ba5f4d80	2026-04-14	scan-v62-ashby	Software Engineer, Infrastructure, Early Career — requires 1-3 yrs FTE exp	Notion	skipped_title
 https://jobs.ashbyhq.com/notion/c7b208a6-d848-4e71-8e2f-33b3e44939dd	2026-04-14	scan-v62-ashby	Software Engineer, AI Agentic Search, Early Career — requires 2-5 yrs exp	Notion	skipped_title
+https://job-boards.greenhouse.io/arizeai	2026-04-14	scan-v63-greenhouse	(no intern roles — 32 FTE-only positions)	Arize AI	skipped_no_intern
+https://boards-api.greenhouse.io/v1/boards/temporal/jobs	2026-04-14	scan-v63-greenhouse	(no jobs listed — 0 positions)	Temporal	skipped_no_intern
+https://job-boards.greenhouse.io/runpod	2026-04-14	scan-v63-greenhouse	(no intern roles — all FTE positions)	RunPod	skipped_no_intern
+https://job-boards.greenhouse.io/purestorage/jobs/7582750	2026-04-14	scan-v63-greenhouse	SW Engineer - Summer 2026 Internship — Prague Czech Republic; non-US location	Pure Storage	skipped_location
+https://job-boards.greenhouse.io/cloudflare/jobs/7738938	2026-04-14	scan-v63-greenhouse	Solutions Engineer Intern (Summer 2026) — Lisbon Portugal; requires Portugal work authorization	Cloudflare	skipped_location
+https://job-boards.greenhouse.io/chainguard/jobs/4417184006	2026-04-14	scan-v63-greenhouse	Software Engineer Intern (Packaging) — listing returned 404; closed	Chainguard	skipped_closed
+https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Consulting-LLP-Government-Public-Services-Summer-Scholar-Tech-Packages/312563	2026-04-14	scan-v63-websearch	Deloitte Consulting GPS Summer Scholar - Tech Packages — Arlington VA; $38/hr; 2.5/5 — enterprise package impl (SAP/Oracle), not Carlos's stack; 50% travel requirement	Deloitte	skipped_score
+https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers	2026-04-14	scan-v63-websearch	(all CrowdStrike intern roles already in history from prior scans)	CrowdStrike	skipped_dup
+https://jobs.paloaltonetworks.com/en/category/internships-jobs	2026-04-14	scan-v63-websearch	(all Palo Alto Networks intern roles already in history)	Palo Alto Networks	skipped_dup
+https://www.sentinelone.com/careers/	2026-04-14	scan-v63-websearch	(no new US intern roles beyond history)	SentinelOne	skipped_dup
+https://job-boards.greenhouse.io/databricks	2026-04-14	scan-v63-websearch	(Databricks SWE intern 2026 already in history)	Databricks	skipped_dup
+https://job-boards.greenhouse.io/mdbgeneralreferrals	2026-04-14	scan-v63-websearch	(MongoDB AMER intern in history; Dublin/Research interns — EU locations)	MongoDB	skipped_dup
+https://viamrobotics.com/careers	2026-04-14	scan-v63-greenhouse	(no active intern listings — all senior/staff FTE roles)	Viam	skipped_no_intern
+https://cadence.wd1.myworkdayjobs.com/en-US/University_Talent	2026-04-14	scan-v63-websearch	(Cadence EDA/chip design intern — outside Carlos's stack; FPGA/ASIC/EDA domain)	Cadence	skipped_title
+https://simplify.jobs/l/Top-Summer-Internships-2026	2026-04-14	scan-v63-simplify	(SimplifyJobs + speedyapply GitHub curated lists — all found listings confirmed already in history or non-US/closed)	SimplifyJobs	skipped_dup

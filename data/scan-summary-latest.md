@@ -1,76 +1,89 @@
-# Portal Scan — 2026-04-14 (scan-v62)
+# Portal Scan — 2026-04-14 (scan-v63)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Run:** scan-v62 (autonomous agent)
+**Run:** scan-v63 (autonomous agent)
 **Date:** 2026-04-14
-**Previous scan:** scan-v61 (2026-04-14, same day)
 
 ---
 
-## Results at a Glance
+## Results
 
-| Metric | Count |
-|--------|-------|
-| Portals / companies checked | 20+ |
-| Greenhouse APIs hit | 3 (Bandwidth, PMG, WorldQuant) |
-| Ashby portals checked | 1 (Notion — 3 early-career roles) |
-| WebSearch queries executed | 20+ |
-| Total candidates found | 6 |
-| Filtered (ineligible — past deadline) | 1 |
-| Filtered (ineligible — requires FTE exp) | 3 |
-| Filtered (score below threshold) | 2 |
-| **New listings added to pipeline** | **0** |
-| Listings skipped (score <3.0) | 2 |
-| Reports generated (score ≥ 4.0) | 0 |
-
-**Scan history entries added:** 6
-**Total history entries:** 1,882+
-
----
-
-## New Listings Found
-
-None. All candidates this scan were below the pipeline threshold or ineligible.
+```
+Portals / companies scanned:   42
+Search queries executed:        25+
+Total new URLs encountered:      8 (not previously in history)
+Passed title filter (US-based):  1
+Passed score threshold (≥3.0):   0
+Added to pipeline.md:            0
+Full reports written (≥4.0):     0
+New history entries added:      15
+History total:                1,901 entries
+```
 
 ---
 
 ## Companies Scanned
 
-| Company | Role | Score | Disposition |
-|---------|------|-------|-------------|
-| Bandwidth | Network Development Engineering Intern - Summer 2026 | 2.8/5 | Below threshold — Raleigh NC; Python/Go/Linux/networking/VoIP stack; niche telecom domain |
-| PMG | AI & Software Engineering Summer Intern | 2.7/5 | Below threshold — Dallas TX 5d/wk in-office; digital marketing tech; limited AI depth |
-| WorldQuant | Software Engineer Intern, AI/LLM Initiative | N/A | Past deadline — started January 2026 |
-| Notion | Software Engineer, Fullstack, Early Career | N/A | Ineligible — requires 1-3 years FTE professional experience |
-| Notion | Software Engineer, Infrastructure, Early Career | N/A | Ineligible — requires 1-3 years FTE professional experience |
-| Notion | Software Engineer, AI Agentic Search, Early Career | N/A | Ineligible — requires 2-5 years professional experience |
+### Greenhouse API direct checks
+| Company | Result |
+|---------|--------|
+| Arize AI | No intern roles (32 FTE-only positions) |
+| Temporal | No jobs listed (0 positions) |
+| RunPod | No intern roles (all FTE) |
 
-All other portals.yml companies: no new intern listings since scan-v61 this morning.
+### New findings (not in history)
+| Company | Title | Score | Disposition |
+|---------|-------|-------|-------------|
+| Deloitte | GPS Summer Scholar – Tech Packages | 2.5/5 | `skipped_score` — enterprise SAP/Oracle impl, 50% travel, not Carlos's stack |
+| Pure Storage | SW Engineer – Summer 2026 Internship | — | `skipped_location` — Prague, Czech Republic |
+| Cloudflare | Solutions Engineer Intern (Summer 2026) | — | `skipped_location` — Lisbon, Portugal (requires PT work auth) |
+| Chainguard | Software Engineer Intern (Packaging) | — | `skipped_closed` — 404, listing removed |
+
+### Companies confirmed no new roles (all in history)
+CrowdStrike · Palo Alto Networks · SentinelOne · Datadog · Okta · Confluent · Databricks · MongoDB · Viam · Stripe · Palantir (all roles) · Schonfeld · MEMX · Together AI · Verisign · Dark Wolf Solutions · Gemini · Semgrep · Salesforce · Anduril · NVIDIA · Roblox · Zendesk · Axon (US) · Zscaler (all roles) · Brain Co · HPIQ · CLEAR · Handshake · WeRide · Accenture · Notion · Cohere · Giga · Ramp · Farsight · Sigma Computing · Cloudflare (SWE Austin) · SpaceX
 
 ---
 
-## Key Context for Next Session
+## Score Rationale — Deloitte GPS Summer Scholar (2.5/5)
 
-The scan history is now at **1,882+ entries** across **62 scans**. The Summer 2026 internship market is well-saturated in the discovery pipeline. Focus should be firmly on **evaluation + application** of the 40+ pending items already in pipeline.md.
+**Role:** Deloitte Consulting LLP — Government & Public Services — Summer Scholar — Tech Packages
+**Location:** Arlington/Rosslyn, VA | **Comp:** $38/hr | **Target grad:** Spring/Summer 2027
 
-**Active opportunities requiring immediate action:**
-- **[scan-v61] ElevenLabs FDE Recent Graduate** (#364, 4.0/5) — NEW GRAD FTE, Remote+SF/NYC, $3.3B voice AI leader. Apply this week.
-- **[scan-v60] Hootsuite Internal AI Operations** — interview window **April 14–24**: https://job-boards.greenhouse.io/hootsuite/jobs/7808288
-- **[scan-v60] Lenovo AI Application Development** — posted April 6, actively hiring: https://jobs.lenovo.com/en_US/careers/JobDetail/AI-Application-Development-Intern-Summer-2026/76249
-- **Anthropic Fellows Program** — deadline **April 26, 2026** (12 days away)
+Why low score:
+- "Tech Packages" = enterprise software implementation (SAP, Oracle, Workday, ServiceNow). Carlos's stack is Python/React/AWS/LangChain — no enterprise package experience.
+- 50% travel requirement unusual for an intern.
+- Government consulting trajectory diverges from Carlos's AI/SWE/security target path.
+- Security clearance requirement adds process burden.
+
+**Recommendation:** Do not apply. Score 2.5/5 is well below the 4.0 threshold.
+
+---
+
+## Context — Late-Cycle Market
+
+This is scan v63, the fourth scan run on 2026-04-14. Scans v60–v62 (earlier today) already swept:
+- All portals.yml companies (Greenhouse APIs + Ashby direct + Lever direct)
+- 60+ WebSearch queries across Greenhouse/Ashby/Lever/YC/SimplifyJobs
+- Curated lists (SimplifyJobs, speedyapply GitHub)
+
+The summer 2026 intern market is at **late-cycle**: most top-tier companies have filled their summer cohorts. Remaining openings are niche, location-constrained, or lower-fit.
+
+---
+
+## Active Pipeline (from prior scans — still open)
+
+| Score | Company | Role | Priority |
+|-------|---------|------|----------|
+| ~3.7/5 | Zscaler | Software Engineer Intern, Software Development (Summer 2026) | Pending review |
+| ~3.7/5 | Lenovo | AI Application Development Intern (Summer 2026) | Pending review |
+| ~3.3/5 | Hootsuite | Co-op/Intern, Internal AI Operations (Summer 2026) | ⚠️ URGENT — interview window April 14–24 |
 
 ---
 
 ## Recommended Next Actions
 
-1. **[URGENT TODAY] Apply to Hootsuite Internal AI Operations** — interview window April 14–24: https://job-boards.greenhouse.io/hootsuite/jobs/7808288
-2. **[HIGH PRIORITY] Apply to Lenovo AI App Dev Intern** — posted April 6, actively hiring: https://jobs.lenovo.com/en_US/careers/JobDetail/AI-Application-Development-Intern-Summer-2026/76249
-3. **Apply to ElevenLabs FDE Recent Graduate** — report #364; check graduation date, apply this week
-4. **[DEADLINE April 26] Anthropic Fellows** — already in pipeline since scan-v7; act if not yet applied
-5. **Process existing pipeline** — run `/career-ops pipeline` to evaluate remaining pending items: Zscaler SWE Intern (~3.7), Cua Research Intern (~3.8), Vercel Engineering Intern (~3.8), Cloudflare Solutions Engineer (#362), Rippling Full Stack ($75/hr, #358)
-
----
-
-## Scanner Notes
-
-This v62 scan confirms that discovery yield is now minimal. All major portals are covered. Recommend **pausing scans** and shifting focus to evaluating and applying to the existing pipeline.
+1. **Hootsuite is URGENT** — interview window closes April 24. Review the pipeline entry and decide now.
+2. **Evaluate Zscaler** — strong cybersecurity brand, Python/AWS/Docker/React match, San Jose hybrid, $45–65/hr. Run `/career-ops` on that URL.
+3. **Evaluate Lenovo** — LangChain/RAG/Python match, posted April 6 (fresh). Run `/career-ops` on that URL.
+4. Consider scanning for **fall 2026 co-ops** and **2027 summer early applications** (open Oct–Nov 2026).
+5. Run `/career-ops scan` again in 3–5 days to catch late-posted roles.

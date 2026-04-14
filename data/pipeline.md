@@ -2,6 +2,12 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-14 SCAN v63 (Autonomous Agent — deep sweep: Greenhouse APIs (Arize AI, Temporal, RunPod — all no intern roles); WebSearch across 42+ companies: cybersecurity (CrowdStrike, PAN, SentinelOne, Okta, Semgrep, Chainguard, Together AI, Verisign, Dark Wolf, Gemini, MEMX, Schonfeld), cloud/infra (Datadog, Confluent, Databricks, MongoDB, HashiCorp, Grafana), consulting (Deloitte, Accenture, EY), AI/ML (Viam, Brain Co, Zello, Fortinet, Cadence, Roblox, NVIDIA, Anduril), fintech (Stripe, Salesforce), Palantir all roles; SimplifyJobs and speedyapply GitHub lists; 0 new listings added to pipeline; 15 new history entries; history now 1901 entries) === -->
+<!-- No listings scored ≥4.0. 0 new listings added to pipeline. -->
+<!-- New findings this scan: Deloitte GPS Summer Scholar Tech Packages (2.5/5 — enterprise SAP/Oracle package impl, not Carlos's stack, 50% travel, Arlington VA — skipped_score); Pure Storage SW Eng Intern Prague (non-US — skipped_location); Cloudflare Solutions Eng Intern Lisbon (non-US, Portugal work auth required — skipped_location); Chainguard Packaging Intern (404 closed — skipped_closed). All other 38+ companies confirmed: no new intern roles or all roles already in history. -->
+
+<!-- === END 2026-04-14 SCAN v63 === -->
+
 <!-- === NEW 2026-04-14 SCAN v62 (Autonomous Agent — freshness sweep: Greenhouse APIs (Bandwidth, PMG, WorldQuant), Ashby (Notion early-career roles), 20+ WebSearch queries across Greenhouse/Ashby/Lever/YC/SimplifyJobs for new Summer 2026 intern postings; 0 new listings added to pipeline; 6 new history entries; history now 1868 entries) === -->
 <!-- No listings scored ≥4.0. 0 new listings added to pipeline. -->
 <!-- New findings this scan (all below threshold or ineligible): Bandwidth Network Dev Eng Intern (2.8/5 — below threshold); PMG AI & SWE Intern (2.7/5, Dallas TX 5d/wk in-office — below threshold); WorldQuant AI/LLM Intern (past deadline — started Jan 2026); Notion Fullstack/Infrastructure/AI-Agentic-Search "Early Career" (all require 1-5 yrs FTE experience — ineligible for current students) -->
