@@ -2,6 +2,12 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-14 SCAN v63b (Autonomous Agent supplemental — Greenhouse (Commvault re-check: Sales Eng Intern 1.5/5 skipped, Product Strategy/Payroll interns filtered; Parloa no intern roles), Ashby (Codeium no 2026 intern), SimplifyJobs (GoLinks dup, Flagship Pioneering 2.5/5); 0 new pipeline additions; 7 new history entries; history now 1920 entries) === -->
+<!-- No listings scored ≥4.0. 0 new listings added to pipeline. -->
+<!-- New findings (all below threshold): Flagship Pioneering Digital Tools & AI Builder Co-Op (2.5/5 — Cambridge MA on-site; biotech domain; $25-35/hr; React+Python); Commvault Sales Eng Intern (1.5/5 — pre-sales demos, non-technical); Parloa confirmed no intern program; Codeium no Summer 2026 interns. -->
+
+<!-- === END 2026-04-14 SCAN v63b === -->
+
 <!-- === NEW 2026-04-14 SCAN v64 (Autonomous Agent — freshness sweep: SimplifyJobs April 14 new additions, Greenhouse/Ashby/Lever/YC 25+ WebSearch queries, portals.yml company confirmations (Ada/ElevenLabs/Attio/Tinybird/TravelPerk/Langfuse/Factorial/Make.com confirmed no new intern roles); 2 new listings found (NYT Full-stack 3.5/5, Toshiba Agentic 3.0/5); history now 1,913 entries) === -->
 <!-- No listings scored ≥4.0. 2 new listings added to pipeline. -->
 <!-- Companies confirmed no new intern roles this scan: Ada (API shows 0 intern roles), ElevenLabs (only Marketing+Impact India interns — no SWE interns), Attio (senior EU-based FTE only), TravelPerk (no intern roles), Tinybird (JS-only page — no intern listing), Langfuse (no intern program), Make.com (no US interns), Factorial (Barcelona HQ — no US roles), Clarity AI (no matching roles), OTG Management (airport hospitality — skipped_title) -->
