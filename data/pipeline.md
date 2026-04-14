@@ -2,6 +2,13 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-14 SCAN v63 (Autonomous Agent — broad sweep: Greenhouse APIs (Stripe, Brex, West Monroe board, Cloudflare refresh), Lever (Palantir full board re-scan), Ashby/Greenhouse/Lever/YC/SimplifyJobs WebSearch (15+ queries); 3 new Palantir DS Intern roles found; 0 new pipeline additions; history now 1893 entries) === -->
+<!-- No listings scored ≥4.0. 0 new listings added to pipeline. -->
+<!-- New findings this scan (all below pipeline threshold): Palantir Deployment Strategist Intern - US Government (2.0/5 — active clearance eligibility + DC/Honolulu HI location + 2026-graduation-as-final-internship requirement); Palantir Deployment Strategist Intern commercial (2.5/5 — same 2026-graduation constraint adds eligibility risk); Palantir DS Build to Apply US Gov (2.0/5 — build-to-apply clearance variant); Efficient Computer Compiler Intern (2.5/5 — hardware/LLVM specialization, domain gap vs. Carlos's SWE/AI/security targets) -->
+<!-- Companies confirmed no new roles this scan: Stripe (no SWE interns — only Data Analyst Intern Masters-level), Brex (no interns — all mid-senior FTE), West Monroe (Greenhouse board empty; Aug 2025 LinkedIn posts likely closed by April 2026), Cloudflare (only Fall 2026 BA Marketing Intern — non-SWE), all other Lever/Ashby/Greenhouse/YC re-checks returned duplicates only -->
+
+<!-- === END 2026-04-14 SCAN v63 === -->
+
 <!-- === NEW 2026-04-14 SCAN v62 (Autonomous Agent — freshness sweep: Greenhouse APIs (Bandwidth, PMG, WorldQuant), Ashby (Notion early-career roles), 20+ WebSearch queries across Greenhouse/Ashby/Lever/YC/SimplifyJobs for new Summer 2026 intern postings; 0 new listings added to pipeline; 6 new history entries; history now 1868 entries) === -->
 <!-- No listings scored ≥4.0. 0 new listings added to pipeline. -->
 <!-- New findings this scan (all below threshold or ineligible): Bandwidth Network Dev Eng Intern (2.8/5 — below threshold); PMG AI & SWE Intern (2.7/5, Dallas TX 5d/wk in-office — below threshold); WorldQuant AI/LLM Intern (past deadline — started Jan 2026); Notion Fullstack/Infrastructure/AI-Agentic-Search "Early Career" (all require 1-5 yrs FTE experience — ineligible for current students) -->
