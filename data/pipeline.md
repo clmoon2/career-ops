@@ -2,6 +2,15 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-14 SCAN v61 (Autonomous Agent — targeted freshness sweep: Greenhouse APIs (Anthropic/Airtable/Vercel/Glean), Cloudflare board, Zscaler new listing, 25+ WebSearch queries across Ashby/Greenhouse/Lever/YC/SimplifyJobs for new Summer 2026 intern postings; 1 new listing found (Zscaler SWE Intern $45-65/hr); history now 1862 entries) === -->
+<!-- No listings scored ≥4.0. 1 new listing added to pipeline. -->
+<!-- Companies confirmed no new roles this scan: Anthropic (no new intern — all Fellows in history), Airtable (no intern roles), Vercel (no intern roles), Glean (SWE Intern closed, Univ Grad in history), Cloudflare (only new role = Business Systems Analyst — non-SWE/business ops, skip), DV Trading/Bandwidth/Dev Technology/Datacor/Actian/Zoox/Match Group/Best Egg/Spaulding Ridge (all in history), Notion/Cohere/Replit/Whatnot/Ramp/Farsight/Sigma Computing (all in history), all portals.yml companies confirmed no new intern listings since 4/14 morning scan-v60 -->
+
+### 🔸 Pipeline Pending (score est. ~3.7) — scan-v61
+- [ ] https://job-boards.greenhouse.io/zscaler/jobs/5103680007 | Zscaler | Software Engineer Intern, Software Development (Summer 2026) | 3.7/5 | San Jose CA hybrid; $45-65/hr; Python/Rust/Java + AWS/Docker/K8s/React; design+build+ship production features at a $17B cloud security company; Carlos has all core stack (Python ✓, Rust ✓, AWS ✓, Docker ✓, React ✓); cybersecurity minor aligns with Zscaler domain; AI-native workflow tools (Claude Code + GitHub Copilot) explicitly mentioned; strong brand for security career; apply if security-focused SWE role is of interest and pipeline allows
+
+<!-- === END 2026-04-14 SCAN v61 === -->
+
 <!-- === NEW 2026-04-14 SCAN v60 (Autonomous Agent — targeted freshness sweep: Greenhouse APIs (Anthropic/Hume/Intercom/PolyAI/Hootsuite), WebSearch across Ashby/Greenhouse/Lever/YC for new Summer 2026 intern postings; Lenovo careers page sweep (new AI roles posted April 6); speedyapply AI repo check; 3 new listings found; history now 1815 entries) === -->
 <!-- No listings scored ≥4.0. 2 new listings added to pipeline. 1 skipped (score <3.0). -->
 <!-- Companies confirmed no new roles this scan (already in history): Anthropic (no new intern), Hume AI (no intern roles), Intercom (no intern roles), PolyAI (no intern roles), Vapi (no roles visible), n8n/Zapier (no roles visible), Notion/Replit/Cohere/Giga/Farsight/Whatnot/Zip/Superhuman/Delinea/Zettabyte/Air Space Intelligence/Sentry (all in history), Crusoe Product Security (closed), Ramp (in history), GoLinks/Medra/Handshake/Worldly/Reframe (in history), Sigma Computing/DV Trading/Okta/Bandwidth/LaunchDarkly/Loop/Robinhood Agentic/Baringa (in history), Together AI/Obsidian Security/Glean/Astranis/C3 AI/Scale AI/GlossGenius/Zinnia/Mercury (in history), Tevora/Schonfeld/MEMX/EarnIn/Impiricus/Booz Allen Lexington/GDIT/GR0 (in history), Rockstar Games/Roadie/Censys/Atlassian ML/Datadog (in history), Shield AI/Artera/FieldAI (in history), Lenovo AI Security 75243 (in history), Lenovo Software Eng AI Experiences 75222 (Java/Kotlin — skip) -->

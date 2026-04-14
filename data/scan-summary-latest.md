@@ -1,9 +1,9 @@
-# Portal Scan — 2026-04-14 (scan-v60)
+# Portal Scan — 2026-04-14 (scan-v61)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Run:** scan-v60 (autonomous agent)
+**Run:** scan-v61 (autonomous agent)
 **Date:** 2026-04-14
-**Previous scan:** scan-v59 (2026-04-14, same day)
+**Previous scan:** scan-v60 (2026-04-14, same day)
 
 ---
 
@@ -11,39 +11,30 @@
 
 | Metric | Count |
 |--------|-------|
-| Portals / companies checked | 35+ |
-| Greenhouse APIs hit | 5 (Anthropic, Hume AI, Intercom, PolyAI, Hootsuite) |
-| WebSearch queries executed | 15+ |
-| Total candidates found | 40+ |
-| Filtered (negative title/seniority) | 8 |
-| Deduplicated (already in history) | 30 |
-| **New listings added to pipeline** | **2** |
-| Listings skipped (score <3.0) | 1 |
+| Portals / companies checked | 30+ |
+| Greenhouse APIs hit | 4 (Anthropic, Airtable, Vercel, Glean) |
+| WebSearch queries executed | 25+ |
+| Total candidates found | 50+ |
+| Filtered (negative title/seniority) | 5 |
+| Deduplicated (already in history) | 44 |
+| **New listings added to pipeline** | **1** |
+| Listings skipped (score <3.0) | 0 |
 | Reports generated (score ≥ 4.0) | 0 |
 
-**Scan history entries added:** 22
-**Total history entries (estimated):** ~1,833
+**Scan history entries added:** 25
+**Total history entries:** 1,862
 
 ---
 
 ## New Listings Added to Pipeline
 
-### Lenovo — AI Application Development Intern (Summer 2026) | est. 3.7/5
-**URL:** https://jobs.lenovo.com/en_US/careers/JobDetail/AI-Application-Development-Intern-Summer-2026/76249
-**Location:** Morrisville, NC (Lenovo US HQ)
-**Comp:** Not disclosed (~$25-35/hr est. for Lenovo NC internships)
-**Stack:** LangChain, LangGraph, LLM concepts, embeddings, vector search, Python; Azure/OpenAI preferred
-**Why relevant:** Carlos has every required tech — LangChain (Finch platform), multi-model LLM pipelines, RAG architecture. Established company with $60B revenue. Posted April 6, 2026, actively hiring.
-**Concerns:** Morrisville NC is not a major tech hub; compensation likely below Bay Area market; large corp culture vs startup environment
-
-### Hootsuite — Co-op/Intern, Internal AI Operations (Summer 2026) | est. 3.3/5
-**URL:** https://job-boards.greenhouse.io/hootsuite/jobs/7808288
-**Location:** Likely Vancouver, Canada (CAD compensation; Hootsuite is HQ'd in Vancouver)
-**Comp:** ~$46,100–55,400 CAD annualized pro-rated (~$23K–28K USD for 4-month term)
-**Role:** AI workflow automation and change management across the organization; partners with AI Champions using Anthropic API, Zapier, Gemini. Reports to CEO Chief of Staff.
-**Why relevant:** Explicitly mentions Anthropic API — Carlos built Finch on Claude Sonnet 4.6. AI transformation archetype fit. High visibility role.
-**URGENT:** Interview window is April 14–24 (starts today). Apply immediately if interested.
-**CAUTION:** CAD compensation strongly suggests Canada co-op. Verify US work eligibility before applying.
+### Zscaler — Software Engineer Intern, Software Development (Summer 2026) | est. 3.7/5
+**URL:** https://job-boards.greenhouse.io/zscaler/jobs/5103680007
+**Location:** San Jose, CA (hybrid)
+**Comp:** $45–65/hr
+**Stack:** Python, Rust, Java, AWS/Azure/GCP, Docker, Kubernetes, React/Vue, Node.js
+**Why relevant:** Complete tech stack match (Python ✓, Rust ✓, AWS ✓, Docker ✓, React ✓). Zscaler is a major cloud security company ($17B market cap) — highly relevant to Carlos's cybersecurity minor. Role explicitly uses Claude Code and GitHub Copilot. Design/build/ship production software features in 12 weeks.
+**Concerns:** Not specifically AI-focused (general SWE at a security company). San Jose CA hybrid (relocation needed). Comp is decent but not top-quartile for Bay Area.
 
 ---
 
@@ -53,38 +44,32 @@ None reached the 4.0/5 threshold. No new reports generated.
 
 ---
 
-## Listings Skipped (Below Threshold)
-
-| Company | Role | Score | Reason |
-|---------|------|-------|--------|
-| Lenovo | Commercial AI & Automation Intern | 2.8/5 | Business ops / no-code tools focus; not engineering-depth role |
-
----
-
 ## Companies Confirmed Clear (No New Roles)
 
-**Greenhouse APIs — no intern roles:** Anthropic (all Fellows in history), Hume AI (senior FTE only), Intercom (senior FTE only), PolyAI (senior FTE only)
+**Greenhouse APIs — no intern/new-grad roles:** Anthropic (all Fellows in history since 4/7), Airtable (no interns), Vercel (no interns), Glean (SWE Intern closed, Univ Grad already in history)
 
-**Ashby — no visible roles:** Vapi, n8n, Zapier
+**Cloudflare board sweep:** Only new role = Business Systems Analyst Intern (non-SWE/business ops) — skipped
 
-**Previously-tracked (all confirmed dups in history):** Shield AI, Artera, Decagon, Together AI, Obsidian Security, Notion, Cohere, Crusoe (closed), Ramp, Handshake, Roadie, Censys, Atlassian ML, Robinhood Agentic ML, Tevora, Schonfeld, MEMX, EarnIn, GDIT, GR0, and 10+ more
-
----
-
-## Recommended Next Actions
-
-1. **[URGENT - TODAY] Hootsuite Internal AI Operations**: Interview window opens April 14. Verify US work eligibility. If eligible, apply at https://job-boards.greenhouse.io/hootsuite/jobs/7808288
-
-2. **[HIGH PRIORITY] Lenovo AI Application Development**: Strong stack match (LangChain/LangGraph/Python/LLM). Apply at https://jobs.lenovo.com/en_US/careers/JobDetail/AI-Application-Development-Intern-Summer-2026/76249
-
-3. **[DEADLINE APRIL 26] Anthropic Fellows Program**: All 5 tracks still open. Highest-priority pending item in the pipeline.
-   - AI Security: https://job-boards.greenhouse.io/anthropic/jobs/5030244008
-   - ML Systems: https://job-boards.greenhouse.io/anthropic/jobs/5183051008
-
-4. **Run `/career-ops pipeline`** to evaluate the 40+ pending items already in pipeline.md (Databricks ~3.8, Cua ~3.8, Aledade ~3.5, Speak ~3.7, etc.).
+**All portals.yml companies confirmed no new listings since morning scan-v60:** PolyAI, Hume AI, Intercom, Vapi, n8n, Zapier, Notion, Replit, Cohere, Farsight AI, Sigma Computing (all URLs), DV Trading, Bandwidth, Dev Technology, Datacor, Actian (all URLs), Zoox, Match Group, Best Egg, Spaulding Ridge, Qvest US, and 10+ others
 
 ---
 
 ## Pipeline Health Note
 
-The scan history is extremely comprehensive (1,800+ entries across 60 scans). Most high-quality Summer 2026 intern postings have now been discovered. Focus is shifting from discovery to evaluation + application.
+The scan history is now at **1,862 entries** across **61 scans**. The Summer 2026 internship market is well-covered. Discovery yield is diminishing — focus is firmly on **evaluation + application** of the 40+ pending items already in pipeline.md.
+
+---
+
+## Recommended Next Actions
+
+1. **[URGENT TODAY] Hootsuite Internal AI Operations** (interview window April 14–24): Verify US work eligibility, then apply at https://job-boards.greenhouse.io/hootsuite/jobs/7808288
+
+2. **[HIGH PRIORITY] Lenovo AI Application Development** (posted April 6, actively hiring): https://jobs.lenovo.com/en_US/careers/JobDetail/AI-Application-Development-Intern-Summer-2026/76249
+
+3. **[DEADLINE APPROACHING] Anthropic Fellows Program** — AI Security and ML Systems tracks especially relevant:
+   - AI Security: https://job-boards.greenhouse.io/anthropic/jobs/5030244008
+   - ML Systems & Performance: https://job-boards.greenhouse.io/anthropic/jobs/5183051008
+
+4. **[NEW — scan-v61] Zscaler SWE Intern** ($45-65/hr, San Jose, 3.7/5): https://job-boards.greenhouse.io/zscaler/jobs/5103680007
+
+5. **Run `/career-ops pipeline`** to evaluate high-priority pending items: Cua Research Intern (~3.8), Vercel Engineering Intern (~3.8), Cloudflare Solutions Engineer (#362), Rippling Full Stack ($75/hr, #358), Tenstorrent AI Automation (#363), Cloudglue Full-Stack AI (#357).
