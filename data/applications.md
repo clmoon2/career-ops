@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 363 | 2026-04-14 | Tenstorrent | Applied AI Workflow Automation, Intern | 4.0/5 | Evaluada | ❌ | [363](reports/363-tenstorrent-applied-ai-workflow-automation-intern-2026-04-14.md) | n8n exact match; Python+LLMs+RAG+HITL = full stack alignment; Austin TX (no relocation); $32-79/hr range; flexible term Summer available |
 | 361 | 2026-04-13 | The Voleon Group | Software Engineer Intern (Summer 2026) | 4.1/5 | Evaluada | ❌ | [361](reports/361-voleon-swe-intern-2026-04-13.md) | $13,333/mo ($160K); Berkeley CA; quant trading system (Bloomberg/Alpaca) = rare differentiator; ML-driven trading systems |
 | 359 | 2026-04-13 | Cloudglue | Full-Stack AI Engineer Intern (Summer 2026) | 4.1/5 | Evaluada | ❌ | [359](reports/357-cloudglue-fullstack-ai-intern-2026-04-13.md) | YC W26 video/audio AI APIs; React/TypeScript/Python; ex-Snap/Amazon/CMU founders; DEF CON pub; SF in-person; strong full-stack + multimodal AI match |
 | 357 | 2026-04-12 | Browser Use | Summer SWE Intern (Summer 2026) | 4.4/5 | Evaluada | ❌ | [357](reports/353-browser-use-swe-intern-summer-2026-2026-04-12.md) | YC W25 AI browser agents; $6K-16K/mo SF; App Automation Engine = perfect proof point; apply immediately + contribute to OSS first |

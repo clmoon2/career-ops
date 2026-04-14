@@ -1,94 +1,116 @@
-# Portal Scan Summary — 2026-04-13 (scan-v58)
+# Portal Scan — 2026-04-14
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan ID:** v58
-**Date:** 2026-04-13
-**Agent:** Autonomous scan agent (Claude Sonnet 4.6)
-
----
-
-## Portals Scanned
-
-### WebSearch Queries (25+)
-- Lever: SWE interns Summer 2026, AI/ML interns Summer 2026, DevOps/SRE interns, cybersecurity interns, new grad 2026 AI/SWE, consulting internships
-- Ashby: SWE interns Summer 2026, security interns, DevOps interns, new grad 2026, AI/ML interns
-- Greenhouse: SWE/AI/Security interns Summer 2026, new grad 2026, DevOps/cloud interns
-- YC: Summer 2026 AI/SWE interns, new batch discovery
-- Big 4 consulting: Technology internships Summer 2026
-
-### Greenhouse API Checks
-- Anthropic: No new intern/new grad roles (fellows all in history)
-- Glean: No new intern roles (University Grad in history, no active interns)
-
-### Companies Directly Verified
-25+ companies across Lever, Ashby, Greenhouse, YC: WeRide.ai, Wealthsimple, Aledade, a0.dev, Rigetti, Shield AI, Belvedere Trading, Voleon, PDT Partners, Aquatic Capital, SpaceX, Gemini, Schonfeld, Rockstar Games, MEMX, 1Password, Handshake, UnlikelyAI, GCM Grosvenor, Cloudflare BA, Mechanize, Cohere, Notion, Ramp, Zip, Sigma Computing, Obsidian Security, Tevora, Verkada, Roadie, iCapital, Censys, Anthropic, Glean
+**Scan version:** v59 (Autonomous Agent)
+**Date:** 2026-04-14
+**History size after scan:** 1,815 entries
 
 ---
 
-## Results
+## Stats
 
 | Metric | Count |
 |--------|-------|
-| WebSearch queries run | 25+ |
-| Greenhouse API checks | 2 |
-| Raw listings found | 70+ |
-| Already in scan history (duplicates) | 64+ |
-| Filtered by title (negative/seniority) | 3 |
-| Filtered by score (<3.0) | 3 |
-| **New listings added to pipeline** | **3** |
-| Listings scored ≥ 4.0 | **0** |
-| Full evaluation reports written | **0** |
+| Portals / companies checked | 25+ |
+| Search queries executed | 20+ |
+| Total listings reviewed | ~40 |
+| Filtered (title/seniority/location) | 5 |
+| Duplicates (already in history) | ~33 |
+| New listings added to pipeline | 2 |
+| Evaluated (score ≥ 4.0) | 1 |
 
 ---
 
 ## New Listings Found
 
-### Added to Pipeline
+### ⭐ Evaluated (score ≥ 4.0)
+
+| # | Company | Role | Score | URL |
+|---|---------|------|-------|-----|
+| 363 | Tenstorrent | Applied AI Workflow Automation, Intern | **4.0/5** | [Greenhouse](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5104002007) |
+
+**Why Tenstorrent scored 4.0:** n8n is explicitly named as a preferred tool in the JD — and also explicitly named in Carlos's CV (Finch's n8n automation pipeline). Python + LLMs + RAG + HITL + API integration = all confirmed in CV. Austin TX location = no relocation for TAMU student. Deducted from 4.5 due to internal ops focus (not core product engineering) and wide $32–$79/hr comp uncertainty. Report → `reports/363-tenstorrent-applied-ai-workflow-automation-intern-2026-04-14.md`
+
+### 🔸 Added to Pipeline (score < 4.0)
 
 | Company | Role | Score | Notes |
 |---------|------|-------|-------|
-| Aledade | Summer Internship - AI Researcher | 3.5/5 | Remote; browser-use agents + LangChain + VLMs + HITL; healthcare domain gap |
-| WeRide.ai | New Grads 2026 - General Software Engineer | 3.0/5 | San Jose CA; $120K–165K; AV domain; verify graduation eligibility |
-| a0.dev (YC W25) | Software Engineering Intern (Summer 2026) | 3.0/5 | SF in-person; TypeScript/Next.js/React Native; 3-person startup |
-
-### Skipped
-
-| Company | Role | Reason |
-|---------|------|--------|
-| WeRide.ai | New Grads 2026 - Software Engineer (Computer Vision) | 2.0/5 — no CV/perception background |
-| WeRide.ai | New Grads 2026 - Software Engineer, Algorithm | MS/PhD focus — skipped |
-| Wealthsimple | Intern, Software Development (Summer 2026) | 2.5/5 — Canada-based company |
+| Commvault | AI & Support Automation Intern | 3.2/5 | Remote; May 26–Aug 7; LLM automation match but support/CRM focus, not core SWE |
 
 ---
 
-## Top Matches (Score ≥ 4.0)
+## Portals Scanned
 
-**None this scan.** Scan-v58 is operating in diminishing-returns territory — 58 scans covering 1,801 history entries. Most newly found listings are duplicates or below threshold.
+### Greenhouse API (direct)
+- Anthropic: no new intern/new grad roles (all Fellows in history since 4/7)
+- Airtable: no intern roles (all FTE)
+- Vercel: no intern roles (all FTE)
+- Glean: SWE intern confirmed closed; no new interns
+- Temporal: empty board (0 jobs)
+- Tenstorrent University: **Applied AI Workflow Automation Intern = NEW** ✅
+- Commvault: **AI & Support Automation Intern = NEW** ✅
+- Zscaler: API Platform intern (MS/PhD required — skipped)
+
+### Ashby (WebSearch)
+- Notion, Replit, Giga, Farsight, Fizz, Cohere, Vantage, Whatnot, Delinea: all in history since 4/7
+- Sierra Agent Dev Intern: in history since 4/8
+- Decagon, Worldly: in history since 4/7
+
+### Lever (WebSearch)
+- Shield AI, Nominal, Artera, Veeva, Best Egg, Symmetry, SoloPulse, Voleon: all in history since 4/7
+- Aledade, WeRide, a0.dev: in history since 4/13
+
+### YC Companies (WebSearch + direct)
+- Dex AI/ML Engineer Intern (jgOpS9K): in history since scan-v31
+- Commure+Athelas SWE Intern: in history since 4/8
+- SafetyKit, Swif.ai, SubImage, 14.ai, Circleback, AviaryAI, Ember: all in history
+- Reacher, Cua, Speak, a0.dev: in history since 4/11–13
+
+### Aggregators Checked
+- SimplifyJobs Summer2026-Internships (dev branch): new = Tenstorrent ✅, Commvault ✅; others hardware/embedded/filtered
+- SpeedyApply 2026-AI-College-Jobs: Booz Allen AI Data Analyst in history; GDIT in history; Adobe ML (FAANG grad-level); Planet Labs ML in history
+- Vanshb03 Summer2026-Internships: most recent additions are non-target (hardware, consumer products)
+
+### Portal Coverage Notes
+- Anthropic Fellows (deadline April 26!): all 5 variants in history; still open for application
+- Cloudflare SWE Intern (Austin TX #347, 4.8/5): still top priority — apply if not already done
+- Together AI Security Intern (#334, 4.5/5): still open; May 18–Aug 7 deadline approaching
+- Atlassian Security Intern (#355, 4.5/5): Seattle; still open
 
 ---
 
-## Best New Find: Aledade AI Researcher (3.5/5)
+## Top Recommendations
 
-**URL:** https://jobs.lever.co/aledade/78c0450d-60f4-4260-b60d-3ea4120377eb
+### Already in Pipeline — Apply These Now
+These high-scoring roles from previous scans are still open and should be prioritized:
 
-- **What:** 10-week summer internship (June 1–Aug 7 2026) building a Universal EHR Context Protocol using browser-use agents, VLMs, LangChain, and HITL approval pipelines
-- **Why it's interesting:** The JD explicitly mentions Claude Code and Cursor. Carlos's Finch browser automation (Playwright + LangChain + multi-model pipelines + HITL) maps directly.
-- **Domain gap:** Healthcare/EHR/FHIR knowledge required — not in Carlos's CV. Would need to learn quickly.
-- **Verdict:** Apply if healthcare AI is interesting. Strong tech-match; teachable domain.
+| Score | Company | Role | Report |
+|-------|---------|------|--------|
+| 4.8/5 | Cloudflare | Software Engineer Intern (Austin TX) | #347 |
+| 4.5/5 | Atlassian | Security Engineer Intern (Summer 2026) | #355 |
+| 4.5/5 | Together AI | Security Engineer Intern (Summer 2026) | #334 |
+| 4.5/5 | OpenAI | Software Engineer Internship (Summer 2026) | #353 |
+| 4.4/5 | Browser Use | Summer SWE Intern | #357 |
+| 4.3/5 | Dex (Joindex) | AI/ML Engineer Intern | #344 |
+| 4.2/5 | SafetyKit | Full Stack Engineer Intern | #345 |
+| 4.2/5 | Rippling | Full Stack SWE Intern | #358 |
+
+### New This Scan
+| Score | Company | Role | Action |
+|-------|---------|------|--------|
+| 4.0/5 | Tenstorrent | Applied AI Workflow Automation, Intern | Apply — n8n match + Austin TX |
+| 3.2/5 | Commvault | AI & Support Automation Intern | Apply only if pipeline is light |
 
 ---
 
-## Context
+## Next Actions
 
-- **Scan saturation signal:** After 58 scans, the pipeline is comprehensive. A scan returning 3 new listings (vs 20+ in early scans) is a healthy signal.
-- **Summer 2026 window:** April 13 is late in the Summer 2026 intern hiring season. Most major programs (Goldman, Snap, Two Sigma) closed Jan–Mar 2026. Remaining programs are at smaller companies with rolling deadlines.
-- **Best recent evaluated role still open:** Cloudflare Solutions Intern (#362, 4.0/5) — July–Dec 2026 timeline, Austin TX.
+1. **Apply to Tenstorrent** (#363) — Austin TX no relocation; use n8n + Finch pipeline angle
+2. **Anthropic Fellows deadline April 26** — Security Fellow + AI Safety Fellow still open
+3. **Continue applying to existing high-score pipeline** (Cloudflare 4.8, Atlassian 4.5, Together AI 4.5, OpenAI 4.5)
+4. **Run `/career-ops pipeline`** to evaluate pending items (Aledade 3.5, Cua 3.8, Vercel Eng Intern 3.8, Box 3.7, Morph ML 3.6, Promptless 3.6)
+5. Next scan: run `/career-ops scan` in 3–4 days for fresh postings
 
 ---
 
-## Recommended Next Actions
-
-1. **Evaluate Aledade** — Read full JD; if healthcare AI is appealing, apply. Carlos's LangChain + browser automation + HITL experience is the exact match they describe.
-2. **Apply to high-scoring evaluated roles** — OpenAI #350 (verify open), Harvey #351, Cartesia #352, Atlassian Security #354, Crustdata #355 — if not yet applied.
-3. **Run `/career-ops pipeline`** — Evaluate Cua (3.8/5) and Speak (3.7/5) from scan-v57 that are still pending.
-4. **Check graduation date** — WeRide requires Dec 2025–Jun 2026 graduation. Confirm before applying.
-5. **Next scan:** Wait 2–3 days. Scan saturation is high; new listings need time to appear.
+*Scan completed by autonomous agent. Run `node verify-pipeline.mjs` to check pipeline integrity.*
