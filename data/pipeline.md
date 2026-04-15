@@ -2,6 +2,21 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-15 SCAN v77 (Autonomous Agent — fresh discovery sweep v77: 15+ WebSearch queries across Ashby/Greenhouse/Lever/SimplifyJobs/SpeedyApply/vanshb03 repos; Greenhouse APIs (Anthropic/Cloudflare/Scale AI/Databricks — all 503 or dup); key new finds: Monarch Money (fully remote, Python/TS/React + agentic engineering req), Simple AI YC voice AI (SF), Ontic Analytics+AI (Austin/remote), Nutanix SWE $36-60/hr (San Jose), Rivian AI/ML (Palo Alto $33-51/hr), Actian Vector AI (remote), Nelnet AI Developer (remote); 7 new pipeline additions; 4 skipped entries (GDMS below comp + clearance, Renesas semiconductor, Keysight test equipment, T-Mobile device insurance); history expanded by 11 entries; total ~2159 entries) === -->
+
+### 🟡 Pipeline Pending (score est. ~3.7-3.8) — scan-v77
+- [ ] https://jobs.ashbyhq.com/monarchmoney/b62fbd01-4082-4ddf-9a39-ec0ae1e526ee | Monarch Money | Software Engineering Intern (Summer 2026) | 3.7/5 | Fully remote; 8-week summer June start; Python/TypeScript/Go/React/React Native/Django; agentic engineering (Claude Code + Cursor) explicitly mentioned — direct match; grad 2026-2027 ✓; personal finance domain (not primary); no comp disclosed; apply if remote pipeline needs volume
+- [ ] https://jobs.ashbyhq.com/simple-ai/63d1ef98-a304-4a5f-90de-869eb4b9b220 | Simple AI | Software Engineering Intern | 3.8/5 | San Francisco CA; YC W26 voice AI startup ($14M seed); builds AI voice agents for B2C sales/support — Carlos built exact same type of pipeline at Finch (multi-model AI orchestration, end-to-end automation); strong mission alignment; comp unknown (seed stage may be below target); apply if open to SF relocation + startup risk
+- [ ] https://jobs.ashbyhq.com/ontic/c2fa0616-b853-4cf1-a39e-137220f77a73 | Ontic | Analytics & AI Intern | 3.7/5 | Austin TX / Remote USA; corporate security intelligence platform (AI + security domain); Carlos's cybersecurity minor + AI pipeline experience = direct fit; comp not confirmed; if $33+/hr → strong 4.0 candidate; verify comp before applying
+
+### 🟠 Pipeline Pending (score est. ~3.3-3.5) — scan-v77
+- [ ] https://jobs.jobvite.com/nutanix/job/oTIbyfw4 | Nutanix | Software Engineering Intern (Distributed Systems/Core Data Path) | 3.5/5 | San Jose CA hybrid 3d/wk; $36-60/hr ✓; C++/Go/Python — Carlos has all 3 (carlosOS C++, Finch Python, Go proximity); 12-week summer May-Aug; distributed storage systems domain (not primary target); requires relocation; apply if open to SF Bay Area
+- [ ] https://careers.rivian.com/careers-home/jobs/27354 | Rivian | AI/ML & Data Science Intern (Summer 2026) | 3.4/5 | Palo Alto CA $33-51/hr ✓ / Irvine CA $26-45/hr; 12-16 weeks; Python/ML focus; Carlos's LangChain/RAG/XGBoost/multi-model pipeline ✓; EV/automotive domain (not primary); requires relocation to CA; apply only if Palo Alto rate applies
+- [ ] https://jobs.lever.co/actian/0e93f417-524a-4137-a3be-5e74d9db75c7 | Actian | Software Development Intern – Vector AI | 3.3/5 | Remote (onsite orientation Austin TX); builds Vector AI DB demos for customers/conferences; Python/AI demos ✓; Actian is data management (not primary domain); remote ✓; apply if pipeline needs remote AI volume
+- [ ] https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Lincoln-NE/AI-Developer-Intern_R22276 | Nelnet | AI Developer Intern | 3.2/5 | Remote (Lincoln NE base); education finance company; AI tools/automation focus; remote ✓; Python/AWS stack likely; below-threshold domain (student loan servicer); apply only if remote AI pipeline needs volume
+
+<!-- === END 2026-04-15 SCAN v77 === -->
+
 <!-- === NEW 2026-04-15 SCAN v76 (Autonomous Agent — broad discovery sweep v76: 15+ WebSearch queries across cybersecurity/AI/consulting/DevOps portals; Greenhouse/Ashby/Lever/YC boards; SimplifyJobs GitHub (entries 1-200); SpeedyApply AI repo; Workday portals; 100+ company history checks; most confirmed dup from v72-v75; 2 new pipeline-relevant listings (ABC Fitness AI Security Intern evaluated inline 4.0/5; SpyCloud DevOps Intern 3.5/5); 4 new skipped listings (C3 AI PhD required, Eulerity Java+NYC, Revefi 2025-grad-only); history expanded by ~20 entries) === -->
 <!-- 1 new listing evaluated inline (365 — ABC Fitness AI Security Intern 4.0/5). 1 new listing added to pipeline (SpyCloud DevOps). -->
 
