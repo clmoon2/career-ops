@@ -1424,3 +1424,19 @@
 - [ ] https://job-boards.greenhouse.io/arcesiumllc/jobs/4958467007 | Arcesium | Infrastructure Engineer Intern (Summer 2026) — New York on-site; $10K/month + housing stipend; Linux/Kubernetes/Docker/Python/AWS/GenAI tools; cloud automation+SRE; excellent comp but infra-heavy focus; NYC relocation required; (~3.0)
 
 <!-- === END 2026-04-14 SCAN v69 === -->
+
+<!-- === NEW 2026-04-15 SCAN v72 (Autonomous Agent — Greenhouse API sweep + FAANG websearch + SpeedyApply repos; 25+ companies scanned; 1 new listing found; scan history updated) -->
+<!-- Checked: Anthropic, Airtable, Vercel, Glean, Hume AI, Intercom, Temporal, Robinhood, Figma, Anduril, TogetherAI, Tenstorrent, Wiz (404), Obsidian Security (dup), Symmetry Systems (dup), Gallup (dup), Fizz (dup), Disney ML (dup), Salesforce (dup), Microsoft (dup), NVIDIA (dup), Meta (dup), Apple (dup), Cisco (dup), ByteDance (dup), AGCO (closed), Appian (below threshold), Guidehouse (below threshold), SimplifyJobs (no new), SpeedyApply AI (no new), SpeedyApply SWE (no new). -->
+
+### 🟡 Pipeline Pending (score est. 3.0–3.5) — scan-v72
+- [ ] https://lifeattiktok.com/search/7527618943449909522 | TikTok | Software Engineer Intern (Trust and Safety - AI Safety) Summer 2026 — San Jose CA; $45/hr; Python/Go/C++; AI safety/LLM evaluation platform; cybersecurity minor aligns; trust & safety domain; (~3.2)
+
+<!-- === END 2026-04-15 SCAN v72 === -->
+
+<!-- === NEW 2026-04-15 SCAN v73 (Autonomous Agent — broad discovery sweep: 40+ WebSearch queries across Ashby/Greenhouse/Lever/YC/speedyapply; Cloudflare full API scan; 25+ Greenhouse API checks for portals.yml companies; 0 listings score ≥4.0; 1 new low-priority listing found; scan history now 2110+ entries) -->
+<!-- Confirmed all major known listings in history (v1-v72): Notion, Replit, Zettabyte, Giga, Delinea, Ramp x3, Farsight, Cohere, Whatnot, Cloudflare SWE/Security/CSE, C3 AI, Figma, TogetherAI, Klaviyo, Roadie, PDT Partners, DV Trading, Bandwidth, HP IQ, Okta, LaunchDarkly, Censys AI/ML, Gemini Security, Rockstar Games AppSec (closed), Schonfeld Cyber, Zscaler, Artera, Voleon (evaluated #361), Nominal, Veeva, Tevora, Sigma Computing, Scale AI, CoVar, Planet Labs, Handshake AI, Lambda ML, Impiricus, Glean University Grad, Replit New Grad, Kikoff, Pylon, Decagon New Grad, Prophet Security, Affirm, GoLinks, GridBlock, Databricks, WillowTree, SAP (closed/filtered), Browser Use (evaluated #353), Reacher, Bloom, Chunkr (closed), YC batch (14.ai/Dex/Circleback all in history), Arize AI (FTE only), RunPod (no interns), Credit Karma (board empty), Zeta Global (in history). SpeedyApply SWE most recent: BlueScope x3/CAE/Canon/Carrier/Jabil x3/Leidos all in history from v70. HP IQ Device Experiences updated Summer→Fall 2026 (same job ID 5622472004, not new). -->
+
+### 🟠 Pipeline Pending (score est. <3.0) — scan-v73
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7789256 | Cloudflare | Developer GTM Intern – Enterprise Sales & AI Automation (Summer 2026) — Austin TX in-office; new role (updated 2026-04-14); build AI automation tools + Cloudflare Workers demos for enterprise sales; hybrid GTM/tech; production CF Workers background relevant but GTM-focus mismatches SWE target; (~2.8)
+
+<!-- === END 2026-04-15 SCAN v73 === -->

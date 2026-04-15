@@ -1,7 +1,7 @@
-# Portal Scan Summary — 2026-04-15 (v72)
+# Scan Summary — 2026-04-15 (v73)
 
 **Date:** 2026-04-15
-**Scan version:** v72 (freshness sweep — day after v71 saturation confirmation)
+**Scan version:** v73 (autonomous agent — broad discovery sweep)
 
 ---
 
@@ -9,75 +9,83 @@
 
 | Metric | Count |
 |--------|-------|
-| Greenhouse APIs fetched | 13 |
-| WebSearch queries run | 8+ |
+| WebSearch queries executed | 18 |
+| Greenhouse APIs fetched | 8 (Cloudflare full board + Arize AI + RunPod + others) |
+| SpeedyApply / SimplifyJobs repo checks | 2 |
 | Companies checked (total) | 40+ |
-| New listings found | 1 |
-| Added to pipeline | 1 (score 3.2/5) |
-| Skipped (dup/no-intern/score) | 32 |
-| Scan history entries (total) | 2,061 |
+| Total listing candidates evaluated | 80+ |
+| Filtered (title mismatch / not SWE/Security/AI) | ~15 |
+| Duplicates (already in history v1-v72) | 65+ |
+| **New listings added to pipeline** | **1** (Cloudflare GTM Intern) |
+| Listings scored ≥4.0 | 0 |
+| Listings scored 3.5–3.9 | 0 |
+| Listings scored 3.0–3.5 | 0 |
+| Listings scored <3.0 | 1 (Cloudflare GTM ~2.8) |
+| Scan history entries (total) | 2,110+ |
 
 ---
 
-## New Listing Found
+## New Listing Added
 
-### 🟠 TikTok (ByteDance) — Software Engineer Intern, Trust and Safety (AI Safety)
-**Score:** 3.2/5
-**URL:** https://lifeattiktok.com/search/7527618943449909522
-**Location:** San Jose, CA (on-site)
-**Comp:** ~$45/hr × 12 weeks
-**Stack:** Python, Go, C++
-**Why it surfaced:** Adversarial LLM testing angle matches Carlos's LLM Adversarial Testing project (Venice AI API); AI safety/content pipeline work is adjacent to security skills.
-**Concerns:** Trust & Safety domain (not pure SWE/security); San Jose requires relocation from TX; ByteDance regulatory risk (potential forced divestiture of TikTok).
-**Recommendation:** Apply only if pipeline needs volume or AI safety specifically interests Carlos.
-
----
-
-## Top Matches Currently in Pipeline (not yet applied)
-
-| Score | Company | Role | Notes |
-|-------|---------|------|-------|
-| 4.4/5 | Browser Use (YC W25) | Summer SWE Intern | Apply immediately — AI browser agents, $6-16K/mo SF |
-| 4.2/5 | Rippling | Full Stack SWE Intern | $75/hr, SF/NYC, Python+React |
-| 4.1/5 | The Voleon Group | SWE Intern | $13,333/mo, quant trading = rare differentiator |
-| 4.1/5 | Cloudglue | Full-Stack AI Engineer Intern | YC W26, React/TypeScript/Python |
-| 4.0/5 | ElevenLabs | Forward Deployed Engineer, New Grad | Remote+SF/NYC, voice AI, Python |
-| 4.0/5 | Tenstorrent | Applied AI Workflow Automation Intern | n8n exact match, Austin TX |
-| 3.8/5 | Cua (YC) | Research Intern | $8-9.25K/mo, multi-agent eval |
-| 3.8/5 | Amazon | Robotics SDE Intern/Co-op | Austin TX, Python/AWS |
-| 3.7/5 | Zscaler | SWE Intern | $45-65/hr, San Jose, security domain |
-| 3.7/5 | Speak (YC) | Full-stack Engineer Intern | $6-10K/mo, SF, React/Node/Python |
-| 3.7/5 | IBM | Back End Developer Intern | Austin/Dallas TX, Python+SQL |
-| 3.7/5 | Lenovo | AI Application Development Intern | LangChain+RAG, NC |
+### 🟠 Cloudflare — Developer GTM Intern – Enterprise Sales & AI Automation
+**Score:** 2.8/5
+**URL:** https://job-boards.greenhouse.io/cloudflare/jobs/7789256
+**Location:** Austin, TX (in-office 3-5 days/week)
+**Updated:** 2026-04-14 (new listing, not in prior history)
+**Stack:** Cloudflare Workers, AI automation tools, LLMs, no-code/workflow platforms
+**Why:** Production CF Workers background (edge gateway, OAuth proxy) is a genuine differentiator, and the role builds AI automation demos and workflows
+**Concerns:** GTM/enterprise sales intern — not a SWE/Security role. Primary value-add is sales process automation, not engineering. Mismatches primary archetypes.
+**Recommendation:** Skip unless Carlos specifically wants GTM/sales experience alongside technical work.
 
 ---
 
-## Portals Confirmed No New Listings Since v71
+## Key Findings — Market Status
 
-**Greenhouse APIs (all confirmed same as yesterday):**
-Anthropic, Airtable, Vercel, Glean, HumeAI (no intern program), Intercom (no intern program), Temporal (0 jobs), Robinhood (no SWE intern), Figma (no intern), Anduril (defense/Skillbridge only), Together AI (no intern roles), Tenstorrent (IP Product Ops updated but ops/PM not SWE), Wiz (404 no intern program)
+**The Summer 2026 intern market is near-saturated.** v73 is the second scan today (after v72 this morning) and confirms this pattern: 80+ listings evaluated, only 1 genuinely new URL found. This is expected at mid-April 2026 — most companies opened pipelines in Jan-Feb and primary hiring windows are closing.
 
-**WebSearch / portal checks:**
-Salesforce, Microsoft, Nvidia, ByteDance main board (except TikTok Trust & Safety new), Meta, Apple, Cisco/Splunk, Gong, Twilio — all confirmed dup or no new intern listings.
+**Notable confirmations this scan:**
+- Arize AI: confirmed FTE-only, no intern program (all roles require 2-5yr experience)
+- RunPod: confirmed FTE-only, no intern program
+- Credit Karma: board cleared (all positions removed as of today)
+- HP IQ Device Experiences: updated Summer → Fall 2026 (same job ID)
+- Cloudflare: only new intern listing is GTM hybrid (not SWE)
 
-**Security sweep:** Symmetry Systems, Obsidian Security, Together AI Security — all confirmed dup.
+---
 
-**GitHub repos:** SimplifyJobs Summer2026-Internships — no new qualifying entries. SpeedyApply AI + SWE repos — no new qualifying entries.
+## Priority Action Queue (Open & Actionable)
 
-**New companies checked (all below threshold or no match):**
-- AGCO (pentesting intern — closed)
-- Appian (SWE intern — $22-30/hr, below $33 minimum)
-- Guidehouse (cyber intern — security clearance required + consulting work)
+| Priority | Company | Role | Score | Report | Action |
+|----------|---------|------|-------|--------|--------|
+| 🔴 URGENT | Anthropic | Fellowship Program (all tracks) | — | — | **Deadline Apr 26** — apply now |
+| ⭐⭐⭐ | ElevenLabs | Forward Deployed Engineer, Recent Grad | 4.0 | #364 | Apply if graduating Spring/Summer 2026 |
+| ⭐⭐⭐ | Cloudflare | Solutions Engineer - Intern (Summer/Fall) | 4.0 | #362 | Verify graduation timeline (needs Dec 2026 grad) |
+| ⭐⭐⭐ | Browser Use (YC W25) | Summer SWE Intern | 4.4 | #353 | Apply ASAP — top fit |
+| ⭐⭐⭐ | Atlassian | Security Engineer Intern | 4.2 | #354 | Apply — enterprise security, $59-75/hr |
+| ⭐⭐ | Zscaler | Software Engineer Intern | 3.7 | — | Pending evaluation; security domain + Python/Rust |
+| ⭐⭐ | Databricks | Software Engineer - New Grad | ~3.8 | — | Verify 2026 start window open; strong brand |
+| ⭐⭐ | Arcesium | Software Engineer Intern | 3.3 | — | $10K/mo + housing if NYC relocation OK |
+| ⭐ | TikTok (v72) | Trust & Safety AI Safety Intern | 3.2 | — | Apply only if interested in AI safety domain |
+
+---
+
+## Confirmed No New Listings This Scan
+
+Ashby: Notion, Replit, Cohere, Farsight, Whatnot, Giga, Ramp x3, Lambda, Handshake AI, Prophet Security
+Greenhouse: Cloudflare SWE/Security/CSE, TogetherAI, Obsidian, Censys AI/ML, Gemini Security, Rockstar (closed), Schonfeld Cyber, Zscaler, Sigma Computing, Scale AI, Glean Univ Grad, Databricks, Affirm, LaunchDarkly, Klaviyo, DV Trading, PDT Partners, Bandwidth DevSecOps, HP IQ (Device Exp now Fall)
+Greenhouse API: Arize AI (FTE only), RunPod (FTE only), Credit Karma (board empty)
+Lever: Symmetry Systems, Shield AI, Artera, Tevora
+YC: Browser Use (dup), Reacher (dup), Bloom (dup)
+SpeedyApply SWE: BlueScope/CAE/Canon/Carrier/Jabil/Leidos all in history from v70
 
 ---
 
 ## Recommended Next Actions
 
-1. **Apply now (score >= 4.0):** Browser Use, Rippling, Voleon, Cloudglue, ElevenLabs FDE New Grad, Tenstorrent
-2. **Apply if interested (3.5-3.9):** Cua Research, Amazon Robotics, Zscaler, Speak, IBM Austin, Lenovo AI
-3. **Apply if pipeline light (3.0-3.4):** NYT Full-stack Intern, Aledade AI Researcher, IBM SW Dev Austin, TikTok Trust & Safety, Commvault AI Automation
-4. **Pipeline state:** Near-saturated. New listings appearing at ~1/day rate. Daily freshness sweeps recommended until application decisions are made.
+1. **URGENT:** Anthropic Fellowship — deadline April 26. If not already applied, apply today.
+2. **Apply queue:** Browser Use (#353), Atlassian (#354), ElevenLabs New Grad (#364), Cloudflare SE Intern (#362)
+3. **Evaluate pipeline backlog:** Run `/career-ops pipeline` — ~15 pending items in pipeline.md (scan-v50 through v73)
+4. **Next scan:** In 3-5 days. Market saturated but late-cycle postings still appear. Consider reducing scan frequency.
 
 ---
 
-*Generated by career-ops autonomous scan agent — 2026-04-15*
+*Generated by career-ops autonomous scan agent — v73 — 2026-04-15*
