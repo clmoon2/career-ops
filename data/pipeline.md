@@ -2,6 +2,11 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-15 SCAN v80 (Autonomous Agent — saturation confirmation sweep v80: 20+ WebSearch queries across Ashby/Greenhouse/Lever/SpeedyApply-AI/SimplifyJobs/GitHub repos; pipeline confirmed fully saturated (2166+ entries through v79); KEY FINDINGS: 7 genuinely new URLs found from SpeedyApply AI repo and supplementary searches — ALL below threshold; McAfee AI Intern $18.70/hr below $33/hr min; LivaNova AI Workflows Houston TX $28/hr below min + medical device domain; BlackSky MLE Intern VA satellite domain skipped_title; NIO AI Agent Intern San Jose Chinese EV company 3.0/5; Bandwidth AI Graphic Design non-SWE skipped_title; KLA Algorithm Intern semiconductor skipped_title; CACI Data Science Denver defense skipped_score; 0 listings scored ≥4.0; 0 new pipeline additions; history expanded by 7 entries; pipeline fully saturated — recommend focusing on applying to existing high-priority entries) === -->
+<!-- No listings scored ≥4.0. 0 new listings added to pipeline. Pipeline fully saturated after 80 scans. -->
+
+<!-- === END 2026-04-15 SCAN v80 === -->
+
 <!-- === NEW 2026-04-15 SCAN v79 (Autonomous Agent — comprehensive discovery sweep v79: 25+ WebSearch queries across Ashby/Greenhouse/Lever/YC/SimplifyJobs/SpeedyApply/vanshb03 repos; Greenhouse APIs 503 throughout (rate-limited); pipeline confirmed heavily saturated (2159+ entries through v78); KEY FINDINGS: pipeline near-exhausted — most known intern portals confirmed dup; 3 genuinely new URLs found (Alloy NYC fintech intern ~3.2/5; Tricentis Austin test-automation intern ~3.0/5; Mine YC SWE intern ~3.0/5); none ≥4.0 threshold; pipeline additions: 3 low-priority; new companies confirmed no intern: Mine details sparse, SID research role non-target; total new history entries: ~15) === -->
 
 ### 🟠 Pipeline Pending (score est. ~3.2) — scan-v79

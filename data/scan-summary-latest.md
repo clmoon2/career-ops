@@ -1,104 +1,86 @@
-# Portal Scan Summary — 2026-04-15 (v79)
+# Portal Scan Summary — 2026-04-15 (v80)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 **Candidate:** Carlos Luna-Peña  
-**Scan version:** v79  
+**Scan version:** v80  
 **Date:** 2026-04-15  
-**Scan type:** Autonomous Agent — Comprehensive discovery sweep
+**Status:** Pipeline fully saturated — discovery at margins only
 
 ---
 
-## Stats
+## Scan Stats
 
 | Metric | Count |
 |--------|-------|
-| WebSearch queries executed | 25+ |
-| Company portals checked | 30+ |
-| Greenhouse API calls | Multiple (503 rate-limited throughout) |
-| Total URLs evaluated | ~50 |
-| Duplicate / already in history | ~45 |
-| Skipped (title filter / domain / score) | ~10 |
-| **New listings added to pipeline** | **3** |
-| Listings scoring ≥ 4.0 | 0 |
+| WebSearch queries executed | 22 |
+| Companies/portals checked | 25+ |
+| Total new URLs found | 7 |
+| Filtered by title (wrong domain/role) | 3 |
+| Filtered by score (below threshold) | 4 |
+| New pipeline additions | 0 |
+| Listings scored ≥4.0 | 0 |
+| Reports generated | 0 |
+| Cumulative scan-history entries | ~2,173 |
 
 ---
 
-## Context
+## Portals Scanned
 
-The pipeline is **heavily saturated** — 2,159+ entries through scan v78 (completed earlier today on 2026-04-15). Most known portals (Ashby, Greenhouse, Lever, YC, SimplifyJobs, SpeedyApply) returned predominantly duplicates. Greenhouse APIs were rate-limiting (503) throughout this scan.
-
-This is the **fourth scan run today** (v75, v76, v77, v78 all ran 2026-04-15 before this v79). Marginal returns are diminishing significantly — the Summer 2026 internship season is at near-peak saturation.
-
----
-
-## New Listings Added to Pipeline (3)
-
-None scored ≥ 4.0. All are low-priority volume additions.
-
-| Company | Role | Score | Location | Notes |
-|---------|------|-------|----------|-------|
-| Alloy | Software Engineering Intern | ~3.2/5 | NYC hybrid 2-3d/wk | Identity risk fintech; Go/Docker/JS; comp undisclosed; Go is a stack gap |
-| Tricentis | Software Engineering Intern | ~3.0/5 | Austin TX | Test automation software; $32-56/hr ✓; testing/QA domain not primary archetype |
-| Mine (YC) | Software Engineering Intern | ~3.0/5 | SF likely | YC startup; 100K+ user reach/month; comp/stack undisclosed; verify before applying |
+- Ashby (jobs.ashbyhq.com) — broad + company-specific queries
+- Greenhouse (job-boards.greenhouse.io) — broad + company-specific queries
+- Lever (jobs.lever.co) — broad search
+- SpeedyApply 2026-AI-College-Jobs GitHub repo (0-2 day fresh entries)
+- SimplifyJobs portal (simplify.jobs)
+- Jobright consultant + SWE new-grad repos (confirmed dup from v74)
+- HN Who's Hiring April 2026 thread
+- WebSearch targeted: Ramp, Farsight AI, Giga, Fizz, Whatnot, Mercury, Affirm, Loop, Decagon, Notion/Sentry Fall 2026, OpenAI Fall 2026, FTI Consulting, consulting firms
 
 ---
 
-## Top Matches ≥ 4.0
+## New URLs Found (7 — all below pipeline threshold)
 
-**None found in this scan.** All high-scoring roles already in pipeline from prior scans.
-
-**Current top priorities already in pipeline (from earlier scans today):**
-
-| Rank | Company | Role | Score | Notes |
-|------|---------|------|-------|-------|
-| 1 | Cloudflare | SWE Intern (Austin TX) | 4.8/5 | Prod Cloudflare Workers exp = top differentiator |
-| 2 | OpenAI | SWE Intern (Summer 2026) | 4.5/5 | SF/Seattle; multi-model pipeline exact match |
-| 3 | Atlassian | Security Engineer Intern | 4.5/5 | Seattle; Cybersec Minor + OAuth/TLS/HMAC exact |
-| 4 | Together AI | Security Engineer Intern | 4.5/5 | $58/hr; SF; adversarial LLM testing exact match |
-| 5 | NVIDIA | Solutions Architect - New Grad | 4.5/5 | $108-196K; Santa Clara; 18-month SA rotation |
-| 6 | Ramp | FDE Intern | 4.5/5 | $11K/mo + housing; NYC/SF; fintech FDE |
-| 7 | Glean | SWE Intern | 4.5/5 | $57-69/hr; Palo Alto/SF; AI search |
-| 8 | 1Password | Extension Excellence Intern | 4.3/5 | Remote US/CA; Chrome MV3 exact match |
-| 9 | Point72 | AI Intern LS Equities | 4.3/5 | $130K annualized; NYC; Bloomberg/quant match |
-| 10 | Dex | AI/ML Engineer Intern | 4.3/5 | $6-10K/mo; SF; browser agents + LLM |
+| Company | Role | Location | Score | Status |
+|---------|------|----------|-------|--------|
+| McAfee | AI Intern | Frisco TX | ~2.5/5 | skipped_score — comp $18.70/hr (Levels.fyi) < $33/hr min |
+| LivaNova | Systems Engineering & AI Workflows Intern | Houston TX | ~2.8/5 | skipped_score — comp ~$28/hr est. < $33/hr min; medical device domain |
+| BlackSky | Machine Learning Engineer Intern | Herndon VA | ~2.5/5 | skipped_title — satellite/geospatial domain; VA cross-country relocation |
+| NIO | AI Agent Intern - Semantic Search | San Jose CA | ~3.0/5 | skipped_score — Chinese EV company (brand risk); CA relocation required |
+| Bandwidth | AI Graphic Design Intern | Raleigh NC | — | skipped_title — design role, not SWE/engineering |
+| KLA | Algorithm Engineering Intern | Ann Arbor MI | ~2.0/5 | skipped_title — semiconductor EDA domain; MI relocation |
+| CACI | Data Science Intern | Denver CO | ~2.5/5 | skipped_score — defense contractor; clearance risk; CO relocation |
 
 ---
 
-## Portals Confirmed Saturated (no new roles)
+## Confirmed-Saturated Sources (all dup from v1–v79)
 
-- **Ashby:** Cohere, ElevenLabs, Notion, Sierra, Decagon, Ramp, 1Password, Replit, Harvey, Zip, Whatnot, Delinea, Sentry, Vantage, Brain Co., Handshake, Lambda, Superhuman, Monarch Money, Simple AI, Ontic
-- **Greenhouse:** Scale AI, Klaviyo, Glean, Cloudflare, Together AI, Mercury, Figma, DoorDash, Robinhood, CLEAR, Enova, Sigma Computing, Pendo, HP IQ, Databricks, Verkada, Aquatic Capital, Astranis, Bandwidth
-- **Lever:** Palantir, Mistral AI, Symmetry Systems, Artera, Shield AI, Nominal, Waabi
-- **YC Board:** All entries confirmed through v57; Mine/SID/Novaflow checked today
-- **SpeedyApply SWE Repo:** Amentum/Appian/CACI/Cadence/Mariana Minerals/PTC/Signify/Tricentis — only Tricentis added
-- **Greenhouse APIs:** 503 rate-limited (PolyAI/Parloa/Intercom/Hume AI/Temporal/Arize AI/RunPod all 0 interns per v75)
+All major sources confirmed covered: Ramp, Giga, Farsight AI, Fizz, Whatnot, Mercury, Affirm, Loop New Grad, Decagon Agent Intern, OpenAI Fall 2026, Sentry Fall 2026, Notion Fall 2026, FTI Consulting (closed), all consulting firm repos, Verkada, Klaviyo, CLEAR, Sigma Computing, and 2000+ additional entries.
 
 ---
 
-## Skipped Listings (this scan)
+## Top-Priority Pipeline Entries (apply NOW)
 
-| Company | Role | Reason |
-|---------|------|--------|
-| SID (YC) | Research Intern | Research role; not primary archetype (skipped_title) |
-| Alloy | Junior Software Engineer | Full-time FTE, not intern (skipped_title) |
-| Appian (7727768) | Software Engineering Intern | Same co as 7201613 already skipped; Java/low-code; $22-30/hr below minimum |
-| CACI (Austin 316653) | Software Engineer Intern | Defense contractor; clearance likely; 2.5/5 below threshold |
-| Mariana Minerals | Full-Stack Intern | Mining/minerals domain; Ann Arbor MI |
-| PTC | Software Engineer Intern | Industrial IoT/CAD domain; 2.8/5 below threshold |
-| Signify/Cooper Lighting | Software Engineering Intern | Lighting hardware domain; Atlanta GA |
-| Amentum | Software Systems Engineer Intern | Defense/aerospace; Huntsville AL |
-| Cadence | Software Intern | EDA/semiconductor tools; 3.0/5 below threshold |
+| Score | Company | Role | Location | Next Step |
+|-------|---------|------|----------|-----------|
+| **4.3/5** ⭐ | 1Password | Developer Intern - Extension Excellence (Summer 2026) | Remote US/CA | **Apply first** — Manifest V3 Chrome ext exact match |
+| **4.0/5** 🟢 | 1Password | Developer Intern - Trust Platforms (Summer 2026) | Remote US/CA | Apply alongside Extension Excellence |
+| **4.0/5** ✅ | ABC Fitness | AI Security Intern (Summer 2026) | Frisco/Dallas TX | Report #365 ready — submit application |
+| **~3.8/5** 🟡 | Simple AI (YC W26) | Software Engineering Intern | San Francisco CA | Strong domain fit; verify comp before applying |
+| **~3.7/5** 🟡 | Monarch Money | Software Engineering Intern | Remote | Remote + agentic engineering; apply if pipeline needs volume |
+| **~3.7/5** 🟡 | Ontic | Analytics & AI Intern | Austin TX / Remote | Verify comp (if ≥$33/hr → 4.0/5); AI + security intersection |
+| **~3.5/5** 🟠 | SpyCloud | DevOps Internship | Austin TX hybrid | $20/hr below target; Austin TX 2.5h from TAMU |
 
 ---
 
-## Recommended Next Actions
+## Assessment
 
-1. **APPLY NOW** — Focus entirely on applying to evaluated roles in applications.md. 40+ evaluated roles at 4.0+ sit unapplied.
-2. **Priority apply list:** Cloudflare SWE (Austin), OpenAI SWE, Atlassian Security, Together AI Security, 1Password Extension Excellence, Ramp FDE, Glean SWE
-3. **Stop scanning** — Marginal return per scan is near zero. Run `/career-ops pipeline` instead to process pending pipeline items.
-4. **Next scan:** Recommend 2026-04-22 (7 days) — allow new postings to accumulate before scanning again.
-5. Run `node verify-pipeline.mjs` to check pipeline health if needed.
+**The intern pipeline is fully saturated after 80 scans.** All major internship sources (Ashby, Greenhouse, Lever, Workday, YC, SimplifyJobs, SpeedyApply, Jobright, GitHub tracking repos, and 25+ individual company career pages) have been exhaustively covered. The 7 new URLs found in v80 all fall below the application threshold.
+
+**Recommended actions:**
+1. **Apply immediately** to 1Password Extension Excellence (4.3/5) and Trust Platforms (4.0/5) — both remote, May–Aug 2026
+2. **Apply to ABC Fitness AI Security Intern** — Frisco TX, report #365 ready
+3. **Verify Ontic comp** — if ≥$33/hr, upgrade to 4.0/5 and apply
+4. **Schedule next scan** for 2026-04-29 (2 weeks) to check for late-cycle Summer 2026 openings and early Fall 2026 postings
 
 ---
 
-*Generated by career-ops autonomous scan agent v79 — 2026-04-15*
+*Next recommended scan: 2026-04-29*
