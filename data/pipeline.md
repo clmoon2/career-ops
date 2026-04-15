@@ -2,6 +2,17 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-15 SCAN v79 (Autonomous Agent — comprehensive discovery sweep v79: 25+ WebSearch queries across Ashby/Greenhouse/Lever/YC/SimplifyJobs/SpeedyApply/vanshb03 repos; Greenhouse APIs 503 throughout (rate-limited); pipeline confirmed heavily saturated (2159+ entries through v78); KEY FINDINGS: pipeline near-exhausted — most known intern portals confirmed dup; 3 genuinely new URLs found (Alloy NYC fintech intern ~3.2/5; Tricentis Austin test-automation intern ~3.0/5; Mine YC SWE intern ~3.0/5); none ≥4.0 threshold; pipeline additions: 3 low-priority; new companies confirmed no intern: Mine details sparse, SID research role non-target; total new history entries: ~15) === -->
+
+### 🟠 Pipeline Pending (score est. ~3.2) — scan-v79
+- [ ] https://job-boards.greenhouse.io/alloycampus/jobs/8393342002 | Alloy | Software Engineering Intern (Summer 2026) | ~3.2/5 | New York City hybrid 2-3d/wk; identity risk/fraud prevention fintech; Go/Docker/JS/Terraform stack (Go gap for Carlos, but Docker+JS+CI-CD match); comp undisclosed; Finch security engineering (OAuth/HMAC/CORS) adjacent to fraud/identity domain; apply only if expanding fintech pipeline
+
+### 🟠 Pipeline Pending (score est. ~3.0) — scan-v79
+- [ ] https://tricentis.wd1.myworkdayjobs.com/en-US/tricentis_careers/job/Austin-Texas/Software-Engineering-Intern_JR105664 | Tricentis | Software Engineering Intern (Summer 2026) | ~3.0/5 | Austin TX; test automation software company; $32-56/hr ✓ (meets $33/hr minimum); testing/QA domain not primary archetype; C#/Tosca framework gap; Austin location favorable (2.5h from College Station); apply as pipeline filler if volume needed
+- [ ] https://www.ycombinator.com/companies/mine/jobs/FlsEpFX-software-engineering-intern-summer-2026 | Mine | Software Engineering Intern (Summer 2026) | ~3.0/5 | YC startup; product reach 100K+ users/month; SF in-person likely; comp/stack undisclosed; verify details before applying — low-info listing
+
+<!-- === END 2026-04-15 SCAN v79 === -->
+
 <!-- === NEW 2026-04-15 SCAN v78 (Autonomous Agent — targeted discovery sweep v78: 20+ WebSearch queries across Ashby/Greenhouse/Lever/YC/SimplifyJobs/SpeedyApply/vanshb03 repos; pipeline confirmed heavily saturated (2159+ entries); KEY NEW FIND: 5 previously-missed 1Password Developer Intern roles for Summer 2026 (Knox/Trust Platforms/Extension Excellence/Platform Advancement/Frameworks) — all remote US/Canada, 4 months May-Aug 2026; Extension Excellence (browser extension) is strongest match for Carlos (Manifest V3 Chrome ext experience exact match); 2 new pipeline additions scored ≥4.0 (Extension Excellence 4.3/5, Trust Platforms 4.0/5); 3 additional pipeline entries 3.5-3.8/5; also found 2 new ThirdLayer/Dex ongoing intern roles; total new history entries: ~12) === -->
 
 ### ⭐ Pipeline Pending (score 4.3/5 — STRONG) — scan-v78
