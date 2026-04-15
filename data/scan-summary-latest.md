@@ -1,102 +1,82 @@
-# Portal Scan — 2026-04-15 (Scan v77)
+# Portal Scan — 2026-04-15 (v78)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Autonomous Agent Run** | Today's date: 2026-04-15
+**Candidate:** Carlos Luna-Peña  
+**Scan version:** v78  
+**Previous scan:** v77 (same day, 2026-04-15)
 
----
+## Scan Stats
 
-## Summary
+| Metric | Count |
+|--------|-------|
+| Queries executed | 20+ WebSearch + 8 WebFetch/API calls |
+| Portals/sources checked | Ashby, Greenhouse (API + board), Lever, YC, SimplifyJobs, SpeedyApply AI/SWE, vanshb03 |
+| Companies checked | 50+ |
+| Total scan history entries (all time) | ~2168 |
+| New entries added to history (v78) | 9 |
+| New pipeline additions (≥3.5/5) | 5 |
+| Listings scored ≥4.0 | 2 |
 
-```
-Scan version:           v77 (6th scan of 2026-04-15)
-Queries / sources:      18+ WebSearch + 4 Greenhouse APIs + 3 GitHub repo checks
-Companies checked:      25+
-New listings found:     11 genuinely new URLs
-Passed title filter:    11
-Confirmed new (not dup): 11
-Scored >= 4.0:          0
-Added to pipeline:      7
-Skipped (below score):  4 (below comp / clearance / domain)
-History entries added:  11 new TSV rows (total: 2,159 entries)
-```
+## Key Finding: 5 Missed 1Password Roles
 
----
+The major discovery of this scan was **5 previously-unscanned 1Password Developer Intern roles** that were missed in scans v1–v77. All roles are:
+- Remote (US or Canada)
+- 4 months: May–August 2026
+- At a security-first company ($400M ARR, Forbes Cloud 100 four years running)
+- Comp: undisclosed publicly but market-competitive
 
-## New Listings Found
+Earlier scans (v8, April 8) found only 4 of the 9 total 1Password summer internship roles. This scan found 5 that were missed.
 
-### Pipeline Additions (3.7–3.8 est. score)
+## New Listings Found (v78)
 
-| Company | Role | Score | Location | Comp | URL |
-|---------|------|-------|----------|------|-----|
-| **Simple AI** | Software Engineering Intern | **3.8/5** | San Francisco, CA | Unknown (seed stage) | https://jobs.ashbyhq.com/simple-ai/63d1ef98-a304-4a5f-90de-869eb4b9b220 |
-| **Monarch Money** | Software Engineering Intern | **3.7/5** | **Fully Remote** | Unknown | https://jobs.ashbyhq.com/monarchmoney/b62fbd01-4082-4ddf-9a39-ec0ae1e526ee |
-| **Ontic** | Analytics & AI Intern | **3.7/5** | Austin TX / Remote | Unknown | https://jobs.ashbyhq.com/ontic/c2fa0616-b853-4cf1-a39e-137220f77a73 |
+### ⭐ Score ≥ 4.0 (Recommend Applying)
 
-**Simple AI:** YC W26 voice AI startup ($14M seed). Builds AI voice agents for B2C sales/support — direct alignment with Carlos's Finch multi-model AI pipeline. Strong mission match. SF relocation required; comp unknown (seed stage may miss $33/hr floor).
+| # | Company | Role | Score | URL |
+|---|---------|------|-------|-----|
+| 1 | **1Password** | Developer Intern — Extension Excellence (Summer 2026) | **4.3/5** | [ashby](https://jobs.ashbyhq.com/1password/9378c159-337b-4c31-84c7-54af62623322) |
+| 2 | **1Password** | Developer Intern — Trust Platforms (Summer 2026) | **4.0/5** | [ashby](https://jobs.ashbyhq.com/1password/3a1f1456-96fb-4402-8168-cde66875cd03) |
 
-**Monarch Money:** Fully remote personal finance app. Python/TypeScript/Go/React/React Native/Django stack = exact match to Carlos's CV. Most interesting requirement: "comfort with modern agentic engineering (e.g. Claude Code, Cursor)" — Carlos uses Claude Code daily. Graduation 2026-2027 ✓. 8-week summer. Domain (personal finance) is not primary target but tech match is exceptional.
+### 🟡 Score 3.5–3.9 (Worth Reviewing)
 
-**Ontic:** Corporate security intelligence platform. "Analytics & AI Intern" at a security company combining AI-driven threat detection and intelligence. Carlos's cybersecurity minor + AI pipeline experience = strong fit. Austin TX or fully remote ✓. Comp unconfirmed — if ≥$33/hr, this becomes a 4.0 candidate.
+| # | Company | Role | Score | URL |
+|---|---------|------|-------|-----|
+| 3 | 1Password | Developer Intern — Knox (Summer 2026) | 3.8/5 | [ashby](https://jobs.ashbyhq.com/1password/831424d5-7490-4d64-99e4-373a4f333446) |
+| 4 | 1Password | Developer Intern — Platform Advancement (Winter 2026) | 3.5/5 | [ashby](https://jobs.ashbyhq.com/1password/7a8bab00-8c28-4485-9394-a0ef193426fe) |
+| 5 | ThirdLayer (Dex) | Full-Stack Engineer Intern (ongoing) | 3.5/5 | [yc](https://www.ycombinator.com/companies/thirdlayer/jobs/1ZzDdz8-full-stack-engineer-intern) |
 
-### Pipeline Additions (3.2–3.5 est. score)
-
-| Company | Role | Score | Location | Comp | URL |
-|---------|------|-------|----------|------|-----|
-| **Nutanix** | SWE Intern (Distributed Systems/Core Data Path) | 3.5/5 | San Jose, CA (hybrid) | $36-60/hr | https://jobs.jobvite.com/nutanix/job/oTIbyfw4 |
-| **Rivian** | AI/ML & Data Science Intern | 3.4/5 | Palo Alto CA / Irvine CA | $33-51/hr (PA) | https://careers.rivian.com/careers-home/jobs/27354 |
-| **Actian** | Software Dev Intern – Vector AI | 3.3/5 | Remote + Austin TX | Unknown | https://jobs.lever.co/actian/0e93f417-524a-4137-a3be-5e74d9db75c7 |
-| **Nelnet** | AI Developer Intern | 3.2/5 | Remote (Lincoln NE base) | ~$30-55/hr est. | https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Lincoln-NE/AI-Developer-Intern_R22276 |
-
-### Skipped Listings (logged in history only)
+### ❌ Skipped
 
 | Company | Role | Reason |
 |---------|------|--------|
-| General Dynamics Mission Systems | Systems Intern (Cybersecurity & Linux) — San Antonio TX | $26.25/hr below $33/hr minimum + TS clearance willingness required |
-| Renesas Electronics | SWE Intern — Austin TX | Semiconductor/embedded domain, below threshold (2.5/5) |
-| Keysight Technologies | R&D SWE Intern — Austin TX / Calabasas CA | Test equipment domain, borderline 3.0/5 |
-| T-Mobile USA | SWE Intern (Device Insurance) — Frisco TX | Similar to existing T-Mobile SWE entry (v40); device insurance domain |
+| 1Password | Developer Intern — Frameworks (Winter 2026) | 3.2/5 — below threshold |
+| Stryker | SWE Intern Texas | Application deadline was Nov 2025 — CLOSED |
+| Commvault | Information Security Intern | Greenhouse URL 404 — CLOSED |
 
----
+## Why Extension Excellence is the Top Pick
 
-## Sources Scanned
+Carlos's exact Finch Chrome extension work maps directly to 1Password's browser extension:
 
-- **Greenhouse APIs:** Anthropic (503), Cloudflare (503), Scale AI/Databricks (all dup)
-- **Ashby direct:** Ontic (NEW ✓), Simple AI (NEW ✓), Monarch Money (NEW ✓); Notion/Replit/Cohere/Ramp/Giga (all dup)
-- **Lever:** Actian Vector AI (NEW ✓); Voleon/Nominal/Artera/Belvedere/Saronic (all dup)
-- **SimplifyJobs GitHub (top 30):** Nutanix (NEW ✓), GDMS 72046 (NEW-skipped); LG Electronics/Nio/Mariana Minerals/SBA/LivaNova below threshold; most others dup
-- **vanshb03 GitHub (top 30):** Renesas (NEW-skipped), Keysight (NEW-skipped), T-Mobile Device Insurance (NEW-skipped); Pluralsight/T-Mobile SWE/Ironclad/Parspec/Etched (all dup from v40-v41)
-- **SpeedyApply AI repo:** No new qualifying entries (same as v72)
-- **SpeedyApply SWE repo:** BlueScope/CAE/Canon/Carrier (all dup from v70)
-- **Career pages:** Rivian AI/ML (NEW ✓); Trade Desk (below comp $22-30/hr); Handshake AI/ML (dup); Atlassian (dup)
-- **WebSearch (8+ queries):** Greenhouse/Ashby/Lever sweeps — all confirmed dup
+| Carlos (Finch) | 1Password Extension Excellence |
+|----------------|-------------------------------|
+| Manifest V3 Chrome extension, end-to-end | Chrome/Firefox extension dev |
+| React synthetic event bypass via native property descriptors | Complex DOM interaction in React |
+| Dual-mode autofill: ATS-specific selectors + universal AI | Multi-site form handling |
+| Content script ↔ service worker messaging architecture | Extension component architecture |
+| 50+ ATS platform compatibility + anti-detection | Cross-site reliability |
+| TypeScript + React throughout | TypeScript + React stack |
 
----
+**Score: 4.3/5** — strongest technical match in the entire pipeline.
 
-## Pipeline Status
+## Pipeline Saturation Status
 
-**Total scan history:** 2,159 entries (up from 2,148)
-**Total pipeline tracked:** 365+ evaluations since v1
-**Pipeline saturation:** ~95% — near fully saturated after 77 cumulative scans
+Summer 2026 pipeline is **heavily saturated** (2168 history entries, 78 scans). Most major companies and job boards covered. Marginal value of further scanning is low unless new companies post roles post-April.
 
-**Top unevaluated pending items:**
-- #1 (v67): Amazon Robotics SDE Intern — Austin TX, est. 3.8/5
-- NEW (v77): Simple AI SWE Intern — SF CA, est. 3.8/5
-- NEW (v77): Monarch Money SWE Intern — Fully Remote, est. 3.7/5
-- NEW (v77): Ontic Analytics & AI — Austin/Remote, est. 3.7/5 (verify comp first)
-
----
+**Recommendation: Stop scanning, start applying.**
 
 ## Recommended Next Actions
 
-1. **Verify Ontic comp** — If ≥$33/hr, score becomes 4.0. Austin/remote + AI+security = Carlos's exact profile. Check: https://jobs.ashbyhq.com/ontic/c2fa0616-b853-4cf1-a39e-137220f77a73
-
-2. **Evaluate Simple AI** — YC-backed voice AI with direct Finch mission match. Verify comp and apply if competitive.
-
-3. **Evaluate Monarch Money** — Best remote option in this scan. Python/TS/React exact stack + agentic engineering requirement = rare direct match.
-
-4. **Continue applying to existing top matches** — Atlassian Security (#355, 4.5/5), OpenAI (#353, 4.5/5), Browser Use (#357, 4.4/5), Rippling (#358, 4.2/5) all still open. Pipeline saturation means applying matters more than scanning now.
-
-5. **Next scan:** Run v78 in 3-5 days. Expect 3-8 genuinely new listings at this saturation level. Focus on YC board, Ashby discovery, and new company announcements.
-
----
-
-*Generated by career-ops autonomous scanning agent — scan v77 — 2026-04-15*
+1. **APPLY NOW: 1Password Extension Excellence** (4.3/5) — remote, security company, Chrome ext exact match; this is the strongest fit in the pipeline
+2. **APPLY: 1Password Trust Platforms** (4.0/5) — remote, security platform work, TLS/OAuth/HMAC overlap
+3. **REVIEW: 1Password Knox** (3.8/5) — remote, React/TypeScript design system
+4. **RUN** `/career-ops pipeline` to evaluate 15+ other pending URLs
+5. **PRIORITIZE** applications over further scans — the well is nearly dry for Summer 2026

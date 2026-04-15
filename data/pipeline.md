@@ -2,6 +2,21 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-15 SCAN v78 (Autonomous Agent — targeted discovery sweep v78: 20+ WebSearch queries across Ashby/Greenhouse/Lever/YC/SimplifyJobs/SpeedyApply/vanshb03 repos; pipeline confirmed heavily saturated (2159+ entries); KEY NEW FIND: 5 previously-missed 1Password Developer Intern roles for Summer 2026 (Knox/Trust Platforms/Extension Excellence/Platform Advancement/Frameworks) — all remote US/Canada, 4 months May-Aug 2026; Extension Excellence (browser extension) is strongest match for Carlos (Manifest V3 Chrome ext experience exact match); 2 new pipeline additions scored ≥4.0 (Extension Excellence 4.3/5, Trust Platforms 4.0/5); 3 additional pipeline entries 3.5-3.8/5; also found 2 new ThirdLayer/Dex ongoing intern roles; total new history entries: ~12) === -->
+
+### ⭐ Pipeline Pending (score 4.3/5 — STRONG) — scan-v78
+- [ ] https://jobs.ashbyhq.com/1password/9378c159-337b-4c31-84c7-54af62623322 | 1Password | Developer Intern - Extension Excellence (Summer 2026) | 4.3/5 | Remote US/Canada; 4 months May–Aug 2026; Chrome/Firefox browser extension + Rust + TypeScript/React; Carlos built Manifest V3 Chrome extension at Finch with dual-mode autofill, React synthetic event bypass (native property descriptors), content script ↔ service worker messaging, ATS-specific selectors — exact technology match for 1Password's browser extension team; security-first company ($400M ARR); comp undisclosed but market-competitive; **APPLY FIRST among all pending**
+
+### 🟢 Pipeline Pending (score 4.0/5 — GOOD) — scan-v78
+- [ ] https://jobs.ashbyhq.com/1password/3a1f1456-96fb-4402-8168-cde66875cd03 | 1Password | Developer Intern - Trust Platforms (Summer 2026) | 4.0/5 | Remote US/Canada; 4 months May–Aug 2026; security platform/trust infrastructure work; Carlos's OAuth proxy, HMAC-SHA256, TLS hardening, CSP, CORS policy design = direct security engineering match; comp undisclosed; strong culture; apply alongside Extension Excellence
+
+### 🟡 Pipeline Pending (score est. ~3.5-3.8) — scan-v78
+- [ ] https://jobs.ashbyhq.com/1password/831424d5-7490-4d64-99e4-373a4f333446 | 1Password | Developer Intern - Knox (Summer 2026) | 3.8/5 | Remote US/Canada; 4 months May–Aug 2026; Knox Design System team — React components from Figma, TypeScript frontend tooling, design system standards; Carlos has React 19 + TypeScript + design system experience (Finch frontend, AIPHRODITE); less security-specific than other 1P roles but solid frontend match; apply if pipeline needs volume
+- [ ] https://jobs.ashbyhq.com/1password/7a8bab00-8c28-4485-9394-a0ef193426fe | 1Password | Developer Intern - Platform Advancement (Winter 2026) | 3.5/5 | Remote US/Canada; 4 months May–Aug 2026; Product/Frameworks/Tooling team — developer experience tooling, CI/CD infrastructure, SDK; Carlos's GitHub Actions CI/CD, blue/green deployment, Docker experience relevant; apply as lower-priority supplement
+- [ ] https://www.ycombinator.com/companies/thirdlayer/jobs/1ZzDdz8-full-stack-engineer-intern | ThirdLayer (Dex) | Full-Stack Engineer Intern (ongoing) | 3.5/5 | San Francisco CA; $5.2K-$10.4K/month; browser automation + React/Next.js/Python/SQL at the intersection of agent infrastructure and UX; Carlos's browser extension + React 19 + Python experience relevant; SF relocation required; newer posting than xgLbSux Summer 2026 role already in pipeline
+
+<!-- === END 2026-04-15 SCAN v78 === -->
+
 <!-- === NEW 2026-04-15 SCAN v77 (Autonomous Agent — fresh discovery sweep v77: 15+ WebSearch queries across Ashby/Greenhouse/Lever/SimplifyJobs/SpeedyApply/vanshb03 repos; Greenhouse APIs (Anthropic/Cloudflare/Scale AI/Databricks — all 503 or dup); key new finds: Monarch Money (fully remote, Python/TS/React + agentic engineering req), Simple AI YC voice AI (SF), Ontic Analytics+AI (Austin/remote), Nutanix SWE $36-60/hr (San Jose), Rivian AI/ML (Palo Alto $33-51/hr), Actian Vector AI (remote), Nelnet AI Developer (remote); 7 new pipeline additions; 4 skipped entries (GDMS below comp + clearance, Renesas semiconductor, Keysight test equipment, T-Mobile device insurance); history expanded by 11 entries; total ~2159 entries) === -->
 
 ### 🟡 Pipeline Pending (score est. ~3.7-3.8) — scan-v77
