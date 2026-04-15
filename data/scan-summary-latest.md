@@ -1,102 +1,83 @@
-# Portal Scan — 2026-04-14 (v71)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Portal Scan Summary — 2026-04-15 (v72)
 
-**Scan:** v71 (Autonomous Agent — saturation confirmation sweep)
-**Date:** 2026-04-14
-**History entries before scan:** 2001
-**History entries after scan:** 2028
+**Date:** 2026-04-15
+**Scan version:** v72 (freshness sweep — day after v71 saturation confirmation)
 
-## Summary
+---
+
+## Stats
 
 | Metric | Count |
 |--------|-------|
-| Companies/portals checked | 50+ |
-| WebSearch queries run | 25+ |
-| New listings found | 0 |
-| Filtered by title | 0 |
-| Duplicates confirmed | 27 |
-| New additions to pipeline | 0 |
-| Reports written (≥4.0) | 0 |
+| Greenhouse APIs fetched | 13 |
+| WebSearch queries run | 8+ |
+| Companies checked (total) | 40+ |
+| New listings found | 1 |
+| Added to pipeline | 1 (score 3.2/5) |
+| Skipped (dup/no-intern/score) | 32 |
+| Scan history entries (total) | 2,061 |
 
-## Conclusion: Pipeline Fully Saturated
+---
 
-After 71 autonomous scans since 2026-04-07, the Summer 2026 internship pipeline is **fully saturated**. All major job boards, company career pages, and aggregators have been exhaustively covered. This scan confirmed that every known company and posting is already in the scan history.
+## New Listing Found
 
-## Batches Scanned in v71
+### 🟠 TikTok (ByteDance) — Software Engineer Intern, Trust and Safety (AI Safety)
+**Score:** 3.2/5
+**URL:** https://lifeattiktok.com/search/7527618943449909522
+**Location:** San Jose, CA (on-site)
+**Comp:** ~$45/hr × 12 weeks
+**Stack:** Python, Go, C++
+**Why it surfaced:** Adversarial LLM testing angle matches Carlos's LLM Adversarial Testing project (Venice AI API); AI safety/content pipeline work is adjacent to security skills.
+**Concerns:** Trust & Safety domain (not pure SWE/security); San Jose requires relocation from TX; ByteDance regulatory risk (potential forced divestiture of TikTok).
+**Recommendation:** Apply only if pipeline needs volume or AI safety specifically interests Carlos.
 
-### Batch 1 — Cybersecurity
-| Company | Result |
-|---------|--------|
-| CrowdStrike | skipped_dup (SWE Intern R26636 in history v63) |
-| Palo Alto Networks | skipped_dup (all intern roles in history v63) |
-| SentinelOne | skipped_dup (confirmed no undergrad intern program) |
-| Okta | skipped_dup (SWE AI Intern closed; all roles confirmed) |
-| Zscaler | skipped_dup (3.7/5 role already in pipeline from v61) |
-| Datadog | skipped_dup (all closed or in history) |
+---
 
-### Batch 2 — Cloud/SaaS
-| Company | Result |
-|---------|--------|
-| Stripe | skipped_dup (confirmed no intern from v63) |
-| Databricks | skipped_dup (all roles in history v41/v63) |
-| Accenture | skipped_dup (Tech Summer Analyst in history v32) |
-| Deloitte | skipped_dup (all roles in history v32/v63) |
-| Booz Allen Hamilton | skipped_dup (all roles in history v34/v38/v54) |
-
-### Batch 3 — AI Startups (Greenhouse/Ashby fresh queries)
-| Company | Result |
-|---------|--------|
-| Together AI | skipped_dup (all 3 intern roles in history v7) |
-| Replit | skipped_dup (SWE Intern + New Grad in history v9/v38) |
-| Notion | skipped_dup (all 3 intern variants in history v29-v41) |
-| Cohere | skipped_dup (all intern roles in history v61) |
-| Glacis | skipped_dup (Agentic AI Intern in history v39 — Vietnam HQ) |
-| Crusoe | skipped_dup (Product Security AI Intern closed v9) |
-| Delinea | skipped_dup (SWE Intern in history v10/v41) |
-| Zip | skipped_dup (multiple SWE Intern variants in history v7-v12) |
-| Zettabyte | skipped_dup (GPU cloud SWE Intern in history v9) |
-| ALSO (Ridealso) | skipped_dup (Backend SWE Intern in history v10) |
-
-### Batch 4 — Dev Tools / Other
-| Company | Result |
-|---------|--------|
-| Figma | skipped_dup (SWE Intern + Early Career in history v35/v53) |
-| Rippling | skipped_dup (Full Stack SWE Intern in history v51) |
-| Anduril | skipped_dup (all intern roles in history v39/v65) |
-| Robinhood | skipped_dup (ML Agentic + Backend + D&R all in history v7-v29) |
-| Whatnot | skipped_dup (SWE Intern in history v7-v39) |
-
-### Batch 5 — GitHub Repos / Aggregators
-| Source | Result |
-|--------|--------|
-| SimplifyJobs Summer2026 | skipped_dup (latest additions: Xylem/Hyundai/Enterprise/ENFOS/Berkley/Tenstorrent(dup)/Zscaler(dup) — all in history or below threshold) |
-| SpeedyApply 2026-AI-College-Jobs | skipped_dup (AmCentury/CCC/CME/Centific/Cleerly all in history v68; Labcorp/Leidos CV below threshold) |
-| SpeedyApply 2026-SWE-College-Jobs | skipped_dup (all latest = v70 batch already processed) |
-
-## Top Matches in Pipeline (not yet actioned)
-
-The following high-scoring roles from prior scans remain actionable in `data/pipeline.md`:
+## Top Matches Currently in Pipeline (not yet applied)
 
 | Score | Company | Role | Notes |
 |-------|---------|------|-------|
-| 4.0/5 | Tenstorrent | Applied AI Workflow Automation Intern | Austin TX / Santa Clara / remote; $32-79/hr; Python+LLMs+n8n+RAG — Report #363 |
-| 4.0/5 | ElevenLabs | Forward Deployed Engineer (Recent Grad) | Remote+SF/NY; Python+multi-model AI; voice AI $3.3B — Report #364 |
-| 3.8/5 | Amazon | Robotics SDE Intern/Co-op 2026 | Austin TX + 7 cities; $105-160K annualized; multi-season |
-| 3.7/5 | IBM | Back End Developer Intern 2026 | Austin/Dallas TX; Python+C++; $75-139K annualized |
-| 3.7/5 | Lenovo | AI Application Development Intern | Morrisville NC; LangChain+LangGraph+LLM |
-| 3.7/5 | Zscaler | Software Engineer Intern (SW Dev) | San Jose CA hybrid; $45-65/hr; cloud security+AI tools |
-| 3.5/5 | ElevenLabs | Forward Deployed Engineer (FTE) | Remote; Python+customer-facing; FTE non-intern |
-| 3.5/5 | IBM | Software Developer Intern Austin | Austin TX hybrid; React+Python+Node; $75-138K annualized |
+| 4.4/5 | Browser Use (YC W25) | Summer SWE Intern | Apply immediately — AI browser agents, $6-16K/mo SF |
+| 4.2/5 | Rippling | Full Stack SWE Intern | $75/hr, SF/NYC, Python+React |
+| 4.1/5 | The Voleon Group | SWE Intern | $13,333/mo, quant trading = rare differentiator |
+| 4.1/5 | Cloudglue | Full-Stack AI Engineer Intern | YC W26, React/TypeScript/Python |
+| 4.0/5 | ElevenLabs | Forward Deployed Engineer, New Grad | Remote+SF/NYC, voice AI, Python |
+| 4.0/5 | Tenstorrent | Applied AI Workflow Automation Intern | n8n exact match, Austin TX |
+| 3.8/5 | Cua (YC) | Research Intern | $8-9.25K/mo, multi-agent eval |
+| 3.8/5 | Amazon | Robotics SDE Intern/Co-op | Austin TX, Python/AWS |
+| 3.7/5 | Zscaler | SWE Intern | $45-65/hr, San Jose, security domain |
+| 3.7/5 | Speak (YC) | Full-stack Engineer Intern | $6-10K/mo, SF, React/Node/Python |
+| 3.7/5 | IBM | Back End Developer Intern | Austin/Dallas TX, Python+SQL |
+| 3.7/5 | Lenovo | AI Application Development Intern | LangChain+RAG, NC |
+
+---
+
+## Portals Confirmed No New Listings Since v71
+
+**Greenhouse APIs (all confirmed same as yesterday):**
+Anthropic, Airtable, Vercel, Glean, HumeAI (no intern program), Intercom (no intern program), Temporal (0 jobs), Robinhood (no SWE intern), Figma (no intern), Anduril (defense/Skillbridge only), Together AI (no intern roles), Tenstorrent (IP Product Ops updated but ops/PM not SWE), Wiz (404 no intern program)
+
+**WebSearch / portal checks:**
+Salesforce, Microsoft, Nvidia, ByteDance main board (except TikTok Trust & Safety new), Meta, Apple, Cisco/Splunk, Gong, Twilio — all confirmed dup or no new intern listings.
+
+**Security sweep:** Symmetry Systems, Obsidian Security, Together AI Security — all confirmed dup.
+
+**GitHub repos:** SimplifyJobs Summer2026-Internships — no new qualifying entries. SpeedyApply AI + SWE repos — no new qualifying entries.
+
+**New companies checked (all below threshold or no match):**
+- AGCO (pentesting intern — closed)
+- Appian (SWE intern — $22-30/hr, below $33 minimum)
+- Guidehouse (cyber intern — security clearance required + consulting work)
+
+---
 
 ## Recommended Next Actions
 
-1. **Apply to Tenstorrent Applied AI Intern** (4.0/5, Report #363) — Best stack match: Python+LLMs+n8n+RAG+HITL, Austin TX preferred.
-2. **Apply to ElevenLabs FDE Recent Grad** (4.0/5, Report #364) — Strong AI pipeline fit; voice AI company at $3.3B valuation.
-3. **Review Amazon Robotics** (3.8/5) — Decide if robotics/automation domain is acceptable. Good comp + Austin-accessible.
-4. **Apply to Zscaler SWE Intern** (3.7/5) — San Jose CA hybrid, $45-65/hr, cloud security + Claude Code in stack.
-5. **Run `/career-ops pipeline`** to evaluate remaining ≥3.5 items (IBM Back-End, Lenovo AI, IBM Austin).
-6. **Next scan:** Recommend 2026-04-21 (one week out) to catch any late-breaking openings.
+1. **Apply now (score >= 4.0):** Browser Use, Rippling, Voleon, Cloudglue, ElevenLabs FDE New Grad, Tenstorrent
+2. **Apply if interested (3.5-3.9):** Cua Research, Amazon Robotics, Zscaler, Speak, IBM Austin, Lenovo AI
+3. **Apply if pipeline light (3.0-3.4):** NYT Full-stack Intern, Aledade AI Researcher, IBM SW Dev Austin, TikTok Trust & Safety, Commvault AI Automation
+4. **Pipeline state:** Near-saturated. New listings appearing at ~1/day rate. Daily freshness sweeps recommended until application decisions are made.
 
-## Pipeline Health Note
+---
 
-The Summer 2026 intern pipeline has reached **peak saturation** as of April 14, 2026. Most companies have closed applications or are in final interview stages. Recommendation: shift focus from discovery to **execution** — apply to evaluated roles now rather than continuing to scan for new ones.
+*Generated by career-ops autonomous scan agent — 2026-04-15*
