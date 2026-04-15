@@ -1502,3 +1502,60 @@
 - [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7789256 | Cloudflare | Developer GTM Intern – Enterprise Sales & AI Automation (Summer 2026) — Austin TX in-office; new role (updated 2026-04-14); build AI automation tools + Cloudflare Workers demos for enterprise sales; hybrid GTM/tech; production CF Workers background relevant but GTM-focus mismatches SWE target; (~2.8)
 
 <!-- === END 2026-04-15 SCAN v73 === -->
+
+<!-- === NEW 2026-04-15 SCAN v74-v75 (Autonomous Agent — Greenhouse API sweep + Ashby/Lever/YC board checks; 30+ companies scanned; all major tracked companies confirmed no new intern roles; 1 new listing found; scan history updated) -->
+<!-- Confirmed dup/no-intern: Anthropic (160+ FTE only), Glean (SWE Intern closed), Vercel (no interns), Airtable (no interns), AppLovin (FTE only), PolyAI (no interns), Parloa (no interns), Intercom (no interns), Hume AI (no interns), Temporal (0 jobs), Arize AI (no interns), RunPod (no interns), Together AI (all dup), Replit (dup), Notion (dup), Cohere (dup), ElevenLabs (dup), Perplexity (Belgrade/Berlin only), Windsurf (closed), Cognition (no interns), SpeedyApply AI (no new), SpeedyApply SWE (no new) -->
+
+### 🟠 Pipeline Pending (score est. <3.0) — scan-v74
+- [ ] https://job-boards.greenhouse.io/applovin/jobs/4451556006 | AppLovin | Backend Engineer New Grad — Palo Alto CA in-person; $119K-$179K; high-performance distributed systems; adtech/gaming domain; FTE start ASAP (student timing issue); (~2.0)
+
+<!-- === END 2026-04-15 SCAN v74-v75 === -->
+
+<!-- === NEW 2026-04-15 SCAN v76 (Autonomous Agent — Workday/Greenhouse/Lever sweep for security+AI interns; SpyCloud, ABC Fitness, Appian checked; 3 new listings found including 1 high-priority) -->
+
+### ✅ Evaluated (score ≥ 4.0) — scan-v76
+- [x] https://abcfinancial.wd5.myworkdayjobs.com/ABCFinancialServices | ABC Fitness | AI Security Intern — Frisco/Dallas TX $25/hr; Python+cybersec+AI adversarial testing exact match; **4.0/5** → report #365
+
+### 🔷 Pipeline Pending (score est. ~3.5) — scan-v76
+- [ ] https://job-boards.greenhouse.io/spycloud/jobs/7679373003 | SpyCloud | DevOps Internship (Summer) — Austin TX hybrid; $20/hr; June 3-Aug 7; AWS/Terraform/Python; cybersecurity company (dark web threat intelligence); (~3.5)
+
+<!-- === END 2026-04-15 SCAN v76 === -->
+
+<!-- === NEW 2026-04-15 SCAN v77 (Autonomous Agent — Ashby/YC broad sweep + Simplify/SpeedyApply repos; 15 new listings found) -->
+
+### 🟡 Pipeline Pending (score est. 3.5–4.0) — scan-v77
+- [ ] https://jobs.ashbyhq.com/monarchmoney/b62fbd01-4082-4ddf-9a39-ec0ae1e526ee | Monarch Money | Software Engineering Intern (Summer 2026) — Fully remote; Python/TS/Go/React/Django; agentic engineering (Claude Code+Cursor) req; 8-week June start; grad 2026-2027 ✓; personal finance domain; (~3.7)
+- [ ] https://jobs.ashbyhq.com/simple-ai/63d1ef98-a304-4a5f-90de-869eb4b9b220 | Simple AI (YC W26) | Software Engineering Intern — SF; $14M seed; voice AI agents for B2C sales; direct mission alignment with Finch; comp unknown; (~3.8)
+- [ ] https://jobs.ashbyhq.com/ontic/c2fa0616-b853-4cf1-a39e-137220f77a73 | Ontic | Analytics & AI Intern — Austin TX / Remote USA; corporate security intelligence platform; AI+security domain; comp unconfirmed; (~3.7)
+
+### 🟠 Pipeline Pending (score est. 3.0–3.5) — scan-v77
+- [ ] https://jobs.jobvite.com/nutanix/job/oTIbyfw4 | Nutanix | Software Engineering Intern (Distributed Systems/Core Data Path) — San Jose CA hybrid; $36-60/hr; C++/Go/Python; 12-week May-Aug; storage domain; (~3.5)
+- [ ] https://careers.rivian.com/careers-home/jobs/27354 | Rivian | AI/ML & Data Science Intern (Summer 2026) — Palo Alto/Irvine CA; $33-51/hr; 12-16 weeks; ML/Python; EV domain; (~3.4)
+- [ ] https://jobs.lever.co/actian/0e93f417-524a-4137-a3be-5e74d9db75c7 | Actian | Software Development Intern, Vector AI — Remote + Austin TX; Python/AI; vector database domain; (~3.3)
+- [ ] https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Lincoln-NE/AI-Developer-Intern_R22276 | Nelnet | AI Developer Intern — Remote (Lincoln NE base); education finance; Python/AWS likely; (~3.2)
+- [ ] https://tricentis.wd1.myworkdayjobs.com/en-US/tricentis_careers/job/Austin-Texas/Software-Engineering-Intern_JR105664 | Tricentis | Software Engineering Intern (Summer 2026) — Austin TX; test automation domain; Python; (~3.0)
+
+<!-- === END 2026-04-15 SCAN v77 === -->
+
+<!-- === NEW 2026-04-15 SCAN v78 (Autonomous Agent — 1Password Ashby deep scan + YC companies; 6 new listings found; 2 high-priority) -->
+
+### ✅ Evaluated (score ≥ 4.0) — scan-v78
+- [x] https://jobs.ashbyhq.com/1password/9378c159-337b-4c31-84c7-54af62623322 | 1Password | Developer Intern - Extension Excellence (Summer 2026) — Remote US/CA; 4mo May-Aug 2026; Chrome MV3 + TypeScript/React/Rust; **4.3/5** → report #366 | APPLY IMMEDIATELY — production Chrome MV3 extension is exact match
+- [x] https://jobs.ashbyhq.com/1password/3a1f1456-96fb-4402-8168-cde66875cd03 | 1Password | Developer Intern - Trust Platforms (Summer 2026) — Remote US/CA; 4mo May-Aug 2026; OAuth/TLS/HMAC security infrastructure; **4.0/5** → report #367
+
+### 🟡 Pipeline Pending (score est. 3.5–4.0) — scan-v78
+- [ ] https://jobs.ashbyhq.com/1password/831424d5-7490-4d64-99e4-373a4f333446 | 1Password | Developer Intern - Knox (Summer 2026) — Remote US/CA; 4mo May-Aug 2026; Knox Design System React/TS components; (~3.8)
+- [ ] https://jobs.ashbyhq.com/1password/7a8bab00-8c28-4485-9394-a0ef193426fe | 1Password | Developer Intern - Platform Advancement (Summer 2026) — Remote US/CA; Platform/Frameworks/Tooling; (~3.5)
+- [ ] https://www.ycombinator.com/companies/thirdlayer/jobs/1ZzDdz8-full-stack-engineer-intern | ThirdLayer (Dex) | Full-Stack Engineer Intern — SF; $5.2K-$10.4K/mo; browser automation+React/Next.js/Python; ongoing (no specific season); (~3.5)
+- [ ] https://www.ycombinator.com/companies/joindex/jobs/fysveVu-ai-engineer-intern | Dex (Joindex) | AI Engineer Intern — SF; $30-60/hr; Python/TypeScript/LLMs; (~3.5)
+
+<!-- === END 2026-04-15 SCAN v78 === -->
+
+<!-- === NEW 2026-04-15 SCAN v79-v81 (Autonomous Agent — Alloy/Mine YC new finds + Greenhouse/Ashby/API checks; final sweep of all portals.yml companies; 3 new listings found; history now 2203 entries) -->
+<!-- Confirmed no new roles: Anthropic, Glean, Vercel, Airtable, Databricks (all dup v74+); Cognition (no interns); Perplexity (non-US only); Windsurf (closed); SpeedyApply repos (no new entries since v71); Cohere, ElevenLabs, Notion, Together AI all dup. -->
+
+### 🟠 Pipeline Pending (score est. 3.0–3.5) — scan-v79
+- [ ] https://job-boards.greenhouse.io/alloycampus/jobs/8393342002 | Alloy | Software Engineering Intern (Summer 2026) — NYC hybrid; fintech identity verification platform; Python likely; comp unknown; (~3.2)
+- [ ] https://www.ycombinator.com/companies/mine/jobs/FlsEpFX-software-engineering-intern-summer-2026 | Mine (YC) | Software Engineering Intern (Summer 2026) — AI data privacy; SWE intern; SF; comp unknown; (~3.0)
+
+<!-- === END 2026-04-15 SCAN v79-v81 === -->

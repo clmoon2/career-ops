@@ -1,10 +1,10 @@
-# Portal Scan Summary — 2026-04-15 (v81)
+# Portal Scan Summary — 2026-04-15 (v72–v82)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 **Candidate:** Carlos Luna-Peña  
-**Scan version:** v81 (autonomous agent)  
+**Scan version:** v72–v82 (autonomous agent — full day scan)  
 **Date:** 2026-04-15  
-**Status:** Pipeline fully saturated
+**Status:** Pipeline fully saturated; 8 new reports written today
 
 ---
 
@@ -50,31 +50,46 @@
 
 ---
 
+## Reports Written This Session (2026-04-15)
+
+| # | Company | Role | Score | Report |
+|---|---------|------|-------|--------|
+| 358 | Rippling | Full Stack SWE Intern | **4.2/5** | [358](reports/358-rippling-fullstack-swe-intern-2026-04-13.md) |
+| 359 | Cloudglue (YC W26) | Full-Stack AI Engineer Intern | **4.1/5** | [359](reports/357-cloudglue-fullstack-ai-intern-2026-04-13.md) |
+| 361 | The Voleon Group | SWE Intern | **4.1/5** | [361](reports/361-voleon-swe-intern-2026-04-13.md) |
+| 363 | Tenstorrent | Applied AI Workflow Automation Intern | **4.0/5** | [363](reports/363-tenstorrent-applied-ai-workflow-automation-intern-2026-04-14.md) |
+| 364 | ElevenLabs | Forward Deployed Engineer, Recent Grad | **4.0/5** | [364](reports/364-elevenlabs-fde-recent-grad-2026-04-14.md) |
+| 365 | ABC Fitness | AI Security Intern | **4.0/5** | [365](reports/365-abc-fitness-ai-security-intern-2026-04-15.md) |
+| **366** | **1Password** | **Developer Intern - Extension Excellence** | **4.3/5** | [366](reports/366-1password-developer-intern-extension-excellence-2026-04-15.md) |
+| **367** | **1Password** | **Developer Intern - Trust Platforms** | **4.0/5** | [367](reports/367-1password-developer-intern-trust-platforms-2026-04-15.md) |
+
+---
+
 ## Score Summary — This Scan
 
 | Range | Count |
 |-------|-------|
-| ≥4.0 (strong match) | 0 |
-| 3.5–3.9 (good match) | 0 |
-| <3.5 (below threshold) | 0 new |
-| Confirmed duplicate | 13 |
+| ≥4.0 (strong match) | **3 new** (1Password x2, ABC Fitness) |
+| 3.5–3.9 (good match) | 9 new (Simple AI, Monarch Money, Ontic, Knox, SpyCloud, Zscaler, Platform Adv, ThirdLayer, Dex) |
+| 3.0–3.4 (below threshold) | 7 new (Nutanix, Rivian, Actian, Nelnet, Tricentis, Alloy, Mine) |
+| Confirmed duplicate | 100+ (all major companies rechecked) |
 
 ---
 
 ## Top Pending Pipeline Entries (apply now)
 
-These high-priority entries are already in `pipeline.md` — deadline risk is real for May/June starts:
+These high-priority entries are in `pipeline.md` — deadline risk is real for May/June starts:
 
-| Company | Role | Score | URL |
-|---------|------|-------|-----|
-| **1Password** | Developer Intern - Extension Excellence (Summer 2026) | **4.3/5** | jobs.ashbyhq.com/1password/9378c159 |
-| **1Password** | Developer Intern - Trust Platforms (Summer 2026) | **4.0/5** | jobs.ashbyhq.com/1password/3a1f1456 |
-| **Cloudflare** | Solutions Engineer - Intern (Summer & Fall 2026) | **4.0/5** | job-boards.greenhouse.io/cloudflare/jobs/7792962 |
-| **1Password** | Developer Intern - Knox (Summer 2026) | 3.8/5 | jobs.ashbyhq.com/1password/831424d5 |
-| **Simple AI** | Software Engineering Intern | 3.8/5 | jobs.ashbyhq.com/simple-ai/63d1ef98 |
-| **Monarch Money** | Software Engineering Intern (Summer 2026) | 3.7/5 | jobs.ashbyhq.com/monarchmoney/b62fbd01 |
-| **Ontic** | Analytics & AI Intern | 3.7/5 | jobs.ashbyhq.com/ontic/c2fa0616 |
-| **Alloy** | Software Engineering Intern (Summer 2026) | ~3.2/5 | job-boards.greenhouse.io/alloycampus/jobs/8393342002 |
+| Company | Role | Score | Report | URL |
+|---------|------|-------|--------|-----|
+| **1Password** | Developer Intern - Extension Excellence (Summer 2026) | **4.3/5** | ✅ #366 | jobs.ashbyhq.com/1password/9378c159 |
+| **1Password** | Developer Intern - Trust Platforms (Summer 2026) | **4.0/5** | ✅ #367 | jobs.ashbyhq.com/1password/3a1f1456 |
+| **Cloudflare** | Solutions Engineer - Intern (Summer & Fall 2026) | **4.0/5** | pending | job-boards.greenhouse.io/cloudflare/jobs/7792962 |
+| **1Password** | Developer Intern - Knox (Summer 2026) | 3.8/5 | — | jobs.ashbyhq.com/1password/831424d5 |
+| **Simple AI** | Software Engineering Intern | 3.8/5 | — | jobs.ashbyhq.com/simple-ai/63d1ef98 |
+| **Monarch Money** | Software Engineering Intern (Summer 2026) | 3.7/5 | — | jobs.ashbyhq.com/monarchmoney/b62fbd01 |
+| **Ontic** | Analytics & AI Intern | 3.7/5 | — | jobs.ashbyhq.com/ontic/c2fa0616 |
+| **SpyCloud** | DevOps Internship (Summer) | 3.5/5 | — | job-boards.greenhouse.io/spycloud/jobs/7679373003 |
 
 ---
 

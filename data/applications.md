@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 367 | 2026-04-15 | 1Password | Developer Intern - Trust Platforms (Summer 2026) | 4.0/5 | Evaluada | ❌ | [367](reports/367-1password-developer-intern-trust-platforms-2026-04-15.md) | Remote US/CA; 4mo May-Aug 2026; OAuth/HMAC-SHA256/TLS exact security stack match; cybersecurity intern archetype |
+| 366 | 2026-04-15 | 1Password | Developer Intern - Extension Excellence (Summer 2026) | 4.3/5 | Evaluada | ❌ | [366](reports/366-1password-developer-intern-extension-excellence-2026-04-15.md) | Remote US/CA; 4mo May-Aug 2026; Chrome MV3 extension exact match (Finch extension); TypeScript/React/Rust; APPLY IMMEDIATELY |
 | 365 | 2026-04-15 | ABC Fitness | AI Security Intern | 4.0/5 | Evaluada | ❌ | [365](reports/365-abc-fitness-ai-security-intern-2026-04-15.md) | AI+Security dual role; Frisco/Dallas TX $25/hr; Python+cybersec minor+adversarial LLM exact match; apply both TX locations |
 | 364 | 2026-04-14 | ElevenLabs | Forward Deployed Engineer, Recent Graduate | 4.0/5 | Evaluada | ❌ | [364](reports/364-elevenlabs-fde-recent-grad-2026-04-14.md) | NEW GRAD FTE; Remote+SF/NYC; voice AI leader $3.3B; Python+multi-model AI exact match; apply immediately if graduating 2026 |
 | 363 | 2026-04-14 | Tenstorrent | Applied AI Workflow Automation, Intern | 4.0/5 | Evaluada | ❌ | [363](reports/363-tenstorrent-applied-ai-workflow-automation-intern-2026-04-14.md) | n8n exact match; Python+LLMs+RAG+HITL = full stack alignment; Austin TX (no relocation); $32-79/hr range; flexible term Summer available |
