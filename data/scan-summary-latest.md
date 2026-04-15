@@ -1,129 +1,181 @@
-# Scan Summary — 2026-04-15 (v74)
+# Portal Scan Summary — 2026-04-15 (scan-v75)
 
-**Date:** 2026-04-15
-**Scan version:** v74 (autonomous agent — gap-fill sweep, exhaustive coverage)
+**Verification:** unconfirmed (batch/autonomous mode — Playwright not available)
 
 ---
 
-## Stats
+## Overview
 
 | Metric | Count |
 |--------|-------|
-| Greenhouse APIs fetched | 6 (Anthropic, Airtable, Vercel, Glean, Databricks, AppLovin) |
-| WebSearch queries executed | 20+ |
-| Aggregator repos checked | 4 (SimplifyJobs, SpeedyApply SWE, Jobright Consultant, Jobright SWE New Grad) |
-| Companies / boards checked (total) | 50+ |
-| Total listing candidates evaluated | 100+ |
-| Filtered (non-US / closed / policy role) | 5 |
-| Duplicates (already in history v1-v73) | 95+ |
-| **New listings added to pipeline** | **0** |
-| Listings scored ≥4.0 | 0 |
-| Listings scored 3.5–3.9 | 0 |
-| Listings scored 3.0–3.5 | 0 |
-| Listings scored <3.0 (skipped) | 2 (Cloudflare Policy intern 1.8/5, AppLovin New Grad 2.0/5) |
-| Scan history entries (total) | 2,118 |
+| Date | 2026-04-15 |
+| Scan version | v75 |
+| Companies/sources scanned | 30+ |
+| Total candidates evaluated | 80+ |
+| New listings added to pipeline | 0 |
+| Listings already in history (skipped_dup) | 80+ |
+| High-scoring matches (≥4.0) found | 0 new |
 
 ---
 
-## New Listings Added to Pipeline
+## Sources Checked
 
-**None.** Scan v74 found 0 new qualifying listings. The 2026 Summer internship market has been extensively covered across 73 prior scans. Nearly all active roles on Greenhouse, Lever, Ashby, YC, and aggregator repos are already in the scan history or pipeline.
+### Greenhouse APIs (direct JSON)
+| Company | Result |
+|---------|--------|
+| PolyAI | 21 jobs, 0 intern/new-grad — skipped_dup |
+| Parloa | 14 jobs (all senior FDE/security) — skipped_dup |
+| Intercom | All senior/AE roles — skipped_dup |
+| Hume AI | 8 jobs, 0 intern — skipped_dup |
+| Temporal | 0 jobs total — skipped_no_intern |
+| Arize AI | 34 jobs, 0 intern (1 new: AI Application Engineer 5969145004, senior-only) |
+| RunPod | 18 jobs, 0 intern — skipped_dup |
+
+### Ashby (via WebSearch)
+| Company | Result |
+|---------|--------|
+| ElevenLabs | Impact Program Intern — already in history (2026-04-08) |
+| Cohere | All 6 intern roles — already in history (2026-04-07/08) |
+| Notion | All intern roles (Summer + Fall) — already in history (2026-04-07) |
+| Decagon | Agent SE Intern — already in history (2026-04-07) |
+| Sierra | Intern, Agent Development — already in history (2026-04-08) |
+| Vapi | New Grad SE — already in history (2026-04-07) |
+| Bland AI | All roles (senior FTE) — already in history (2026-04-07) |
+| n8n | No intern roles — skipped_no_intern |
+| Zapier | No intern roles — skipped_no_intern |
+| Attio | No intern roles (EU-based) — skipped_no_intern |
+| TravelPerk | No intern roles — skipped_no_intern |
+| Tinybird | No intern roles — skipped_no_intern |
+| Ramp | Backend + AI Ops intern — already in history |
+| Giga | SWE Intern — already in history |
+| Farsight AI | SWE Intern — already in history |
+| Fizz | SWE Intern — already in history |
+| Zip | SWE Intern — already in history |
+| Sentry | SWE Intern Fall 2026 — already in history |
+| Replit | SWE Intern + New Grad — already in history |
+| Delinea | SWE Intern — already in history |
+| Crusoe | Product Security AI Intern — already in history (skipped_closed 2026-04-09) |
+| UnlikelyAI | ML Intern — already in history |
+| Worldly | Security Operations Intern — already in history |
+| Zettabyte | SWE Intern GPU cloud — already in history |
+| Pulse | ML Engineer Intern — already in history |
+
+### Lever (via WebSearch)
+| Company | Result |
+|---------|--------|
+| Palantir | All intern roles (SWE, FDE, Security) — already in history (2026-04-07) |
+| Mistral AI | All intern roles (FDE ML, AI Scientist) — already in history (2026-04-07/08) |
+| Weights & Biases | Models SE US Remote — already in history (2026-04-07) |
+| Symmetry Systems | Full Stack SWE Intern — already in history (2026-04-07) |
+
+### Greenhouse (via WebSearch)
+| Company | Result |
+|---------|--------|
+| Together AI | SWE Intern + Security Intern ($58/hr) — already in history (2026-04-07) |
+| Cloudflare | All intern roles (SWE/Security/TDIR) — already in history (2026-04-07) |
+| Censys | AI/ML Engineering Intern Platform — already in history (2026-04-07) |
+| Affirm | SWE Intern — already in history (2026-04-07) |
+| Klaviyo | Full-stack Intern — already in history (2026-04-07) |
+| Verkada | Backend/Frontend/Univ Grad roles — already in history (2026-04-07) |
+| Mercury | SWE Intern AI Enablement Fall 2026 — already in history (2026-04-07) |
+| Figma | SWE Intern + Early Career — already in history (2026-04-07/09) |
+| Loop | New Grad SWE AI/Full-Stack — already in history (2026-04-05) |
+| Sigma Computing | SWE Intern + AI/ML Grad Intern — already in history (2026-04-07) |
+| Scale AI | SWE Intern + AI Deployment Strategist + ML Research — already in history (2026-04-07/09) |
+| DV Trading | DevOps + AI Engineer Intern — already in history (2026-04-07/08) |
+| Point72 | AI Engineer Intern — already in history (2026-04-08/09) |
+| Planet Labs | AI/ML Intern — already in history (2026-04-07) |
+| C3 AI | SWE Intern — already in history (2026-04-07) |
+| Semgrep | Cloud Platform + Program Analysis Intern — already in history (2026-04-08) |
+| Obsidian Security | SWE Intern — already in history (2026-04-07) |
+| Tenstorrent | Applied AI Workflow Automation Intern (evaluated #363 yesterday) — skipped_dup |
+| HP IQ | Product Security SWE Intern — already in history (2026-04-07) |
+| DoorDash | SWE Intern — already in history (2026-04-07) |
+| PDT Partners | SWE + Systems Intern — already in history (2026-04-07) |
+| Brex | SWE Intern — already in history (2026-04-10) |
+| Workato | AI Engineering Intern (MS/PhD req) — already in history (skipped_title) |
+| Hootsuite | AI Operations Co-op (Canada) — already in history (2026-04-14) |
+| Commvault | AI & Support Automation Intern — already in history (2026-04-14) |
+| Pendo | SWE Intern — already in history (2026-04-07) |
+| GoLinks | Fullstack Intern Remote — already in history (2026-04-09) |
+| Rocket Lawyer | AI/ML Intern — already in history (2026-04-11) |
+| GR0 | Applied AI Engineering Intern — already in history (2026-04-12) |
+| Plaid | SWE Intern via RippleMatch — already in history |
+| Aledade | AI Researcher Intern (3.5/5) — already in history (2026-04-13) |
+
+### Other Companies
+| Company | Result |
+|---------|--------|
+| CrowdStrike | SWE Intern + InfoSec Intern + Red Team Intern — already in history (2026-04-08/09) |
+| NVIDIA | SWE + Deep Learning + Agentic AI interns — already in history (2026-04-08/12) |
+| Amazon | SDE Intern + Security Intern — already in history (2026-04-07/08) |
+| Palo Alto Networks | SWE Intern — already in history (2026-04-12) |
+| Deloitte | Tech Intern + Cyber Intern + Risk Intern — already in history (2026-04-05/08/11) |
+| Adobe | SWE Intern + ML Intern — already in history (2026-04-09/12) |
+| SentinelOne | No undergrad intern roles — skipped_no_intern |
+| Wiz | No intern listings confirmed on ATS — skipped_no_intern |
+| Snyk | No intern roles — skipped_no_intern |
+| Orca Security | No intern roles — skipped_no_intern |
+| Retool | No intern listings found — skipped_no_intern |
+| Talkdesk | No 2026 summer intern roles — skipped_no_intern |
+| Gong | No intern program found — skipped_no_intern |
+| Twilio | No intern program visible — skipped_no_intern |
+| LivePerson | No intern roles — skipped_no_intern |
+| Langfuse | No intern roles (small Berlin team) — skipped_no_intern |
+| Make.com | No US intern roles — skipped_no_intern |
+| Speechmatics | Cambridge UK only, no US intern — skipped_no_intern |
+| Cognigy | No intern roles — skipped_no_intern |
+| ByteDance | US intern roles previously scanned (security engineering) — skipped_dup |
+| Salesforce | All intern roles already in history — skipped_dup |
+| Ada | Both SWE and DevOps interns already in history — skipped_dup |
+| Dialpad | SWE Intern + Co-ops (past deadlines) — already in history (2026-04-14) |
+
+### GitHub Repos
+| Source | Result |
+|--------|--------|
+| SimplifyJobs/Summer2026-Internships | Last 30 entries all in history or filtered — 0 new |
+| speedyapply/2026-SWE-College-Jobs | Top 25 entries all in history from v60-v70 — 0 new |
+| speedyapply/2026-AI-College-Jobs | Top 50 entries: all either in history or filtered (defense/hardware/bio) — 0 new |
+| jobright-ai/2026-Consultant-Internship | IBM/CRA/Celonis all in history — 0 new |
+| jobright-ai/2026-Software-Engineer-New-Grad | All FTE or in history — 0 new |
 
 ---
 
-## Skipped Items (New Finds, Not Added)
+## Why 0 New Listings?
 
-### Cloudflare — U.S. Public Policy and AI Innovation Intern
-- **URL:** https://job-boards.greenhouse.io/cloudflare/jobs/7802906
-- **Location:** Washington D.C. (in-office)
-- **Comp:** $24/hr (below $33/hr minimum)
-- **Why skipped:** Policy + AI tooling role, not SWE/Security/Backend. Responsibilities = monitoring legislation, drafting talking points, AI workflow automation for policy team. Not aligned with Carlos's technical archetypes.
-- **Score:** 1.8/5
+This is scan **v75**, running on the same day as v73 and v74. The pipeline has been built over 74 previous scans covering:
+- All major ATS platforms (Greenhouse, Ashby, Lever, Workday)
+- All GitHub internship tracking repos (SimplifyJobs, SpeedyApply, Jobright, vanshb03)
+- All 45+ companies in portals.yml tracked_companies
+- All search_queries from portals.yml
+- Direct company career pages (big tech, consulting, cybersecurity)
 
-### AppLovin — Backend Engineer, New Grad
-- **URL:** https://job-boards.greenhouse.io/applovin/jobs/4451556006
-- **Location:** Palo Alto, CA (in-person)
-- **Comp:** $119K–$179K (FTE)
-- **Why skipped:** Full-time new grad role requiring immediate start. Carlos is a current student — not graduating yet. Also adtech/gaming domain vs. AI/security target archetypes.
-- **Score:** 2.0/5
-
-### IBM Software Developer Internship 2026 (80825)
-- **URL:** https://careers.ibm.com/en_US/careers/JobDetail/Software-Developer-Internship-2026/80825
-- **Why skipped:** Duplicate — nearly identical to IBM 72308 (Austin TX hybrid co-op, 3.5/5) already in pipeline. IBM already has 3 tracked entries.
-
-### IBM Software Developer Intern SVL (72366)
-- **URL:** https://careers.ibm.com/en_US/careers/JobDetail/Software-Developer-Intern-2026-SVL/72366
-- **Why skipped:** IBM Silicon Valley variant. IBM is well-represented in pipeline (3 existing entries); adding more IBM variations would dilute prioritization.
-
-### ShopBack — Software Engineer Intern Backend
-- **URL:** https://jobs.lever.co/shopback-2/4e119b8f-3c8d-47e6-9dde-f232930e752c
-- **Why skipped:** Singapore-based company, H2 2026 (May–Dec). Non-US location/headquarters.
+**The pipeline is saturated for the current Summer 2026 internship cycle.** Most companies have published their 2026 internship listings, and the known openings are already tracked.
 
 ---
 
-## Coverage Summary — What Was Scanned
+## Current Pipeline Status
 
-### Greenhouse APIs (Level 2)
-- Anthropic: Fellows Program only, no new intern roles
-- Airtable: 58 jobs, 0 intern roles
-- Vercel: 81 jobs, 0 intern roles
-- Glean: SWE Intern closed, Univ Grad in history
-- Databricks: 0 intern roles
-- AppLovin: Backend New Grad only (FTE, skipped)
+The pipeline contains **1,003 pending entries** ready for evaluation via `/career-ops pipeline`.
 
-### WebSearch Discovery (Level 3)
-- Greenhouse site searches: SWE interns, security interns, AI interns, DevOps interns, new grad roles
-- Lever site searches: SWE interns, security interns, new grad roles
-- Ashby site searches: AI/ML interns, SWE interns
-- IBM careers site: 2 new job IDs (80825, 72366) — both skipped as IBM duplicates
-- Consulting intern searches: IBM/CRA/Celonis already in history
-- Cybersecurity/AppSec searches: Bandwidth/Tyler Tech all in history or below threshold
-- DevOps/cloud intern searches: Snowflake Cloud DevOps (closed v52), all others in history
-- Snowflake AI DevOps ($31-35/hr, below threshold)
-
-### Aggregator Repos
-- SimplifyJobs tail (30 entries): BillionToOne/Nielsen/Securitas/Snyk/Actian/TikTok all in history
-- SpeedyApply SWE top-25 (most recent): Salesforce/NVIDIA/Amazon/BlueScope/Leidos all in history
-- Jobright Consultant: IBM Azure/CRA Cyber/Celonis all in history from v8/v66
-- Jobright SWE New Grad: all FTE roles or in history; AppLovin skipped
+**Last evaluated report:** #364 — ElevenLabs Forward Deployed Engineer, Recent Graduate (4.0/5, 2026-04-14)
 
 ---
 
-## Pipeline Status
+## Recommendations
 
-| Category | Count |
-|----------|-------|
-| Pending evaluation (score est. ≥4.0) | ~15 |
-| Pending evaluation (score est. 3.5–3.9) | ~50 |
-| Pending evaluation (score est. 3.0–3.5) | ~100 |
-| Pending evaluation (score est. <3.0) | ~794 |
-| Evaluated (all scans to date, reports #001–#364) | 41+ |
-| **Total pipeline entries** | **959+** |
+1. **Process the pipeline**: Run `/career-ops pipeline` to evaluate high-priority pending URLs
+2. **Apply to top matches**: Review evaluated entries scoring 4.0+ and send applications
+3. **Re-scan in 3-5 days**: New Summer 2026 listings may appear as the season progresses
+4. **Monitor for late-cycle postings**: Some companies post internship roles in April-May; a weekly scan is recommended
+5. **High-priority pipeline items**: Together AI (SWE + Security, $58/hr), Cohere, Censys (AI/ML + Cybersecurity), Cloudflare (SWE + Security + TDIR), CrowdStrike (SWE + InfoSec + Red Team), Scale AI, Palantir (FDE + Security), Semgrep (security tooling)
 
 ---
 
-## Assessment: Market Saturation
+## Next Scan Recommendation
 
-The 2026 Summer internship market is reaching **saturation** for this scan system. After 74 scans over 10 days:
-
-- **Main portals fully indexed** — Greenhouse/Lever/Ashby portals have no new SWE/Security/AI intern roles appearing that aren't already tracked
-- **High-value roles are identified** — Top opportunities (Cloudflare SWE/Security 4.7-4.8/5, Anthropic Fellows, Palantir FDE, Browser Use 4.4/5, Notion AI Intern, ElevenLabs FDE, Atlassian Security 4.2/5) are in pipeline
-- **Pipeline is the bottleneck** — 959 pending items need evaluation. Scanning is no longer the constraint; evaluation and application are
-
----
-
-## Recommended Next Actions
-
-1. **Stop scanning for now** — Market is saturated. Resume scanning in 2 weeks (May 2026) when new fall co-op cycles start posting.
-
-2. **Evaluate top-priority pipeline items** — Run `/career-ops pipeline` to work through the backlog. Prioritize score ≥4.0 items already identified.
-
-3. **Apply to previously evaluated high-scores** — Check `/career-ops tracker` for Evaluated items not yet Applied. Deadline pressure increases as summer 2026 approaches.
-
-4. **URGENT — Anthropic Fellows deadline: April 26, 2026** — 11 days away. Priority application if not yet submitted.
-
-5. **Monitor for fall 2026 co-op listings** — HP IQ (Fall Device Experiences), Cloudflare fall/spring, SpaceX Fall co-op all have separate fall cycles starting May-June 2026.
-
----
-
-*Generated by career-ops autonomous scan agent — scan-v74 — 2026-04-15*
+Run scan again on **2026-04-18 to 2026-04-20** — a 3-5 day gap is optimal given current market saturation. Focus on:
+- New company announcements
+- Companies that previously had no intern program (quarterly check)
+- Any late-cycle FAANG/consulting internship openings
+- New YC/a16z-backed companies posting first-ever intern roles
