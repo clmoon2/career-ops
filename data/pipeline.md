@@ -2,6 +2,17 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-15 SCAN v76 (Autonomous Agent — broad discovery sweep v76: 15+ WebSearch queries across cybersecurity/AI/consulting/DevOps portals; Greenhouse/Ashby/Lever/YC boards; SimplifyJobs GitHub (entries 1-200); SpeedyApply AI repo; Workday portals; 100+ company history checks; most confirmed dup from v72-v75; 2 new pipeline-relevant listings (ABC Fitness AI Security Intern evaluated inline 4.0/5; SpyCloud DevOps Intern 3.5/5); 4 new skipped listings (C3 AI PhD required, Eulerity Java+NYC, Revefi 2025-grad-only); history expanded by ~20 entries) === -->
+<!-- 1 new listing evaluated inline (365 — ABC Fitness AI Security Intern 4.0/5). 1 new listing added to pipeline (SpyCloud DevOps). -->
+
+### ✅ Evaluated Inline — scan-v76
+- [x] https://abcfinancial.wd5.myworkdayjobs.com/ABCFinancialServices | ABC Fitness | AI Security Intern | 4.0/5 | Frisco/Dallas TX $25/hr; Python+cybersec minor+adversarial LLM testing exact match; AI+Security dual role; apply both TX locations → **Report #365**
+
+### 🟡 Pipeline Pending (score est. ~3.5) — scan-v76
+- [ ] https://job-boards.greenhouse.io/spycloud/jobs/7679373003 | SpyCloud | DevOps Internship (Summer) | 3.5/5 | Austin TX hybrid $20/hr; June 3–Aug 7 9 weeks; AWS/Terraform/Python monitoring at cybersecurity company (identity threat intelligence); AWS+CI/CD strong match; $20/hr below target; cybersecurity domain ✓; apply if pipeline needs Texas security volume
+
+<!-- === END 2026-04-15 SCAN v76 === -->
+
 <!-- === NEW 2026-04-15 SCAN v72 (Autonomous Agent — freshness sweep v72: 13 Greenhouse API calls (Anthropic/Airtable/Vercel/Glean/HumeAI/Intercom/Temporal/Robinhood/Figma/Anduril/TogetherAI/Tenstorrent/Wiz) all confirmed dup or no new intern roles; 8 WebSearch queries across Ashby/Greenhouse/Lever/YC portals; Strategy 4 company checks (Salesforce/Microsoft/Nvidia/ByteDance/Meta/Apple/Cisco/Splunk all confirmed dup); security-focused searches (Symmetry/ObsidianSec/TogetherAI Security/Gallup all dup); SimplifyJobs GitHub (no new entries); SpeedyApply AI repo (no new qualifying entries); new company checks (AGCO PenTest Intern closed; Appian SWE $22-30/hr below min comp; Guidehouse Cyber clearance+consulting; TikTok Trust&Safety AI Safety intern NOT in history — added); 1 new listing found; history now 2055 entries) === -->
 <!-- 1 new listing found (score 3.2/5 — TikTok Trust & Safety AI Safety). Pipeline near-saturated but 1 genuinely new URL identified. -->
 <!-- Greenhouse API confirmations — no new intern roles: Anthropic (all FTE/senior), Airtable (all FTE), Vercel (all FTE), Glean (SWE Intern not updated since Apr 8), HumeAI (no updates since Jan 2026), Intercom (no intern roles — confirmed), Temporal (0 jobs), Robinhood (no SWE intern — only PeopleX Partner Intern), Figma (no intern roles), Anduril (Skillbridge only), TogetherAI (no intern roles — Payroll/PMD updated but not SWE), Tenstorrent (IP Product Ops Intern updated 04-14 but ops/PM role not SWE), Wiz (404). Companies confirmed no new roles: AGCO (closed), Appian (below $33/hr), Guidehouse (clearance+consulting), Salesforce/Microsoft/Nvidia/Cisco/Meta/Apple/ByteDance (all dup), Gong/Twilio (confirmed no intern). -->
