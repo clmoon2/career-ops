@@ -2,6 +2,11 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-15 SCAN v81 (Autonomous Agent — final saturation sweep v81: Greenhouse APIs (Anthropic/Glean/Vercel/Airtable/Arize/RunPod/HumeAI/Temporal); 25+ WebSearch queries across Ashby/Greenhouse/Lever/SpeedyApply/SimplifyJobs/Palantir/Perplexity/Windsurf-Cognition; pipeline confirmed fully saturated (2191+ entries through v80); KEY FINDINGS: Temporal board = 0 jobs (empty); Cognition/Windsurf New Grad role URL no longer available (job not found); Perplexity no US intern roles (all EU/Belgrade/Berlin); Palantir/Cohere/Decagon/Glean/Vercel/Anthropic/Airtable all confirmed dup from v7-v80; SpeedyApply repos showed Mariana Minerals (mining domain skip), Appian ($22-30/hr below min), CACI Austin (defense skip) — all already in history or below threshold; 0 listings scored ≥4.0; 0 new pipeline additions; history expanded by ~10 confirmation entries; pipeline remains fully saturated — focus on applying to existing high-priority entries) === -->
+<!-- No listings scored ≥4.0. 0 new pipeline additions. Pipeline fully saturated after 81 scans. -->
+
+<!-- === END 2026-04-15 SCAN v81 === -->
+
 <!-- === NEW 2026-04-15 SCAN v80 (Autonomous Agent — saturation confirmation sweep v80: 20+ WebSearch queries across Ashby/Greenhouse/Lever/SpeedyApply-AI/SimplifyJobs/GitHub repos; pipeline confirmed fully saturated (2166+ entries through v79); KEY FINDINGS: 7 genuinely new URLs found from SpeedyApply AI repo and supplementary searches — ALL below threshold; McAfee AI Intern $18.70/hr below $33/hr min; LivaNova AI Workflows Houston TX $28/hr below min + medical device domain; BlackSky MLE Intern VA satellite domain skipped_title; NIO AI Agent Intern San Jose Chinese EV company 3.0/5; Bandwidth AI Graphic Design non-SWE skipped_title; KLA Algorithm Intern semiconductor skipped_title; CACI Data Science Denver defense skipped_score; 0 listings scored ≥4.0; 0 new pipeline additions; history expanded by 7 entries; pipeline fully saturated — recommend focusing on applying to existing high-priority entries) === -->
 <!-- No listings scored ≥4.0. 0 new listings added to pipeline. Pipeline fully saturated after 80 scans. -->
 
