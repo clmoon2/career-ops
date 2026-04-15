@@ -1,107 +1,131 @@
-# Portal Scan Summary — 2026-04-15 (v72–v82)
+# Portal Scan Summary — 2026-04-15 (v82)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 **Candidate:** Carlos Luna-Peña  
-**Scan version:** v72–v82 (autonomous agent — full day scan)  
+**Scan version:** v82 (autonomous agent — broad discovery sweep)  
 **Date:** 2026-04-15  
-**Status:** Pipeline fully saturated; 8 new reports written today
+**Status:** 4 new low-priority entries added; 0 scored ≥4.0; pipeline remains saturated for Summer 2026
 
 ---
 
-## Scan Coverage
+## Scan Coverage (v82)
 
 | Source | Method | Result |
 |--------|--------|--------|
-| Anthropic | Greenhouse API | 160+ FTE jobs; no new intern |
-| Glean | Greenhouse API | SWE Intern closed; Univ Grad in history |
-| Vercel | Greenhouse API | All roles in history from v7 |
-| Airtable | Greenhouse API | SWE New Grad in history; no new intern |
-| Arize AI | Greenhouse API | 34 jobs, 0 intern; AI App Eng FTE only |
-| RunPod | Greenhouse API | All roles in history from v7 |
-| Hume AI | Greenhouse API | 8 FTE jobs; no intern program |
-| Temporal | Greenhouse API | **0 jobs — board empty** |
-| Perplexity AI | Ashby WebFetch | No US intern; all EU/Belgrade/Berlin |
-| Windsurf/Cognition | WebFetch | New Grad URL → 404 (removed) |
-| Cognition (Ashby) | WebSearch | Only senior FTE; no intern/new-grad |
-| Palantir | WebSearch | All 7 intern/new-grad roles confirmed in history |
-| Salesforce | WebSearch | All intern roles confirmed in history |
-| SpeedyApply AI repo | WebSearch | All newest entries (0-1d old) already in history |
-| SpeedyApply SWE repo | WebSearch | All newest entries (0-1d old) already in history |
-| Ashby portals (broad) | 5x WebSearch | All results in history from v7–v80 |
-| Greenhouse portals (broad) | 3x WebSearch | All results in history from v7–v80 |
-| Lever portals (broad) | 2x WebSearch | All results in history from v7–v80 |
-| Nielsen Security Interns | WebSearch | ~$10/hr total — well below $33/hr min |
-| Zscaler SWE Intern | History confirm | Already in v61 ($45–65/hr, 5103680007) |
+| Google | WebSearch | Confirmed dup from scan-v33 |
+| Amazon | WebSearch | Confirmed dup from scan-v7 |
+| Microsoft | WebSearch | Confirmed dup from scan-v7 |
+| Meta | WebSearch | Confirmed dup from scan-v8 |
+| Apple | WebSearch | Confirmed dup from scan-v8/v35 |
+| CrowdStrike | WebSearch | All intern roles confirmed dup from v8-v9 |
+| Cloudflare | WebSearch | All intern roles confirmed dup from v7-v75 |
+| Palo Alto Networks | WebSearch | No 2026 intern results found |
+| Wiz | WebSearch | No intern roles (Lever = Channel SE only) |
+| SentinelOne | WebSearch | No Summer 2026 intern results |
+| Deloitte | WebSearch | Cyber Analyst confirmed dup from scan-v5 |
+| Accenture | WebSearch | Tech Summer Analyst confirmed dup from scan-v7 |
+| PwC | WebSearch | Cybersecurity Consulting Intern confirmed dup from scan-v7 |
+| BCG Platinion | WebSearch | EU/MBA only; no US undergrad intern |
+| EY | WebSearch | Application deadline Jan 18 2026 (closed) |
+| Salesforce | WebSearch | All intern roles confirmed dup from scan-v7 |
+| Databricks | WebSearch | SWE Intern confirmed dup from scan-v7 |
+| Stripe | WebSearch | Intern + new grad confirmed dup from scan-v7/v28 |
+| Snowflake | WebSearch | Solution Eng Intern Texas confirmed dup from scan-v9 |
+| Palantir | WebSearch | All intern/new grad roles confirmed dup from scan-v7 |
+| LangChain | WebSearch | No intern/new grad (all senior FTE) |
+| Zapier | WebSearch | No intern/new grad (all senior FTE) |
+| Okta | WebSearch | All intern roles confirmed dup from scan-v7 |
+| Booz Allen Hamilton | WebSearch | All 2026 Summer Games roles confirmed dup from scan-v7/v34 |
+| Block / Square | WebSearch | Confirmed dup from scan-v8 |
+| ByteDance / TikTok | WebSearch | All intern roles confirmed dup from scan-v19-v61 |
+| NVIDIA | WebSearch | All new-grad roles confirmed dup from scan-v34/v69 |
+| DoorDash | WebSearch | Intern dup; **SWE I Entry-Level (7264351) — NEW** |
+| Figma | WebSearch | Confirmed dup from scan-v7/v35 |
+| Loop | WebSearch | Confirmed dup from scan-v5 |
+| Scale AI | WebSearch | Confirmed dup from scan-v8 |
+| Snap | WebSearch | Intern confirmed CLOSED Jan 27 2026 |
+| Twilio | WebSearch | Intern confirmed dup from scan-v7 |
+| CoreWeave (incl. W&B) | History confirm | W&B now part of CoreWeave; no intern roles v36/v56 |
+| Anrok | Ashby | **NEW — Early Career SWE; SF; ~3.0/5** |
+| Realm Alliance | Ashby | **NEW — New Grad SWE; Remote; ~2.5/5** |
+| Allstate | Workday | **NEW — Entry Level LLM Dev; Remote; ~3.3/5** |
+| SimplifyJobs New-Grad repo | WebFetch | 30 newest entries scanned; 1 new (Allstate); rest defense/non-tech/non-US |
+| SpeedyApply NEW_GRAD_USA | WebFetch | 1 new (Anrok); Pinterest 6816337 confirmed in history via jobright |
+| jobright SWE new-grad repo | History | All entries confirmed in history from scan-v74 |
 
-**Queries executed:** 25+  
-**New qualifying listings found:** 0  
-**New pipeline additions:** 0  
-**History entries added this scan:** 13  
-**Total scan-history.tsv entries:** ~2204
-
----
-
-## Key New Findings
-
-1. **Temporal board empty** — 0 jobs on `boards-api.greenhouse.io/v1/boards/temporal/jobs`. Company may be in hiring freeze. Check back in 2–3 weeks.
-2. **Windsurf (Cognition) New Grad removed** — `windsurf.com/careers/cb10c443` returns "Job not found." Not in prior history. Role has been pulled.
-3. **Cognition** — Ashby page shows only senior FTE roles (International Field CTO). No intern or new-grad program visible as of today.
-4. **Nielsen Security Interns** — Compensation ~$10/hr (~$15–20K/summer). Well below Carlos's $33/hr minimum. Confirmed not actionable.
-
----
-
-## Reports Written This Session (2026-04-15)
-
-| # | Company | Role | Score | Report |
-|---|---------|------|-------|--------|
-| 358 | Rippling | Full Stack SWE Intern | **4.2/5** | [358](reports/358-rippling-fullstack-swe-intern-2026-04-13.md) |
-| 359 | Cloudglue (YC W26) | Full-Stack AI Engineer Intern | **4.1/5** | [359](reports/357-cloudglue-fullstack-ai-intern-2026-04-13.md) |
-| 361 | The Voleon Group | SWE Intern | **4.1/5** | [361](reports/361-voleon-swe-intern-2026-04-13.md) |
-| 363 | Tenstorrent | Applied AI Workflow Automation Intern | **4.0/5** | [363](reports/363-tenstorrent-applied-ai-workflow-automation-intern-2026-04-14.md) |
-| 364 | ElevenLabs | Forward Deployed Engineer, Recent Grad | **4.0/5** | [364](reports/364-elevenlabs-fde-recent-grad-2026-04-14.md) |
-| 365 | ABC Fitness | AI Security Intern | **4.0/5** | [365](reports/365-abc-fitness-ai-security-intern-2026-04-15.md) |
-| **366** | **1Password** | **Developer Intern - Extension Excellence** | **4.3/5** | [366](reports/366-1password-developer-intern-extension-excellence-2026-04-15.md) |
-| **367** | **1Password** | **Developer Intern - Trust Platforms** | **4.0/5** | [367](reports/367-1password-developer-intern-trust-platforms-2026-04-15.md) |
+**Queries/companies scanned:** 35+  
+**New qualifying listings found:** 4 (all below ≥4.0 evaluation threshold)  
+**Evaluation reports written:** 0  
+**Pipeline additions:** 4  
+**History entries added this scan:** 30  
+**Total scan-history.tsv entries:** ~2236
 
 ---
 
-## Score Summary — This Scan
+## New Listings Added to Pipeline (v82)
+
+All 4 new entries are below the ≥4.0 evaluation threshold. No reports generated.
+
+| Score | Company | Role | Location | URL |
+|-------|---------|------|----------|-----|
+| ~3.3/5 | **Allstate** | Entry Level Full Stack SWE - LLM App Dev | Remote USA | [apply](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/XMLNAME--Entry-level--Full-Stack-Software-Engineer--LLM-application-Development-_R28486-1) |
+| ~3.2/5 | DoorDash | Software Engineer I, Entry-Level | Multiple US cities | [apply](https://careersatdoordash.com/jobs/software-engineer-i-entry-level-graduation-date-fall-2025-summer-2026/7264351/) |
+| ~3.0/5 | Anrok | Software Engineer (Early Career) | San Francisco | [apply](https://jobs.ashbyhq.com/anrok/874deeb1-750a-4b2d-818d-99e7eb409892) |
+| ~2.5/5 | Realm Alliance | Software Engineer - New Grad | Remote US | [apply](https://jobs.ashbyhq.com/realmalliance/56d8b433-31ad-43a2-997e-b8538f5f2c9f) |
+
+**Why none reached 4.0:** All entries fall into non-primary domains (insurance, food delivery, tax automation, mining security) or require SF/NYC relocation with no security/AI-specific alignment comparable to 1Password or Cloudflare.
+
+---
+
+## Key Findings (v82)
+
+1. **Allstate LLM role (best new find):** "Entry Level Full Stack SWE - LLM Application Development" at Allstate is Remote USA with explicit LLM focus (multi-model pipeline work). Carlos's exact tech stack (Claude/GPT-4o/DeepSeek, LangChain, full-stack). Insurance domain is the only detractor. Worth considering if new grad FTE pipeline needs volume.
+2. **W&B now CoreWeave:** Weights & Biases was acquired by CoreWeave. CoreWeave confirmed no intern roles in v36/v56 checks. No new intern program visible.
+3. **EY Tech Consulting closed:** Application deadline was January 18, 2026 — all Big 4 consulting MBA/undergrad intern programs already closed for Summer 2026.
+4. **DoorDash has new-grad FTE role:** Separate from the intern role (already in history), DoorDash posted SWE I Entry-Level targeting Fall 2025–Summer 2026 grads. Not a primary target but a solid FTE option.
+5. **Realm Alliance:** Very small company building AI for mining site security. Remote US. Interesting AI+security combination but extremely niche domain.
+
+---
+
+## Top Pending Pipeline Entries (apply now — from prior scans)
+
+These remain the highest-priority entries. Deadline risk is real for May/June starts:
+
+| Company | Role | Score | Report | Status |
+|---------|------|-------|--------|--------|
+| **1Password** | Developer Intern - Extension Excellence (Summer 2026) | **4.3/5** | ✅ #366 | **APPLY FIRST** |
+| **1Password** | Developer Intern - Trust Platforms (Summer 2026) | **4.0/5** | ✅ #367 | **APPLY NOW** |
+| **Cloudflare** | Solutions Engineer - Intern (Summer & Fall 2026) | **4.0/5** | ✅ #362 | Confirm open |
+| **1Password** | Developer Intern - Knox (Summer 2026) | 3.8/5 | — | Apply if volume needed |
+| **Simple AI** | Software Engineering Intern | 3.8/5 | — | Verify comp first |
+| **Monarch Money** | Software Engineering Intern | 3.7/5 | — | Confirm comp |
+| **Ontic** | Analytics & AI Intern | 3.7/5 | — | Verify ≥$33/hr |
+
+---
+
+## Score Summary — v82
 
 | Range | Count |
 |-------|-------|
-| ≥4.0 (strong match) | **3 new** (1Password x2, ABC Fitness) |
-| 3.5–3.9 (good match) | 9 new (Simple AI, Monarch Money, Ontic, Knox, SpyCloud, Zscaler, Platform Adv, ThirdLayer, Dex) |
-| 3.0–3.4 (below threshold) | 7 new (Nutanix, Rivian, Actian, Nelnet, Tricentis, Alloy, Mine) |
-| Confirmed duplicate | 100+ (all major companies rechecked) |
-
----
-
-## Top Pending Pipeline Entries (apply now)
-
-These high-priority entries are in `pipeline.md` — deadline risk is real for May/June starts:
-
-| Company | Role | Score | Report | URL |
-|---------|------|-------|--------|-----|
-| **1Password** | Developer Intern - Extension Excellence (Summer 2026) | **4.3/5** | ✅ #366 | jobs.ashbyhq.com/1password/9378c159 |
-| **1Password** | Developer Intern - Trust Platforms (Summer 2026) | **4.0/5** | ✅ #367 | jobs.ashbyhq.com/1password/3a1f1456 |
-| **Cloudflare** | Solutions Engineer - Intern (Summer & Fall 2026) | **4.0/5** | pending | job-boards.greenhouse.io/cloudflare/jobs/7792962 |
-| **1Password** | Developer Intern - Knox (Summer 2026) | 3.8/5 | — | jobs.ashbyhq.com/1password/831424d5 |
-| **Simple AI** | Software Engineering Intern | 3.8/5 | — | jobs.ashbyhq.com/simple-ai/63d1ef98 |
-| **Monarch Money** | Software Engineering Intern (Summer 2026) | 3.7/5 | — | jobs.ashbyhq.com/monarchmoney/b62fbd01 |
-| **Ontic** | Analytics & AI Intern | 3.7/5 | — | jobs.ashbyhq.com/ontic/c2fa0616 |
-| **SpyCloud** | DevOps Internship (Summer) | 3.5/5 | — | job-boards.greenhouse.io/spycloud/jobs/7679373003 |
+| ≥4.0 (evaluate + apply) | 0 new this scan |
+| 3.5–3.9 (apply if gap-filling) | 0 new this scan |
+| 3.0–3.4 (pipeline pending) | 3 new (Allstate, DoorDash, Anrok) |
+| <3.0 (below threshold) | 1 new (Realm Alliance) |
+| Confirmed duplicate | 35+ companies |
+| Skipped (defense/clearance/non-US) | ~10 entries |
 
 ---
 
 ## Recommended Next Actions
 
-1. **APPLY NOW — 1Password Extension Excellence (4.3/5):** Chrome/Firefox extension + Rust + TypeScript. Carlos's Manifest V3 Chrome extension experience at Finch is exact match. May–Aug start means deadline is imminent.
-2. **APPLY NOW — 1Password Trust Platforms (4.0/5):** Security platform engineering. Carlos's OAuth proxy, HMAC-SHA256, TLS hardening are direct matches.
-3. **CHECK STATUS — Cloudflare Solutions Engineer:** Austin TX (2h from TAMU). Confirm Summer 2026 window still accepting apps.
-4. **VERIFY COMP — Ontic Analytics & AI:** Austin TX / Remote. Confirm ≥$33/hr before applying.
-5. **STOP SCANNING** — Pipeline is fully saturated after 81 scans. Every known portal has been checked multiple times. No new listings exist above threshold. Time is better spent on applications.
-6. **CONSIDER: Fall 2026 internships** — September–December roles are now opening. Worth a fresh scan in 2–3 weeks targeting Fall 2026 roles specifically.
+1. **APPLY NOW — 1Password Extension Excellence (4.3/5):** Chrome/Firefox extension + Rust + TypeScript. Manifest V3 + React synthetic event bypass exact match. May–Aug start = imminent deadline.
+2. **APPLY NOW — 1Password Trust Platforms (4.0/5):** OAuth proxy, HMAC-SHA256, TLS hardening = direct match.
+3. **APPLY — Cloudflare Solutions Engineer (4.0/5):** Austin TX (2h from TAMU). Already evaluated in report #362.
+4. **CONSIDER — Allstate LLM role (3.3/5):** Remote, LLM focus, large corp. Good safety net if internship pipeline stalls.
+5. **STOP SCANNING Summer 2026** — After 82 scans, the Summer 2026 intern pipeline is fully saturated. All major tech companies, consulting firms, AI labs, and aggregator repos have been checked multiple times. The marginal return of additional scans is now near zero.
+6. **START: Fall 2026 internships** — September–December 2026 intern roles are now opening across the industry. Run a fresh scan specifically targeting Fall 2026 co-op/intern cycles in 1–2 weeks.
+7. **START: New grad FTE applications** — If graduating Spring/Summer 2026, new grad roles at Stripe, Scale AI, Loop, DoorDash, NVIDIA are in the pipeline and worth applying to in parallel.
 
 ---
 
-*Generated by career-ops autonomous scan agent — v81 — 2026-04-15*
+*Generated by career-ops autonomous scan agent — v82 — 2026-04-15*

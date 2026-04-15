@@ -2,6 +2,21 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-15 SCAN v82 (Autonomous Agent — broad discovery sweep v82: 35+ companies scanned across Big Tech (Google/Amazon/Microsoft/Meta/Apple — all dup v7-v72), Security (CrowdStrike/Cloudflare/Palo Alto/Wiz/SentinelOne — all dup v7-v75), Consulting (Deloitte/Accenture/PwC/BCG/EY — all dup or deadline passed), portals.yml companies (Salesforce/Databricks/Stripe/Snowflake/Palantir/LangChain/Zapier/Okta — all dup), aggregator repos (SimplifyJobs New-Grad/speedyapply NEW_GRAD_USA/jobright); KEY NEW FINDS: 4 genuinely new entries discovered — Anrok Early Career SWE (SF, tax automation, ~3.0/5), DoorDash SWE I Entry-Level (multiple US cities, ~3.2/5), Allstate LLM Full Stack new grad (Remote USA, insurance domain but exact LLM tech match, ~3.3/5), Realm Alliance New Grad (Remote, mining AI security, ~2.5/5); 0 scored ≥4.0; Notable discoveries: W&B now part of CoreWeave (no intern), Snap intern confirmed closed Jan 2026; 0 evaluation reports generated; pipeline expanded by 4 low-priority entries) === -->
+<!-- No listings scored ≥4.0. 4 new pipeline additions (all below threshold). -->
+
+### 🟡 Pipeline Pending (score est. ~3.3/5) — scan-v82
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/XMLNAME--Entry-level--Full-Stack-Software-Engineer--LLM-application-Development-_R28486-1 | Allstate | Entry Level Full Stack SWE - LLM Application Development | ~3.3/5 | Remote USA; insurance domain but explicitly LLM app dev = Carlos's exact tech (multi-model pipelines, Claude/GPT-4o/DeepSeek, LangChain, full-stack React+Python); large corporation culture (not startup); grad 2026 eligible; comp undisclosed but insurance corps are competitive; apply if looking to expand new grad pipeline
+
+### 🟠 Pipeline Pending (score est. ~3.2/5) — scan-v82
+- [ ] https://careersatdoordash.com/jobs/software-engineer-i-entry-level-graduation-date-fall-2025-summer-2026/7264351/ | DoorDash | Software Engineer I, Entry-Level (Grad: Fall 2025 - Summer 2026) | ~3.2/5 | Multiple US cities; food delivery/logistics domain (not primary); strong tech company (Python/Go/Java backend); comp ~$150K-180K estimated; requires relocation; grad timeline aligns (Fall 2025-Summer 2026); apply if expanding new grad FTE pipeline
+
+### 🟠 Pipeline Pending (score est. ~3.0/5) — scan-v82
+- [ ] https://jobs.ashbyhq.com/anrok/874deeb1-750a-4b2d-818d-99e7eb409892 | Anrok | Software Engineer (Early Career) | ~3.0/5 | San Francisco in-person; tax automation B2B SaaS; customers include Anthropic, Notion, Cursor; comp $116K-$183K (strong); TypeScript/React/Python stack match; SF relocation required; not primary domain (tax); YC-backed startup energy; apply only if open to SF relocation + fintech-adjacent
+- [ ] https://jobs.ashbyhq.com/realmalliance/56d8b433-31ad-43a2-997e-b8538f5f2c9f | Realm Alliance | Software Engineer - New Grad | ~2.5/5 | Remote US; mining industry AI security (physical security + AI sensor fusion + OSINT); small company; Carlos's security/AI pipeline background adjacent; domain very niche (mining); low-info listing — verify comp and tech stack before applying
+
+<!-- === END 2026-04-15 SCAN v82 === -->
+
 <!-- === NEW 2026-04-15 SCAN v81 (Autonomous Agent — final saturation sweep v81: Greenhouse APIs (Anthropic/Glean/Vercel/Airtable/Arize/RunPod/HumeAI/Temporal); 25+ WebSearch queries across Ashby/Greenhouse/Lever/SpeedyApply/SimplifyJobs/Palantir/Perplexity/Windsurf-Cognition; pipeline confirmed fully saturated (2191+ entries through v80); KEY FINDINGS: Temporal board = 0 jobs (empty); Cognition/Windsurf New Grad role URL no longer available (job not found); Perplexity no US intern roles (all EU/Belgrade/Berlin); Palantir/Cohere/Decagon/Glean/Vercel/Anthropic/Airtable all confirmed dup from v7-v80; SpeedyApply repos showed Mariana Minerals (mining domain skip), Appian ($22-30/hr below min), CACI Austin (defense skip) — all already in history or below threshold; 0 listings scored ≥4.0; 0 new pipeline additions; history expanded by ~10 confirmation entries; pipeline remains fully saturated — focus on applying to existing high-priority entries) === -->
 <!-- No listings scored ≥4.0. 0 new pipeline additions. Pipeline fully saturated after 81 scans. -->
 
