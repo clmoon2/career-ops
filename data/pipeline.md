@@ -2,6 +2,16 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-16 SCAN v85 (Autonomous Agent — comprehensive saturation sweep v85: 30 Greenhouse APIs/boards (Anthropic/Glean/HumeAI/Cloudflare/TogetherAI/Benchling/Obsidian/Gemini/Bandwidth/Klaviyo/SpaceX/Crusoe/Rivian/ServiceNow); 20 Ashby boards (Cohere/Notion/Replit/Giga/Fizz/Decagon/ElevenLabs/Ramp/Zettabyte/Farsight/ALSO); 10 Lever boards (SymmetrySystems/ShieldAI/Artera/Voleon/Palantir/Mistral/Palantir-all); SpeedyApply AI repo; SimplifyJobs Summer+NewGrad; 50+ WebSearch queries; KEY FINDINGS: 1 genuinely new URL confirmed — Axon SWE I 7662648003 (law enforcement tech, Boston/Seattle hybrid, ~3.3/5 below threshold); all other portals confirmed saturated from v7-v84; ⚠️ URGENT: Anthropic Fellows AI Security #246 4.7/5 DEADLINE APRIL 26 — APPLY IMMEDIATELY) === -->
+<!-- 1 new URL added (Axon SWE I ~3.3/5 below threshold). Pipeline comprehensively saturated through v85. -->
+<!-- ⚠️ URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026 (10 days). APPLY IMMEDIATELY. -->
+<!-- ⚠️ URGENT: Anthropic Fellows AI Safety #370 4.2/5 — DEADLINE APRIL 26, 2026 (10 days). APPLY IMMEDIATELY. -->
+
+### 🟠 Pipeline Pending (score est. ~3.3/5) — scan-v85
+- [ ] https://job-boards.greenhouse.io/axon/jobs/7662648003 | Axon | Software Engineer I (New Grad 2026) | ~3.3/5 | Boston MA or Seattle WA (hybrid Tue-Fri in-office); public safety tech (body cameras, Tasers, cloud software for law enforcement); 2-year rotational new grad program; comp ~$120-155K estimated (Boston) / $150-200K (Seattle); OOP language preferred (Go/Java/Python); Carlos's Python/TypeScript/AWS stack transfers; cybersecurity minor aligns with Axon's law enforcement mission; relocation required; domain is public safety not AI startup — apply only if expanding FTE new grad pipeline beyond primary targets
+
+<!-- === END 2026-04-16 SCAN v85 === -->
+
 <!-- === NEW 2026-04-16 SCAN v83 (Autonomous Agent — saturation confirmation + pipeline evaluation sweep v83: 5 Greenhouse APIs (Anthropic/Glean/Vercel/Arize/RunPod) + 10 WebSearch queries across 30+ companies; pipeline confirmed fully saturated (2,247 entries); KEY FINDINGS: 0 genuinely new URLs — all confirmed dup from v7-v82; 3 high-value pipeline items evaluated: PDT Partners SWE Intern ($180K quant firm) 4.0/5 report #368, Databricks SWE Intern ($115-139K AI platform) 4.1/5 report #369, Anthropic Fellows AI Safety (orphan report) 4.2/5 properly added to tracker #370 DEADLINE APRIL 26; recommendation: focus on applying to existing high-priority entries — pipeline fully saturated) === -->
 <!-- No new listings found. Pipeline saturation confirmed. 3 evaluations completed from existing pipeline. -->
 <!-- ⚠️ URGENT: Anthropic Fellows AI Safety #370 — DEADLINE APRIL 26, 2026 (10 days). APPLY IMMEDIATELY. -->
