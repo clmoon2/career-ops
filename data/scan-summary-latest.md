@@ -1,112 +1,97 @@
-# Portal Scan Summary — 2026-04-16 (v88)
+# Scan Summary — 2026-04-16 (v89)
 
-**Scan ID:** v88
+**Agent:** Autonomous scanner (scheduled run)
+**Scan version:** v89
 **Date:** 2026-04-16
-**Agent:** Autonomous (career-ops scan agent)
-**History entries total:** 2,345
+**History entries after scan:** 2,362
 
 ---
 
-## Stats
+## Summary Stats
 
 | Metric | Count |
-|--------|-------|
-| Companies/portals scanned | 28 |
-| WebSearch queries executed | 18 |
-| Total URLs evaluated | ~56 |
-| Already in history (duplicates) | 50 |
-| New to history | 6 |
-| Added to pipeline | 4 |
-| Skipped (below threshold / Paris FTE) | 2 |
-| Scored >= 4.0 (full reports written) | 0 |
+|---|---|
+| Companies scanned | 25+ |
+| Greenhouse APIs queried | 8 (Anthropic, Airtable, Glean, Arize AI, RunPod, Together AI, Intercom, Hume) |
+| WebSearch queries executed | 15+ |
+| Ashby/Lever boards checked | 8 (Cohere, ElevenLabs, Decagon, Vapi, Pinecone, LangChain, Cloudflare, Notion) |
+| New URLs found (total) | 7 |
+| Scored ≥ 4.0 | **2** |
+| Reports written | **2** (#357, #358) |
+| Tracker entries added | **2** (#371 Roadie, #372 Anthropic Fellows ML Systems) |
+| Skipped (dup/closed) | ~50+ |
 
 ---
 
-## Portals Scanned
+## ⚠️ URGENT — Act Before April 26
 
-**GitHub aggregators:**
-- SimplifyJobs/Summer2026-Internships — all entries dup from v86-v87
-- SimplifyJobs/New-Grad-Positions — all entries dup from v86-v87
-- speedyapply/2026-AI-College-Jobs — all entries dup from v86-v87
+Three Anthropic Fellows tracks close April 26. Two are already evaluated:
 
-**Greenhouse boards (direct/API):**
-- Anthropic API: 503 unavailable; last confirmed v86-v87 (all dup)
-- Glean: confirmed dup v87
-- Vercel: confirmed dup v87
-- Cloudflare: 7774167 in history (April 7-8), 7206269 in history
-- Databricks: all URLs in history (7640764002 + direct site)
-- Together AI: 5012785007 + 5012768007 confirmed dup
-- Sigma Computing: 7575892003 NEW; 7501718003 + 6640194003 already in history
-- Figma, Airtable, Loop, Mercury, SmithRx, Affirm: confirmed dup
-
-**Ashby boards:**
-- Cohere: Spring/Summer 2026 + ML Co-op + Research Intern all confirmed dup
-- ElevenLabs/LangChain/Pinecone: no new intern/new-grad results via WebSearch
-- Whatnot: e4cb7fcb NEW; bc8f8c7f + 8250532f confirmed in history
-- Notion, Replit, Sentry, Harvey, Farsight, Decagon, Benchling: all confirmed dup
-
-**Lever boards:**
-- Mistral AI: cf4616fc new grad (dup), 881941e1 FDE intern Paris (dup); 9f6e6513 security NEW (skipped-Paris FTE); 2414ad08 offensive security NEW (skipped-Paris FTE)
-- Weights & Biases: no intern roles
-- Palantir: confirmed dup v87
-
-**Other portals:**
-- Microsoft careers: job/1872468 Applied AI/ML Intern NEW; job/1766916 AI/ML Intern NEW
-- SimplifyJobs/defense entries: Parsons/GDMS/Leidos/RTX/SS&C — all below threshold
+| # | Role | Score | Deadline | Notes |
+|---|---|---|---|---|
+| #246 | Anthropic Fellows — AI Security | **4.7/5** | April 26 | Already in pipeline — APPLY NOW |
+| #370 | Anthropic Fellows — AI Safety | **4.2/5** | April 26 | Already in pipeline — APPLY NOW |
+| **#372** | **Anthropic Fellows — ML Systems & Performance** | **4.1/5** | **April 26** | **NEW this scan — Report #358** |
+| — | Anthropic Fellows — Reinforcement Learning | 3.6/5 | April 26 | Below threshold; consider after applying to above three |
+| — | Anthropic Fellows — AI Safety (new listing 5183044008) | ~3.9/5 | April 26 | Confirm vs #370 before applying (may be same track) |
 
 ---
 
-## New Listings Found (4 added to pipeline)
+## Top Matches (score ≥ 4.0)
 
-| # | Company | Role | Score | URL |
-|---|---------|------|-------|-----|
-| 1 | Microsoft | Software Engineer: Applied AI/ML Intern (Redmond) | ~3.8/5 | [Link](https://jobs.careers.microsoft.com/global/en/job/1872468/Software-Engineer:-Applied-AI/ML-Intern-Opportunities-for-University-Students,-Redmond) |
-| 2 | Whatnot | 2026 Software Engineer New Grad (SF/LA/NYC) | ~3.7/5 | [Link](https://jobs.ashbyhq.com/whatnot/e4cb7fcb-2bb8-4786-b848-20641f9888c3) |
-| 3 | Microsoft | Software Engineer: AI/ML Intern (Redmond) | ~3.7/5 | [Link](https://jobs.careers.microsoft.com/global/en/job/1766916/Software-Engineer:-AI/ML-Intern-Opportunities-for-University-Students,-Redmond) |
-| 4 | Sigma Computing | Software Engineering Intern Summer 2026 (SF) | ~3.4/5 | [Link](https://job-boards.greenhouse.io/sigmacomputing/jobs/7575892003) |
+### 1. Roadie (UPS) — AI Engineer Intern | Score: 4.2/5 | Report #357
+**URL:** https://job-boards.greenhouse.io/roadie/jobs/8479096002
+**Location:** Remote
+**Comp:** Not disclosed (UPS subsidiary, market rate expected)
 
-**Skipped (Paris FTE, experienced hire):**
-- Mistral AI Software Engineer, Security — 2.5/5
-- Mistral AI CyberSecurity Offensive Security Engineer — 2.0/5
+**Why this is a 4.2:** The JD reads like a job description for what Carlos already built at Finch. Exact stack match: Python, FastAPI, LangChain, LangGraph, RAG, pgvector, FAISS, AWS EKS/S3, Docker. Responsibilities include LLM-powered chatbot agents, fraud detection with embeddings, data pipelines, and agent evaluation frameworks — all things Carlos has shipped in production.
+
+**Action:** Apply immediately. Lead with Finch multi-model pipeline as primary proof point.
 
 ---
 
-## Top Matches This Scan (score >= 4.0)
+### 2. Anthropic Fellows — ML Systems & Performance | Score: 4.1/5 | Report #358 | ⚠️ APRIL 26 DEADLINE
+**URL:** https://job-boards.greenhouse.io/anthropic/jobs/5183051008
+**Location:** SF / London / Toronto / Remote (US, UK, CA)
+**Comp:** $3,850/week + $15K/month compute + benefits
+**Duration:** 4 months (July 2026 cohort)
 
-**None.** All new listings scored below the 4.0 threshold. No full evaluation reports generated.
+**Why this is a 4.1:** $3,850/week stipend at the top AI lab. Carlos's 35K-line Python codebase, distributed AWS deployment, multi-model ML pipeline, and 602-test suite shows the ML engineering depth the fellowship values. Main gap: HPC/GPU infrastructure focus of past fellows vs. Carlos's API-based cloud systems. Fellowship explicitly encourages applications from non-traditional candidates. 10 days left to apply.
 
----
-
-## URGENT — Deadline Alert
-
-> **Anthropic Fellows AI Security** (report #246, score 4.7/5) — DEADLINE **APRIL 26, 2026** (10 days).
-> **Anthropic Fellows AI Safety** (report #370, score 4.2/5) — DEADLINE **APRIL 26, 2026** (10 days).
->
-> Run `/career-ops oferta` on reports #246 and #370 to finalize applications immediately.
+**Action:** Apply before April 26. Frame as production ML systems engineer (not researcher). Finch pipeline + TidalHack + quantitative trading system as proof points.
 
 ---
 
-## Pipeline State
+## Below Threshold (added to pipeline for reference)
 
-The pipeline is comprehensively saturated through v88 (2,345 history entries). All major portals have been checked at least 3× in the last 48 hours. Most new postings continue to be:
+| URL | Company | Role | Score | Notes |
+|---|---|---|---|---|
+| `greenhouse.io/anthropic/jobs/5183044008` | Anthropic | Fellows — AI Safety (new listing) | ~3.9/5 | Different ID from #370; confirm not duplicate before applying |
+| `greenhouse.io/cloudflare/jobs/7792962` | Cloudflare | Solutions Engineer Intern (Summer & Fall 2026) | ~3.7/5 | Austin TX; July-Dec 2026; Carlos uses Workers/Pages |
+| `greenhouse.io/anthropic/jobs/5183052008` | Anthropic | Fellows — Reinforcement Learning | ~3.6/5 | April 26 deadline; Carlos lacks RL training exp |
+| `ashbyhq.com/notion/5b15697c` | Notion | SWE Intern (Fall 2026) | ~3.5/5 | Fall timing; may conflict with semester |
 
-1. Defense/government roles (below threshold for Carlos)
-2. Variant UUIDs of existing postings already in pipeline (same role, different Greenhouse/Ashby IDs)
-3. European FTE roles requiring relocation (Paris-based Mistral)
+---
 
-**Recommended next scan interval:** 3-5 days (pipeline is saturated; daily scans have diminishing returns).
+## Key Observations
+
+1. **Together AI intern roles closed**: SWE Intern (5012768007) and Security Intern (5012785007) no longer in Together AI Greenhouse API — both likely closed.
+
+2. **Glean SWE Intern likely closed**: `4595665005` (Software Engineer, Intern Summer 2026) not found in current Glean API. Apply if link still works.
+
+3. **Anthropic added 3 new Fellows tracks** since last full API scan: ML Systems & Performance, Reinforcement Learning, and a new AI Safety listing. The AI Security and AI Safety tracks were already flagged as urgent.
+
+4. **Airtable New Grad 2026 (8409376002) appears closed** — not in current Airtable API response.
+
+5. **Pipeline is heavily saturated** from v86-v88 sweeps. This scan focused on API freshness checks and found one genuinely new company (Roadie) + three new Anthropic fellowship tracks.
 
 ---
 
 ## Recommended Next Actions
 
-1. **URGENT:** Apply to Anthropic Fellows AI Security (#246, 4.7/5) — deadline April 26
-2. **URGENT:** Apply to Anthropic Fellows AI Safety (#370, 4.2/5) — deadline April 26
-3. **Review Microsoft (3.8/5):** Two new Microsoft AI/ML Intern roles (1872468 + 1766916). If open to Redmond, apply to both — Carlos's multi-model LLM pipeline experience is genuine AI/ML background. Main gap: PyTorch/TF vs LLM-API focus
-4. **Review Whatnot (3.7/5):** New grad at $140-150K is strong comp. Apply if expanding FTE new grad pipeline beyond primary AI/security targets
-5. Run `/career-ops pipeline` to process any pending pipeline evaluations
-6. Update career-ops: `node update-system.mjs apply` (v1.1.0 → v1.3.0 available)
-
----
-
-*Generated by career-ops autonomous scan agent v88 on 2026-04-16*
+1. **APPLY: Anthropic Fellows AI Security (#246) — DEADLINE APRIL 26** (highest priority, 4.7/5)
+2. **APPLY: Anthropic Fellows ML Systems & Performance (#372) — DEADLINE APRIL 26** (new this scan, 4.1/5)
+3. **APPLY: Anthropic Fellows AI Safety (#370) — DEADLINE APRIL 26** (already evaluated, 4.2/5)
+4. **APPLY: Roadie AI Engineer Intern (#371)** — Remote, exact stack match, open deadline
+5. **REVIEW: Anthropic Fellows AI Safety (5183044008)** — confirm if same track as #370 before separate application
+6. Run `/career-ops pipeline` to process existing pending URLs

@@ -2,6 +2,31 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-16 SCAN v89 (Autonomous Agent — targeted freshness sweep v89: Greenhouse APIs (Anthropic/Airtable/Glean/Arize/RunPod/Together AI/Intercom/Hume); WebSearch across Ashby/Greenhouse/Lever/big tech portals; 25+ company checks; KEY FINDINGS: 7 new URLs — Roadie AI Engineer Intern Remote 4.2/5 REPORT FILED; Anthropic Fellows ML Systems & Performance $3,850/wk 4.1/5 REPORT FILED; Anthropic Fellows AI Safety new listing (5183044008) ~3.9/5; Anthropic Fellows RL (5183052008) ~3.6/5; Cloudflare SE Intern Austin July-Dec 2026 ~3.7/5; 2 scored >=4.0 reports written; history now 2,362 entries; URGENT: Anthropic Fellows AI Security 4.7/5 DEADLINE APRIL 26; URGENT: Anthropic Fellows ML Systems 4.1/5 DEADLINE APRIL 26) === -->
+<!-- 2 listings scored >=4.0 — reports #357 (Roadie) and #358 (Anthropic Fellows ML Systems) filed. 5 listings added below threshold. History: 2,362 entries. -->
+<!-- URGENT: Roadie AI Intern #371 4.2/5 — Remote, LangChain/FastAPI/RAG exact stack match. APPLY IMMEDIATELY. -->
+<!-- URGENT: Anthropic Fellows ML Systems #372 4.1/5 — $3,850/wk. DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+<!-- URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+<!-- URGENT: Anthropic Fellows AI Safety #370 4.2/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+
+### Pipeline Pending (score est. 4.2/5) — scan-v89 — REPORT FILED
+- [x] https://job-boards.greenhouse.io/roadie/jobs/8479096002 | Roadie (UPS) | AI Engineer Intern (Summer 2026) | 4.2/5 | Remote; Python/FastAPI/LangChain/LangGraph/RAG/pgvector/FAISS/AWS; UPS subsidiary; exact stack match to Finch; see report #357
+
+### Pipeline Pending (score est. 4.1/5) — scan-v89 — ⚠️ DEADLINE APRIL 26 — REPORT FILED
+- [x] https://job-boards.greenhouse.io/anthropic/jobs/5183051008 | Anthropic | Anthropic Fellows — ML Systems & Performance | 4.1/5 | $3,850/wk + $15K/month compute; 4-month fellowship Jul 2026; SF/London/Toronto/Remote; HPC gap but strong ML eng match; DEADLINE APRIL 26; see report #358
+
+### Pipeline Pending (score est. ~3.9/5) — scan-v89 — ⚠️ DEADLINE APRIL 26
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5183044008 | Anthropic | Anthropic Fellows — AI Safety (new listing, different from #370) | ~3.9/5 | Same $3,850/wk structure; DEADLINE APRIL 26; separate ID from existing 5023394008; confirm vs. #370 before applying
+
+### Pipeline Pending (score est. ~3.7/5) — scan-v89
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7792962 | Cloudflare | Solutions Engineer - Intern (Summer & Fall 2026) | ~3.7/5 | Austin TX in-person; July-December 2026 (6 months); DNS/HTTP/TLS + Cloudflare ecosystem; Carlos uses Workers/Pages; customer-facing role; Austin accessible from College Station
+
+### Pipeline Pending (score est. ~3.6/5) — scan-v89 — ⚠️ DEADLINE APRIL 26
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5183052008 | Anthropic | Anthropic Fellows — Reinforcement Learning | ~3.6/5 | $3,850/wk; LLM training/evaluation focus; Carlos lacks RL training exp; DEADLINE APRIL 26; consider if applying to other Anthropic tracks
+
+### Pipeline Pending (score est. ~3.5/5) — scan-v89
+- [ ] https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90 | Notion | Software Engineer Intern (Fall 2026) | ~3.5/5 | Fall start (Sep/Oct 2026); separate from existing summer listings; may conflict with fall semester; SF; Notion product + AI focus; apply if open to fall co-op
+
 <!-- === NEW 2026-04-16 SCAN v88 (Autonomous Agent — comprehensive freshness sweep v88: 30+ WebSearch queries across Ashby/Greenhouse/Lever/Microsoft/Workday portals; SimplifyJobs Summer+NewGrad (all dup v86-v87); SpeedyApply AI (all dup); Greenhouse APIs (503 unavailable); Cohere/ElevenLabs/LangChain/Pinecone Ashby boards (all dup); Mistral/W&B Lever boards; company-specific checks (Sigma Computing, Whatnot, Microsoft, Databricks, Cloudflare, Together AI); KEY FINDINGS: 6 new URLs — Microsoft Applied AI/ML Intern Redmond $5.6-11K/month ~3.8/5; Whatnot 2026 New Grad SWE SF/LA/NYC $140-150K ~3.7/5; Microsoft AI/ML Intern Redmond ~3.7/5; Sigma Computing SWE Intern SF ~3.4/5; Mistral Security Eng Paris FTE skipped; Mistral Offensive Security Paris FTE skipped; 0 listings scored >=4.0; history now 2,345 entries; URGENT: Anthropic Fellows AI Security 4.7/5 DEADLINE APRIL 26) === -->
 <!-- 4 new URLs added to pipeline (all below 4.0 threshold), 2 skipped (Paris FTE). 0 scored >=4.0. History: 2,345 entries. -->
 <!-- URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->

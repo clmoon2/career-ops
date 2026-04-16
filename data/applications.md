@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 372 | 2026-04-16 | Anthropic (Fellows) | Anthropic Fellows — ML Systems & Performance | 4.1/5 | Evaluada | ❌ | [372](reports/358-anthropic-fellows-ml-systems-2026-04-16.md) | $3,850/wk + $15K/mo compute; 4-month July 2026; DEADLINE APRIL 26; HPC gap but strong ML eng match; different track from #370 AI Safety |
+| 371 | 2026-04-16 | Roadie (UPS) | AI Engineer Intern | 4.2/5 | Evaluada | ❌ | [371](reports/357-roadie-ai-engineer-intern-2026-04-16.md) | Remote; LangChain/FastAPI/RAG exact stack match; UPS parent; apply immediately |
 | 370 | 2026-04-10 | Anthropic | Anthropic Fellows Program — AI Safety | 4.2/5 | Evaluada | ❌ | [370](reports/292-anthropic-fellows-ai-safety-2026-04-10.md) | ⚠️ DEADLINE APRIL 26! $3,850/wk + $15K/mo compute; 4-month Jul 20 start; adversarial LLM testing = AI safety red-teaming match; APPLY IMMEDIATELY — different track from AI Security (#246) |
 | 368 | 2026-04-16 | PDT Partners | Summer 2026 Software Engineering Internship | 4.0/5 | Evaluada | ❌ | [368](reports/368-pdt-partners-swe-intern-2026-04-16.md) | $180K annualized; NYC in-person 10wks Jun-Aug; quant trading system (Bloomberg/Alpaca/vectorbt) = exact proof point; ⚠️ verify graduation year (requires FTE eligible 2027-2028) |
 | 369 | 2026-04-16 | Databricks | Software Engineering Intern (2026) | 4.1/5 | Evaluada | ❌ | [369](reports/369-databricks-swe-intern-2026-04-16.md) | $115-139K; Mountain View CA; multi-track (backend/AI/infra/ML); Finch multi-model AI pipeline = direct Databricks use case; verify grad window Fall 2026-Spring 2027 |
