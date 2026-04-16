@@ -1,96 +1,79 @@
-# Portal Scan Summary — 2026-04-16 (v92)
+# Portal Scan Summary — 2026-04-16 (Scan v93)
 
-**Scan type:** Deep discovery sweep — companies NOT previously in portals.yml  
-**Focus:** Workable/Ashby boards not previously checked; Greenhouse APIs for fintech/security companies; SimplifyJobs 0d new-grad; David AI discovery  
-**Run by:** Autonomous agent (career-ops v92)
+## Overview
 
----
-
-## Stats
-
-| Metric | Count |
+| Metric | Value |
 |--------|-------|
-| Portals / sources checked | 18 |
-| Companies scanned | 20+ |
-| Total URLs evaluated | 12 |
-| New listings added to pipeline | 4 |
-| Skipped (below threshold / no intern) | 8 |
-| Scored ≥ 4.0 | 1 |
-| Reports filed | 1 |
-| Scan history entries (cumulative) | ~2,416 |
+| Date | 2026-04-16 |
+| Scan run | v93 (autonomous agent) |
+| Portals / companies checked | 30+ |
+| Total URLs in history (cumulative) | 2,427 |
+| New URLs found this run | 6 |
+| Scored ≥4.0 (report filed) | **0** |
+| Scored ≥3.5 (pipeline added) | 0 |
+| Scored 3.0-3.4 (pipeline noted) | 1 (Equinix GTM Dallas ~3.3/5) |
+| Skipped (below threshold/wrong location) | 5 |
 
----
+## Companies / Portals Scanned This Run
 
-## New Listings Found
+**Greenhouse APIs (direct):** Anthropic, Airtable, Vercel, Temporal, Arize AI, Glean, Hume AI, Scale AI, Zeta Global
 
-### ⭐ Scored ≥ 4.0 — Report Filed
+**Ashby:** Poshmark, Cohere (freshness check), Notion (freshness check)
 
-| # | Company | Role | Score | URL | Notes |
-|---|---------|------|-------|-----|-------|
-| 374 | **Hugging Face** | ML Research Engineer Internship, GUI Agents | **4.0/5** | https://apply.workable.com/huggingface/j/E617888620 | US Remote; screen-capture GUI agents; Carlos's interview assistant + automation engine = direct match; see report |
+**Lever:** Palantir, Best Egg, Saronic, Shield AI, Rigetti, Field AI, Center for AI Safety
 
-### Added to Pipeline (3.5–3.9/5)
+**Workday/Other:** Equinix GTM Intern Dallas, GDIT Remote AI/ML, McAfee Frisco TX, NIO San Jose, LivaNova Houston, BlackSky Herndon
 
-| Company | Role | Score | URL | Notes |
-|---------|------|-------|-----|-------|
-| Hugging Face | ML Research Engineer Internship, Agent AI | ~3.8/5 | https://apply.workable.com/huggingface/j/0ACFC9C229 | US Remote; agentic code-reasoning agents; multi-agent pipeline match; apply alongside GUI Agents |
-| Hugging Face | ML Research Engineer Internship, Multimodal | ~3.5/5 | https://apply.workable.com/huggingface/j/423E512A62 | US Remote; VLMs; partial computer vision match |
-| David AI | Software Engineer Internship (Summer 2026) | ~3.5/5 | https://jobs.ashbyhq.com/david-ai/2e695e9c-411c-4cff-bc64-b536dc6e3b82 | SF; ex-Scale AI team; $25M Series A; audio data research |
+**Workable:** DataVisor (Vancouver), Pathway AI (Palo Alto)
 
-### Skipped (below threshold)
+**Aggregators:** SimplifyJobs Summer2026 Internships, SimplifyJobs New-Grad Positions, SpeedyApply 2026-AI-College-Jobs (top 30 entries)
 
-| Company | Role | Score | Reason |
-|---------|------|-------|--------|
-| Hugging Face | ML Research Engineer Internship, Post-Training | ~2.8/5 | Requires RL/fine-tuning expertise Carlos lacks |
-| Hugging Face | ML Research Engineer Internship, Speech Recognition | ~2.5/5 | Deep ASR research required |
-| Stripe | SWE Intern | N/A | No SWE intern program found |
-| Brex | SWE Intern | N/A | No intern program found |
-| MongoDB | SWE Intern | N/A | No SWE intern/new grad roles |
-| SimplifyJobs 0d Summer | ScentAir/Arrcus/Canon/Jabil | <3.0/5 | Hardware/networking/manufacturing domains |
-| SimplifyJobs 0d New-Grad | Illumina/BAE/Abbott/Medtronic | <3.0/5 | Wrong location, defense/medical domains |
+**WebSearch queries (20+):** SWE internships (Greenhouse/Ashby/Lever), security internships, AI/ML internships, new grad roles, FAANG status check, consulting internships (Deloitte/Accenture/EY), Ramp/Linear/Rippling/Snowflake/Anduril freshness check
 
----
+## New Listings Found (6 total)
 
-## Top Match Summary: Hugging Face GUI Agents (4.0/5)
+| # | Company | Role | Location | Score | Action |
+|---|---------|------|----------|-------|--------|
+| 1 | Equinix | GTM Engineering Intern - Customer Success & Agentic AI | Dallas TX | ~3.3/5 | Added to pipeline |
+| 2 | Zeta Global | Software Engineer Intern - Intelligence & Forecasting | San Francisco CA | ~3.0/5 | Skipped (low comp $23/hr, marketing domain) |
+| 3 | Poshmark | AI/ML Engineering Intern (Summer 2026) | Redwood City CA | ~3.0/5 | Skipped (e-commerce domain, Bay Area relocation) |
+| 4 | GDIT | 2026 Summer AI/ML Internship | Remote | ~2.8/5 | Skipped (defense contractor, gov domain) |
+| 5 | DataVisor | Backend SWE Internship Spring/Summer 2026 | Vancouver, Canada | ~2.5/5 | Skipped (Canada-based, Java/Spring required) |
+| 6 | Pathway AI | ML/AI Software Engineering Internship | Palo Alto CA | ~2.0/5 | Skipped (requires ICPC finalist/published research) |
 
-**Why it scores 4.0:**
-1. Role: build agents that take screen recordings from any GUI and control via mouse/keyboard
-2. Carlos built exactly this: Real-Time Interview Assistant (screen OCR, OS-level display affinity APIs, async screen pipeline) + Application Automation Engine (computer vision recovery across 50+ ATS platforms)
-3. Additional match: multi-agent orchestration (AutoGen + LangChain + LangGraph in TidalHack/Finch), inference pipeline orchestration
-4. HF is fully US Remote; open-source culture aligns with Carlos's OSS contributions
-5. Gap: model fine-tuning/training (PyTorch/H100) — but inference orchestration half of the role is Carlos's strength
+## Top Match: Equinix GTM Engineering Intern — ~3.3/5
 
-**Application angle:** Lead with Real-Time Interview Assistant screen capture + OS display API + computer vision — this is the exact engineering problem HF wants to solve at the model level.
+- **URL:** https://equinix.wd1.myworkdayjobs.com/en-US/external/job/Dallas-Infomart-Office-DAI/GTM-Engineering-Intern--Customer-Success---Agentic-AI-_JR-160091
+- **Location:** Dallas TX (Infomart office, in-person) — ~4 hours from College Station
+- **Company:** Equinix (NYSE: EQIX), Fortune 500, $8.7B revenue, #1 data center globally
+- **Focus:** Agentic AI automation for customer success workflows; GTM engineering tooling
+- **Carlos fit:** Multi-agent pipeline experience (AutoGen, LangChain, LangGraph); production Python/FastAPI; tech consulting-adjacent archetype
+- **Why below 4.0:** Data center/infrastructure domain (not primary); GTM = sales-adjacent; comp unknown (estimate $35-45/hr based on other Equinix intern roles)
+- **Action:** Verify it's still open and comp is acceptable, then apply
 
----
+## ⚠️ URGENT REMINDERS — Deadlines This Week
 
-## Urgent Actions (Existing Pipeline)
+> **DEADLINE APRIL 26 (10 days):**
+> - Anthropic Fellows — AI Safety #246 **(4.7/5)** → apply immediately
+> - Anthropic Fellows — AI Safety #370 **(4.2/5)** → apply immediately
+> - Anthropic Fellows — ML Systems & Performance #372 **(4.1/5)** → apply immediately
 
-⚠️ **DEADLINE APRIL 26** — 10 days remaining:
+> **No deadline but apply ASAP:**
+> - Roadie AI Engineer Intern #371 **(4.2/5)** — Remote, LangChain/FastAPI exact stack
+> - Hugging Face GUI Agents Intern #374 **(4.0/5)** — Remote, screen-agent engineering match
+> - Databricks SWE Intern #369 **(4.1/5)** — Mountain View CA
+> - PDT Partners SWE Intern #368 **(4.0/5)** — NYC, quant trading proof point
 
-| Priority | Role | Score | Action |
-|----------|------|-------|--------|
-| 🔴 1 | Anthropic Fellows — AI Security (#246) | 4.7/5 | **APPLY TODAY** |
-| 🔴 2 | Anthropic Fellows — AI Safety (#370) | 4.2/5 | **APPLY TODAY** |
-| 🔴 3 | Anthropic Fellows — ML Systems (#372) | 4.1/5 | **APPLY TODAY** |
-| 🟡 4 | Roadie AI Engineer Intern (#371) | 4.2/5 | Apply this week — no stated deadline |
-| 🟢 5 | HF GUI Agents (#374, NEW) | 4.0/5 | Apply this week — no stated deadline |
+## Pipeline Saturation Assessment
 
----
+After 93 autonomous scan runs, the pipeline is comprehensively saturated. All major job boards (Greenhouse, Ashby, Lever, Workday, Workable), aggregators (SimplifyJobs, SpeedyApply), and 40+ individual companies have been checked. Summer 2026 internship season is mid-cycle — most roles were posted in January–March 2026.
 
-## Recommended Next Actions
+**Recommended next actions:**
+1. **IMMEDIATE (10 days):** Apply to all 3 Anthropic Fellows tracks before April 26 deadline
+2. **ASAP:** Apply to Roadie + Hugging Face + Databricks + PDT Partners
+3. **Optional:** Evaluate Equinix GTM Dallas if open + comp acceptable
+4. **Shift focus:** From scanning to applications — quality > volume
 
-1. **TODAY**: Apply to all 3 Anthropic Fellows tracks (AI Security + AI Safety + ML Systems) — deadline April 26
-2. **This week**: Apply to Roadie AI Engineer Intern (remote, exact stack match)
-3. **This week**: Apply to HF GUI Agents — fresh listing, strong profile match
-4. **Optionally**: Apply to HF Agent AI alongside GUI Agents (same company, different track)
-5. Run `/career-ops pipeline` to process remaining pending URLs from the pipeline backlog
+## Methodology (v93)
 
----
-
-## Notes for Next Scan
-
-- Pipeline is very saturated (2,416+ history entries); v90-v92 found <10 new URLs each
-- Recommend running next scan after April 26 (Anthropic deadlines) to focus on post-deadline opportunities
-- New companies to watch: David AI (growing fast, audio AI), Liquid AI (MIT spinoff, NYC)
-- Hugging Face has rotating internship tracks — check Workable board monthly for new tracks
+Checked 30+ companies via Greenhouse APIs, Ashby direct, Lever direct, Workday search, Workable search, and 20+ WebSearch queries. Cross-referenced all findings against 2,421 pre-existing scan history entries. Dedup confirmed: all major companies and portals exhausted.

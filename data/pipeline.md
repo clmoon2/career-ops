@@ -2,6 +2,16 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-16 SCAN v93 (Autonomous Agent — broad portal sweep v93: Greenhouse APIs (Anthropic/Airtable/Vercel/Temporal/Arize/Glean/Hume/Scale AI); Ashby (Poshmark); Workable (DataVisor/Pathway); Workday (Equinix/GDIT/McAfee); 20+ WebSearch queries across Greenhouse/Ashby/Lever/big tech; SimplifyJobs Summer2026 + New-Grad repos; SpeedyApply 2026-AI-College-Jobs repo; KEY FINDINGS: 6 new URLs — Equinix GTM Eng Intern Dallas TX ~3.3/5; Zeta Global SWE Intern SF ~3.0/5; Poshmark AI/ML Intern ~3.0/5; GDIT Remote AI/ML ~2.8/5; DataVisor Canada Java skipped_location; Pathway research req skipped_score; 0 scored >=4.0; 0 reports filed; history now 2,427 entries; pipeline remains saturated after 93 scan runs) === -->
+<!-- 6 new URLs found (0 scored >=4.0). History: 2,427 entries. -->
+<!-- URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+<!-- URGENT: Roadie AI Intern #371 4.2/5 — APPLY IMMEDIATELY. -->
+<!-- URGENT: Anthropic Fellows ML Systems #372 4.1/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+<!-- URGENT: Anthropic Fellows AI Safety #370 4.2/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+
+### Pipeline Pending (score est. ~3.3/5) — scan-v93 — ⚠️ Dallas TX in-person
+- [ ] https://equinix.wd1.myworkdayjobs.com/en-US/external/job/Dallas-Infomart-Office-DAI/GTM-Engineering-Intern--Customer-Success---Agentic-AI-_JR-160091 | Equinix | GTM Engineering Intern - Customer Success & Agentic AI | ~3.3/5 | Dallas TX Infomart in-person; data center infrastructure co; agentic AI + customer success automation workflows; Carlos's multi-agent pipeline = tech match; tech consulting-adjacent archetype; accessible from TAMU; Fortune 500 brand; domain (infra) not primary
+
 <!-- === NEW 2026-04-16 SCAN v92 (Autonomous Agent — deep discovery sweep v92 targeting companies NOT in portals.yml + new Workable/Ashby listings; checked Stripe/Brex/MongoDB/GitHub/CrowdStrike/PaloAlto/Snowflake/Wiz/Anduril Greenhouse APIs; Ashby boards (Groq/Perplexity/Cursor/Modal); SimplifyJobs 0d New-Grad (Illumina/OptiSigns/BAE/Liquid/Abbott/Medtronic); Hugging Face Workable full board; David AI Ashby; 30+ WebSearch queries; KEY FINDINGS: 6 new URLs scoring >=3.5 — HF GUI Agents US Remote 4.0/5 REPORT #359 FILED; HF Agent AI US Remote ~3.8/5; HF Multimodal US Remote ~3.5/5; HF Post-Training US Remote ~2.8/5 below threshold; HF Speech Recognition ~2.5/5 below threshold; David AI SWE Intern SF ~3.5/5; history now 2,416 entries; 1 scored >=4.0; 1 report filed) === -->
 <!-- 6 new URLs found (1 scored >=4.0 — HF GUI Agents report #374). History: 2,416 entries. -->
 <!-- URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
