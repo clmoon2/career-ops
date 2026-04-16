@@ -2,6 +2,25 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-16 SCAN v92 (Autonomous Agent — deep discovery sweep v92 targeting companies NOT in portals.yml + new Workable/Ashby listings; checked Stripe/Brex/MongoDB/GitHub/CrowdStrike/PaloAlto/Snowflake/Wiz/Anduril Greenhouse APIs; Ashby boards (Groq/Perplexity/Cursor/Modal); SimplifyJobs 0d New-Grad (Illumina/OptiSigns/BAE/Liquid/Abbott/Medtronic); Hugging Face Workable full board; David AI Ashby; 30+ WebSearch queries; KEY FINDINGS: 6 new URLs scoring >=3.5 — HF GUI Agents US Remote 4.0/5 REPORT #359 FILED; HF Agent AI US Remote ~3.8/5; HF Multimodal US Remote ~3.5/5; HF Post-Training US Remote ~2.8/5 below threshold; HF Speech Recognition ~2.5/5 below threshold; David AI SWE Intern SF ~3.5/5; history now 2,416 entries; 1 scored >=4.0; 1 report filed) === -->
+<!-- 6 new URLs found (1 scored >=4.0 — HF GUI Agents report #374). History: 2,416 entries. -->
+<!-- URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+<!-- URGENT: Roadie AI Intern #371 4.2/5 — APPLY IMMEDIATELY. -->
+<!-- URGENT: Anthropic Fellows ML Systems #372 4.1/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+<!-- URGENT: Anthropic Fellows AI Safety #370 4.2/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+
+### ⭐ Evaluated (score 4.0/5) — scan-v92 — REPORT FILED
+- [x] https://apply.workable.com/huggingface/j/E617888620 | Hugging Face | ML Research Engineer Internship, GUI Agents | **4.0/5** → report #374 | US Remote; agents that take screen recordings + act through mouse/keyboard; Carlos's Real-Time Interview Assistant (screen OCR, OS display APIs) + Application Automation Engine (CV recovery, 50+ platforms) + multi-agent orchestration = direct match; fine-tuning gap; see report
+
+### Pipeline Pending (score est. ~3.8/5) — scan-v92 — ⭐ STRONG AI company
+- [ ] https://apply.workable.com/huggingface/j/0ACFC9C229 | Hugging Face | ML Research Engineer Internship, Agent AI | ~3.8/5 | US Remote; agents that reason over data using code; full agent stack from datasets to training to inference orchestration; Carlos's multi-agent pipeline (AutoGen, LangChain, LangGraph), Finch 7-stage agentic pipeline = strong engineering match; gap: model fine-tuning/training recipes + PyTorch depth; apply alongside GUI Agents
+
+### Pipeline Pending (score est. ~3.5/5) — scan-v92
+- [ ] https://apply.workable.com/huggingface/j/423E512A62 | Hugging Face | ML Research Engineer Internship, Multimodal | ~3.5/5 | US Remote; VLMs + image-text models; Carlos has computer vision (OpenAI Vision API, EasyOCR) but lacks VLM research background; apply if targeting HF broadly
+
+### Pipeline Pending (score est. ~3.5/5) — scan-v92
+- [ ] https://jobs.ashbyhq.com/david-ai/2e695e9c-411c-4cff-bc64-b536dc6e3b82 | David AI | Software Engineer Internship (Summer 2026) | ~3.5/5 | SF in-person; audio data research company; ex-Scale AI founders; $25M Series A (Jack Altman/Amplify/First Round); FAANG + AI labs as customers; SWE internship building data pipelines + engineering infra; Carlos's production Python + multi-model pipeline experience relevant; domain (audio data) is secondary; SF relocation required
+
 <!-- === NEW 2026-04-16 SCAN v91 (Autonomous Agent — broad discovery sweep v91: 30+ WebSearch queries across ALL major portals + companies not in portals.yml; SimplifyJobs 0d/1d entries; SpeedyApply AI/SWE repos; YC internships; new security companies (Wiz/Snyk/Abnormal/Obsidian/Delinea); fintech (Stripe/Ramp/Brex/Plaid); new AI companies (Harvey/Groq/Perplexity/Cursor/Codeium/Modal/CoreWeave); defense tech (Anduril/Shield AI); Greenhouse APIs (Cloudflare/Verkada); KEY FINDINGS: 7 new URLs — Kong SWE Intern AI Gateway ~3.5/5 location unclear; Kong SWE Intern Gateway ~3.3/5; Kong SWE Intern General ~3.2/5; 8VC/Thorin SWE Intern SF ~3.4/5 potentially closed; Back Market Backend Intern ~2.8/5 below threshold; Sigma Security Grad Intern skipped (Master's req); Leidos Remote Intern skipped (defense/clearance); 0 scored >=4.0; 0 reports filed; history now 2,410 entries; PIPELINE CONFIRMED SATURATED — all major companies exhausted through v91; URGENT REMINDERS: Anthropic Fellows AI Security #246 4.7/5 DEADLINE APRIL 26; Roadie AI Intern #371 4.2/5 APPLY NOW; Anthropic Fellows ML Systems #372 4.1/5 DEADLINE APRIL 26) === -->
 <!-- 7 new URLs found (0 scored >=4.0). Kong internships added for review. Pipeline fully saturated. History: 2,410 entries. -->
 <!-- URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
