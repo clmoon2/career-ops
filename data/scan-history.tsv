@@ -2370,3 +2370,34 @@ https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90	2026-04-16	
 https://careers.google.com/jobs/results/114944217771320006-software-engineering-bsms-intern/	2026-04-16	scan-v89-websearch	Google Software Engineering BS/MS Intern 2026 — Zurich/Taiwan locations; not US-based; skip	Google	skipped_score
 https://www.amazon.jobs/en/jobs/3116030	2026-04-16	scan-v89-websearch	Amazon SWE Internship Summer 2026 — likely already in history from earlier scans; confirm before applying; large application process	Amazon	skipped_dup
 https://rakuten.wd1.myworkdayjobs.com/en-US/rakutenadvertising/job/San-Mateo-California/Intern---AI-Engineer_1031662-2	2026-04-16	scan-v60-evaluation	Intern AI Engineer — San Mateo CA; 5-50/hr; multi-agent AI/LLM; 4.2/5 — EVALUATED report #373; upgraded from ~3.0/5 (v86)	Rakuten Advertising	evaluated
+https://jobs.ashbyhq.com/deepgram	2026-04-16	scan-v90-ashby	(Deepgram: no intern roles found; all senior FTE; confirmed dup from v61)	Deepgram	skipped_dup
+https://jobs.ashbyhq.com/vapi	2026-04-16	scan-v90-ashby	(Vapi: SWE Intern a2ab3304 + New Grad 3613e24a + Product SWE ad7d62f7 + Infra/Security 51de69e3 all confirmed dup from v7-v60)	Vapi	skipped_dup
+https://jobs.ashbyhq.com/bland	2026-04-16	scan-v90-ashby	(Bland AI: all roles confirmed dup from v7-v50; no new intern listings)	Bland AI	skipped_dup
+https://job-boards.eu.greenhouse.io/polyai	2026-04-16	scan-v90-greenhouse-eu	(PolyAI: 503 error on EU Greenhouse board; no parseable roles)	PolyAI	skipped_dup
+https://job-boards.eu.greenhouse.io/parloa	2026-04-16	scan-v90-greenhouse-eu	(Parloa: 503 error on EU Greenhouse board; Germany-based; no US intern roles)	Parloa	skipped_dup
+https://retool.com/careers	2026-04-16	scan-v90-websearch	(Retool: no intern 2026 roles found; all senior FTE SF-based)	Retool	skipped_no_intern
+https://job-boards.greenhouse.io/ada18	2026-04-16	scan-v90-greenhouse	(Ada: SWE Intern 5063079007 + DevOps Intern 5044605007 confirmed dup from v7; Canada-remote only)	Ada	skipped_dup
+https://www.liveperson.com/company/careers	2026-04-16	scan-v90-websearch	(LivePerson: no intern roles found for 2026)	LivePerson	skipped_no_intern
+https://jobs.ashbyhq.com/sierra	2026-04-16	scan-v90-ashby	(Sierra: Intern Agent Dev Summer 8bb2509d + Fall + APX New Grad 9738d0f0 all confirmed dup from v7-v75)	Sierra	skipped_dup
+https://job-boards.greenhouse.io/talkdesk2/jobs/7257097	2026-04-16	scan-v90-greenhouse	(Talkdesk FDE: 3+ years exp required; not intern-level; skipped)	Talkdesk	skipped_title
+https://www.twilio.com/en-us/company/jobs	2026-04-16	scan-v90-websearch	(Twilio: SWE Intern Greenhouse 7560246 found; January start 6-month only; no Summer 2026 intern; confirmed past deadline)	Twilio	skipped_no_intern
+https://dialpad.com/careers	2026-04-16	scan-v90-websearch	(Dialpad: all co-op roles Canada-based Jan 2026 start; SWE Intern 7720522002 already in history; no new Summer 2026 roles)	Dialpad	skipped_dup
+https://www.gong.io/careers	2026-04-16	scan-v90-websearch	(Gong: no intern/new grad roles confirmed again; all senior FTE)	Gong	skipped_no_intern
+https://www.genesys.com/company/careers	2026-04-16	scan-v90-websearch	(Genesys: 2026 interns are Galway Ireland + Budapest Hungary only; no US positions; confirmed dup from v32/v52)	Genesys	skipped_title
+https://jobs.ashbyhq.com/n8n	2026-04-16	scan-v90-ashby	(n8n: no internship listings confirmed dup from v60/v84)	n8n	skipped_dup
+https://jobs.ashbyhq.com/zapier	2026-04-16	scan-v90-ashby	(Zapier: no internship listings confirmed dup from v60/v84)	Zapier	skipped_dup
+https://www.make.com/en/careers	2026-04-16	scan-v90-websearch	(Make.com: no US intern roles; Prague-based; confirmed dup from v8)	Make.com	skipped_dup
+https://careers.cognigy.com	2026-04-16	scan-v90-websearch	(Cognigy: no intern roles; all mid-senior FTE; confirmed dup from v65)	Cognigy	skipped_dup
+https://www.speechmatics.com/company/careers	2026-04-16	scan-v90-websearch	(Speechmatics: Cambridge UK only; no US intern program; confirmed dup from v65)	Speechmatics	skipped_dup
+https://langfuse.com/careers	2026-04-16	scan-v90-websearch	(Langfuse: Berlin-based startup; no intern roles; confirmed dup from v8)	Langfuse	skipped_dup
+https://jobs.ashbyhq.com/lindy	2026-04-16	scan-v90-ashby	(Lindy: intern roles all confirmed dup from v27-v50; no new listings)	Lindy	skipped_dup
+https://jobs.ashbyhq.com/attio	2026-04-16	scan-v90-ashby	(Attio: senior EU roles only; no intern/new grad; confirmed dup from v7-v50)	Attio	skipped_dup
+https://jobs.ashbyhq.com/tinybird	2026-04-16	scan-v90-ashby	(Tinybird: JS-only page; no intern roles parseable; confirmed dup from v7-v56)	Tinybird	skipped_dup
+https://jobs.lever.co/clarity-ai	2026-04-16	scan-v90-lever	(Clarity AI: no matching roles found; confirmed dup from v7-v56)	Clarity AI	skipped_dup
+https://jobs.ashbyhq.com/travelperk	2026-04-16	scan-v90-ashby	(TravelPerk: no intern/new grad roles; confirmed dup from v7-v50)	TravelPerk	skipped_dup
+https://job-boards.greenhouse.io/factorial	2026-04-16	scan-v90-greenhouse	(Factorial: Barcelona-based; no US intern roles; confirmed dup from v8)	Factorial	skipped_dup
+https://jobs.bytedance.com/en/students	2026-04-16	scan-v90-websearch	(ByteDance: AI Platform 7537377558908963090 + Security Network 7600201731980675333 + AML-MLsys 7539711579525630216 all in history from v53-v72; no new US roles)	ByteDance	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/temporal/jobs	2026-04-16	scan-v90-greenhouse-api	(Temporal: 0 jobs — board empty confirmed again from v59/v72/v75/v81/v84)	Temporal	skipped_dup
+https://jobs.ashbyhq.com/langchain	2026-04-16	scan-v90-ashby	(LangChain: no intern/new grad roles; Deployed Engineer FTE only; confirmed dup from v61/v84)	LangChain	skipped_dup
+https://jobs.ashbyhq.com/pinecone	2026-04-16	scan-v90-ashby	(Pinecone: New Grad SWE + Intern Science NYC all confirmed dup from v7/v84)	Pinecone	skipped_dup
+https://jobs.ashbyhq.com/elevenlabs	2026-04-16	scan-v90-ashby	(ElevenLabs: Impact Program + FDE Recent Grad + Marketing Intern all confirmed dup from v7-v85; no new roles)	ElevenLabs	skipped_dup
