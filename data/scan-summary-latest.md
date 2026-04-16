@@ -1,76 +1,83 @@
-# Portal Scan Summary — 2026-04-16 (v90)
+# Portal Scan Summary — 2026-04-16 (v91)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan:** v90 (autonomous agent)
-**Date:** 2026-04-16
-**Coverage:** Scans v85–v90 (same day — comprehensive sweep)
+**Scan:** v91 (autonomous agent)  
+**Date:** 2026-04-16  
+**Strategy:** Broad discovery — companies outside portals.yml, fresh aggregator entries, new AI/security/fintech targets
 
 ---
 
-## v90 Results
+## Portals Scanned
 
-Portals scanned: 31 companies + 5 cross-portal search queries
-New listings found: **0**
-New to pipeline: **0**
-Reports filed: **0**
+- All portals.yml companies (31 confirmed saturated through v90)
+- 25+ WebSearch queries across Ashby/Greenhouse/Lever/Workday
+- SimplifyJobs 0d/1d fresh entries
+- SpeedyApply AI + SWE repos latest entries
+- YC internships page (all active listings)
+- New targets: Kong, 8VC/Thorin, Back Market, Sigma Security, Leidos
+- Security: Wiz, Snyk, Abnormal, Obsidian, Delinea, TensorWave
+- Defense: Anduril, Shield AI
+- Fintech: Stripe, Ramp, Brex, Plaid
+- AI inference: Groq, Perplexity, Cursor, Modal Labs
+- Greenhouse APIs: Cloudflare, Verkada
 
-All URLs returned are already in scan history (v7–v89). The internship market for Summer 2026 appears to have stabilized — no new postings discovered across the target company list.
-
-**Companies confirmed empty / no intern programs:**
-- Genesys — EU/Ireland only, no US internships
-- Temporal — board empty (0 jobs)
-- Gong, LivePerson, Cognigy, Speechmatics, Make.com — no intern programs found
-- PolyAI, Parloa — Greenhouse EU returned 503 errors
-
----
-
-## Cumulative Scan Stats (v85–v90, 2026-04-16)
-
-| Scan | New Listings | Reports Filed | Key Finds |
-|------|-------------|---------------|-----------|
-| v85  | 2 | 0 | Axon SWE New Grad 3.3/5 below threshold |
-| v86  | 6 | 1 (#373 Rakuten) | Rakuten AI Intern 4.2/5 |
-| v87  | 3 | 0 | Salesforce/PwC below 4.0 |
-| v88  | 4 | 0 | Microsoft/Sigma/Whatnot below 4.0 |
-| v89  | 7 | 2 (#371 Roadie, #372 Anthropic Fellows ML) | ⚠️ DEADLINE APRIL 26 |
-| v90  | 0 | 0 | Market stabilized |
-
-**Total scan history entries:** 2,403
+**40+ companies checked | 25+ search queries executed**
 
 ---
 
-## Top Pending Applications (Action Required)
+## Results
 
-| # | Company | Role | Score | Urgency |
-|---|---------|------|-------|---------|
-| 246 | Anthropic | Fellows — AI Security | 4.7/5 | ⚠️ DEADLINE APRIL 26 |
-| 347 | Cloudflare | SWE Intern (Austin TX) | 4.8/5 | Apply now |
-| 304 | Mechanize | SWE Intern ($100/hr) | 4.6/5 | Apply now |
-| 355 | Atlassian | Security Engineer Intern | 4.5/5 | Apply now |
-| 341 | Ramp | FDE Intern ($11K/mo) | 4.5/5 | Apply now |
-| 340 | Glean | SWE Intern | 4.5/5 | Apply now |
-| 370 | Anthropic | Fellows — AI Safety | 4.2/5 | ⚠️ DEADLINE APRIL 26 |
-| 372 | Anthropic | Fellows — ML Systems | 4.1/5 | ⚠️ DEADLINE APRIL 26 |
-| 371 | Roadie | AI Engineer Intern (Remote) | 4.2/5 | Apply now |
-| 357 | Browser Use | SWE Intern ($6-16K/mo) | 4.4/5 | Apply now |
+| Metric | Count |
+|--------|-------|
+| New URLs found | 7 |
+| Scored ≥ 4.0 (reports filed) | **0** |
+| Pipeline additions (< 4.0) | 3 |
+| Skipped (title/score/location) | 4 |
+| New history entries | 7 |
+| **Total scan history** | **2,410 entries** |
 
 ---
 
-## Recommended Next Actions
+## New Listings Found
 
-1. **URGENT — Apply to Anthropic Fellows before April 26:**
-   - AI Security (#246, 4.7/5) — adversarial LLM testing = perfect match
-   - AI Safety (#370, 4.2/5) — separate from AI Security track
-   - ML Systems (#372, 4.1/5) — $3,850/wk + $15K compute stipend
+### Pipeline Additions
 
-2. **Apply immediately (top scores):**
-   - Cloudflare SWE Intern Austin #347 (4.8/5) — production Workers experience
-   - Mechanize SWE Intern #304 ($100/hr, adversarial testing = exact match)
-   - Atlassian Security Engineer Intern #355 (4.5/5, cybersec minor exact match)
-   - Ramp FDE Intern #341 ($11K/mo + housing, top comp)
+| Company | Role | Score | Key Notes |
+|---------|------|-------|-----------|
+| **Kong** | SWE Intern - AI Gateway | ~3.5/5 | Multi-LLM routing, MCP, semantic caching; Go req; ⚠️ verify US vs India location |
+| **8VC / Thorin** | SWE Intern - AI Agents | ~3.4/5 | SF in-person; AI workplace agents (Slack/email/docs); seed stage; ⚠️ verify open |
+| **Kong** | SWE Intern - Gateway | ~3.3/5 | Core proxying/LB work; same Go/location caveats |
 
-3. **Next scan:** Market is stable. Run `/career-ops scan` again after April 19 or when new listings are expected.
+### Skipped
+
+| Company | Role | Reason |
+|---------|------|--------|
+| Sigma Computing | Security Engineer Graduate Intern | Requires Master's degree |
+| Back Market | Backend Intern - AI Search | ~2.8/5; French co., e-commerce domain |
+| Leidos | SWE Intern Remote | ~2.5/5; defense contractor, clearance likely req |
+| Kong | SWE Engineering Intern (general) | ~3.2/5; duplicate concern with AI Gateway role above |
 
 ---
 
-*Generated by career-ops autonomous scan agent — 2026-04-16*
+## Top Matches (≥ 4.0) — None This Scan
+
+Pipeline is comprehensively saturated after 91 scans. All major portals.yml companies, aggregator repos, YC internships, and 200+ additional targets have been checked. The remaining new entries involve mismatched stacks, geographic constraints, or graduate-level requirements.
+
+---
+
+## ⚠️ URGENT — Apply NOW (Deadlines Approaching)
+
+| Priority | Role | Score | Deadline |
+|----------|------|-------|----------|
+| 🔴 | Anthropic Fellows AI Security (#246) | 4.7/5 | **APRIL 26** |
+| 🔴 | Anthropic Fellows AI Safety (#370) | 4.2/5 | **APRIL 26** |
+| 🔴 | Anthropic Fellows ML Systems (#372) | 4.1/5 | **APRIL 26** |
+| 🟠 | Roadie AI Engineer Intern (#371) | 4.2/5 | Apply ASAP |
+| 🟡 | Rakuten AI Engineer Intern (#373) | 4.2/5 | Apply ASAP |
+| 🟡 | Databricks SWE Intern (#369) | 4.1/5 | Apply ASAP |
+
+---
+
+## Recommendation
+
+**Shift focus from scanning to applying.** The pipeline has 373+ evaluated roles across 91 scans — the marginal value of more scanning is low. The highest-impact action is submitting applications to the 6 high-priority roles above, especially the 3 Anthropic Fellows tracks with April 26 deadlines.

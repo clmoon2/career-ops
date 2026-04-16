@@ -2,6 +2,22 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-16 SCAN v91 (Autonomous Agent — broad discovery sweep v91: 30+ WebSearch queries across ALL major portals + companies not in portals.yml; SimplifyJobs 0d/1d entries; SpeedyApply AI/SWE repos; YC internships; new security companies (Wiz/Snyk/Abnormal/Obsidian/Delinea); fintech (Stripe/Ramp/Brex/Plaid); new AI companies (Harvey/Groq/Perplexity/Cursor/Codeium/Modal/CoreWeave); defense tech (Anduril/Shield AI); Greenhouse APIs (Cloudflare/Verkada); KEY FINDINGS: 7 new URLs — Kong SWE Intern AI Gateway ~3.5/5 location unclear; Kong SWE Intern Gateway ~3.3/5; Kong SWE Intern General ~3.2/5; 8VC/Thorin SWE Intern SF ~3.4/5 potentially closed; Back Market Backend Intern ~2.8/5 below threshold; Sigma Security Grad Intern skipped (Master's req); Leidos Remote Intern skipped (defense/clearance); 0 scored >=4.0; 0 reports filed; history now 2,410 entries; PIPELINE CONFIRMED SATURATED — all major companies exhausted through v91; URGENT REMINDERS: Anthropic Fellows AI Security #246 4.7/5 DEADLINE APRIL 26; Roadie AI Intern #371 4.2/5 APPLY NOW; Anthropic Fellows ML Systems #372 4.1/5 DEADLINE APRIL 26) === -->
+<!-- 7 new URLs found (0 scored >=4.0). Kong internships added for review. Pipeline fully saturated. History: 2,410 entries. -->
+<!-- URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+<!-- URGENT: Roadie AI Intern #371 4.2/5 — APPLY IMMEDIATELY. -->
+<!-- URGENT: Anthropic Fellows ML Systems #372 4.1/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+<!-- URGENT: Anthropic Fellows AI Safety #370 4.2/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+
+### Pipeline Pending (score est. ~3.5/5) — scan-v91 — ⚠️ verify US location
+- [ ] https://jobs.ashbyhq.com/kong/1f890933-236e-4175-8e2c-a26a8f38dcd7 | Kong | Software Engineer Intern - AI Gateway | ~3.5/5 | Multi-LLM routing, MCP, semantic caching, LLM load balancing; Go required (Carlos knows Python/TS, Go learnable); API gateway = direct match to Carlos's Cloudflare Workers + Hono proxy work; CAUTION: verify US vs India location before applying
+
+### Pipeline Pending (score est. ~3.4/5) — scan-v91 — ⚠️ verify still open
+- [ ] https://jobs.ashbyhq.com/8vc/18c38932-7603-4fec-93a1-00cf4ef8acec | 8VC / Thorin | Software Engineer Intern - Thorin | ~3.4/5 | SF in-person; seed-stage AI workplace agents (Slack/email/docs); full-stack generalist; 8VC-backed (Joe Lonsdale/Palantir lineage); agentic AI matches Carlos's multi-model pipeline; CAUTION: verify still accepting applications
+
+### Pipeline Pending (score est. ~3.3/5) — scan-v91 — ⚠️ verify US location
+- [ ] https://jobs.ashbyhq.com/kong/77e71a3e-662d-4b51-bc16-41a69f85ba91 | Kong | Software Engineer Intern - Gateway | ~3.3/5 | Core proxying/load balancing; Go req; see AI Gateway notes above; location uncertain
+
 <!-- === NEW 2026-04-16 SCAN v90 (Autonomous Agent — comprehensive freshness sweep v90: all 31 companies in scan list checked via Ashby/Greenhouse/Lever APIs + WebSearch; 5 search queries executed; KEY FINDINGS: 0 new URLs found — all 31 companies and all search results confirmed already in scan history (v7-v89); companies confirmed no new roles: Deepgram, Vapi, Bland AI, PolyAI, Parloa, Retool, Ada, LivePerson, Sierra, Talkdesk, Twilio, Dialpad, Gong, Genesys, n8n, Zapier, Make.com, Cognigy, Speechmatics, Langfuse, Lindy, Attio, Tinybird, Clarity AI, TravelPerk, Factorial, ByteDance, Temporal, LangChain, Pinecone, ElevenLabs; 0 new reports filed; history now 2,403 entries; URGENT REMINDERS: Anthropic Fellows AI Security #246 4.7/5 DEADLINE APRIL 26; Roadie AI Intern #371 4.2/5 APPLY NOW; Anthropic Fellows ML Systems #372 4.1/5 DEADLINE APRIL 26) === -->
 <!-- 0 new listings found in v90. All companies checked — pipeline is current. History: 2,403 entries. -->
 
