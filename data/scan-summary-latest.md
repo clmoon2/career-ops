@@ -93,5 +93,20 @@ Three Anthropic Fellows tracks close April 26. Two are already evaluated:
 2. **APPLY: Anthropic Fellows ML Systems & Performance (#372) — DEADLINE APRIL 26** (new this scan, 4.1/5)
 3. **APPLY: Anthropic Fellows AI Safety (#370) — DEADLINE APRIL 26** (already evaluated, 4.2/5)
 4. **APPLY: Roadie AI Engineer Intern (#371)** — Remote, exact stack match, open deadline
-5. **REVIEW: Anthropic Fellows AI Safety (5183044008)** — confirm if same track as #370 before separate application
-6. Run `/career-ops pipeline` to process existing pending URLs
+5. **APPLY: Rakuten Advertising AI Engineer Intern (#373) — 4.2/5** — upgraded from ~3.0/5 after full analysis; $35-50/hr; multi-agent AI exact match; Bay Area relocation required
+6. **REVIEW: Anthropic Fellows AI Safety (5183044008)** — confirm if same track as #370 before separate application
+7. Run `/career-ops pipeline` to process existing pending URLs
+
+---
+
+## Addendum — Post-v89 Evaluation (2026-04-16)
+
+**Rakuten Advertising — Intern, AI Engineer** upgraded to **4.2/5** (was ~3.0/5 in v86).
+
+Full evaluation in report #373. The role is a direct match for Carlos's multi-agent AI pipeline work:
+- AI Center of Excellence building production-grade agentic workflows
+- Multi-agent systems, LLM orchestration = exact Finch pipeline architecture
+- $35-50/hr compensation (competitive for structured corporate internship)
+- San Mateo CA (Bay Area relocation required from College Station TX)
+
+Apply alongside Roadie (#371) and Anthropic Fellows before April 26 deadline.

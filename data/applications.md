@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 373 | 2026-04-16 | Rakuten Advertising | Intern, AI Engineer | 4.2/5 | Evaluated | ❌ | [373](reports/373-rakuten-advertising-ai-engineer-intern-2026-04-16.md) | Multi-agent AI systems + LLM orchestration; $35-50/hr; San Mateo CA; June-Aug 2026; AI Center of Excellence; AutoGen/LangChain/multi-model match ✓; relocation required |
 | 372 | 2026-04-16 | Anthropic (Fellows) | Anthropic Fellows — ML Systems & Performance | 4.1/5 | Evaluada | ❌ | [372](reports/358-anthropic-fellows-ml-systems-2026-04-16.md) | $3,850/wk + $15K/mo compute; 4-month July 2026; DEADLINE APRIL 26; HPC gap but strong ML eng match; different track from #370 AI Safety |
 | 371 | 2026-04-16 | Roadie (UPS) | AI Engineer Intern | 4.2/5 | Evaluada | ❌ | [371](reports/357-roadie-ai-engineer-intern-2026-04-16.md) | Remote; LangChain/FastAPI/RAG exact stack match; UPS parent; apply immediately |
 | 370 | 2026-04-10 | Anthropic | Anthropic Fellows Program — AI Safety | 4.2/5 | Evaluada | ❌ | [370](reports/292-anthropic-fellows-ai-safety-2026-04-10.md) | ⚠️ DEADLINE APRIL 26! $3,850/wk + $15K/mo compute; 4-month Jul 20 start; adversarial LLM testing = AI safety red-teaming match; APPLY IMMEDIATELY — different track from AI Security (#246) |

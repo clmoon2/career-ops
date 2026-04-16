@@ -68,8 +68,9 @@
 ### Pipeline Pending (score est. ~3.2/5) — scan-v86
 - [ ] https://jobs.ashbyhq.com/socure/e54f1700-c922-4bcc-a087-45b24717f974 | Socure | Engineering Intern - AI Agents, Data & RiskOS (Summer 2026) | ~3.2/5 | Remote USA; identity fraud AI agents; Python/Go; CAUTION: MS degree likely preferred — verify BS eligibility; LangChain/AutoGen/multi-model pipelines = tech match; fraud/identity = security-adjacent
 
-### Pipeline Pending (score est. ~3.0/5) — scan-v86
-- [ ] https://rakuten.wd1.myworkdayjobs.com/RakutenAdvertising/job/San-Mateo-California/Intern---AI-Engineer_1031662-2 | Rakuten Advertising | AI Engineer Intern (Summer 2026) | ~3.0/5 | San Mateo CA; multi-agent (LangGraph/AutoGen/CrewAI/LangChain); Carlos tech stack match; ad-tech domain; "advanced builder" positioning; Bay Area relocation
+### ⭐ Evaluated (score ≥ 4.0) — scan-v86 / upgraded scan-v60
+<!-- Re-evaluated in scan-v60 (2026-04-16) with full JD analysis: upgraded from ~3.0/5 to 4.2/5 -->
+- [x] https://rakuten.wd1.myworkdayjobs.com/RakutenAdvertising/job/San-Mateo-California/Intern---AI-Engineer_1031662-2 | Rakuten Advertising | AI Engineer Intern (Summer 2026) | **4.2/5** → report #373 | San Mateo CA; $35-50/hr; June-Aug 2026; AI Center of Excellence; multi-agent AI + LLM orchestration + agentic workflows = exact match with Finch pipeline; AutoGen ✓ LangChain ✓ 5 LLMs ✓; relocation required (TX→CA); APPLY
 
 ### Pipeline Pending (score est. ~2.8/5) — scan-v86
 - [ ] https://jobs.ashbyhq.com/socure/017556d2-e70b-41aa-8309-01337c734fd9 | Socure | Engineering Intern - DocV & Device (Summer 2026) | ~2.8/5 | Remote USA; document verification + device fingerprinting; 8wk June 15-Aug 15; non-primary ML domain
