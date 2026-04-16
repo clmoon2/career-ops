@@ -1,9 +1,9 @@
-# Portal Scan — 2026-04-16 (v87)
-━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Portal Scan Summary — 2026-04-16 (v88)
 
-**Scan version:** v87 (autonomous agent — final freshness sweep)
+**Scan ID:** v88
 **Date:** 2026-04-16
-**History size after scan:** 2,339 entries (was 2,319)
+**Agent:** Autonomous (career-ops scan agent)
+**History entries total:** 2,345
 
 ---
 
@@ -11,73 +11,102 @@
 
 | Metric | Count |
 |--------|-------|
-| WebSearch queries executed | 20+ |
-| Company career boards checked | 25+ |
-| GitHub repos scanned | 4 (SimplifyJobs Summer/NewGrad, SpeedyApply AI/SWE) |
-| Total URLs evaluated | ~80 |
-| New URLs added to history | 20 (3 new findings + 17 dup confirmations) |
-| Listings scored ≥4.0 | **0** |
-| Listings scored ≥3.5 | **1** (Salesforce Product Security ~3.7/5) |
-| Duplicates confirmed | 77+ |
+| Companies/portals scanned | 28 |
+| WebSearch queries executed | 18 |
+| Total URLs evaluated | ~56 |
+| Already in history (duplicates) | 50 |
+| New to history | 6 |
+| Added to pipeline | 4 |
+| Skipped (below threshold / Paris FTE) | 2 |
+| Scored >= 4.0 (full reports written) | 0 |
 
 ---
 
-## New Listings Found (all below 4.0 threshold)
+## Portals Scanned
 
-### ~3.7/5 — Salesforce — Summer 2026 Intern - Product Security Engineer
-**URL:** https://careers.salesforce.com/en/jobs/jr311858/summer-2026-intern-product-security-engineer/  
-**Location:** San Francisco, CA / Bellevue, WA  
-**Duration:** 12 weeks (summer 2026)  
-**Comp:** ~$49-59/hr estimated  
-**Why it matched:** Cybersecurity minor + production security impl (HMAC-SHA256/TLS/CORS/CSP/OAuth proxy/adversarial LLM testing) maps directly to role's pentesting + threat modeling + OWASP + security automation focus.  
-**Why below 4.0:** Large corp (73K employees), Java preferred, not AI-startup archetype.  
-**Verdict:** Added to pipeline. Apply if expanding security internship slate — genuine security engineering (not GRC).
+**GitHub aggregators:**
+- SimplifyJobs/Summer2026-Internships — all entries dup from v86-v87
+- SimplifyJobs/New-Grad-Positions — all entries dup from v86-v87
+- speedyapply/2026-AI-College-Jobs — all entries dup from v86-v87
 
-### ~3.1/5 — PwC — Advisory National - AI Engineering Intern (Summer 2026)
-**URL:** https://jobs-us.pwc.com/us/en/job/653906WD/Advisory-National-Commercial-Tech-Innovation-AI-Engineering-Intern-Summer-2026  
-**Location:** Rosemont, IL (Chicago) / Dallas, TX  
-**Comp:** $37-48/hr  
-**Verdict:** Tech consulting archetype match but data-science-heavy (C++/R/Scikit-Learn). Below threshold.
+**Greenhouse boards (direct/API):**
+- Anthropic API: 503 unavailable; last confirmed v86-v87 (all dup)
+- Glean: confirmed dup v87
+- Vercel: confirmed dup v87
+- Cloudflare: 7774167 in history (April 7-8), 7206269 in history
+- Databricks: all URLs in history (7640764002 + direct site)
+- Together AI: 5012785007 + 5012768007 confirmed dup
+- Sigma Computing: 7575892003 NEW; 7501718003 + 6640194003 already in history
+- Figma, Airtable, Loop, Mercury, SmithRx, Affirm: confirmed dup
 
-### ~2.5/5 — Salesforce — Product Security Risk & Operations Specialist Intern
-**URL:** https://careers.salesforce.com/en/jobs/jr317429/summer-2026-intern-product-security-risk-and-operations-specialist/  
-**Location:** SF/Seattle/Bellevue  
-**Verdict:** GRC/risk governance focus, not hands-on engineering. Below threshold.
+**Ashby boards:**
+- Cohere: Spring/Summer 2026 + ML Co-op + Research Intern all confirmed dup
+- ElevenLabs/LangChain/Pinecone: no new intern/new-grad results via WebSearch
+- Whatnot: e4cb7fcb NEW; bc8f8c7f + 8250532f confirmed in history
+- Notion, Replit, Sentry, Harvey, Farsight, Decagon, Benchling: all confirmed dup
 
----
+**Lever boards:**
+- Mistral AI: cf4616fc new grad (dup), 881941e1 FDE intern Paris (dup); 9f6e6513 security NEW (skipped-Paris FTE); 2414ad08 offensive security NEW (skipped-Paris FTE)
+- Weights & Biases: no intern roles
+- Palantir: confirmed dup v87
 
-## Top Matches Scored ≥4.0 — NONE NEW THIS SCAN
-
-Pipeline fully saturated after 87 scans. All primary portals checked exhaustively.
-
----
-
-## Portals/Companies Confirmed Saturated (this scan)
-
-Anthropic, Glean, Together AI, Cloudflare, Robinhood, Sigma Computing, Decagon, Brain Co., Handshake, Lambda, Actian, Axon, Disney, ServiceNow, SimplifyJobs Summer + NewGrad (0d entries same as v86), SpeedyApply AI (0d entries same as v86).
+**Other portals:**
+- Microsoft careers: job/1872468 Applied AI/ML Intern NEW; job/1766916 AI/ML Intern NEW
+- SimplifyJobs/defense entries: Parsons/GDMS/Leidos/RTX/SS&C — all below threshold
 
 ---
 
-## ⚠️ URGENT: Apply Before April 26 Deadline
+## New Listings Found (4 added to pipeline)
 
-1. **Anthropic Fellows — AI Security (#246)** — 4.7/5 — **DEADLINE APRIL 26**
-2. **Anthropic Fellows — AI Safety (#370)** — 4.2/5 — **DEADLINE APRIL 26**
+| # | Company | Role | Score | URL |
+|---|---------|------|-------|-----|
+| 1 | Microsoft | Software Engineer: Applied AI/ML Intern (Redmond) | ~3.8/5 | [Link](https://jobs.careers.microsoft.com/global/en/job/1872468/Software-Engineer:-Applied-AI/ML-Intern-Opportunities-for-University-Students,-Redmond) |
+| 2 | Whatnot | 2026 Software Engineer New Grad (SF/LA/NYC) | ~3.7/5 | [Link](https://jobs.ashbyhq.com/whatnot/e4cb7fcb-2bb8-4786-b848-20641f9888c3) |
+| 3 | Microsoft | Software Engineer: AI/ML Intern (Redmond) | ~3.7/5 | [Link](https://jobs.careers.microsoft.com/global/en/job/1766916/Software-Engineer:-AI/ML-Intern-Opportunities-for-University-Students,-Redmond) |
+| 4 | Sigma Computing | Software Engineering Intern Summer 2026 (SF) | ~3.4/5 | [Link](https://job-boards.greenhouse.io/sigmacomputing/jobs/7575892003) |
 
-Both require immediate action. 10 days remaining.
+**Skipped (Paris FTE, experienced hire):**
+- Mistral AI Software Engineer, Security — 2.5/5
+- Mistral AI CyberSecurity Offensive Security Engineer — 2.0/5
+
+---
+
+## Top Matches This Scan (score >= 4.0)
+
+**None.** All new listings scored below the 4.0 threshold. No full evaluation reports generated.
+
+---
+
+## URGENT — Deadline Alert
+
+> **Anthropic Fellows AI Security** (report #246, score 4.7/5) — DEADLINE **APRIL 26, 2026** (10 days).
+> **Anthropic Fellows AI Safety** (report #370, score 4.2/5) — DEADLINE **APRIL 26, 2026** (10 days).
+>
+> Run `/career-ops oferta` on reports #246 and #370 to finalize applications immediately.
+
+---
+
+## Pipeline State
+
+The pipeline is comprehensively saturated through v88 (2,345 history entries). All major portals have been checked at least 3× in the last 48 hours. Most new postings continue to be:
+
+1. Defense/government roles (below threshold for Carlos)
+2. Variant UUIDs of existing postings already in pipeline (same role, different Greenhouse/Ashby IDs)
+3. European FTE roles requiring relocation (Paris-based Mistral)
+
+**Recommended next scan interval:** 3-5 days (pipeline is saturated; daily scans have diminishing returns).
 
 ---
 
 ## Recommended Next Actions
 
-1. **URGENT:** Apply Anthropic Fellows AI Security (#246, 4.7/5) + AI Safety (#370, 4.2/5) — deadline April 26
-2. Apply to existing high-priority backlog: Atlassian Security 4.5/5 (#355), Cloudflare SWE 4.8/5 (#347), Together AI Security 4.5/5 (#334), NVIDIA SA 4.5/5 (#348), OpenAI SWE 4.5/5 (#353), Glean SWE 4.5/5 (#340), Ramp FDE 4.5/5 (#341), Browser Use 4.4/5 (#357)
-3. Optional: Review Salesforce Product Security (~3.7/5) for security portfolio diversification
-4. Run `node verify-pipeline.mjs` for pipeline integrity check
-5. Pipeline fully saturated — prioritize applying over scanning
+1. **URGENT:** Apply to Anthropic Fellows AI Security (#246, 4.7/5) — deadline April 26
+2. **URGENT:** Apply to Anthropic Fellows AI Safety (#370, 4.2/5) — deadline April 26
+3. **Review Microsoft (3.8/5):** Two new Microsoft AI/ML Intern roles (1872468 + 1766916). If open to Redmond, apply to both — Carlos's multi-model LLM pipeline experience is genuine AI/ML background. Main gap: PyTorch/TF vs LLM-API focus
+4. **Review Whatnot (3.7/5):** New grad at $140-150K is strong comp. Apply if expanding FTE new grad pipeline beyond primary AI/security targets
+5. Run `/career-ops pipeline` to process any pending pipeline evaluations
+6. Update career-ops: `node update-system.mjs apply` (v1.1.0 → v1.3.0 available)
 
 ---
 
-  + Salesforce | Summer 2026 Intern - Product Security Engineer | scan-v87-websearch | ~3.7/5
-  + PwC | Advisory National AI Engineering Intern | scan-v87-websearch | ~3.1/5
-
-→ Pipeline saturated. Focus on applying to existing 4.0+ entries.
+*Generated by career-ops autonomous scan agent v88 on 2026-04-16*

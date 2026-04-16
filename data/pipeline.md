@@ -2,6 +2,22 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-16 SCAN v88 (Autonomous Agent — comprehensive freshness sweep v88: 30+ WebSearch queries across Ashby/Greenhouse/Lever/Microsoft/Workday portals; SimplifyJobs Summer+NewGrad (all dup v86-v87); SpeedyApply AI (all dup); Greenhouse APIs (503 unavailable); Cohere/ElevenLabs/LangChain/Pinecone Ashby boards (all dup); Mistral/W&B Lever boards; company-specific checks (Sigma Computing, Whatnot, Microsoft, Databricks, Cloudflare, Together AI); KEY FINDINGS: 6 new URLs — Microsoft Applied AI/ML Intern Redmond $5.6-11K/month ~3.8/5; Whatnot 2026 New Grad SWE SF/LA/NYC $140-150K ~3.7/5; Microsoft AI/ML Intern Redmond ~3.7/5; Sigma Computing SWE Intern SF ~3.4/5; Mistral Security Eng Paris FTE skipped; Mistral Offensive Security Paris FTE skipped; 0 listings scored >=4.0; history now 2,345 entries; URGENT: Anthropic Fellows AI Security 4.7/5 DEADLINE APRIL 26) === -->
+<!-- 4 new URLs added to pipeline (all below 4.0 threshold), 2 skipped (Paris FTE). 0 scored >=4.0. History: 2,345 entries. -->
+<!-- URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+<!-- URGENT: Anthropic Fellows AI Safety #370 4.2/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+<!-- career-ops update available: v1.1.0 -> v1.3.0. Run: node update-system.mjs apply -->
+
+### Pipeline Pending (score est. ~3.8/5) — scan-v88
+- [ ] https://jobs.careers.microsoft.com/global/en/job/1872468/Software-Engineer:-Applied-AI/ML-Intern-Opportunities-for-University-Students,-Redmond | Microsoft | Software Engineer: Applied AI/ML Intern (Summer 2026) | ~3.8/5 | Redmond WA on-site; $5,610-$11,010/month; Applied AI/ML teams across Microsoft; Carlos multi-model LLM pipelines + LangChain + RAG + computer vision = AI exp match; expects TF/PyTorch familiarity (gap vs LLM-API focus); large corp culture; Redmond relocation; apply if targeting Big Tech brand + strong comp
+
+### Pipeline Pending (score est. ~3.7/5) — scan-v88
+- [ ] https://jobs.ashbyhq.com/whatnot/e4cb7fcb-2bb8-4786-b848-20641f9888c3 | Whatnot | 2026 Software Engineer New Grad | ~3.7/5 | SF/LA/NYC hybrid; $140K-$150K; consumer live shopping marketplace; Carlos full-stack React/Python/production SaaS matches; ML integration (ranking, buyer-seller flows); non-primary consumer domain; separate from existing bc8f8c7f new grad posting already in pipeline; apply if expanding new grad FTE pipeline
+- [ ] https://jobs.careers.microsoft.com/global/en/job/1766916/Software-Engineer:-AI/ML-Intern-Opportunities-for-University-Students,-Redmond | Microsoft | Software Engineer: AI/ML Intern Opportunities (Summer 2026) | ~3.7/5 | Redmond WA on-site; similar comp to 1872468; different AI/ML team; parallel application possible with 1872468; same pros/cons apply
+
+### Pipeline Pending (score est. ~3.4/5) — scan-v88
+- [ ] https://job-boards.greenhouse.io/sigmacomputing/jobs/7575892003 | Sigma Computing | Software Engineering Intern (Summer 2026) | ~3.4/5 | SF in-person 12w; June 2026 start; data analytics SaaS; large SPA + backend systems focus; Python/JS/Java; Carlos React/Python transfers; separate posting from existing 7501718003 in pipeline; non-AI analytics domain; SF relocation required
+
 <!-- === NEW 2026-04-16 SCAN v87 (Autonomous Agent — final freshness sweep v87: SimplifyJobs+SpeedyApply (all dup v86); 20+ WebSearch queries across Greenhouse/Ashby/Lever/Workday/direct career pages; 10+ company boards re-checked (Anthropic/Glean/Vercel/Cloudflare/Together AI/Robinhood/Sigma Computing/Decagon/Actian); KEY FINDINGS: 3 new URLs — Salesforce Product Security Engineer SF/Bellevue ~3.7/5; PwC Advisory AI Engineering Intern Chicago/Dallas ~3.1/5; Salesforce Product Security Risk Specialist ~2.5/5; 0 listings scored >=4.0; history now 2,339 entries; pipeline fully saturated through v87; URGENT: Anthropic Fellows AI Security 4.7/5 DEADLINE APRIL 26) === -->
 <!-- 3 new URLs added (all below 4.0 threshold). 0 scored >=4.0. Pipeline comprehensively saturated through v87 (2,339 history entries). -->
 <!-- URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
