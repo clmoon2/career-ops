@@ -1,112 +1,76 @@
-# Scan Summary — 2026-04-16 (v89)
+# Portal Scan Summary — 2026-04-16 (v90)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Agent:** Autonomous scanner (scheduled run)
-**Scan version:** v89
+**Scan:** v90 (autonomous agent)
 **Date:** 2026-04-16
-**History entries after scan:** 2,362
+**Coverage:** Scans v85–v90 (same day — comprehensive sweep)
 
 ---
 
-## Summary Stats
+## v90 Results
 
-| Metric | Count |
-|---|---|
-| Companies scanned | 25+ |
-| Greenhouse APIs queried | 8 (Anthropic, Airtable, Glean, Arize AI, RunPod, Together AI, Intercom, Hume) |
-| WebSearch queries executed | 15+ |
-| Ashby/Lever boards checked | 8 (Cohere, ElevenLabs, Decagon, Vapi, Pinecone, LangChain, Cloudflare, Notion) |
-| New URLs found (total) | 7 |
-| Scored ≥ 4.0 | **2** |
-| Reports written | **2** (#357, #358) |
-| Tracker entries added | **2** (#371 Roadie, #372 Anthropic Fellows ML Systems) |
-| Skipped (dup/closed) | ~50+ |
+Portals scanned: 31 companies + 5 cross-portal search queries
+New listings found: **0**
+New to pipeline: **0**
+Reports filed: **0**
 
----
+All URLs returned are already in scan history (v7–v89). The internship market for Summer 2026 appears to have stabilized — no new postings discovered across the target company list.
 
-## ⚠️ URGENT — Act Before April 26
-
-Three Anthropic Fellows tracks close April 26. Two are already evaluated:
-
-| # | Role | Score | Deadline | Notes |
-|---|---|---|---|---|
-| #246 | Anthropic Fellows — AI Security | **4.7/5** | April 26 | Already in pipeline — APPLY NOW |
-| #370 | Anthropic Fellows — AI Safety | **4.2/5** | April 26 | Already in pipeline — APPLY NOW |
-| **#372** | **Anthropic Fellows — ML Systems & Performance** | **4.1/5** | **April 26** | **NEW this scan — Report #358** |
-| — | Anthropic Fellows — Reinforcement Learning | 3.6/5 | April 26 | Below threshold; consider after applying to above three |
-| — | Anthropic Fellows — AI Safety (new listing 5183044008) | ~3.9/5 | April 26 | Confirm vs #370 before applying (may be same track) |
+**Companies confirmed empty / no intern programs:**
+- Genesys — EU/Ireland only, no US internships
+- Temporal — board empty (0 jobs)
+- Gong, LivePerson, Cognigy, Speechmatics, Make.com — no intern programs found
+- PolyAI, Parloa — Greenhouse EU returned 503 errors
 
 ---
 
-## Top Matches (score ≥ 4.0)
+## Cumulative Scan Stats (v85–v90, 2026-04-16)
 
-### 1. Roadie (UPS) — AI Engineer Intern | Score: 4.2/5 | Report #357
-**URL:** https://job-boards.greenhouse.io/roadie/jobs/8479096002
-**Location:** Remote
-**Comp:** Not disclosed (UPS subsidiary, market rate expected)
+| Scan | New Listings | Reports Filed | Key Finds |
+|------|-------------|---------------|-----------|
+| v85  | 2 | 0 | Axon SWE New Grad 3.3/5 below threshold |
+| v86  | 6 | 1 (#373 Rakuten) | Rakuten AI Intern 4.2/5 |
+| v87  | 3 | 0 | Salesforce/PwC below 4.0 |
+| v88  | 4 | 0 | Microsoft/Sigma/Whatnot below 4.0 |
+| v89  | 7 | 2 (#371 Roadie, #372 Anthropic Fellows ML) | ⚠️ DEADLINE APRIL 26 |
+| v90  | 0 | 0 | Market stabilized |
 
-**Why this is a 4.2:** The JD reads like a job description for what Carlos already built at Finch. Exact stack match: Python, FastAPI, LangChain, LangGraph, RAG, pgvector, FAISS, AWS EKS/S3, Docker. Responsibilities include LLM-powered chatbot agents, fraud detection with embeddings, data pipelines, and agent evaluation frameworks — all things Carlos has shipped in production.
-
-**Action:** Apply immediately. Lead with Finch multi-model pipeline as primary proof point.
-
----
-
-### 2. Anthropic Fellows — ML Systems & Performance | Score: 4.1/5 | Report #358 | ⚠️ APRIL 26 DEADLINE
-**URL:** https://job-boards.greenhouse.io/anthropic/jobs/5183051008
-**Location:** SF / London / Toronto / Remote (US, UK, CA)
-**Comp:** $3,850/week + $15K/month compute + benefits
-**Duration:** 4 months (July 2026 cohort)
-
-**Why this is a 4.1:** $3,850/week stipend at the top AI lab. Carlos's 35K-line Python codebase, distributed AWS deployment, multi-model ML pipeline, and 602-test suite shows the ML engineering depth the fellowship values. Main gap: HPC/GPU infrastructure focus of past fellows vs. Carlos's API-based cloud systems. Fellowship explicitly encourages applications from non-traditional candidates. 10 days left to apply.
-
-**Action:** Apply before April 26. Frame as production ML systems engineer (not researcher). Finch pipeline + TidalHack + quantitative trading system as proof points.
+**Total scan history entries:** 2,403
 
 ---
 
-## Below Threshold (added to pipeline for reference)
+## Top Pending Applications (Action Required)
 
-| URL | Company | Role | Score | Notes |
-|---|---|---|---|---|
-| `greenhouse.io/anthropic/jobs/5183044008` | Anthropic | Fellows — AI Safety (new listing) | ~3.9/5 | Different ID from #370; confirm not duplicate before applying |
-| `greenhouse.io/cloudflare/jobs/7792962` | Cloudflare | Solutions Engineer Intern (Summer & Fall 2026) | ~3.7/5 | Austin TX; July-Dec 2026; Carlos uses Workers/Pages |
-| `greenhouse.io/anthropic/jobs/5183052008` | Anthropic | Fellows — Reinforcement Learning | ~3.6/5 | April 26 deadline; Carlos lacks RL training exp |
-| `ashbyhq.com/notion/5b15697c` | Notion | SWE Intern (Fall 2026) | ~3.5/5 | Fall timing; may conflict with semester |
-
----
-
-## Key Observations
-
-1. **Together AI intern roles closed**: SWE Intern (5012768007) and Security Intern (5012785007) no longer in Together AI Greenhouse API — both likely closed.
-
-2. **Glean SWE Intern likely closed**: `4595665005` (Software Engineer, Intern Summer 2026) not found in current Glean API. Apply if link still works.
-
-3. **Anthropic added 3 new Fellows tracks** since last full API scan: ML Systems & Performance, Reinforcement Learning, and a new AI Safety listing. The AI Security and AI Safety tracks were already flagged as urgent.
-
-4. **Airtable New Grad 2026 (8409376002) appears closed** — not in current Airtable API response.
-
-5. **Pipeline is heavily saturated** from v86-v88 sweeps. This scan focused on API freshness checks and found one genuinely new company (Roadie) + three new Anthropic fellowship tracks.
+| # | Company | Role | Score | Urgency |
+|---|---------|------|-------|---------|
+| 246 | Anthropic | Fellows — AI Security | 4.7/5 | ⚠️ DEADLINE APRIL 26 |
+| 347 | Cloudflare | SWE Intern (Austin TX) | 4.8/5 | Apply now |
+| 304 | Mechanize | SWE Intern ($100/hr) | 4.6/5 | Apply now |
+| 355 | Atlassian | Security Engineer Intern | 4.5/5 | Apply now |
+| 341 | Ramp | FDE Intern ($11K/mo) | 4.5/5 | Apply now |
+| 340 | Glean | SWE Intern | 4.5/5 | Apply now |
+| 370 | Anthropic | Fellows — AI Safety | 4.2/5 | ⚠️ DEADLINE APRIL 26 |
+| 372 | Anthropic | Fellows — ML Systems | 4.1/5 | ⚠️ DEADLINE APRIL 26 |
+| 371 | Roadie | AI Engineer Intern (Remote) | 4.2/5 | Apply now |
+| 357 | Browser Use | SWE Intern ($6-16K/mo) | 4.4/5 | Apply now |
 
 ---
 
 ## Recommended Next Actions
 
-1. **APPLY: Anthropic Fellows AI Security (#246) — DEADLINE APRIL 26** (highest priority, 4.7/5)
-2. **APPLY: Anthropic Fellows ML Systems & Performance (#372) — DEADLINE APRIL 26** (new this scan, 4.1/5)
-3. **APPLY: Anthropic Fellows AI Safety (#370) — DEADLINE APRIL 26** (already evaluated, 4.2/5)
-4. **APPLY: Roadie AI Engineer Intern (#371)** — Remote, exact stack match, open deadline
-5. **APPLY: Rakuten Advertising AI Engineer Intern (#373) — 4.2/5** — upgraded from ~3.0/5 after full analysis; $35-50/hr; multi-agent AI exact match; Bay Area relocation required
-6. **REVIEW: Anthropic Fellows AI Safety (5183044008)** — confirm if same track as #370 before separate application
-7. Run `/career-ops pipeline` to process existing pending URLs
+1. **URGENT — Apply to Anthropic Fellows before April 26:**
+   - AI Security (#246, 4.7/5) — adversarial LLM testing = perfect match
+   - AI Safety (#370, 4.2/5) — separate from AI Security track
+   - ML Systems (#372, 4.1/5) — $3,850/wk + $15K compute stipend
+
+2. **Apply immediately (top scores):**
+   - Cloudflare SWE Intern Austin #347 (4.8/5) — production Workers experience
+   - Mechanize SWE Intern #304 ($100/hr, adversarial testing = exact match)
+   - Atlassian Security Engineer Intern #355 (4.5/5, cybersec minor exact match)
+   - Ramp FDE Intern #341 ($11K/mo + housing, top comp)
+
+3. **Next scan:** Market is stable. Run `/career-ops scan` again after April 19 or when new listings are expected.
 
 ---
 
-## Addendum — Post-v89 Evaluation (2026-04-16)
-
-**Rakuten Advertising — Intern, AI Engineer** upgraded to **4.2/5** (was ~3.0/5 in v86).
-
-Full evaluation in report #373. The role is a direct match for Carlos's multi-agent AI pipeline work:
-- AI Center of Excellence building production-grade agentic workflows
-- Multi-agent systems, LLM orchestration = exact Finch pipeline architecture
-- $35-50/hr compensation (competitive for structured corporate internship)
-- San Mateo CA (Bay Area relocation required from College Station TX)
-
-Apply alongside Roadie (#371) and Anthropic Fellows before April 26 deadline.
+*Generated by career-ops autonomous scan agent — 2026-04-16*
