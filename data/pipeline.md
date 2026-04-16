@@ -2,6 +2,10 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-16 SCAN v83 (Autonomous Agent — saturation confirmation + pipeline evaluation sweep v83: 5 Greenhouse APIs (Anthropic/Glean/Vercel/Arize/RunPod) + 10 WebSearch queries across 30+ companies; pipeline confirmed fully saturated (2,247 entries); KEY FINDINGS: 0 genuinely new URLs — all confirmed dup from v7-v82; 3 high-value pipeline items evaluated: PDT Partners SWE Intern ($180K quant firm) 4.0/5 report #368, Databricks SWE Intern ($115-139K AI platform) 4.1/5 report #369, Anthropic Fellows AI Safety (orphan report) 4.2/5 properly added to tracker #370 DEADLINE APRIL 26; recommendation: focus on applying to existing high-priority entries — pipeline fully saturated) === -->
+<!-- No new listings found. Pipeline saturation confirmed. 3 evaluations completed from existing pipeline. -->
+<!-- ⚠️ URGENT: Anthropic Fellows AI Safety #370 — DEADLINE APRIL 26, 2026 (10 days). APPLY IMMEDIATELY. -->
+
 <!-- === NEW 2026-04-15 SCAN v82 (Autonomous Agent — broad discovery sweep v82: 35+ companies scanned across Big Tech (Google/Amazon/Microsoft/Meta/Apple — all dup v7-v72), Security (CrowdStrike/Cloudflare/Palo Alto/Wiz/SentinelOne — all dup v7-v75), Consulting (Deloitte/Accenture/PwC/BCG/EY — all dup or deadline passed), portals.yml companies (Salesforce/Databricks/Stripe/Snowflake/Palantir/LangChain/Zapier/Okta — all dup), aggregator repos (SimplifyJobs New-Grad/speedyapply NEW_GRAD_USA/jobright); KEY NEW FINDS: 4 genuinely new entries discovered — Anrok Early Career SWE (SF, tax automation, ~3.0/5), DoorDash SWE I Entry-Level (multiple US cities, ~3.2/5), Allstate LLM Full Stack new grad (Remote USA, insurance domain but exact LLM tech match, ~3.3/5), Realm Alliance New Grad (Remote, mining AI security, ~2.5/5); 0 scored ≥4.0; Notable discoveries: W&B now part of CoreWeave (no intern), Snap intern confirmed closed Jan 2026; 0 evaluation reports generated; pipeline expanded by 4 low-priority entries) === -->
 <!-- No listings scored ≥4.0. 4 new pipeline additions (all below threshold). -->
 
