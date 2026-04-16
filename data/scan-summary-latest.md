@@ -1,101 +1,128 @@
-# Portal Scan — 2026-04-16 (v83)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Portal Scan — 2026-04-16 (scan-v84)
 
-**Run type:** Autonomous Agent — saturation confirmation + pipeline evaluation sweep
-
-## Coverage
-
-| Layer | Method | Companies Covered |
-|-------|--------|-------------------|
-| Greenhouse API | Direct JSON | Anthropic, Glean, Vercel, Arize AI, RunPod |
-| WebSearch | Portal queries | 25+ companies across Greenhouse/Ashby/Lever |
-| Confirmed dups | History cross-ref | PDT Partners, SpaceX, Figma, Databricks, Affirm, Stripe, Belvedere, Lambda, Symmetry Systems, Aquatic Capital, all v7-v82 companies |
-
-**Total companies scanned this session:** 30+
-**Scan history entries (total):** 2,247 (2,231 before this scan + 16 new entries)
+**Run:** Autonomous agent scan — comprehensive multi-source sweep  
+**Scan ID:** v84  
+**History entries before:** 2247 → **after:** 2260 (+13 confirmations)
 
 ---
 
-## Discovery Results
+## Results
 
-| Category | Count |
-|----------|-------|
-| Portals/APIs scanned | 5 Greenhouse APIs + 10 WebSearch queries |
-| Companies researched | 30+ |
-| Genuinely new URLs | 0 |
-| Duplicates confirmed | 16 |
-| Below score threshold (<4.0) | 11 |
-| Wrong year (2027) | 1 |
-| **Newly evaluated (from pipeline)** | **3** |
-
-**Pipeline saturation confirmed** — after 83 scans covering 2,247 URLs, all major portals, job boards, and aggregators are fully covered. No new listings discovered in this session.
+```
+Portals / sources checked:  30+
+Companies directly verified: 25+
+Individual URLs cross-checked: 50+
+New listings found (not in history): 0
+New additions to pipeline.md:      0
+New evaluations (score ≥ 4.0):     0
+```
 
 ---
 
-## Evaluations Completed This Session
+## Sources Scanned
 
-### ⭐ Report #370 — Anthropic Fellows Program: AI Safety (4.2/5)
-> **⚠️ DEADLINE: April 26, 2026 — 10 DAYS FROM NOW. APPLY IMMEDIATELY.**
-- **URL:** https://job-boards.greenhouse.io/anthropic/jobs/5183044008
-- **Comp:** $3,850/week + $15,000/month compute budget
-- **Start:** July 20, 2026 (4-month full-time fellowship)
-- **Report:** reports/292-anthropic-fellows-ai-safety-2026-04-10.md
-- **Why apply:** Adversarial LLM testing experience (LLM Adversarial Testing project) maps directly to AI safety red-teaming. Anthropic explicitly targets builders without traditional research backgrounds. This was evaluated and added to tracker — was previously missing from applications.md (orphan report).
-- **Action:** Apply via https://www.constellation.org/programs/anthropic-fellows before April 26
+### Greenhouse API (direct)
+| Company | Result |
+|---------|--------|
+| Airtable | ❌ No intern/new grad — all senior 2-8yr+ positions |
+| Temporal | ❌ 0 jobs currently (board empty) |
+| Anthropic | ✅ Confirmed dup — all 5 Fellows Program tracks already in history |
+| Glean | ✅ Confirmed dup — SWE Intern + Univ Grad already evaluated |
+| Vercel | ✅ Confirmed dup — all roles in history |
+| Arize AI | ✅ No intern — only senior FTE |
+| RunPod | ✅ Confirmed dup — SWE Full-Stack + Security already in history |
 
-### ⭐ Report #368 — PDT Partners Summer 2026 SWE Internship (4.0/5)
-- **URL:** https://job-boards.greenhouse.io/pdtpartners/jobs/7073180
-- **Comp:** $180,000 annualized (10-week prorated) — highest quant comp in tracker
-- **Location:** New York, NY (in-person)
-- **Timeline:** Early June – Mid August 2026
-- **Report:** reports/368-pdt-partners-swe-intern-2026-04-16.md
-- **Why apply:** Quantitative trading system (Bloomberg/Alpaca/vectorbt, Sharpe 1.79) is a direct proof point for PDT's core business. Most SWE interns have zero real trading system experience — Carlos has built one.
-- **⚠️ Graduation check required:** PDT requires FTE eligibility 2027-2028 (juniors/sophomores). Verify graduation date before applying.
+### Ashby Direct
+| Company | Result |
+|---------|--------|
+| Cohere | ✅ Confirmed dup — SWE Intern + ML Intern + Winter tracks all in history since v7 |
+| Pinecone | ✅ Confirmed dup — New Grad SWE + Intern: Science both in history since v7 |
+| LangChain | ❌ No intern/new grad — only FTE Deployed Engineer + AI Engineer |
+| n8n | ❌ No internship listings for 2026 |
+| Zapier | ❌ No internship listings for 2026 |
+| ElevenLabs | ✅ Confirmed dup — FDE New Grad (evaluated #364) still in history |
 
-### ⭐ Report #369 — Databricks Software Engineering Intern 2026 (4.1/5)
-- **URL:** https://job-boards.greenhouse.io/databricks/jobs/7640764002
-- **Comp:** $54.50-$67/hr ($115-139K annualized)
-- **Location:** Mountain View, CA (in-person/hybrid)
-- **Timeline:** Summer 2026 (12-week or 16-week options)
-- **Report:** reports/369-databricks-swe-intern-2026-04-16.md
-- **Why apply:** 3+ track alignment (AI/ML product, backend, infra). Finch's multi-model LLM pipeline at $0.003/application is a strong proof point for Databricks' enterprise AI platform. Strong new-grad pipeline.
-- **⚠️ Graduation check required:** Databricks requires Fall 2026 – Spring 2027 graduation.
+### Lever Direct
+| Company | Result |
+|---------|--------|
+| Weights & Biases | ❌ No intern roles — all senior FTE (confirmed from v25) |
+| Palantir | ✅ Confirmed dup — all SWE/FDSE intern tracks (v7, v10, v17) in history |
 
----
-
-## Pipeline Items Confirmed In History (Key Reminders)
-
-These listings are in pipeline.md awaiting evaluation or decision. Not new — just flagging high-priority ones:
-
-| Company | Role | Est. Score | Notes |
-|---------|------|-----------|-------|
-| Belvedere Trading | SWE Intern Summer 2026 | 3.8/5 | $130K Chicago; C++ preferred; below threshold |
-| Affirm | SWE Intern Summer 2026 | 3.6/5 | $55/hr remote; 12-16wks; fintech |
-| Figma | SWE Intern 2026 | 3.8/5 | Top design co; TS/React; SF/NYC |
-| Stripe | SWE Intern Summer 2026 | 3.8/5 | $62.50/hr; Java/Ruby preferred |
-| SpaceX | SWE Intern Summer 2026 | 3.0/5 | $30-40/hr below floor; aerospace |
-| Anthropic Fellows — ML Systems | Fellowship | 3.6/5 | ⚠️ Deadline April 26; ML systems/HPC focus |
-| Anthropic Fellows — RL | Fellowship | 3.2/5 | ⚠️ Deadline April 26; research-focused |
-| Symmetry Systems | Full Stack SWE Intern | 3.5/5 | Data+AI security; remote US |
-
----
-
-## High-Priority Action Items
-
-1. 🔴 **URGENT — Apply to Anthropic Fellows AI Safety by April 26** (10 days). Report: #370. Score: 4.2/5. Direct adversarial LLM testing match.
-2. 🟡 **Verify graduation date** before applying to PDT Partners (#368) and Databricks (#369) — both have specific graduation window requirements.
-3. 🟡 **Run `/career-ops pipeline`** to evaluate remaining pipeline items: Belvedere Trading, Affirm, Figma, Stripe.
-4. 🟢 Focus on applying to already-evaluated top matches: Cloudflare (#347, 4.8/5), OpenAI (#353, 4.5/5), Atlassian (#355, 4.5/5), Glean (#340, 4.5/5), Ramp (#341, 4.5/5), Mechanize (#304, 4.6/5), Together AI Security (#334, 4.5/5), Haize Labs (#298, 4.7/5), Palantir FDSE (#143, 4.7/5).
+### WebSearch Discovery (broad)
+| Query | New finds |
+|-------|-----------|
+| Ashby intern/new grad Summer 2026 broad | All results in history (Notion, Replit, Giga, Farsight, Delinea, Crusoe) |
+| Greenhouse SWE intern Summer 2026 | All results in history (Cloudflare, Together AI, Glean, Klaviyo, Sigma, Vantage) |
+| YC companies intern Summer 2026 | All 12+ YC companies in history from v30-v57 |
+| Cybersecurity / security intern 2026 | All results in history (Together AI, Cloudflare, Gemini, Rockstar, Tevora, Actian) |
+| DevOps/SRE/Cloud intern 2026 | All results in history (DV Trading, Ada, Lila Sciences) |
+| New grad AI/LLM/security 2026 Ashby | All results in history (Replit, Benchling, Zip, Decagon, Harvey) |
+| SpeedyApply SWE 0-day | All 8 entries already in history (Appian/CACI/Tricentis/etc.) |
+| SpeedyApply AI 0-day + 1-day | All 15+ entries already in history |
+| SimplifyJobs Summer2026-Internships | All recent entries confirmed in history |
+| SimplifyJobs New-Grad-Positions | All recent entries confirmed in history |
+| TikTok/ByteDance 2026 intern | AI Platform + backend roles confirmed in history from v10/v24 |
 
 ---
 
 ## Pipeline Health
 
-- **Total tracker entries:** 370
-- **Scan history entries:** 2,247
-- **Pipeline saturation:** ✅ Confirmed — all major sources covered after 83 scans
-- **Unevaluated pipeline items:** ~40 (pipeline.md pending entries below 4.0 threshold)
+The pipeline is **comprehensive and current** as of 2026-04-16.
+
+- **2260 total scan history entries** across 84 scan passes (April 5–16, 2026)
+- **1099 entries** with status `added` or `evaluated`
+- **370 evaluated applications** in tracker
+- All major job boards (Greenhouse, Ashby, Lever, YC, SpeedyApply, SimplifyJobs) checked in recent scans
+
+### No new qualifying listings found today — pipeline is saturated for this hiring cycle.
 
 ---
 
-*Generated by career-ops autonomous scan agent v83 — 2026-04-16*
+## ⚠️ Action Items for Carlos
+
+### DEADLINE ALERT — April 26
+**Anthropic Fellows Program** (deadline in 10 days):
+- **#246 — AI Security** — 4.7/5 — APPLY NOW
+- **#370 — AI Safety** — 4.2/5 — APPLY NOW
+- **#351 (ML Systems / RL)** — also open — consider
+
+### Top Unapplied Offers (score ≥ 4.5)
+| # | Company | Role | Score | Notes |
+|---|---------|------|-------|-------|
+| 347 | Cloudflare | SWE Intern — Austin TX | **4.8/5** | Austin in-office; Cloudflare Workers prod exp = top differentiator |
+| 304 | Mechanize | SWE Intern | **4.6/5** | $100/hr SF; RL eval infra; adversarial LLM = exact match |
+| 246 | Anthropic | Fellows — AI Security | **4.7/5** | ⚠️ DEADLINE APRIL 26 |
+| 294 | Cloudflare | Security Intern — Austin | **4.7/5** | Austin TX; OWASP/CSRF/TLS/OAuth prod impl |
+| 298 | Haize Labs | SWE Intern | **4.7/5** | Adversarial LLM + co-founder profile = perfect |
+| 143 | Palantir | FDSE New Grad — Commercial | **4.7/5** | FDE archetype; $145-180K+RSUs |
+| 353 | OpenAI | SWE Intern — Summer 2026 | **4.5/5** | SF in-person; multi-model AI exact match |
+| 355 | Atlassian | Security Engineer Intern | **4.5/5** | Seattle; $49-75/hr; cybersec minor + security stack |
+| 334 | Together AI | Security Intern | **4.5/5** | $58/hr SF; AI security at frontier lab |
+| 295 | Together AI | SWE Intern | **4.5/5** | $58/hr SF; platform engineering |
+| 341 | Ramp | FDE Intern | **4.5/5** | $11K/mo + housing NYC/SF |
+| 340 | Glean | SWE Intern | **4.5/5** | $57-69/hr Palo Alto/SF hybrid |
+| 70 | Replit | SWE Intern | **5.0/5** | AI dev tools; perfect alignment |
+
+### Pending Pipeline Items (not yet evaluated, est. below 4.0)
+- **1Password** — Developer Intern Knox (~3.8) and Platform Advancement (~3.5) — low priority
+- **ThirdLayer/Dex** — Full-Stack Engineer Intern (~3.5)
+- **Alloy** — SWE Intern Summer 2026 (~3.2)
+- **Mine (YC)** — SWE Intern (~3.0) — data privacy AI
+- **Tricentis** — SWE Intern Austin TX (~3.0) — test automation domain mismatch
+- **DoorDash** — SWE I entry-level (~3.2) — logistics domain
+- **Anrok** — Software Engineer Early Career (~3.0) — tax automation SF
+- **Allstate** — Entry-Level SWE LLM (~3.3) — insurance large corp
+
+---
+
+## Summary
+
+**The pipeline is saturated for this hiring cycle.** After 84 scan passes covering every major tech job board, job portal, YC company page, GitHub aggregator, and direct company career page, no new qualifying listings were found today.
+
+**Focus energy on applying** to the top-scored opportunities above, especially the **Anthropic Fellows deadline (April 26)** and **Cloudflare Austin (4.8/5)**.
+
+The next scan will be most productive after companies post Fall 2026 intern or 2027 summer intern roles — typically May/June 2026.
+
+---
+
+*Scan performed by career-ops autonomous agent on 2026-04-16*
