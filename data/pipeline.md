@@ -2,6 +2,18 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-16 SCAN v87 (Autonomous Agent — final freshness sweep v87: SimplifyJobs+SpeedyApply (all dup v86); 20+ WebSearch queries across Greenhouse/Ashby/Lever/Workday/direct career pages; 10+ company boards re-checked (Anthropic/Glean/Vercel/Cloudflare/Together AI/Robinhood/Sigma Computing/Decagon/Actian); KEY FINDINGS: 3 new URLs — Salesforce Product Security Engineer SF/Bellevue ~3.7/5; PwC Advisory AI Engineering Intern Chicago/Dallas ~3.1/5; Salesforce Product Security Risk Specialist ~2.5/5; 0 listings scored >=4.0; history now 2,339 entries; pipeline fully saturated through v87; URGENT: Anthropic Fellows AI Security 4.7/5 DEADLINE APRIL 26) === -->
+<!-- 3 new URLs added (all below 4.0 threshold). 0 scored >=4.0. Pipeline comprehensively saturated through v87 (2,339 history entries). -->
+<!-- URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+<!-- URGENT: Anthropic Fellows AI Safety #370 4.2/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+<!-- career-ops update available: v1.1.0 -> v1.3.0. Run: node update-system.mjs apply -->
+
+### Pipeline Pending (score est. ~3.7/5) — scan-v87
+- [ ] https://careers.salesforce.com/en/jobs/jr311858/summer-2026-intern-product-security-engineer/ | Salesforce | Summer 2026 Intern - Product Security Engineer | ~3.7/5 | SF/Bellevue 12-week; black-box pentesting + OWASP + threat modeling + code review + incident response + security automation tooling; Java/JS/Python; Carlos cybersec minor + prod security impl (HMAC-SHA256/TLS/CORS/CSP/OAuth/adversarial LLM) = strong archetype match; large corp (73K emp) culture + Java preference are drag factors; apply if want to add Salesforce brand to resume
+
+### Pipeline Pending (score est. ~3.1/5) — scan-v87
+- [ ] https://jobs-us.pwc.com/us/en/job/653906WD/Advisory-National-Commercial-Tech-Innovation-AI-Engineering-Intern-Summer-2026 | PwC | Advisory National - AI Engineering Intern (Summer 2026) | ~3.1/5 | Rosemont IL/Dallas TX; data science + ML engineering for clients; C++/R/Scikit-Learn; $37-48/hr; tech consulting archetype match but data-science/R focus vs Carlos's SWE+AI strength; apply only if expanding consulting pipeline
+
 <!-- === NEW 2026-04-16 SCAN v86 (Autonomous Agent — targeted freshness sweep v86: 3 Greenhouse APIs (Anthropic/Glean/Vercel all dup); 15+ Greenhouse/Ashby/Lever confirmations (all dup); SimplifyJobs 0d entries scanned; SpeedyApply 0d entries (all dup v79-v85); 40+ WebSearch queries; KEY FINDINGS: 6 new URLs — Equinix Enterprise AI San Carlos CA $40/hr ~3.3/5; Equinix SWE Dallas $40/hr ~3.3/5; Socure AI Agents Remote ~3.2/5 MS pref; Rakuten AI Intern San Mateo ~3.0/5; Socure DocV Remote ~2.8/5; InvoiceCloud SWE Boston ~2.5/5; 0 listings scored >=4.0; history now 2,319 entries; URGENT: Anthropic Fellows AI Security 4.7/5 DEADLINE APRIL 26) === -->
 <!-- 6 new URLs added (all below 4.0 threshold). 0 scored >=4.0. Pipeline comprehensive through v86 (2,319 history entries). -->
 <!-- URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->

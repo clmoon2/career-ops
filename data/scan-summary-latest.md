@@ -1,27 +1,9 @@
-# Portal Scan — 2026-04-16 (v86)
+# Portal Scan — 2026-04-16 (v87)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan version:** v86 (autonomous agent — targeted freshness sweep)
+**Scan version:** v87 (autonomous agent — final freshness sweep)
 **Date:** 2026-04-16
-**Pipeline total history:** 2,319 entries
-
----
-
-## Coverage
-
-| Source | Method | Result |
-|--------|--------|--------|
-| Anthropic (Greenhouse API) | Level 2 | confirmed dup (v85) |
-| Glean (Greenhouse API) | Level 2 | confirmed dup |
-| Vercel (Greenhouse API) | Level 2 | confirmed dup |
-| Mercury, Roadie, HPIQ, Obsidian, Cloudflare, PDT, Gemini | Greenhouse | all confirmed dup |
-| Notion, Giga, Fizz, Replit, Cohere, Sentry, Sierra, Harvey | Ashby | all confirmed dup |
-| Symmetry, ShieldAI, Artera, Palantir, Mistral, W&B | Lever | all confirmed dup |
-| SimplifyJobs Summer2026 (0d entries) | Aggregator | 6 new URLs found |
-| SimplifyJobs New-Grad (0d entries) | Aggregator | 0 new qualifying entries |
-| SpeedyApply SWE (0d entries) | Aggregator | 0 new (all dup v79+) |
-| SpeedyApply AI (0d entries) | Aggregator | 0 new (all dup v79+) |
-| 40+ WebSearch queries (Greenhouse/Ashby/Lever/misc) | Level 3 | All confirmed dup |
+**History size after scan:** 2,339 entries (was 2,319)
 
 ---
 
@@ -29,63 +11,73 @@
 
 | Metric | Count |
 |--------|-------|
-| Sources scanned | 25+ companies + 4 aggregators + 40+ search queries |
-| Total URLs checked | ~70 |
-| Confirmed duplicates | 63 |
-| New URLs found | 6 |
-| New URLs scoring >=4.0 | 0 |
-| Evaluation reports generated | 0 |
-| scan-history.tsv entries before | 2,290 |
-| scan-history.tsv entries after | 2,319 |
+| WebSearch queries executed | 20+ |
+| Company career boards checked | 25+ |
+| GitHub repos scanned | 4 (SimplifyJobs Summer/NewGrad, SpeedyApply AI/SWE) |
+| Total URLs evaluated | ~80 |
+| New URLs added to history | 20 (3 new findings + 17 dup confirmations) |
+| Listings scored ≥4.0 | **0** |
+| Listings scored ≥3.5 | **1** (Salesforce Product Security ~3.7/5) |
+| Duplicates confirmed | 77+ |
 
 ---
 
 ## New Listings Found (all below 4.0 threshold)
 
-| # | Company | Role | Score | Location | Notes |
-|---|---------|------|-------|----------|-------|
-| 1 | Equinix | Enterprise AI Intern | ~3.3/5 | San Carlos CA | $40/hr; AI COE internal tooling; Bay Area relocation |
-| 2 | Equinix | Software Engineering Intern | ~3.3/5 | Dallas TX | $40/hr; data center SWE; Dallas accessible from TAMU |
-| 3 | Socure | Engineering Intern - AI Agents, Data & RiskOS | ~3.2/5 | Remote USA | Identity fraud AI agents; MS degree may be required - verify |
-| 4 | Rakuten Advertising | AI Engineer Intern | ~3.0/5 | San Mateo CA | Multi-agent (LangGraph/AutoGen) stack match; ad-tech domain; Bay Area |
-| 5 | Socure | Engineering Intern - DocV & Device | ~2.8/5 | Remote USA | Document verification + device fingerprinting; 8wk June 15-Aug 15 |
-| 6 | InvoiceCloud | Software Engineering Intern | ~2.5/5 | Boston MA | Payment automation for utilities; non-primary domain |
+### ~3.7/5 — Salesforce — Summer 2026 Intern - Product Security Engineer
+**URL:** https://careers.salesforce.com/en/jobs/jr311858/summer-2026-intern-product-security-engineer/  
+**Location:** San Francisco, CA / Bellevue, WA  
+**Duration:** 12 weeks (summer 2026)  
+**Comp:** ~$49-59/hr estimated  
+**Why it matched:** Cybersecurity minor + production security impl (HMAC-SHA256/TLS/CORS/CSP/OAuth proxy/adversarial LLM testing) maps directly to role's pentesting + threat modeling + OWASP + security automation focus.  
+**Why below 4.0:** Large corp (73K employees), Java preferred, not AI-startup archetype.  
+**Verdict:** Added to pipeline. Apply if expanding security internship slate — genuine security engineering (not GRC).
+
+### ~3.1/5 — PwC — Advisory National - AI Engineering Intern (Summer 2026)
+**URL:** https://jobs-us.pwc.com/us/en/job/653906WD/Advisory-National-Commercial-Tech-Innovation-AI-Engineering-Intern-Summer-2026  
+**Location:** Rosemont, IL (Chicago) / Dallas, TX  
+**Comp:** $37-48/hr  
+**Verdict:** Tech consulting archetype match but data-science-heavy (C++/R/Scikit-Learn). Below threshold.
+
+### ~2.5/5 — Salesforce — Product Security Risk & Operations Specialist Intern
+**URL:** https://careers.salesforce.com/en/jobs/jr317429/summer-2026-intern-product-security-risk-and-operations-specialist/  
+**Location:** SF/Seattle/Bellevue  
+**Verdict:** GRC/risk governance focus, not hands-on engineering. Below threshold.
 
 ---
 
-## Top Priority Actions
+## Top Matches Scored ≥4.0 — NONE NEW THIS SCAN
 
-### URGENT - Apply Before April 26
-1. Anthropic Fellows AI Security (#246) - 4.7/5 - DEADLINE: April 26, 2026 (10 days)
-   Apply at: https://job-boards.greenhouse.io/anthropic/jobs/5030244008
-
-2. Anthropic Fellows AI Safety (#370) - 4.2/5 - DEADLINE: April 26, 2026 (10 days)
-   Apply at: https://job-boards.greenhouse.io/anthropic/jobs/5183044008
-
-### High Priority Pending (score >=4.0)
-- 1Password Developer Intern - Extension Excellence (4.3/5) - scan-v78 - Remote US/Canada May-Aug
-- 1Password Developer Intern - Trust Platforms (4.0/5) - scan-v78 - Remote US/Canada May-Aug
-- The Voleon Group SWE Intern (4.1/5) - NYC/hybrid
-- Databricks SWE Intern (4.1/5, #369) - Mountain View CA
-- PDT Partners SWE Intern (4.0/5, #368) - NYC quant
-
-### New This Scan Worth Considering
-- Equinix SWE Intern Dallas (~3.3/5) - Dallas TX, $40/hr, accessible from TAMU; apply if expanding Texas pipeline
-- Socure AI Agents Intern (~3.2/5) - Remote, verify BS eligibility before applying
+Pipeline fully saturated after 87 scans. All primary portals checked exhaustively.
 
 ---
 
-## Pipeline Health
+## Portals/Companies Confirmed Saturated (this scan)
 
-- Total scan history entries: 2,319
-- Pipeline saturation level: ~99% — most major intern portals, job boards, and aggregators fully covered after 86 scans
-- New content rate: Declining — averaging 1-6 genuinely new URLs per scan since v72
-- Recommendation: Focus effort on APPLYING to existing high-priority pipeline entries. The scanning phase is effectively complete for Summer 2026.
+Anthropic, Glean, Together AI, Cloudflare, Robinhood, Sigma Computing, Decagon, Brain Co., Handshake, Lambda, Actian, Axon, Disney, ServiceNow, SimplifyJobs Summer + NewGrad (0d entries same as v86), SpeedyApply AI (0d entries same as v86).
 
 ---
 
-## System Note
+## ⚠️ URGENT: Apply Before April 26 Deadline
 
-career-ops update available: v1.1.0 -> v1.3.0
-Run: node update-system.mjs apply
-(Your CV, profile, tracker, and reports will NOT be touched.)
+1. **Anthropic Fellows — AI Security (#246)** — 4.7/5 — **DEADLINE APRIL 26**
+2. **Anthropic Fellows — AI Safety (#370)** — 4.2/5 — **DEADLINE APRIL 26**
+
+Both require immediate action. 10 days remaining.
+
+---
+
+## Recommended Next Actions
+
+1. **URGENT:** Apply Anthropic Fellows AI Security (#246, 4.7/5) + AI Safety (#370, 4.2/5) — deadline April 26
+2. Apply to existing high-priority backlog: Atlassian Security 4.5/5 (#355), Cloudflare SWE 4.8/5 (#347), Together AI Security 4.5/5 (#334), NVIDIA SA 4.5/5 (#348), OpenAI SWE 4.5/5 (#353), Glean SWE 4.5/5 (#340), Ramp FDE 4.5/5 (#341), Browser Use 4.4/5 (#357)
+3. Optional: Review Salesforce Product Security (~3.7/5) for security portfolio diversification
+4. Run `node verify-pipeline.mjs` for pipeline integrity check
+5. Pipeline fully saturated — prioritize applying over scanning
+
+---
+
+  + Salesforce | Summer 2026 Intern - Product Security Engineer | scan-v87-websearch | ~3.7/5
+  + PwC | Advisory National AI Engineering Intern | scan-v87-websearch | ~3.1/5
+
+→ Pipeline saturated. Focus on applying to existing 4.0+ entries.
