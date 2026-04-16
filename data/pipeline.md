@@ -2,6 +2,30 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-16 SCAN v86 (Autonomous Agent — targeted freshness sweep v86: 3 Greenhouse APIs (Anthropic/Glean/Vercel all dup); 15+ Greenhouse/Ashby/Lever confirmations (all dup); SimplifyJobs 0d entries scanned; SpeedyApply 0d entries (all dup v79-v85); 40+ WebSearch queries; KEY FINDINGS: 6 new URLs — Equinix Enterprise AI San Carlos CA $40/hr ~3.3/5; Equinix SWE Dallas $40/hr ~3.3/5; Socure AI Agents Remote ~3.2/5 MS pref; Rakuten AI Intern San Mateo ~3.0/5; Socure DocV Remote ~2.8/5; InvoiceCloud SWE Boston ~2.5/5; 0 listings scored >=4.0; history now 2,319 entries; URGENT: Anthropic Fellows AI Security 4.7/5 DEADLINE APRIL 26) === -->
+<!-- 6 new URLs added (all below 4.0 threshold). 0 scored >=4.0. Pipeline comprehensive through v86 (2,319 history entries). -->
+<!-- URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+<!-- URGENT: Anthropic Fellows AI Safety #370 4.2/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+<!-- career-ops update available: v1.1.0 -> v1.3.0. Run: node update-system.mjs apply -->
+
+### Pipeline Pending (score est. ~3.3/5) — scan-v86
+- [ ] https://equinix.wd1.myworkdayjobs.com/External/job/Redwood-City/Enterprise-AI-Intern_JR-160096 | Equinix | Enterprise AI Intern (Summer 2026) | ~3.3/5 | San Carlos/Redwood City CA; $40/hr; AI Center of Excellence — internal ops AI tooling; Python/SQL/data viz; data center giant ($11B revenue); Bay Area relocation; apply if open to Bay Area at infrastructure company
+- [ ] https://equinix.wd1.myworkdayjobs.com/External/job/Dallas/Software-Engineering-Intern_JR-160092 | Equinix | Software Engineering Intern (Summer 2026) | ~3.3/5 | Dallas TX; $40/hr; SWE at Equinix data center; Python/React/AWS/Docker full stack match; Dallas 3.5h from TAMU; non-primary domain (infrastructure); apply if expanding Texas pipeline
+
+### Pipeline Pending (score est. ~3.2/5) — scan-v86
+- [ ] https://jobs.ashbyhq.com/socure/e54f1700-c922-4bcc-a087-45b24717f974 | Socure | Engineering Intern - AI Agents, Data & RiskOS (Summer 2026) | ~3.2/5 | Remote USA; identity fraud AI agents; Python/Go; CAUTION: MS degree likely preferred — verify BS eligibility; LangChain/AutoGen/multi-model pipelines = tech match; fraud/identity = security-adjacent
+
+### Pipeline Pending (score est. ~3.0/5) — scan-v86
+- [ ] https://rakuten.wd1.myworkdayjobs.com/RakutenAdvertising/job/San-Mateo-California/Intern---AI-Engineer_1031662-2 | Rakuten Advertising | AI Engineer Intern (Summer 2026) | ~3.0/5 | San Mateo CA; multi-agent (LangGraph/AutoGen/CrewAI/LangChain); Carlos tech stack match; ad-tech domain; "advanced builder" positioning; Bay Area relocation
+
+### Pipeline Pending (score est. ~2.8/5) — scan-v86
+- [ ] https://jobs.ashbyhq.com/socure/017556d2-e70b-41aa-8309-01337c734fd9 | Socure | Engineering Intern - DocV & Device (Summer 2026) | ~2.8/5 | Remote USA; document verification + device fingerprinting; 8wk June 15-Aug 15; non-primary ML domain
+
+### Pipeline Pending (score est. ~2.5/5) — scan-v86
+- [ ] https://invoicecloud.net/careers/open-positions?gh_jid=7702184003 | InvoiceCloud | Software Engineering Intern (Summer 2026) | ~2.5/5 | Boston MA; payment automation for utilities; generic SWE; comp undisclosed
+
+<!-- === END 2026-04-16 SCAN v86 === -->
+
 <!-- === NEW 2026-04-16 SCAN v85 (Autonomous Agent — comprehensive saturation sweep v85: 30 Greenhouse APIs/boards (Anthropic/Glean/HumeAI/Cloudflare/TogetherAI/Benchling/Obsidian/Gemini/Bandwidth/Klaviyo/SpaceX/Crusoe/Rivian/ServiceNow); 20 Ashby boards (Cohere/Notion/Replit/Giga/Fizz/Decagon/ElevenLabs/Ramp/Zettabyte/Farsight/ALSO); 10 Lever boards (SymmetrySystems/ShieldAI/Artera/Voleon/Palantir/Mistral/Palantir-all); SpeedyApply AI repo; SimplifyJobs Summer+NewGrad; 50+ WebSearch queries; KEY FINDINGS: 1 genuinely new URL confirmed — Axon SWE I 7662648003 (law enforcement tech, Boston/Seattle hybrid, ~3.3/5 below threshold); all other portals confirmed saturated from v7-v84; ⚠️ URGENT: Anthropic Fellows AI Security #246 4.7/5 DEADLINE APRIL 26 — APPLY IMMEDIATELY) === -->
 <!-- 1 new URL added (Axon SWE I ~3.3/5 below threshold). Pipeline comprehensively saturated through v85. -->
 <!-- ⚠️ URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026 (10 days). APPLY IMMEDIATELY. -->

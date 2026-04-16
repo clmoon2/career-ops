@@ -1,82 +1,91 @@
-# Portal Scan — 2026-04-16 (scan-v85)
+# Portal Scan — 2026-04-16 (v86)
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Run:** Autonomous agent scan — comprehensive multi-source sweep
-**Scan ID:** v85
-**History entries before:** 2260 → **after:** 2291 (+31 confirmations/additions)
-
----
-
-## Portals Scanned (50+ companies)
-
-**Greenhouse APIs (direct JSON):**
-Anthropic, Hume AI, Glean, Airtable, Temporal
-
-**Greenhouse/Ashby/Lever boards:**
-Cloudflare, Together AI, Benchling, Obsidian Security, Gemini, Bandwidth, Klaviyo, SpaceX, Crusoe, Rivian, ServiceNow, Cohere, Notion, Replit, Giga, Fizz, Decagon, ElevenLabs, Ramp, Zettabyte, Farsight AI, ALSO, Symmetry Systems, Shield AI, Artera, The Voleon Group, Palantir, Mistral AI, W&B, n8n, Zapier, LangChain, Pinecone
-
-**Aggregator repos:**
-SimplifyJobs Summer2026, SimplifyJobs New-Grad, speedyapply/2026-AI-College-Jobs, YC internships
-
-**Individual searches:** Aquatic Capital, PDT Partners, Databricks, Affirm, Roadie, ByteDance, Shield AI, Figma, DoorDash, Stripe, ServiceNow, Capital One, Axon
+**Scan version:** v86 (autonomous agent — targeted freshness sweep)
+**Date:** 2026-04-16
+**Pipeline total history:** 2,319 entries
 
 ---
 
-## Results
+## Coverage
 
-| Status | Count |
+| Source | Method | Result |
+|--------|--------|--------|
+| Anthropic (Greenhouse API) | Level 2 | confirmed dup (v85) |
+| Glean (Greenhouse API) | Level 2 | confirmed dup |
+| Vercel (Greenhouse API) | Level 2 | confirmed dup |
+| Mercury, Roadie, HPIQ, Obsidian, Cloudflare, PDT, Gemini | Greenhouse | all confirmed dup |
+| Notion, Giga, Fizz, Replit, Cohere, Sentry, Sierra, Harvey | Ashby | all confirmed dup |
+| Symmetry, ShieldAI, Artera, Palantir, Mistral, W&B | Lever | all confirmed dup |
+| SimplifyJobs Summer2026 (0d entries) | Aggregator | 6 new URLs found |
+| SimplifyJobs New-Grad (0d entries) | Aggregator | 0 new qualifying entries |
+| SpeedyApply SWE (0d entries) | Aggregator | 0 new (all dup v79+) |
+| SpeedyApply AI (0d entries) | Aggregator | 0 new (all dup v79+) |
+| 40+ WebSearch queries (Greenhouse/Ashby/Lever/misc) | Level 3 | All confirmed dup |
+
+---
+
+## Stats
+
+| Metric | Count |
 |--------|-------|
-| New URLs found | **1** |
-| Confirmed dups | **50+** |
-| No interns / no qualifying roles | **8** |
-| Evaluation reports written | **0** |
-| Listings scored ≥4.0 | **0** |
+| Sources scanned | 25+ companies + 4 aggregators + 40+ search queries |
+| Total URLs checked | ~70 |
+| Confirmed duplicates | 63 |
+| New URLs found | 6 |
+| New URLs scoring >=4.0 | 0 |
+| Evaluation reports generated | 0 |
+| scan-history.tsv entries before | 2,290 |
+| scan-history.tsv entries after | 2,319 |
 
 ---
 
-## New Listings Found (v85)
+## New Listings Found (all below 4.0 threshold)
 
-### 🟠 Axon — Software Engineer I (New Grad 2026)
-**URL:** https://job-boards.greenhouse.io/axon/jobs/7662648003
-**Score:** ~3.3/5 (below 4.0 threshold)
-**Company:** Axon (public safety tech — body cameras, Tasers, cloud software for law enforcement; NASDAQ: AXON)
-**Location:** Boston MA or Seattle WA (hybrid — in-office Tue–Fri)
-**Comp:** ~$120–155K estimated (Boston) / ~$150–200K (Seattle)
-**Notes:** Carlos's Python/TypeScript/AWS production stack transfers. Cybersecurity minor adjacent. 2-year rotational program. Domain (public safety/law enforcement) is not a primary target. Relocation required. Below threshold — add to pipeline for consideration if expanding FTE new grad options.
-
----
-
-## ⚠️ URGENT — APPLY IMMEDIATELY (Deadline: April 26, 2026)
-
-1. **Anthropic Fellows Program — AI Security** (#246, **4.7/5**)
-   - https://job-boards.greenhouse.io/anthropic/jobs/5030244008
-   - Apply via **Constellation** (NOT Greenhouse directly)
-   - $3,850/week + $15K/month compute | 4-month fellowship | July 2026 start
-   - Carlos's adversarial LLM testing + cybersecurity minor = near-perfect match
-   - **10 days remaining — HIGHEST PRIORITY**
-
-2. **Anthropic Fellows Program — AI Safety** (#370, **4.2/5**)
-   - https://job-boards.greenhouse.io/anthropic/jobs/5183044008
-   - Same deadline, same program, different research track
+| # | Company | Role | Score | Location | Notes |
+|---|---------|------|-------|----------|-------|
+| 1 | Equinix | Enterprise AI Intern | ~3.3/5 | San Carlos CA | $40/hr; AI COE internal tooling; Bay Area relocation |
+| 2 | Equinix | Software Engineering Intern | ~3.3/5 | Dallas TX | $40/hr; data center SWE; Dallas accessible from TAMU |
+| 3 | Socure | Engineering Intern - AI Agents, Data & RiskOS | ~3.2/5 | Remote USA | Identity fraud AI agents; MS degree may be required - verify |
+| 4 | Rakuten Advertising | AI Engineer Intern | ~3.0/5 | San Mateo CA | Multi-agent (LangGraph/AutoGen) stack match; ad-tech domain; Bay Area |
+| 5 | Socure | Engineering Intern - DocV & Device | ~2.8/5 | Remote USA | Document verification + device fingerprinting; 8wk June 15-Aug 15 |
+| 6 | InvoiceCloud | Software Engineering Intern | ~2.5/5 | Boston MA | Payment automation for utilities; non-primary domain |
 
 ---
 
-## Previously Evaluated — Still Open to Apply
+## Top Priority Actions
 
-| # | Company | Role | Score |
-|---|---------|------|-------|
-| 369 | Databricks | SWE Intern 2026 | 4.1/5 |
-| 52 | Glean | SWE University Grad | 4.5/5 |
-| 368 | PDT Partners | SWE Intern Summer 2026 | 4.0/5 |
-| 280 | Point72 | AI Engineer Intern | 4.0/5 |
-| 279 | Scale AI | SWE New Grad | 4.2/5 |
-| 273 | Cloudflare | Security Intern | 4.3/5 |
-| 281 | Mechanize | SWE Intern | 4.2/5 |
+### URGENT - Apply Before April 26
+1. Anthropic Fellows AI Security (#246) - 4.7/5 - DEADLINE: April 26, 2026 (10 days)
+   Apply at: https://job-boards.greenhouse.io/anthropic/jobs/5030244008
+
+2. Anthropic Fellows AI Safety (#370) - 4.2/5 - DEADLINE: April 26, 2026 (10 days)
+   Apply at: https://job-boards.greenhouse.io/anthropic/jobs/5183044008
+
+### High Priority Pending (score >=4.0)
+- 1Password Developer Intern - Extension Excellence (4.3/5) - scan-v78 - Remote US/Canada May-Aug
+- 1Password Developer Intern - Trust Platforms (4.0/5) - scan-v78 - Remote US/Canada May-Aug
+- The Voleon Group SWE Intern (4.1/5) - NYC/hybrid
+- Databricks SWE Intern (4.1/5, #369) - Mountain View CA
+- PDT Partners SWE Intern (4.0/5, #368) - NYC quant
+
+### New This Scan Worth Considering
+- Equinix SWE Intern Dallas (~3.3/5) - Dallas TX, $40/hr, accessible from TAMU; apply if expanding Texas pipeline
+- Socure AI Agents Intern (~3.2/5) - Remote, verify BS eligibility before applying
 
 ---
 
-## Pipeline Status
+## Pipeline Health
 
-The Summer 2026 internship pipeline is **comprehensively saturated** through scan v85.
-The scan history has 2,290+ entries covering 80+ companies and all major job boards.
+- Total scan history entries: 2,319
+- Pipeline saturation level: ~99% — most major intern portals, job boards, and aggregators fully covered after 86 scans
+- New content rate: Declining — averaging 1-6 genuinely new URLs per scan since v72
+- Recommendation: Focus effort on APPLYING to existing high-priority pipeline entries. The scanning phase is effectively complete for Summer 2026.
 
-**Recommendation:** Stop scanning for new listings. The marginal return of additional scans is near zero. Focus all energy on **applying** to existing high-priority entries — especially Anthropic Fellows before the April 26 deadline.
+---
+
+## System Note
+
+career-ops update available: v1.1.0 -> v1.3.0
+Run: node update-system.mjs apply
+(Your CV, profile, tracker, and reports will NOT be touched.)
