@@ -2,6 +2,12 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-17 SCAN v99 (Autonomous Agent — deep saturation sweep v99: 25+ companies/portals scanned; Level 2 Greenhouse APIs (PolyAI/Intercom/Temporal/HumeAI — all no intern roles); Level 3 WebSearch across Ashby/Greenhouse/Lever (all found URLs already in history); NEW company checks (Perplexity EU-only/Modal no listings/Character.AI no intern/Codeium 2025-only/Cognition no intern/Groq no Summer 2026); Portals.yml companies (n8n/Zapier/ElevenLabs — no new intern roles); ByteDance 5 new infra/platform intern URLs; Ripple Finance Primitives (redirected/possibly closed); KEY FINDINGS: 6 new URLs — ALL below 4.0/5 threshold; ByteDance Developer Infra/Edge/FinTech/RelDB/Foundation (~2.0-2.8/5, Chinese parent + domain mismatch); Ripple Finance Primitives (~2.5/5, crypto domain + redirect); 0 reports filed; pipeline FULLY SATURATED for Summer 2026; history now 2,523 entries) === -->
+<!-- 6 new URLs found (0 scored >=4.0). ALL below threshold. History: 2,523 entries. Pipeline saturated. -->
+<!-- URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+<!-- URGENT: Anthropic Fellows AI Safety #370 4.2/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+<!-- URGENT: Anthropic Fellows ML Systems #372 4.1/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+
 <!-- === NEW 2026-04-17 SCAN v98 (Autonomous Agent — broad fresh sweep v98: 27+ companies/portals scanned; Greenhouse APIs (Verkada/Affirm/MEMX/C3.ai/Gallup/Astranis/Cloudflare London/Klaviyo/ServiceNow/Clear/Mercury/Aquatic); Ashby (Zip/Handshake/Pulse/Lambda/UnlikelyAI); Lever (Symmetry Systems/Artera); WebSearch (Wiz/Snyk/Abnormal/ServiceNow/Deloitte tech); KEY FINDINGS: 11 new URLs — Zip SWE Intern REOPENED (new intern role, prev #116 was new-grad) $58-60/hr 4.0/5 EVALUATED report #376; Verkada Security+Backend interns ~3.7/5; Handshake AI/ML intern ~3.7/5; Affirm SWE intern ~3.4/5; Symmetry Systems Data+AI Security ~3.5/5; Pulse ML intern ~3.5/5; MEMX InfoSec repost ~3.2/5; C3.ai Ascend ~3.5/5; Lambda ML ~3.2/5; CLOSED/SKIP: Wiz no intern; Mercury deadline passed March 6; Astranis $29/hr; UnlikelyAI UK; ServiceNow ML training focus; 1 report filed; history now 2,517 entries) === -->
 <!-- 11 new URLs found (1 scored >=4.0 — Zip SWE Intern report #376). History: 2,517 entries. -->
 <!-- URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
@@ -28,6 +34,15 @@
 
 ### Pipeline Pending (score est. ~3.5/5) — scan-v98
 - [ ] https://job-boards.greenhouse.io/c3ascend/jobs/8106512002 | C3 AI | Software Engineer - Intern (Summer 2026) | ~3.5/5 | Redwood City CA on-site May-Sep; $6K-8K/mo; enterprise AI applications; Java/Python/C++; Bay Area relocation
+
+### Pipeline Pending (score est. ~2.8/5) — scan-v99 — ⚠️ Chinese parent company + infrastructure domain
+- [ ] https://joinbytedance.com/search/7595707875767699765 | ByteDance | Software Engineer Intern (Developer Infrastructure) - 2026 Summer | ~2.8/5 | Mountain View/San Jose CA; CI/CD + Cloud IDE + repo mgmt systems; Python/Go; 12 wks; brand risk (Chinese parent); not AI-focused
+
+### Pipeline Pending (score est. ~2.5/5) — scan-v99 — ⚠️ Chinese parent company + edge infra domain
+- [ ] https://joinbytedance.com/search/7538121437628221703 | ByteDance | Software Engineer Intern (Edge Platform) - 2026 Summer | ~2.5/5 | Mountain View CA; globally distributed edge PoPs; cloud-native infrastructure; Chinese parent company concern
+
+### Pipeline Pending (score est. ~2.5/5) — scan-v99 — ⚠️ crypto domain + URL redirect (possibly closed)
+- [ ] https://job-boards.greenhouse.io/ripple/jobs/7467186 | Ripple | Software Engineer Intern, Finance Primitives (Summer 2026) | ~2.5/5 | URL redirected — possibly closed; Ripple (XRP crypto) domain concern; Python/Java/Go; 12 wks; verify listing active before applying
 
 <!-- === NEW 2026-04-17 SCAN v97 (Autonomous Agent — deep discovery sweep v97: Greenhouse APIs (Databricks/HubSpot/Figma/Datadog/Elastic/Crowdstrike/Rubrik); WebSearch sweep (Microsoft/Google/Meta/Deloitte/Accenture/Booz Allen — all confirmed dup); NVIDIA new specific intern IDs (Omniverse/Robot Learning/CUDA Core Libs/CUDA Build/System Software Video/Omniverse Replicator/Neural Reconstruction/Robotics Simulation — all new IDs not in v69 confirmed list); Applied Materials (first-time scan; SWE Intern Santa Clara + DevOps Intern Gloucester); SimplifyJobs 0d check; SpeedyApply SWE 0d check; YC internships page confirmed all dup from v84; 25+ companies/portals checked; KEY FINDINGS: 10 new URLs — all below 4.0/5 threshold; NVIDIA specialized roles (robotics/CUDA/simulation, ~2.0-2.8/5, not Carlos's stack); Applied Materials SWE + DevOps (~2.8/5, semiconductor domain); big tech all confirmed dup; consulting/defense all confirmed dup; 0 reports filed; history now 2,491 entries; PIPELINE FULLY SATURATED for Summer 2026) === -->
 <!-- 10 new URLs found (0 scored >=4.0). All below threshold. History: 2,491 entries. Pipeline saturated. -->
