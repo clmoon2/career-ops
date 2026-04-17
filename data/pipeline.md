@@ -2,6 +2,33 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-17 SCAN v98 (Autonomous Agent — broad fresh sweep v98: 27+ companies/portals scanned; Greenhouse APIs (Verkada/Affirm/MEMX/C3.ai/Gallup/Astranis/Cloudflare London/Klaviyo/ServiceNow/Clear/Mercury/Aquatic); Ashby (Zip/Handshake/Pulse/Lambda/UnlikelyAI); Lever (Symmetry Systems/Artera); WebSearch (Wiz/Snyk/Abnormal/ServiceNow/Deloitte tech); KEY FINDINGS: 11 new URLs — Zip SWE Intern REOPENED (new intern role, prev #116 was new-grad) $58-60/hr 4.0/5 EVALUATED report #376; Verkada Security+Backend interns ~3.7/5; Handshake AI/ML intern ~3.7/5; Affirm SWE intern ~3.4/5; Symmetry Systems Data+AI Security ~3.5/5; Pulse ML intern ~3.5/5; MEMX InfoSec repost ~3.2/5; C3.ai Ascend ~3.5/5; Lambda ML ~3.2/5; CLOSED/SKIP: Wiz no intern; Mercury deadline passed March 6; Astranis $29/hr; UnlikelyAI UK; ServiceNow ML training focus; 1 report filed; history now 2,517 entries) === -->
+<!-- 11 new URLs found (1 scored >=4.0 — Zip SWE Intern report #376). History: 2,517 entries. -->
+<!-- URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+<!-- URGENT: Anthropic Fellows AI Safety #370 4.2/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+<!-- URGENT: Anthropic Fellows ML Systems #372 4.1/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+
+### ⭐ Evaluated (score 4.0/5) — scan-v98 — REPORT FILED — ⚠️ verify listing active
+- [x] https://jobs.ashbyhq.com/zip/2bad03a8-4e98-480e-b8cb-bc65d36e429f | Zip | Software Engineer Intern (Summer 2026) | **4.0/5** → report #376 | $58-60/hr; SF hybrid / Remote US; Python/TS/React/GraphQL; Anthropic+OpenAI use Zip; procurement automation = Finch analog; intern repost (prev new-grad #116 removed Mar 2026); verify still open before applying
+
+### Pipeline Pending (score est. ~3.7/5) — scan-v98 — ⚠️ Bay Area relocation required
+- [ ] https://job-boards.greenhouse.io/verkada/jobs/4842371007 | Verkada | Security Software Engineering Intern 2026 | ~3.7/5 | San Mateo CA on-site; $55-65/hr + housing stipend; Python/Golang/AWS/Docker; security systems for physical security cameras+access control; cybersec minor relevant; graduating Jun 2027
+
+### Pipeline Pending (score est. ~3.7/5) — scan-v98 — ⚠️ Bay Area relocation required
+- [ ] https://job-boards.greenhouse.io/verkada/jobs/4836993007 | Verkada | Backend Software Engineering Intern 2026 | ~3.7/5 | San Mateo CA on-site; $55-65/hr + housing stipend; Python/Golang/Redis/DynamoDB; distributed systems at 100K+ device scale; strong backend skills match
+
+### Pipeline Pending (score est. ~3.7/5) — scan-v98 — ⭐ thematic match (job platform)
+- [ ] https://jobs.ashbyhq.com/handshake/eece422a-da6b-42e7-b694-3329e6ae4d6a | Handshake | AI/Machine Learning Engineer Intern | ~3.7/5 | SF; comp not disclosed; building AI for college job discovery (thematic match to ApplyEasy); ML framework depth likely required (PyTorch/TF); verify requirements before applying
+
+### Pipeline Pending (score est. ~3.5/5) — scan-v98
+- [ ] https://jobs.lever.co/SymmetrySystems/dbca271b-a99b-48ab-83f2-b596a037ad65 | Symmetry Systems | Full Stack Software Engineer - 2026 Summer Intern | ~3.5/5 | Remote US; comp unknown; Data+AI Security DSPM platform; JS+Python; adversarial AI security angle; small startup
+
+### Pipeline Pending (score est. ~3.5/5) — scan-v98 — ⚠️ model training required
+- [ ] https://jobs.ashbyhq.com/pulse/e9a43a34-1b7b-4ab8-b646-89f4db85d264 | Pulse | Machine Learning Engineer Intern (Summer 2026) | ~3.5/5 | SF; $7K-12K/mo; YC company; OCR/VLM fine-tuning; production AI scale; model training gap for Carlos
+
+### Pipeline Pending (score est. ~3.5/5) — scan-v98
+- [ ] https://job-boards.greenhouse.io/c3ascend/jobs/8106512002 | C3 AI | Software Engineer - Intern (Summer 2026) | ~3.5/5 | Redwood City CA on-site May-Sep; $6K-8K/mo; enterprise AI applications; Java/Python/C++; Bay Area relocation
+
 <!-- === NEW 2026-04-17 SCAN v97 (Autonomous Agent — deep discovery sweep v97: Greenhouse APIs (Databricks/HubSpot/Figma/Datadog/Elastic/Crowdstrike/Rubrik); WebSearch sweep (Microsoft/Google/Meta/Deloitte/Accenture/Booz Allen — all confirmed dup); NVIDIA new specific intern IDs (Omniverse/Robot Learning/CUDA Core Libs/CUDA Build/System Software Video/Omniverse Replicator/Neural Reconstruction/Robotics Simulation — all new IDs not in v69 confirmed list); Applied Materials (first-time scan; SWE Intern Santa Clara + DevOps Intern Gloucester); SimplifyJobs 0d check; SpeedyApply SWE 0d check; YC internships page confirmed all dup from v84; 25+ companies/portals checked; KEY FINDINGS: 10 new URLs — all below 4.0/5 threshold; NVIDIA specialized roles (robotics/CUDA/simulation, ~2.0-2.8/5, not Carlos's stack); Applied Materials SWE + DevOps (~2.8/5, semiconductor domain); big tech all confirmed dup; consulting/defense all confirmed dup; 0 reports filed; history now 2,491 entries; PIPELINE FULLY SATURATED for Summer 2026) === -->
 <!-- 10 new URLs found (0 scored >=4.0). All below threshold. History: 2,491 entries. Pipeline saturated. -->
 <!-- URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
