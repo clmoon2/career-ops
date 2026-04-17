@@ -2,6 +2,18 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-17 SCAN v97 (Autonomous Agent — deep discovery sweep v97: Greenhouse APIs (Databricks/HubSpot/Figma/Datadog/Elastic/Crowdstrike/Rubrik); WebSearch sweep (Microsoft/Google/Meta/Deloitte/Accenture/Booz Allen — all confirmed dup); NVIDIA new specific intern IDs (Omniverse/Robot Learning/CUDA Core Libs/CUDA Build/System Software Video/Omniverse Replicator/Neural Reconstruction/Robotics Simulation — all new IDs not in v69 confirmed list); Applied Materials (first-time scan; SWE Intern Santa Clara + DevOps Intern Gloucester); SimplifyJobs 0d check; SpeedyApply SWE 0d check; YC internships page confirmed all dup from v84; 25+ companies/portals checked; KEY FINDINGS: 10 new URLs — all below 4.0/5 threshold; NVIDIA specialized roles (robotics/CUDA/simulation, ~2.0-2.8/5, not Carlos's stack); Applied Materials SWE + DevOps (~2.8/5, semiconductor domain); big tech all confirmed dup; consulting/defense all confirmed dup; 0 reports filed; history now 2,491 entries; PIPELINE FULLY SATURATED for Summer 2026) === -->
+<!-- 10 new URLs found (0 scored >=4.0). All below threshold. History: 2,491 entries. Pipeline saturated. -->
+<!-- URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+<!-- URGENT: Anthropic Fellows AI Safety #370 4.2/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+<!-- URGENT: Anthropic Fellows ML Systems #372 4.1/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+
+### Pipeline Pending (score est. ~2.8/5) — scan-v97 — ⚠️ specialized domain
+- [ ] https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Software-Engineering-Intern--Robot-Learning-Platform---Summer-2026_JR2007959 | NVIDIA | Software Engineering Intern, Robot Learning Platform | ~2.8/5 | Santa Clara CA; Isaac Lab RL/robot learning Python platform; ML background required; Carlos's multi-agent/Python matches partially but robotics domain is distant; high brand value; strong comp; skip unless targeting robotics
+
+### Pipeline Pending (score est. ~2.8/5) — scan-v97 — ⚠️ semiconductor domain
+- [ ] https://amat.wd1.myworkdayjobs.com/en-US/External/job/XMLNAME-2026-Summer-Intern---Software-Engineer--Bachelors---Santa-Clara--CA-_R2612967 | Applied Materials | 2026 Summer Intern - Software Engineer (Bachelors) | ~2.8/5 | Santa Clara CA; semiconductor test software; real-time control + data analysis; Python/C++ stack; non-primary domain (semiconductor manufacturing); Fortune 500 brand; Bay Area relocation
+
 <!-- === NEW 2026-04-17 SCAN v96 (Autonomous Agent — broad portal sweep v96: Greenhouse APIs (Cloudflare/Point72/iCapital/Samsung SRA/Robinhood/DoorDash/Together AI/Sigma/Klaviyo/Roadie/Anthropic); Ashby (Monarch Money/Vantage/Sift/Harvey/Replit/Notion/Fizz/Delinea/Farsight/Zettabyte/Sentry); Lever (Artera/Voleon/Palantir/BestEgg/NimbleRx); WebSearch (Dropbox/Capital One Cyber/McKinsey-BCG/Palo Alto Networks/Samsung/Cisco/BCG X); 25+ companies checked; KEY FINDINGS: 7 new URLs — Dropbox SWE Intern (Remote US $8-9.5K/mo) EVALUATED 4.0/5 report #375; Capital One Cyber Intern Plano TX ~3.6/5; Monarch Money SWE Intern Remote $45/hr ~3.6/5; iCapital ML/AI Intern NYC ~3.2/5; Samsung SRA ML Intern Mountain View ~3.3/5; Vantage SWE Intern NYC ~3.0/5; Sift SWE Intern ~3.0/5; CLOSED: Cloudflare 7774167 404; BCG X requires Masters; Cisco deadline passed; history now 2,473 entries; 1 report filed #375) === -->
 <!-- 7 new URLs found (1 scored >=4.0). History: 2,473 entries. -->
 <!-- URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->

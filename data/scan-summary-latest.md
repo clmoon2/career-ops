@@ -1,87 +1,85 @@
-# Portal Scan Summary — 2026-04-17 (scan-v96)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Portal Scan — 2026-04-17 (v97)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan date:** 2026-04-17
-**Agent:** Autonomous scan agent
-**Scan version:** v96
+**Scan run:** v97 (Autonomous Agent — deep discovery sweep)
+**Date:** 2026-04-17
+**Scan history entries:** 2,491 (was 2,481 before this run)
 
----
+## Sources Checked
 
-## Stats
+| Source | Method | Result |
+|--------|--------|--------|
+| Greenhouse APIs (Databricks/HubSpot/Figma/Datadog/Elastic/Crowdstrike/Rubrik) | API JSON | 0 intern roles found |
+| NVIDIA Workday (new JR IDs: Omniverse/Robot Learning/CUDA/Replicator/Video/Robotics Sim/Neural Reconstruction) | WebSearch | 8 new IDs, all ~2.0-2.8/5 |
+| Applied Materials Workday (SWE Intern + DevOps Intern) | WebSearch | 2 new roles, ~2.8/5 |
+| Microsoft / Google / Meta / Deloitte / Accenture / Booz Allen | WebSearch | All confirmed dup from v7-v82 |
+| YC internships page | WebSearch | All confirmed dup from v84 |
+| SimplifyJobs Summer2026-Internships (0d entries) | WebFetch | Pinterest Fall 2026 (wrong season) — no qualifying additions |
+| SpeedyApply 2026-SWE-College-Jobs (0d entries) | WebFetch | Applied Materials new (added above), rest in history |
+| SpeedyApply 2026-AI-College-Jobs (0d entries) | WebFetch | Poshmark AI/ML (v93 dup), Bandwidth Graphic Design (skipped_title) |
+| Cloudflare Greenhouse API (full board) | WebFetch | All roles confirmed dup from v9-v94 |
+| Anthropic Greenhouse API (full board) | WebFetch | STEM Fellow (PhD req, v94 dup) — no new intern roles |
+| Security Greenhouse portals | WebSearch | All confirmed dup from v7-v75 |
+| Lever sweep | WebSearch | All confirmed dup from v7-v61 |
+| YC W26 startup sweep | WebSearch | All confirmed dup from v30-v84 |
+| ByteDance joinbytedance.com | History check | Confirmed dup or out-of-scope |
+| SAP / IBM / Oracle / Atlassian | WebSearch | All confirmed dup from v34-v68 |
+| 25+ additional company checks | Various | All dup from prior scans |
+
+## Results
 
 | Metric | Count |
 |--------|-------|
-| Companies checked | 25+ |
-| Search queries executed | 20+ |
-| URLs evaluated total | 22 |
-| New URLs added to pipeline | 7 |
-| Scored ≥ 4.0 (full report) | 1 |
-| Confirmed dups | 11 |
-| Closed / ineligible | 4 |
-| Scan-history entries | 2,473 (was 2,459) |
+| Portals/sources checked | 25+ |
+| Total URLs processed | 80+ |
+| Filtered by title | 8 |
+| Skipped — duplicate | 60+ |
+| Skipped — closed/past deadline | 5 |
+| Skipped — score below threshold | 7 |
+| **New URLs added to history** | **10** |
+| **Scored ≥4.0 (reports filed)** | **0** |
 
----
+## New URLs Found (all below 4.0/5 threshold)
 
-## Top Match (Score ≥ 4.0)
+| Company | Role | Score | Notes |
+|---------|------|-------|-------|
+| NVIDIA | SWE Intern, Omniverse (JR2007644) | ~2.5/5 | C++/graphics/sim; not Carlos's stack |
+| NVIDIA | SWE Intern, Robot Learning Platform (JR2007959) | ~2.8/5 | Python/ML/robotics; distant domain |
+| NVIDIA | SWE Intern, CUDA Core Libraries (JR2009031) | ~2.0/5 | Deep CUDA/C++; skip |
+| NVIDIA | SWE Intern, CUDA Build (JR2012415-1) | ~2.5/5 | Build systems; skip |
+| NVIDIA | System SW Intern, Video (JR2006997) | ~2.0/5 | Multimedia C++; skip |
+| NVIDIA | SWE Intern, Omniverse Replicator (JR2008720) | ~2.8/5 | Synthetic data Python; distant domain |
+| NVIDIA | SWE Intern, Neural Reconstruction (JR2010555-1) | ~2.0/5 | 3D NeRF research; skip |
+| NVIDIA | SWE Intern, Robotics Simulation (JR2008030) | ~2.8/5 | Isaac Sim; distant domain |
+| Applied Materials | 2026 Summer Intern - SWE (R2612967) | ~2.8/5 | Semiconductor test software; Santa Clara CA |
+| Applied Materials | 2026 Summer DevOps Intern (R2518905-1) | ~2.8/5 | Semiconductor CI/CD; Gloucester MA |
 
-### ⭐ #375 — Dropbox — Software Engineer Intern (Summer 2026) — **4.0/5**
+## Pipeline Status
 
-| Field | Details |
-|-------|---------|
-| URL | https://www.dropbox.jobs/en/jobs/7449835/software-engineer-intern-summer-2026/ |
-| Location | **Remote US (Virtual First)** |
-| Compensation | **$8,000–$9,500/month** (~$48–57/hr) |
-| Duration | 12 weeks (Summer 2026) |
-| Graduation req | Fall 2027 or Spring 2028 ✅ |
-| Teams | **Dash AI**, **Security Engineering**, Product Eng, Infrastructure, CX |
-| Tech | Python, Go, JavaScript, TypeScript, C++ |
-| Report | [375](reports/375-dropbox-swe-intern-2026-04-17.md) |
+**The Summer 2026 internship pipeline is fully saturated.** After 97 comprehensive scans covering 2,491 URLs across all major portals (Greenhouse, Ashby, Lever, Workday, YC, SimplifyJobs, SpeedyApply, company direct), no new high-quality matches remain. All major companies (big tech, AI labs, security, startups, consulting, defense) have been exhaustively covered.
 
-**Why it scores 4.0:** Remote + competitive comp + 3 directly relevant tracks (Security Engineering = OAuth/HMAC/TLS exact match; Dash AI = multi-model LLM pipeline exact match; Infrastructure = blue/green CI/CD match). Big brand with genuine remote commitment. Carlos's production security engineering is directly transferable to Dropbox's Security team.
+## Top Matches Still Pending Application
 
-**→ APPLY: Security Engineering track. Include cover letter with OAuth proxy + TLS implementation as lead proof point.**
-
----
-
-## New URLs Added to Pipeline (Below 4.0 Threshold)
-
-| Company | Role | Score | Location | Comp | Notes |
-|---------|------|-------|----------|------|-------|
-| Capital One | Cyber Security Internship Summer 2026 | ~3.6 | Plano TX hybrid | $59/hr | Cybersec minor match; 10 weeks; large bank domain |
-| Monarch Money | Software Engineering Intern (Summer 2026) | ~3.6 | Remote US | $45/hr | 8 weeks only; Python/TypeScript/Django/React; mentions Claude Code |
-| Samsung Research America | ML Engineer Intern (Summer 2026) | ~3.3 | Mountain View CA | $44-63/hr | ML research focus; hardware/research culture |
-| iCapital | ML/AI Engineering Summer 2026 Intern | ~3.2 | NYC in-person 5d/wk | undisclosed | Fintech wealth mgmt; LLM/ML; Jun 7-Aug 8 |
-| Vantage | Software Engineering Intern (Summer 2026) | ~3.0 | NYC | undisclosed | FinOps cloud cost platform; a16z backed |
-| Sift | Software Engineering Intern | ~3.0 | TBD | undisclosed | Fraud detection ML; needs further evaluation |
-
----
-
-## Confirmed Dups / Ineligible
-
-- Cloudflare 7774167 — **CLOSED** (404 redirect)
-- Point72 AI Engineer Intern variants (8500448002 / 8486146002 / 8169852002) — dup of #303/#323
-- Notion SWE Intern 23ac2477 — dup of v29-v71 entry
-- Palo Alto Networks (via RippleMatch) — $38-43/hr below comp minimum
-- BCG X AI Intern — requires Masters/PhD
-- Cisco — application deadline passed (Aug-Sep 2025 close)
-
----
-
-## URGENT Reminders (DEADLINE APRIL 26 — 9 DAYS)
-
-| # | Company | Role | Score | Deadline |
-|---|---------|------|-------|----------|
-| 246 | Anthropic | Fellows Program — AI Security | **4.7/5** | **April 26** |
-| 370 | Anthropic | Fellows Program — AI Safety | **4.2/5** | **April 26** |
-| 372 | Anthropic | Fellows Program — ML Systems & Performance | **4.1/5** | **April 26** |
-
----
+| # | Company | Role | Score | Deadline | Priority |
+|---|---------|------|-------|----------|----------|
+| 246 | Anthropic | Fellows AI Security | **4.7/5** | **APRIL 26** | 🔴 URGENT |
+| 370 | Anthropic | Fellows AI Safety | **4.2/5** | **APRIL 26** | 🔴 URGENT |
+| 371 | Roadie (UPS) | AI Engineer Intern | **4.2/5** | Open | 🔴 Apply now |
+| 372 | Anthropic | Fellows ML Systems | **4.1/5** | **APRIL 26** | 🔴 URGENT |
+| 374 | Hugging Face | GUI Agents ML Intern | **4.0/5** | Open | High |
+| 375 | Dropbox | SWE Intern (Security/AI) | **4.0/5** | Open | High |
 
 ## Recommended Next Actions
 
-1. **TODAY:** Apply to Anthropic Fellows AI Security (#246, 4.7/5) — 9 days to deadline
-2. **TODAY:** Apply to Anthropic Fellows AI Safety (#370, 4.2/5) — 9 days to deadline
-3. **THIS WEEK:** Apply to Dropbox SWE Intern (#375, 4.0/5) — Remote, Security/Dash AI track
-4. **THIS WEEK:** Apply to Anthropic Fellows ML Systems (#372, 4.1/5) — 9 days to deadline
+1. **URGENT**: Apply to Anthropic Fellows AI Security (#246), AI Safety (#370), ML Systems (#372) — **deadline April 26, 2026 (9 days away)**
+2. **Apply**: Roadie AI Engineer Intern (#371) — remote, LangChain/FastAPI/RAG exact stack match
+3. **Apply**: Hugging Face GUI Agents ML Intern (#374) — remote US, screen OCR + OS automation match
+4. **Apply**: Dropbox SWE Intern (#375) — remote US, $8-9.5K/month, security + Dash AI tracks
+5. **Run pipeline**: `/career-ops pipeline` to fully evaluate Capital One Cyber, Monarch Money, and other ~3.6/5 listings from v96
 
-*Next scan recommended: 2026-04-21. Pipeline is saturated; focus on applying to existing high-score listings.*
+## Scan Notes
+
+- Pipeline fully saturated after 97 scans; discovery phase essentially complete
+- Next scan should focus on **pipeline processing** rather than further discovery
+- Any new roles will only emerge from late-opening companies (very rare in April for summer 2026)
+- Monitor SimplifyJobs/SpeedyApply for surprise late openings only
