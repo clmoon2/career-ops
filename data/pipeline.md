@@ -1805,3 +1805,19 @@
 <!-- No new listings found. Scan history now 2547+ entries. The Summer 2026 internship market has matured and most major openings are now captured. -->
 
 <!-- === END 2026-04-17 SCAN v101 === -->
+
+<!-- === NEW 2026-04-17 SCAN v102 (Autonomous Agent — broad WebSearch sweep across SimplifyJobs repo recent additions (Apr 15-17), Ashby/Greenhouse/Lever site searches, 6+ company-specific searches; 5 new listings found; 1 evaluated at 4.0/5) -->
+<!-- Confirmed no-change (all dup/no-interns): Cohere (all 6 intern roles dup v7), ElevenLabs (Impact Intern only = dup #314 2/5), Arize AI (no interns), Hume AI (no interns), Cloudflare (all roles dup v89/v94), xAI (Civil/Mech only = skipped_title), Salesforce (all dup v41-v53), IBM Research AI Engineer (MS/PhD required), SAP Security AI (confirmed CLOSED v68), Snyk (UK/Israel focused), Figma (dup v35), Belvedere Trading (dup v7), Decagon (dup v7), Crusoe AppSec (confirmed closed), Intel Agentic AI (not in history but research-focused 3.5/5 below threshold), Kognitos (low comp $3.4K/mo 2.5/5 skip), Nielsen Cloud Security (too low comp $15-20K total skip), Voltus Security ($25-30/hr below minimum skip), Commvault Field CTO (pre-sales 2.5/5 skip), Zoox (dup v61). SpeedyApply: no new qualifying additions. SimplifyJobs most recent: Canon/Uhaul/Leidos/RTX/Stifel/Wash U/ScentAir — all non-target. -->
+
+### ✅ Evaluated (score ≥ 4.0) — scan-v102
+- [x] https://jobs.lever.co/verygoodsecurity/32fe92a6-13d5-4132-b77c-a7a5ed74f38b | Very Good Security (VGS) | Application Security Intern — Remote; payment tokenization platform; HMAC/TLS/OAuth/CORS exact match; **4.0/5** → report #377 | Verify role active (Lever page returned 403 during fetch)
+
+### 🟡 Pipeline Pending (score est. 3.5–3.8) — scan-v102
+- [ ] https://jobs.lever.co/verygoodsecurity/545c6abf-4891-4bd2-86fe-a6f877fb5d08 | Very Good Security (VGS) | Software Engineer Intern — Remote; payment data security platform; Python/security APIs; same company as #377 AppSec intern; (~3.8)
+- [ ] https://job-boards.greenhouse.io/trumid/jobs/7703392003 | Trumid | AI Automation Intern (Summer 2026) — NYC Midtown; bond trading platform (top-3 US corporate bond e-trading); AI development + automation; Python; within 12mo of grad; ~$42/hr ($87K annualized); quant trading background (Bloomberg/Alpaca) is differentiator; (~3.5)
+- [ ] https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Agentic-AI-Software-Research-Intern_JR0282977 | Intel | Agentic AI Software Research Intern (Summer 2026) — Santa Clara CA; Intel Research; LLMs/multimodal/agentic frameworks; research-focused; ~$48/hr (~$100K annualized); (~3.5)
+
+### 🔷 Pipeline Pending (unknown comp/details) — scan-v102
+- [ ] https://jobs.ashbyhq.com/context/1c657ebf-3842-4ca4-ab55-54ffaf1e49d8 | Context | Summer Intern — SF; company details unknown; verify what Context does before applying; (~3.0 unverified)
+
+<!-- === END 2026-04-17 SCAN v102 === -->
