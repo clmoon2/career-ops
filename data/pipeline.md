@@ -1799,3 +1799,9 @@
 - [ ] https://jobs.ashbyhq.com/Crusoe/1238af1c-d7fd-44b1-9207-2e98c3233975 | Crusoe | AI Intern, Digital Infrastructure Group (Summer 2026) — SF in-person; build production Chief-of-Staff AI agent; Python/SQL/LLMs/agentic patterns (RAG, function calling, planning); graduating Fall 2026–Spring 2027; real estate vertical at premier AI compute company; comp not disclosed but Crusoe pays well; (~3.7)
 
 <!-- === END 2026-04-17 SCAN v100 === -->
+
+<!-- === NEW 2026-04-17 SCAN v101 (Autonomous Agent — comprehensive re-sweep of all portals.yml companies + WebSearch across Greenhouse/Ashby/Lever/GitHub repos; 25+ companies verified; 20+ search queries executed; 0 new listings found beyond v100) -->
+<!-- Verified no-change (all dup/no-interns): CrowdStrike (all roles dup from v8-v9), Proofpoint (all dup from v9), SentinelOne (no US intern program), Wiz (no interns), Okta (all dup), Atlassian (SWE/Security interns confirmed dup from v36/v46), Gemini (crypto domain filtered), Datadog (all dup/closed), Harvey (#351 evaluated), Grammarly (dup), Sentry (Summer dup v36; Fall dup v7), Superhuman (Berlin-only dup), Decagon (dup #355 evaluated), Notion (all dup), Farsight AI (dup), Replit (dup), Giga (dup), Cohere (dup), Whatnot (dup), Zettabyte (dup), Zip (evaluated #376), Roadie AI (evaluated #357), 1Password (evaluated #366/#367 + others dup), Anthropic (API 503; FTE only), SimplifyJobs (most recent: Veeva/Omnis/AllTrails Android/Texas Farm Bureau — non-target). -->
+<!-- No new listings found. Scan history now 2547+ entries. The Summer 2026 internship market has matured and most major openings are now captured. -->
+
+<!-- === END 2026-04-17 SCAN v101 === -->

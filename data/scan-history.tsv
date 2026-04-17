@@ -2545,3 +2545,23 @@ https://www.talkdesk.com/careers	2026-04-17	scan-v100-websearch	Talkdesk: no Sum
 https://www.gong.io/careers	2026-04-17	scan-v100-websearch	Gong: no intern/new grad roles confirmed again (all senior FTE); status unchanged from v90	Gong	skipped_no_intern
 https://langfuse.com/careers	2026-04-17	scan-v100-websearch	Langfuse: joined ClickHouse January 2026; no intern roles found	Langfuse	skipped_no_intern
 https://github.com/speedyapply/2026-AI-College-Jobs	2026-04-17	scan-v100-speedyapply	SpeedyApply AI repo: recent additions (0-3 days) are Bosch/CMT/Latitude PhD/Poshmark — all either in history or below threshold; no new qualifying additions	SpeedyApply AI	skipped_dup
+https://job-boards.greenhouse.io/cloudflare/jobs/7582169	2026-04-17	scan-v101-greenhouse	Security Engineer Intern (Summer 2026) — confirmed dup; London location	Cloudflare	skipped_dup
+https://job-boards.greenhouse.io/togetherai/jobs/5012785007	2026-04-17	scan-v101-greenhouse	Security Engineer Intern (Summer 2026) — confirmed dup; SF; already in history	Together AI	skipped_dup
+https://jobs.ashbyhq.com/1password/44426502-60f1-4639-b662-f48779861ac1	2026-04-17	scan-v101-ashby	Developer Intern - Data Security (Summer 2026) — confirmed dup from v7	1Password	skipped_dup
+https://jobs.ashbyhq.com/1password/a31143c2-8b13-4757-9821-007ea93c2b8c	2026-04-17	scan-v101-ashby	Developer Intern - Device Security (Summer 2026) — confirmed dup from v7	1Password	skipped_dup
+https://jobs.ashbyhq.com/sentry/a37972b3-e3e1-4a47-9302-a216d54e3d37	2026-04-17	scan-v101-ashby	Software Engineer Intern (Summer 2026) — confirmed dup from v36	Sentry	skipped_dup
+https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/ef135dc3-ab5a-4183-a8a7-ec821fdf8220	2026-04-17	scan-v101-ashby	Software Engineer Intern (Summer 2026) — confirmed dup; Berlin-only	Superhuman	skipped_dup
+https://job-boards.greenhouse.io/roadie/jobs/8479096002	2026-04-17	scan-v101-greenhouse	AI Engineer Intern (Summer 2026) — confirmed dup; evaluated #357 (4.2/5)	Roadie	skipped_dup
+https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers	2026-04-17	scan-v101-workday	CrowdStrike all intern roles — confirmed dup from v8-v9 (SWE/InfoSec/Red Team)	CrowdStrike	skipped_dup
+https://www.sentinelone.com/careers/	2026-04-17	scan-v101-websearch	SentinelOne — confirmed no US undergrad intern program	SentinelOne	skipped_no_intern
+https://www.wiz.io/careers	2026-04-17	scan-v101-websearch	Wiz — confirmed no intern roles	Wiz	skipped_no_intern
+https://careers.okta.com	2026-04-17	scan-v101-websearch	Okta — all intern roles confirmed dup from v32 (SWE/SRE closed; Business Systems in pipeline)	Okta	skipped_dup
+https://join.atlassian.com/atlassian-talent-community	2026-04-17	scan-v101-websearch	Atlassian SWE + Security interns — confirmed dup from v36/v46	Atlassian	skipped_dup
+https://job-boards.greenhouse.io/gemini/jobs/7360337	2026-04-17	scan-v101-greenhouse	Gemini Security Engineering Intern — confirmed dup; crypto domain negative filter	Gemini	skipped_dup
+https://careers.datadoghq.com	2026-04-17	scan-v101-websearch	Datadog — all intern roles confirmed dup or closed from v29/v71	Datadog	skipped_dup
+https://jobs.ashbyhq.com/harvey/b6509622-5c1e-4a3f-916b-6e56b8fd212f	2026-04-17	scan-v101-ashby	Harvey SWE Intern — confirmed dup; evaluated #351 (4.1/5)	Harvey	skipped_dup
+https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers	2026-04-17	scan-v101-workday	Proofpoint all intern roles — confirmed dup from v9 (SWE/AI Agents/Agentic AI/DevOps AI all in pipeline)	Proofpoint	skipped_dup
+https://jobs.paloaltonetworks.com/en/category/internships-jobs	2026-04-17	scan-v101-websearch	Palo Alto Networks interns — confirmed in history; security researcher PhD req; SWE interns via RippleMatch only	Palo Alto Networks	skipped_dup
+https://github.com/SimplifyJobs/Summer2026-Internships	2026-04-17	scan-v101-simplify	SimplifyJobs most recent additions: Veeva (dup)/Omnis/AllTrails Android(filtered)/Texas Farm Bureau/Cartesian — all non-target for Carlos	SimplifyJobs	skipped_dup
+https://job-boards.greenhouse.io/2026_summer_intern_program	2026-04-17	scan-v101-greenhouse	2026 Summer Intern Program board — GridBlock/Edged all confirmed dup from v50	2026 Summer Intern	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	2026-04-17	scan-v101-api	Anthropic API — 503 error; board confirms FTE-only openings	Anthropic	skipped_dup

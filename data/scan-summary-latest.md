@@ -1,94 +1,116 @@
-# Portal Scan — 2026-04-17 (v100)
+# Portal Scan — 2026-04-17 (v101)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan version:** v100 (autonomous agent)
+**Run:** Scan v101 — Autonomous Agent (career-ops skill)
 **Date:** 2026-04-17
-**Context:** This scan ran after v96–v99 had already covered the major portals earlier today. Focus was on completing portals.yml coverage for companies not confirmed in prior same-day scans.
+**Scan history size:** 2,567 entries (20 added this run, all confirmed dup/no-intern)
 
 ---
 
-## Coverage
-
-**Companies scanned (30+):**
-PolyAI, Parloa, Intercom, Hume AI (503), Arize AI (503), Deepgram, Vapi, Bland AI, LangChain, Pinecone, n8n, Zapier, Lindy, Attio, Tinybird, TravelPerk, Mistral AI, W&B, Palantir, Sierra, Decagon, Retool, Ada CX, Talkdesk, Twilio, Dialpad, Gong, Genesys, Salesforce, Langfuse, SpeedyApply AI repo
-
-**Search queries run:** 20+
-**Greenhouse APIs checked:** PolyAI, Parloa, Intercom, Hume AI, Arize AI, Gong
-
----
-
-## Results
+## Summary
 
 | Metric | Count |
 |--------|-------|
-| Queries / checks executed | 30+ companies + 20 WebSearch |
-| Total listings found | 1 new |
-| Skipped (already in history) | ~50 URLs |
-| Skipped (no interns at company) | ~20 companies |
-| Skipped (location: non-US) | 4 |
-| **New listings added to pipeline** | **1** |
+| Companies / sources checked | 25+ |
+| WebSearch queries executed | 20+ |
+| Greenhouse API calls | 3 |
+| GitHub repo sweeps | 1 (SimplifyJobs) |
+| Total candidates found | 80+ |
+| New (not in history) | 0 |
+| Filtered by title | 0 (new) |
+| Filtered by location | 0 (new) |
+| Filtered by score | 0 (new) |
+| **New added to pipeline.md** | **0** |
+| **High-score (≥4.0) evaluated** | **0** |
 
 ---
 
-## New Listings Added to Pipeline
+## What Was Checked
 
-### 🟡 Score ~3.7 — Below threshold but worth reviewing
+### Job Board Sweeps (WebSearch)
+- `site:job-boards.greenhouse.io` — SWE, Security, AI/ML interns Summer 2026
+- `site:jobs.ashbyhq.com` — SWE, Backend, AI, Security, Full Stack interns Summer 2026
+- `site:jobs.lever.co` — SWE, Security, DevOps interns Summer 2026
+- `site:jobs.ashbyhq.com` — Security Engineer, Cybersecurity, AppSec interns
+- AI/ML Engineer intern Greenhouse broad sweep
+- DevOps / Cloud / SRE / Platform Engineer intern sweep
+- Texas / Austin / Dallas location-targeted sweep
 
-| Company | Role | Score | URL |
-|---------|------|-------|-----|
-| **Crusoe** | AI Intern, Digital Infrastructure Group (Summer 2026) | ~3.7/5 | [link](https://jobs.ashbyhq.com/Crusoe/1238af1c-d7fd-44b1-9207-2e98c3233975) |
+### Companies Directly Verified
+| Company | Result |
+|---------|--------|
+| CrowdStrike | All intern roles dup from v8-v9 (SWE/InfoSec/Red Team) |
+| Proofpoint | All intern roles dup from v9 (SWE/AI Agents/Agentic AI) |
+| SentinelOne | No US undergrad intern program found |
+| Wiz | No intern roles |
+| Okta | All dup (SWE/SRE closed; Business Systems in pipeline) |
+| Atlassian | SWE + Security interns dup from v36/v46 |
+| Gemini | Security Intern dup; crypto domain filtered |
+| Datadog | All dup or closed from v29/v71 |
+| Harvey | SWE Intern dup; evaluated #351 (4.1/5) |
+| Palo Alto Networks | In history; Security Researcher PhD-required |
+| Anthropic | API 503; FTE-only |
+| 1Password | All 5 intern roles in history (2 evaluated #366/#367) |
+| Sentry | Summer intern dup from v36 |
+| Together AI | Security + SWE interns dup |
+| Roadie | AI Engineer Intern dup; evaluated #357 (4.2/5) |
+| Decagon | Agent SE Intern dup; evaluated #355 |
 
-**Crusoe AI Intern details:**
-- **Location:** San Francisco, CA (in-person)
-- **Mission:** Build a production-ready MVP Chief-of-Staff AI agent in the Real Estate vertical
-- **Tech:** Python, SQL, LLMs, agentic patterns (RAG, function calling, planning), REST APIs, dashboards
-- **Graduation req:** Fall 2026 – Spring 2027 ✓
-- **Comp:** Not disclosed (Crusoe FTE: $197K–$330K, intern likely $50–$70/hr est.)
-- **Score rationale:** Strong agentic AI match (Carlos built 5-LLM production pipeline + 6-agent AutoGen system). Company is premier AI infrastructure (GPU cloud). Domain (real estate) is a stretch vs. primary archetypes but core work is pure agentic engineering. SF relocation required. Scored 3.7 for unknown comp and domain mismatch.
+### GitHub Repos
+- **SimplifyJobs/Summer2026-Internships**: Most recent additions (Veeva, Omnis, AllTrails Android, Texas Farm Bureau Waco TX, Cartesian) — none match Carlos's target roles
 
 ---
 
-## No High-Priority Finds (≥4.0) This Run
+## Context: Why 0 New Listings
 
-**Reason:** The Summer 2026 intern market is winding down (April 17 = late cycle). Most companies have either already posted and closed their intern roles (confirmed in 2,500+ entry scan history), never run intern programs, or require international relocation.
+Scan v100 ran earlier today (April 17, 2026) and was itself a comprehensive sweep. Running v101 the same day confirmed that the Summer 2026 internship market has largely matured:
+
+- **Most major tech companies** opened applications in Aug–Dec 2025 and have since filled or frozen their intern classes
+- **The scan history (2,567 entries)** covers all major ATS platforms (Greenhouse, Ashby, Lever, Workday, custom portals) across 100+ companies
+- **April** is typically when summer internship programs are wrapping up applications, not when new positions open
+- The pipeline still contains **30+ pending listings** (scored 3.0–3.9) awaiting Carlos's review
 
 ---
 
-## Notable Confirmations (No Active Intern Programs)
+## Current Pipeline Status (Top Items)
 
-| Company | Status | Notes |
-|---------|--------|-------|
-| PolyAI | No interns | All FTE, senior roles |
-| Parloa | No interns | All FTE, EMEA-based |
-| Intercom | No interns | All Senior/Staff FTE |
-| LangChain | No interns | FTE only |
-| n8n, Zapier | No interns | FTE only |
-| Attio, Tinybird, TravelPerk | No interns | FTE only |
-| Gong | No interns | Confirmed across multiple scans |
-| Langfuse | N/A | Acquired by ClickHouse Jan 2026 |
-| Talkdesk | No Summer 2026 | Only 2025 data visible |
-| Twilio | No Summer 2026 | January start only (past deadline) |
-| Dialpad | No Summer 2026 US | Canada/India co-ops only |
-| Genesys | No US Summer 2026 | Ireland/Hungary only |
+### Evaluated (≥4.0) — Recent History
+| # | Company | Role | Score | Status |
+|---|---------|------|-------|--------|
+| #376 | Zip | SWE Intern (Summer 2026) | 4.0/5 | Evaluated |
+| #367 | 1Password | Trust Platforms Intern | 4.0/5 | Evaluated |
+| #366 | 1Password | Extension Excellence Intern | 4.3/5 | APPLY IMMEDIATELY |
+| #365 | ABC Fitness | AI Security Intern | 4.0/5 | Evaluated |
+| #357 | Roadie | AI Engineer Intern | 4.2/5 | Evaluated |
+| #355 | Decagon | Agent SE Intern | ~4.0/5 | Evaluated |
+| #351 | Harvey | SWE Intern | 4.1/5 | Evaluated |
+
+### Pipeline — High Priority Pending (3.7–3.9)
+| Company | Role | Score Est. | URL |
+|---------|------|-----------|-----|
+| Simple AI (YC W26) | SWE Intern | ~3.8 | pipeline.md scan-v77 |
+| Crusoe | AI Intern (Digital Infra) | ~3.7 | pipeline.md scan-v100 |
+| Ontic | Analytics & AI Intern | ~3.7 | pipeline.md scan-v77 |
+| Monarch Money | SWE Intern | ~3.7 | pipeline.md scan-v77 |
+| 1Password Knox | Developer Intern | ~3.8 | pipeline.md scan-v78 |
+| ThirdLayer (Dex) | Full-Stack Intern | ~3.5 | pipeline.md scan-v78 |
 
 ---
 
 ## Recommended Next Actions
 
-1. **Apply to Crusoe AI Intern** (~3.7/5) — Not above threshold but strong agentic AI match at a top-tier AI infrastructure company. Worth applying if no higher-priority offers are pending.
+1. **Apply NOW**: 1Password Extension Excellence (#366, 4.3/5) — Chrome MV3 + Rust + TypeScript exact match. Deadline pressure is real for remote roles in April.
 
-2. **Process the existing pipeline** — Run `/career-ops pipeline` to evaluate and apply to pending ~3.5–4.0 items from v77–v99:
-   - Simple AI (YC W26) SWE Intern — SF, voice AI, ~3.8
-   - Monarch Money SWE Intern — Remote, ~3.7
-   - Ontic Analytics & AI Intern — Austin/Remote, ~3.7
-   - 1Password Knox + Platform Advancement interns — Remote US, ~3.5–3.8
-   - SpyCloud DevOps Intern — Austin, ~3.5
+2. **Apply soon**: Roadie AI Engineer Intern (#357, 4.2/5) and Harvey SWE Intern (#351, 4.1/5) if not already applied.
 
-3. **Shift to follow-up mode** — The application season is closing. Priority is now:
-   - Following up on already-applied roles
-   - Preparing for interviews
-   - Watching for Fall 2026 / co-op openings (Cloudflare, Notion, OpenAI already have Fall 2026 listings)
+3. **Review pipeline**: Run `/career-ops pipeline` to evaluate the ~30 pending 3.5–3.9 listings, especially:
+   - Simple AI (YC W26) — voice AI agents for B2C, direct Finch alignment
+   - Crusoe AI Intern — agentic production system in SF
+
+4. **Monitor**: The Summer 2026 market is saturating. Consider adding Fall 2026 or Spring 2027 co-op/internship roles to the portals search queries.
+
+5. **New Grad prep**: Several new grad roles (#77 Benchling, #75 Sentry, etc.) are in the pipeline — worth revisiting if internship search plateaus.
 
 ---
 
-*Scan history size: 2,546 entries | Pipeline: ~40 pending items | Reports: 376+ completed*
+*Generated by career-ops autonomous scan agent (v101) on 2026-04-17*
