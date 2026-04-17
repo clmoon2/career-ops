@@ -1,91 +1,87 @@
-# Portal Scan — 2026-04-17 (v95)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Portal Scan Summary — 2026-04-17 (scan-v96)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan:** v95 (autonomous agent)
-**Date:** 2026-04-17
-**Previous scan:** v94 (same day, earlier)
-**History entries before scan:** 2,447
-**History entries after scan:** 2,459
+**Scan date:** 2026-04-17
+**Agent:** Autonomous scan agent
+**Scan version:** v96
 
 ---
 
-## Portals Scanned
-
-### New companies (first-time scan)
-- **KPMG** — kpmguscareers.com: 4 roles checked (Software Engineer Intern, Advisory Intern Technology, Advisory Intern Federal Tech, Embark Scholar) — all filled/no longer available
-- **Barclays** — barclays.wd3.myworkdayjobs.com: Technology Developer Intern (JR-0000067439), Technology Analyst Intern (JR-0000067428), Cyber & Security Intern (JR-0000076601 — 404) — all past application deadline or closed
-- **Cohesity** — cohesity.com/careers: Software Engineering Intern + Software Engineering Intern AI — both closed/no longer accepting applications
-
-### Recurring checks (confirmed dup)
-- SimplifyJobs Summer2026-Internships (7d entries): Point72, Attentive, Fortive, Cadence, Baird, Fiserv, Uline — all confirmed dup
-- SpeedyApply 2026-AI-College-Jobs: all entries confirmed dup from v74-v93
-
-### Confirmed no new intern roles (additional checks)
-- Consulting firms (Deloitte, Accenture, PwC, BCG, McKinsey): all confirmed dup or past deadline from prior scans
-- Security firms (Wiz, SentinelOne, CrowdStrike, Palo Alto Networks, Okta, Tenable, CyberArk, Rapid7): all confirmed dup or no intern program
-- Big tech (IBM, ServiceNow, Snowflake, NVIDIA): all confirmed dup from prior scans v8-v66
-
----
-
-## Results
+## Stats
 
 | Metric | Count |
 |--------|-------|
-| Portals/companies scanned | 20+ |
-| New URLs found | 12 |
-| Passed title filter | 0 |
-| Scored >= 4.0 | 0 |
-| Added to pipeline | 0 |
-| Reports filed | 0 |
+| Companies checked | 25+ |
+| Search queries executed | 20+ |
+| URLs evaluated total | 22 |
+| New URLs added to pipeline | 7 |
+| Scored ≥ 4.0 (full report) | 1 |
+| Confirmed dups | 11 |
+| Closed / ineligible | 4 |
+| Scan-history entries | 2,473 (was 2,459) |
 
 ---
 
-## Top Matches (>= 4.0) — None this scan
+## Top Match (Score ≥ 4.0)
 
-No new listings scored >= 4.0. The pipeline remains fully saturated after 95 scans.
+### ⭐ #375 — Dropbox — Software Engineer Intern (Summer 2026) — **4.0/5**
+
+| Field | Details |
+|-------|---------|
+| URL | https://www.dropbox.jobs/en/jobs/7449835/software-engineer-intern-summer-2026/ |
+| Location | **Remote US (Virtual First)** |
+| Compensation | **$8,000–$9,500/month** (~$48–57/hr) |
+| Duration | 12 weeks (Summer 2026) |
+| Graduation req | Fall 2027 or Spring 2028 ✅ |
+| Teams | **Dash AI**, **Security Engineering**, Product Eng, Infrastructure, CX |
+| Tech | Python, Go, JavaScript, TypeScript, C++ |
+| Report | [375](reports/375-dropbox-swe-intern-2026-04-17.md) |
+
+**Why it scores 4.0:** Remote + competitive comp + 3 directly relevant tracks (Security Engineering = OAuth/HMAC/TLS exact match; Dash AI = multi-model LLM pipeline exact match; Infrastructure = blue/green CI/CD match). Big brand with genuine remote commitment. Carlos's production security engineering is directly transferable to Dropbox's Security team.
+
+**→ APPLY: Security Engineering track. Include cover letter with OAuth proxy + TLS implementation as lead proof point.**
 
 ---
 
-## Notable New Finds (below threshold)
+## New URLs Added to Pipeline (Below 4.0 Threshold)
 
-| Company | Role | Score | Status | Notes |
-|---------|------|-------|--------|-------|
-| Barclays | Technology Developer Summer Intern | ~3.3/5 | Past deadline | Whippany NJ; SWE track; banking domain; deadline Jan-Feb 2026 |
-| Barclays | Technology Cyber & Security Intern | ~3.5/5 | Closed (404) | Would have been decent; cybersecurity focus; NJ |
-| Cohesity | Software Engineering Intern AI | ~3.3/5 | Closed | Santa Clara CA; AI engineering; Go+C++ heavy |
-| KPMG | Advisory Intern, Technology | ~3.2/5 | Filled | Technology consulting; multiple US locations |
+| Company | Role | Score | Location | Comp | Notes |
+|---------|------|-------|----------|------|-------|
+| Capital One | Cyber Security Internship Summer 2026 | ~3.6 | Plano TX hybrid | $59/hr | Cybersec minor match; 10 weeks; large bank domain |
+| Monarch Money | Software Engineering Intern (Summer 2026) | ~3.6 | Remote US | $45/hr | 8 weeks only; Python/TypeScript/Django/React; mentions Claude Code |
+| Samsung Research America | ML Engineer Intern (Summer 2026) | ~3.3 | Mountain View CA | $44-63/hr | ML research focus; hardware/research culture |
+| iCapital | ML/AI Engineering Summer 2026 Intern | ~3.2 | NYC in-person 5d/wk | undisclosed | Fintech wealth mgmt; LLM/ML; Jun 7-Aug 8 |
+| Vantage | Software Engineering Intern (Summer 2026) | ~3.0 | NYC | undisclosed | FinOps cloud cost platform; a16z backed |
+| Sift | Software Engineering Intern | ~3.0 | TBD | undisclosed | Fraud detection ML; needs further evaluation |
 
 ---
 
-## URGENT — Apply Before Deadlines
+## Confirmed Dups / Ineligible
 
-These high-scoring roles already in pipeline require immediate action:
+- Cloudflare 7774167 — **CLOSED** (404 redirect)
+- Point72 AI Engineer Intern variants (8500448002 / 8486146002 / 8169852002) — dup of #303/#323
+- Notion SWE Intern 23ac2477 — dup of v29-v71 entry
+- Palo Alto Networks (via RippleMatch) — $38-43/hr below comp minimum
+- BCG X AI Intern — requires Masters/PhD
+- Cisco — application deadline passed (Aug-Sep 2025 close)
+
+---
+
+## URGENT Reminders (DEADLINE APRIL 26 — 9 DAYS)
 
 | # | Company | Role | Score | Deadline |
-|---|---------|------|-------|---------|
-| #246 | Anthropic | Fellows — AI Security | **4.7/5** | **APRIL 26, 2026** |
-| #370 | Anthropic | Fellows — AI Safety | **4.2/5** | **APRIL 26, 2026** |
-| #372 | Anthropic | Fellows — ML Systems | **4.1/5** | **APRIL 26, 2026** |
-| #371 | Roadie | AI Intern (SWE) | **4.2/5** | Apply now |
+|---|---------|------|-------|----------|
+| 246 | Anthropic | Fellows Program — AI Security | **4.7/5** | **April 26** |
+| 370 | Anthropic | Fellows Program — AI Safety | **4.2/5** | **April 26** |
+| 372 | Anthropic | Fellows Program — ML Systems & Performance | **4.1/5** | **April 26** |
 
 ---
 
 ## Recommended Next Actions
 
-1. **URGENT: Apply to Anthropic Fellows by April 26** — 3 tracks (AI Security #246, AI Safety #370, ML Systems #372) all scoring 4.1-4.7/5. Deadline is 9 days away.
-2. **Apply to Roadie AI Intern (#371, 4.2/5)** — strong match, no hard deadline but apply now.
-3. **Process pending pipeline URLs** — run `/career-ops pipeline` to evaluate remaining 3.5-3.8/5 listings (HuggingFace Agent AI, Kong SWE Intern, David AI SWE Intern, HuggingFace Multimodal).
-4. **Focus on applications, not more scanning** — the pipeline is fully saturated after 95 scans. New Summer 2026 internships are no longer being posted (April is late-cycle). Prioritize applying to what's already in pipeline.
+1. **TODAY:** Apply to Anthropic Fellows AI Security (#246, 4.7/5) — 9 days to deadline
+2. **TODAY:** Apply to Anthropic Fellows AI Safety (#370, 4.2/5) — 9 days to deadline
+3. **THIS WEEK:** Apply to Dropbox SWE Intern (#375, 4.0/5) — Remote, Security/Dash AI track
+4. **THIS WEEK:** Apply to Anthropic Fellows ML Systems (#372, 4.1/5) — 9 days to deadline
 
----
-
-## Pipeline Health
-
-- Scan history: **2,459 entries** (95 scan runs)
-- Status: **FULLY SATURATED** — all major portals, companies, and job boards have been exhaustively checked
-- Recommendation: Stop scanning, focus on applying to the 15-20 strong matches already identified
-- Next automated scan: Not recommended until May/June for Fall 2026 internships or new grad roles
-
----
-
-*Generated by career-ops autonomous scan agent v95*
+*Next scan recommended: 2026-04-21. Pipeline is saturated; focus on applying to existing high-score listings.*
