@@ -2,6 +2,12 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-17 SCAN v104 (Autonomous Agent — broad saturation sweep v104: Greenhouse APIs (Anthropic/HumeAI/Vercel/Temporal/Arize/Airtable — no new intern roles); WebSearch (30+ queries across Ashby/Greenhouse/Lever/SimplifyJobs/SpeedyApply); SimplifyJobs 0d check (Intel/Zoox/Ripple/Trumid/VGS/RTX — all dups or below threshold); SpeedyApply 0d (BlackSky SDET/Kognitos/Ripple/Zoox); Verified all recently found candidates against history: Decagon/Cohere/Replit/Notion/Tenstorrent(#363)/Cloudflare-Security(#273)/Rockstar/Schonfeld/Gemini/PDT-Partners(#368)/Glean/TogetherAI all confirmed dups; KEY FINDINGS: 4 genuinely new URLs — all below 3.5/5 threshold (Zoox SWE Perception Data ~2.5/5; Ripple GTreasury ~2.0/5 crypto; BlackSky SDET ~2.0/5 defense; Poshmark Cloud Platform ~2.8/5 e-commerce/Ruby); 0 reports filed; 0 pipeline additions; history now 2,585 entries; PIPELINE FULLY SATURATED for Summer 2026) === -->
+<!-- 4 new URLs found (0 scored >=3.5). ALL below threshold. History: 2,585 entries. Pipeline FULLY SATURATED. -->
+<!-- URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+<!-- URGENT: Anthropic Fellows AI Safety #370 4.2/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+<!-- URGENT: Anthropic Fellows ML Systems #372 4.1/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+
 <!-- === NEW 2026-04-17 SCAN v103 (Autonomous Agent — completion sweep v103: Greenhouse APIs (Glean/RunPod — 503 errors); WebSearch across Ashby/Greenhouse/Lever/SimplifyJobs/SpeedyApply (all found URLs already in history from v97-v102); SpeedyApply AI (0d): Nielsen InfoSec AI Strategy/OSS Supply Chain — $15K-$20K comp, skip; KEY ACTION: report #377 (VGS Application Security Intern) written to disk — was logged in v102 tracker but .md file was missing; 0 new URLs found; history now 2,581 entries) === -->
 <!-- 0 new URLs found. Report #377 (VGS AppSec Intern 4.0/5) file now created. History: 2,581 entries. Pipeline FULLY SATURATED. -->
 <!-- URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->

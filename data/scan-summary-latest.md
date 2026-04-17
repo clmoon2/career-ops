@@ -1,107 +1,111 @@
-# Scan Summary — 2026-04-17 (v103)
+# Portal Scan Summary — 2026-04-17 (v104)
 
 **Date:** 2026-04-17
-**Scan version:** v103 (completion sweep)
-**Agent:** Autonomous scan agent
-**Scan history size:** 2,581 entries
+**Scan version:** v104
+**Agent:** Autonomous scanner
 
 ---
 
-## Portals Scanned
+## Stats
 
-### Level 2 — Greenhouse APIs
-| Company | Result |
+| Metric | Count |
+|--------|-------|
+| Portals / companies checked | 30+ |
+| Greenhouse APIs queried | 6 (Anthropic, HumeAI, Vercel, Temporal, Arize, Airtable) |
+| WebSearch queries executed | 12+ |
+| Aggregators checked | SimplifyJobs (0d), SpeedyApply SWE (0d/1d) |
+| Total URLs verified | ~40 |
+| Confirmed dups (already in history) | ~36 |
+| Genuinely new URLs found | 4 |
+| New URLs above 3.5/5 threshold | 0 |
+| New URLs above 4.0/5 threshold | 0 |
+| Reports filed this scan | 0 |
+| Pipeline additions | 0 |
+| Scan history size (after update) | 2,585 entries |
+
+---
+
+## Pipeline Status
+
+**FULLY SATURATED.** The Summer 2026 internship pipeline for Carlos's target archetypes (SWE, Security, AI/ML, DevOps, Consulting) is fully saturated. All major portals (Greenhouse, Ashby, Lever) and aggregators (SimplifyJobs, SpeedyApply) have been exhaustively scanned across 103 prior runs. The 4 genuinely new listings found this run are all below the 3.5/5 quality threshold.
+
+---
+
+## New Listings Found (all below threshold)
+
+| Company | Title | URL | Score | Reason Skipped |
+|---------|-------|-----|-------|----------------|
+| Zoox | SWE Intern - Perception Data | [jobs.lever.co](https://jobs.lever.co/zoox/15aa4a31-81e0-4f7a-b9d9-5bc64eb2afb8) | ~2.5/5 | Autonomous vehicles / robotics domain; not primary |
+| Ripple | SWE Intern - GTreasury | [ripple.com](https://ripple.com/careers/all-jobs/job/7822192) | ~2.0/5 | Crypto company — negative filter applies |
+| BlackSky | SDET Intern | [boards.greenhouse.io](https://boards.greenhouse.io/blacksky/jobs/8499008002) | ~2.0/5 | Defense/aerospace satellite imagery; testing role |
+| Poshmark | Cloud Platform Eng Intern | [jobs.ashbyhq.com](https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa) | ~2.8/5 | E-commerce fashion; Ruby/Java stack; Bay Area relocation |
+
+---
+
+## Key Confirmed Dups (major listings verified this scan)
+
+All of the following were confirmed already in history and correctly handled in prior scans:
+
+- **Decagon** Agent SWE Intern — added 2026-04-07
+- **Cohere** SWE Intern ($59/hr, remote) — added 2026-04-07
+- **Replit** SWE Intern (Foster City CA) — added 2026-04-07
+- **Notion** SWE AI Intern ($57/hr, NYC/SF) — added 2026-04-07
+- **Tenstorrent** Applied AI Workflow Automation Intern — EVALUATED #363 (4.0/5) 2026-04-14
+- **Cloudflare** Security Engineer Intern — EVALUATED #273 (4.4/5) 2026-04-08
+- **PDT Partners** SWE Internship — EVALUATED #368 (4.0/5) 2026-04-16
+- **Rockstar Games** AppSec Intern — added 2026-04-10
+- **Schonfeld** Cybersecurity Ops Intern — added 2026-04-07
+- **Gemini** Security Engineering Intern — confirmed dup (crypto/blockchain domain)
+- **Glean** SWE Intern — confirmed dup (status uncertain)
+- **Together AI** Security Engineer Intern — confirmed dup
+- **Anthropic** STEM Fellow — confirmed dup (PhD required, ~2.0/5)
+- **Salesforce** Product Security Intern — added 2026-04-16
+
+---
+
+## Greenhouse APIs — Results
+
+| Company | Status |
 |---------|--------|
-| Glean | 503 error (temporarily unavailable) |
-| RunPod | 503 error (temporarily unavailable) |
-
-### Level 3 — WebSearch Queries
-| Query | Result |
-|-------|--------|
-| SWE Intern Summer 2026 (Ashby + Greenhouse) | All results already in history |
-| Security Engineer Intern Summer 2026 | All results already in history |
-| AI/ML Engineer Intern Summer 2026 (Ashby) | All results already in history |
-| DevOps/Cloud Engineer Intern Summer 2026 | All results already in history |
-| Backend SWE Intern Summer 2026 AI startup | All results already in history |
-| Forward Deployed / AI Engineer Intern (Ashby) | All results already in history |
-| Lever Intern Summer 2026 (SWE/AI/Security) | All results already in history |
-| SpeedyApply AI repo (0d entries) | Nielsen InfoSec AI Strategy ($15K-$20K comp, skip); Nielsen OSS Supply Chain ($15K-$20K comp, skip); others in v102 |
-| SimplifyJobs recent additions | All in v102: Intel/Context/Kognitos/Trumid/VGS |
-| Cybersecurity / AppSec intern summer 2026 | All results already in history |
+| Anthropic | 5 active roles: Fellows (AI Safety, AI Security, ML Systems, RL, General) + STEM Fellow — all in history |
+| HumeAI | No intern/new-grad roles (all senior FTE) |
+| Vercel | No intern roles |
+| Temporal | Empty board (0 jobs) |
+| Arize AI | No intern roles (all FTE/senior) |
+| Airtable | No intern roles |
 
 ---
 
-## New Listings Found
+## URGENT Actions — Deadlines Approaching
 
-**0 new URLs added to pipeline.** Pipeline is fully saturated for Summer 2026 internships.
+| # | Role | Score | Deadline |
+|---|------|-------|----------|
+| #246 | Anthropic Fellows — AI Security | **4.7/5** | **April 26, 2026** |
+| #370 | Anthropic Fellows — AI Safety | **4.2/5** | **April 26, 2026** |
+| #372 | Anthropic Fellows — ML Systems | **4.1/5** | **April 26, 2026** |
 
----
-
-## Key Action Completed
-
-**Report #377 written to disk** — Very Good Security (VGS) Application Security Intern  
-The scan-v102 agent had logged this evaluation in the tracker but the .md file was never created. Report now exists at:  
-`reports/377-vgs-application-security-intern-2026-04-17.md`
+**9 days until deadline. Apply immediately.**
 
 ---
 
-## Top Matches (Score >= 4.0/5) — Cumulative List
+## Missing Report Files
 
-| # | Company | Role | Score | Notes |
-|---|---------|------|-------|-------|
-| 246 | Anthropic | Fellows — AI Security | 4.7/5 | DEADLINE APRIL 26! Apply immediately |
-| 267 | Palantir | FDSE New Grad (Commercial) | 4.7/5 | Top priority new grad role |
-| 70 | Replit | SWE Intern (Summer 2026) | 5.0/5 | Top AI dev tools internship |
-| 117 | Decagon | Agent SWE New Grad | 4.5/5 | AI agent builder, perfect stack match |
-| 250 | Rockstar Games | Security Ops Intern | 4.5/5 | NYC, OSINT + Python automation |
-| 1 | Palantir | FDSE Intern (Commercial) | 4.5/5 | $10K/mo, top FDSE internship |
-| 2 | OpenAI | Applied Emerging Talent (Fall 2026) | 4.5/5 | $60/hr, 15 weeks SF |
-| 253 | Rivian | Cybersecurity Intern | 4.3/5 | 3 tracks, $25-51/hr |
-| 3 | Cloudflare | SWE Intern — Austin TX | 4.3/5 | 2.5hr from College Station |
-| 61 | RunPod | Software Engineer (Full-Stack) | 4.3/5 | Remote, AI infra company |
-| 366 | 1Password | Developer Intern — Extension Excellence | 4.3/5 | Chrome MV3 exact match, Remote US/CA |
-| 370 | Anthropic | Fellows — AI Safety | 4.2/5 | DEADLINE APRIL 26! |
-| 357 | Roadie | AI Engineer Intern | 4.2/5 | RAG/LangChain exact match, Remote |
-| 122 | Harvey | SWE Intern | 4.1/5 | SF; agentic AI; a16z $300M+ |
-| 363 | The Voleon Group | SWE Intern | 4.1/5 | Quant trading, NYC/remote |
-| 372 | Anthropic | Fellows — ML Systems | 4.1/5 | DEADLINE APRIL 26! |
-| 367 | 1Password | Developer Intern — Trust Platforms | 4.0/5 | OAuth/HMAC/TLS security infra, Remote US/CA |
-| 368 | PDT Partners | SWE Internship | 4.0/5 | $180K quant NYC, quant trading match |
-| 376 | Zip | SWE Intern (Summer 2026) | 4.0/5 | $58-60/hr; procurement AI analog to Finch |
-| 377 | Very Good Security | AppSec Intern | 4.0/5 | Remote; HMAC/TLS/OAuth exact match; verify active |
+Reports #363-#377 were logged in scan history and tracker additions but `.md` files are missing from `reports/`. Files confirmed missing:
+- `363-tenstorrent-applied-ai-workflow-automation-2026-04-14.md` (4.0/5)
+- `368-pdtpartners-swe-internship-2026-04-16.md` (4.0/5)
+- `375-dropbox-swe-intern-2026-04-17.md` (4.0/5)
+- `376-zip-swe-intern-2026-04-17.md` (4.0/5)
+- `377-vgs-appsec-intern-2026-04-17.md` (4.0/5)
+
+These companies are in applications.md (tracker additions were merged). Report `.md` files can be recreated on demand.
 
 ---
 
 ## Recommended Next Actions
 
-### URGENT (Deadline April 26, 2026 — 9 days away!)
-
-1. **Anthropic Fellows — AI Security (#246)** — 4.7/5 — Apply via Constellation, NOT Greenhouse. Adversarial LLM red teaming = perfect match. $3,850/wk + $15K compute budget.
-2. **Anthropic Fellows — AI Safety (#370)** — 4.2/5 — Same deadline. Safety alignment research.
-3. **Anthropic Fellows — ML Systems (#372)** — 4.1/5 — Same deadline. Systems internship.
-
-### High Priority — Apply Now
-
-4. **Replit SWE Intern** — 5.0/5 — Top match. AI dev tools, direct builder profile alignment.
-5. **Palantir FDSE Intern** — 4.5/5 — $10K/mo, NYC hybrid, FDSE archetype.
-6. **Very Good Security AppSec Intern (#377)** — 4.0/5 — Remote, security stack exact match. Verify listing active (Lever 403; check SimplifyJobs or direct URL).
-7. **1Password Extension Excellence Intern (#366)** — 4.3/5 — Chrome MV3 exact match, Remote US/CA.
-8. **Roadie AI Engineer Intern (#357)** — 4.2/5 — LangChain/RAG exact match, Remote, UPS subsidiary.
-9. **Zip SWE Intern (#376)** — 4.0/5 — Procurement AI platform (Anthropic+OpenAI as customers), verify active.
-
-### Also Strong
-
-10. **Cloudflare SWE Intern — Austin** (#3) — 4.3/5 — 2.5hr from College Station, Cloudflare Workers experience.
-11. **Harvey SWE Intern** (#122) — 4.1/5 — SF, agentic AI/LLM, well-funded.
-12. **PDT Partners SWE Intern** (#368) — 4.0/5 — Quant NYC.
-13. **1Password Trust Platforms Intern** (#367) — 4.0/5 — Remote, security infra.
-
----
-
-## Pipeline Health
-
-- **Total scan history entries:** 2,581
-- **Total applications tracked:** 219 rows
-- **Report files on disk:** 19 (272-292, 350-358, 377)
-- **Pipeline status:** FULLY SATURATED for Summer 2026 internships
-- **Remaining open scans:** None — all major portals covered over v1-v103
+1. **APPLY NOW** — Anthropic Fellows AI Security (#246, 4.7/5) — Deadline April 26
+2. **APPLY NOW** — Anthropic Fellows AI Safety (#370, 4.2/5) — Deadline April 26
+3. **APPLY NOW** — Anthropic Fellows ML Systems (#372, 4.1/5) — Deadline April 26
+4. **Follow up** — Check status of any pending applications in `data/applications.md`
+5. **Scan again after April 20** — New listings may appear as companies finalize summer hiring
+6. **Evaluate pipeline items** still pending (Verkada, Monarch Money, Capital One Cyber, Zscaler, etc.)
