@@ -1,110 +1,94 @@
-# Portal Scan — 2026-04-17 (scan-v99)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Portal Scan — 2026-04-17 (v100)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan type:** Deep saturation sweep — autonomous agent  
-**Candidate:** Carlos Luna-Peña  
-**Target roles:** SWE, Backend, Full Stack, Security, AI/ML, DevOps, Consulting Intern / New Grad (Summer 2026)
+**Scan version:** v100 (autonomous agent)
+**Date:** 2026-04-17
+**Context:** This scan ran after v96–v99 had already covered the major portals earlier today. Focus was on completing portals.yml coverage for companies not confirmed in prior same-day scans.
 
 ---
 
-## Summary
+## Coverage
+
+**Companies scanned (30+):**
+PolyAI, Parloa, Intercom, Hume AI (503), Arize AI (503), Deepgram, Vapi, Bland AI, LangChain, Pinecone, n8n, Zapier, Lindy, Attio, Tinybird, TravelPerk, Mistral AI, W&B, Palantir, Sierra, Decagon, Retool, Ada CX, Talkdesk, Twilio, Dialpad, Gong, Genesys, Salesforce, Langfuse, SpeedyApply AI repo
+
+**Search queries run:** 20+
+**Greenhouse APIs checked:** PolyAI, Parloa, Intercom, Hume AI, Arize AI, Gong
+
+---
+
+## Results
 
 | Metric | Count |
 |--------|-------|
-| Companies/portals scanned | 25+ |
-| Total URLs found (new) | 6 |
-| Filtered by title | 0 |
-| Duplicates (already in history) | ~200+ checked |
-| New URLs added to pipeline | 6 |
-| Scored >= 4.0 | 0 |
-| Reports filed | 0 |
-| Scan history size (after) | 2,523 entries |
+| Queries / checks executed | 30+ companies + 20 WebSearch |
+| Total listings found | 1 new |
+| Skipped (already in history) | ~50 URLs |
+| Skipped (no interns at company) | ~20 companies |
+| Skipped (location: non-US) | 4 |
+| **New listings added to pipeline** | **1** |
 
 ---
 
-## Companies Scanned
+## New Listings Added to Pipeline
 
-### Level 2 — Greenhouse APIs (direct structured scan)
-| Company | Result |
-|---------|--------|
-| PolyAI | No intern roles (19 senior FTE listings) |
-| Intercom | No intern roles (mid-senior FTE only) |
-| Temporal | No jobs (API returned 0) |
-| Hume AI | No intern roles (8 senior listings, same as prev) |
+### 🟡 Score ~3.7 — Below threshold but worth reviewing
 
-### Level 3 — WebSearch & Ashby/Lever portal sweeps
-| Company/Portal | Result |
-|---------------|--------|
-| Ashby broad intern sweep | All in history |
-| Ashby security/AI intern sweep | All in history |
-| Greenhouse backend/fullstack sweep | All in history |
-| Greenhouse AI/security sweep | All in history |
-| Lever SWE intern sweep | All in history |
-| New Grad Ashby sweep | All in history |
-| n8n | No intern/new grad roles |
-| Zapier | No intern/new grad roles |
-| ElevenLabs | No new roles (Impact Program Intern already 2.0/5) |
-| Perplexity AI | EU internships only (Belgrade/UK) — no US |
-| Groq | No Summer 2026 intern roles |
-| Modal Labs | Ashby page inaccessible |
-| Character.AI | No intern roles |
-| Codeium/Windsurf | Only Summer 2025 (expired) |
-| Cognition (Devin) | No intern roles |
-| Palo Alto Networks | No new roles (all in history) |
-| SentinelOne | No accessible intern roles |
-| Snyk | No US intern roles |
-| Zscaler | All in history |
-| Cerebras | All in history |
-| ByteDance | 5 new infra/platform intern URLs (all below threshold) |
-| Ripple | 1 new Finance Primitives intern URL (below threshold) |
-| GitHub speedyapply repo | Inaccessible (404) |
-| Consulting/analyst sweep | All in history |
+| Company | Role | Score | URL |
+|---------|------|-------|-----|
+| **Crusoe** | AI Intern, Digital Infrastructure Group (Summer 2026) | ~3.7/5 | [link](https://jobs.ashbyhq.com/Crusoe/1238af1c-d7fd-44b1-9207-2e98c3233975) |
+
+**Crusoe AI Intern details:**
+- **Location:** San Francisco, CA (in-person)
+- **Mission:** Build a production-ready MVP Chief-of-Staff AI agent in the Real Estate vertical
+- **Tech:** Python, SQL, LLMs, agentic patterns (RAG, function calling, planning), REST APIs, dashboards
+- **Graduation req:** Fall 2026 – Spring 2027 ✓
+- **Comp:** Not disclosed (Crusoe FTE: $197K–$330K, intern likely $50–$70/hr est.)
+- **Score rationale:** Strong agentic AI match (Carlos built 5-LLM production pipeline + 6-agent AutoGen system). Company is premier AI infrastructure (GPU cloud). Domain (real estate) is a stretch vs. primary archetypes but core work is pure agentic engineering. SF relocation required. Scored 3.7 for unknown comp and domain mismatch.
 
 ---
 
-## New URLs Added to Pipeline (6 total)
+## No High-Priority Finds (≥4.0) This Run
 
-All below 4.0/5 threshold. No reports filed.
-
-| # | Company | Role | Score | Issue |
-|---|---------|------|-------|-------|
-| 1 | ByteDance | SWE Intern (Developer Infrastructure) | ~2.8/5 | Chinese parent + infra domain |
-| 2 | ByteDance | SWE Intern (Edge Platform) | ~2.5/5 | Chinese parent + edge infra |
-| 3 | ByteDance | SWE Intern (Financial Product) | ~2.0/5 | Chinese parent + fintech |
-| 4 | ByteDance | SWE Intern (Relational Database) | ~2.0/5 | Chinese parent + DB internals |
-| 5 | ByteDance | SDE Intern (Foundation Software) | ~2.5/5 | Chinese parent + systems |
-| 6 | Ripple | SWE Intern, Finance Primitives | ~2.5/5 | Crypto domain + URL redirected |
+**Reason:** The Summer 2026 intern market is winding down (April 17 = late cycle). Most companies have either already posted and closed their intern roles (confirmed in 2,500+ entry scan history), never run intern programs, or require international relocation.
 
 ---
 
-## Top Matches (score >= 4.0)
+## Notable Confirmations (No Active Intern Programs)
 
-**None found in this scan.** The Summer 2026 intern pipeline is fully saturated after 99 scans.
-
----
-
-## Pipeline Status
-
-The intern/new grad pipeline for Summer 2026 is **fully saturated**. After 99 scan iterations starting April 5, 2026, the 2,523-entry history covers all major AI/tech companies, all ATS portals (Ashby, Greenhouse, Lever, Workday), and all known YC batches and AI startups.
-
-**Current open high-priority items from the tracker:**
-
-| # | Company | Role | Score | Note |
-|---|---------|------|-------|------|
-| 246 | Anthropic | Fellows — AI Security | 4.7/5 | ⚠️ DEADLINE APRIL 26 |
-| 370 | Anthropic | Fellows — AI Safety | 4.2/5 | ⚠️ DEADLINE APRIL 26 |
-| 372 | Anthropic | Fellows — ML Systems | 4.1/5 | ⚠️ DEADLINE APRIL 26 |
-| 347 | Cloudflare | SWE Intern Austin TX | 4.8/5 | Apply now |
-| 298 | Haize Labs | SWE Intern | 4.7/5 | Apply now |
-| 294 | Cloudflare | Security Intern Austin TX | 4.7/5 | Apply now |
-| 304 | Mechanize | SWE Intern | 4.6/5 | Apply now |
-| 355 | Atlassian | Security Intern | 4.5/5 | Apply now |
-| 353 | OpenAI | SWE Intern | 4.5/5 | Apply now |
+| Company | Status | Notes |
+|---------|--------|-------|
+| PolyAI | No interns | All FTE, senior roles |
+| Parloa | No interns | All FTE, EMEA-based |
+| Intercom | No interns | All Senior/Staff FTE |
+| LangChain | No interns | FTE only |
+| n8n, Zapier | No interns | FTE only |
+| Attio, Tinybird, TravelPerk | No interns | FTE only |
+| Gong | No interns | Confirmed across multiple scans |
+| Langfuse | N/A | Acquired by ClickHouse Jan 2026 |
+| Talkdesk | No Summer 2026 | Only 2025 data visible |
+| Twilio | No Summer 2026 | January start only (past deadline) |
+| Dialpad | No Summer 2026 US | Canada/India co-ops only |
+| Genesys | No US Summer 2026 | Ireland/Hungary only |
 
 ---
 
 ## Recommended Next Actions
 
-1. **⚠️ URGENT — Apply to Anthropic Fellows (3 tracks) by April 26, 2026** — all at $3,850/wk + $15K/mo compute, 4-month July start
-2. **Apply immediately to top-scored open roles** (all Evaluated, awaiting application) — start with Cloudflare Austin, Haize Labs, Mechanize
-3. **Next scan recommended in 5-7 days** — pipeline is saturated; new Summer 2026 postings unlikely before May 1 except late-cycle opportunities
+1. **Apply to Crusoe AI Intern** (~3.7/5) — Not above threshold but strong agentic AI match at a top-tier AI infrastructure company. Worth applying if no higher-priority offers are pending.
+
+2. **Process the existing pipeline** — Run `/career-ops pipeline` to evaluate and apply to pending ~3.5–4.0 items from v77–v99:
+   - Simple AI (YC W26) SWE Intern — SF, voice AI, ~3.8
+   - Monarch Money SWE Intern — Remote, ~3.7
+   - Ontic Analytics & AI Intern — Austin/Remote, ~3.7
+   - 1Password Knox + Platform Advancement interns — Remote US, ~3.5–3.8
+   - SpyCloud DevOps Intern — Austin, ~3.5
+
+3. **Shift to follow-up mode** — The application season is closing. Priority is now:
+   - Following up on already-applied roles
+   - Preparing for interviews
+   - Watching for Fall 2026 / co-op openings (Cloudflare, Notion, OpenAI already have Fall 2026 listings)
+
+---
+
+*Scan history size: 2,546 entries | Pipeline: ~40 pending items | Reports: 376+ completed*

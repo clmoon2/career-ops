@@ -1791,3 +1791,11 @@
 - [ ] https://www.ycombinator.com/companies/mine/jobs/FlsEpFX-software-engineering-intern-summer-2026 | Mine (YC) | Software Engineering Intern (Summer 2026) — AI data privacy; SWE intern; SF; comp unknown; (~3.0)
 
 <!-- === END 2026-04-15 SCAN v79-v81 === -->
+
+<!-- === NEW 2026-04-17 SCAN v100 (Autonomous Agent — portals.yml full coverage: 30+ companies scanned; 20+ WebSearch queries; Greenhouse API checks; SpeedyApply AI repo sweep; cross-referenced 2,523-entry scan-history; 1 new listing found) -->
+<!-- Confirmed no-change (all dup/no-interns): PolyAI, Parloa, Intercom, Hume AI, Arize AI, Deepgram, Vapi, Bland AI, LangChain, Pinecone (PhD-only intern), n8n, Zapier, Lindy (repost), Attio, Tinybird, TravelPerk, Mistral AI, W&B, Palantir, Sierra, Decagon (#355), Retool, Ada (CA-only), Talkdesk, Twilio (Jan start), Dialpad (CA/India), Gong, Genesys (EMEA), Salesforce (all dup), Together AI (closed), Glean (closed), Langfuse (joined ClickHouse), Censys (#258 already evaluated), Robinhood (dup), Proofpoint (skipped_score), Poshmark (skipped_score). SpeedyApply AI repo: no new qualifying additions. -->
+
+### 🟡 Pipeline Pending (score est. ~3.7) — scan-v100
+- [ ] https://jobs.ashbyhq.com/Crusoe/1238af1c-d7fd-44b1-9207-2e98c3233975 | Crusoe | AI Intern, Digital Infrastructure Group (Summer 2026) — SF in-person; build production Chief-of-Staff AI agent; Python/SQL/LLMs/agentic patterns (RAG, function calling, planning); graduating Fall 2026–Spring 2027; real estate vertical at premier AI compute company; comp not disclosed but Crusoe pays well; (~3.7)
+
+<!-- === END 2026-04-17 SCAN v100 === -->
