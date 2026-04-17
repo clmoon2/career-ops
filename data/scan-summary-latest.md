@@ -1,79 +1,70 @@
-# Portal Scan Summary — 2026-04-16 (Scan v93)
+# Portal Scan — 2026-04-17 (v94)
 
-## Overview
+**Queries/APIs executed:** 32 (12 Greenhouse API fetches + 12 WebSearch queries + 8 Ashby API spot-checks)
+**Companies scanned:** 30+
+**New listings found:** 1 (Anthropic STEM Fellow — previously unseen URL)
+**Filtered (title/score mismatch):** 1 (STEM Fellow: PhD/research required → ~2.0/5)
+**Duplicates:** 29+ (all other targets confirmed in history from v7–v93)
+**New added to pipeline.md:** 0
+**Evaluated (≥4.0):** 0 — no new reports filed
 
-| Metric | Value |
-|--------|-------|
-| Date | 2026-04-16 |
-| Scan run | v93 (autonomous agent) |
-| Portals / companies checked | 30+ |
-| Total URLs in history (cumulative) | 2,427 |
-| New URLs found this run | 6 |
-| Scored ≥4.0 (report filed) | **0** |
-| Scored ≥3.5 (pipeline added) | 0 |
-| Scored 3.0-3.4 (pipeline noted) | 1 (Equinix GTM Dallas ~3.3/5) |
-| Skipped (below threshold/wrong location) | 5 |
+## New Listings Added to Pipeline
 
-## Companies / Portals Scanned This Run
+None. All listings discovered were either:
+- Already in scan history from earlier scans
+- Below threshold (< 4.0/5)
+- Require PhD/senior experience (auto-skip)
 
-**Greenhouse APIs (direct):** Anthropic, Airtable, Vercel, Temporal, Arize AI, Glean, Hume AI, Scale AI, Zeta Global
+## Notable Confirmations
 
-**Ashby:** Poshmark, Cohere (freshness check), Notion (freshness check)
+### Anthropic STEM Fellow (NEW URL — skipped)
+- **URL:** https://job-boards.greenhouse.io/anthropic/jobs/5189848008
+- **Status:** `skipped_score` (~2.0/5)
+- **Reason:** Requires PhD in STEM field or equivalent research experience. Carlos is a CS undergrad. Not a match.
+- **Deadline:** May 15, 2026
 
-**Lever:** Palantir, Best Egg, Saronic, Shield AI, Rigetti, Field AI, Center for AI Safety
+### Anthropic Fellows — RL Track (in pipeline, not evaluated)
+- **URL:** https://job-boards.greenhouse.io/anthropic/jobs/5183052008
+- **Status:** Already in history from scan-v10; `skipped_score` (~3.5/5)
+- **Reason:** Requires RL algorithms expertise and ML training experience. Carlos has multi-model pipelines but no RL research background. Below threshold.
+- **Note:** Carlos is already applying to AI Safety (#370), AI Security (#246), and ML Systems (#372) tracks — better fits.
 
-**Workday/Other:** Equinix GTM Intern Dallas, GDIT Remote AI/ML, McAfee Frisco TX, NIO San Jose, LivaNova Houston, BlackSky Herndon
+### Greenhouse APIs — All Confirmed No New Interns
+| Company | Result |
+|---------|--------|
+| Anthropic | STEM Fellow new but PhD-only; all Fellows tracks confirmed dup |
+| Cloudflare | All intern roles confirmed dup from v89 (SWE Austin/Security/Solutions Eng) |
+| Databricks | No intern/new-grad roles at all — all FTE senior |
+| Vercel | No intern/new-grad roles — all mid-senior |
+| Hume AI | No intern roles — Senior Core Services/Platform/Research only |
+| Figma | No intern roles — all mid-senior FTE |
+| Stripe | Only Data Analyst Intern (Master's required) — no SWE intern |
+| Scale AI | ML Research Intern still listed but confirmed dup from v29 |
+| Notion | API returns 404 (uses Ashby); all roles confirmed dup from v29 |
+| Rippling | API returns 404; Fullstack SWE Intern #358 already evaluated |
+| Palantir | API returns 404; all roles dup from v1 |
+| CrowdStrike | API returns 404; already in history |
 
-**Workable:** DataVisor (Vancouver), Pathway AI (Palo Alto)
+### WebSearch — All Confirmed Duplicates
+All companies found via WebSearch (Giga, Farsight, Delinea, Harvey, Notion, Monarch Money, Affirm, Obsidian, Censys, Whatnot, Ramp, Sentry, Benchling, Quora/Poe, Zip, Superhuman, Circleback, Swif.ai, Ember, Cloudglue, SafetyKit, Crustdata, Voleon, Schonfeld, Point72, Mercury, Datacor, Scale AI, Browser Use, Shield AI, Symmetry Systems, Actian, Best Egg, Zettabyte, Lambda, Handshake, Crusoe, Fizz, Nominal, ALSO/Ridealso) — all confirmed in scan history from v7–v93.
 
-**Aggregators:** SimplifyJobs Summer2026 Internships, SimplifyJobs New-Grad Positions, SpeedyApply 2026-AI-College-Jobs (top 30 entries)
+## Evaluated (≥4.0) — Reports Filed
 
-**WebSearch queries (20+):** SWE internships (Greenhouse/Ashby/Lever), security internships, AI/ML internships, new grad roles, FAANG status check, consulting internships (Deloitte/Accenture/EY), Ramp/Linear/Rippling/Snowflake/Anduril freshness check
+None.
 
-## New Listings Found (6 total)
+## Recommended Next Actions
 
-| # | Company | Role | Location | Score | Action |
-|---|---------|------|----------|-------|--------|
-| 1 | Equinix | GTM Engineering Intern - Customer Success & Agentic AI | Dallas TX | ~3.3/5 | Added to pipeline |
-| 2 | Zeta Global | Software Engineer Intern - Intelligence & Forecasting | San Francisco CA | ~3.0/5 | Skipped (low comp $23/hr, marketing domain) |
-| 3 | Poshmark | AI/ML Engineering Intern (Summer 2026) | Redwood City CA | ~3.0/5 | Skipped (e-commerce domain, Bay Area relocation) |
-| 4 | GDIT | 2026 Summer AI/ML Internship | Remote | ~2.8/5 | Skipped (defense contractor, gov domain) |
-| 5 | DataVisor | Backend SWE Internship Spring/Summer 2026 | Vancouver, Canada | ~2.5/5 | Skipped (Canada-based, Java/Spring required) |
-| 6 | Pathway AI | ML/AI Software Engineering Internship | Palo Alto CA | ~2.0/5 | Skipped (requires ICPC finalist/published research) |
+**CRITICAL — Act before April 26:**
+1. **Apply to Anthropic Fellows AI Security #246 (4.7/5)** — DEADLINE APRIL 26. Highest-scored fellowship. Apply immediately.
+2. **Apply to Anthropic Fellows AI Safety #370 (4.2/5)** — DEADLINE APRIL 26. Adversarial LLM testing = direct match.
+3. **Apply to Anthropic Fellows ML Systems #372 (4.1/5)** — DEADLINE APRIL 26. Different track, can apply to multiple.
 
-## Top Match: Equinix GTM Engineering Intern — ~3.3/5
+**Act immediately:**
+4. **Apply to Roadie AI Engineer Intern #371 (4.2/5)** — Open now. AI agents + LLMs + Python/FastAPI/LangChain.
 
-- **URL:** https://equinix.wd1.myworkdayjobs.com/en-US/external/job/Dallas-Infomart-Office-DAI/GTM-Engineering-Intern--Customer-Success---Agentic-AI-_JR-160091
-- **Location:** Dallas TX (Infomart office, in-person) — ~4 hours from College Station
-- **Company:** Equinix (NYSE: EQIX), Fortune 500, $8.7B revenue, #1 data center globally
-- **Focus:** Agentic AI automation for customer success workflows; GTM engineering tooling
-- **Carlos fit:** Multi-agent pipeline experience (AutoGen, LangChain, LangGraph); production Python/FastAPI; tech consulting-adjacent archetype
-- **Why below 4.0:** Data center/infrastructure domain (not primary); GTM = sales-adjacent; comp unknown (estimate $35-45/hr based on other Equinix intern roles)
-- **Action:** Verify it's still open and comp is acceptable, then apply
+**Pipeline scan status:** The pipeline is extremely well-saturated after 94 scans. All major US-based tech/AI/security intern listings on Greenhouse, Ashby, Lever, and YC platforms have been catalogued. Focus should shift from discovery to applications.
 
-## ⚠️ URGENT REMINDERS — Deadlines This Week
-
-> **DEADLINE APRIL 26 (10 days):**
-> - Anthropic Fellows — AI Safety #246 **(4.7/5)** → apply immediately
-> - Anthropic Fellows — AI Safety #370 **(4.2/5)** → apply immediately
-> - Anthropic Fellows — ML Systems & Performance #372 **(4.1/5)** → apply immediately
-
-> **No deadline but apply ASAP:**
-> - Roadie AI Engineer Intern #371 **(4.2/5)** — Remote, LangChain/FastAPI exact stack
-> - Hugging Face GUI Agents Intern #374 **(4.0/5)** — Remote, screen-agent engineering match
-> - Databricks SWE Intern #369 **(4.1/5)** — Mountain View CA
-> - PDT Partners SWE Intern #368 **(4.0/5)** — NYC, quant trading proof point
-
-## Pipeline Saturation Assessment
-
-After 93 autonomous scan runs, the pipeline is comprehensively saturated. All major job boards (Greenhouse, Ashby, Lever, Workday, Workable), aggregators (SimplifyJobs, SpeedyApply), and 40+ individual companies have been checked. Summer 2026 internship season is mid-cycle — most roles were posted in January–March 2026.
-
-**Recommended next actions:**
-1. **IMMEDIATE (10 days):** Apply to all 3 Anthropic Fellows tracks before April 26 deadline
-2. **ASAP:** Apply to Roadie + Hugging Face + Databricks + PDT Partners
-3. **Optional:** Evaluate Equinix GTM Dallas if open + comp acceptable
-4. **Shift focus:** From scanning to applications — quality > volume
-
-## Methodology (v93)
-
-Checked 30+ companies via Greenhouse APIs, Ashby direct, Lever direct, Workday search, Workable search, and 20+ WebSearch queries. Cross-referenced all findings against 2,421 pre-existing scan history entries. Dedup confirmed: all major companies and portals exhausted.
+**Consider for next scan cycle:**
+- Check SimplifyJobs Summer2026 GitHub for 0-day additions
+- Re-check any companies that may have posted new roles (Proofpoint, Salesforce Agentforce, Cloudflare new AI roles)
+- Watch for any late-stage Summer 2026 openings at Palantir, CrowdStrike, Microsoft that may still be open

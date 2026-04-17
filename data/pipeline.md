@@ -2,6 +2,13 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-17 SCAN v94 (Autonomous Agent — comprehensive portal sweep v94: Greenhouse APIs (Anthropic/Cloudflare/Databricks/Vercel/HumeAI/Notion/Rippling/Figma/Stripe/Palantir/CrowdStrike/Scale/W&B); Ashby APIs (Harvey/Ramp/Sentry/Benchling/Giga/Harvey/Notion/Monarch/Ramp/Farsight); 8+ WebSearch queries across Greenhouse/Ashby/Lever/YC/GitHub repos; YC internships; SimplifyJobs/SpeedyApply repos; Lever searches; Priority spot-checks (Censys/Proofpoint/Salesforce/Scale AI); KEY FINDINGS: 0 new qualifying URLs — Anthropic STEM Fellow NEW but PhD-only skipped_score; Anthropic Fellows RL confirmed in history/below threshold 3.5/5; all other targets confirmed dup from v7-v93; pipeline fully saturated; history now 2,447 entries; 0 reports filed; 0 new added to pipeline) === -->
+<!-- 0 new URLs found (0 scored >=4.0). History: 2,447 entries. -->
+<!-- URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+<!-- URGENT: Anthropic Fellows AI Safety #370 4.2/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+<!-- URGENT: Anthropic Fellows ML Systems #372 4.1/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+<!-- URGENT: Roadie AI Intern #371 4.2/5 — APPLY IMMEDIATELY. -->
+
 <!-- === NEW 2026-04-16 SCAN v93 (Autonomous Agent — broad portal sweep v93: Greenhouse APIs (Anthropic/Airtable/Vercel/Temporal/Arize/Glean/Hume/Scale AI); Ashby (Poshmark); Workable (DataVisor/Pathway); Workday (Equinix/GDIT/McAfee); 20+ WebSearch queries across Greenhouse/Ashby/Lever/big tech; SimplifyJobs Summer2026 + New-Grad repos; SpeedyApply 2026-AI-College-Jobs repo; KEY FINDINGS: 6 new URLs — Equinix GTM Eng Intern Dallas TX ~3.3/5; Zeta Global SWE Intern SF ~3.0/5; Poshmark AI/ML Intern ~3.0/5; GDIT Remote AI/ML ~2.8/5; DataVisor Canada Java skipped_location; Pathway research req skipped_score; 0 scored >=4.0; 0 reports filed; history now 2,427 entries; pipeline remains saturated after 93 scan runs) === -->
 <!-- 6 new URLs found (0 scored >=4.0). History: 2,427 entries. -->
 <!-- URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
