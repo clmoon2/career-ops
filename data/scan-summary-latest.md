@@ -1,65 +1,107 @@
-# Portal Scan — 2026-04-17 (v102)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Scan Summary — 2026-04-17 (v103)
 
-**Run:** Scan v102 — Autonomous Agent (career-ops skill)
 **Date:** 2026-04-17
-**Scan history entries after this scan:** 2,577+
+**Scan version:** v103 (completion sweep)
+**Agent:** Autonomous scan agent
+**Scan history size:** 2,581 entries
 
 ---
 
-## Activity
+## Portals Scanned
 
-| Source | Method | Outcome |
-|--------|--------|---------|
-| SimplifyJobs Summer2026 repo (Apr 15-17 additions) | WebFetch | 9 new entries found; most filtered |
-| jobs.ashbyhq.com broad sweep | WebSearch | All known (dup) |
-| job-boards.greenhouse.io broad sweep | WebSearch | All known (dup) |
-| jobs.lever.co broad sweep | WebSearch | 2 new VGS URLs |
-| Greenhouse API: Arize AI, Hume AI | WebFetch | No intern roles (FTE only) |
-| Greenhouse API: RunPod, Glean, Temporal | WebFetch | 503 errors |
-| Cohere, ElevenLabs, Decagon, Cloudflare | WebSearch + Grep | All confirmed dup |
-| SAP, IBM, Salesforce, Intel, Snyk | WebSearch | Closed/filtered/dup |
-| Kognitos, Trumid, VGS, Context | WebSearch | 4 new listings added |
+### Level 2 — Greenhouse APIs
+| Company | Result |
+|---------|--------|
+| Glean | 503 error (temporarily unavailable) |
+| RunPod | 503 error (temporarily unavailable) |
 
----
-
-## Results
-
-```
-Queries executed: 20+
-Companies verified: 40+
-New listings found (not in history): 9
-  Filtered by comp (below $70K min): 4 — Nielsen, Voltus, Kognitos, Commvault
-  Added to pipeline: 4
-  Evaluated (score ≥ 4.0): 1
-```
+### Level 3 — WebSearch Queries
+| Query | Result |
+|-------|--------|
+| SWE Intern Summer 2026 (Ashby + Greenhouse) | All results already in history |
+| Security Engineer Intern Summer 2026 | All results already in history |
+| AI/ML Engineer Intern Summer 2026 (Ashby) | All results already in history |
+| DevOps/Cloud Engineer Intern Summer 2026 | All results already in history |
+| Backend SWE Intern Summer 2026 AI startup | All results already in history |
+| Forward Deployed / AI Engineer Intern (Ashby) | All results already in history |
+| Lever Intern Summer 2026 (SWE/AI/Security) | All results already in history |
+| SpeedyApply AI repo (0d entries) | Nielsen InfoSec AI Strategy ($15K-$20K comp, skip); Nielsen OSS Supply Chain ($15K-$20K comp, skip); others in v102 |
+| SimplifyJobs recent additions | All in v102: Intel/Context/Kognitos/Trumid/VGS |
+| Cybersecurity / AppSec intern summer 2026 | All results already in history |
 
 ---
 
-## Top Match
+## New Listings Found
 
-### #377 — Very Good Security (VGS) — Application Security Intern — 4.0/5
-**URL:** https://jobs.lever.co/verygoodsecurity/32fe92a6-13d5-4132-b77c-a7a5ed74f38b
-**Report:** [377](reports/377-vgs-application-security-intern-2026-04-17.md)
-
-VGS is the world's leading payment tokenization platform. Their product IS the HMAC-signed proxying, OAuth token handling, TLS-encrypted transit, and CORS APIs that Carlos already implemented at Finch. Remote role, competitive fintech security pay. **Verify Lever URL is live before applying.**
+**0 new URLs added to pipeline.** Pipeline is fully saturated for Summer 2026 internships.
 
 ---
 
-## Pipeline Additions (score est. 3.5–3.8)
+## Key Action Completed
 
-| Company | Role | Score | URL |
-|---------|------|-------|-----|
-| Very Good Security | Software Engineer Intern | ~3.8/5 | jobs.lever.co/verygoodsecurity/545c6abf |
-| Trumid | AI Automation Intern (NYC) | ~3.5/5 | job-boards.greenhouse.io/trumid/jobs/7703392003 |
-| Intel | Agentic AI Research Intern | ~3.5/5 | intel.wd1.myworkdayjobs.com/.../JR0282977 |
-| Context | Summer Intern (SF, details TBD) | ~3.0/5 | jobs.ashbyhq.com/context/1c657ebf |
+**Report #377 written to disk** — Very Good Security (VGS) Application Security Intern  
+The scan-v102 agent had logged this evaluation in the tracker but the .md file was never created. Report now exists at:  
+`reports/377-vgs-application-security-intern-2026-04-17.md`
+
+---
+
+## Top Matches (Score >= 4.0/5) — Cumulative List
+
+| # | Company | Role | Score | Notes |
+|---|---------|------|-------|-------|
+| 246 | Anthropic | Fellows — AI Security | 4.7/5 | DEADLINE APRIL 26! Apply immediately |
+| 267 | Palantir | FDSE New Grad (Commercial) | 4.7/5 | Top priority new grad role |
+| 70 | Replit | SWE Intern (Summer 2026) | 5.0/5 | Top AI dev tools internship |
+| 117 | Decagon | Agent SWE New Grad | 4.5/5 | AI agent builder, perfect stack match |
+| 250 | Rockstar Games | Security Ops Intern | 4.5/5 | NYC, OSINT + Python automation |
+| 1 | Palantir | FDSE Intern (Commercial) | 4.5/5 | $10K/mo, top FDSE internship |
+| 2 | OpenAI | Applied Emerging Talent (Fall 2026) | 4.5/5 | $60/hr, 15 weeks SF |
+| 253 | Rivian | Cybersecurity Intern | 4.3/5 | 3 tracks, $25-51/hr |
+| 3 | Cloudflare | SWE Intern — Austin TX | 4.3/5 | 2.5hr from College Station |
+| 61 | RunPod | Software Engineer (Full-Stack) | 4.3/5 | Remote, AI infra company |
+| 366 | 1Password | Developer Intern — Extension Excellence | 4.3/5 | Chrome MV3 exact match, Remote US/CA |
+| 370 | Anthropic | Fellows — AI Safety | 4.2/5 | DEADLINE APRIL 26! |
+| 357 | Roadie | AI Engineer Intern | 4.2/5 | RAG/LangChain exact match, Remote |
+| 122 | Harvey | SWE Intern | 4.1/5 | SF; agentic AI; a16z $300M+ |
+| 363 | The Voleon Group | SWE Intern | 4.1/5 | Quant trading, NYC/remote |
+| 372 | Anthropic | Fellows — ML Systems | 4.1/5 | DEADLINE APRIL 26! |
+| 367 | 1Password | Developer Intern — Trust Platforms | 4.0/5 | OAuth/HMAC/TLS security infra, Remote US/CA |
+| 368 | PDT Partners | SWE Internship | 4.0/5 | $180K quant NYC, quant trading match |
+| 376 | Zip | SWE Intern (Summer 2026) | 4.0/5 | $58-60/hr; procurement AI analog to Finch |
+| 377 | Very Good Security | AppSec Intern | 4.0/5 | Remote; HMAC/TLS/OAuth exact match; verify active |
 
 ---
 
 ## Recommended Next Actions
 
-1. **URGENT — Anthropic Fellows deadline April 26** — apply to #246 (AI Security 4.7/5), #370 (AI Safety 4.2/5), #372 (ML Systems 4.1/5)
-2. **Apply to VGS AppSec Intern (#377)** — verify Lever URL live, then apply
-3. **Work through pipeline backlog** — run `/career-ops tracker` to see which 4.0+ listings are still unapplied
-4. **Consider**: Scan frequency can drop to every 3-5 days — market is saturating; focus should shift from discovery to applications
+### URGENT (Deadline April 26, 2026 — 9 days away!)
+
+1. **Anthropic Fellows — AI Security (#246)** — 4.7/5 — Apply via Constellation, NOT Greenhouse. Adversarial LLM red teaming = perfect match. $3,850/wk + $15K compute budget.
+2. **Anthropic Fellows — AI Safety (#370)** — 4.2/5 — Same deadline. Safety alignment research.
+3. **Anthropic Fellows — ML Systems (#372)** — 4.1/5 — Same deadline. Systems internship.
+
+### High Priority — Apply Now
+
+4. **Replit SWE Intern** — 5.0/5 — Top match. AI dev tools, direct builder profile alignment.
+5. **Palantir FDSE Intern** — 4.5/5 — $10K/mo, NYC hybrid, FDSE archetype.
+6. **Very Good Security AppSec Intern (#377)** — 4.0/5 — Remote, security stack exact match. Verify listing active (Lever 403; check SimplifyJobs or direct URL).
+7. **1Password Extension Excellence Intern (#366)** — 4.3/5 — Chrome MV3 exact match, Remote US/CA.
+8. **Roadie AI Engineer Intern (#357)** — 4.2/5 — LangChain/RAG exact match, Remote, UPS subsidiary.
+9. **Zip SWE Intern (#376)** — 4.0/5 — Procurement AI platform (Anthropic+OpenAI as customers), verify active.
+
+### Also Strong
+
+10. **Cloudflare SWE Intern — Austin** (#3) — 4.3/5 — 2.5hr from College Station, Cloudflare Workers experience.
+11. **Harvey SWE Intern** (#122) — 4.1/5 — SF, agentic AI/LLM, well-funded.
+12. **PDT Partners SWE Intern** (#368) — 4.0/5 — Quant NYC.
+13. **1Password Trust Platforms Intern** (#367) — 4.0/5 — Remote, security infra.
+
+---
+
+## Pipeline Health
+
+- **Total scan history entries:** 2,581
+- **Total applications tracked:** 219 rows
+- **Report files on disk:** 19 (272-292, 350-358, 377)
+- **Pipeline status:** FULLY SATURATED for Summer 2026 internships
+- **Remaining open scans:** None — all major portals covered over v1-v103

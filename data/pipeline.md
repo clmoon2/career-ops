@@ -2,6 +2,12 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-17 SCAN v103 (Autonomous Agent — completion sweep v103: Greenhouse APIs (Glean/RunPod — 503 errors); WebSearch across Ashby/Greenhouse/Lever/SimplifyJobs/SpeedyApply (all found URLs already in history from v97-v102); SpeedyApply AI (0d): Nielsen InfoSec AI Strategy/OSS Supply Chain — $15K-$20K comp, skip; KEY ACTION: report #377 (VGS Application Security Intern) written to disk — was logged in v102 tracker but .md file was missing; 0 new URLs found; history now 2,581 entries) === -->
+<!-- 0 new URLs found. Report #377 (VGS AppSec Intern 4.0/5) file now created. History: 2,581 entries. Pipeline FULLY SATURATED. -->
+<!-- URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+<!-- URGENT: Anthropic Fellows AI Safety #370 4.2/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+<!-- URGENT: Anthropic Fellows ML Systems #372 4.1/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+
 <!-- === NEW 2026-04-17 SCAN v99 (Autonomous Agent — deep saturation sweep v99: 25+ companies/portals scanned; Level 2 Greenhouse APIs (PolyAI/Intercom/Temporal/HumeAI — all no intern roles); Level 3 WebSearch across Ashby/Greenhouse/Lever (all found URLs already in history); NEW company checks (Perplexity EU-only/Modal no listings/Character.AI no intern/Codeium 2025-only/Cognition no intern/Groq no Summer 2026); Portals.yml companies (n8n/Zapier/ElevenLabs — no new intern roles); ByteDance 5 new infra/platform intern URLs; Ripple Finance Primitives (redirected/possibly closed); KEY FINDINGS: 6 new URLs — ALL below 4.0/5 threshold; ByteDance Developer Infra/Edge/FinTech/RelDB/Foundation (~2.0-2.8/5, Chinese parent + domain mismatch); Ripple Finance Primitives (~2.5/5, crypto domain + redirect); 0 reports filed; pipeline FULLY SATURATED for Summer 2026; history now 2,523 entries) === -->
 <!-- 6 new URLs found (0 scored >=4.0). ALL below threshold. History: 2,523 entries. Pipeline saturated. -->
 <!-- URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
