@@ -1,70 +1,91 @@
-# Portal Scan — 2026-04-17 (v94)
+# Portal Scan — 2026-04-17 (v95)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Queries/APIs executed:** 32 (12 Greenhouse API fetches + 12 WebSearch queries + 8 Ashby API spot-checks)
-**Companies scanned:** 30+
-**New listings found:** 1 (Anthropic STEM Fellow — previously unseen URL)
-**Filtered (title/score mismatch):** 1 (STEM Fellow: PhD/research required → ~2.0/5)
-**Duplicates:** 29+ (all other targets confirmed in history from v7–v93)
-**New added to pipeline.md:** 0
-**Evaluated (≥4.0):** 0 — no new reports filed
+**Scan:** v95 (autonomous agent)
+**Date:** 2026-04-17
+**Previous scan:** v94 (same day, earlier)
+**History entries before scan:** 2,447
+**History entries after scan:** 2,459
 
-## New Listings Added to Pipeline
+---
 
-None. All listings discovered were either:
-- Already in scan history from earlier scans
-- Below threshold (< 4.0/5)
-- Require PhD/senior experience (auto-skip)
+## Portals Scanned
 
-## Notable Confirmations
+### New companies (first-time scan)
+- **KPMG** — kpmguscareers.com: 4 roles checked (Software Engineer Intern, Advisory Intern Technology, Advisory Intern Federal Tech, Embark Scholar) — all filled/no longer available
+- **Barclays** — barclays.wd3.myworkdayjobs.com: Technology Developer Intern (JR-0000067439), Technology Analyst Intern (JR-0000067428), Cyber & Security Intern (JR-0000076601 — 404) — all past application deadline or closed
+- **Cohesity** — cohesity.com/careers: Software Engineering Intern + Software Engineering Intern AI — both closed/no longer accepting applications
 
-### Anthropic STEM Fellow (NEW URL — skipped)
-- **URL:** https://job-boards.greenhouse.io/anthropic/jobs/5189848008
-- **Status:** `skipped_score` (~2.0/5)
-- **Reason:** Requires PhD in STEM field or equivalent research experience. Carlos is a CS undergrad. Not a match.
-- **Deadline:** May 15, 2026
+### Recurring checks (confirmed dup)
+- SimplifyJobs Summer2026-Internships (7d entries): Point72, Attentive, Fortive, Cadence, Baird, Fiserv, Uline — all confirmed dup
+- SpeedyApply 2026-AI-College-Jobs: all entries confirmed dup from v74-v93
 
-### Anthropic Fellows — RL Track (in pipeline, not evaluated)
-- **URL:** https://job-boards.greenhouse.io/anthropic/jobs/5183052008
-- **Status:** Already in history from scan-v10; `skipped_score` (~3.5/5)
-- **Reason:** Requires RL algorithms expertise and ML training experience. Carlos has multi-model pipelines but no RL research background. Below threshold.
-- **Note:** Carlos is already applying to AI Safety (#370), AI Security (#246), and ML Systems (#372) tracks — better fits.
+### Confirmed no new intern roles (additional checks)
+- Consulting firms (Deloitte, Accenture, PwC, BCG, McKinsey): all confirmed dup or past deadline from prior scans
+- Security firms (Wiz, SentinelOne, CrowdStrike, Palo Alto Networks, Okta, Tenable, CyberArk, Rapid7): all confirmed dup or no intern program
+- Big tech (IBM, ServiceNow, Snowflake, NVIDIA): all confirmed dup from prior scans v8-v66
 
-### Greenhouse APIs — All Confirmed No New Interns
-| Company | Result |
-|---------|--------|
-| Anthropic | STEM Fellow new but PhD-only; all Fellows tracks confirmed dup |
-| Cloudflare | All intern roles confirmed dup from v89 (SWE Austin/Security/Solutions Eng) |
-| Databricks | No intern/new-grad roles at all — all FTE senior |
-| Vercel | No intern/new-grad roles — all mid-senior |
-| Hume AI | No intern roles — Senior Core Services/Platform/Research only |
-| Figma | No intern roles — all mid-senior FTE |
-| Stripe | Only Data Analyst Intern (Master's required) — no SWE intern |
-| Scale AI | ML Research Intern still listed but confirmed dup from v29 |
-| Notion | API returns 404 (uses Ashby); all roles confirmed dup from v29 |
-| Rippling | API returns 404; Fullstack SWE Intern #358 already evaluated |
-| Palantir | API returns 404; all roles dup from v1 |
-| CrowdStrike | API returns 404; already in history |
+---
 
-### WebSearch — All Confirmed Duplicates
-All companies found via WebSearch (Giga, Farsight, Delinea, Harvey, Notion, Monarch Money, Affirm, Obsidian, Censys, Whatnot, Ramp, Sentry, Benchling, Quora/Poe, Zip, Superhuman, Circleback, Swif.ai, Ember, Cloudglue, SafetyKit, Crustdata, Voleon, Schonfeld, Point72, Mercury, Datacor, Scale AI, Browser Use, Shield AI, Symmetry Systems, Actian, Best Egg, Zettabyte, Lambda, Handshake, Crusoe, Fizz, Nominal, ALSO/Ridealso) — all confirmed in scan history from v7–v93.
+## Results
 
-## Evaluated (≥4.0) — Reports Filed
+| Metric | Count |
+|--------|-------|
+| Portals/companies scanned | 20+ |
+| New URLs found | 12 |
+| Passed title filter | 0 |
+| Scored >= 4.0 | 0 |
+| Added to pipeline | 0 |
+| Reports filed | 0 |
 
-None.
+---
+
+## Top Matches (>= 4.0) — None this scan
+
+No new listings scored >= 4.0. The pipeline remains fully saturated after 95 scans.
+
+---
+
+## Notable New Finds (below threshold)
+
+| Company | Role | Score | Status | Notes |
+|---------|------|-------|--------|-------|
+| Barclays | Technology Developer Summer Intern | ~3.3/5 | Past deadline | Whippany NJ; SWE track; banking domain; deadline Jan-Feb 2026 |
+| Barclays | Technology Cyber & Security Intern | ~3.5/5 | Closed (404) | Would have been decent; cybersecurity focus; NJ |
+| Cohesity | Software Engineering Intern AI | ~3.3/5 | Closed | Santa Clara CA; AI engineering; Go+C++ heavy |
+| KPMG | Advisory Intern, Technology | ~3.2/5 | Filled | Technology consulting; multiple US locations |
+
+---
+
+## URGENT — Apply Before Deadlines
+
+These high-scoring roles already in pipeline require immediate action:
+
+| # | Company | Role | Score | Deadline |
+|---|---------|------|-------|---------|
+| #246 | Anthropic | Fellows — AI Security | **4.7/5** | **APRIL 26, 2026** |
+| #370 | Anthropic | Fellows — AI Safety | **4.2/5** | **APRIL 26, 2026** |
+| #372 | Anthropic | Fellows — ML Systems | **4.1/5** | **APRIL 26, 2026** |
+| #371 | Roadie | AI Intern (SWE) | **4.2/5** | Apply now |
+
+---
 
 ## Recommended Next Actions
 
-**CRITICAL — Act before April 26:**
-1. **Apply to Anthropic Fellows AI Security #246 (4.7/5)** — DEADLINE APRIL 26. Highest-scored fellowship. Apply immediately.
-2. **Apply to Anthropic Fellows AI Safety #370 (4.2/5)** — DEADLINE APRIL 26. Adversarial LLM testing = direct match.
-3. **Apply to Anthropic Fellows ML Systems #372 (4.1/5)** — DEADLINE APRIL 26. Different track, can apply to multiple.
+1. **URGENT: Apply to Anthropic Fellows by April 26** — 3 tracks (AI Security #246, AI Safety #370, ML Systems #372) all scoring 4.1-4.7/5. Deadline is 9 days away.
+2. **Apply to Roadie AI Intern (#371, 4.2/5)** — strong match, no hard deadline but apply now.
+3. **Process pending pipeline URLs** — run `/career-ops pipeline` to evaluate remaining 3.5-3.8/5 listings (HuggingFace Agent AI, Kong SWE Intern, David AI SWE Intern, HuggingFace Multimodal).
+4. **Focus on applications, not more scanning** — the pipeline is fully saturated after 95 scans. New Summer 2026 internships are no longer being posted (April is late-cycle). Prioritize applying to what's already in pipeline.
 
-**Act immediately:**
-4. **Apply to Roadie AI Engineer Intern #371 (4.2/5)** — Open now. AI agents + LLMs + Python/FastAPI/LangChain.
+---
 
-**Pipeline scan status:** The pipeline is extremely well-saturated after 94 scans. All major US-based tech/AI/security intern listings on Greenhouse, Ashby, Lever, and YC platforms have been catalogued. Focus should shift from discovery to applications.
+## Pipeline Health
 
-**Consider for next scan cycle:**
-- Check SimplifyJobs Summer2026 GitHub for 0-day additions
-- Re-check any companies that may have posted new roles (Proofpoint, Salesforce Agentforce, Cloudflare new AI roles)
-- Watch for any late-stage Summer 2026 openings at Palantir, CrowdStrike, Microsoft that may still be open
+- Scan history: **2,459 entries** (95 scan runs)
+- Status: **FULLY SATURATED** — all major portals, companies, and job boards have been exhaustively checked
+- Recommendation: Stop scanning, focus on applying to the 15-20 strong matches already identified
+- Next automated scan: Not recommended until May/June for Fall 2026 internships or new grad roles
+
+---
+
+*Generated by career-ops autonomous scan agent v95*

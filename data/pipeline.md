@@ -2,6 +2,8 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-17 SCAN v95 (Autonomous Agent — targeted sweep v95: first-time scans of KPMG (all intern roles filled/closed), Barclays (Tech Developer/Analyst/Cyber internships — all past deadline or 404), Cohesity (SWE Intern + AI Intern both closed); SimplifyJobs 7d check (Point72/Attentive/Fortive/Cadence/Baird/Fiserv/Uline all confirmed dup); SpeedyApply AI repo (all dup); additional WebSearch across PwC advisory AI/Barclays/Cohesity; KEY FINDINGS: 0 new qualifying URLs — KPMG roles all filled; Barclays programs past application deadline (Jan-Feb close); Cohesity internships closed; pipeline fully saturated; history now 2,459 entries; 0 reports filed; 0 new added to pipeline) === -->
+<!-- 0 new URLs found (0 scored >=4.0). History: 2,459 entries. -->
 <!-- === NEW 2026-04-17 SCAN v94 (Autonomous Agent — comprehensive portal sweep v94: Greenhouse APIs (Anthropic/Cloudflare/Databricks/Vercel/HumeAI/Notion/Rippling/Figma/Stripe/Palantir/CrowdStrike/Scale/W&B); Ashby APIs (Harvey/Ramp/Sentry/Benchling/Giga/Harvey/Notion/Monarch/Ramp/Farsight); 8+ WebSearch queries across Greenhouse/Ashby/Lever/YC/GitHub repos; YC internships; SimplifyJobs/SpeedyApply repos; Lever searches; Priority spot-checks (Censys/Proofpoint/Salesforce/Scale AI); KEY FINDINGS: 0 new qualifying URLs — Anthropic STEM Fellow NEW but PhD-only skipped_score; Anthropic Fellows RL confirmed in history/below threshold 3.5/5; all other targets confirmed dup from v7-v93; pipeline fully saturated; history now 2,447 entries; 0 reports filed; 0 new added to pipeline) === -->
 <!-- 0 new URLs found (0 scored >=4.0). History: 2,447 entries. -->
 <!-- URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
