@@ -1893,3 +1893,17 @@ PolyAI (all FTE senior, no interns), Ada (board 404), SpeedyApply AI (0 new qual
 **SpeedyApply SWE (latest):** BlackSky (dup v106), Kognitos (dup v106), Ripple (dup v104), Zoox (dup v104) — 0 new qualifying.
 
 <!-- === END 2026-04-18 SCAN v107 === -->
+
+<!-- === BEGIN 2026-04-18 SCAN v108 === -->
+
+**Scan v108 — 2026-04-18** | Greenhouse API (Factorial) + WebSearch (remaining portals.yml companies + broad discovery queries) + SpeedyApply AI/SWE | Net new qualified: **0** — market fully saturated for today
+
+> Market note: 7 prior scans today (v101-v107, 2642+ history entries). All remaining portals.yml tracked companies confirmed dup or no intern program. All WebSearch queries returned previously known listings. Lila Sciences Security & Cloud Engineering intern found (NEW company) but Spring 2026 start, past deadline. SpeedyApply AI 0d entries all dup.
+
+### Companies Confirmed No New Intern/New-Grad Roles — scan-v108
+**Greenhouse API:** Factorial (API 404 — board unavailable).
+**WebSearch (portals.yml remaining):** OpenAI (all intern URLs dup from v20/v29/v41), Retool (no intern program, confirmed dup v90), Twilio (no Summer 2026 US intern, dup v90), Gong (no intern, dup v90), Talkdesk (no 2026 intern, dup v100), LivePerson (no intern, dup v90), Genesys (EU/Toronto only, dup v90), Langfuse (no intern, dup v90), Cognigy (no intern, dup v90), Speechmatics (UK-only, dup v90), Make.com (EU-only, dup v90), Dialpad (Canada co-ops past deadline, dup v90).
+**WebSearch (broad discovery):** Security intern queries (Bandwidth/Gemini/Together AI/Gallup/Zscaler/MEMX/Schonfeld all dup v7), AI/ML intern queries (iCapital/Sigma/Robinhood/Roadie/Censys all dup v7), Backend/FullStack queries (Verkada/Ramp/Whatnot/CLEAR/DoorDash/Mercury all dup v7), Ashby broad scan (Notion/Giga/Superhuman/Replit/Delinea/Fizz all dup v7).
+**New company found (not in history):** Lila Sciences Security & Cloud Engineering Intern — Spring 2026 co-op (Jan/Feb 2026 start), past deadline; skipped.
+
+<!-- === END 2026-04-18 SCAN v108 === -->
