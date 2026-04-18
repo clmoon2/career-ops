@@ -2612,3 +2612,32 @@ https://job-boards.eu.greenhouse.io/polyai	2026-04-18	scan-v106-api	PolyAI API s
 https://boards-api.greenhouse.io/v1/boards/ada/jobs	2026-04-18	scan-v106-api	Ada API — 404 error; board unavailable	Ada	skipped_error
 https://github.com/speedyapply/2026-AI-College-Jobs	2026-04-18	scan-v106-speedyapply	SpeedyApply AI (0d entries April 18): Meta Audio Research (research scientist, not target); Nielsen InfoSec AI Strategy (dup, low comp); Nielsen AI OSS Supply Chain (dup, low comp); Okta AI Content Ops (non-SWE); Trumid AI Automation (dup v102) — 0 new qualifying	SpeedyApply AI	skipped_dup
 https://github.com/SimplifyJobs/Summer2026-Internships	2026-04-18	scan-v106-simplify	SimplifyJobs: 0 new qualifying additions found (format parsing limited; spot-checked against known dup entries)	SimplifyJobs	skipped_dup
+https://jobs.lever.co/mistral	2026-04-18	scan-v107-lever	(all Mistral roles confirmed dup from v7/v53/v75; no new intern roles)	Mistral AI	skipped_dup
+https://jobs.lever.co/wandb	2026-04-18	scan-v107-lever	(W&B: no intern roles — all FTE senior; no-change since v25)	Weights & Biases	skipped_no_intern
+https://jobs.lever.co/palantir	2026-04-18	scan-v107-lever	(all Palantir intern+new-grad roles dup v7-v9; no new roles)	Palantir	skipped_dup
+https://jobs.lever.co/clarity-ai	2026-04-18	scan-v107-lever	(no US intern program found; EMEA-focused)	Clarity AI	skipped_no_intern
+https://jobs.ashbyhq.com/langchain	2026-04-18	scan-v107-ashby	(no interns; Fullstack Applied AI FTE only)	LangChain	skipped_no_intern
+https://jobs.ashbyhq.com/cohere	2026-04-18	scan-v107-ashby	(Spring/Summer 66c98ca3 + Winter 1bc2c535 all dup v7/v84/v86)	Cohere	skipped_dup
+https://jobs.ashbyhq.com/pinecone	2026-04-18	scan-v107-ashby	(New Grad SWE f6763f03 dup v7/v84; no new roles)	Pinecone	skipped_dup
+https://jobs.ashbyhq.com/elevenlabs	2026-04-18	scan-v107-ashby	(AppSec Engineer FTE dup v5; Forward Deployed FTE only; no intern program)	ElevenLabs	skipped_dup
+https://jobs.ashbyhq.com/vapi	2026-04-18	scan-v107-ashby	(all 4 roles dup v7-v60/v90)	Vapi	skipped_dup
+https://jobs.ashbyhq.com/deepgram	2026-04-18	scan-v107-ashby	(all FTE senior; no intern program)	Deepgram	skipped_no_intern
+https://jobs.ashbyhq.com/bland	2026-04-18	scan-v107-ashby	(no intern program; all FTE roles)	Bland AI	skipped_no_intern
+https://jobs.ashbyhq.com/n8n	2026-04-18	scan-v107-ashby	(Community SWE Europe FTE + Staff SWE FTE; no intern program)	n8n	skipped_no_intern
+https://jobs.ashbyhq.com/zapier	2026-04-18	scan-v107-ashby	(no new intern roles; market stable)	Zapier	skipped_no_intern
+https://jobs.ashbyhq.com/lindy	2026-04-18	scan-v107-ashby	(Full Stack SWE FTE repost dup; no intern program)	Lindy	skipped_no_intern
+https://jobs.ashbyhq.com/attio	2026-04-18	scan-v107-ashby	(no intern program; all FTE roles)	Attio	skipped_no_intern
+https://jobs.ashbyhq.com/tinybird	2026-04-18	scan-v107-ashby	(no intern program; all FTE roles)	Tinybird	skipped_no_intern
+https://jobs.ashbyhq.com/travelperk	2026-04-18	scan-v107-ashby	(no intern program; all FTE roles)	TravelPerk	skipped_no_intern
+https://jobs.ashbyhq.com/sierra	2026-04-18	scan-v107-ashby	(no intern program; all FTE roles; dup v7)	Sierra	skipped_no_intern
+https://jobs.ashbyhq.com/decagon	2026-04-18	scan-v107-ashby	(dup #355 evaluated v7; no new roles)	Decagon	skipped_dup
+https://jobs.bytedance.com/en/students	2026-04-18	scan-v107-websearch	(ByteDance: all Security/SWE interns dup v19/v41/v90; no new US roles)	ByteDance	skipped_dup
+https://careers.salesforce.com/en/university/internships	2026-04-18	scan-v107-websearch	(Salesforce: all interns dup v7/v41/v87; no new roles)	Salesforce	skipped_dup
+https://job-boards.greenhouse.io/northspyre/jobs/7704668003	2026-04-18	scan-v107-simplify	AI Engineer Intern (Summer 2026) — NEW; Northspyre real estate AI platform; Atlanta GA; $10K/mo + $5K housing stipend + stock; build AI agents + agentic workflows + LLM interfaces; Python/LLMs; 4.1/5 EVALUATED report #379	Northspyre	evaluated
+https://www.five9.com/about/careers/job-detail?gh_jid=5973615004	2026-04-18	scan-v107-simplify	Software Developer AI Insights Intern (Summer 2026) — NEW; Five9 cloud contact center AI; San Ramon CA; AI Insights focus; JD unavailable (SPA); ~3.0-3.5/5 added to pipeline	Five9	added
+https://www.actblue.com/careers/available-positions/?gh_jid=8430069002	2026-04-18	scan-v107-simplify	Full time Intern — ActBlue political platform; non-target domain	ActBlue	skipped_title
+https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Software-Development-Summer-Intern_R242785	2026-04-18	scan-v107-simplify	Software Development Intern — Uhaul Phoenix AZ; non-target domain	Uhaul	skipped_title
+https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044247	2026-04-18	scan-v107-simplify	Full-Stack AI Developer Intern — Revvity; Remote Canada only; non-US	Revvity	skipped_title
+https://job-boards.greenhouse.io/hyannisportresearch/jobs/6667961003	2026-04-18	scan-v107-simplify	Software Engineering Intern — HPR Needham MA; defense/aerospace domain	HPR	skipped_title
+https://github.com/SimplifyJobs/Summer2026-Internships	2026-04-18	scan-v107-simplify	(SimplifyJobs 0d/1d April 18: Northspyre AI Intern (new, evaluated #379) + Five9 AI Insights (new, pipeline); ActBlue/Uhaul/Revvity/HPR/Leidos/Western Union non-target/skip; 1d entries all dup)	SimplifyJobs	added
+https://github.com/speedyapply/2026-SWE-College-Jobs	2026-04-18	scan-v107-speedyapply-swe	(SpeedyApply SWE 0d/1d: BlackSky SDET dup v106; Kognitos dup v106; Ripple dup v104; Zoox dup v104; CACI/ChargePoint/GD/Baxter non-target/defense; 0 new qualifying)	SpeedyApply SWE	skipped_dup

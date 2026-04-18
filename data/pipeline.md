@@ -1872,3 +1872,24 @@ Anthropic (all Fellows dup), Airtable (2 new FTE senior skipped), Vercel (all FT
 PolyAI (all FTE senior, no interns), Ada (board 404), SpeedyApply AI (0 new qualifying today), SimplifyJobs (0 new qualifying today). Pylon New Grad SWE ($130-140K SF, non-primary domain, graduation timing mismatch — skipped_score). Imprint Security Intern (fintech, below threshold — skipped_score). Air Space Intelligence SWE Intern (aerospace/defense, non-target domain — skipped_title). Aquatic Capital Management (board shows Summer 2027 only, not 2026 — skipped). Nominal SWE Intern (hardware test platform, non-primary domain — skipped_score). Together AI SWE Intern jobs/5012768007 (separate role from Security Intern — unverified if still open, not adding separately).
 
 <!-- === END 2026-04-18 SCAN v106 === -->
+
+<!-- === BEGIN 2026-04-18 SCAN v107 === -->
+
+**Scan v107 — 2026-04-18** | Lever WebSearch (Mistral/W&B/Palantir/Clarity AI) + Ashby WebSearch (LangChain/Cohere/Pinecone/ElevenLabs/Vapi/n8n/Zapier/Lindy/Attio/Tinybird/TravelPerk/Sierra/Decagon/Bland) + WebSearch (ByteDance/Salesforce) + SimplifyJobs (GitHub raw) + SpeedyApply SWE + broad discovery | Net new qualified: 2 (1 evaluated, 1 pipeline)
+
+> Market note: Summer 2026 internship market extremely mature (2660+ history entries, 107 scans since April 5). SimplifyJobs added only 2 qualifying entries today.
+
+### ✅ Evaluated (score ≥ 4.0) — scan-v107
+- [x] https://job-boards.greenhouse.io/northspyre/jobs/7704668003 | Northspyre | AI Engineer Intern (Summer 2026) — Atlanta GA; $10K/mo base + $5K housing stipend + stock options + FT offer; build AI agents + agentic workflows + LLM interfaces; Python/LLMs/multi-agent; **4.1/5** → report #379 | APPLY WITHIN 48H — Finch + TidalHack exact match
+
+### 🔷 Pipeline Pending (unknown comp/details) — scan-v107
+- [ ] https://www.five9.com/about/careers/job-detail?gh_jid=5973615004 | Five9 | Software Developer AI Insights Intern (Summer 2026) — San Ramon CA; contact center AI company; AI Insights role; JD unavailable (SPA redirect); estimate ~3.0-3.5/5; verify before applying
+
+### Companies Confirmed No New Intern/New-Grad Roles — scan-v107
+**Lever (WebSearch):** Mistral AI (dup v7), W&B (no intern program since v25), Palantir (all dup v7-v9), Clarity AI (EMEA-focused, no US intern).
+**Ashby (WebSearch):** LangChain (no interns), Cohere (all dup v7/v84), Pinecone (all dup v7/v84), ElevenLabs (FTE only), Vapi (all dup v7-v90), Deepgram (FTE senior), Bland AI (no interns), n8n (FTE only), Zapier (no new), Lindy (FTE repost), Attio (no interns), Tinybird (no interns), TravelPerk (no interns), Sierra (FTE only), Decagon (dup #355).
+**Broad WebSearch:** ByteDance (all dup v19/v41), Salesforce (all dup v7/v41/v87), all Greenhouse/Ashby/Lever broad queries returned dup results.
+**SimplifyJobs (0d/1d new):** Northspyre (NEW → evaluated #379), Five9 (NEW → pipeline), ActBlue/Uhaul/Revvity/HPR/Leidos/Western Union (non-target/skip).
+**SpeedyApply SWE (latest):** BlackSky (dup v106), Kognitos (dup v106), Ripple (dup v104), Zoox (dup v104) — 0 new qualifying.
+
+<!-- === END 2026-04-18 SCAN v107 === -->

@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 379 | 2026-04-18 | Northspyre | AI Engineer Intern | 4.1/5 | Evaluada | ❌ | [379](reports/379-northspyre-ai-engineer-intern-2026-04-18.md) | Summer 2026; Atlanta GA; $10K/mo+$5K housing; agentic AI pipelines+multi-agent; Finch+TidalHack exact match |
 | 377 | 2026-04-17 | Very Good Security | Application Security Intern | 4.0/5 | Evaluada | ❌ | [377](reports/377-vgs-application-security-intern-2026-04-17.md) | Remote; payment tokenization leader; HMAC/TLS/OAuth/CORS = exact security stack match; verify role active before applying |
 | 376 | 2026-04-17 | Zip | Software Engineer Intern (Summer 2026) | 4.0/5 | Evaluated | ❌ | [376](reports/376-zip-swe-intern-2026-04-17.md) | Python/TS/React exact stack match; $58-60/hr; SF hybrid/Remote US; Anthropic+OpenAI use Zip; intern repost (prev #116 was new-grad); verify listing active before applying |
 | 375 | 2026-04-17 | Dropbox | Software Engineer Intern (Summer 2026) | 4.0/5 | Evaluated | ❌ | - | Remote US Virtual First; $8-9.5K/mo; 12 wks; Python/Go/JS/TypeScript; Dash AI + Security Eng + Product + Infra tracks; graduating Fall 2027+; report claimed filed but file missing — re-evaluate |
