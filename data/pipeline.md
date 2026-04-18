@@ -1957,3 +1957,24 @@ SimplifyJobs (0 new since v109), SpeedyApply AI/SWE (0 new since v109), YC Inter
 **WebSearch (Greenhouse/Ashby):** All results returning same listings seen in v7-v111.
 
 <!-- === END 2026-04-18 SCAN v112 === -->
+
+<!-- === BEGIN 2026-04-18 SCAN v113 === -->
+
+**Scan v113 — 2026-04-18** | Autonomous agent scan: Consulting firms (Accenture/Deloitte/McKinsey/BCG X/EY/PwC/IBM/Booz Allen/MITRE/Leidos/Capgemini) + Security mid-size (Wiz/SentinelOne/PAN/Rapid7/Snyk) + Big Tech spot check (Netflix/CrowdStrike Workday) + YC new companies (Elayne/Nowadays) + SpeedyApply/SimplifyJobs/Ashby/Greenhouse broad sweeps | Net new qualified: **0** — market fully saturated
+
+> Market note: 113 scans completed, 2,735 history entries. All primary consulting firms confirmed either closed/past deadline, require clearance, require Master's/PhD, or are below threshold. CrowdStrike Workday confirmed all dup from scan-v8/v9. No new qualifying internship or new grad postings found.
+
+### ✅ Evaluated (score ≥ 4.0) — scan-v113
+None — no new qualifying listings found.
+
+### 🟡 Pipeline Pending (score est. 3.5–3.9) — scan-v113
+None — no new listings in 3.5–3.9 range discovered.
+
+### Companies Confirmed No New Intern/New-Grad Roles — scan-v113
+**Consulting Firms:** Accenture Technology Summer Analyst (deadline 03/30/2026 — passed), Deloitte Technology US Intern (closed — no longer accepting applications), Deloitte Data & AI Solutions Engineering Summer Scholar (deadline Dec 2025 — passed), McKinsey Digital Internship (fall 2025 application window closed), BCG X AI Software Engineer Intern (requires Master's/PhD — undergrad not eligible), EY Digital Risk Intern (404 listing), Booz Allen Hamilton Summer Games interns (defense contractor — federal clearance path required), MITRE AI Security Intern (410 Gone — confirmed closed from v34), Leidos (all roles require clearance or defense domain — dup v67-v91), Capgemini (no US Summer 2026 intern listings found).
+**Security Mid-Size:** Wiz (0 active intern listings on Greenhouse/careers page), SentinelOne (no Summer 2026 intern postings found), Palo Alto Networks (0 active internships confirmed on official board), Rapid7 (no intern postings on Greenhouse or other boards), Snyk (London-only internship — non-US).
+**Big Tech/Other:** CrowdStrike Workday (all roles confirmed dup from v8/v9 — SWE R26636/InfoSec R27493/Red Team R26841), Netflix (no undergrad SWE Summer 2026 intern; New Grad SWE requires Spring/Summer 2026 graduation — Carlos graduating Fall 2027; mismatch), Visa SWE Intern (confirmed EXPIRED — no longer accepting applications), IBM Associate Developer Intern 58077 (IBM Consulting track — 3.3/5 below threshold).
+**YC Companies:** Elayne SWE Intern (NYC in-person, estate planning AI, mobile focus — 3.2/5 below threshold), Nowadays SWE Intern (Spring 2026 February start — past deadline for Summer 2026).
+**Aggregators:** SpeedyApply SWE/AI (0d entries all dup from v103-v112), SimplifyJobs (all entries dup from v107-v112), Ashby broad (all results dup from v7-v112), Greenhouse broad (all results dup from v7-v112).
+
+<!-- === END 2026-04-18 SCAN v113 === -->

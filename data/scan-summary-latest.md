@@ -1,100 +1,78 @@
-# Portal Scan Summary — 2026-04-18 (v112)
+# Portal Scan Summary — 2026-04-18 (v113)
 
-**Date:** 2026-04-18  
-**Scan version:** v112 (autonomous agent scan)  
-**Sources checked:** 20+ (Greenhouse APIs, Ashby, Lever, SimplifyJobs, SpeedyApply AI/SWE, YC Work at a Startup, WebSearch broad discovery, Extern article, HN Jobs)  
-**Total history entries:** 2,709  
-**Total scans to date:** 112  
+**Date:** 2026-04-18
+**Scan version:** v113 (autonomous agent scan)
+**Sources checked:** 25+ (Consulting firms, Security mid-size, CrowdStrike Workday, YC new companies, SpeedyApply SWE/AI, SimplifyJobs, Ashby broad, Greenhouse broad, WebSearch)
+**History entries before scan:** 2,709
+**History entries after scan:** 2,735 (+26 new entries)
+**Net new qualifying listings:** 0
 
----
+## Scope
+
+This scan targeted areas NOT covered by v101–v112:
+1. Technology Consulting firms (Accenture, Deloitte, McKinsey Digital, BCG X, EY, PwC, IBM Consulting, Booz Allen, MITRE, Leidos, Capgemini)
+2. CrowdStrike Workday (re-verified all intern roles)
+3. Security-focused mid-size firms (Wiz, SentinelOne, Palo Alto Networks, Rapid7, Snyk)
+4. Big Tech spot checks (Netflix New Grad, Visa)
+5. YC new companies (Elayne YC S24, Nowadays YC S23)
+6. SpeedyApply SWE/AI 0d entries, SimplifyJobs latest, Ashby/Greenhouse broad sweeps
 
 ## Results
 
-| Metric | Count |
-|--------|-------|
-| New listings found (total) | 1 |
-| Filtered by PhD/title | 1 |
-| Duplicates | all others |
-| New listings added to pipeline | 0 |
-| New listings evaluated (≥ 4.0) | 0 |
+### Net New Qualifying Listings: 0
 
----
+No new listings reached the 4.0/5 evaluation threshold.
 
-## New Listings Found
+### Key Findings by Category
 
-### 🚫 Filtered (PhD Required)
-| Company | Role | URL | Reason |
-|---------|------|-----|--------|
-| Anthropic | STEM Fellow | https://job-boards.greenhouse.io/anthropic/jobs/5189848008 | PhD in STEM required; Carlos is undergrad CS — not eligible |
+| Company | Finding | Status |
+|---------|---------|--------|
+| Accenture | Technology Summer Analyst deadline 03/30/2026 — past | skipped_past_deadline |
+| Deloitte | Technology US Intern closed; Data AI Scholar deadline Dec 2025 — past | skipped_past_deadline |
+| McKinsey Digital | Application window closed fall 2025 | skipped_past_deadline |
+| BCG X | Requires Master's/PhD — undergrad not eligible | skipped_title |
+| EY | Digital Risk Intern listing 404 | skipped_closed |
+| PwC | D&A Tech Consulting Intern: 80% travel, data analytics — 3.2/5 | skipped_score |
+| IBM | Associate Developer Intern 58077: IBM Consulting track — 3.3/5 | skipped_score |
+| Booz Allen Hamilton | Summer Games interns require federal clearance path | skipped_title |
+| MITRE | AI Security Intern: 410 Gone confirmed from v34 | skipped_dup |
+| Leidos | All roles defense/clearance domain | skipped_dup |
+| Wiz | 0 active intern listings on Greenhouse or careers page | skipped_no_intern |
+| SentinelOne | No Summer 2026 intern postings found | skipped_no_intern |
+| Palo Alto Networks | 0 active internship listings on official board | skipped_no_intern |
+| Rapid7 | No intern postings found | skipped_no_intern |
+| Snyk | London-only internship — non-US location | skipped_title |
+| CrowdStrike | All Workday roles confirmed dup from v8/v9 | skipped_dup |
+| Netflix New Grad | Requires Spring/Summer 2026 graduation — Carlos graduating Fall 2027 | skipped_title |
+| Visa | SWE Intern confirmed EXPIRED | skipped_closed |
+| Elayne (YC S24) | NYC in-person, estate planning AI, mobile focus — 3.2/5 | skipped_score |
+| Nowadays (YC S23) | Spring 2026 (February start) — past deadline for Summer | skipped_past_deadline |
 
----
+## Market Assessment
 
-## Market Status
+The Summer 2026 internship market is fully saturated after 113 scans and 2,735 history entries. Key conclusions:
 
-> **Summer 2026 internship market is effectively closed for new tech postings.**
+- **Consulting firms**: All major consulting firm intern programs for Summer 2026 have closed recruiting, require clearance, or require graduate degrees. No new tech consulting opportunities exist in this cycle.
+- **Security mid-size**: No active intern programs at Wiz, SentinelOne, Palo Alto Networks, Rapid7, or Snyk for Summer 2026. These companies either don't run formal intern programs or have already closed recruiting.
+- **Big Tech**: Previously scanned; Netflix requires Spring 2026 graduation (mismatch); Visa expired.
+- **YC ecosystem**: Fully covered through v112; Elayne and Nowadays are below threshold.
 
-112 scans have been completed since April 5, 2026. The market for Carlos's target roles (SWE, AI/ML, Security, DevOps, Consulting internships) shows:
-- All major tech companies (FAANG-tier, AI labs, cybersecurity vendors) have posted and filled their 2026 intern classes
-- Remaining new postings are mostly: defense/clearance-required, embedded systems, healthcare domain, or below compensation threshold
-- SpeedyApply and SimplifyJobs are showing 0-1 new qualifying entries per day (down from 10-20/day in early April)
+## Active Pipeline Priorities (Carlos Should Apply Now)
 
----
+1. **DEADLINE APRIL 26 (8 days):**
+   - Anthropic Fellows AI Safety (#370, 4.2/5)
+   - Anthropic Fellows ML Systems (#372, 4.1/5)
 
-## Active Pipeline Entries (Pending Evaluation)
+2. **Top picks — apply immediately:**
+   - Cloudflare SWE Intern (#347, 4.8/5) — Austin TX local, strong match
+   - Cloudflare Security Engineer Intern (#294, 4.7/5) — Austin TX local
+   - Haize Labs SWE Intern (#298, 4.7/5) — adversarial LLM exact match
+   - Mechanize SWE Intern (#304, 4.6/5) — $100/hr SF
+   - Atlassian Security Engineer Intern (#355, 4.5/5) — Seattle
+   - Together AI Security Intern (#334, 4.5/5) — SF on-site
 
-These listings were added in prior scans and still await review:
+## Next Scan Recommendation
 
-| Company | Role | URL | Est. Score |
-|---------|------|-----|-----------|
-| Obsidian Security | Software Engineer Intern (Summer 2026) | https://job-boards.greenhouse.io/obsidiansecurity/jobs/4788725008 | ~3.7/5 |
-| Symmetry Systems | Full Stack SWE Intern (Summer 2026) | https://jobs.lever.co/SymmetrySystems/dbca271b-a99b-48ab-83f2-b596a037ad65 | ~3.6/5 |
-| TensorWave | Security Engineer Intern | https://jobs.ashbyhq.com/TensorWave/bb4265ae-0fb2-4d45-930f-c7c67a8b2f89 | ~3.6/5 |
-| Ema | Security Engineer Intern | https://jobs.ashbyhq.com/ema/ac9732bc-f6d2-40f3-b6f7-0cc6d45ac11d | ~3.5/5 |
-| Five9 | Software Developer AI Insights Intern | https://www.five9.com/about/careers/job-detail?gh_jid=5973615004 | ~3.0-3.5/5 |
-| Context | Summer Intern | https://jobs.ashbyhq.com/context/1c657ebf-3842-4ca4-ab55-54ffaf1e49d8 | ~3.0 unverified |
+No further automated scanning recommended for the Summer 2026 cycle. The market is fully saturated. Carlos should shift focus to submitting applications to the 50+ qualified opportunities already in pipeline, especially the Anthropic Fellows deadline (April 26).
 
----
-
-## ⚠️ URGENT: Upcoming Deadlines
-
-| Company | Role | Score | Deadline | Report |
-|---------|------|-------|----------|--------|
-| **Anthropic** | Fellows — AI Security | 4.7/5 | **APRIL 26** (8 days!) | #246/287 |
-| **Anthropic** | Fellows — AI Safety | 4.2/5 | **APRIL 26** (8 days!) | #370 |
-| **Anthropic** | Fellows — ML Systems & Performance | 4.1/5 | **APRIL 26** (8 days!) | #372 |
-
-> These three Anthropic Fellows deadlines are in 8 days. If Carlos has not applied yet, this should be the top priority.
-
----
-
-## Top Unapplied Matches (by Score)
-
-From the evaluated but unapplied backlog (score ≥ 4.5):
-
-| # | Company | Role | Score | Report |
-|---|---------|------|-------|--------|
-| 347 | Cloudflare | Software Engineer Intern (Austin) | 4.8/5 | #293 |
-| 304 | Mechanize | Software Engineering Intern | 4.6/5 | #281 |
-| 246 | Anthropic | Fellows — AI Security | 4.7/5 | #287 |
-| 294 | Cloudflare | Security Engineer Intern | 4.7/5 | #294 |
-| 298 | Haize Labs | Software Engineer Intern | 4.7/5 | #272 |
-| 143 | Palantir | FDSE New Grad | 4.7/5 | #267 |
-| 355 | Atlassian | Security Engineer Intern | 4.5/5 | #354 |
-| 334 | Together AI | Security Engineer Intern | 4.5/5 | #291 |
-| 340 | Glean | SWE Intern | 4.5/5 | #340 |
-| 341 | Ramp | FDE Intern | 4.5/5 | #341 |
-| 1 | Palantir | FDSE Intern Commercial | 4.5/5 | #1 |
-| 2 | OpenAI | Applied Emerging Talent | 4.5/5 | #2 |
-
----
-
-## Recommended Next Actions
-
-1. **APPLY NOW (deadline April 26):** Anthropic Fellows AI Security (#246) + AI Safety (#370) + ML Systems (#372)
-2. **Apply this week:** Cloudflare SWE (#347), Cloudflare Security (#294), Mechanize (#304), Haize Labs (#298)
-3. **Pipeline cleanup:** Evaluate pending Obsidian Security/Symmetry/TensorWave/Ema listings from v106 scan
-4. **No new scans needed** for 24-48 hours — market is saturated; resume scanning Monday April 20
-
----
-
-*Generated by career-ops autonomous scan agent v112 | 2026-04-18*
+If scanning is desired, check again in 2-3 weeks for any rare late-season postings.
