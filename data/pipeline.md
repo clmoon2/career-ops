@@ -1833,3 +1833,22 @@
 - [ ] https://jobs.ashbyhq.com/context/1c657ebf-3842-4ca4-ab55-54ffaf1e49d8 | Context | Summer Intern — SF; company details unknown; verify what Context does before applying; (~3.0 unverified)
 
 <!-- === END 2026-04-17 SCAN v102 === -->
+
+<!-- === BEGIN 2026-04-18 SCAN v105 === -->
+
+**Scan v105 — 2026-04-18** | Greenhouse API (10 companies) + WebSearch + SpeedyApply/SimplifyJobs | New qualified: 2
+
+> Market note: The intern/new-grad market is very stable at this point. All major companies tracked since April 5 (100+ scans, 2600+ history entries). Very few genuinely new postings appearing.
+
+> URGENT: **Anthropic Fellows Program — AI Security** deadline is **April 26, 2026** (8 days). Already in pipeline from April 7. Apply NOW.
+
+### Pipeline Added — scan-v105
+
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4794825101 | Parloa | Deployment Strategist - US — US-based role at Berlin voice AI company; customer-facing deployment strategy for enterprise voice AI; verify experience requirements; ~3.0/5
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4843556101 | Parloa | Software Engineer, GTM — GTM-focused SWE at Parloa (Berlin); EMEA-headquartered; US applicability unclear; ~2.5/5
+
+### Companies Confirmed No New Intern/New-Grad Roles — scan-v105
+
+Anthropic (all Fellows dup), Airtable (2 new FTE senior skipped), Vercel (all FTE), Glean (SWE intern closed), Arize AI (no intern), RunPod (unchanged), Temporal (0 jobs), Hume AI (all senior), Intercom (all senior), Parloa (2 new FTE above), SpeedyApply/SimplifyJobs (0 qualifying today).
+
+<!-- === END 2026-04-18 SCAN v105 === -->

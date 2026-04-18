@@ -1,111 +1,97 @@
-# Portal Scan Summary — 2026-04-17 (v104)
+# Portal Scan Summary — 2026-04-18
 
-**Date:** 2026-04-17
-**Scan version:** v104
-**Agent:** Autonomous scanner
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**Scan version:** v105
+**Date:** 2026-04-18
+**Scan methods:** Greenhouse API (10 companies direct) + WebSearch (broad queries) + SpeedyApply + SimplifyJobs
+**Previous scan:** 2026-04-17 (v104 — Zoox, Ripple, BlackSky, Poshmark)
+**Total history entries:** 2,584 → 2,600 (added 16 new entries today)
 
 ---
 
-## Stats
+## Scan Results
 
 | Metric | Count |
 |--------|-------|
-| Portals / companies checked | 30+ |
-| Greenhouse APIs queried | 6 (Anthropic, HumeAI, Vercel, Temporal, Arize, Airtable) |
-| WebSearch queries executed | 12+ |
-| Aggregators checked | SimplifyJobs (0d), SpeedyApply SWE (0d/1d) |
-| Total URLs verified | ~40 |
-| Confirmed dups (already in history) | ~36 |
-| Genuinely new URLs found | 4 |
-| New URLs above 3.5/5 threshold | 0 |
-| New URLs above 4.0/5 threshold | 0 |
-| Reports filed this scan | 0 |
-| Pipeline additions | 0 |
-| Scan history size (after update) | 2,585 entries |
+| Companies scanned | 11 Greenhouse APIs + 2 aggregators + WebSearch |
+| Total job listings reviewed | ~480 |
+| Filtered by title (negative/senior/non-target) | ~472 |
+| Duplicates (already in history) | ~6 |
+| **New listings added to pipeline** | **2** |
+| **New listings added to scan history** | **16** |
+| Evaluations written (score ≥ 4.0) | 0 |
 
 ---
 
-## Pipeline Status
+## New Listings Added to Pipeline
 
-**FULLY SATURATED.** The Summer 2026 internship pipeline for Carlos's target archetypes (SWE, Security, AI/ML, DevOps, Consulting) is fully saturated. All major portals (Greenhouse, Ashby, Lever) and aggregators (SimplifyJobs, SpeedyApply) have been exhaustively scanned across 103 prior runs. The 4 genuinely new listings found this run are all below the 3.5/5 quality threshold.
-
----
-
-## New Listings Found (all below threshold)
-
-| Company | Title | URL | Score | Reason Skipped |
-|---------|-------|-----|-------|----------------|
-| Zoox | SWE Intern - Perception Data | [jobs.lever.co](https://jobs.lever.co/zoox/15aa4a31-81e0-4f7a-b9d9-5bc64eb2afb8) | ~2.5/5 | Autonomous vehicles / robotics domain; not primary |
-| Ripple | SWE Intern - GTreasury | [ripple.com](https://ripple.com/careers/all-jobs/job/7822192) | ~2.0/5 | Crypto company — negative filter applies |
-| BlackSky | SDET Intern | [boards.greenhouse.io](https://boards.greenhouse.io/blacksky/jobs/8499008002) | ~2.0/5 | Defense/aerospace satellite imagery; testing role |
-| Poshmark | Cloud Platform Eng Intern | [jobs.ashbyhq.com](https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa) | ~2.8/5 | E-commerce fashion; Ruby/Java stack; Bay Area relocation |
+| Company | Role | URL | Score | Notes |
+|---------|------|-----|-------|-------|
+| Parloa | Deployment Strategist - US | https://job-boards.eu.greenhouse.io/parloa/jobs/4794825101 | ~3.0 | US-based role at Berlin voice AI company; verify experience req |
+| Parloa | Software Engineer, GTM | https://job-boards.eu.greenhouse.io/parloa/jobs/4843556101 | ~2.5 | GTM SWE at Parloa; EMEA HQ |
 
 ---
 
-## Key Confirmed Dups (major listings verified this scan)
+## Companies Scanned — Full Results
 
-All of the following were confirmed already in history and correctly handled in prior scans:
-
-- **Decagon** Agent SWE Intern — added 2026-04-07
-- **Cohere** SWE Intern ($59/hr, remote) — added 2026-04-07
-- **Replit** SWE Intern (Foster City CA) — added 2026-04-07
-- **Notion** SWE AI Intern ($57/hr, NYC/SF) — added 2026-04-07
-- **Tenstorrent** Applied AI Workflow Automation Intern — EVALUATED #363 (4.0/5) 2026-04-14
-- **Cloudflare** Security Engineer Intern — EVALUATED #273 (4.4/5) 2026-04-08
-- **PDT Partners** SWE Internship — EVALUATED #368 (4.0/5) 2026-04-16
-- **Rockstar Games** AppSec Intern — added 2026-04-10
-- **Schonfeld** Cybersecurity Ops Intern — added 2026-04-07
-- **Gemini** Security Engineering Intern — confirmed dup (crypto/blockchain domain)
-- **Glean** SWE Intern — confirmed dup (status uncertain)
-- **Together AI** Security Engineer Intern — confirmed dup
-- **Anthropic** STEM Fellow — confirmed dup (PhD required, ~2.0/5)
-- **Salesforce** Product Security Intern — added 2026-04-16
+| Company | Platform | Result | Notes |
+|---------|----------|--------|-------|
+| Anthropic | Greenhouse API | No new intern | All Fellows in history; STEM Fellow requires PhD |
+| Airtable | Greenhouse API | 2 new FTE (skipped) | PSE East Coast + Senior SA; New Grad 2026 closed |
+| Vercel | Greenhouse API | No new intern | FDE v0 + Agent SWE are FTE-only |
+| Glean | Greenhouse API | No new intern | SWE Intern 4595665005 confirmed closed |
+| Arize AI | Greenhouse API | No new intern | AI App Engineer FTE 2-5yr confirmed |
+| RunPod | Greenhouse API | No change | Board unchanged from April 5 |
+| Temporal | Greenhouse API | 0 jobs | Board empty |
+| Hume AI | Greenhouse API | No new intern | All senior FTE |
+| Intercom | Greenhouse API | No new intern | 130+ FTE-only roles |
+| Parloa | Greenhouse API (EU) | 2 new FTE | Deployment Strategist US + SWE GTM |
+| SpeedyApply | Web | 0 qualifying | Nielsen (low pay) + Okta Content Ops (non-SWE) |
+| SimplifyJobs | Web | 0 qualifying | Market stable, no new additions |
 
 ---
 
-## Greenhouse APIs — Results
+## URGENT ACTION REQUIRED
 
-| Company | Status |
-|---------|--------|
-| Anthropic | 5 active roles: Fellows (AI Safety, AI Security, ML Systems, RL, General) + STEM Fellow — all in history |
-| HumeAI | No intern/new-grad roles (all senior FTE) |
-| Vercel | No intern roles |
-| Temporal | Empty board (0 jobs) |
-| Arize AI | No intern roles (all FTE/senior) |
-| Airtable | No intern roles |
+### Anthropic Fellows Program — AI Security
+**Deadline: April 26, 2026 (8 days away)**
 
----
+This is the highest-priority application in the entire pipeline:
+- **Score:** Strong fit — cybersecurity minor + adversarial LLM testing + HMAC/TLS/OAuth experience
+- **Compensation:** $3,850/week + $15K/month compute funding
+- **Duration:** 4-month fellowship (July 2026 cohort)
+- **Location:** San Francisco or Remote (US/UK/Canada)
+- **URL:** https://job-boards.greenhouse.io/anthropic/jobs/5030244008
 
-## URGENT Actions — Deadlines Approaching
-
-| # | Role | Score | Deadline |
-|---|------|-------|----------|
-| #246 | Anthropic Fellows — AI Security | **4.7/5** | **April 26, 2026** |
-| #370 | Anthropic Fellows — AI Safety | **4.2/5** | **April 26, 2026** |
-| #372 | Anthropic Fellows — ML Systems | **4.1/5** | **April 26, 2026** |
-
-**9 days until deadline. Apply immediately.**
+**Also:** Anthropic Fellows — AI Safety (5183044008), ML Systems (5183051008), RL (5183052008) — same April 26 deadline.
 
 ---
 
-## Missing Report Files
+## Market Intelligence — April 18 Status
 
-Reports #363-#377 were logged in scan history and tracker additions but `.md` files are missing from `reports/`. Files confirmed missing:
-- `363-tenstorrent-applied-ai-workflow-automation-2026-04-14.md` (4.0/5)
-- `368-pdtpartners-swe-internship-2026-04-16.md` (4.0/5)
-- `375-dropbox-swe-intern-2026-04-17.md` (4.0/5)
-- `376-zip-swe-intern-2026-04-17.md` (4.0/5)
-- `377-vgs-appsec-intern-2026-04-17.md` (4.0/5)
+The Summer 2026 internship market is entering its **late stage**. Most major companies have closed applications or are actively interviewing. A small number still accept applications with rolling deadlines.
 
-These companies are in applications.md (tracker additions were merged). Report `.md` files can be recreated on demand.
+### Still active in pipeline (as of April 18)
+- **Anthropic Fellows** (ALL 4 tracks) — deadline April 26
+- **OpenAI** Applied Emerging Talent (Fall 2026) — rolling
+- **Cloudflare** Austin TX SWE Intern — rolling through spring
+- **Ramp** Backend/FDE/AI Ops internships — rolling
+- **Notion** Summer + Fall 2026 intern roles — rolling
+- **VGS (Very Good Security)** AppSec Intern — report #377 missing from disk; run `/career-ops oferta` to regenerate
+
+### Report integrity note
+Report #377 (VGS Application Security Intern, 4.0/5) was logged in scan history April 17 but the markdown file does not exist on disk. Run `/career-ops oferta` with the VGS URL to write the missing report.
 
 ---
 
-## Recommended Next Actions
+## Next Actions
 
-1. **APPLY NOW** — Anthropic Fellows AI Security (#246, 4.7/5) — Deadline April 26
-2. **APPLY NOW** — Anthropic Fellows AI Safety (#370, 4.2/5) — Deadline April 26
-3. **APPLY NOW** — Anthropic Fellows ML Systems (#372, 4.1/5) — Deadline April 26
-4. **Follow up** — Check status of any pending applications in `data/applications.md`
-5. **Scan again after April 20** — New listings may appear as companies finalize summer hiring
-6. **Evaluate pipeline items** still pending (Verkada, Monarch Money, Capital One Cyber, Zscaler, etc.)
+1. **APPLY TO ANTHROPIC FELLOWS AI SECURITY IMMEDIATELY** — Deadline April 26
+2. Apply to Anthropic Fellows AI Safety + ML Systems (same deadline)
+3. Write missing report #377 (VGS AppSec Intern) — run `/career-ops oferta https://jobs.lever.co/verygoodsecurity/32fe92a6-13d5-4132-b77c-a7a5ed74f38b`
+4. Run `/career-ops pipeline` to work through existing high-score pipeline items
+5. **Next scan recommended:** 2026-04-21 (3 days) — focus on fall 2026 intern openings
+
+→ Run `/career-ops pipeline` to evaluate the pending items.
+→ Run `/career-ops scan` on April 21 for the next scheduled scan.
