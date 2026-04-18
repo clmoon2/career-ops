@@ -1,107 +1,100 @@
-# Portal Scan Summary — 2026-04-18 (v111)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Portal Scan Summary — 2026-04-18 (v112)
 
-**Scan type:** Full saturation sweep (v111) — autonomous agent
-**Candidate:** Carlos Luna-Peña
-**Date:** 2026-04-18
-**Prior scan:** v110 (2026-04-18 same day, partial) / v109 (2026-04-18 morning)
+**Date:** 2026-04-18  
+**Scan version:** v112 (autonomous agent scan)  
+**Sources checked:** 20+ (Greenhouse APIs, Ashby, Lever, SimplifyJobs, SpeedyApply AI/SWE, YC Work at a Startup, WebSearch broad discovery, Extern article, HN Jobs)  
+**Total history entries:** 2,709  
+**Total scans to date:** 112  
 
 ---
 
-## Scan Statistics
+## Results
 
-| Metric | Value |
+| Metric | Count |
 |--------|-------|
-| Companies/portals checked | 25+ |
-| Greenhouse APIs scanned | 8 (Vercel, Arize AI, Airtable, Together AI, RunPod, Glean, Cloudflare, Anthropic) |
-| WebSearch queries executed | 15+ |
-| GitHub repos checked | SpeedyApply SWE + AI, SimplifyJobs |
-| HN Jobs thread | April 2026 |
-| New URLs found | 12 batch entries (~65 individual roles checked) |
-| Qualifying (score >= 4.0) | **0** |
-| Qualifying (score >= 3.5) | **0** |
-| Reports filed | **0** |
-| Added to pipeline | **0** |
-| Total history entries | **2,697** |
+| New listings found (total) | 1 |
+| Filtered by PhD/title | 1 |
+| Duplicates | all others |
+| New listings added to pipeline | 0 |
+| New listings evaluated (≥ 4.0) | 0 |
 
 ---
 
-## Portals Scanned
+## New Listings Found
 
-| Portal / Company | Method | Result |
-|-----------------|--------|--------|
-| Vercel | Greenhouse API | 5 new non-technical FTE roles; FDE v0 skipped (senior FTE, $196K+) |
-| Arize AI | Greenhouse API | AI App Eng skipped (Buenos Aires, 2-5 YOE); 12 non-technical |
-| Airtable | Greenhouse API | 14 new non-technical roles; SWE Backend 4-8 YOE experience-gated |
-| Together AI | Greenhouse API | ALL intern listings REMOVED from board (SWE + Security interns) |
-| RunPod | Greenhouse API | 14 new non-technical roles; no intern openings |
-| Glean | Greenhouse API | No new intern/new grad roles |
-| Cloudflare | Greenhouse API | 9 new non-SWE interns (BDR, Customer Advocacy, Content Marketing, etc.) |
-| Anthropic | Greenhouse API | No new intern roles (API truncated; confirmed via WebSearch) |
-| Ashby (broad) | WebSearch | All results confirmed duplicates from prior scans |
-| Greenhouse (broad) | WebSearch | All results confirmed duplicates |
-| Lever (broad) | WebSearch | Artera medical AI (~3.2/5, healthcare domain); all others dup |
-| SpeedyApply SWE | GitHub | 1-3d entries: defense/clearance/embedded/enterprise — 0 qualifying |
-| SpeedyApply AI | GitHub | 1-3d entries: semiconductor/biotech/IT reseller — 0 qualifying |
-| HN Who is Hiring April 2026 | Web | Senior FTE only (OneLeet, Prior Labs, PostHog, Coast) |
-| SimplifyJobs | GitHub | All confirmed dup from prior scans |
-| Ripple | Direct URL | RippleX DGE intern 7460817 — URL redirected/closed |
-| Fall 2026 (all portals) | WebSearch | All existing listings; no new Fall 2026 openings discovered |
+### 🚫 Filtered (PhD Required)
+| Company | Role | URL | Reason |
+|---------|------|-----|--------|
+| Anthropic | STEM Fellow | https://job-boards.greenhouse.io/anthropic/jobs/5189848008 | PhD in STEM required; Carlos is undergrad CS — not eligible |
 
 ---
 
-## Notable Findings
+## Market Status
 
-### Together AI Intern Program CLEARED
-The SWE Intern (5012768007) and Security Engineer Intern (5012785007) have been REMOVED from the board. This signals the Summer 2026 intern program is closed. **Action needed: Verify report #378 (Together AI Security Intern) is still submittable before applying.**
+> **Summer 2026 internship market is effectively closed for new tech postings.**
 
-### Vercel Forward Deployed Engineer, v0 (5872425004)
-New FTE role for Vercel's v0.dev AI code-gen product. Remote US, $196K-$294K. Requires prior GTM-adjacent SWE experience. Not an intern/new grad role — worth monitoring for post-graduation.
-
-### Arize AI Application Engineer (5969145004)
-New role but Buenos Aires area required. 2-5 YOE. LangChain/LangGraph/OpenTelemetry stack — strong Carlos match on skills but wrong location.
-
-### Summer 2026 Saturation Confirmed
-After 111 scan runs over 13 days, the Summer 2026 intern pipeline is fully saturated. No new qualifying listings exist. The market has transitioned — most Summer 2026 programs have hired and closed.
+112 scans have been completed since April 5, 2026. The market for Carlos's target roles (SWE, AI/ML, Security, DevOps, Consulting internships) shows:
+- All major tech companies (FAANG-tier, AI labs, cybersecurity vendors) have posted and filled their 2026 intern classes
+- Remaining new postings are mostly: defense/clearance-required, embedded systems, healthcare domain, or below compensation threshold
+- SpeedyApply and SimplifyJobs are showing 0-1 new qualifying entries per day (down from 10-20/day in early April)
 
 ---
 
-## Top Matches Still Pending Action
+## Active Pipeline Entries (Pending Evaluation)
 
-| Priority | Company | Role | Score | Report | Deadline | Status |
-|----------|---------|------|-------|--------|----------|--------|
-| URGENT | Anthropic | AI Security Fellow | 4.7/5 | #246 | **April 26, 2026** | Not applied |
-| URGENT | Anthropic | AI Safety Fellow | 4.2/5 | #370 | **April 26, 2026** | Not applied |
-| URGENT | Anthropic | ML Systems Fellow | 4.1/5 | #372 | **April 26, 2026** | Not applied |
-| VERIFY | Together AI | Security Engineer Intern | 4.0/5 | #378 | — | Verify listing active |
-| APPLY | Roadie | AI Engineer Intern | 4.2/5 | #371 | — | Not applied |
-| APPLY | HuggingFace | GUI Agents ML Intern | 4.0/5 | #374 | — | Not applied |
-| APPLY | Dropbox | SWE Intern | 4.0/5 | #375 | — | Not applied |
-| APPLY | Zip | SWE Intern (Summer) | 4.0/5 | #376 | — | Verify still open |
+These listings were added in prior scans and still await review:
+
+| Company | Role | URL | Est. Score |
+|---------|------|-----|-----------|
+| Obsidian Security | Software Engineer Intern (Summer 2026) | https://job-boards.greenhouse.io/obsidiansecurity/jobs/4788725008 | ~3.7/5 |
+| Symmetry Systems | Full Stack SWE Intern (Summer 2026) | https://jobs.lever.co/SymmetrySystems/dbca271b-a99b-48ab-83f2-b596a037ad65 | ~3.6/5 |
+| TensorWave | Security Engineer Intern | https://jobs.ashbyhq.com/TensorWave/bb4265ae-0fb2-4d45-930f-c7c67a8b2f89 | ~3.6/5 |
+| Ema | Security Engineer Intern | https://jobs.ashbyhq.com/ema/ac9732bc-f6d2-40f3-b6f7-0cc6d45ac11d | ~3.5/5 |
+| Five9 | Software Developer AI Insights Intern | https://www.five9.com/about/careers/job-detail?gh_jid=5973615004 | ~3.0-3.5/5 |
+| Context | Summer Intern | https://jobs.ashbyhq.com/context/1c657ebf-3842-4ca4-ab55-54ffaf1e49d8 | ~3.0 unverified |
+
+---
+
+## ⚠️ URGENT: Upcoming Deadlines
+
+| Company | Role | Score | Deadline | Report |
+|---------|------|-------|----------|--------|
+| **Anthropic** | Fellows — AI Security | 4.7/5 | **APRIL 26** (8 days!) | #246/287 |
+| **Anthropic** | Fellows — AI Safety | 4.2/5 | **APRIL 26** (8 days!) | #370 |
+| **Anthropic** | Fellows — ML Systems & Performance | 4.1/5 | **APRIL 26** (8 days!) | #372 |
+
+> These three Anthropic Fellows deadlines are in 8 days. If Carlos has not applied yet, this should be the top priority.
+
+---
+
+## Top Unapplied Matches (by Score)
+
+From the evaluated but unapplied backlog (score ≥ 4.5):
+
+| # | Company | Role | Score | Report |
+|---|---------|------|-------|--------|
+| 347 | Cloudflare | Software Engineer Intern (Austin) | 4.8/5 | #293 |
+| 304 | Mechanize | Software Engineering Intern | 4.6/5 | #281 |
+| 246 | Anthropic | Fellows — AI Security | 4.7/5 | #287 |
+| 294 | Cloudflare | Security Engineer Intern | 4.7/5 | #294 |
+| 298 | Haize Labs | Software Engineer Intern | 4.7/5 | #272 |
+| 143 | Palantir | FDSE New Grad | 4.7/5 | #267 |
+| 355 | Atlassian | Security Engineer Intern | 4.5/5 | #354 |
+| 334 | Together AI | Security Engineer Intern | 4.5/5 | #291 |
+| 340 | Glean | SWE Intern | 4.5/5 | #340 |
+| 341 | Ramp | FDE Intern | 4.5/5 | #341 |
+| 1 | Palantir | FDSE Intern Commercial | 4.5/5 | #1 |
+| 2 | OpenAI | Applied Emerging Talent | 4.5/5 | #2 |
 
 ---
 
 ## Recommended Next Actions
 
-1. **CRITICAL (8 days): Apply to all 3 Anthropic Fellows programs** (AI Security #246, AI Safety #370, ML Systems #372). Deadline April 26, 2026.
-
-2. **VERIFY Together AI Security Intern** — Board cleared their intern listings. Verify #378 is still active before submitting.
-
-3. **Apply to open pipeline items** — Roadie AI Intern (#371), HuggingFace GUI Agents (#374), Dropbox SWE (#375).
-
-4. **Shift focus to Fall 2026** — Summer 2026 market is closed. Fall 2026 internships are opening now (Notion, OpenAI, Sentry, Zip already listed). Start targeting these.
-
-5. **Resume update** — With Summer 2026 essentially closed, update cv.md with any recent achievements before Fall 2026 recruiting begins.
+1. **APPLY NOW (deadline April 26):** Anthropic Fellows AI Security (#246) + AI Safety (#370) + ML Systems (#372)
+2. **Apply this week:** Cloudflare SWE (#347), Cloudflare Security (#294), Mechanize (#304), Haize Labs (#298)
+3. **Pipeline cleanup:** Evaluate pending Obsidian Security/Symmetry/TensorWave/Ema listings from v106 scan
+4. **No new scans needed** for 24-48 hours — market is saturated; resume scanning Monday April 20
 
 ---
 
-## Pipeline Health
-
-```
-Total evaluated offers:     378
-Summer 2026 intern pipeline: FULLY SATURATED (13 days, 111 scans)
-Fall 2026 pipeline:          Starting to open (Notion, OpenAI, Sentry, Zip listed)
-New grad 2026:               Ongoing (Glean Univ Grad, Verkada Security Grad, etc.)
-```
-
-*Next scan recommended: 2026-04-21 (72 hrs) — check for new Fall 2026 intern postings*
+*Generated by career-ops autonomous scan agent v112 | 2026-04-18*

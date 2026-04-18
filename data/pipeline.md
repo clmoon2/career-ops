@@ -1936,3 +1936,24 @@ PolyAI (all FTE senior, no interns), Ada (board 404), SpeedyApply AI (0 new qual
 SimplifyJobs (0 new since v109), SpeedyApply AI/SWE (0 new since v109), YC Internships (all dup v30-v57), Cloudflare API (non-SWE business roles only), Qualcomm Security Intern (CLOSED), Nerdio Security Intern (CLOSED), Cekura YC F24 AI Engineer Intern (404/closed), Red Balloon Security (no ATS listing), RINSE (new-grad SWE 2.8/5 non-target), HN Jobs April 2026 (minimal interns; all senior FTE).
 
 <!-- === END 2026-04-18 SCAN v110 === -->
+
+<!-- === BEGIN 2026-04-18 SCAN v112 === -->
+
+**Scan v112 — 2026-04-18** | Autonomous agent scan: Greenhouse APIs (Anthropic/CrowdStrike/Databricks/Scale AI) + WebSearch (Greenhouse/Ashby/Lever broad) + SpeedyApply AI/SWE (GitHub) + SimplifyJobs (GitHub) + YC workatastartup.com + Lever broad discovery + HN/Extern/LinkedIn discovery | Net new qualified: **0**
+
+> Market status: Extremely saturated. 112 scans completed, 2,697+ history entries. Summer 2026 internship season effectively closed for new tech postings. Most remaining new postings are non-tech, defense/clearance-required, or below comp threshold.
+
+### 🆕 New Listings Found — scan-v112
+- Anthropic STEM Fellow (5189848008, published April 16) — PhD required; undergrad not eligible → skipped_title
+- All other sources: 100% duplicate of prior scans
+
+### Companies Confirmed No New Intern/New-Grad Roles — scan-v112
+**Greenhouse APIs:** Anthropic (STEM Fellow new but PhD-gated), CrowdStrike (404 — migrated from Greenhouse), Databricks (0 intern positions), Scale AI (all dup v7).
+**YC Work at a Startup:** SubImage/CTGT/Swif.ai/Reacher/14.ai/Candle/Bloom/Speak all dup v30-v57; Novaflow SWE Intern (bioinformatics domain, dup v49).
+**SpeedyApply SWE (0d):** BlackSky/Kognitos/Ripple/Zoox all dup; 1-2d entries all non-target (defense/embedded/healthcare).
+**SpeedyApply AI (0d):** Meta Audio Research/Nielsen/Okta AI Content Ops/Trumid — all dup or non-SWE.
+**SimplifyJobs:** ActBlue/Uhaul/Revvity/Northspyre (evaluated #379)/Five9 (pipeline)/HPR — all dup from v107.
+**Lever Broad:** Actian (dup v7), Aledade (healthcare domain, skip), Match Group (data science, skip).
+**WebSearch (Greenhouse/Ashby):** All results returning same listings seen in v7-v111.
+
+<!-- === END 2026-04-18 SCAN v112 === -->
