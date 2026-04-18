@@ -2,6 +2,18 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-18 SCAN v115 (Autonomous Agent — deep saturation sweep v115: Greenhouse APIs (Anthropic/Vercel/Airtable/Temporal/Arize/Glean/RunPod/HumeAI — all no new intern; Anthropic Fellows tracks all confirmed dup from v10-v112; Temporal board empty; Vercel/Airtable/Arize no intern; HumeAI no intern); WebSearch (Ashby/Greenhouse/Lever multi-query sweep — 38+ companies scanned; all prior Summer 2026 results confirmed dup from v1-v114); Fall 2026 co-op scan (Klaviyo Full-Stack SWE Co-op 7602543003 NEW ~3.0/5; Klaviyo GTM Dev Co-op 7604604003 NEW ~2.0/5 business systems skip); Lever new companies (Actian IaC Intern 4faea8ff NEW ~2.5/5 legacy DB skip; Zaimler ML Infra Intern 7ad271ec NEW ~3.0/5 small startup; Palantir FDE dab396d4 NEW FTE not intern skip); KEY FINDINGS: 9 new URLs — ALL below 4.0/5 threshold; 0 reports filed; 2 pipeline additions (Klaviyo Full-Stack + Zaimler ML — both ~3.0/5); history 2,748 → 2,761 entries; Summer 2026 FULLY SATURATED; Fall 2026 co-ops emerging) === -->
+<!-- 9 new URLs found (0 scored >=4.0). 2 pipeline additions (both ~3.0/5). History: 2,761 entries. Summer SATURATED; Fall 2026 emerging. -->
+<!-- URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+<!-- URGENT: Anthropic Fellows AI Safety #370 4.2/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+<!-- URGENT: Anthropic Fellows ML Systems #372 4.1/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->
+
+### Pipeline Pending (score est. ~3.0/5) — scan-v115 — Fall 2026 co-op
+- [ ] https://job-boards.greenhouse.io/klaviyocampus/jobs/7602543003 | Klaviyo | Full-stack Software Engineer Co-op (Fall 2026) | ~3.0/5 | Boston MA in-person (Jul 6 - Dec 18 2026); Python/AWS/AI-first; real-time data pipelines; marketing SaaS domain; comp not disclosed; verify before applying
+
+### Pipeline Pending (score est. ~3.0/5) — scan-v115 — small startup caution
+- [ ] https://jobs.lever.co/zaimler/7ad271ec-00d1-4b6a-9f48-81af25cc210f | Zaimler | ML Infrastructure Intern (Summer 2026) | ~3.0/5 | small/unknown fintech AI company; distributed systems + data pipelines + ML ops; verify legitimacy before applying
+
 <!-- === NEW 2026-04-18 SCAN v114 (Autonomous Agent — post-saturation verification sweep v114: Parloa Greenhouse API (62 roles, 0 intern); Ashby/Greenhouse/Lever broad searches (all confirmed dup from v7-v113); BuiltIn Austin/SF/NYC security+AI searches (Exiger closed March 31; Rubrik closed March 13; Workiva ML Intern ~3.0/5 enterprise GRC non-AI-first); Adobe R160621 new ML Intern URL (Workday SPA inaccessible; ~2.8/5 below threshold per R158493/R160469 prior evaluations); Adaptive Security 19c82c40 (listing closed/redirect); SimplifyJobs 0d/1d (Tencent UK/ActBlue/Uhaul/Revvity Canada/Western Union/Berkshire Hathaway all non-target or non-US; Northspyre/Five9/VGS/Context/Zoox/Ripple/Trumid/Kognitos/Leidos/RTX all dup); SpeedyApply AI 0d (Nielsen x2/Okta/Trumid/Meta all dup); YC workatastartup (all dup); KEY FINDINGS: 14 new URLs — 0 scored >=3.5; 0 reports filed; 0 pipeline additions; history now 2,749 entries; PIPELINE FULLY SATURATED — no new qualifying Summer 2026 roles found) === -->
 <!-- 14 new URLs found (0 scored >=3.5). ALL non-qualifying. History: 2,749 entries. Pipeline FULLY SATURATED. -->
 <!-- URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026. APPLY IMMEDIATELY. -->

@@ -1,94 +1,96 @@
-# Portal Scan Summary — 2026-04-18
-**Scan version:** v114 (autonomous agent)
-**Run time:** 2026-04-18
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Portal Scan — 2026-04-18 (v115)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## Scan Statistics
+**Scan version:** v115 (Autonomous Agent)
+**Date:** 2026-04-18
+**Previous scan:** v114 (2026-04-18, same day)
+**History entries before scan:** 2,748
+**History entries after scan:** 2,761
+
+---
+
+## Scope
+
+| Level | Method | Count |
+|-------|--------|-------|
+| Level 2 — Greenhouse APIs | Anthropic, Vercel, Airtable, Temporal, Arize AI, Glean, RunPod, HumeAI | 8 companies |
+| Level 3 — WebSearch | Ashby/Greenhouse/Lever multi-query (15+ queries), Fall 2026 co-ops, Lever AI/ML/DevOps | 30+ companies |
+| **Total companies/portals** | | **38+** |
+
+---
+
+## Results
 
 | Metric | Count |
 |--------|-------|
-| Companies/portals checked | 25+ |
-| New URLs found | 14 |
-| Scored ≥ 4.0 | 0 |
-| Added to pipeline | 0 |
-| Reports filed | 0 |
-| Total scan history entries | 2,749 |
+| Total new URLs discovered | 9 |
+| Skipped — no intern/new-grad (APIs) | 5 (Vercel/Airtable/Temporal/Arize/HumeAI) |
+| Skipped — score below threshold | 4 |
+| Skipped — FTE (not intern) | 1 (Palantir FDE) |
+| **Added to pipeline** | **2** |
+| Reports filed (>=4.0/5) | 0 |
 
-## Sources Checked
-
-### Level 2 — Greenhouse APIs
-- **Parloa** — 62 roles, 0 intern/new-grad (`skipped_no_intern`)
-
-### Level 3 — WebSearch Discovery
-- Ashby broad: 15+ queries across all portals — all confirmed dup
-- Greenhouse broad: 10+ queries — all confirmed dup
-- Lever broad: 8+ queries — all confirmed dup
-- SimplifyJobs 0d/1d entries: 20+ checked — all non-target or dup
-- SpeedyApply AI/SWE 0d entries: 5+ — all confirmed dup
-- BuiltIn Austin/SF/NYC security+AI intern searches
-- YC workatastartup internship page
-
-### Special Checks
-- **Adaptive Security** (new URL `19c82c40`) — listing closed/redirect; skip
-- **Adobe R160621** — new ML Engineer intern URL on Workday (SPA inaccessible); prior Adobe ML roles required Master's/PhD; est. ~2.8/5 below threshold
-- **Exiger** CyberSecurity Intern (NYC, $25/hr) — CLOSED March 31, 2026
-- **Rubrik** SWE Intern — CLOSED March 13, 2026
-- **Workiva** ML Engineer Intern (Remote) — enterprise financial reporting SaaS; ML support for data scientists, not AI-first company; ~3.0/5 below threshold
-- **Western Union** SWE Intern (Denver CO) — legacy financial services; ~2.8/5 below threshold
+---
 
 ## New Listings Found
 
-**None qualifying.** All 14 new URLs were:
-- Non-US locations (Tencent London, Revvity Canada, Superhuman Berlin)
-- Closed/expired listings (Exiger, Rubrik)
-- Non-target domains (Uhaul, Western Union, ActBlue, Berkshire Hathaway Energy)
-- Already in scan history (dup from v7-v113)
-- Below score threshold (Adobe ~2.8/5, Workiva ~3.0/5)
+### Added to pipeline.md
+
+| Company | Role | Score | Notes |
+|---------|------|-------|-------|
+| Klaviyo | Full-stack Software Engineer Co-op (Fall 2026) | ~3.0/5 | Boston MA in-person; Python/AWS/AI-first; Jul 6–Dec 18 2026 |
+| Zaimler | ML Infrastructure Intern (Summer 2026) | ~3.0/5 | Small/unknown fintech AI; ML ops + distributed systems; verify legitimacy |
+
+### Skipped (below threshold / FTE)
+
+| Company | Role | Score | Reason |
+|---------|------|-------|--------|
+| Klaviyo | GTM Systems Developer Co-op (Fall 2026) | ~2.0/5 | Business systems/GTM domain |
+| Actian | IaC Remediation Intern | ~2.5/5 | Legacy database company; not AI-first |
+| Palantir | Forward Deployed Software Engineer | N/A | FTE role, not intern/new-grad |
+
+---
+
+## Greenhouse API Status
+
+| Company | Result |
+|---------|--------|
+| Anthropic | All Fellows tracks confirmed dup (AI Safety/Security/ML Systems/RL/STEM) |
+| Vercel | 82 FTE roles; 0 intern |
+| Airtable | No intern; min 2 YOE |
+| Temporal | Board empty (0 jobs) |
+| Arize AI | 33 FTE roles; 0 intern |
+| Glean | University Grad confirmed dup |
+| RunPod | Security + Full-Stack confirmed dup |
+| HumeAI | 8 FTE roles; 0 intern |
+
+---
 
 ## Pipeline Status
 
-**FULLY SATURATED** — The Summer 2026 internship market has been comprehensively swept. All major job boards (Ashby, Greenhouse, Lever, Workday, direct career pages) and all aggregators (SimplifyJobs, SpeedyApply, YC workatastartup) have been exhaustively scanned across 113+ prior scans today alone. New listings are appearing at a very low rate.
+**Summer 2026:** FULLY SATURATED — no new qualifying roles after 115 scans.
 
-### Pending Evaluation Items (from earlier scans today)
-From today's earlier scans (v105-v113), 6 new listings were added to pipeline:
-- `Obsidian Security` — Software Engineer Intern (Full-stack) — ~3.7/5
-- `Symmetry Systems` — Full Stack SWE Intern — ~3.6/5
-- `TensorWave` — Security Engineer Intern — ~3.6/5
-- `Ema` — Security Engineer Intern — ~3.5/5
-- `Five9` — Software Developer AI Insights Intern — ~3.0-3.5/5 (unverified)
-- `Northspyre` — AI Engineer Intern — **EVALUATED #379 (4.1/5)** ✅
+**Fall 2026 co-ops:** Season emerging. Klaviyo Full-Stack added (~3.0/5). More Fall co-op postings expected May–June 2026.
 
-## ⚠️ URGENT: Deadlines This Week
+---
 
-| Priority | Role | Score | Deadline | Action |
-|----------|------|-------|----------|--------|
-| 🔴 CRITICAL | Anthropic Fellows — AI Security (#246) | **4.7/5** | **April 26, 2026** | Apply NOW via Constellation |
-| 🔴 CRITICAL | Anthropic Fellows — AI Safety (#370) | **4.2/5** | **April 26, 2026** | Apply NOW |
-| 🔴 CRITICAL | Anthropic Fellows — ML Systems (#372) | **4.1/5** | **April 26, 2026** | Apply NOW |
+## ⚠️ URGENT ACTIONS (Deadline April 26, 2026)
 
-## Top Open Applications (Unapplied, Score ≥ 4.5)
+**8 days remaining.**
 
-| # | Company | Role | Score | Notes |
-|---|---------|------|-------|-------|
-| 347 | Cloudflare | SWE Intern Austin | **4.8/5** | Local Texas; prod Cloudflare Workers experience |
-| 294 | Cloudflare | Security Engineer Intern | **4.7/5** | Austin TX; OWASP/TLS/OAuth production impl |
-| 298 | Haize Labs | SWE Intern | **4.7/5** | $100-125K; adversarial LLM testing = perfect match |
-| 246 | Anthropic Fellows | AI Security | **4.7/5** | ⚠️ DEADLINE APRIL 26 |
-| 304 | Mechanize | SWE Intern | **4.6/5** | $100/hr SF; RL eval infra; adversarial LLM testing |
-| 355 | Atlassian | Security Engineer Intern | **4.5/5** | Seattle; Cybersec Minor + HMAC/TLS/OAuth |
-| 334 | Together AI | Security Engineer Intern | **4.5/5** | ⚠️ Verify listing active (board cleared April 18) |
-| 341 | Ramp | FDE Intern | **4.5/5** | $11K/mo + housing; NYC/SF |
-| 353 | OpenAI | SWE Intern | **4.5/5** | SF/Seattle; ~$60/hr |
-| 143 | Palantir | FDSE New Grad Commercial | **4.7/5** | $145-180K+RSUs |
+| Report | Role | Score | Deadline |
+|--------|------|-------|----------|
+| [#246](reports/246-anthropic-fellows-ai-security-2026-04-07.md) | Anthropic Fellows — AI Security | 4.7/5 | April 26, 2026 |
+| [#370](reports/370-anthropic-fellows-ai-safety-2026-04-10.md) | Anthropic Fellows — AI Safety | 4.2/5 | April 26, 2026 |
+| [#372](reports/372-anthropic-fellows-ml-systems-2026-04-10.md) | Anthropic Fellows — ML Systems & Performance | 4.1/5 | April 26, 2026 |
+
+→ **Apply to all three Anthropic Fellows programs immediately.**
+
+---
 
 ## Recommended Next Actions
 
-1. **APPLY NOW** — Anthropic Fellows (AI Security #246, AI Safety #370, ML Systems #372) — **8 days left until April 26 deadline**
-2. **Apply** — Mechanize SWE Intern #304 ($100/hr, adversarial LLM = perfect match)
-3. **Apply** — Cloudflare SWE #347 + Security #294 (Austin TX, local, exact stack match)
-4. **Apply** — Haize Labs SWE #298 ($100-125K, adversarial LLM testing)
-5. **Verify + Apply** — Together AI Security #334 (board was cleared April 18 — confirm URL active before applying)
-6. **Next scan** — Run `/career-ops scan` in 3-5 days; market is stable, new listings appear infrequently at this stage
-
----
-*Generated by career-ops autonomous scanning agent, scan v114, 2026-04-18*
+1. **APPLY to Anthropic Fellows (3 tracks) before April 26** — highest priority
+2. Consider Klaviyo Full-Stack co-op if open to Fall 2026 internship in Boston
+3. Verify Zaimler legitimacy before applying
+4. Next scan recommended: May 2026 (Fall 2026 co-op season)
