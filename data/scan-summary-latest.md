@@ -2,11 +2,11 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan version:** v105
+**Scan version:** v106
 **Date:** 2026-04-18
-**Scan methods:** Greenhouse API (10 companies direct) + WebSearch (broad queries) + SpeedyApply + SimplifyJobs
-**Previous scan:** 2026-04-17 (v104 — Zoox, Ripple, BlackSky, Poshmark)
-**Total history entries:** 2,584 → 2,600 (added 16 new entries today)
+**Scan methods:** Greenhouse API (PolyAI, Ada) + WebSearch (Ashby/Greenhouse/Lever broad + security/AI/new-grad specific) + SpeedyApply + SimplifyJobs
+**Previous scans today:** v105 (Greenhouse API — 10 companies)
+**Total history entries:** 2,600 → 2,614
 
 ---
 
@@ -14,84 +14,80 @@
 
 | Metric | Count |
 |--------|-------|
-| Companies scanned | 11 Greenhouse APIs + 2 aggregators + WebSearch |
-| Total job listings reviewed | ~480 |
-| Filtered by title (negative/senior/non-target) | ~472 |
-| Duplicates (already in history) | ~6 |
-| **New listings added to pipeline** | **2** |
-| **New listings added to scan history** | **16** |
-| Evaluations written (score ≥ 4.0) | 0 |
+| Portals/sources covered | Ashby, Greenhouse, Lever, PolyAI API, Ada API, SpeedyApply, SimplifyJobs |
+| New URLs checked | 14 |
+| Passed title filter | 9 |
+| Duplicates | 0 (all 14 URLs were new to history) |
+| **Skipped by score/domain** | **5** |
+| **New listings added to pipeline** | **4** |
+| **Re-evaluated (already in tracker)** | **1** |
+| **New evaluations written** | **0** (report #378 is a supplemental re-evaluation of tracker #334) |
 
 ---
 
-## New Listings Added to Pipeline
+## Key Action — Already Evaluated, Apply Now
 
-| Company | Role | URL | Score | Notes |
-|---------|------|-----|-------|-------|
-| Parloa | Deployment Strategist - US | https://job-boards.eu.greenhouse.io/parloa/jobs/4794825101 | ~3.0 | US-based role at Berlin voice AI company; verify experience req |
-| Parloa | Software Engineer, GTM | https://job-boards.eu.greenhouse.io/parloa/jobs/4843556101 | ~2.5 | GTM SWE at Parloa; EMEA HQ |
-
----
-
-## Companies Scanned — Full Results
-
-| Company | Platform | Result | Notes |
-|---------|----------|--------|-------|
-| Anthropic | Greenhouse API | No new intern | All Fellows in history; STEM Fellow requires PhD |
-| Airtable | Greenhouse API | 2 new FTE (skipped) | PSE East Coast + Senior SA; New Grad 2026 closed |
-| Vercel | Greenhouse API | No new intern | FDE v0 + Agent SWE are FTE-only |
-| Glean | Greenhouse API | No new intern | SWE Intern 4595665005 confirmed closed |
-| Arize AI | Greenhouse API | No new intern | AI App Engineer FTE 2-5yr confirmed |
-| RunPod | Greenhouse API | No change | Board unchanged from April 5 |
-| Temporal | Greenhouse API | 0 jobs | Board empty |
-| Hume AI | Greenhouse API | No new intern | All senior FTE |
-| Intercom | Greenhouse API | No new intern | 130+ FTE-only roles |
-| Parloa | Greenhouse API (EU) | 2 new FTE | Deployment Strategist US + SWE GTM |
-| SpeedyApply | Web | 0 qualifying | Nielsen (low pay) + Okta Content Ops (non-SWE) |
-| SimplifyJobs | Web | 0 qualifying | Market stable, no new additions |
+### ⭐ Together AI — Security Engineer Intern (Summer 2026) — 4.5/5
+- **URL:** https://job-boards.greenhouse.io/togetherai/jobs/5012785007
+- **Tracker entry:** #334 (evaluated 2026-04-10)
+- **Supplemental report:** [#378](reports/378-together-ai-security-engineer-intern-2026-04-18.md) (original report #291 missing from disk)
+- **Comp:** $58/hr + housing stipend (~$120K annualized — top of target range)
+- **Location:** San Francisco, CA (on-site HQ)
+- **Start:** May 18 or June 15, 2026 (12 weeks)
+- **Note:** URL was absent from scan-history.tsv (evaluated in early-batch phase before history tracking). Role still appears active. **Apply if not yet applied.**
 
 ---
 
-## URGENT ACTION REQUIRED
+## Pipeline Additions (score 3.5–3.9)
 
-### Anthropic Fellows Program — AI Security
-**Deadline: April 26, 2026 (8 days away)**
-
-This is the highest-priority application in the entire pipeline:
-- **Score:** Strong fit — cybersecurity minor + adversarial LLM testing + HMAC/TLS/OAuth experience
-- **Compensation:** $3,850/week + $15K/month compute funding
-- **Duration:** 4-month fellowship (July 2026 cohort)
-- **Location:** San Francisco or Remote (US/UK/Canada)
-- **URL:** https://job-boards.greenhouse.io/anthropic/jobs/5030244008
-
-**Also:** Anthropic Fellows — AI Safety (5183044008), ML Systems (5183051008), RL (5183052008) — same April 26 deadline.
+| Company | Role | Score | URL | Notes |
+|---------|------|-------|-----|-------|
+| Obsidian Security | SWE Intern (Summer 2026) | ~3.7 | https://job-boards.greenhouse.io/obsidiansecurity/jobs/4788725008 | SSPM security; Palo Alto CA; Python/Go + TypeScript |
+| Symmetry Systems | Full Stack SWE Intern (Summer 2026) | ~3.6 | https://jobs.lever.co/SymmetrySystems/dbca271b-a99b-48ab-83f2-b596a037ad65 | DSPM data+AI security; Remote US; comp unknown |
+| TensorWave | Security Engineer Intern | ~3.6 | https://jobs.ashbyhq.com/TensorWave/bb4265ae-0fb2-4d45-930f-c7c67a8b2f89 | GPU cloud AI infra; build Threat Modeling Program |
+| Ema | Security Engineer Intern | ~3.5 | https://jobs.ashbyhq.com/ema/ac9732bc-f6d2-40f3-b6f7-0cc6d45ac11d | Enterprise AI OS; web/API pentest + red teaming |
 
 ---
 
-## Market Intelligence — April 18 Status
+## Skipped This Scan
 
-The Summer 2026 internship market is entering its **late stage**. Most major companies have closed applications or are actively interviewing. A small number still accept applications with rolling deadlines.
-
-### Still active in pipeline (as of April 18)
-- **Anthropic Fellows** (ALL 4 tracks) — deadline April 26
-- **OpenAI** Applied Emerging Talent (Fall 2026) — rolling
-- **Cloudflare** Austin TX SWE Intern — rolling through spring
-- **Ramp** Backend/FDE/AI Ops internships — rolling
-- **Notion** Summer + Fall 2026 intern roles — rolling
-- **VGS (Very Good Security)** AppSec Intern — report #377 missing from disk; run `/career-ops oferta` to regenerate
-
-### Report integrity note
-Report #377 (VGS Application Security Intern, 4.0/5) was logged in scan history April 17 but the markdown file does not exist on disk. Run `/career-ops oferta` with the VGS URL to write the missing report.
+| Company | Role | Reason |
+|---------|------|--------|
+| Pylon | New Grad SWE ($130-140K SF) | Non-primary domain; graduation timing uncertain |
+| Imprint | Security Engineer Intern | Fintech credit card, less AI; below threshold (~3.2) |
+| Air Space Intelligence | SWE Intern | Aerospace/defense — non-target domain |
+| Nominal | SWE Intern | Hardware test automation — non-primary domain |
+| Aquatic Capital | SWE Intern | Board shows Summer 2027 only (not 2026) |
 
 ---
 
-## Next Actions
+## No New Roles Confirmed
 
-1. **APPLY TO ANTHROPIC FELLOWS AI SECURITY IMMEDIATELY** — Deadline April 26
-2. Apply to Anthropic Fellows AI Safety + ML Systems (same deadline)
-3. Write missing report #377 (VGS AppSec Intern) — run `/career-ops oferta https://jobs.lever.co/verygoodsecurity/32fe92a6-13d5-4132-b77c-a7a5ed74f38b`
-4. Run `/career-ops pipeline` to work through existing high-score pipeline items
-5. **Next scan recommended:** 2026-04-21 (3 days) — focus on fall 2026 intern openings
+PolyAI (all FTE senior, no interns), Ada (board 404), SpeedyApply AI (0 new qualifying today — Meta Audio Research Scientist not target), SimplifyJobs (0 new qualifying today)
 
-→ Run `/career-ops pipeline` to evaluate the pending items.
-→ Run `/career-ops scan` on April 21 for the next scheduled scan.
+---
+
+## URGENT — 8 Days Remaining
+
+### Anthropic Fellows Program — ALL 4 TRACKS
+**Deadline: April 26, 2026**
+
+- AI Security — https://job-boards.greenhouse.io/anthropic/jobs/5030244008
+- AI Safety — https://job-boards.greenhouse.io/anthropic/jobs/5183044008
+- ML Systems — https://job-boards.greenhouse.io/anthropic/jobs/5183051008
+- RL — https://job-boards.greenhouse.io/anthropic/jobs/5183052008
+
+**$3,850/week + $15K/month compute. Apply before the deadline.**
+
+---
+
+## Recommended Next Actions
+
+1. **Apply to Together AI Security Engineer Intern** — report #378 ready; deadline unknown so apply now
+2. **Apply to Anthropic Fellows (all 4 tracks)** — hard deadline April 26 (8 days)
+3. **Run `/career-ops pipeline`** to evaluate the 4 new pipeline additions (Obsidian, Symmetry, TensorWave, Ema)
+4. **Write missing report #377** (VGS AppSec Intern 4.0/5) — `report file does not exist; run /career-ops oferta https://jobs.lever.co/verygoodsecurity/32fe92a6-13d5-4132-b77c-a7a5ed74f38b`
+5. **Next scan recommended:** 2026-04-21 (3 days) — check for new openings and fall 2026 internships
+
+→ Run `/career-ops pipeline` to evaluate pending items.
+→ Run `/career-ops scan` on April 21 for next scheduled scan.

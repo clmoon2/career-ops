@@ -1852,3 +1852,23 @@
 Anthropic (all Fellows dup), Airtable (2 new FTE senior skipped), Vercel (all FTE), Glean (SWE intern closed), Arize AI (no intern), RunPod (unchanged), Temporal (0 jobs), Hume AI (all senior), Intercom (all senior), Parloa (2 new FTE above), SpeedyApply/SimplifyJobs (0 qualifying today).
 
 <!-- === END 2026-04-18 SCAN v105 === -->
+
+<!-- === BEGIN 2026-04-18 SCAN v106 === -->
+
+**Scan v106 — 2026-04-18** | WebSearch (Ashby/Greenhouse/Lever) + Greenhouse API (PolyAI) + SpeedyApply/SimplifyJobs | Net new qualified: 4 pipeline additions (Together AI Security Intern was dup — already evaluated #334 on April 10; supplemental report #378 written)
+
+> Market note: Together AI Security Engineer Intern (4.5/5, #334) was already in the tracker from April 10 — URL not found in scan-history. Re-evaluation #378 written to disk (original report #291 missing). SpeedyApply/SimplifyJobs returned 0 new qualifying entries today.
+
+### ✅ Re-evaluated (already in tracker as #334, 4.5/5) — scan-v106
+- [x] https://job-boards.greenhouse.io/togetherai/jobs/5012785007 | Together AI | Security Engineer Intern (Summer 2026) — SF on-site; $58/hr + housing stipend; **4.5/5** → tracker #334 (Apr 10); supplemental report #378 written | APPLY IF NOT YET APPLIED
+
+### 🟡 Pipeline Pending (score est. 3.5–3.9) — scan-v106
+- [ ] https://job-boards.greenhouse.io/obsidiansecurity/jobs/4788725008 | Obsidian Security | Software Engineer Intern (Summer 2026) — Palo Alto CA; SSPM (SaaS Security Posture Management); Python/Go + TypeScript/frontend; cloud security concepts; (~3.7)
+- [ ] https://jobs.lever.co/SymmetrySystems/dbca271b-a99b-48ab-83f2-b596a037ad65 | Symmetry Systems | Full Stack Software Engineer Intern (Summer 2026) — Remote US; data+AI security (DSPM); 10-12wks; CS/SWE degree req; comp unknown; (~3.6)
+- [ ] https://jobs.ashbyhq.com/TensorWave/bb4265ae-0fb2-4d45-930f-c7c67a8b2f89 | TensorWave | Security Engineer Intern — GPU cloud AI infra (AMD Instinct); launch new Threat Modeling Program; Las Vegas NV likely; comp unknown; (~3.6)
+- [ ] https://jobs.ashbyhq.com/ema/ac9732bc-f6d2-40f3-b6f7-0cc6d45ac11d | Ema | Security Engineer Intern — Enterprise AI OS/agents company; web+API pentest, red teaming, SAST/SCA, IAM; requires Burp Suite/OWASP ZAP/Amass/Nmap; undergrad/recent grad; comp unknown; (~3.5)
+
+### Companies Confirmed No New Intern/New-Grad Roles — scan-v106
+PolyAI (all FTE senior, no interns), Ada (board 404), SpeedyApply AI (0 new qualifying today), SimplifyJobs (0 new qualifying today). Pylon New Grad SWE ($130-140K SF, non-primary domain, graduation timing mismatch — skipped_score). Imprint Security Intern (fintech, below threshold — skipped_score). Air Space Intelligence SWE Intern (aerospace/defense, non-target domain — skipped_title). Aquatic Capital Management (board shows Summer 2027 only, not 2026 — skipped). Nominal SWE Intern (hardware test platform, non-primary domain — skipped_score). Together AI SWE Intern jobs/5012768007 (separate role from Security Intern — unverified if still open, not adding separately).
+
+<!-- === END 2026-04-18 SCAN v106 === -->
