@@ -1,102 +1,90 @@
-# Portal Scan — 2026-04-18 (v109)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Portal Scan Summary — 2026-04-18 (Scan v110)
 
-**Scan type:** Post-saturation verification sweep  
-**Scan version:** v109  
-**Date:** 2026-04-18  
-**Agent:** Autonomous scan agent (Carlos Luna-Peña career-ops)
+**Date:** 2026-04-18
+**Scan:** v110 (autonomous agent)
+**Total history entries:** 2,685
 
 ---
 
-## Coverage
+## Overview
 
-| Source | Method | Result |
-|--------|--------|--------|
-| Anthropic | Greenhouse API | 6 Fellows roles — all dup from v89 |
-| Airtable | Greenhouse API | 0 intern/new-grad — New Grad removed from board |
-| Vercel | Greenhouse API | 0 intern roles |
-| Temporal | Greenhouse API | 0 jobs (board empty) |
-| Arize AI | Greenhouse API | 0 intern roles |
-| Glean | Greenhouse API | University Grad dup; SWE Intern closed |
-| Hume AI | Greenhouse API | 8 roles — all dup, 0 intern |
-| Intercom | Greenhouse API | 0 intern roles |
-| Together AI | Greenhouse API | ALL interns CLOSED (SWE + Security + Frontier Agents removed) |
-| Cloudflare | Greenhouse API | 2 new non-SWE interns (Marketing BA, Lisbon BA) |
-| SimplifyJobs | Repo scan (0d) | Five9 dup v107; Leidos/Uhaul/ActBlue non-target |
-| SpeedyApply SWE | Repo scan (0d) | All dups from v104-v108 |
-| SpeedyApply AI | Repo scan (0d) | All dups from v102-v108 |
-| Ashby broad | WebSearch | All results in history |
-| Greenhouse broad | WebSearch | All results in history |
-| Lever broad | WebSearch | All results in history |
-| SAP | jobs.sap.com | Platform Infra FILLED; SuccessFactors AI Dev ~2.8/5 |
-| intern-list.com | Aggregator top 20 | Defense/hardware/enterprise only — 0 qualifying |
-
-**Total companies/portals checked:** 20+  
-**Total new URLs found:** 3  
-**New qualifying additions to pipeline:** 0  
+```
+Queries executed:        25+ (WebSearch + API)
+Companies checked:       20+
+New listings found:      7 (all below threshold or closed)
+Score >= 4.0:           0
+New pipeline additions:  1 (below threshold, ~3.0/5)
+```
 
 ---
 
-## New URLs Found (all below threshold)
+## URGENT ACTION REQUIRED
 
-| URL | Company | Role | Score | Status |
-|-----|---------|------|-------|--------|
-| job-boards.greenhouse.io/cloudflare/jobs/7729700 | Cloudflare | Business Analyst Intern, Marketing (Jul-Dec 2026) | N/A | skipped_title |
-| job-boards.greenhouse.io/cloudflare/jobs/7816824 | Cloudflare | Business Analyst Intern, Revenue Ops AI Innovation — Lisbon | N/A | skipped_title (non-US) |
-| jobs.sap.com/.../1374351033/ | SAP | SuccessFactors iXp Intern AI Software Developer (San Ramon CA, Jun 2026) | ~2.8/5 | skipped_score (Java-heavy enterprise HR) |
-
----
-
-## Top Matches (score ≥ 4.0) — Previously Reported
-
-**No new matches ≥ 4.0 found in this scan.**
-
-Previously filed reports with open deadlines:
-
-| # | Company | Role | Score | Deadline |
-|---|---------|------|-------|----------|
-| 246 | Anthropic | Fellows Program — AI Security | **4.7/5** | **APRIL 26, 2026 ⚠️ URGENT** |
-| 370 | Anthropic | Fellows Program — AI Safety | **4.2/5** | **APRIL 26, 2026 ⚠️ URGENT** |
-| 372 | Anthropic | Fellows Program — ML Systems | **4.1/5** | **APRIL 26, 2026 ⚠️ URGENT** |
-| 379 | Northspyre | AI Software Engineer Intern | reported | Open |
-| 378 | Together AI | Security Engineer Intern | reported | ⚠️ Verify active — board cleared |
-| 376 | Zip | Software Engineer Intern | **4.0/5** | Open |
-| 375 | Dropbox | Software Engineer Intern | **4.0/5** | Open |
-| 374 | Hugging Face | ML Research Engineer, GUI Agents | **4.0/5** | Open |
+**Anthropic Fellows Program — AI Security**
+- **Deadline: April 26, 2026 (8 days from now)**
+- Already in pipeline (report #358, 4.5/5)
+- Apply at: https://job-boards.greenhouse.io/anthropic/jobs/5030244008
+- Weekly stipend: $3,850 USD + $15K/mo compute + Anthropic mentorship
+- No PhD required; cybersecurity background is an explicit fit signal
 
 ---
 
-## Key Observations
+## New Listings Found This Scan
 
-1. **Together AI interns ALL CLOSED** — The SWE Intern, Security Intern, and Frontier Agents Intern positions are no longer on the Together AI Greenhouse board. Report #378 (Security Intern) should be verified before applying.
-
-2. **Airtable New Grad removed** — The Software Engineer, New Grad (2026) role (#8409376002) previously in pipeline has been removed from Airtable's board.
-
-3. **Pipeline fully saturated** — After 109 scan runs across 2,678 history entries, the Summer 2026 internship market is largely exhausted. The focus should shift to:
-   - **Applying to already-evaluated high-score roles** (especially the 3 Anthropic Fellows with April 26 deadline)
-   - Monitoring for late-cycle postings in May 2026
-   - Beginning Fall 2026 / Spring 2027 internship scanning
-
----
-
-## Recommended Next Actions
-
-1. ⚠️ **APPLY TO ANTHROPIC FELLOWS IMMEDIATELY** — Deadline April 26 (8 days away):
-   - AI Security #246 (4.7/5) → `reports/246-*`
-   - AI Safety #370 (4.2/5) → `reports/292-*`
-   - ML Systems #372 (4.1/5) → `reports/358-*`
-
-2. **Verify Together AI Security Intern (#378)** — Listing likely closed. Check `https://job-boards.greenhouse.io/togetherai/jobs/5012785007` before applying.
-
-3. **Apply to open pipeline items** with scores ≥ 3.7:
-   - Zip SWE Intern #376 (4.0/5, $58-60/hr, Remote US)
-   - Dropbox SWE Intern #375 (4.0/5, $8-9.5K/mo, Remote US)
-   - Hugging Face GUI Agents #374 (4.0/5, Remote US)
-   - Verkada Security/Backend interns (~3.7/5, San Mateo CA)
-   - Handshake AI/ML Intern (~3.7/5, SF)
-
-4. **Next scan:** Resume weekly cadence. Next autonomous scan recommended April 25, 2026.
+| Company | Role | Location | Score | Status |
+|---------|------|----------|-------|--------|
+| Tesla | AI Engineering Intern (Summer 2026) | Palo Alto, CA (on-site) | ~3.0/5 | Added to pipeline (below threshold) |
+| Qualcomm | Security Engineering Intern (Summer 2026) | San Diego, CA | — | CLOSED |
+| Nerdio | Security Intern (Summer 2026) | Remote | — | CLOSED |
+| Cekura (YC F24) | AI Engineer Intern (Summer 2026) | Unknown | — | CLOSED (404) |
+| Red Balloon Security | Security Research Interns | NYC / Northern VA | — | No ATS listing found |
+| RINSE | Software Engineer (New Grads) | Remote US | ~2.8/5 | Skipped (non-target domain) |
+| HN Jobs April 2026 | Various interns/new grads | Various | — | Minimal intern postings |
 
 ---
 
-*History entries: 2,678 | Reports filed all-time: 379+*
+## Sources Checked
+
+- GitHub aggregators: SimplifyJobs/Summer2026-Internships (0d/1d), SpeedyApply 2026-SWE + 2026-AI (0d/1d), vanshb03/New-Grad-2026
+- Job portals (WebSearch): Greenhouse (job-boards.greenhouse.io), Ashby (jobs.ashbyhq.com), Lever (jobs.lever.co)
+- Greenhouse API (direct): Cloudflare (all non-SWE intern roles only), RunPod (no interns)
+- YC ecosystem: workatastartup.com, ycombinator.com/internships
+- Aggregators: jobright.ai, simplify.jobs, wellfound.com, intern-list.com
+- Other: HN Who is Hiring April 2026, vanshb03/New-Grad-2026
+
+---
+
+## Market Assessment
+
+The Summer 2026 internship market is at **maximum saturation** (2,685 history entries, 110 scans since April 5, 2026).
+
+- Hiring freeze for interns: Most companies concluded intern recruiting in March-April 2026.
+- New listings are rare: Only 7 net-new URLs found across all sources today, all below quality threshold or closed.
+- New grad roles still available: Companies continue to post 2026 new-grad FTE positions.
+- Recommendation: Shift focus from scanning to applying. Prioritize existing high-score pipeline items before deadlines pass.
+
+---
+
+## Top Pipeline Items to Action NOW
+
+| Priority | Company | Role | Score | Report | Notes |
+|----------|---------|------|-------|--------|-------|
+| URGENT | Anthropic | Fellows Program — AI Security | 4.5/5 | #358 | Deadline: April 26 — 8 days |
+| HIGH | Together AI | Security Engineer Intern | 4.5/5 | #334/378 | Apply ASAP if not done |
+| MEDIUM | Northspyre | AI Engineer Intern | 4.1/5 | #379 | Atlanta GA, apply within 48h |
+| MEDIUM | Harvey | Software Engineering Intern | 4.1/5 | #351 | AI legal platform |
+| MEDIUM | VGS | Application Security Intern | 4.0/5 | #377 | Remote, payment tokenization |
+
+---
+
+## Next Scan Recommendation
+
+Given market saturation, next autonomous scan should:
+1. Focus on new-grad FTE roles rather than internships (graduation approaching)
+2. Check specific security/AI companies for late-cycle intern openings
+3. Verify existing pipeline items are still active before applying
+4. Run no earlier than April 25, 2026
+
+---
+
+*Generated by career-ops autonomous scan agent | 2026-04-18*

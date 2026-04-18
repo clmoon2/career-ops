@@ -1913,3 +1913,19 @@ PolyAI (all FTE senior, no interns), Ada (board 404), SpeedyApply AI (0 new qual
 **New company found (not in history):** Lila Sciences Security & Cloud Engineering Intern — Spring 2026 co-op (Jan/Feb 2026 start), past deadline; skipped.
 
 <!-- === END 2026-04-18 SCAN v108 === -->
+
+<!-- === BEGIN 2026-04-18 SCAN v110 === -->
+
+**Scan v110 — 2026-04-18** | Comprehensive discovery sweep: SimplifyJobs/SpeedyApply (GitHub), WebSearch (Greenhouse/Ashby/Lever/YC/Jobright/HN), Greenhouse API (Cloudflare), YC Internships | Net new qualifying: **0** — market fully saturated
+
+> Market note: 110 scans; 2,685 history entries. Summer 2026 internship season effectively closed for new postings.
+
+> ⚠️ **URGENT DEADLINE: Anthropic Fellows Program — AI Security (report #358) deadline April 26, 2026 (8 DAYS). Apply immediately.**
+
+### 🔶 Pipeline Below Threshold (~3.0/5) — scan-v110
+- [ ] https://www.tesla.com/careers/search/job/ai-engineering-intern-summer-2026-259784 | Tesla | AI Engineering Intern (Summer 2026) — Palo Alto CA on-site; $100-150K/yr; foundation models + RL + compound AI for autonomy; requires PyTorch/TF/distributed training expertise; ML research domain; (~3.0/5 — below threshold)
+
+### Companies Confirmed No New Intern/New-Grad Roles — scan-v110
+SimplifyJobs (0 new since v109), SpeedyApply AI/SWE (0 new since v109), YC Internships (all dup v30-v57), Cloudflare API (non-SWE business roles only), Qualcomm Security Intern (CLOSED), Nerdio Security Intern (CLOSED), Cekura YC F24 AI Engineer Intern (404/closed), Red Balloon Security (no ATS listing), RINSE (new-grad SWE 2.8/5 non-target), HN Jobs April 2026 (minimal interns; all senior FTE).
+
+<!-- === END 2026-04-18 SCAN v110 === -->
