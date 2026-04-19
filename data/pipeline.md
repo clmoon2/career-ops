@@ -2033,3 +2033,8 @@ None — no new listings in 3.5–3.9 range discovered.
 **Aggregators:** SpeedyApply SWE/AI (0d entries all dup from v103-v112), SimplifyJobs (all entries dup from v107-v112), Ashby broad (all results dup from v7-v112), Greenhouse broad (all results dup from v7-v112).
 
 <!-- === END 2026-04-18 SCAN v113 === -->
+- [x] https://www.workatastartup.com/jobs/80749 | SubImage | Full Stack Software Engineer Intern [Summer 2026] | 4.1/5 | Report: 380
+- [x] https://job-boards.greenhouse.io/robinhood/jobs/7163239 | Robinhood | ML Engineer Intern, Agentic ML (Summer 2026) | 4.0/5 | Report: 381
+- [ ] https://job-boards.greenhouse.io/lyft/jobs/8149370002 | Lyft | Software Engineer Intern, Backend (Summer 2026) | ~3.5/5 | $52-58/hr SF hybrid; verify grad window Dec 2026-Summer 2027
+- [ ] https://joinbytedance.com/search/7600201731980675333 | ByteDance | Security Software Engineer Project Intern (Network Security) | ~3.4/5 | $45-60/hr San Jose; ML/PyTorch req; Chinese parent co
+- [ ] https://joinbytedance.com/search/7537377558908963090 | ByteDance | Software Engineer Intern (AI Platform) | ~3.2/5 | $45/hr San Jose; deep learning frameworks req

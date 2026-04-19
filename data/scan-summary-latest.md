@@ -1,122 +1,114 @@
-# Portal Scan Summary — 2026-04-19 (v120)
+# Portal Scan — 2026-04-19 (v121)
 
-**Date:** 2026-04-19  
-**Scan version:** v120  
-**Agent:** Autonomous scanning agent  
-**Status:** FULLY SATURATED — 120 consecutive scans; zero new qualifying (≥4.0) since v98
+**Run by:** Autonomous scanning agent
+**Scan version:** v121
 
 ---
 
-## Scan Stats
+## Summary
 
-| Metric | Value |
-|--------|-------|
-| Portals/sources scanned | 25+ |
-| New URLs found | 6 |
-| Passed title/requirement filter | 2 |
-| Pipeline additions | 2 |
-| Reports filed | 0 |
-| Listings scored ≥ 4.0 | 0 |
-| History size | 2,817 entries |
+```
+Portal Scan — 2026-04-19
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Portals scanned:        22 company portals + 8 broad searches
+New listings found:     5 new URLs added to pipeline.md
+Evaluated (≥4.0):       2 full reports written (#380, #381)
+Pipeline-only (<4.0):   3 listings added for review
+Skipped (dup/closed):   16 sources confirmed saturated
 
----
-
-## Sources Scanned
-
-### Greenhouse APIs (Level 2)
-- Anthropic — no new intern roles (6 Fellows tracks all confirmed dup)
-- Vercel — 82 roles, 0 intern/new-grad
-- Airtable — 58 roles, 0 intern
-- Temporal — 0 roles (empty board)
-- Glean — dup from v7
-- HumeAI — all senior FTE
-- Arize AI — all senior/non-US
-
-### Web Search (Level 3)
-- Ashby broad: all dup from v7-v119
-- Greenhouse broad: all dup from v7-v119
-- Lever broad: all dup from v7-v119
-- Security-focused (Obsidian/1Password/Worldly/Cloudflare): all dup
-- Fall 2026 co-ops (SpaceX/Mercury/Sentry/OpenAI/CAIS): all dup
-- New grad (Loop/Sigma/SmithRx/xAI): all dup
-
-### New Sources Checked
-- YC Work at a Startup (workatastartup.com): **2 new listings found**
-- SimplifyJobs recent additions: 2 new (below threshold)
-- Wasabi Technologies Greenhouse API: 1 new (requires Masters/PhD)
-- SpeedyApply SWE/AI April 19: all dup from v103-v119
+→ Run /career-ops pipeline to process the 3 pending listings.
+```
 
 ---
 
-## New URLs Found
+## Context
 
-| Company | Role | Score | Action |
-|---------|------|-------|--------|
-| Speak | Full-stack Engineer Intern (Summer 2026) | ~3.0/5 | **Added to pipeline** |
-| Stack Auth | Summer 2026 SWE Intern | ~2.5/5 | **Added to pipeline** |
-| Wasabi Technologies | Co-op AI/ML Engineering (Summer+Fall 2026) | N/A | **Skipped** — Masters/PhD required |
-| BigCommerce | TypeScript/Full Stack Intern (Summer 2026) | ~2.5/5 | **Skipped** — e-commerce domain, Atlanta |
-| Fortive | AI Enablement Intern (Summer 2026) | ~2.3/5 | **Skipped** — industrial domain, Minneapolis/KC |
+Previous scans (v116-v120) on 2026-04-19 confirmed the Summer 2026 market is largely saturated — all major boards (Ashby, Greenhouse, Lever, SimplifyJobs, SpeedyApply, YC, Jobright) returned 0 new qualifying results.
+
+Scan v121 focused on **uncovered niches**: ByteDance (never scanned despite being in portals.yml), YC W25/W26 workatastartup companies, and broader Greenhouse discovery for Lyft and Robinhood.
 
 ---
 
-## Top Matches (score ≥ 4.0)
+## New Listings Added to Pipeline
 
-**None found this scan.** Summer 2026 market remains fully saturated.
-
----
-
-## Pipeline Additions
-
-### Speak — Full-stack Engineer Intern (Summer 2026) — ~3.0/5
-- **URL:** https://www.workatastartup.com/jobs/82822
-- **Comp:** $6K–$10K/month (SF)
-- **Stack:** React, TypeScript, Node, Python
-- **Fit:** YC-backed language learning AI startup; solid comp; frontend-heavy initially; non-target domain (language learning); Carlos's React/TypeScript/Python skills directly relevant
-- **Note:** Apply only if bandwidth — domain mismatch (language vs security/AI infra)
-
-### Stack Auth — SWE Intern (Summer 2026) — ~2.5/5
-- **URL:** https://www.workatastartup.com/jobs/80350
-- **Comp:** Not disclosed (SF hacker house)
-- **Stack:** Auth platform (TypeScript likely)
-- **Fit:** Open-source Auth0/Clerk alternative; Carlos has OAuth proxy engineering experience from Finch (HMAC-SHA256, CSRF protection, Google/GitHub OAuth); but tiny team and no comp disclosed
-- **Note:** Verify comp before applying — hacker house setup may not meet Carlos's $70K minimum target
+| # | Company | Role | Score | URL | Notes |
+|---|---------|------|-------|-----|-------|
+| 380 | **SubImage** | Full Stack SWE Intern | **4.1/5** ✅ | [YC W25](https://www.workatastartup.com/jobs/80749) | Report written; apply immediately |
+| 381 | **Robinhood** | ML Engineer Intern, Agentic ML | **4.0/5** ✅ | [GH](https://job-boards.greenhouse.io/robinhood/jobs/7163239) | ⚠️ verify grad window first |
+| — | Lyft | SWE Intern, Backend | ~3.5/5 | [GH](https://job-boards.greenhouse.io/lyft/jobs/8149370002) | $52-58/hr; grad Dec 2026-Summer 2027 — borderline |
+| — | ByteDance | Security SW Engineer Project Intern | ~3.4/5 | [BD](https://joinbytedance.com/search/7600201731980675333) | $45-60/hr; ML/PyTorch req; Chinese parent co |
+| — | ByteDance | SWE Intern (AI Platform) | ~3.2/5 | [BD](https://joinbytedance.com/search/7537377558908963090) | $45/hr; deep DL req; San Jose |
 
 ---
 
-## ⚠️ URGENT: Anthropic Fellows Deadlines (7 days remaining)
+## Top Matches (Score ≥ 4.0) — Action Required
 
-**DEADLINE: April 26, 2026**
+### 🔴 #380 — SubImage | Full Stack SWE Intern | 4.1/5
 
-| Report | Score | Role |
-|--------|-------|------|
-| #246 | 4.7/5 | Anthropic Fellows Program — AI Security |
-| #370 | 4.2/5 | Anthropic Fellows Program — AI Safety |
-| #372 | 4.1/5 | Anthropic Fellows Program — ML Systems & Performance |
+**Company:** YC W25 cloud security startup (5 people). Building "The Marauder's Map for cloud security" via graph theory (Cartography OSS + Linux Foundation). 70+ enterprise customers including 7 Fortune 100.
 
-→ **Apply to AI Security (#246, 4.7/5) first.** Strongest match given Carlos's cybersecurity minor + OAuth security + adversarial LLM testing + production security systems background.
+**Why Carlos fits:**
+- Cybersecurity minor → cloud security research
+- Adversarial LLM testing → AI security mindset
+- Finch multi-agent pipeline (LangChain/RAG) → AI agents for NL search
+- AIPHRODITE graph-based similarity search → graph database modeling
+- OSS scanner bot → same pattern as their security research pipeline
+
+**Details:** SF in-person, $6K/month, Summer 2026, "Junior and above / US citizen only"
+
+**Apply at:** https://www.workatastartup.com/jobs/80749
+
+---
+
+### 🟡 #381 — Robinhood | ML Engineer Intern, Agentic ML | 4.0/5
+
+**Company:** Robinhood's new agentic AI team building infrastructure for AI agents powering financial products and internal tools.
+
+**Why Carlos fits:**
+- Finch 7-stage multi-LLM pipeline → agent toolchain and reasoning loop experience
+- Deterministic validation gates + automatic retry → HITL evaluation pipelines
+- TidalHack 6-agent AutoGen system → multi-agent evaluation
+- 5 LLM providers orchestrated in production → platform engineering mindset
+
+**Details:** $48/hr, Menlo Park/NYC/Bellevue/DC, Summer 2026
+
+**⚠️ BLOCKER:** JD requires graduation "Winter 2026 or Spring 2027." Verify before applying.
+
+**Apply at:** https://job-boards.greenhouse.io/robinhood/jobs/7163239
+
+---
+
+## Sources Checked (v121)
+
+| Source | Result |
+|--------|--------|
+| ByteDance (joinbytedance.com) | 2 new listings added (first-ever ByteDance scan) |
+| YC WorkAtAStartup (W25/W26) | SubImage added; Cekura/Novaflow closed/404 |
+| Robinhood Greenhouse | Agentic ML intern (new ID 7163239) confirmed |
+| Lyft Greenhouse | Backend intern (new ID 8149370002) confirmed |
+| Anthropic API | All 5 Fellows tracks confirmed dup from v119 |
+| Google careers | SWE intern job confirmed "not found"/closed |
+| Meta careers | Undergrad SWE intern closed; PhD/MS only |
+| Figma Greenhouse | Confirmed dup from v118 |
+| SpyCloud | Summer 2025 listing, not 2026 — skip |
+| Broad v119-v120 (SimplifyJobs/SpeedyApply/Ashby/GH/Lever) | All dup — market saturated |
 
 ---
 
 ## Market Assessment
 
-**Summer 2026 is fully exhausted.** After 120 scans covering 2,817+ unique URLs across all major ATS platforms, YC portals, GitHub trackers, and aggregators, the Summer 2026 internship market for Carlos's target roles is saturated.
+Summer 2026 internship season is **fully saturated**. All major aggregators (SimplifyJobs, SpeedyApply, YC, Greenhouse, Ashby, Lever) are returning only duplicates. The remaining new listings will come from:
+
+1. **Late-posting startups** (YC W26 companies still onboarding, small funded startups)
+2. **Previously unchecked companies** (ByteDance, late corporate postings)
+3. **Position reopenings** (companies that rejected candidates and are filling again)
 
 **Recommended next actions:**
-1. **APPLY NOW to Anthropic Fellows** (deadline April 26 — 7 days away)
-2. **Monitor for Fall 2026 co-ops** — Klaviyo Full-stack Co-op (~3.0/5) still pending
-3. **Verify Together AI Security Intern (#378)** — board was cleared, may be closed
-4. **Reduce scan frequency** — switch from daily to weekly for Fall 2026 discovery
-5. Consider applying to Speak if bandwidth available ($6-10K/month, YC-backed)
+1. Apply to SubImage (#380) immediately — small team, no deadline mentioned
+2. Verify graduation date and apply to Robinhood Agentic ML (#381) if eligible
+3. Consider running a fall 2026 co-op scan in May 2026 — some companies are already posting Fall 2026 positions
+4. Watch for: Anduril (defense AI), Figma Fall 2026, Cloudflare fall openings, any new YC W26 companies announcing hiring
 
 ---
 
-## Consecutive Scan Trend (Summer 2026 qualifying roles)
-
-| Scan | Date | New ≥ 4.0 |
-|------|------|-----------|
-| v98 | 2026-04-17 | 1 (Zip SWE Intern #376) |
-| v99–v119 | 2026-04-17/18/19 | 0 each |
-| **v120** | **2026-04-19** | **0** |
-
-22 consecutive scans with zero qualifying Summer 2026 roles.
+*Generated by career-ops autonomous scanning agent — 2026-04-19*

@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 380 | 2026-04-19 | SubImage | Full Stack Software Engineer Intern | 4.1/5 | Evaluada | ❌ | [380](reports/380-subimage-fullstack-swe-intern-2026-04-19.md) | YC W25 cloud security; AI agents + graph DB + cybersec minor = dual archetype match; SF in-person $6K/mo; verify grad window |
+| 381 | 2026-04-19 | Robinhood | ML Engineer Intern, Agentic ML | 4.0/5 | Evaluada | ❌ | [381](reports/381-robinhood-agentic-ml-intern-2026-04-19.md) | ⚠️ verify grad window (req Winter 2026/Spring 2027); $48/hr Menlo Park; multi-agent HITL eval = exact match; agent tooling platform at fintech scale |
 | 379 | 2026-04-18 | Northspyre | AI Engineer Intern | 4.1/5 | Evaluada | ❌ | [379](reports/379-northspyre-ai-engineer-intern-2026-04-18.md) | Summer 2026; Atlanta GA; $10K/mo+$5K housing; agentic AI pipelines+multi-agent; Finch+TidalHack exact match |
 | 377 | 2026-04-17 | Very Good Security | Application Security Intern | 4.0/5 | Evaluada | ❌ | [377](reports/377-vgs-application-security-intern-2026-04-17.md) | Remote; payment tokenization leader; HMAC/TLS/OAuth/CORS = exact security stack match; verify role active before applying |
 | 376 | 2026-04-17 | Zip | Software Engineer Intern (Summer 2026) | 4.0/5 | Evaluated | ❌ | [376](reports/376-zip-swe-intern-2026-04-17.md) | Python/TS/React exact stack match; $58-60/hr; SF hybrid/Remote US; Anthropic+OpenAI use Zip; intern repost (prev #116 was new-grad); verify listing active before applying |
