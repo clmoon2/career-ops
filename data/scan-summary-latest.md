@@ -1,102 +1,122 @@
-# Portal Scan — 2026-04-19 (v119)
+# Portal Scan Summary — 2026-04-19 (v120)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-**Date:** 2026-04-19
-**Scan version:** v119
-**Total scan history entries:** 2,812
-**Market status:** FULLY SATURATED — Summer 2026 cycle complete
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## Scan Results
-
-| Source | Status | New Qualifying |
-|--------|--------|----------------|
-| Greenhouse API — Anthropic (6 tracks) | All dup from v7-v118 | 0 |
-| Greenhouse API — Vercel (82 roles) | All senior FTE, 0 intern | 0 |
-| Greenhouse API — Airtable (58 roles) | All senior FTE, 0 intern | 0 |
-| Greenhouse API — Glean | Univ Grad dup v7 | 0 |
-| Greenhouse API — HumeAI | All senior FTE, 0 intern | 0 |
-| Greenhouse API — Arize AI | All senior or non-US | 0 |
-| Greenhouse broad (25+ companies) | All dup from v7-v118 | 0 |
-| Ashby broad (30+ companies) | All dup from v7-v118 | 0 |
-| Lever broad (10+ companies) | All dup from v7-v118 | 0 |
-| Big 4 Consulting (Deloitte/Accenture/PwC/KPMG/EY) | All dup or past deadline | 0 |
-| Enterprise Tech (Microsoft/IBM/ServiceNow/Oracle) | All dup v7-v113, Oracle no intern | 0 |
-| Security Companies (Okta/Wiz/Rubrik/Lacework/Snyk) | Closed or no intern | 0 |
-| New AI Companies (Groq/Cursor/Character.AI/Harvey/Anyscale/Luma) | No Summer intern or closed | 0 |
-| SpeedyApply SWE 2026 (Apr 19) | All dup from v117 | 0 |
-| SpeedyApply AI 2026 (Apr 19) | All dup from v103-v117 | 0 |
-
-**Queries executed:** 15 source batches (50+ companies)
-**Listings found:** 200+ (all duplicates or non-qualifying)
-**New listings added to pipeline:** 0
-**Net new qualifying (score >= 4.0):** 0
+**Date:** 2026-04-19  
+**Scan version:** v120  
+**Agent:** Autonomous scanning agent  
+**Status:** FULLY SATURATED — 120 consecutive scans; zero new qualifying (≥4.0) since v98
 
 ---
 
-## URGENT: Anthropic Fellows Deadline — April 26, 2026
+## Scan Stats
 
-Three Anthropic Fellows tracks close in 7 days. These are the highest-scoring open roles in the system:
-
-| # | Role | Score | Status | Deadline |
-|---|------|-------|--------|----------|
-| 246 | Anthropic Fellows — AI Security | 4.7/5 | Evaluada | APRIL 26 |
-| 370 | Anthropic Fellows — AI Safety | 4.2/5 | Evaluada | APRIL 26 |
-| 372 | Anthropic Fellows — ML Systems | 4.1/5 | Evaluada | APRIL 26 |
-
-**Apply via:** Constellation (not Greenhouse directly)
-**Compensation:** $3,850/week + $15K/month compute budget
-**Duration:** 4 months starting July 20, 2026
+| Metric | Value |
+|--------|-------|
+| Portals/sources scanned | 25+ |
+| New URLs found | 6 |
+| Passed title/requirement filter | 2 |
+| Pipeline additions | 2 |
+| Reports filed | 0 |
+| Listings scored ≥ 4.0 | 0 |
+| History size | 2,817 entries |
 
 ---
 
-## Market Assessment (as of v119)
+## Sources Scanned
 
-### Summer 2026 — CLOSED
-The Summer 2026 intern market is fully saturated after 119 scans over 13 days (April 7-19, 2026). All major aggregators, ATS platforms, company-direct boards, consulting firms, security companies, and new AI companies have been checked multiple times. No new Summer 2026 intern listings remain undiscovered in target domains.
+### Greenhouse APIs (Level 2)
+- Anthropic — no new intern roles (6 Fellows tracks all confirmed dup)
+- Vercel — 82 roles, 0 intern/new-grad
+- Airtable — 58 roles, 0 intern
+- Temporal — 0 roles (empty board)
+- Glean — dup from v7
+- HumeAI — all senior FTE
+- Arize AI — all senior/non-US
 
-**Top evaluated roles (score >= 4.0) — summary:**
-- Anthropic Fellows AI Security — 4.7/5 DEADLINE APR 26
-- Together AI Security Intern — 4.5/5 (evaluated #334)
-- Anthropic Fellows AI Safety — 4.2/5 DEADLINE APR 26
-- 1Password Extension Excellence Intern — 4.3/5 (evaluated #366)
-- Roadie AI Engineer Intern — 4.2/5 (evaluated #357)
-- Anthropic Fellows ML Systems — 4.1/5 DEADLINE APR 26
-- Databricks SWE Intern — 4.1/5 (evaluated #369)
-- 1Password Trust Platforms Intern — 4.0/5 (evaluated #367)
-- PDT Partners SWE Intern — 4.0/5 (evaluated #368)
+### Web Search (Level 3)
+- Ashby broad: all dup from v7-v119
+- Greenhouse broad: all dup from v7-v119
+- Lever broad: all dup from v7-v119
+- Security-focused (Obsidian/1Password/Worldly/Cloudflare): all dup
+- Fall 2026 co-ops (SpaceX/Mercury/Sentry/OpenAI/CAIS): all dup
+- New grad (Loop/Sigma/SmithRx/xAI): all dup
 
-### Fall 2026 / Pending Pipeline
-Items currently in pipeline for evaluation:
-- Klaviyo Full-Stack Co-op Fall 2026 (~3.0/5 est)
-- Crusoe AI Digital Infrastructure Intern (~3.7/5, v100)
-- TensorWave Security Engineer Intern (~3.6/5, v106)
-- Ema Security Engineer Intern (~3.5/5, v106)
-- Handshake AI/ML Engineer Intern (~3.7/5, v98)
-- Intel Agentic AI Research Intern (~3.5/5, v102)
+### New Sources Checked
+- YC Work at a Startup (workatastartup.com): **2 new listings found**
+- SimplifyJobs recent additions: 2 new (below threshold)
+- Wasabi Technologies Greenhouse API: 1 new (requires Masters/PhD)
+- SpeedyApply SWE/AI April 19: all dup from v103-v119
+
+---
+
+## New URLs Found
+
+| Company | Role | Score | Action |
+|---------|------|-------|--------|
+| Speak | Full-stack Engineer Intern (Summer 2026) | ~3.0/5 | **Added to pipeline** |
+| Stack Auth | Summer 2026 SWE Intern | ~2.5/5 | **Added to pipeline** |
+| Wasabi Technologies | Co-op AI/ML Engineering (Summer+Fall 2026) | N/A | **Skipped** — Masters/PhD required |
+| BigCommerce | TypeScript/Full Stack Intern (Summer 2026) | ~2.5/5 | **Skipped** — e-commerce domain, Atlanta |
+| Fortive | AI Enablement Intern (Summer 2026) | ~2.3/5 | **Skipped** — industrial domain, Minneapolis/KC |
 
 ---
 
-## Recommended Next Actions
+## Top Matches (score ≥ 4.0)
 
-1. APPLY NOW — Anthropic AI Security Fellow (#246, 4.7/5)
-   Apply via Constellation before April 26. Highest-scored role in system.
-
-2. Apply — Anthropic AI Safety Fellow (#370, 4.2/5)
-   Separate application track — submit independently.
-
-3. Apply — Anthropic ML Systems Fellow (#372, 4.1/5)
-   Third track, also April 26 deadline.
-
-4. Process pipeline items with /career-ops pipeline
-   Evaluate Crusoe, TensorWave, Ema, Handshake internships.
-
-5. Fall 2026 strategy — shift focus
-   Summer 2026 is fully saturated. Watch for Fall 2026 co-op openings
-   (May-June typical posting window for Sept-Dec co-ops).
-   Key companies to watch post-Apr-26: OpenAI, Anthropic, Microsoft,
-   Google, CrowdStrike, Palo Alto Networks.
+**None found this scan.** Summer 2026 market remains fully saturated.
 
 ---
-Generated by autonomous scan agent — career-ops v119 — 2026-04-19
+
+## Pipeline Additions
+
+### Speak — Full-stack Engineer Intern (Summer 2026) — ~3.0/5
+- **URL:** https://www.workatastartup.com/jobs/82822
+- **Comp:** $6K–$10K/month (SF)
+- **Stack:** React, TypeScript, Node, Python
+- **Fit:** YC-backed language learning AI startup; solid comp; frontend-heavy initially; non-target domain (language learning); Carlos's React/TypeScript/Python skills directly relevant
+- **Note:** Apply only if bandwidth — domain mismatch (language vs security/AI infra)
+
+### Stack Auth — SWE Intern (Summer 2026) — ~2.5/5
+- **URL:** https://www.workatastartup.com/jobs/80350
+- **Comp:** Not disclosed (SF hacker house)
+- **Stack:** Auth platform (TypeScript likely)
+- **Fit:** Open-source Auth0/Clerk alternative; Carlos has OAuth proxy engineering experience from Finch (HMAC-SHA256, CSRF protection, Google/GitHub OAuth); but tiny team and no comp disclosed
+- **Note:** Verify comp before applying — hacker house setup may not meet Carlos's $70K minimum target
+
+---
+
+## ⚠️ URGENT: Anthropic Fellows Deadlines (7 days remaining)
+
+**DEADLINE: April 26, 2026**
+
+| Report | Score | Role |
+|--------|-------|------|
+| #246 | 4.7/5 | Anthropic Fellows Program — AI Security |
+| #370 | 4.2/5 | Anthropic Fellows Program — AI Safety |
+| #372 | 4.1/5 | Anthropic Fellows Program — ML Systems & Performance |
+
+→ **Apply to AI Security (#246, 4.7/5) first.** Strongest match given Carlos's cybersecurity minor + OAuth security + adversarial LLM testing + production security systems background.
+
+---
+
+## Market Assessment
+
+**Summer 2026 is fully exhausted.** After 120 scans covering 2,817+ unique URLs across all major ATS platforms, YC portals, GitHub trackers, and aggregators, the Summer 2026 internship market for Carlos's target roles is saturated.
+
+**Recommended next actions:**
+1. **APPLY NOW to Anthropic Fellows** (deadline April 26 — 7 days away)
+2. **Monitor for Fall 2026 co-ops** — Klaviyo Full-stack Co-op (~3.0/5) still pending
+3. **Verify Together AI Security Intern (#378)** — board was cleared, may be closed
+4. **Reduce scan frequency** — switch from daily to weekly for Fall 2026 discovery
+5. Consider applying to Speak if bandwidth available ($6-10K/month, YC-backed)
+
+---
+
+## Consecutive Scan Trend (Summer 2026 qualifying roles)
+
+| Scan | Date | New ≥ 4.0 |
+|------|------|-----------|
+| v98 | 2026-04-17 | 1 (Zip SWE Intern #376) |
+| v99–v119 | 2026-04-17/18/19 | 0 each |
+| **v120** | **2026-04-19** | **0** |
+
+22 consecutive scans with zero qualifying Summer 2026 roles.
