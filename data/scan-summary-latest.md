@@ -1,99 +1,96 @@
-# Portal Scan — 2026-04-19 (v117)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Portal Scan — 2026-04-19 (v118)
 
-**Scan version:** v117 (Autonomous Agent)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 **Date:** 2026-04-19
+**Scan version:** v118
+**Total scan history entries:** 2,796+
+**Market status:** FULLY SATURATED — Summer 2026 cycle complete
 
-## Overview
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-| Metric | Value |
-|--------|-------|
-| Sources scanned | 20+ |
-| History entries before | 2,773 |
-| History entries after | 2,787 |
-| New URLs logged | 14 |
-| Qualified new listings (≥ 4.0/5) | 0 |
-| Reports filed | 0 |
-| Pipeline additions | 0 |
+## Scan Results
 
----
+| Source | Status | New Qualifying |
+|--------|--------|----------------|
+| SimplifyJobs/Summer2026-Internships | All dup from v116-v117 | 0 |
+| SpeedyApply 2026-AI-College-Jobs | All dup from v103-v117 | 0 |
+| SpeedyApply 2026-SWE-College-Jobs | All dup from v104-v117 | 0 |
+| Ashby broad (30+ companies) | All dup from v7-v117 | 0 |
+| Greenhouse broad (25+ companies) | All dup from v7-v117 | 0 |
+| Lever broad (10+ companies) | All dup from v7-v117 | 0 |
+| jobright-ai/2026-Engineer-Internship (NEW) | 934 listings/277 companies scanned | 0 |
+| zapplyjobs/Internships-2026 (NEW) | All dup or non-target | 0 |
+| 20+ targeted WebSearch queries | All dup from v7-v117 | 0 |
 
-## Sources Scanned
-
-| Source | Method | Result |
-|--------|--------|--------|
-| SimplifyJobs (0d) | WebFetch README | All dup (ABC Fitness / Tencent UK / ActBlue / Uhaul / Revvity / Western Union) |
-| SpeedyApply SWE (0d) | WebFetch | All dup (BlackSky / Kognitos / Ripple / Zoox) |
-| SpeedyApply AI (0d) | WebFetch | All dup (Nielsen x2 / Okta / Trumid / Meta Audio) |
-| Greenhouse Fall 2026 broad | WebSearch | SpaceX / Klaviyo / Mercury / Verkada — all dup or deadline passed |
-| Ashby Fall 2026 broad | WebSearch | Notion / OpenAI / Sentry / Zip / Cohere — all dup |
-| Lever Fall 2026 broad | WebSearch | Center for AI Safety / Hermeus / Shield AI — all dup or non-target |
-| Intercom Greenhouse API | WebFetch | 0 intern/new-grad roles |
-| PolyAI Greenhouse EU API | WebFetch | 0 intern/new-grad roles (24 senior FTE) |
-| HN Who is Hiring April 2026 | WebSearch/WebFetch | Senior FTE only; clearance required |
-| Extern.com still-open guide | WebFetch | Amazon / Salesforce / Stripe / Cloudflare / EarnIn — all dup or below threshold |
-| Snyk Container Intern | WebSearch | London UK only; no US role confirmed |
-| EarnIn Backend Intern | WebFetch | $30/hr below comp floor; fintech; ~2.5/5 |
-| Ashby new grad broad | WebSearch | Decagon / Benchling / Replit / Harvey / Quora — all dup v5-v12 |
-| Greenhouse AI/ML broad | WebSearch | Censys / Roadie / CoVar / Planet — all dup v7-v10 |
+**Queries executed:** 20+
+**Listings found:** 100+ (all duplicates)
+**New listings added to pipeline:** 0
+**Net new qualifying (score >= 4.0):** 0
 
 ---
 
-## New Listings Logged (all below threshold)
+## URGENT: Anthropic Fellows Deadline — April 26, 2026
 
-| URL | Company | Title | Est. Score | Reason Skipped |
-|-----|---------|-------|------------|----------------|
-| greenhouse.io/earnin/jobs/7775677 | EarnIn | SWE Intern Backend | ~2.5/5 | $30/hr below comp floor; fintech; non-AI-first |
-| ashbyhq.com/opslevel/2708f26a | OpsLevel | SWE Intern Co-op | ~2.5/5 | DevOps SaaS; small company; non-AI-first |
+Three Anthropic Fellows tracks close in 7 days. These are the highest-scoring open roles in the system:
 
-All other 12 new URLs were confirmed duplicates from scans v1–v116.
+| # | Role | Score | Status | Deadline |
+|---|------|-------|--------|----------|
+| 246 | Anthropic Fellows — AI Security | 4.7/5 | Evaluada | APRIL 26 |
+| 370 | Anthropic Fellows — AI Safety | 4.2/5 | Evaluada | APRIL 26 |
+| 372 | Anthropic Fellows — ML Systems | 4.1/5 | Evaluada | APRIL 26 |
 
----
-
-## 🚨 URGENT — Deadlines in 7 Days
-
-| # | Company | Role | Score | Deadline |
-|---|---------|------|-------|----------|
-| **#246** | **Anthropic** | **Fellows AI Security Intern** | **4.7/5** | **April 26, 2026** |
-| **#370** | **Anthropic** | **Fellows AI Safety Intern** | **4.2/5** | **April 26, 2026** |
-| **#372** | **Anthropic** | **Fellows ML Systems Intern** | **4.1/5** | **April 26, 2026** |
-
-> These three positions close in 7 days. Apply immediately.
+**Apply via:** Constellation (not Greenhouse directly)
+**Compensation:** $3,850/week + $15K/month compute budget
+**Duration:** 4 months starting July 20, 2026
 
 ---
 
-## Active Pipeline — Top Pending Items
+## Market Assessment (as of v118)
 
-| Score | Company | Role | Notes |
-|-------|---------|------|-------|
-| 4.0/5 | **Zip** | SWE Intern Summer 2026 | Report #376; $58-60/hr; verify still open |
-| ~3.7/5 | **Verkada** | Security SWE Intern 2026 | San Mateo CA on-site; $55-65/hr + housing |
-| ~3.7/5 | **Verkada** | Backend SWE Intern 2026 | San Mateo CA on-site; $55-65/hr + housing |
-| ~3.7/5 | **Handshake** | AI/ML Engineer Intern | SF; thematic match (job platform for college students) |
-| ~3.5/5 | Symmetry Systems | Full Stack SWE Intern | Remote; Data+AI Security |
-| ~3.5/5 | Pulse | ML Engineer Intern | SF; YC company; $7-12K/mo |
-| ~3.5/5 | C3 AI | SWE Intern (Ascend) | Redwood City CA; $6-8K/mo |
-| ~3.0/5 | Klaviyo | Full-Stack SWE Co-op (Fall 2026) | Boston MA in-person; Jul-Dec 2026 |
-| ~3.0/5 | Zaimler | ML Infrastructure Intern | Small startup; verify legitimacy first |
+### Summer 2026 — CLOSED
+The Summer 2026 intern market is fully saturated after 118 scans over 13 days (April 7-19, 2026). All major aggregators, ATS platforms, and company-direct boards have been checked multiple times. No new Summer 2026 intern listings remain undiscovered in target domains.
 
----
+**Top evaluated roles (score >= 4.0) — summary:**
+- Anthropic Fellows AI Security — 4.7/5 DEADLINE APR 26
+- Anthropic Fellows AI Safety — 4.2/5 DEADLINE APR 26
+- Anthropic Fellows ML Systems — 4.1/5 DEADLINE APR 26
+- Together AI Security Intern — 4.5/5 (evaluated #334)
+- 1Password Extension Excellence Intern — 4.3/5 (evaluated #366)
+- Roadie AI Engineer Intern — 4.2/5 (evaluated #357)
+- 1Password Trust Platforms Intern — 4.0/5 (evaluated #367)
+- Databricks SWE Intern — 4.1/5 (evaluated #369)
+- PDT Partners SWE Intern — 4.0/5 (evaluated #368)
 
-## Market Assessment
-
-**Summer 2026: FULLY SATURATED** — 117 consecutive scans confirm zero new qualifying listings since scan v98 (April 17). The Summer 2026 intern market is exhausted.
-
-**Fall 2026 co-ops: EMERGING but THIN** — Only 2 entries in pipeline (Klaviyo + Zaimler, both ~3.0/5). Companies like Verkada, Notion, OpenAI, Sentry, and Zip have Fall 2026 listings, but all were captured in prior scans (v7–v98).
+### Fall 2026 / Pending Pipeline
+Items currently in pipeline for evaluation:
+- Klaviyo Full-Stack Co-op Fall 2026 (~3.0/5 est)
+- Crusoe AI Digital Infrastructure Intern (~3.7/5, v100)
+- TensorWave Security Engineer Intern (~3.6/5, v106)
+- Ema Security Engineer Intern (~3.5/5, v106)
+- Handshake AI/ML Engineer Intern (~3.7/5, v98)
+- Intel Agentic AI Research Intern (~3.5/5, v102)
 
 ---
 
 ## Recommended Next Actions
 
-1. 🚨 **APPLY TO ANTHROPIC FELLOWS NOW** — Deadline April 26, 2026 (7 days). Reports #246, #370, #372.
-2. **Process pipeline** — run `/career-ops pipeline` to evaluate and apply to pending 3.5-4.0/5 entries (Zip, Verkada x2, Handshake, Symmetry Systems)
-3. **Pause summer scanning** — market exhausted; resume in May 2026 for Fall 2026 co-op cycle
-4. **Fall 2026 watch** — Klaviyo Full-Stack Co-op in pipeline (~3.0/5); verify Verkada Fall 2026 timeline compatibility with Fall 2027 graduation
-5. **New grad pipeline** — Carlos graduates Fall 2027; begin targeting new-grad FTE roles (Decagon / Harvey / Benchling / Quora Poe) for application after graduation confirmation
+1. APPLY NOW — Anthropic AI Security Fellow (#246, 4.7/5)
+   Apply via Constellation before April 26. Highest-scored role in system.
+
+2. Apply — Anthropic AI Safety Fellow (#370, 4.2/5)
+   Separate application track — submit independently.
+
+3. Apply — Anthropic ML Systems Fellow (#372, 4.1/5)
+   Third track, also April 26 deadline.
+
+4. Process pipeline items with /career-ops pipeline
+   Evaluate Crusoe, TensorWave, Ema, Handshake internships.
+
+5. Fall 2026 strategy — shift focus
+   Summer 2026 is fully saturated. Watch for Fall 2026 co-op openings
+   (May-June typical posting window for Sept-Dec co-ops).
+   Key companies to watch post-Apr-26: OpenAI, Anthropic, Microsoft,
+   Google, CrowdStrike, Palo Alto Networks.
 
 ---
-
-*Next scan recommended: May 2026 (weekly cadence for Fall 2026 co-op cycle)*
+Generated by autonomous scan agent — career-ops v118 — 2026-04-19
