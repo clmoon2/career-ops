@@ -1,126 +1,107 @@
-# Portal Scan — 2026-04-19 (scan v123)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Portal Scan Summary — 2026-04-19 (v124)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan run:** v123 (autonomous agent)
+**Scan:** v124 (Autonomous Agent — fresh-source exhaustion sweep)
 **Date:** 2026-04-19
-**Scan history entries:** 2,884 total (30 added this run)
-**Prior scans today:** v119–v122 (run earlier this session)
+**Candidate:** Carlos Luna-Peña
 
 ---
 
 ## Results
 
-| Category | Count |
-|----------|-------|
-| Portals / sources checked | 28 |
-| Listings evaluated | 30+ |
-| Filtered by title (wrong role) | 2 (xAI hardware eng, non-SWE) |
-| Filtered by score (below threshold) | 6 (Nielsen x2, CrowdVolt, Bandwidth, Black Duck, DV Trading DevOps) |
-| Filtered past deadline | 1 (Mercury AI Enablement Fall 2026 — March 6 deadline) |
-| Confirmed duplicates | 21 |
-| **NEW listings added to pipeline** | **0** |
+| Metric | Count |
+|--------|-------|
+| Sources / portals scanned | 22 |
+| Total new URLs examined | 6 |
+| New history entries added | 6 |
+| Filtered by title (timing/location) | 2 |
+| Filtered by score (below threshold) | 3 |
+| Filtered as duplicate | 1 |
+| **New qualifying additions to pipeline** | **0** |
+| Reports filed (score ≥ 4.0) | 0 |
+| Scan history total | 2,890 entries |
 
 ---
 
-## Portals Scanned
+## Sources Scanned
 
-### Greenhouse APIs (Level 2)
-| Company | Result |
-|---------|--------|
-| PolyAI | No intern/new-grad roles |
-| Parloa | No intern/new-grad roles |
-| Hume AI | No intern/new-grad roles |
-| Temporal | Empty board (0 jobs) |
-| Arize AI | No intern/new-grad roles |
-| RunPod | No intern/new-grad roles |
-| Vercel | No intern/new-grad roles |
-| Airtable | No intern/new-grad — New Grad 2026 confirmed removed |
-
-### Ashby Boards (Level 1)
-| Company | Result |
-|---------|--------|
-| ElevenLabs | No new roles (FDE New Grad #364 already evaluated) |
-| Vapi | No new roles (SWE Intern #310 already evaluated) |
-| Zapier | No intern roles confirmed |
-
-### WebSearch Queries (Level 3)
-| Query | Result |
-|-------|--------|
-| Ashby Summer 2026 intern (SWE/AI/Security) | All dup from v7–v122 |
-| Greenhouse Summer 2026 intern (SWE/Security/AI) | All dup from v7–v122 |
-| Lever Summer 2026 intern | All dup or below threshold |
-| Cybersecurity intern 2026 (AppSec/DevSecOps) | All dup or below threshold |
-| DevOps/Cloud intern 2026 | All dup or below threshold |
-| New grad SWE/AI 2026 | All dup from v5–v122 |
-| YC AI/ML/Backend intern (workatastartup) | All dup from v7–v122 |
-| xAI Engineering Internship | Hardware/controls eng — domain mismatch |
-| SpeedyApply AI (0d/1d entries) | All dup from v103–v122 |
+| Source | Method | Finding |
+|--------|--------|---------|
+| LinkedIn Jobs | WebSearch | Citizens Bank Security Intern (below threshold); Snowflake (PhD only); rest dup |
+| Handshake | WebSearch | No indexable results |
+| SimplifyJobs Fall 2026 Off-Season README | WebFetch | Verkada Frontend Fall (NEW, skipped_title); Palantir France (non-US); rest dup |
+| Extern.com Still-Open Guide | WebFetch | Stripe/Atlassian/C3.ai/Airbnb/EarnIn — all dup v7-v117 |
+| TikTok/lifeattiktok.com | WebFetch | 2 new URLs (USDS MLE + PGC-AI Platform) — both below threshold |
+| SpeedyApply 2026 AI GitHub | WebFetch | Northspyre/Five9/Point72 — all dup v10-v107 |
+| Greenhouse API: Censys | WebFetch | Intern listings removed — all senior FTE now |
+| Greenhouse broad | WebSearch | All dup v7-v123 |
+| Ashby broad | WebSearch | All dup v7-v123 |
+| Lever broad | WebSearch | All dup v7-v123 |
+| Palantir (Lever) | WebSearch | France FDE (non-US); all US interns dup v7 |
+| Ramp (Ashby) | Verified | All dup v7 |
+| OpenAI Fall 2026 (Ashby) | Verified | dup v7-v36 |
+| Notion Fall 2026 (Ashby) | Verified | dup v7 |
+| Verkada (Greenhouse) | Verified | Backend Fall dup v9; Frontend Fall NEW skipped_title |
+| SpaceX Fall 2026 (Greenhouse) | Verified | dup v34 |
+| Klaviyo Summer (Greenhouse) | Verified | dup v7 |
+| Together AI Security (Greenhouse) | Verified | dup v7 (board cleared v111) |
+| Robinhood MLE Agentic (Greenhouse) | Verified | dup v7 |
+| Lyft Backend (Greenhouse) | Verified | dup v8 |
+| TikTok USDS MLE (lifeattiktok.com) | WebFetch | NEW — $45/hr San Jose; ~3.2/5; ByteDance risk — skipped_score |
+| TikTok PGC-AI Platform (lifeattiktok.com) | WebSearch | NEW — location unclear; ~3.0/5; ByteDance risk — skipped_score |
 
 ---
 
-## Listings Evaluated & Filtered
+## New Listings Found — Details
 
-### Skipped — Wrong Role/Domain
-- **xAI Engineering Internship (Summer 2026)** — Memphis TN; Mechanical/Electrical/Controls for data center infra; NOT SWE
-
-### Skipped — Compensation Below Floor ($70K/yr)
-- **Nielsen — Information Security AI Strategy Intern** — NYC; $15K–$20K total stipend; interesting role (AI + security audit + LLM gap analysis) but 75%+ below Carlos's minimum
-- **Nielsen — AI-Powered OSS Supply Chain Security Intern** — NYC; same comp issue ($15K–$20K)
-- **CrowdVolt — Engineer Intern** — NYC; $3K–$6K/mo; EDM ticket marketplace domain; tech stack matches (React/Python/AI agents) but comp fails
-
-### Skipped — Below Score Threshold (< 3.5)
-- **Bandwidth — DevSecOps Intern** (Summer 2026) — Raleigh NC; ~3.2/5; non-target location; conservative comp signal
-- **Black Duck Software — DevOps Engineer Intern** — ~3.0/5; AppSec/OSS security company but K8s/cloud infra focus; 503 during detailed fetch
-- **DV Trading — DevOps Engineer Intern** — ~3.0/5; companion to AI Engineer Intern #312 (3.5/5); DevOps track is lower alignment
-
-### Skipped — Past Deadline
-- **Mercury — Software Engineering Intern, AI Enablement (Fall 2026)** — Deadline passed March 6, 2026 (confirmed from v98)
-
-### Confirmed Duplicates (already in pipeline or evaluated)
-- Zscaler Technical Internship (added v7), AI/ML Agentic Cloud (added v32), SWE Software Dev (added v61, 3.7/5)
-- Robinhood Backend SWE (skipped_closed v10 — separate from Backend v29 which is in pipeline)
-- Trumid AI Automation Intern (added v102)
-- Harvey New Grad (added v7)
-- Airtable New Grad (removed from board, v105)
-- PDT Partners Systems Eng (added v7)
-- Notion Fall 2026, Fizz SWE Intern, Mercury Fall (all dup v7+)
-- All Greenhouse/Ashby/Lever broad searches = dup v7–v122
+| Company | Role | URL | Score | Reason Skipped |
+|---------|------|-----|-------|----------------|
+| TikTok / ByteDance | MLE Intern (USDS) — Summer 2026 | lifeattiktok.com/7547370946877901063 | ~3.2/5 | ByteDance brand risk; ML for risk detection (not LLMOps); $45/hr borderline |
+| TikTok / ByteDance | SWE Intern (PGC-AI Platform) — Summer 2026 | lifeattiktok.com/7533106667609917703 | ~3.0/5 | ByteDance brand risk; location unclear; below threshold |
+| Verkada | Frontend SWE Intern — Fall 2026 | greenhouse.io/verkada/5099529007 | ~3.8/5 | Fall 2026 conflicts with TAMU fall semester (same skip reason as Backend v98) |
 
 ---
 
-## Current Pipeline (Pending Evaluation)
+## Top Matches — Score ≥ 4.0
 
-These were added in scans v120–v122 earlier today and await evaluation:
+**None this scan.** Summer 2026 market is FULLY SATURATED for Carlos's target profile.
 
-| Priority | Company | Role | Est. Score | Notes |
-|----------|---------|------|-----------|-------|
-| 🟡 | Lyft | Software Engineer Intern, Backend (Summer 2026) | ~3.5/5 | $52-58/hr SF hybrid; Python/Go; verify grad window Dec 2026–Summer 2027 |
-| 🟡 | Speak | Full-Stack Engineer Intern (Summer 2026) | ~3.0/5 | YC-backed language learning AI; $6K-$10K/mo SF; React/TS/Node/Python; frontend-heavy |
-| 🟡 | Stack Auth | SWE Intern (Summer 2026) | ~2.5/5 | YC S24 open-source Auth0; SF hacker house; comp undisclosed |
-| 🟡 | ByteDance | Security Software Engineer Project Intern (Network Security) | ~3.4/5 | $45-60/hr San Jose; ML/PyTorch req; Chinese parent co risk |
-| 🟡 | ByteDance | Software Engineer Intern (AI Platform) | ~3.2/5 | $45/hr San Jose; deep learning frameworks req; Chinese parent co risk |
-| 🔵 | Trumid | AI Automation Intern (Summer 2026) | ~3.5/5 | NYC; fixed income bond platform; Python; AI for operations workflows; within 12mo graduation |
-| 🔵 | Zscaler | Software Engineer Intern, Software Development | ~3.7/5 | San Jose CA hybrid; $45-65/hr; Python/Rust/Java/AWS; cybersecurity cloud leader |
-| 🔵 | Zscaler | AI/ML Intern, Agentic Cloud | TBD | San Jose CA; agentic AI at $30B+ cybersecurity company |
+---
+
+## ⚡ URGENT DEADLINES — ACTION REQUIRED NOW
+
+> These were previously evaluated and scored high. **7 DAYS until deadline.**
+
+| # | Company | Role | Score | Deadline |
+|---|---------|------|-------|----------|
+| 246 | Anthropic | Fellows Program — AI Security | **4.7/5** | **April 26, 2026** |
+| 370 | Anthropic | Fellows Program — AI Safety | **4.2/5** | **April 26, 2026** |
+| 372 | Anthropic | Fellows Program — ML Systems | **4.1/5** | **April 26, 2026** |
+
+**#246 Anthropic AI Security (4.7/5) is the strongest unsubmitted application in the pipeline.** Carlos's HMAC-SHA256 CSRF, OAuth proxy engineering, adversarial LLM testing, TLS hardening, and Finch security architecture are a near-perfect fit.
 
 ---
 
 ## Market Status
 
-**The Summer 2026 internship market is effectively saturated.** After 123 scans covering 2,884 history entries, all major portals (Greenhouse, Ashby, Lever, Workday, SmartRecruiters) and aggregators (SpeedyApply, SimplifyJobs, Zapplyjobs, Simplify) return only duplicates. The pipeline has been exhaustively surveyed.
+**Summer 2026: FULLY SATURATED** — 124 consecutive autonomous scans, zero new qualifying listings since v98.
 
-**Key deadlines to watch:**
-- Anthropic Fellows Program (AI Safety + AI Security tracks): **DEADLINE APRIL 26** — apply immediately if not done (#246, #370, #372)
-- 1Password Extension Excellence Intern (#366, 4.3/5): Apply ASAP
-- Browser Use SWE Intern (#357, 4.4/5): Apply ASAP
+- 2,890 unique URLs in scan history
+- All major portals exhausted: Ashby, Greenhouse, Lever, SimplifyJobs, SpeedyApply, YC, Extern, Jobright, Workday, LinkedIn
+- TikTok lifeattiktok.com checked for first time — 2 new URLs, both below threshold
 
-**Next scan window:** Monitor for Fall 2026 internship openings (August–October 2026) and New Grad 2026 FTE roles appearing May–August 2026 as companies onboard summer cohorts and begin FTE planning.
+**Fall 2026 co-ops in pipeline:** Klaviyo Full-stack (~3.0/5), Zaimler ML Infra (~3.0/5)
 
 ---
 
 ## Recommended Next Actions
 
-1. **APPLY IMMEDIATELY** — Anthropic Fellows deadline April 26 (#246 AI Security 4.7/5, #370 AI Safety 4.2/5, #372 ML Systems 4.1/5)
-2. **Evaluate pending pipeline** — Run `/career-ops pipeline` to evaluate Lyft, ByteDance, Trumid, Zscaler AI/ML interns
-3. **Follow up on top evaluations** — Mechanize ($100/hr, #304 4.6/5), Haize Labs (#298 4.7/5), Cloudflare Austin (#347 4.8/5), Atlassian Security (#355 4.5/5)
-4. **Shift focus** — Begin monitoring for 2026 New Grad FTE roles (Q3 2026 cycle opens May–June)
+1. **⚡ APPLY NOW:** Anthropic Fellows AI Security (#246, 4.7/5) — deadline April 26
+2. **⚡ APPLY NOW:** Anthropic Fellows AI Safety (#370, 4.2/5) — deadline April 26
+3. **⚡ APPLY NOW:** Anthropic Fellows ML Systems (#372, 4.1/5) — deadline April 26
+4. **Process pipeline:** `/career-ops pipeline` to evaluate Speak, Stack Auth, Klaviyo Fall, Zaimler ML
+5. **Next scan window:** Fall 2026 co-ops open August/September 2026; Summer 2027 recruiting opens August/September 2026 — no productive Summer 2026 scan targets remain
+
+---
+
+*Generated by career-ops autonomous scan agent v124 — 2026-04-19*
