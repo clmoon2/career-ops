@@ -1,107 +1,96 @@
-# Portal Scan Summary — 2026-04-19 (v124)
+# Portal Scan Summary — 2026-04-19 (v125)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan:** v124 (Autonomous Agent — fresh-source exhaustion sweep)
+**Scan:** v125 (Autonomous Agent — market saturation confirmation sweep)
 **Date:** 2026-04-19
-**Candidate:** Carlos Luna-Peña
+**Status:** Summer 2026 FULLY SATURATED — 125 consecutive scans
 
 ---
 
 ## Results
 
-| Metric | Count |
+| Metric | Value |
 |--------|-------|
-| Sources / portals scanned | 22 |
-| Total new URLs examined | 6 |
-| New history entries added | 6 |
-| Filtered by title (timing/location) | 2 |
-| Filtered by score (below threshold) | 3 |
-| Filtered as duplicate | 1 |
-| **New qualifying additions to pipeline** | **0** |
-| Reports filed (score ≥ 4.0) | 0 |
-| Scan history total | 2,890 entries |
+| Sources scanned | 30+ (Greenhouse APIs, Ashby broad, Lever broad, YC, SpeedyApply, Spotify) |
+| Total new URLs found | 4 (Spotify — all past deadline) |
+| Scored ≥ 4.0 | 0 |
+| Scored 3.5–3.9 | 0 |
+| Pipeline additions | 0 |
+| History entries | 2,890 → 2,899 |
+| Consecutive 0-qualifying scans | 27 (since v98) |
 
 ---
 
-## Sources Scanned
+## New Discoveries
 
-| Source | Method | Finding |
-|--------|--------|---------|
-| LinkedIn Jobs | WebSearch | Citizens Bank Security Intern (below threshold); Snowflake (PhD only); rest dup |
-| Handshake | WebSearch | No indexable results |
-| SimplifyJobs Fall 2026 Off-Season README | WebFetch | Verkada Frontend Fall (NEW, skipped_title); Palantir France (non-US); rest dup |
-| Extern.com Still-Open Guide | WebFetch | Stripe/Atlassian/C3.ai/Airbnb/EarnIn — all dup v7-v117 |
-| TikTok/lifeattiktok.com | WebFetch | 2 new URLs (USDS MLE + PGC-AI Platform) — both below threshold |
-| SpeedyApply 2026 AI GitHub | WebFetch | Northspyre/Five9/Point72 — all dup v10-v107 |
-| Greenhouse API: Censys | WebFetch | Intern listings removed — all senior FTE now |
-| Greenhouse broad | WebSearch | All dup v7-v123 |
-| Ashby broad | WebSearch | All dup v7-v123 |
-| Lever broad | WebSearch | All dup v7-v123 |
-| Palantir (Lever) | WebSearch | France FDE (non-US); all US interns dup v7 |
-| Ramp (Ashby) | Verified | All dup v7 |
-| OpenAI Fall 2026 (Ashby) | Verified | dup v7-v36 |
-| Notion Fall 2026 (Ashby) | Verified | dup v7 |
-| Verkada (Greenhouse) | Verified | Backend Fall dup v9; Frontend Fall NEW skipped_title |
-| SpaceX Fall 2026 (Greenhouse) | Verified | dup v34 |
-| Klaviyo Summer (Greenhouse) | Verified | dup v7 |
-| Together AI Security (Greenhouse) | Verified | dup v7 (board cleared v111) |
-| Robinhood MLE Agentic (Greenhouse) | Verified | dup v7 |
-| Lyft Backend (Greenhouse) | Verified | dup v8 |
-| TikTok USDS MLE (lifeattiktok.com) | WebFetch | NEW — $45/hr San Jose; ~3.2/5; ByteDance risk — skipped_score |
-| TikTok PGC-AI Platform (lifeattiktok.com) | WebSearch | NEW — location unclear; ~3.0/5; ByteDance risk — skipped_score |
+### Spotify US Engineering Internships — ⚠️ DEADLINE PASSED
+
+Found 4 Spotify internship URLs never previously scanned. All have a February 5, 2026 application deadline — already passed.
+
+| Role | URL | Status |
+|------|-----|--------|
+| Engineering & Data Science Intern (NYC) | `jobs.lever.co/spotify/69f52b9b` | ❌ Deadline passed |
+| Machine Learning Engineering Intern (NYC) | `jobs.lever.co/spotify/4261f025` | ❌ Deadline passed |
+| Backend Engineer Intern, Music Mission (US) | `jobs.lever.co/spotify/87f80e27` | ❌ Deadline passed |
+| Backend Engineer Intern, Platform Mission (US) | `jobs.lever.co/spotify/a40fcb00` | ❌ Deadline passed |
+
+**Action for Summer 2027:** Add Spotify to `portals.yml`. Scan October–November — they close applications in early February.
 
 ---
 
-## New Listings Found — Details
+## Sources Confirmed Saturated
 
-| Company | Role | URL | Score | Reason Skipped |
-|---------|------|-----|-------|----------------|
-| TikTok / ByteDance | MLE Intern (USDS) — Summer 2026 | lifeattiktok.com/7547370946877901063 | ~3.2/5 | ByteDance brand risk; ML for risk detection (not LLMOps); $45/hr borderline |
-| TikTok / ByteDance | SWE Intern (PGC-AI Platform) — Summer 2026 | lifeattiktok.com/7533106667609917703 | ~3.0/5 | ByteDance brand risk; location unclear; below threshold |
-| Verkada | Frontend SWE Intern — Fall 2026 | greenhouse.io/verkada/5099529007 | ~3.8/5 | Fall 2026 conflicts with TAMU fall semester (same skip reason as Backend v98) |
-
----
-
-## Top Matches — Score ≥ 4.0
-
-**None this scan.** Summer 2026 market is FULLY SATURATED for Carlos's target profile.
+| Source | Result |
+|--------|--------|
+| Greenhouse APIs (Anthropic, Vercel, Airtable, Glean, HumeAI, Arize) | All dup v7–v124 |
+| Ashby broad (Notion, Replit, Ramp, Whatnot, Cohere, ElevenLabs, Vapi, Zapier, n8n) | All dup v7–v124 |
+| Greenhouse broad (Cloudflare, Obsidian, Gemini, Together AI, Robinhood, Figma, Veeam) | All dup v7–v124 |
+| Lever broad (Symmetry, BestEgg, Shield AI, Nominal, Voleon, Artera, Tevora, Belvedere) | All dup v7–v124 |
+| YC/workatastartup (Browser Use, Circleback, Swif.ai, SubImage, Candle, Replit, Dex) | All dup v30–v121 |
+| SpeedyApply SWE + AI (April 19 fresh) | All dup v103–v124 |
+| SimplifyJobs | All dup v7–v124 |
 
 ---
 
-## ⚡ URGENT DEADLINES — ACTION REQUIRED NOW
+## ⚡ URGENT — 7 DAYS LEFT
 
-> These were previously evaluated and scored high. **7 DAYS until deadline.**
+**Anthropic Fellows Program deadlines: APRIL 26, 2026**
 
-| # | Company | Role | Score | Deadline |
-|---|---------|------|-------|----------|
-| 246 | Anthropic | Fellows Program — AI Security | **4.7/5** | **April 26, 2026** |
-| 370 | Anthropic | Fellows Program — AI Safety | **4.2/5** | **April 26, 2026** |
-| 372 | Anthropic | Fellows Program — ML Systems | **4.1/5** | **April 26, 2026** |
-
-**#246 Anthropic AI Security (4.7/5) is the strongest unsubmitted application in the pipeline.** Carlos's HMAC-SHA256 CSRF, OAuth proxy engineering, adversarial LLM testing, TLS hardening, and Finch security architecture are a near-perfect fit.
+| # | Role | Score | Action |
+|---|------|-------|--------|
+| 246 | Anthropic Fellows — AI Security | **4.7/5** | **APPLY NOW** |
+| 370 | Anthropic Fellows — AI Safety | **4.2/5** | **APPLY NOW** |
+| 372 | Anthropic Fellows — ML Systems & Performance | **4.1/5** | **APPLY NOW** |
 
 ---
 
-## Market Status
+## Pipeline Pending (Unapplied, Scored ≥ 3.0)
 
-**Summer 2026: FULLY SATURATED** — 124 consecutive autonomous scans, zero new qualifying listings since v98.
-
-- 2,890 unique URLs in scan history
-- All major portals exhausted: Ashby, Greenhouse, Lever, SimplifyJobs, SpeedyApply, YC, Extern, Jobright, Workday, LinkedIn
-- TikTok lifeattiktok.com checked for first time — 2 new URLs, both below threshold
-
-**Fall 2026 co-ops in pipeline:** Klaviyo Full-stack (~3.0/5), Zaimler ML Infra (~3.0/5)
+| Score | Company | Role | Notes |
+|-------|---------|------|-------|
+| 4.7/5 | Anthropic | Fellows — AI Security (#246) | ⚡ DEADLINE APRIL 26 |
+| 4.2/5 | Anthropic | Fellows — AI Safety (#370) | ⚡ DEADLINE APRIL 26 |
+| 4.1/5 | Anthropic | Fellows — ML Systems (#372) | ⚡ DEADLINE APRIL 26 |
+| ~3.6/5 | Obsidian Security | Software Engineer Intern | Palo Alto CA; SSPM |
+| ~3.6/5 | Symmetry Systems | Full Stack SWE Intern | Remote US; data+AI security |
+| ~3.6/5 | TensorWave | Security Engineer Intern | GPU cloud infra |
+| ~3.5/5 | Ema | Security Engineer Intern | Enterprise AI OS |
+| ~3.5/5 | Trumid | AI Automation Intern | NYC; fixed income |
+| ~3.5/5 | Intel | Agentic AI Research Intern | Santa Clara CA |
+| ~3.0/5 | Klaviyo | Full-Stack Co-op (Fall 2026) | Boston MA in-person |
+| ~3.0/5 | Zaimler | ML Infrastructure Intern | Verify legitimacy first |
+| ~3.0/5 | Speak | Full-stack Engineer Intern | YC; SF; $6-10K/mo |
 
 ---
 
 ## Recommended Next Actions
 
-1. **⚡ APPLY NOW:** Anthropic Fellows AI Security (#246, 4.7/5) — deadline April 26
-2. **⚡ APPLY NOW:** Anthropic Fellows AI Safety (#370, 4.2/5) — deadline April 26
-3. **⚡ APPLY NOW:** Anthropic Fellows ML Systems (#372, 4.1/5) — deadline April 26
-4. **Process pipeline:** `/career-ops pipeline` to evaluate Speak, Stack Auth, Klaviyo Fall, Zaimler ML
-5. **Next scan window:** Fall 2026 co-ops open August/September 2026; Summer 2027 recruiting opens August/September 2026 — no productive Summer 2026 scan targets remain
+1. **IMMEDIATE (before April 26):** Apply to all 3 Anthropic Fellows programs. Reports #246, #370, #372 are ready.
+2. **THIS WEEK:** Apply to Obsidian Security, Symmetry Systems, TensorWave, Ema — all ≥3.5/5 and still open.
+3. **FALL 2026:** Klaviyo (Boston, ~3.0/5) is the top Fall 2026 co-op. Evaluate before deciding.
+4. **SUMMER 2027:** Add Spotify to portals.yml. Begin scanning big tech (Google, Meta, Microsoft, Apple, Amazon) in September — their deadlines are typically October–January.
+5. **PIVOT:** The Summer 2026 market is exhausted. Focus shifts to: (a) applying from existing pipeline, (b) Fall 2026 co-ops, (c) new grad FTE roles for post-graduation.
 
 ---
 
-*Generated by career-ops autonomous scan agent v124 — 2026-04-19*
+**System note:** 125 scans, 2,899 history entries, all major job boards exhausted. The bottleneck is now applying — not finding.
