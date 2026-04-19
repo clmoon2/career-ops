@@ -1,115 +1,105 @@
-# Portal Scan — 2026-04-19 (scan-v126)
+# Portal Scan — 2026-04-19 (v127)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan type:** Autonomous agent — pipeline backlog evaluation sweep
-**Focus:** Summer 2026 internships + 2026 new grad roles (SWE, Security, AI/ML, DevOps, Consulting)
-
----
-
-## Summary
-
-```
-Date:                  2026-04-19
-Scan version:          v126
-Companies scanned:     25+
-Portals queried:       Greenhouse, Ashby, Lever, Greenhouse APIs
-Queries executed:      12 WebSearch + 4 Greenhouse API calls
-Unique URLs found:     28 (10 new this scan, 18 re-confirmed from history)
-New to pipeline:       0 (all genuinely new URLs already in history from v7-v125)
-Evaluated (full):      4 (pending pipeline items processed for the first time)
-Reports filed:         4
-History entries added: 10
-History total:         2,909 entries
-```
+**Date:** 2026-04-19
+**Scan version:** v127 (autonomous agent)
+**Candidate:** Carlos Luna-Peña
 
 ---
 
-## Key Finding
+## Results
 
-Summer 2026 market remains **FULLY SATURATED** — 126 consecutive scans with zero genuinely new qualifying URLs. All listings discovered in this scan were already in scan-history.tsv from scans v7–v125 (April 5–19, 2026).
-
-**What this scan accomplished:** Processed 4 pending pipeline items that had been sitting in `pipeline.md` since early April but were never formally evaluated with reports or tracker entries.
-
----
-
-## Evaluated This Scan (score >= 4.0)
-
-| # | Company | Role | Score | Report |
-|---|---------|------|-------|--------|
-| 382 | Replit | Software Engineer, New Grad (Summer 2026) | **4.5/5** | [382](reports/382-replit-swe-newgrad-2026-04-19.md) |
-| 383 | Harvey AI | Software Engineer, New Grad (2026) | **4.1/5** | [383](reports/383-harvey-swe-newgrad-2026-04-19.md) |
-| 384 | Figma | Software Engineer Intern (2026) | **4.0/5** | [384](reports/384-figma-swe-intern-2026-04-19.md) |
-| 385 | Marshall Wace | Technology Intern, New York (Summer 2026) | **4.0/5** | [385](reports/385-marshall-wace-tech-intern-2026-04-19.md) |
+| Metric | Count |
+|--------|-------|
+| Sources scanned | 13 |
+| Total new URLs processed | 13 new history entries |
+| Filtered by title | 1 (Tatari Data Science — not SWE) |
+| Below score threshold (<4.0) | 3 (Tatari SWE ~3.0/5, ScriptChain ~3.2/5, AI Agent Intern unknown) |
+| New pipeline additions | 1 (Creatify AI ~3.8/5 borderline) |
+| New qualifying (>=4.0/5) | **0** |
+| Scan history total | 2,922 entries |
 
 ---
 
-## Top Matches — Apply Immediately
+## Sources Scanned
 
-### ⭐⭐ #382 Replit — SWE New Grad (4.5/5)
-- **URL:** https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc
-- **Comp:** $120–140K + equity, Foster City CA hybrid
-- **Why:** Finch multi-model AI pipeline is structural analog to Replit Agent. The strongest possible proof point for this role.
-- **Action:** Apply immediately. Lead with Finch → Replit Agent analogy.
-
-### ⭐ #383 Harvey AI — SWE New Grad (4.1/5)
-- **URL:** https://jobs.ashbyhq.com/harvey/163860df-ae88-437d-81da-305efa554dff
-- **Comp:** ~$150–200K estimated, SF in-person
-- **Why:** $11B legal AI company. LLM routing + deterministic validation gates = Finch architecture match. Different from Harvey SWE Intern #122.
-- **Action:** Apply. Prepare technical deep-dive on multi-model routing and eval framework design.
-
-### #384 Figma — SWE Intern (4.0/5)
-- **URL:** https://job-boards.greenhouse.io/figma/jobs/5602159004
-- **Comp:** $60/hr + housing stipend, SF or NYC
-- **Why:** Security engineering track = HMAC/TLS/OAuth/CSP production stack exact match.
-- **Action:** Apply targeting Security engineering track. ⚠️ Verify listing is still open (was marked "closed" in scan-v121).
-
-### #385 Marshall Wace — Technology Intern (4.0/5)
-- **URL:** https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8062751002
-- **Comp:** $2,800–3,000/week (~$75/hr), NYC 10 weeks
-- **Why:** Top-tier comp. Quant trading system (Bloomberg/Alpaca) is a rare differentiator for a hedge fund tech internship.
-- **Action:** Apply. Lead with quant trading system. ⚠️ Verify listing still accepting applications.
+| Source | Method | Result |
+|--------|--------|--------|
+| Greenhouse APIs (Anthropic/Airtable/Vercel/Glean/etc.) | WebFetch API | 503 errors; WebSearch fallback: all dup v7-v126 |
+| Ashby broad (Notion/OpenAI/Sentry/Zip/Cohere) | WebSearch | All dup v7-v126 |
+| Lever broad (Actian/Shield AI/Voleon/Artera/Symmetry) | WebSearch | All dup v7-v126 |
+| SpeedyApply AI repo | WebSearch | Tatari NEW (3.0/5 below threshold); others dup |
+| SimplifyJobs GitHub | WebFetch | Tatari NEW; others non-target or dup |
+| Wellfound | WebSearch | 3 NEW companies found (see below) |
+| HN Who is Hiring April 2026 | WebSearch | FTE/senior/clearance-required; 0 qualifying |
+| GitHub repos (speedyapply/SimplifyJobs) | WebSearch | All dup |
 
 ---
 
-## Skipped / Below Threshold
+## New Discoveries
 
-| Company | Role | Reason |
-|---------|------|--------|
-| C3 AI | SWE Intern | 3.8/5; Java preferred; Redwood City relocation; $6-8K/mo lower end |
-| Verkada | Backend/Frontend Intern Fall 2026 | Fall 2026 conflicts with TAMU fall semester |
-| Symmetry Systems | Full Stack Intern | 3.8/5; comp unknown |
-| Handshake | AI/ML Intern | 3.5/5; comp not disclosed; ML training required |
-| Disney | SWE Intern AI | 3.5/5; $42/hr below minimum |
-| Anthropic STEM Fellow | STEM Fellow | 2.0/5; PhD in STEM required |
-| Actian | AI Security Intern | 2.5/5; $20-30/hr far below minimum |
-| Center for AI Safety | Research Eng Intern | 2.5/5; unpaid (stipend only) |
+### Added to Pipeline
+| Company | Role | Score | URL | Notes |
+|---------|------|-------|-----|-------|
+| **Creatify AI** | Software Engineer Intern 2026 | ~3.8/5 | https://wellfound.com/jobs/3994728-software-engineer-intern-2026 | $40-60/hr, Mountain View CA on-site, React+Python/Django+Docker/AWS, AI video ad automation ($24M raised, $10M ARR), Finch pipeline analog; borderline — apply after priority roles |
 
----
-
-## Urgent Reminders
-
-⚠️ **DEADLINE APRIL 26, 2026 (7 DAYS):**
-- Anthropic Fellows AI Security #246 (4.7/5)
-- Anthropic Fellows AI Safety #370 (4.2/5)
-- Anthropic Fellows ML Systems #372 (4.1/5)
+### Below Threshold (not added to pipeline)
+| Company | Role | Score | Reason |
+|---------|------|-------|--------|
+| Tatari | Software Engineer Intern | ~3.0/5 | TV ad tech domain, $35-45/hr (meets minimum but not target), Python+SQL+stats focus, not AI-native |
+| Tatari | Software Engineer Intern, Backend | ~3.0/5 | Same company, backend variant |
+| ScriptChain Health | Software Engineer Intern | ~3.2/5 | Healthcare AI, Angular (not React), comp not disclosed, small startup |
+| AI Agent Engineer Intern (Wellfound 3542501) | AI Agent Intern | N/A | Company identity unknown; cannot evaluate |
 
 ---
 
-## Market Status
+## Market Status: FULLY SATURATED
 
-**Summer 2026 internship market: FULLY SATURATED** after 126 scans.
+Summer 2026 internship market has been **fully saturated for 29 consecutive scans** (v98 through v127). Zero new qualifying (>=4.0/5) opportunities since scan v98.
 
-Next scan focus should shift to:
-1. **Fall 2026 internships** (companies post Aug–Sep)
-2. **Full-time new grad roles** for 2026–2027 graduation windows
-3. **Return offer / final decisions** on current pipeline
+**Root cause:** Peak Summer 2026 application windows closed January-March 2026. Remaining open listings are either non-target domain, below compensation floor, geographically restricted, or past deadline.
+
+---
+
+## URGENT ACTION REQUIRED
+
+**Three Anthropic Fellows tracks expire in 7 days:**
+
+| # | Role | Score | Deadline | Action |
+|---|------|-------|----------|--------|
+| #246 | Anthropic Fellows — AI Security | **4.7/5** | **April 26, 2026** | APPLY IMMEDIATELY |
+| #370 | Anthropic Fellows — AI Safety | **4.2/5** | **April 26, 2026** | APPLY IMMEDIATELY |
+| #372 | Anthropic Fellows — ML Systems & Performance | **4.1/5** | **April 26, 2026** | APPLY IMMEDIATELY |
+
+These are the **highest-priority opportunities** in the entire pipeline.
+
+---
+
+## Top Open Opportunities (evaluated pipeline)
+
+| # | Company | Role | Score | Priority |
+|---|---------|------|-------|----------|
+| #246 | Anthropic | Fellows — AI Security | 4.7/5 | URGENT — 7 days |
+| #382 | Replit | SWE New Grad (Summer 2026) | 4.5/5 | Apply now |
+| #357 | Browser Use | Summer SWE Intern | 4.4/5 | Apply now |
+| #366 | 1Password | Developer Intern — Extension Excellence | 4.3/5 | Apply now |
+| #370 | Anthropic | Fellows — AI Safety | 4.2/5 | URGENT — 7 days |
+| #372 | Anthropic | Fellows — ML Systems | 4.1/5 | URGENT — 7 days |
+| #373 | Rakuten Advertising | AI Engineer Intern | 4.2/5 | Apply now |
+| #371 | Roadie | AI Engineer Intern | 4.2/5 | Apply now |
+| #358 | Rippling | Full Stack SWE Intern | 4.2/5 | Apply now |
 
 ---
 
 ## Recommended Next Actions
 
-1. **Apply to #382 Replit** — top new grad match, apply this week
-2. **Apply to #383 Harvey** — strong new grad match, apply this week
-3. **Verify + apply to #384 Figma** — confirm listing active first
-4. **Verify + apply to #385 Marshall Wace** — confirm listing active first
-5. **⚠️ URGENT: Apply Anthropic Fellows before April 26** (AI Security #246, AI Safety #370, ML Systems #372)
-6. Run `/career-ops pipeline` to process remaining unreviewed pending items
+1. **IMMEDIATELY:** Apply to Anthropic Fellows AI Security (#246, 4.7/5) — deadline April 26
+2. **IMMEDIATELY:** Apply to Anthropic Fellows AI Safety (#370, 4.2/5) — deadline April 26
+3. **IMMEDIATELY:** Apply to Anthropic Fellows ML Systems (#372, 4.1/5) — deadline April 26
+4. Apply to Replit New Grad (#382, 4.5/5), Browser Use (#357, 4.4/5), 1Password Extension (#366, 4.3/5)
+5. Optional: Evaluate Creatify AI (pipeline ~3.8/5) if bandwidth after above
+6. **Stop daily scanning** — market is saturated. Resume in 2 weeks for Fall 2026 / Spring 2027 cycles.
+
+---
+
+*Generated by career-ops autonomous scan agent v127 — 2026-04-19*
