@@ -658,7 +658,7 @@
 
 <!-- === NEW 2026-04-12 SCAN v38 (Autonomous Agent — April 12 freshness sweep via speedyapply + Actian/BrowserOS/Replit) === -->
 <!-- ⭐⭐ PRIORITY 1: Replit New Grad — $140-180K + equity; AI agents + full-stack TS/React/Python; top match ⭐⭐ -->
-- [ ] https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc | Replit | Software Engineer - New Grad (Summer 2026) | 4.5/5 | ⭐⭐ EVALUATED — $140-180K + equity; Foster City CA hybrid; AI coding agents + full-stack; direct CV match; report: 293
+- [x] https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc | Replit | Software Engineer - New Grad (Summer 2026) | 4.5/5 | ⭐⭐ EVALUATED scan-v126 — $120-140K base + equity; Foster City CA hybrid; Finch AI pipeline = Replit Agent analog; report: 382
 <!-- ⭐ PRIORITY 2: BrowserOS ML Research Intern — YC S24 agentic browser; Chrome MV3 + TypeScript + browser agents = trifecta ⭐ -->
 - [ ] https://www.ycombinator.com/companies/browseros/jobs/XFrdIN5-ml-research-engineer-intern | BrowserOS | ML Research Engineer Intern | 4.2/5 | ⭐ EVALUATED — $6-10K/mo; SF; open-source agentic browser; Chrome MV3 + TS + AI agents exact match; report: 294
 <!-- Secondary (pipeline additions — no full report) -->
@@ -674,7 +674,7 @@
 - [ ] https://job-boards.greenhouse.io/obsidiansecurity/jobs/4788725008 | Obsidian Security | Software Engineer Intern (Summer 2026) | 4.0/5 | ⭐ EVALUATED — SaaS security full-stack; OAuth/HMAC/TLS security engineering = direct match; report: 297
 - [ ] https://jobs.apple.com/en-us/details/200624078-2114/information-security-internship | Apple | Information Security Internship | 4.0/5 | ⭐ EVALUATED — Detection Eng or SWE track; cybersecurity minor + prod security + carlosOS depth; report: 298
 <!-- Secondary (3.5-3.9): Apply if top priorities move forward -->
-- [ ] https://job-boards.greenhouse.io/figma/jobs/5602159004 | Figma | Software Engineer Intern (2026) | 3.8/5 | SF/NYC; React/TS/Python stack match; strong brand; no direct Figma-stack exp but fundamentals align
+- [x] https://job-boards.greenhouse.io/figma/jobs/5602159004 | Figma | Software Engineer Intern (2026) | 4.0/5 | EVALUATED scan-v126 — $60/hr + housing; targeting Security engineering track; HMAC/TLS/OAuth match; report: 384
 - [ ] https://job-boards.greenhouse.io/figma/jobs/5616603004 | Figma | Early Career, Software Engineer (2026) | 3.7/5 | SF/NYC; new grad track; same tech alignment as intern role
 - [ ] https://jobs.apple.com/en-us/details/200622722-1418/cybersecurity-analyst-internship-enterprise-systems | Apple | Cybersecurity Analyst Internship | 3.5/5 | More analyst vs. engineering; cybersecurity minor aligns; apply if InfoSec track fills
 - [ ] https://jobs.ashbyhq.com/whatnot/8250532f-4bfd-4ee5-a041-4a2e54047cf7 | Whatnot | Software Engineer Intern (Summer 2026) | 3.7/5 | Livestream e-commerce; React/backend; competitive comp; less AI/security focused
@@ -1271,7 +1271,7 @@
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4006735005 | Glean | Machine Learning Engineer, Search Quality
 - [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4809451101 | Parloa | Corporate Security Engineer
 - [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4694390101 | Parloa | Forward Deployed Engineer, DevOps
-- [ ] https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc | Replit | Software Engineer - New Grad (Summer 2026)
+- [x] https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc | Replit | Software Engineer - New Grad (Summer 2026) | EVALUATED scan-v126 4.5/5 — report: 382
 - [ ] https://jobs.ashbyhq.com/kikoff/ad87f613-2906-4497-886d-742d9104fc50 | Kikoff | Software Engineer - Recent Grad 2026
 - [ ] https://jobs.ashbyhq.com/pylon-labs/ecf0d509-cfb9-43c6-b628-1e685d6f5f42 | Pylon | Software Engineer (New Grad)
 - [ ] https://jobs.ashbyhq.com/zip/19f459ee-4907-4883-9d70-35eb96f62082 | Zip | Software Engineer, New Grad (2026 Start)
@@ -1279,7 +1279,7 @@
 - [ ] https://jobs.ashbyhq.com/sentry/143811c1-ec03-458b-9edf-32f002c818f0 | Sentry | Software Engineer, New Grad (2026)
 - [ ] https://jobs.ashbyhq.com/n1/73724fe2-9a93-4a60-b349-4fd3d2efa94a | N1 | New Grad Software Engineer (Full Stack)
 - [ ] https://jobs.ashbyhq.com/benchling/b3c9b312-6e2b-4dbc-9b15-0b0310d75a7f | Benchling | Software Engineer, New Grad (2026)
-- [ ] https://jobs.ashbyhq.com/harvey/163860df-ae88-437d-81da-305efa554dff | Harvey | Software Engineer, New Grad (2026)
+- [x] https://jobs.ashbyhq.com/harvey/163860df-ae88-437d-81da-305efa554dff | Harvey | Software Engineer, New Grad (2026) | EVALUATED scan-v126 4.1/5 — $11B legal AI FTE; LLM infra+eval match; report: 383
 - [ ] https://jobs.ashbyhq.com/quora/6d5ce948-148e-4b0b-8623-4dbc4517a743 | Quora | Software Engineer New Grad 2025-2026 - Data Infrastructure, Quora (Remote)
 - [ ] https://jobs.ashbyhq.com/quora/6df58d3e-855a-423e-99fd-a56ac8824b34 | Quora | AI Engineer New Grad 2025-2026 - Poe (Remote)
 - [ ] https://jobs.ashbyhq.com/quora/cb455a21-e66f-4e21-afdf-4511c6c442d1 | Quora | Machine Learning Engineer New Grad 2025-2026 - Ads, Quora (Remote)
@@ -1473,7 +1473,7 @@
 - [ ] https://job-boards.greenhouse.io/blackduck/jobs/4520810008 | Black Duck Software | DevOps Engineer Intern
 - [ ] https://job-boards.greenhouse.io/blackduck/jobs/4935808008 | Black Duck Software | Software Engineering Intern (DevOps)
 - [ ] https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002 | Aquatic Capital Management | Software Engineer, Intern (Summer 2026)
-- [ ] https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8062751002 | Marshall Wace | Technology Intern - New York - Summer 2026
+- [x] https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8062751002 | Marshall Wace | Technology Intern - New York - Summer 2026 | EVALUATED scan-v126 4.0/5 — $2,800-3,000/wk; quant trading differentiator; report: 385
 - [ ] https://job-boards.greenhouse.io/gcmgrosvenor/jobs/7149612003 | GCM Grosvenor | Technology Business Analyst Summer Intern
 - [ ] https://jobs.ashbyhq.com/walrusfi/99c93c0e-ed9a-4e41-862a-0cdbe71d7d54 | Walrus | Full Stack Developer Intern
 - [ ] https://jobs.ashbyhq.com/Ridealso/46fc8eaf-a868-4593-897f-39f85ca35269 | ALSO | Software Engineering Intern, Backend - Summer 2026

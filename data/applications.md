@@ -2,6 +2,10 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 382 | 2026-04-19 | Replit | Software Engineer, New Grad (Summer 2026) | 4.5/5 | Evaluada | ❌ | [382](reports/382-replit-swe-newgrad-2026-04-19.md) | AI coding platform; Finch multi-model pipeline = Replit Agent analog; $120-140K + equity; Foster City CA hybrid; verify 2026 grad window; different from SWE Intern #70 |
+| 383 | 2026-04-19 | Harvey AI | Software Engineer, New Grad (2026) | 4.1/5 | Evaluada | ❌ | [383](reports/383-harvey-swe-newgrad-2026-04-19.md) | $11B legal AI FTE new grad; LLM routing+eval pipeline = Finch architecture match; SF in-person; $150-200K estimated; different from SWE Intern #122 |
+| 384 | 2026-04-19 | Figma | Software Engineer Intern (2026) | 4.0/5 | Evaluada | ❌ | [384](reports/384-figma-swe-intern-2026-04-19.md) | $60/hr + housing; SF/NYC; Security track = HMAC/TLS/OAuth match; apply targeting Security engineering team |
+| 385 | 2026-04-19 | Marshall Wace | Technology Intern (Summer 2026) | 4.0/5 | Evaluada | ❌ | [385](reports/385-marshall-wace-tech-intern-2026-04-19.md) | $2,800-3,000/wk top comp; NYC 10 weeks; quant trading system (Bloomberg/Alpaca) = rare differentiator; verify listing still open |
 | 380 | 2026-04-19 | SubImage | Full Stack Software Engineer Intern | 4.1/5 | Evaluada | ❌ | [380](reports/380-subimage-fullstack-swe-intern-2026-04-19.md) | YC W25 cloud security; AI agents + graph DB + cybersec minor = dual archetype match; SF in-person $6K/mo; verify grad window |
 | 381 | 2026-04-19 | Robinhood | ML Engineer Intern, Agentic ML | 4.0/5 | Evaluada | ❌ | [381](reports/381-robinhood-agentic-ml-intern-2026-04-19.md) | ⚠️ verify grad window (req Winter 2026/Spring 2027); $48/hr Menlo Park; multi-agent HITL eval = exact match; agent tooling platform at fintech scale |
 | 379 | 2026-04-18 | Northspyre | AI Engineer Intern | 4.1/5 | Evaluada | ❌ | [379](reports/379-northspyre-ai-engineer-intern-2026-04-18.md) | Summer 2026; Atlanta GA; $10K/mo+$5K housing; agentic AI pipelines+multi-agent; Finch+TidalHack exact match |
