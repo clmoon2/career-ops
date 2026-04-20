@@ -2,6 +2,21 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-20 SCAN v128 (Autonomous Agent — new-angle sweep v128: Priority 1 Anthropic Fellows CONFIRMED OPEN deadline April 26 (6 days); Priority 2 Fall 2026 co-op search (SpaceX/Klaviyo/Notion all dup; Sierra Agent Dev Fall conflicts TAMU schedule); Priority 3 New companies (CrowdStrike all dup v8/v9; Palo Alto Networks empty v122; SentinelOne no intern v122; MongoDB dup v9/v29; CACI clearance-required; Booz Allen past deadline; Guidehouse past deadline Jan 30); NEW DISCOVERY: Illumio SRE Intern (9bb7111e) NEW — $67-89/hr Sunnyvale CA 5d/wk; 12wks; AWS/K8s/Docker/Python/Go; zero trust security leader; Winter 2026/Spring 2027 grad req; report #386 4.0/5; Illumio Architecture Platform Intern (9bec4a38) NEW — ~3.7/5 backend platform; Sierra Agent Dev Summer 2026 NEW — ~3.5/5 borderline comp unknown; KEY FINDINGS: 21 new history entries; 3 pipeline additions (1 ≥4.0, 2 borderline); history 2,922 → 2,943 entries; Summer 2026 SATURATED (128 consecutive scans, zero qualifying ≥4.0/5 since v98 EXCEPT this scan v128 — Illumio SRE 4.0/5); URGENT: Anthropic Fellows DEADLINE APRIL 26 = 6 DAYS) === -->
+<!-- 3 new URLs found (1 scored ≥4.0: Illumio SRE 4.0/5). 3 pipeline additions. History: 2,922 → 2,943 entries. -->
+<!-- ⚡ URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026 (6 DAYS). APPLY IMMEDIATELY. -->
+<!-- ⚡ URGENT: Anthropic Fellows AI Safety #370 4.2/5 — DEADLINE APRIL 26, 2026 (6 DAYS). APPLY IMMEDIATELY. -->
+<!-- ⚡ URGENT: Anthropic Fellows ML Systems #372 4.1/5 — DEADLINE APRIL 26, 2026 (6 DAYS). APPLY IMMEDIATELY. -->
+
+### Pipeline Pending (score 4.0/5) — scan-v128 — Zero Trust Security Leader / DevOps+SRE Archetype
+- [ ] https://jobs.ashbyhq.com/illumio/9bb7111e-4749-4135-b43f-6984ab250417 | Illumio | Engineering Intern, SRE (Summer 2026) | 4.0/5 | Sunnyvale CA on-site 5d/wk; $67-89/hr (ZipRecruiter) or $45/hr (Levels.fyi baseline); 12 weeks May 26 or Jun 22 2026; Python/Go/AWS/K8s/Docker/Terraform; Zero Trust Segmentation leader ($225M Series F); carlosOS+Finch CI/CD = SRE proof point; Winter 2026/Spring 2027 grad req; report #386; APPLY BY END OF APRIL
+
+### Pipeline Pending (score est. ~3.7/5) — scan-v128 — Illumio backend platform (same company as above)
+- [ ] https://jobs.ashbyhq.com/illumio/9bec4a38-8c85-4eac-ad7e-1c80d301873f | Illumio | Engineering Intern, Architecture Platform (Summer 2026) | ~3.7/5 | Sunnyvale CA on-site 5d/wk; comp TBD; 12 weeks May 26 or Jun 22; Java/Go/Python/REST/distributed systems; less security-specific than SRE role; apply only if SRE accepted — same company; verify comp before applying
+
+### Pipeline Pending (score est. ~3.5/5) — scan-v128 — Sierra AI agent dev borderline
+- [ ] https://jobs.ashbyhq.com/Sierra/8bb2509d-9215-4cb5-8cf1-2bf0dbade6d8 | Sierra | Intern, Agent Development (Summer 2026) | ~3.5/5 | SF/NYC on-site; comp not disclosed (high risk); 12 weeks; LLM agent development; graduating Dec 2026-Jun 2027 req; strong archetype match but comp unknown — verify before applying
+
 <!-- === NEW 2026-04-19 SCAN v127 (Autonomous Agent — Wellfound discovery sweep v127: Greenhouse APIs (503 errors throughout, WebSearch fallback used); Ashby broad (all dup v7-v126); Lever broad (all dup v7-v126); SpeedyApply AI (Nielsen/Okta AI Content/Trumid all dup v103-v126; Tatari SWE NEW — 3.0/5 below threshold); SimplifyJobs (Fortive dup; Earnin $30/hr below floor; Cadence/IXL/Verkada iOS/State Street non-target; Tatari SWE NEW); HN Who is Hiring April 2026 (clearance/senior FTE only; 0 qualifying); Wellfound broad (NEW DISCOVERY: Creatify AI SWE Intern $40-60/hr Mountain View ~3.8/5 borderline added to pipeline; Tatari SWE $35-45/hr ad tech ~3.0/5 below threshold; ScriptChain Health FastAPI/Angular healthcare ~3.2/5 below threshold); KEY FINDINGS: 13 new history entries — Creatify AI added to pipeline (~3.8/5 borderline); 2 new companies below threshold (Tatari + ScriptChain); history 2,909 → 2,922 entries; Summer 2026 SATURATED (127 consecutive scans, zero qualifying ≥4.0/5 since v98); URGENT: Anthropic Fellows DEADLINE APRIL 26 = 7 DAYS) === -->
 <!-- 1 pipeline addition (Creatify AI ~3.8/5 borderline). 13 new history entries. History: 2,922 entries. Summer 2026 SATURATED (127 scans). -->
 <!-- ⚡ URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026 (7 DAYS). APPLY IMMEDIATELY. -->
