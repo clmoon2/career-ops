@@ -1,7 +1,7 @@
-# Portal Scan Summary — 2026-04-20 (v132)
+# Portal Scan Summary — 2026-04-20 (v133)
 
 **Date:** 2026-04-20  
-**Scan Version:** v132  
+**Scan Version:** v133  
 **Agent:** Autonomous Agent (career-ops scan mode)
 
 ---
@@ -10,66 +10,59 @@
 
 | Metric | Count |
 |--------|-------|
-| Portals / sources scanned | 20+ |
-| Companies checked (Greenhouse API) | 8 |
-| WebSearch query batches | 6 |
-| Tracker repos checked (SimplifyJobs, SpeedyApply AI/SWE) | 3 |
-| Total new URLs checked | ~60 |
-| Passed title filter | 0 |
-| Duplicates (already in history) | 60+ |
-| New listings added to pipeline | 0 |
-| Reports filed | 0 |
-| History entries added | 14 |
-| History total | 2,990 entries |
+| Sources checked | 22 |
+| Total URLs/listings seen | ~45 |
+| Passed title filter | 12 |
+| Duplicates (already in history) | 9 |
+| Below comp/score threshold | 2 |
+| **New qualifying additions** | **1** |
+| Reports written (≥ 4.0) | 1 |
+| History entries added | 10 |
+| History total | 3,001 entries |
 
 ---
 
-## Scan Coverage (v132)
+## Top Matches (Score ≥ 4.0) — v133
 
-### Greenhouse API Scans
-| Company | Result |
-|---------|--------|
-| Anthropic | 5 Fellows tracks — all dup v10-v112. No new intern. |
-| Airtable | New Grad 2026 (8409376002) no longer visible — may be closed/filled. 0 new qualifying. |
-| Vercel | 81 roles — FDE v0/Agent SWE = FTE senior, confirmed dup. No intern. |
-| Hume AI | 8 senior FTE roles. No intern. |
-| Glean | University Grad + all SWE/ML/Security roles — all dup v7. No new qualifying. |
-| Arize AI | AI Application Engineer = Buenos Aires FTE (dup v61). No intern program. |
-| Temporal | 0 jobs (empty board, dup v130). |
-| RunPod | 19 roles — Security/Full-Stack SWE confirmed dup v55. No new intern. |
+### #387 — Accenture | Claude/Anthropic Tech Arch Analyst (Entry Level)
+- **Score:** 4.0/5
+- **Type:** Full-time new grad (FY2026 cohort; start by Aug 2026)
+- **Locations:** Houston TX, Irving TX, Chicago, Boston, SF, Arlington VA, Philadelphia, Atlanta, Charlotte, Culver City CA
+- **Comp:** ~$75–85K base + bonus → $80–100K total (TX)
+- **Deadline:** June 1, 2026
+- **URL:** https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/IL---Chicago/Entry-Level-Technology-Development-Program---Claude-Anthropic-Tech-Arch-Analyst---NAELFY26_R00326038
+- **Report:** [#387](reports/387-accenture-claude-anthropic-tech-arch-2026-04-20.md)
+- **Why this matters:** Accenture Anthropic Business Group role explicitly requiring Claude production experience and prompt engineering. Carlos built a production system using Claude Sonnet 4.6 in the exact way this role describes ($0.003/application, 2-pass enrichment, 26 archetypes). Consulting + AI archetype = primary target. Houston/Irving TX = no relocation. Verify graduation date before applying.
 
-### WebSearch / Broad Scans
+---
+
+## Below Threshold — v133
+
+| Company | Role | Score | Reason |
+|---------|------|-------|--------|
+| TikTok | SWE Project Intern (Recommendation Infrastructure) — San Jose, $45/hr | 2.5/5 | C/C++/Java/Golang primary — Carlos is Python/TypeScript stack |
+| TransMarket Group | Junior Software Engineer — Chicago, onsite | 3.0/5 | C++ quant trading; onsite Chicago only; non-target domain |
+
+---
+
+## Scan Coverage — v133
+
 | Source | Result |
 |--------|--------|
-| Ashby broad | Notion/Replit/Cohere/Farsight/Fizz/Delinea/Crusoe/OpenAI/Giga/Illumio/Sierra — all dup v7-v131 |
-| Greenhouse broad | Cloudflare/Together AI/Glean/Obsidian/Affirm/Sigma/Scale AI/Aquatic Capital/Censys — all dup |
-| Lever broad | Palantir (8 roles)/Nominal/Voleon/Shield AI/Symmetry/Artera/Hermeus/The Athletic/Versana — all dup |
-| SpeedyApply AI | Meta/Nielsen/Okta/Trumid — all dup v103-v131 |
-| SpeedyApply SWE | Kognitos/Ripple/Zoox/CACI/ChargePoint — all dup or non-target |
-| SimplifyJobs | April 17-20 entries: Applied Materials/Cisco/Tencent UK/Baxter — non-target or dup |
-
----
-
-## Top Matches (Score >= 4.0)
-
-**None found in this scan.** Summer 2026 market is fully saturated.
-
----
-
-## Active Pipeline (pending from prior scans)
-
-| # | Company | Role | Score | Notes |
-|---|---------|------|-------|-------|
-| 1 | Illumio | Engineering Intern, SRE (Summer 2026) | 4.0/5 | Sunnyvale CA on-site 5d/wk; $67-89/hr; 12wks; Python/Go/AWS/K8s/Docker; Zero Trust leader; report #386. APPLY BY END OF APRIL. |
-| 2 | Creatify AI | Software Engineer Intern 2026 | ~3.8/5 | Mountain View CA on-site; $40-60/hr; React+Python/Django+Docker/AWS; borderline — apply after higher-priority roles. |
-| 3 | Illumio | Engineering Intern, Architecture Platform (Summer 2026) | ~3.7/5 | Same dates/location as SRE role; Java/Go/Python; less security-specific. Apply only if SRE accepted. |
-| 4 | Sierra | Intern, Agent Development (Summer 2026) | ~3.5/5 | SF/NYC on-site; comp unknown (high risk); verify comp before applying. |
+| Greenhouse APIs (8 companies) | 503 errors this run |
+| SimplifyJobs Summer2026-Internships | 0 new; TikTok infra (new URL, skipped_score 2.5) |
+| SimplifyJobs New-Grad-Positions | **1 new** (Accenture Claude/Anthropic analyst) |
+| speedyapply 2026-SWE-College-Jobs | 0 new; BlackSky/Kognitos/Ripple/Zoox all dup |
+| speedyapply 2026-AI-College-Jobs | 0 new; Meta/Nielsen/Okta/Trumid all dup |
+| Ashby broad (site:jobs.ashbyhq.com) | 0 new; all dup v7-v132 |
+| Greenhouse broad (site:job-boards.greenhouse.io) | 0 new + PAN RippleMatch 8231614002 = skipped_dup |
+| Lever broad (site:jobs.lever.co) | 0 new; all dup v7-v132 |
+| Security intern targeted searches | 0 new |
+| New grad 2026 targeted searches | 1 new (Accenture) |
 
 ---
 
 ## URGENT: Anthropic Fellows — DEADLINE APRIL 26, 2026 (6 DAYS)
-
-Three pre-evaluated Anthropic Fellows roles with deadlines in **6 days**:
 
 | # | Role | Score | URL |
 |---|------|-------|-----|
@@ -77,23 +70,41 @@ Three pre-evaluated Anthropic Fellows roles with deadlines in **6 days**:
 | #370 | Anthropic Fellows — AI Safety | 4.2/5 | https://job-boards.greenhouse.io/anthropic/jobs/5183044008 |
 | #372 | Anthropic Fellows — ML Systems & Performance | 4.1/5 | https://job-boards.greenhouse.io/anthropic/jobs/5183051008 |
 
-**These are the highest-scoring open opportunities in the pipeline. Apply to AI Security immediately.**
+**Apply to AI Security (#246, 4.7/5) immediately — 6 days remaining.**
 
 ---
 
-## Market Status
+## Active Pipeline (from prior scans, pending action)
 
-**Summer 2026 is FULLY SATURATED.** This is scan v132 — 132 consecutive scans since April 5, 2026 with zero new qualifying listings (except Illumio SRE at v128 on April 20).
-
-The Summer 2026 intern market closed in late February/early March 2026 for most high-quality roles. Remaining pipeline items (Illumio, Creatify, Sierra) are the last viable Summer 2026 opportunities.
-
-**Recommended next actions:**
-
-1. NOW (6 days): Apply to Anthropic Fellows AI Security (#246, 4.7/5) — deadline April 26.
-2. This week: Apply to Illumio SRE (#386, 4.0/5) — apply by end of April.
-3. Optional: Evaluate Creatify AI (~3.8/5) after Anthropic + Illumio.
-4. Shift focus: Begin scanning for Fall 2026 co-ops and New Grad 2026 roles opening at companies. Fall co-op season (August-December 2026) starts posting in April-May.
+| # | Company | Role | Score | Deadline |
+|---|---------|------|-------|----------|
+| #246 | Anthropic | Fellows — AI Security | 4.7/5 | April 26 🔴 URGENT |
+| #387 | Accenture | Claude/Anthropic Tech Arch Analyst | 4.0/5 | June 1 |
+| #386 | Illumio | Engineering Intern, SRE | 4.0/5 | End of April |
+| #382 | Replit | Software Engineer - New Grad | 4.5/5 | Rolling |
+| #380 | C3 AI Ascend | Software Engineer Intern | 4.0/5 | Rolling |
 
 ---
 
-*Generated by career-ops autonomous scan agent v132*
+## Market Assessment
+
+**Summer 2026 internships fully saturated** — 3,001 history entries across 133 scans since April 5. No new qualifying intern roles found. New grad segment remains active (Accenture, Replit open).
+
+**Scan cadence recommendation:** Reduce to every 3–5 days. Shift focus to:
+1. New grad 2026 roles (SimplifyJobs/New-Grad-Positions active)
+2. Fall 2026 co-ops (Verkada/SpaceX/Cloudflare/Mercury in pipeline; new postings expected May)
+3. AI companies with rolling programs (Perplexity US roles, Cursor first intern program)
+
+---
+
+## Recommended Next Actions
+
+1. **URGENT (6 days):** Apply to Anthropic Fellows AI Security (#246, 4.7/5) — deadline April 26
+2. **This week:** Apply to Illumio SRE (#386, 4.0/5) — end of April deadline
+3. **New finding:** Apply to Accenture Claude/Anthropic Analyst (#387, 4.0/5) — confirm graduation date first; deadline June 1
+4. **Already highest-scored:** Replit New Grad (#382, 4.5/5) — apply if not done
+5. Run `/career-ops pipeline` to process pending evaluations
+
+---
+
+*Generated by career-ops autonomous scan agent v133 — 2026-04-20*

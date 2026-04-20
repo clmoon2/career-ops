@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 387 | 2026-04-20 | Accenture | Claude/Anthropic Tech Arch Analyst (Entry Level) | 4.0/5 | Evaluada | ❌ | [387](reports/387-accenture-claude-anthropic-tech-arch-2026-04-20.md) | Claude+Anthropic exact match; FY2026 cohort; consulting+AI; Houston/Irving TX; verify grad date |
 | 386 | 2026-04-20 | Illumio | Engineering Intern, SRE (Summer 2026) | 4.0/5 | Evaluada | ❌ | [386](reports/386-illumio-engineering-intern-sre-2026-04-20.md) | Zero trust security leader; AWS/Python/K8s/Docker; $67-89/hr Sunnyvale CA on-site; 12wks May 26 or Jun 22; carlosOS+Finch CI/CD = SRE proof point match; apply immediately |
 | 382 | 2026-04-19 | Replit | Software Engineer, New Grad (Summer 2026) | 4.5/5 | Evaluada | ❌ | [382](reports/382-replit-swe-newgrad-2026-04-19.md) | AI coding platform; Finch multi-model pipeline = Replit Agent analog; $120-140K + equity; Foster City CA hybrid; verify 2026 grad window; different from SWE Intern #70 |
 | 383 | 2026-04-19 | Harvey AI | Software Engineer, New Grad (2026) | 4.1/5 | Evaluada | ❌ | [383](reports/383-harvey-swe-newgrad-2026-04-19.md) | $11B legal AI FTE new grad; LLM routing+eval pipeline = Finch architecture match; SF in-person; $150-200K estimated; different from SWE Intern #122 |

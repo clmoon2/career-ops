@@ -2109,3 +2109,18 @@ None — no new listings in 3.5–3.9 range discovered.
 - [x] https://job-boards.greenhouse.io/c3ascend/jobs/8106512002 | C3 AI | Software Engineer Intern (Summer 2026) — Redwood City CA on-site; $6-8K/mo; Ascend Program (Class of 2026); C3 Agentic AI Platform + C3 Generative AI; Platform/Solutions Engineering tracks; **4.0/5** → report #380 | Verify listing still active; apply within 72h
 
 <!-- === END 2026-04-20 SCAN v108 === -->
+
+<!-- === BEGIN 2026-04-20 SCAN v133 (autonomous agent) === -->
+
+**Scan v133 — 2026-04-20** | Targeted scan for truly new postings; Greenhouse APIs returned 503; focused on GitHub new-grad repos and WebSearch. Primary find: Accenture Claude/Anthropic Tech Arch Analyst — exceptional Claude+consulting match.
+
+> Note: All Summer 2026 intern sources (SimplifyJobs, speedyapply SWE/AI, Ashby broad, Greenhouse broad, Lever broad, YC, intern-list, jobright, zapplyjobs) confirmed 0 new qualifying additions — fully saturated at 2,990+ history entries. New grad segment yielded 1 qualified role.
+
+### ✅ Evaluated (score ≥ 4.0) — scan-v133
+- [x] https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/IL---Chicago/Entry-Level-Technology-Development-Program---Claude-Anthropic-Tech-Arch-Analyst---NAELFY26_R00326038 | Accenture | Entry Level Technology Development Program - Claude/Anthropic Tech Arch Analyst — 10 US cities incl Houston/Irving TX; FY2026 cohort; Accenture Anthropic Business Group; Python+Claude+LangChain required; **4.0/5** → report #387 | Confirm graduation date; deadline June 1 2026; apply if May 2026 grad
+
+### ⛔ Below threshold / skipped — scan-v133
+- [-] https://lifeattiktok.com/search/7629500062003218741 | TikTok | SWE Project Intern (Recommendation Infrastructure) — San Jose CA; $45/hr; C/C++/Java/Golang primary (not Python); skipped_score 2.5/5
+- [-] https://job-boards.greenhouse.io/transmarketgroup/jobs/5111912007 | TransMarket Group | Junior Software Engineer — Chicago IL; C++/Python quant trading; onsite-only; skipped_score 3.0/5
+
+<!-- === END 2026-04-20 SCAN v133 === -->
