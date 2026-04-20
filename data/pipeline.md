@@ -2186,3 +2186,28 @@ None — no new qualifying listings discovered.
 **WebSearch:** Airbnb (dup v8, deadline April 13 passed); Brex (dup v10/v18, no active intern); Marshall Wace (new company — London-only hedge fund — skip); Extern.com (all dup v7-v117).
 
 <!-- === END 2026-04-20 SCAN v135 === -->
+
+<!-- === BEGIN 2026-04-20 SCAN v137 (autonomous agent) === -->
+
+**Scan v137 — 2026-04-20** | Comprehensive autonomous scan: Greenhouse/Ashby/Lever broad + YC boards + SimplifyJobs + SpeedyApply + emerging AI companies (Perplexity/xAI/Anyscale/Cerebras) + consulting firms + Texas companies + fintech + new sectors (construction tech/edtech/healthtech) + 25 targeted WebSearch queries | Net new qualifying: **0**
+
+> Market status: **Fully saturated — internship season effectively closed.** 137 scans, 3,000+ history entries. Only genuinely new company found: Spacial AI (construction/MEP engineering automation — domain mismatch ~2.5/5). All standard portals, tracked companies, aggregators, and niche sectors exhausted.
+
+> ✅ **System note:** `modes/_profile.md` was missing — restored from template.
+
+### ✅ Evaluated (score ≥ 4.0) — scan-v137
+None — no new qualifying listings discovered.
+
+### 🆕 New URLs discovered — scan-v137
+- Spacial AI - Software Engineering Intern (Summer 2026) → skipped (domain mismatch, ~2.5/5)
+
+### Companies Confirmed No New Intern/New-Grad Roles — scan-v137
+**Greenhouse broad:** Cloudflare/Together AI/Glean/Roadie/Obsidian/Affirm/PDT Partners/Sigma — all confirmed dup v7-v136.
+**Ashby broad:** Notion/Giga/Replit/Decagon/Cohere/Farsight/Zip/Ramp/Vantage/Sentry/Whatnot/Benchling/Harvey/Kikoff/Pylon — all confirmed dup v7-v136.
+**Lever broad:** Voleon/Cognite/Actian/Nominal/FieldAI/WeRide/Match Group/Zoox — all confirmed dup.
+**YC internships:** Swif.ai/Reacher/Bloom/Candle/Circleback/14.ai/CrowdVolt/Dex/Browser Use/SubImage — all confirmed dup.
+**SimplifyJobs v137:** All entries dup or non-target. SpeedyApply v137: Salesforce AI Research PhD-req, MIT Lincoln Lab clearance — non-qualifying.
+**Specific companies:** Palo Alto Networks (dup RippleMatch), Okta (503/dup), GameChanger (dup v20), Snyk (no US intern), TD SYNNEX (filled), The Trade Desk (closed March 31).
+**New sectors scanned:** Defense tech (Anduril/Shield AI — clearance/domain issues), Texas companies (Tyler Tech/CITGO — below threshold), Healthcare/edtech/construction (Spacial AI only match — domain mismatch).
+
+<!-- === END 2026-04-20 SCAN v137 === -->

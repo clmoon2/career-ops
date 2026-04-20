@@ -1,114 +1,104 @@
-# Portal Scan — 2026-04-20 (v136)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Portal Scan Summary — 2026-04-20 (v137)
 
-**Scan:** v136 (Autonomous Agent)
-**Date:** 2026-04-20
-**Status:** Summer 2026 market SATURATED — 136 consecutive scans
+**Date:** 2026-04-20  
+**Scan version:** v137  
+**Agent:** Autonomous scan agent
 
-## Summary
+---
+
+## Results at a Glance
 
 | Metric | Count |
 |--------|-------|
-| Sources / companies checked | 30+ |
-| New URLs investigated | 18 |
-| New listings ≥ 4.0/5 | 0 |
-| Borderline additions to pipeline (~3.8/5) | 1 |
-| Pipeline corrections (misidentified) | 1 |
-| History entries added | 18 |
-| History total | 3,052 |
-| Reports filed | 0 |
+| Search queries executed | 25 |
+| Portals / sources scanned | 20+ |
+| Total listings reviewed | ~80 |
+| Filtered (already in history) | ~79 |
+| New URLs discovered | 1 |
+| New listings passing title filter | 0 |
+| New listings scoring ≥ 4.0 | **0** |
+| Reports generated | **0** |
+| Added to pipeline.md | **0** |
+
+---
+
+## Market Status
+
+> **Fully saturated. Summer 2026 internship season effectively closed.**
+
+After 137 scans and 3,000+ history entries, no new qualifying tech internship or new-grad roles were found. The only genuinely new company encountered (Spacial AI — construction/MEP engineering automation) scored ~2.5/5 due to domain mismatch.
+
+---
 
 ## Sources Scanned
 
-**GitHub Aggregators:**
-- SimplifyJobs/Summer2026-Internships (April 20 additions)
-- SimplifyJobs/New-Grad-Positions
-- speedyapply/2026-AI-College-Jobs
+| Source | Method | Result |
+|--------|--------|--------|
+| Greenhouse broad | WebSearch | All dup v7-v136 |
+| Ashby broad | WebSearch | All dup v7-v136 |
+| Lever broad | WebSearch | All dup v7-v136 |
+| YC internships / workatastartup | WebSearch | All dup v30-v136 |
+| SimplifyJobs Summer 2026 | WebSearch | All dup |
+| SpeedyApply AI/SWE 2026 | WebSearch | All dup or non-qualifying |
+| Emerging AI companies (Perplexity/xAI/Cerebras) | WebSearch | All dup or no intern program |
+| Consulting firms (EY/PwC/McKinsey/BCG/Booz Allen) | WebSearch | Season not open yet for 2026-27; existing programs dup |
+| Defense tech (Anduril/Shield AI) | WebSearch | Clearance/domain issues |
+| Texas companies (Tyler Tech/CITGO/TD SYNNEX) | WebSearch | All closed, below threshold, or clearance |
+| Fintech (Plaid/Ramp/Brex/Mercury) | WebSearch | All dup or no open summer roles |
+| Palo Alto Networks | WebSearch | Dup via RippleMatch v29-v39 |
+| ServiceNow | WebSearch | Dup v7-v43 |
+| The Trade Desk | WebSearch | Closed March 31 2026 |
+| Snyk | WebSearch | No US intern roles |
+| GameChanger | WebSearch | Dup v20 |
+| Spacial AI | WebSearch | NEW — domain mismatch ~2.5/5 skipped |
 
-**New Companies Investigated (first scan):**
-- Capital One (Workday) — Cybersecurity Internship
-- Tesla — SWE Core Infrastructure AI intern
-- Tesla — SWE AI Inference intern
-- JPMorgan Chase — SWE Program intern
-- Goldman Sachs — Summer Analyst Engineering
-- Samsung Research America — AI/6G research interns (Plano TX)
-- Pure Storage — SWE intern
-- Private Block — SWE intern (closed)
-- CoVar — ML intern (no intern, FTE only)
-- Worldly — Security Operations intern
-- ALSO (Ridealso) — Backend intern
-- Superhuman — SWE intern (unverified/503)
-- OpenSesame — SWE intern (closed)
-- Wiz — careers (no intern listings)
-- SentinelOne — careers (no intern listings)
-- Google — SWE intern (listing removed)
+---
 
-**Existing boards re-checked:**
-- Greenhouse broad (20+ companies) — all dup
-- Ashby broad (15+ companies) — all dup
-- Lever broad (10+ companies) — all dup
+## Top Matches (score ≥ 4.0) — This Scan
 
-## New Listings Found (below threshold)
+**None found.**
 
-| Company | Role | Score | Status | Note |
-|---------|------|-------|--------|------|
-| Capital One | Cyber Security Internship (Plano TX) | ~3.8/5 | **Added to pipeline** | ⚠️ verify still open |
-| JPMorgan Chase | SWE Program Intern | ~3.7/5 | skipped_score | Bank domain; $60/hr Palo Alto |
-| Worldly | Security Operations Intern | ~3.0/5 | skipped_score | Supply chain sustainability domain |
-| ALSO (Ridealso) | Backend Intern | ~3.2/5 | skipped_score | EV/transport domain |
-| Tesla | SWE Core Infra AI | ~3.0/5 | skipped_score | C++ heavy, AV domain |
-| Tesla | SWE AI Inference | ~3.0/5 | skipped_score | Low-level inference compiler |
-| Goldman Sachs | Summer Analyst Engineering | ~3.5/5 | skipped_score | GPA 3.5+ req, bank domain |
-| Samsung SRA | AI Algorithm Design for 6G | ~2.5/5 | skipped_score | Research-heavy, 6G domain |
-| Pure Storage | SWE Intern | ~2.8/5 | skipped_score | C++ primary, storage domain |
+---
 
-## Pipeline Corrections
+## Current Priority Queue (from prior evaluations)
 
-**Fireworks AI** (added in v135) — **DISQUALIFIED**
-- v135 listed as "Software Engineer, Infrastructure (Early Career)" — incorrect
-- Actual role: "Member of Technical Staff, Performance Optimization"
-- Requires: 5+ years GPU/HPC experience, CUDA/ROCm/PyTorch, prefers PhD
-- Comp: $175–220K (senior FTE, not intern/new grad)
-- Removed from pipeline
+The following high-priority items from previous scans are still awaiting action:
 
-## Top Matches (score ≥ 4.0) — 0 new this scan
+| Priority | Company | Role | Score | Deadline/Notes |
+|----------|---------|------|-------|----------------|
+| ⚠️ URGENT | Anthropic Fellows | AI Security Fellow | 4.7/5 | **DEADLINE APRIL 26** — apply immediately |
+| ⚠️ URGENT | Anthropic Fellows | AI Safety (July 2026) | 4.2/5 | **DEADLINE APRIL 26** — apply immediately |
+| 🔴 HIGH | Cloudflare | Security Engineer Intern | 4.7/5 | Austin TX in-office — apply ASAP |
+| 🔴 HIGH | Mechanize | SWE Intern | 4.6/5 | $100/hr SF — apply ASAP |
+| 🔴 HIGH | Replit | SWE New Grad | 4.5/5 | AI coding platform — apply ASAP |
+| 🔴 HIGH | Atlassian | Security Engineer Intern | 4.5/5 | Seattle 12wk — apply ASAP |
+| 🔴 HIGH | OpenAI | SWE Intern (Summer 2026) | 4.5/5 | SF/Seattle in-person |
+| 🔴 HIGH | Together AI | SWE Intern | 4.5/5 | $58/hr SF on-site |
+| 🔴 HIGH | Ramp | FDE Intern | 4.5/5 | $11K/mo + housing NYC/SF |
+| 🔴 HIGH | Glean | SWE Intern | 4.5/5 | $57-69/hr Palo Alto/SF |
+| 🔴 HIGH | Together AI | Security Intern | 4.5/5 | $58/hr SF on-site |
+| 🟡 GOOD | Browser Use | SWE Intern | 4.4/5 | YC W25; $6K-16K/mo SF |
+| 🟡 GOOD | Decagon | Agent SWE Intern | 4.4/5 | SF May-Sep 2026 |
+| 🟡 GOOD | 1Password | Developer Intern (Extension) | 4.3/5 | Remote US/CA; Chrome MV3 |
+| 🟡 GOOD | ByteDance | AI Security Intern | 4.3/5 | $45-60/hr San Jose CA |
+| 🟡 GOOD | Sierra | Intern, Agent Dev | 4.3/5 | SF on-site |
 
-No new listings cleared the 4.0/5 threshold. Market remains saturated at scan v136.
+---
 
-## Borderline Pipeline Addition
+## System Note
 
-**Capital One — Cyber Security Internship (Summer 2026)**
-- **URL:** https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cyber-Security-Internship-Program---Summer-2026_R218613-1
-- **Score:** ~3.8/5
-- **Location:** Plano TX ($123K ann, ~$59/hr) or McLean VA ($135K ann, ~$65/hr)
-- **Duration:** 10 weeks, June–August 2026
-- **Role:** Cyber data analysis + automations + network defense + vulnerability assessment
-- **Why notable:** Texas location (Plano = DFW); cybersec minor + Python automation = strong match; Capital One is tech-forward; grad deadline Aug 2027 qualifies
-- **Why borderline:** AnitaB.org shows "no longer accepting"; Workday portal 503 (unverified); SOC/network vs Carlos's AppSec background; bank domain
-- **Action:** Verify via Workday direct, apply only after all ≥4.0 roles completed
+`modes/_profile.md` was missing at scan start — restored from `modes/_profile.template.md`. This is the user's customization file. Review and personalize it at your earliest convenience.
 
-## Active Urgents (pre-existing)
-
-| Role | Score | Deadline | Action |
-|------|-------|----------|--------|
-| Anthropic Fellows — AI Security (#246) | 4.7/5 | **APRIL 26 (6 days!)** | APPLY NOW |
-| Anthropic Fellows — AI Safety (#370) | 4.2/5 | **APRIL 26 (6 days!)** | APPLY NOW |
-| Anthropic Fellows — ML Systems (#372) | 4.1/5 | **APRIL 26 (6 days!)** | APPLY NOW |
-| ByteDance AI Security Intern (#388) | 4.3/5 | Rolling | Apply this week |
-| Cloudflare SWE Austin (#347) | 4.8/5 | Rolling | Apply this week |
-| Mechanize SWE Intern (#304) | 4.6/5 | Rolling | Apply this week |
-| 1Password Extension Excellence (#366) | 4.3/5 | Rolling | Apply this week |
+---
 
 ## Recommended Next Actions
 
-1. **URGENT — Anthropic Fellows deadline April 26 (6 days):** Apply to all 3 tracks immediately.
-2. **Apply to top-scored open roles** — Cloudflare Austin (4.8/5), Mechanize (4.6/5), ByteDance AI Security (4.3/5), 1Password Extension (4.3/5).
-3. **Verify Capital One Cybersecurity** — check Workday portal; apply only if confirmed open AND after higher-priority roles are submitted.
-4. **Verify Superhuman SWE Intern** — 503 error blocked evaluation; manual check at jobs.ashbyhq.com/Superhuman%20Platform%20Inc.
-5. **Shift focus from scanning to applying** — 390 evaluated roles, priority queue is clear.
+1. **APPLY IMMEDIATELY:** Anthropic Fellows AI Security + AI Safety — both deadline **April 26, 2026** (6 days away)
+2. **Apply this week:** Cloudflare Security Intern (#294, Austin TX), Mechanize SWE (#304), Atlassian Security Intern (#355), OpenAI SWE Intern (#353)
+3. **Review applications.md** — 390+ evaluations filed. Filter by `Evaluada` status and begin applying to all ≥ 4.0/5 roles.
+4. **Stop scanning** — market is fully saturated. Summer 2026 intern season is over for new tech postings. Focus energy on **applying** to the 50+ high-quality evaluated roles already in the pipeline.
+5. **Customize `modes/_profile.md`** — the template was just restored. Add your specific archetypes, proof points, and framing to improve future evaluations.
 
-## Market Assessment
+---
 
-Summer 2026 internship market is fully saturated at scan v136. The primary remaining opportunities are the pending pipeline items already identified. Focus should shift from discovery to **executing applications**.
-
-→ Next scan recommended in 5–7 days to catch any late-posting companies.
+*Generated by career-ops autonomous scan agent v137 | 2026-04-20*
