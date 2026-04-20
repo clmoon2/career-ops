@@ -1,93 +1,114 @@
-# Portal Scan — 2026-04-20 (scan-v135)
+# Portal Scan — 2026-04-20 (v136)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
+**Scan:** v136 (Autonomous Agent)
 **Date:** 2026-04-20
-**Scan version:** v135
-**Scan type:** Autonomous agent — fresh-angle sweep (new company discovery + pipeline backfill)
+**Status:** Summer 2026 market SATURATED — 136 consecutive scans
 
----
-
-## Execution Summary
+## Summary
 
 | Metric | Count |
 |--------|-------|
-| Portals/queries executed | 22+ |
-| Total listings reviewed | ~150 |
-| Filtered (title mismatch) | ~80 |
-| Duplicates (in history/pipeline) | ~67 |
-| New listings added to pipeline | 1 |
-| Pipeline items evaluated (≥4.0) | 3 |
-| Reports filed | 3 |
-| History entries: v134 total → v135 | 3,001 → 3,009 |
+| Sources / companies checked | 30+ |
+| New URLs investigated | 18 |
+| New listings ≥ 4.0/5 | 0 |
+| Borderline additions to pipeline (~3.8/5) | 1 |
+| Pipeline corrections (misidentified) | 1 |
+| History entries added | 18 |
+| History total | 3,052 |
+| Reports filed | 0 |
 
----
+## Sources Scanned
 
-## Portals Scanned
+**GitHub Aggregators:**
+- SimplifyJobs/Summer2026-Internships (April 20 additions)
+- SimplifyJobs/New-Grad-Positions
+- speedyapply/2026-AI-College-Jobs
 
-- ByteDance (joinbytedance.com) — AI Security, Security Assurance, Network Security, Cloud Security, Security Data, Edge Platform
-- Verkada (Greenhouse) — Security SWE, Backend SWE, Frontend SWE, Mobile (skipped), Embedded (skipped)
-- Rockstar Games (Greenhouse/rsgur) — Security Operations, Security Engineering Automation, Application Security
-- Fireworks AI (Greenhouse) — Infrastructure Early Career **[NEW COMPANY]**
-- Anthropic (Greenhouse API) — Fellows tracks (all confirmed dup)
-- Glean (Greenhouse API) — University Grad (dup)
-- Vercel (Greenhouse API) — 0 interns
-- Ashby broad — Notion/Sentry/OpenAI/Cohere/Giga/Farsight/1Password
-- Greenhouse broad — Cloudflare/Together AI/Figma/Robinhood/Datacor/CoVar/Sigma/C3 AI/Astranis
-- Lever broad — Belvedere Trading/Versana/Palantir/WeRide/Artera/NimbleRx
+**New Companies Investigated (first scan):**
+- Capital One (Workday) — Cybersecurity Internship
+- Tesla — SWE Core Infrastructure AI intern
+- Tesla — SWE AI Inference intern
+- JPMorgan Chase — SWE Program intern
+- Goldman Sachs — Summer Analyst Engineering
+- Samsung Research America — AI/6G research interns (Plano TX)
+- Pure Storage — SWE intern
+- Private Block — SWE intern (closed)
+- CoVar — ML intern (no intern, FTE only)
+- Worldly — Security Operations intern
+- ALSO (Ridealso) — Backend intern
+- Superhuman — SWE intern (unverified/503)
+- OpenSesame — SWE intern (closed)
+- Wiz — careers (no intern listings)
+- SentinelOne — careers (no intern listings)
+- Google — SWE intern (listing removed)
 
----
+**Existing boards re-checked:**
+- Greenhouse broad (20+ companies) — all dup
+- Ashby broad (15+ companies) — all dup
+- Lever broad (10+ companies) — all dup
 
-## Reports Filed (Score ≥ 4.0)
+## New Listings Found (below threshold)
 
-| # | Company | Role | Score | Notes |
-|---|---------|------|-------|-------|
-| [388](reports/388-bytedance-ai-security-intern-2026-04-20.md) | ByteDance | SWE Project Intern (AI Security) | **4.3/5** ⭐ | San Jose CA $45-60/hr; adversarial LLM red teaming = exact match; RE-EVAL (was ~2.5 due to wrong Singapore location) |
-| [389](reports/389-verkada-security-swe-newgrad-2026-04-20.md) | Verkada | Security SWE University Graduate 2026 | **4.1/5** | San Mateo CA on-site; $148-218K total comp; HMAC/TLS/OAuth/CORS prod impl; pipeline pending since v7 |
-| [390](reports/390-rockstar-security-engineering-automation-intern-2026-04-20.md) | Rockstar Games | Intern: Security Engineering Automation | **4.0/5** | NYC 10wks Jun-Aug; Python+security automation; ~$34/hr; cover letter required |
+| Company | Role | Score | Status | Note |
+|---------|------|-------|--------|------|
+| Capital One | Cyber Security Internship (Plano TX) | ~3.8/5 | **Added to pipeline** | ⚠️ verify still open |
+| JPMorgan Chase | SWE Program Intern | ~3.7/5 | skipped_score | Bank domain; $60/hr Palo Alto |
+| Worldly | Security Operations Intern | ~3.0/5 | skipped_score | Supply chain sustainability domain |
+| ALSO (Ridealso) | Backend Intern | ~3.2/5 | skipped_score | EV/transport domain |
+| Tesla | SWE Core Infra AI | ~3.0/5 | skipped_score | C++ heavy, AV domain |
+| Tesla | SWE AI Inference | ~3.0/5 | skipped_score | Low-level inference compiler |
+| Goldman Sachs | Summer Analyst Engineering | ~3.5/5 | skipped_score | GPA 3.5+ req, bank domain |
+| Samsung SRA | AI Algorithm Design for 6G | ~2.5/5 | skipped_score | Research-heavy, 6G domain |
+| Pure Storage | SWE Intern | ~2.8/5 | skipped_score | C++ primary, storage domain |
 
----
+## Pipeline Corrections
 
-## New Pipeline Addition
+**Fireworks AI** (added in v135) — **DISQUALIFIED**
+- v135 listed as "Software Engineer, Infrastructure (Early Career)" — incorrect
+- Actual role: "Member of Technical Staff, Performance Optimization"
+- Requires: 5+ years GPU/HPC experience, CUDA/ROCm/PyTorch, prefers PhD
+- Comp: $175–220K (senior FTE, not intern/new grad)
+- Removed from pipeline
 
-| URL | Company | Role | Score |
-|-----|---------|------|-------|
-| https://job-boards.greenhouse.io/fireworksai/jobs/4036755009 | Fireworks AI | SWE Infrastructure (Early Career) | ~3.8/5 |
+## Top Matches (score ≥ 4.0) — 0 new this scan
 
----
+No new listings cleared the 4.0/5 threshold. Market remains saturated at scan v136.
 
-## Key Findings
+## Borderline Pipeline Addition
 
-1. **ByteDance AI Security was misclassified** — Previous scans marked this as Singapore-based (hard location blocker → ~2.5/5). Confirmed location is **San Jose, CA** at $45-60/hr. This is now the highest new score this scan at 4.3/5.
+**Capital One — Cyber Security Internship (Summer 2026)**
+- **URL:** https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cyber-Security-Internship-Program---Summer-2026_R218613-1
+- **Score:** ~3.8/5
+- **Location:** Plano TX ($123K ann, ~$59/hr) or McLean VA ($135K ann, ~$65/hr)
+- **Duration:** 10 weeks, June–August 2026
+- **Role:** Cyber data analysis + automations + network defense + vulnerability assessment
+- **Why notable:** Texas location (Plano = DFW); cybersec minor + Python automation = strong match; Capital One is tech-forward; grad deadline Aug 2027 qualifies
+- **Why borderline:** AnitaB.org shows "no longer accepting"; Workday portal 503 (unverified); SOC/network vs Carlos's AppSec background; bank domain
+- **Action:** Verify via Workday direct, apply only after all ≥4.0 roles completed
 
-2. **Verkada Security SWE Graduate** — Has been pending in pipeline since scan v7 (2026-04-07). First formal evaluation filed. Strong security engineering match ($148-218K FTE new grad).
+## Active Urgents (pre-existing)
 
-3. **Rockstar Security Engineering Automation** — Was repeatedly skipped due to title filter not matching "Engineering Automation". Properly evaluated now at 4.0/5.
-
-4. **Fireworks AI genuinely new** — Series C $4B AI inference company backed by Benchmark/Sequoia. Infrastructure Early Career role not previously in scan history. Added to pipeline at ~3.8/5.
-
-5. **Summer 2026 market near saturation** — 134+ consecutive scans prior to this run. Most major portals and companies fully covered. Recommend focusing on application actions over further scanning.
-
----
-
-## ⚡ URGENT DEADLINES
-
-| Role | Deadline | Score |
-|------|----------|-------|
-| Anthropic Fellows — AI Security (#246) | **APRIL 26, 2026 (6 DAYS)** | 4.7/5 |
-| Anthropic Fellows — AI Safety (#370) | **APRIL 26, 2026 (6 DAYS)** | 4.2/5 |
-| Anthropic Fellows — ML Systems (#372) | **APRIL 26, 2026 (6 DAYS)** | 4.1/5 |
-
----
+| Role | Score | Deadline | Action |
+|------|-------|----------|--------|
+| Anthropic Fellows — AI Security (#246) | 4.7/5 | **APRIL 26 (6 days!)** | APPLY NOW |
+| Anthropic Fellows — AI Safety (#370) | 4.2/5 | **APRIL 26 (6 days!)** | APPLY NOW |
+| Anthropic Fellows — ML Systems (#372) | 4.1/5 | **APRIL 26 (6 days!)** | APPLY NOW |
+| ByteDance AI Security Intern (#388) | 4.3/5 | Rolling | Apply this week |
+| Cloudflare SWE Austin (#347) | 4.8/5 | Rolling | Apply this week |
+| Mechanize SWE Intern (#304) | 4.6/5 | Rolling | Apply this week |
+| 1Password Extension Excellence (#366) | 4.3/5 | Rolling | Apply this week |
 
 ## Recommended Next Actions
 
-1. **APPLY NOW — Anthropic Fellows** (3 tracks, deadline April 26)
-2. **Apply this week — ByteDance AI Security** (#388, 4.3/5 — adversarial LLM testing exact match; verify San Jose CA confirmed)
-3. **Apply this week — Verkada Security SWE** (#389, 4.1/5 — $148-218K new grad FTE)
-4. **Apply — Rockstar Security Engineering Automation** (#390, 4.0/5 — cover letter required)
-5. **Review Fireworks AI** (pipeline, ~3.8/5 — early career FTE at $175-190K)
+1. **URGENT — Anthropic Fellows deadline April 26 (6 days):** Apply to all 3 tracks immediately.
+2. **Apply to top-scored open roles** — Cloudflare Austin (4.8/5), Mechanize (4.6/5), ByteDance AI Security (4.3/5), 1Password Extension (4.3/5).
+3. **Verify Capital One Cybersecurity** — check Workday portal; apply only if confirmed open AND after higher-priority roles are submitted.
+4. **Verify Superhuman SWE Intern** — 503 error blocked evaluation; manual check at jobs.ashbyhq.com/Superhuman%20Platform%20Inc.
+5. **Shift focus from scanning to applying** — 390 evaluated roles, priority queue is clear.
 
----
+## Market Assessment
 
-*Generated by career-ops autonomous scan agent v135 on 2026-04-20*
+Summer 2026 internship market is fully saturated at scan v136. The primary remaining opportunities are the pending pipeline items already identified. Focus should shift from discovery to **executing applications**.
+
+→ Next scan recommended in 5–7 days to catch any late-posting companies.
