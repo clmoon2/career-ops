@@ -1,96 +1,99 @@
-# Scan Summary — v131 (2026-04-20)
+# Portal Scan Summary — 2026-04-20 (v132)
 
-**Agent:** Autonomous scanner  
-**Scan ID:** v131  
 **Date:** 2026-04-20  
-**Total scans to date:** 131  
-**Scan history entries:** 2,976 (was 2,967)
+**Scan Version:** v132  
+**Agent:** Autonomous Agent (career-ops scan mode)
 
 ---
 
-## ⚡ CRITICAL DEADLINE — ACT NOW
+## Results
 
-**Anthropic AI Fellows Program — Deadline: April 26, 2026 (6 DAYS)**
-
-| Track | Report | Score | Priority |
-|-------|--------|-------|----------|
-| AI Security | #246 | **4.7/5** | APPLY TODAY |
-| AI Safety | #370 | **4.2/5** | APPLY TODAY |
-| ML Systems | #372 | **4.1/5** | APPLY TODAY |
-
-Comp: **$3,850/week + $15,000/month compute grant**. All 3 tracks confirmed OPEN as of April 20. Apply at: https://job-boards.greenhouse.io/anthropic
-
----
-
-## Portals Scanned (v131)
-
-| Source | Method | New Qualifying |
-|--------|--------|---------------|
-| SimplifyJobs (GitHub) | Raw README 1d entries | 0 (ABC Fitness non-tech + Tencent UK non-US) |
-| SpeedyApply AI (GitHub) | Raw README 0d/1d entries | 0 (all dup v103-v130) |
-| Greenhouse (broad WebSearch) | WebSearch site: filter | 0 (all dup v7-v130) |
-| Ashby HQ (broad WebSearch) | WebSearch site: filter | 0 (all dup v7-v130) |
-| Lever (broad WebSearch) | WebSearch site: filter | 0 (all dup v7-v130) |
-| Wellfound | WebSearch site: filter | 0 (C3 AI/SafetyKit dup; Kodiak non-target) |
-| HN Who is Hiring April 2026 | WebFetch thread | 0 (Red Balloon citizenship req; all FTE) |
-| intern-list.com | WebFetch | 0 (all non-target legacy companies) |
-| Jobright.ai | WebSearch | 0 (all dup/closed/non-target) |
-
-**Total new qualifying listings: 0**  
-**New history entries added: 9**
+| Metric | Count |
+|--------|-------|
+| Portals / sources scanned | 20+ |
+| Companies checked (Greenhouse API) | 8 |
+| WebSearch query batches | 6 |
+| Tracker repos checked (SimplifyJobs, SpeedyApply AI/SWE) | 3 |
+| Total new URLs checked | ~60 |
+| Passed title filter | 0 |
+| Duplicates (already in history) | 60+ |
+| New listings added to pipeline | 0 |
+| Reports filed | 0 |
+| History entries added | 14 |
+| History total | 2,990 entries |
 
 ---
 
-## Top Matches (score >= 4.0) in Active Pipeline
+## Scan Coverage (v132)
 
-| # | Company | Role | Score | Comp | Deadline | Status |
-|---|---------|------|-------|------|----------|--------|
-| 246 | **Anthropic** | AI Fellows — AI Security | **4.7/5** | $3,850/wk | **Apr 26** | APPLY NOW |
-| 370 | **Anthropic** | AI Fellows — AI Safety | **4.2/5** | $3,850/wk | **Apr 26** | APPLY NOW |
-| 372 | **Anthropic** | AI Fellows — ML Systems | **4.1/5** | $3,850/wk | **Apr 26** | APPLY NOW |
-| 379 | Northspyre | AI Engineer Intern | **4.1/5** | $10K/mo + $5K housing | End of April | Apply soon |
-| 381 | Robinhood | ML Engineer Intern, Agentic ML | **4.0/5** | Per report | End of April | Apply soon |
-| 386 | Illumio | Engineering Intern, SRE | **4.0/5** | $67-89/hr | End of April | Apply soon |
+### Greenhouse API Scans
+| Company | Result |
+|---------|--------|
+| Anthropic | 5 Fellows tracks — all dup v10-v112. No new intern. |
+| Airtable | New Grad 2026 (8409376002) no longer visible — may be closed/filled. 0 new qualifying. |
+| Vercel | 81 roles — FDE v0/Agent SWE = FTE senior, confirmed dup. No intern. |
+| Hume AI | 8 senior FTE roles. No intern. |
+| Glean | University Grad + all SWE/ML/Security roles — all dup v7. No new qualifying. |
+| Arize AI | AI Application Engineer = Buenos Aires FTE (dup v61). No intern program. |
+| Temporal | 0 jobs (empty board, dup v130). |
+| RunPod | 19 roles — Security/Full-Stack SWE confirmed dup v55. No new intern. |
+
+### WebSearch / Broad Scans
+| Source | Result |
+|--------|--------|
+| Ashby broad | Notion/Replit/Cohere/Farsight/Fizz/Delinea/Crusoe/OpenAI/Giga/Illumio/Sierra — all dup v7-v131 |
+| Greenhouse broad | Cloudflare/Together AI/Glean/Obsidian/Affirm/Sigma/Scale AI/Aquatic Capital/Censys — all dup |
+| Lever broad | Palantir (8 roles)/Nominal/Voleon/Shield AI/Symmetry/Artera/Hermeus/The Athletic/Versana — all dup |
+| SpeedyApply AI | Meta/Nielsen/Okta/Trumid — all dup v103-v131 |
+| SpeedyApply SWE | Kognitos/Ripple/Zoox/CACI/ChargePoint — all dup or non-target |
+| SimplifyJobs | April 17-20 entries: Applied Materials/Cisco/Tencent UK/Baxter — non-target or dup |
 
 ---
 
-## Borderline Pipeline (score 3.5-3.9) — Apply after high-priority
+## Top Matches (Score >= 4.0)
 
-| Company | Role | Score | Notes |
-|---------|------|-------|-------|
-| Creatify AI | Software Engineer Intern | ~3.8/5 | $40-60/hr Mountain View; React/Python/Django; AI video ad platform |
-| Illumio | Engineering Intern, Architecture Platform | ~3.7/5 | Same company as SRE above; apply only if SRE accepted |
-| Sierra | Intern, Agent Development | ~3.5/5 | SF/NYC on-site; comp undisclosed — verify before applying |
+**None found in this scan.** Summer 2026 market is fully saturated.
+
+---
+
+## Active Pipeline (pending from prior scans)
+
+| # | Company | Role | Score | Notes |
+|---|---------|------|-------|-------|
+| 1 | Illumio | Engineering Intern, SRE (Summer 2026) | 4.0/5 | Sunnyvale CA on-site 5d/wk; $67-89/hr; 12wks; Python/Go/AWS/K8s/Docker; Zero Trust leader; report #386. APPLY BY END OF APRIL. |
+| 2 | Creatify AI | Software Engineer Intern 2026 | ~3.8/5 | Mountain View CA on-site; $40-60/hr; React+Python/Django+Docker/AWS; borderline — apply after higher-priority roles. |
+| 3 | Illumio | Engineering Intern, Architecture Platform (Summer 2026) | ~3.7/5 | Same dates/location as SRE role; Java/Go/Python; less security-specific. Apply only if SRE accepted. |
+| 4 | Sierra | Intern, Agent Development (Summer 2026) | ~3.5/5 | SF/NYC on-site; comp unknown (high risk); verify comp before applying. |
+
+---
+
+## URGENT: Anthropic Fellows — DEADLINE APRIL 26, 2026 (6 DAYS)
+
+Three pre-evaluated Anthropic Fellows roles with deadlines in **6 days**:
+
+| # | Role | Score | URL |
+|---|------|-------|-----|
+| #246 | Anthropic Fellows — AI Security | **4.7/5** | https://job-boards.greenhouse.io/anthropic/jobs/5030244008 |
+| #370 | Anthropic Fellows — AI Safety | 4.2/5 | https://job-boards.greenhouse.io/anthropic/jobs/5183044008 |
+| #372 | Anthropic Fellows — ML Systems & Performance | 4.1/5 | https://job-boards.greenhouse.io/anthropic/jobs/5183051008 |
+
+**These are the highest-scoring open opportunities in the pipeline. Apply to AI Security immediately.**
 
 ---
 
 ## Market Status
 
-**Summer 2026 internship market: FULLY SATURATED** after 131 consecutive scans.
+**Summer 2026 is FULLY SATURATED.** This is scan v132 — 132 consecutive scans since April 5, 2026 with zero new qualifying listings (except Illumio SRE at v128 on April 20).
 
-- 2,976 total history entries
-- All major job boards returning duplicate or non-qualifying results
-- Last qualifying >=4.0 discovery: **Illumio SRE Intern (scan v128, April 20)**
-- High-quality Summer 2026 roles have been stable since mid-April
+The Summer 2026 intern market closed in late February/early March 2026 for most high-quality roles. Remaining pipeline items (Illumio, Creatify, Sierra) are the last viable Summer 2026 opportunities.
 
-**What's coming next:** Fall 2026 / Spring 2027 co-op postings may start appearing in May-June. Watch for companies with Fall cycles (Apple, Intel, AMD, defense contractors) and new-grad 2026 openings.
+**Recommended next actions:**
 
----
-
-## Recommended Next Actions
-
-1. **TODAY (DEADLINE IN 6 DAYS):** Apply to Anthropic AI Fellows — AI Security track (4.7/5) before April 26. Reports #246, #370, #372 ready.
-
-2. **This week:** Apply to Illumio SRE Intern (#386, 4.0/5) — $67-89/hr Sunnyvale CA; confirm on-site works.
-
-3. **This week:** Apply to Northspyre AI Engineer Intern (#379, 4.1/5) — $10K/mo + $5K housing stipend, Atlanta GA.
-
-4. **This week:** Apply to Robinhood Agentic ML Intern (#381, 4.0/5).
-
-5. **Borderline:** Consider Creatify AI (~3.8/5) only after all >=4.0 roles applied.
-
-6. **May 1:** Begin scanning for Fall 2026 co-op and new-grad 2026 roles.
+1. NOW (6 days): Apply to Anthropic Fellows AI Security (#246, 4.7/5) — deadline April 26.
+2. This week: Apply to Illumio SRE (#386, 4.0/5) — apply by end of April.
+3. Optional: Evaluate Creatify AI (~3.8/5) after Anthropic + Illumio.
+4. Shift focus: Begin scanning for Fall 2026 co-ops and New Grad 2026 roles opening at companies. Fall co-op season (August-December 2026) starts posting in April-May.
 
 ---
 
-*Generated by career-ops autonomous agent — scan v131 — 2026-04-20*
+*Generated by career-ops autonomous scan agent v132*
