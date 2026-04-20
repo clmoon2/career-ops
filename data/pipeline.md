@@ -1893,3 +1893,27 @@ PolyAI (all FTE senior, no interns), Ada (board 404), SpeedyApply AI (0 new qual
 **SpeedyApply SWE (latest):** BlackSky (dup v106), Kognitos (dup v106), Ripple (dup v104), Zoox (dup v104) — 0 new qualifying.
 
 <!-- === END 2026-04-18 SCAN v107 === -->
+
+<!-- === BEGIN 2026-04-20 SCAN v108 === -->
+
+**Scan v108 — 2026-04-20** | SimplifyJobs + SpeedyApply + Greenhouse APIs (Together AI/Roadie/Glean) + WebSearch (Ashby/Greenhouse/Lever broad) | Net new qualified: 1 evaluated (4.0/5) + 3 pipeline additions
+
+> Market note: Extremely mature market (2,659+ history entries, 108 scans since April 5). Together AI SWE/Security interns confirmed closed from board. Roadie AI Intern removed. Very few genuinely new postings — only 4 new listings found today across all sources. C3 AI Ascend is the standout.
+
+> URGENT REMINDER: **Anthropic Fellows Program (AI Security + ML Systems)** deadlines are **April 26, 2026** (6 days). Apply NOW if not already submitted.
+
+### ✅ Evaluated (score ≥ 4.0) — scan-v108
+- [x] https://job-boards.greenhouse.io/c3ascend/jobs/8106512002 | C3 AI | Software Engineer Intern (Summer 2026) — Redwood City CA on-site; $6-8K/mo; Ascend Program (Class of 2026); C3 Agentic AI Platform + C3 Generative AI; Platform/Solutions Engineering tracks; **4.0/5** → report #380 | Verify listing still active before applying; apply within 72h
+
+### 🟡 Pipeline Pending (score est. 3.4–3.6) — scan-v108
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7528020003 | Affirm | Software Engineering Intern (Summer 2026) — Remote-first US; $55/hr ($9,500/mo); 12-16wks; Python/Java/C++/AWS; ships real production code; fintech BNPL (not AI-primary); (~3.6)
+- [ ] https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90 | Notion | Software Engineer Intern (Fall 2026) — SF in-person Sept 14-Dec 4 2026; different from #254 Summer AI Intern (4.5/5); timing conflicts with Fall semester; verify schedule flexibility; (~3.2)
+- [ ] https://jobs.ashbyhq.com/ramp/1f75a275-2bcf-4cb2-a121-eef0a453475f | Ramp | AI Operations Internship (Summer 2026) — NYC in-person; no-code/low-code workflow automation (Gumloop); AI workflow design; Ops role not pure SWE; different from #341 Ramp FDE ($11K/mo); (~3.0)
+
+### Companies Confirmed No New Intern/New-Grad Roles — scan-v108
+**Greenhouse APIs:** Together AI (both intern roles removed from board — closed/filled), Roadie (AI Eng Intern removed; UX Design Intern only), Glean (SWE Intern closed; University Grad dup #52).
+**SimplifyJobs (0d/1d April 20):** TikTok Recommendation Infra ($45/hr, C++/Java, ByteDance, ~2.8/5 skip), Space Dynamics Lab (defense), Poshmark Cloud Platform (dup v104), General Dynamics x2 (defense), ChargePoint QA (not target), ABC Fitness SQL Dev (~2.5/5 skip), Tencent Backend (London non-US).
+**SpeedyApply AI/SWE:** 0 new qualifying entries today (all 0d-2d entries confirmed dup from v106/v107).
+**WebSearch discoveries (skipped):** Salesforce AI Research (PhD/MS req), Mercury Fall 2026 AI Enablement (deadline March 6 CLOSED), Sigma Computing ($25-35/hr below minimum), Delinea Lehi UT (.NET/Azure, ~3.1/5 skip), Gallup Security Intern (Omaha NE, polling firm, ~2.5/5 skip).
+
+<!-- === END 2026-04-20 SCAN v108 === -->

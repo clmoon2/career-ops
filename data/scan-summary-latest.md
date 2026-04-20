@@ -1,90 +1,86 @@
-# Scan Summary — 2026-04-18 (v107)
+# Portal Scan Summary — 2026-04-20
 
-**Scan ID:** v107
-**Date:** 2026-04-18
-**Duration:** Full autonomous scan
-**Scan history size:** ~2,690+ entries
-
----
-
-## Coverage
-
-| Source | Method | Result |
-|--------|--------|--------|
-| Lever: Mistral AI, W&B, Palantir, Clarity AI | WebSearch (403 on direct fetch) | All dup/no-intern |
-| Ashby: LangChain, Cohere, Pinecone, ElevenLabs, Vapi, Deepgram, Bland AI | WebSearch | All dup from v7 |
-| Ashby: n8n, Zapier, Lindy, Attio, Tinybird, TravelPerk, Sierra, Decagon | WebSearch | All dup/no-intern |
-| Greenhouse APIs (Anthropic/Airtable/Vercel/Glean/etc.) | Done in v105/v106 | All dup/no-intern |
-| ByteDance | WebSearch | All dup from v19/v41 |
-| Salesforce | WebSearch | All dup from v7/v41/v87 |
-| SimplifyJobs (GitHub raw, 0d/1d entries) | WebFetch | **2 new finds** |
-| SpeedyApply SWE (0d/1d entries) | WebFetch | All dup/non-target |
-| Broad WebSearch (Greenhouse/Ashby/Lever) | WebSearch | All dup |
-
-**Companies covered:** 35+ | **Search queries:** 20+ | **GitHub repos:** 2
+**Scan:** v108  
+**Date:** 2026-04-20  
+**Total scans to date:** 108 (since 2026-04-05)  
+**Total history entries:** 2,659+
 
 ---
 
 ## Results
 
-| Category | Count |
-|----------|-------|
-| Companies scanned | 35+ |
-| Already in history (dup) | ~78 |
-| **New added to pipeline** | **2** |
-| **Evaluated (score ≥ 4.0)** | **1** |
+| Metric | Count |
+|--------|-------|
+| Portals/companies scanned | 25+ (SimplifyJobs, SpeedyApply AI/SWE, Together AI API, Roadie API, Glean API, Greenhouse broad, Ashby broad, Lever broad, WebSearch across 10+ companies) |
+| New listings found | 9 (vs. all prior history) |
+| Filtered by score/domain | 5 (TikTok, ABC Fitness SQL, Salesforce PhD, Mercury closed, Delinea) |
+| Filtered by comp | 1 (Sigma Computing $25-35/hr) |
+| Added to pipeline | 3 (Affirm, Notion Fall, Ramp AI Ops) |
+| Evaluated ≥ 4.0 | **1** |
 
 ---
 
-## New Listings Found
+## Top Match (score ≥ 4.0)
 
-### ✅ Evaluated — Score ≥ 4.0
-
-| # | Company | Role | Score | Location | Comp |
-|---|---------|------|-------|----------|------|
-| 379 | **Northspyre** | AI Engineer Intern (Summer 2026) | **4.1/5** | Atlanta, GA | $10K/mo + $5K housing |
-
-### 🔷 Added to Pipeline
-
-| Company | Role | Est. Score | Location |
-|---------|------|-----------|----------|
-| Five9 | Software Developer AI Insights Intern | ~3.0-3.5 | San Ramon, CA |
+### ⭐ C3 AI | Software Engineer Intern (Summer 2026) — **4.0/5**
+- **URL:** https://job-boards.greenhouse.io/c3ascend/jobs/8106512002
+- **Location:** Redwood City, CA (on-site)
+- **Dates:** May – September 2026
+- **Comp:** $6,000 – $8,000/month
+- **Program:** C3 AI Ascend (Class of 2026) — named cohort internship
+- **Why:** C3 Agentic AI Platform + Solutions Engineering = exact FDE/SA archetype match. Finch 35K-line multi-model AI pipeline and TidalHack 6-agent system are direct proof points. Enterprise AI brand on resume.
+- **Report:** [#380](reports/380-c3ai-swe-intern-2026-04-20.md)
+- **Action:** **Verify listing active then apply within 72h.** Bay Area relocation required; confirm logistics.
 
 ---
 
-## Top Match: Northspyre AI Engineer Intern → APPLY WITHIN 48H
+## Market Intelligence
 
-- **URL:** https://job-boards.greenhouse.io/northspyre/jobs/7704668003
-- **Report:** [#379](reports/379-northspyre-ai-engineer-intern-2026-04-18.md)
-- **Comp:** $10,000/month + $5,000 housing stipend + stock options + FT offer potential
-- **Location:** Atlanta, GA (in-person, 12 weeks)
-- **Why it fits:** Build AI agents + agentic workflows + LLM-powered interfaces + multi-agent infra. Finch (7-stage multi-model pipeline) and TidalHack (6-agent AutoGen system) are exact matches for what they're building. Python/LangChain/production AI = perfect.
-- **Why the comp stands out:** $10K/mo = $120K annualized, highest of any new listing this week.
+**Key signal:** The Summer 2026 internship market has essentially closed for top-tier programs. Both Together AI intern roles (Security $58/hr #334 and SWE $58/hr #295 — both 4.5/5) are now confirmed removed from Greenhouse board. Roadie AI Engineer Intern is also removed. This pattern indicates most high-value programs have filled their cohorts.
 
----
+**What's still open:**
+- Cloudflare SWE + Security intern (Austin TX) — both still active in history, likely filling soon
+- Atlassian Security Engineer Intern (Seattle) — confirmed active
+- Obsidian Security SWE Intern, Symmetry Systems, TensorWave, Ema (all in pipeline, score 3.5-3.7)
+- C3 AI Ascend — just found, verify active
 
-## Market Context
-
-After 107 scans since April 5 (2,690+ history entries): market is in mature phase. New postings are rare. SimplifyJobs added only 2 qualifying entries today.
-
-**Priority actions:**
-1. Apply to Northspyre within 48 hours (4.1/5, $10K/mo, exact technical match)
-2. Apply to Together AI Security Intern (4.5/5, #334/#378) if not yet applied
-3. **URGENT: Anthropic Fellows deadline April 26 — 8 days remaining**
-4. Evaluate pending pipeline (Obsidian Security, VGS SWE, Symmetry, TensorWave, Ema)
+**Confirmed closed since last scan:**
+- Together AI: Security Engineer Intern (5012785007) + SWE Intern (5012768007) — removed from board
+- Roadie: AI Engineer Intern (8479096002) — removed from board
+- Glean: SWE Intern (4595665005) — removed from board
 
 ---
 
-## Pending Pipeline — Priority Order
+## Pipeline Additions (score 3.0–3.6)
 
-| Company | Role | Est. Score | Source |
-|---------|------|-----------|--------|
-| Obsidian Security | Software Engineer Intern | ~3.7 | scan-v106 |
-| VGS | Software Engineer Intern | ~3.8 | scan-v102 |
-| Crusoe | AI Intern, Digital Infrastructure | ~3.7 | scan-v100 |
-| Symmetry Systems | Full Stack SWE Intern | ~3.6 | scan-v106 |
-| TensorWave | Security Engineer Intern | ~3.6 | scan-v106 |
-| Ema | Security Engineer Intern | ~3.5 | scan-v106 |
-| Trumid | AI Automation Intern | ~3.5 | scan-v102 |
-| Intel | Agentic AI Research Intern | ~3.5 | scan-v102 |
-| Five9 | Software Developer AI Insights | ~3.0-3.5 | scan-v107 |
+| Company | Role | URL | Est. Score | Notes |
+|---------|------|-----|-----------|-------|
+| Affirm | Software Engineering Intern | [link](https://job-boards.greenhouse.io/affirm/jobs/7528020003) | ~3.6 | $55/hr remote-first; Python/AWS; fintech BNPL (not AI-primary) |
+| Notion | Software Engineer Intern (Fall 2026) | [link](https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90) | ~3.2 | Fall semester timing conflict; SF in-person Sept 14-Dec 4 |
+| Ramp | AI Operations Internship | [link](https://jobs.ashbyhq.com/ramp/1f75a275-2bcf-4cb2-a121-eef0a453475f) | ~3.0 | NYC in-person; no-code/low-code AI workflows; Ops not SWE |
+
+---
+
+## ⚠️ URGENT: Anthropic Fellows Deadlines (6 days!)
+
+Both Anthropic Fellows tracks expire **April 26, 2026**:
+
+| Track | Score | Report | Status |
+|-------|-------|--------|--------|
+| AI Security | 4.7/5 | [#287](reports/287-anthropic-fellows-ai-security-2026-04-10.md) | Applied? |
+| ML Systems & Performance | 4.1/5 | [#372](reports/358-anthropic-fellows-ml-systems-2026-04-16.md) | Applied? |
+
+**→ If not yet applied, this should be the #1 priority TODAY.**
+
+---
+
+## Recommended Next Actions
+
+1. **IMMEDIATE:** Apply to Anthropic Fellows (AI Security + ML Systems) — deadline April 26
+2. **Within 72h:** Verify C3 AI Ascend listing active → apply with Finch + TidalHack framing
+3. **This week:** Process pipeline pending items (scan v106: Obsidian Security 3.7, Symmetry Systems 3.6, TensorWave 3.6, Ema 3.5; scan v102: Trumid 3.5, Intel Agentic AI 3.5)
+4. **Ongoing:** Run `/career-ops pipeline` to evaluate the 10+ pending URLs from recent scans
+
+---
+
+*Generated by career-ops scan v108 | 2026-04-20*
