@@ -1,24 +1,25 @@
-# Portal Scan — 2026-04-20 (Scan v134)
+# Portal Scan — 2026-04-20 (Scan v135)
 
 **Candidate:** Carlos Luna-Peña  
 **Date:** 2026-04-20  
-**Scan ID:** v134 (autonomous agent)
+**Scan ID:** v135 (autonomous agent)
 
 ---
 
 ## Summary
 
 ```
-Portals scanned:          20+ companies / 45+ WebSearch queries
-Greenhouse API companies: Anthropic, Glean, Vercel, Temporal, Arize AI, RunPod, Hume AI, Intercom + broad Greenhouse
-Ashby companies:          Notion, Replit, Cohere, Giga, Farsight, Harvey, Decagon, Zip, Whatnot, Podium Automation + broad Ashby
-Lever companies:          Palantir, Shield AI, Nominal, BestEgg, Voleon, Symmetry + broad Lever
+Portals scanned:          20+ companies / 30+ WebSearch queries
+Greenhouse API companies: Intercom, Hume AI, PolyAI, Parloa + broad Greenhouse/Ashby/Lever
+GitHub aggregators:       SimplifyJobs Summer/New-Grad, SpeedyApply AI/SWE
+Specific company checks:  ElevenLabs, Vapi, Bland AI, Deepgram, Adobe, Intuit, Airbnb, Brex
+New company discovered:   Marshall Wace (Technology Intern — London only, finance domain)
 
-Total results reviewed:   200+ across all portals and queries
-New listings found:       1 (Podium Automation — below threshold)
-Filtered by title:        0
-Below score threshold:    1 (Podium Automation ~2.5/5)
-Duplicates:               200+ (all other results)
+Total results reviewed:   300+ (3,000+ cumulative history entries)
+New listings found:       1 (Marshall Wace — disqualified: London-only, finance domain)
+Filtered by title/domain: 1 (Marshall Wace: non-US, finance)
+Below score threshold:    0
+Duplicates:               All other results confirmed dup v7-v134
 New additions to pipeline: 0
 New evaluation reports:   0
 ```
@@ -27,21 +28,22 @@ New evaluation reports:   0
 
 ## Market Status
 
-**Summer 2026 internship market: FULLY SATURATED** — This is scan v134. The previous agent ran scans v129–v133 earlier today, all confirming 0 new qualifying listings. The market has been exhausted across 134 consecutive scans since April 5, 2026.
+**Summer 2026 internship market: FULLY SATURATED** — This is scan v135. Scans v129–v135 all ran on April 20, 2026, all confirming 0 new qualifying listings. The market has been exhausted across 135 consecutive scans since April 5, 2026.
 
-The last new qualifying listing (≥4.0/5) was found in scan v128: **Illumio Engineering Intern, SRE** (4.0/5, report #386).
+The last new qualifying listing (≥4.0/5) was found in scan v133: **Accenture Claude/Anthropic Tech Arch Analyst** (4.0/5, report #387, evaluated April 20).
 
 ---
 
-## New Listings Found Today
+## New Listings Found Today (Scan v135)
 
-### Podium Automation — Software Engineer Intern (Summer 2026)
-- **URL:** https://jobs.ashbyhq.com/podium-automation/9955a80c-bf23-4d06-b3f9-43bf75c400eb
-- **Score:** ~2.5/5 — **SKIPPED** (below threshold)
-- **Location:** NYC on-site
-- **Company:** Early-stage startup (a16z American Dynamism, SV Angel, Banter Capital)
-- **Domain:** Industrial control panel manufacturing — software to automate electrical design from weeks to seconds
-- **Why skipped:** Domain mismatch (manufacturing hardware, not AI/SWE/security); NYC relocation required; no AI/ML component; comp undisclosed; not a tech-native company
+### Marshall Wace — Technology Intern Summer 2026
+- **URL:** https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8062751002
+- **Score:** N/A — **DISQUALIFIED** (non-US, finance domain)
+- **Location:** London, UK only (NY listing redirects to London/Placement Year)
+- **Company:** Marshall Wace — quantitative hedge fund
+- **Why skipped:** Non-US (London only); finance domain not in target archetypes; no US location available
+
+*No new US internship or new grad listings were found in scan v135.*
 
 ---
 
@@ -107,8 +109,8 @@ The last new qualifying listing (≥4.0/5) was found in scan v128: **Illumio Eng
 
 ## Scanner Status
 
-- **Market saturation:** 100% — Summer 2026 internship market fully exhausted after 134 scans
+- **Market saturation:** 100% — Summer 2026 internship market fully exhausted after 135 scans
 - **Next scan recommended:** May 5–10, 2026 (check for newly posted Fall 2026 co-ops or late Summer 2026 openings)
-- **History size:** 3,005 entries (3,001 + 4 new today)
+- **History size:** ~3,026 entries (3,005 + 21 new v135 entries)
 - **Pipeline additions today:** 0
-- **Reports filed today:** 0
+- **Reports filed today:** 0 (Accenture #387 and C3 AI #380 were filed in prior scans v133/v108)

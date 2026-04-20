@@ -2130,3 +2130,31 @@ None — no new listings in 3.5–3.9 range discovered.
 - [-] https://job-boards.greenhouse.io/transmarketgroup/jobs/5111912007 | TransMarket Group | Junior Software Engineer — Chicago IL; C++/Python quant trading; onsite-only; skipped_score 3.0/5
 
 <!-- === END 2026-04-20 SCAN v133 === -->
+
+<!-- === BEGIN 2026-04-20 SCAN v135 (autonomous agent) === -->
+
+**Scan v135 — 2026-04-20** | Comprehensive autonomous scan: GitHub aggregators (SimplifyJobs Summer/New-Grad, SpeedyApply AI/SWE) + Ashby/Greenhouse/Lever broad + Greenhouse APIs (Intercom/Hume AI/PolyAI/Parloa) + Ashby specific (ElevenLabs/Vapi/Bland/Deepgram) + Workday (Adobe/Intuit) + Extern.com + WebSearch (Airbnb/Brex/Marshall Wace) | Net new qualifying: **0**
+
+> Market status: **Fully saturated.** 135 scans completed, 3,000+ history entries. Summer 2026 internship season effectively closed for new qualifying tech postings. All major portals, company ATS boards, and aggregators have been exhausted multiple times. Most companies either have no intern program, have filled their cohorts, or have listings already in history/pipeline.
+
+> ⚠️ **URGENT DEADLINE REMINDER: Accenture Claude/Anthropic Tech Arch Analyst (report #387) — deadline June 1, 2026. Apply immediately if eligible (confirm graduation date).**
+
+> ⚠️ **ACTION REQUIRED: C3 AI Ascend Program (report #380) — apply within 72h of evaluation (April 20). Apply immediately.**
+
+### ✅ Evaluated (score ≥ 4.0) — scan-v135
+None — no new qualifying listings discovered.
+
+### 🆕 New URLs discovered — scan-v135
+- Marshall Wace Technology Intern (new company found but London-only, finance domain — skip)
+
+### Companies Confirmed No New Intern/New-Grad Roles — scan-v135
+**GitHub Aggregators:** SimplifyJobs Summer 2026 (0d: Allegiant Air airline domain; Poshmark Cloud dup v104 2.8/5; Space Dynamics/GD defense; TikTok dup 2.5/5; ChargePoint dup); SimplifyJobs New Grad (TransMarket dup; Accenture evaluated; Blentech non-tech); SpeedyApply AI (Nielsen/Okta/Trumid/Meta all dup v103+); SpeedyApply SWE (BlackSky/Kognitos/Ripple/Zoox all dup v102-v111).
+**Ashby broad scan:** Notion/Replit/Giga/Cohere/Farsight/Fizz/Harvey/Whatnot/Vantage/Zettabyte/Northwood Space/Sentry/Zip/Delinea/Lambda/Brain Co./Handshake/ElevenLabs/Poshmark/Crusoe/Decagon — all confirmed dup v7-v134.
+**Greenhouse broad scan:** Cloudflare/Obsidian/Astranis/C3 AI/Together AI/Figma/Superhuman/Klaviyo/Affirm/HP IQ/Gemini/Aquatic/Verkada/PDT Partners/DoorDash/Sigma/Robinhood/Databricks/Ramp/Stripe — all confirmed dup v7-v134.
+**Lever broad scan:** Symmetry/Voleon/Artera/Nominal/Shield AI/Veeva/SoloPulse/NimbleRx — all confirmed dup v7-v134. Anchorage Digital (crypto negative filter).
+**Greenhouse APIs:** Intercom (no intern program); Hume AI (no intern); PolyAI (no intern — FDE West Coast US is senior FTE); Parloa (no intern — FDE DevOps/VoIP NY are senior FTE).
+**Ashby specific companies:** ElevenLabs (Impact dup v8 #314 2.0/5); Vapi/Bland AI/Deepgram (all confirmed no intern program).
+**Workday:** Adobe (all dup v9/v114 or below threshold); Intuit (all dup v9/v116).
+**WebSearch:** Airbnb (dup v8, deadline April 13 passed); Brex (dup v10/v18, no active intern); Marshall Wace (new company — London-only hedge fund — skip); Extern.com (all dup v7-v117).
+
+<!-- === END 2026-04-20 SCAN v135 === -->
