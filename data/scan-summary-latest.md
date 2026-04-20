@@ -1,116 +1,93 @@
-# Portal Scan — 2026-04-20 (Scan v135)
+# Portal Scan — 2026-04-20 (scan-v135)
 
-**Candidate:** Carlos Luna-Peña  
-**Date:** 2026-04-20  
-**Scan ID:** v135 (autonomous agent)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
----
-
-## Summary
-
-```
-Portals scanned:          20+ companies / 30+ WebSearch queries
-Greenhouse API companies: Intercom, Hume AI, PolyAI, Parloa + broad Greenhouse/Ashby/Lever
-GitHub aggregators:       SimplifyJobs Summer/New-Grad, SpeedyApply AI/SWE
-Specific company checks:  ElevenLabs, Vapi, Bland AI, Deepgram, Adobe, Intuit, Airbnb, Brex
-New company discovered:   Marshall Wace (Technology Intern — London only, finance domain)
-
-Total results reviewed:   300+ (3,000+ cumulative history entries)
-New listings found:       1 (Marshall Wace — disqualified: London-only, finance domain)
-Filtered by title/domain: 1 (Marshall Wace: non-US, finance)
-Below score threshold:    0
-Duplicates:               All other results confirmed dup v7-v134
-New additions to pipeline: 0
-New evaluation reports:   0
-```
+**Date:** 2026-04-20
+**Scan version:** v135
+**Scan type:** Autonomous agent — fresh-angle sweep (new company discovery + pipeline backfill)
 
 ---
 
-## Market Status
+## Execution Summary
 
-**Summer 2026 internship market: FULLY SATURATED** — This is scan v135. Scans v129–v135 all ran on April 20, 2026, all confirming 0 new qualifying listings. The market has been exhausted across 135 consecutive scans since April 5, 2026.
-
-The last new qualifying listing (≥4.0/5) was found in scan v133: **Accenture Claude/Anthropic Tech Arch Analyst** (4.0/5, report #387, evaluated April 20).
-
----
-
-## New Listings Found Today (Scan v135)
-
-### Marshall Wace — Technology Intern Summer 2026
-- **URL:** https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8062751002
-- **Score:** N/A — **DISQUALIFIED** (non-US, finance domain)
-- **Location:** London, UK only (NY listing redirects to London/Placement Year)
-- **Company:** Marshall Wace — quantitative hedge fund
-- **Why skipped:** Non-US (London only); finance domain not in target archetypes; no US location available
-
-*No new US internship or new grad listings were found in scan v135.*
+| Metric | Count |
+|--------|-------|
+| Portals/queries executed | 22+ |
+| Total listings reviewed | ~150 |
+| Filtered (title mismatch) | ~80 |
+| Duplicates (in history/pipeline) | ~67 |
+| New listings added to pipeline | 1 |
+| Pipeline items evaluated (≥4.0) | 3 |
+| Reports filed | 3 |
+| History entries: v134 total → v135 | 3,001 → 3,009 |
 
 ---
 
-## Top Pending in Pipeline (not yet applied)
+## Portals Scanned
 
-| Score | Company | Role | Report | Notes |
-|-------|---------|------|--------|-------|
-| 4.8/5 | Cloudflare | SWE Intern (Summer 2026) | #347 | Austin TX prod Workers experience |
-| 4.7/5 | Cloudflare | Security Engineer Intern | #294 | Austin TX OAuth/TLS/CSRF exact |
-| 4.7/5 | Anthropic Fellows | AI Security | #246 | **DEADLINE APRIL 26 — 6 DAYS** |
-| 4.7/5 | Haize Labs | SWE Intern | #298 | $100-125K NYC adversarial LLM |
-| 4.6/5 | Mechanize | SWE Intern | #304 | $100/hr SF RL eval infra |
-| 4.5/5 | Atlassian | Security Engineer Intern | #355 | Seattle $49-75/hr cybersec exact |
-| 4.5/5 | OpenAI | SWE Intern (Summer 2026) | #353 | SF/Seattle ~$60/hr top pick |
-| 4.5/5 | Glean | SWE Intern | #340 | Palo Alto/SF $57-69/hr |
-| 4.5/5 | Ramp | FDE Intern | #341 | $11K/mo + housing NYC/SF |
-| 4.5/5 | Replit | SWE Intern | #70 | AI dev tools perfect alignment |
-| 4.5/5 | Replit | SWE New Grad | #382 | $120-140K Foster City CA |
-| 4.5/5 | Together AI | Security Intern | #334 | $58/hr SF on-site |
-| 4.5/5 | Together AI | SWE Intern | #295 | $58/hr SF on-site |
-| 4.5/5 | NVIDIA | Solutions Architect New Grad | #348 | $108-196K SA rotation |
-| 4.5/5 | Decagon | Agent SWE Intern | #305 | SF agentic AI near-perfect |
-| 4.4/5 | 1Password | Developer Intern (Extension) | #366 | Remote Chrome MV3 exact |
-| 4.4/5 | Browser Use | SWE Intern | #357 | $6-16K/mo SF YC W25 |
-| 4.3/5 | Cloudflare | Product Marketing Eng Intern | #242 | Austin TX Workers+AI |
-| 4.3/5 | Rakuten Advertising | AI Engineer Intern | #373 | $35-50/hr San Mateo AutoGen match |
-| 4.2/5 | Anthropic Fellows | AI Safety | #370 | **DEADLINE APRIL 26 — 6 DAYS** |
-| 4.2/5 | Rippling | Full Stack SWE Intern | #358 | $75/hr SF/NYC Python+React |
-| 4.1/5 | Anthropic Fellows | ML Systems | #372 | **DEADLINE APRIL 26 — 6 DAYS** |
-| 4.1/5 | Northspyre | AI Engineer Intern | #379 | $10K+$5K housing Atlanta agentic |
-| 4.0/5 | Illumio | Engineering Intern, SRE | #386 | $67-89/hr Sunnyvale zero trust |
-| 4.0/5 | Accenture | Claude/Anthropic Tech Arch | #387 | Houston/Irving TX deadline Jun 1 |
+- ByteDance (joinbytedance.com) — AI Security, Security Assurance, Network Security, Cloud Security, Security Data, Edge Platform
+- Verkada (Greenhouse) — Security SWE, Backend SWE, Frontend SWE, Mobile (skipped), Embedded (skipped)
+- Rockstar Games (Greenhouse/rsgur) — Security Operations, Security Engineering Automation, Application Security
+- Fireworks AI (Greenhouse) — Infrastructure Early Career **[NEW COMPANY]**
+- Anthropic (Greenhouse API) — Fellows tracks (all confirmed dup)
+- Glean (Greenhouse API) — University Grad (dup)
+- Vercel (Greenhouse API) — 0 interns
+- Ashby broad — Notion/Sentry/OpenAI/Cohere/Giga/Farsight/1Password
+- Greenhouse broad — Cloudflare/Together AI/Figma/Robinhood/Datacor/CoVar/Sigma/C3 AI/Astranis
+- Lever broad — Belvedere Trading/Versana/Palantir/WeRide/Artera/NimbleRx
 
 ---
 
-## URGENT — ACTION REQUIRED
+## Reports Filed (Score ≥ 4.0)
 
-**3 Anthropic Fellows tracks deadline APRIL 26, 2026 (6 days):**
+| # | Company | Role | Score | Notes |
+|---|---------|------|-------|-------|
+| [388](reports/388-bytedance-ai-security-intern-2026-04-20.md) | ByteDance | SWE Project Intern (AI Security) | **4.3/5** ⭐ | San Jose CA $45-60/hr; adversarial LLM red teaming = exact match; RE-EVAL (was ~2.5 due to wrong Singapore location) |
+| [389](reports/389-verkada-security-swe-newgrad-2026-04-20.md) | Verkada | Security SWE University Graduate 2026 | **4.1/5** | San Mateo CA on-site; $148-218K total comp; HMAC/TLS/OAuth/CORS prod impl; pipeline pending since v7 |
+| [390](reports/390-rockstar-security-engineering-automation-intern-2026-04-20.md) | Rockstar Games | Intern: Security Engineering Automation | **4.0/5** | NYC 10wks Jun-Aug; Python+security automation; ~$34/hr; cover letter required |
 
-1. **AI Security** (#246, 4.7/5) — https://job-boards.greenhouse.io/anthropic/jobs/5030244008  
-   Apply via Constellation — adversarial LLM testing = perfect match. Apply NOW.
+---
 
-2. **AI Safety** (#370, 4.2/5) — https://job-boards.greenhouse.io/anthropic/jobs/5183044008  
-   Apply via Constellation — DEADLINE IN 6 DAYS.
+## New Pipeline Addition
 
-3. **ML Systems & Performance** (#372, 4.1/5) — https://job-boards.greenhouse.io/anthropic/jobs/5183051008  
-   Apply via Constellation — DEADLINE IN 6 DAYS.
+| URL | Company | Role | Score |
+|-----|---------|------|-------|
+| https://job-boards.greenhouse.io/fireworksai/jobs/4036755009 | Fireworks AI | SWE Infrastructure (Early Career) | ~3.8/5 |
+
+---
+
+## Key Findings
+
+1. **ByteDance AI Security was misclassified** — Previous scans marked this as Singapore-based (hard location blocker → ~2.5/5). Confirmed location is **San Jose, CA** at $45-60/hr. This is now the highest new score this scan at 4.3/5.
+
+2. **Verkada Security SWE Graduate** — Has been pending in pipeline since scan v7 (2026-04-07). First formal evaluation filed. Strong security engineering match ($148-218K FTE new grad).
+
+3. **Rockstar Security Engineering Automation** — Was repeatedly skipped due to title filter not matching "Engineering Automation". Properly evaluated now at 4.0/5.
+
+4. **Fireworks AI genuinely new** — Series C $4B AI inference company backed by Benchmark/Sequoia. Infrastructure Early Career role not previously in scan history. Added to pipeline at ~3.8/5.
+
+5. **Summer 2026 market near saturation** — 134+ consecutive scans prior to this run. Most major portals and companies fully covered. Recommend focusing on application actions over further scanning.
+
+---
+
+## ⚡ URGENT DEADLINES
+
+| Role | Deadline | Score |
+|------|----------|-------|
+| Anthropic Fellows — AI Security (#246) | **APRIL 26, 2026 (6 DAYS)** | 4.7/5 |
+| Anthropic Fellows — AI Safety (#370) | **APRIL 26, 2026 (6 DAYS)** | 4.2/5 |
+| Anthropic Fellows — ML Systems (#372) | **APRIL 26, 2026 (6 DAYS)** | 4.1/5 |
 
 ---
 
 ## Recommended Next Actions
 
-1. **Apply to Anthropic Fellows (all 3 tracks) — deadline April 26** (most urgent)
-2. Apply to Cloudflare SWE + Security Intern (Austin TX, local)
-3. Apply to OpenAI SWE Intern (Summer 2026)
-4. Apply to Atlassian Security Engineer Intern
-5. Apply to Ramp FDE Intern
-6. Apply to Glean SWE Intern
-7. Apply to Together AI Security + SWE Intern
-8. Review Illumio SRE + Northspyre AI Engineer pipeline items
+1. **APPLY NOW — Anthropic Fellows** (3 tracks, deadline April 26)
+2. **Apply this week — ByteDance AI Security** (#388, 4.3/5 — adversarial LLM testing exact match; verify San Jose CA confirmed)
+3. **Apply this week — Verkada Security SWE** (#389, 4.1/5 — $148-218K new grad FTE)
+4. **Apply — Rockstar Security Engineering Automation** (#390, 4.0/5 — cover letter required)
+5. **Review Fireworks AI** (pipeline, ~3.8/5 — early career FTE at $175-190K)
 
 ---
 
-## Scanner Status
-
-- **Market saturation:** 100% — Summer 2026 internship market fully exhausted after 135 scans
-- **Next scan recommended:** May 5–10, 2026 (check for newly posted Fall 2026 co-ops or late Summer 2026 openings)
-- **History size:** ~3,026 entries (3,005 + 21 new v135 entries)
-- **Pipeline additions today:** 0
-- **Reports filed today:** 0 (Accenture #387 and C3 AI #380 were filed in prior scans v133/v108)
+*Generated by career-ops autonomous scan agent v135 on 2026-04-20*

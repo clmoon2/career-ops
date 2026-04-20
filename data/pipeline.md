@@ -2,6 +2,21 @@
 
 ## Pendientes
 
+<!-- === NEW 2026-04-20 SCAN v135 (Autonomous Agent — fresh-angle sweep v135: ByteDance AI Security (7600541368906680629) LOCATION CORRECTION — previously scored ~2.5/5 due to Singapore assumption; CONFIRMED San Jose CA $45-60/hr = 4.3/5 ✅ report #388; Verkada Security SWE University Graduate 2026 (4872797007) — pipeline pending since v7; evaluated = 4.1/5 ✅ report #389; Rockstar Security Engineering Automation (7670953003) — previously skipped_title; evaluated = 4.0/5 ✅ report #390; NEW COMPANY: Fireworks AI SWE Infrastructure Early Career — NOT in history; added to pipeline ~3.8/5; 22+ companies scanned; WebSearch + Greenhouse API queries; KEY FINDINGS: 3 reports filed (388/389/390); 1 genuinely new listing added (Fireworks AI); 3 pipeline items evaluated; scan-v135 = 3,001 → 3,005 history entries; ⚡ URGENT: Anthropic Fellows DEADLINE APRIL 26 = 6 DAYS) === -->
+<!-- 3 reports filed (388/389/390 all ≥4.0/5). 1 new pipeline addition (Fireworks AI ~3.8/5). ByteDance AI Security re-evaluated: ~2.5 → 4.3/5 (wrong location fixed). -->
+<!-- ⚡ URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026 (6 DAYS). APPLY IMMEDIATELY. -->
+<!-- ⚡ URGENT: Anthropic Fellows AI Safety #370 4.2/5 — DEADLINE APRIL 26, 2026 (6 DAYS). APPLY IMMEDIATELY. -->
+<!-- ⚡ URGENT: Anthropic Fellows ML Systems #372 4.1/5 — DEADLINE APRIL 26, 2026 (6 DAYS). APPLY IMMEDIATELY. -->
+<!-- ⚡ PRIORITY: ByteDance AI Security Intern #388 4.3/5 — San Jose CA; adversarial LLM testing exact match; APPLY THIS WEEK. -->
+
+### Pipeline Evaluated — scan-v135 (Reports Filed)
+- [x] https://joinbytedance.com/search/7600541368906680629 | ByteDance | Software Engineer Project Intern (AI Security) - 2026 Start | **4.3/5** → report #388 | San Jose CA $45-60/hr; AI red teaming + automated LLM eval pipelines; re-eval from ~2.5 (Singapore was wrong — actual location San Jose CA); apply ASAP
+- [x] https://job-boards.greenhouse.io/verkada/jobs/4872797007 | Verkada | Security Software Engineer — University Graduate 2026 | **4.1/5** → report #389 | San Mateo CA on-site; $148-218K total; HMAC/TLS/OAuth/CORS prod impl = exact match; apply immediately
+- [x] https://job-boards.greenhouse.io/rsgur/jobs/7670953003 | Rockstar Games | Intern: Security Engineering Automation (Summer 2026) | **4.0/5** → report #390 | NYC 10wks Jun-Aug; Python + security automation; cover letter required; apply with AppSec track
+
+### Pipeline Pending — scan-v135 — Fireworks AI Infrastructure (NEW)
+- [ ] https://job-boards.greenhouse.io/fireworksai/jobs/4036755009 | Fireworks AI | Software Engineer, Infrastructure (Early Career) | ~3.8/5 | SF/NYC; Series C $4B; $175-190K base; distributed AI workloads; Python/cloud infra; AI inference platform; not intern but early career FTE; verify US location and grad eligibility
+
 <!-- === NEW 2026-04-20 SCAN v134 (Autonomous Agent — post-v133 exhaustion sweep v134: Greenhouse APIs (Anthropic: 5 Fellows tracks all dup v10-v133; Glean: University Grad dup v7; Vercel: 0 intern; Temporal: empty; Arize AI: 0 intern; RunPod: 0 intern; Hume AI: 0 intern; Intercom: 0 intern — all confirmed dup/no-intern); Ashby broad (Notion/Replit/Cohere/Giga/Farsight/Whatnot/Harvey/Decagon/Zip — all dup v7-v133); Greenhouse broad (Cloudflare/Together AI/Glean/Obsidian/Affirm/Sigma/Scale AI/Aquatic Capital/DoorDash — all dup v7-v133); Lever broad (Palantir/Shield AI/Nominal/BestEgg/Voleon/Artera — all dup v7-v133); WebSearch discovery (45+ queries executed, 200+ results reviewed); NEW COMPANY FOUND: Podium Automation SWE Intern NYC 9955a80c — industrial control panel manufacturing a16z American Dynamism; NYC on-site; domain mismatch (manufacturing hardware, not AI/security/SWE-native); ~2.5/5 skipped_score; KEY FINDINGS: 0 new qualifying listings ≥4.0/5; 1 new company documented (Podium Automation, below threshold); 0 pipeline additions; 0 reports filed; 1 new history entry; history 3,000 → 3,001 entries; Summer 2026 FULLY SATURATED (134 consecutive scans, last ≥4.0 was v128 Illumio SRE); ⚡ URGENT: Anthropic Fellows DEADLINE APRIL 26 = 6 DAYS) === -->
 <!-- 0 new qualifying URLs found. 0 pipeline additions. 1 new history entry (Podium Automation skipped_score 2.5/5). Summer 2026 FULLY SATURATED (134 scans). -->
 <!-- ⚡ URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026 (6 DAYS). APPLY IMMEDIATELY. -->
