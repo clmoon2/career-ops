@@ -1,147 +1,134 @@
-# Portal Scan Summary — 2026-04-21 (v145)
+# Scan Summary — 2026-04-21 (v146)
 
-**Date:** 2026-04-21  
-**Scan version:** v145  
-**Agent:** Autonomous scan agent  
+**Date:** 2026-04-21
+**Sources checked:** 70+
+**New listings found (all):** 3 (all below threshold)
+**Passed title filter (≥4.0):** 0
+**Duplicates skipped:** 64
+**Closed listings confirmed:** 2 (Snap, Rubrik)
+**Added to pipeline:** 0
 
----
+## New Listings Found (Below Threshold)
 
-## Results
+| Company | Role | URL | Est. Score | Reason Skipped |
+|---------|------|-----|------------|----------------|
+| Poshmark | Cloud Platform Engineer Intern (Summer 2026) | https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa | ~3.0/5 | E-commerce/fashion domain; Redwood City CA; different URL from AI/ML dup (v93); still below threshold |
+| PayPal | Back-End Software Engineer Intern (Jun 2026) | https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Back-End-Software-Engineer-Intern_R0131019 | ~3.2/5 | Fintech payments domain; $26-55/hr range (low end below floor); Ruby/Java preferred; must return to school Fall 2026 |
+| The Athletic | Engineering Student Intern, Summer 2026 (Remote) | https://jobs.lever.co/theathletic/e55c3738-517a-4033-843d-0c572f63145e | ~2.5/5 | Media/sports journalism domain; ~$25/hr below minimum comp floor |
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Portals/companies scanned:       35+
-Channels exhausted:              Greenhouse APIs (9 companies — all back online),
-                                 Cloudflare new URLs,
-                                 ICE (Intercontinental Exchange) — NEW company,
-                                 NVIDIA, Amazon, Apple, Databricks, ServiceNow,
-                                 CrowdStrike, Wiz, Stripe, Brex, Salesforce,
-                                 Anduril, IBM, Okta, Palo Alto Networks,
-                                 OpenAI, xAI, Perplexity, Mistral,
-                                 SimplifyJobs (0-1d), SpeedyApply AI/SWE,
-                                 YC Work at a Startup, Jobright
-New qualifying listings ≥4.0/5:  0
-New pipeline entries:            0 (v145)
-                                 2 added from v144 (TikTok LLM-agents ~3.8, DoorDash ~3.0)
-New scan-history entries:        19 (v145) + 13 (v144 already in history)
-Total scan-history entries:      ~3,202 (after v145)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+## Top Matches (Score ≥ 4.0)
 
-**Market status: FULLY SATURATED** — 145 consecutive exhaustive scans. Summer 2026 internship cycle effectively closed. Last qualifying ≥4.0/5 discovery was TikTok Product Security #392 (v142, April 21).
+**None found this scan.**
 
----
+The Summer 2026 internship market is confirmed fully saturated after 146 consecutive scans. All major SWE, AI/ML, Security, DevOps, and Full-Stack intern roles at companies matching Carlos's profile have already been identified and are either in the pipeline/evaluated, or confirmed closed.
 
-## v145 Key Findings
+## Greenhouse APIs Checked (Priority 1) — 20 APIs
 
-### New Company Discovered: ICE (Intercontinental Exchange)
-
-4 URLs never previously in scan history:
-
-| URL | Role | Status | Score |
-|-----|------|--------|-------|
-| careers.ice.com/jobs/11604 | Cybersecurity Automation Intern | **CLOSED (404)** | N/A |
-| careers.ice.com/jobs/11635 | Software Engineer Intern | Open (503 unverified) | ~3.0/5 |
-| careers.ice.com/jobs/11598 | Software Developer Intern | Open (unverified) | ~2.8/5 |
-| careers.ice.com/jobs/11603 | SDET Intern | Open (unverified) | skipped_title |
-
-**Why below threshold:** Atlanta GA on-site (5d/week), financial infrastructure domain (NYSE/bond markets), legacy AngularJS→React conversion work. Carlos's profile is strongest in AI/security/cloud, not financial infra legacy code. None reached 4.0/5 threshold.
-
-### Greenhouse APIs Back Online
-
-After multiple scans with 503 errors (v130–v143), all Greenhouse APIs are now responding:
-- Anthropic: All 5 Fellows tracks confirmed dup — general (5023394008), AI Safety (5183044008), AI Security (5030244008), ML Systems (5183051008), RL (5183052008), STEM Fellow (5189848008)
-- All others: No intern/new-grad roles found
-
-### Crusoe Product Security Applied AI Intern — Status Update
-
-The role continues to appear on external job boards (Climate Draft, G2VP, LinkedIn, ImpactSource) but:
-- Direct Ashby URL returns incomplete page (just "Jobs" header)
-- All verification endpoints (Simplify, ClimateDraft) returning 503
-- Cannot confirm active status via automated scan
-
-**Recommend: Visit jobs.ashbyhq.com/Crusoe directly in a browser.**
-
----
-
-## Channels Checked (v145)
-
-| Channel | Result |
+| Company | Result |
 |---------|--------|
-| Greenhouse APIs (9 companies) | All back online; 0 new intern/new-grad roles |
-| Cloudflare (new URLs 7603409, 7799344) | Both non-technical admin/ops roles; skipped |
-| ICE Intercontinental Exchange | 4 NEW URLs; all below 4.0 threshold or closed |
-| NVIDIA Summer 2026 interns | All dup v8-v144 |
-| Amazon SDE/Security interns | All dup v7-v144 |
-| Apple SWE/ML/Security interns | All dup v8-v144 |
-| Databricks SWE intern + New Grad | All dup v7-v144 |
-| ServiceNow SWE/ML interns | All dup v8-v144 (closed) |
-| CrowdStrike SWE/Security interns | All dup v8-v144 |
-| Wiz | No intern program (confirmed) |
-| Stripe / Brex / Plaid | All dup v7-v144 |
-| Salesforce SWE/Solutions/AI | All dup v7-v144 |
-| Anduril SWE intern / New Grad | All dup v7-v144 |
-| IBM Software Dev intern | All dup v8-v144 |
-| Okta SWE / AI intern | All dup v7-v144 (SWE AI closed) |
-| Palo Alto Networks | No US intern listings found |
-| OpenAI Applied Emerging Talent | All dup v20-v144 |
-| xAI Engineering Internship | Hardware/EE domain; skipped_title dup v123 |
-| Perplexity / Mistral | UK-only / Paris EMEA |
-| SimplifyJobs v145 (0-1d entries) | 15 entries — all dup/non-target |
-| SpeedyApply AI/SWE v145 | All dup v7-v144 |
-| YC Work at a Startup v145 | All dup v30-v144 |
-| Jobright (ICE, Exiger, Dropbox) | ICE NEW (below threshold); Exiger/Dropbox dup |
-| Ashby broad (15+ companies) | All dup v7-v144 |
-| Lever broad (10+ companies) | All dup v7-v144 |
+| PolyAI | 503 error — board unavailable |
+| Parloa | 503 error — confirmed no intern (v117) |
+| HumeAI | 0 intern roles — all senior FTE |
+| Intercom | 0 intern roles — confirmed no intern (v117) |
+| Stripe | Data Analyst intern Toronto CA only — not US SWE |
+| Rippling | 404 — no active board |
+| Retool | 404 — no active board |
+| Scale AI | 404 — confirmed dup v7+ |
+| MongoDB | Confirmed dup v9+ |
+| Elastic | 0 intern roles |
+| Datadog | Confirmed dup — no new intern |
+| Square/Block | 404 — no active board |
+| Robinhood | PeopleX intern only — no SWE intern |
+| Zendesk | 404 — no active board |
+| Brex | Rotational Program (Canada/Brazil/SLC) — confirmed dup |
+| Lacework | 404 — no active board |
+| Snyk | 404 — confirmed no intern (v117+) |
+| Semgrep | 404 — confirmed dup/no intern (v7-v97) |
+| Sentry | 0 intern roles — new grad dup v7+ |
+| Abnormal Security | 98 roles, 0 intern — all senior FTE |
 
----
+## WebSearch Queries Run (Priority 2) — 15 queries
 
-## Active Pipeline — High Priority (Apply Now)
+All 15 priority WebSearch queries run. All results returned confirmed duplicates already in scan history.
 
-| # | Company | Role | Score | Deadline | Action |
-|---|---------|------|-------|----------|--------|
-| 246 | Anthropic | Fellows Program — AI Security | **4.7/5** | **APRIL 26** | ⚡ APPLY IMMEDIATELY — 5 days left |
-| 370 | Anthropic | Fellows Program — AI Safety | **4.2/5** | **APRIL 26** | ⚡ APPLY IMMEDIATELY — 5 days left |
-| 372 | Anthropic | Fellows Program — ML Systems | **4.1/5** | **APRIL 26** | ⚡ APPLY IMMEDIATELY — 5 days left |
-| 388 | ByteDance | AI Security Software Engineer Intern | **4.3/5** | Rolling | Apply this week |
-| 389 | Verkada | Security SWE — University Graduate 2026 | **4.1/5** | Rolling | Verify graduation eligibility |
-| 391 | Netflix | SWE Intern Summer 2026 | **4.2/5** | Rolling | Apply this week |
-| 392 | TikTok | Product Security Intern 2026 | **4.0/5** | Rolling | Apply after Anthropic Fellows |
-| — | Crusoe | Product Security Applied AI Intern | **~4.3/5** | Unknown | ⚠️ Manual verify required |
+- Ashby broad SWE intern: All dup (Notion/Giga/Farsight/Harvey/Delinea/Replit/Cohere/Fizz)
+- Lever broad SWE intern: All dup (Nominal/Symmetry/Voleon/Artera/Best Egg)
+- Ashby new-grad: All dup (Replit/Decagon/Benchling/Harvey/Zip/Ramp/Sentry/Whatnot)
+- Greenhouse SWE intern broad: All dup (Cloudflare/PDT/Aquatic/Astranis/Obsidian)
+- Cybersecurity intern: All dup (Gemini/Together AI/Cloudflare/Gallup/MEMX/Schonfeld)
+- AI/ML engineer intern: No new results indexed
+- DevOps/SRE intern: DV Trading dup; Ada (Canada-only skipped)
+- Consulting intern: MBB deadline July 2025 passed for Summer 2026 cycle
+- Forward deployed intern: Ramp FDE dup (#341 evaluated 4.5/5); Palantir dup
+- Security on Ashby: Worldly/1Password/Illumio all dup
+- Backend intern: PayPal new URL found — ~3.2/5 below threshold
+- Security on Lever: Actian/HighLevel/Gallup all dup
+- Infrastructure intern: Okta closed; Bandwidth dup
+- GitHub SimplifyJobs new: All non-target or dup
+- New grad SWE AI/security: Prophet Security/Profound/Ramp/Palantir all dup
 
----
+## Specific Companies Checked (Priority 3) — 25 companies
 
-## Application Priority Order (Today, April 21)
+| Company | Result |
+|---------|--------|
+| Stripe | Canada Data Analyst only — not US SWE intern |
+| Cloudflare | All dup v7+ |
+| Google | SWE Intern confirmed dup/past deadline |
+| Meta | SWE Intern confirmed dup v7+ |
+| Snap | SWE Intern H225SWEI — confirmed CLOSED Jan 27, 2026 |
+| LinkedIn | No results from site search |
+| Coinbase | SWE Intern — dup v9+; crypto/blockchain domain negative filter |
+| Figma | Confirmed dup v7+ |
+| Ramp | All roles dup v7+ (FDE/Backend/Frontend/AI Ops/Univ Grad) |
+| Rubrik | Software Engineering Internship — confirmed CLOSED March 13 (v114 scan) |
+| Tenable | No Summer 2026 intern listings found on Greenhouse |
+| Rapid7 | SWE Intern confirmed active but no Greenhouse URL found; prior coverage via jobright v74 |
+| Zscaler | Technical Intern — dup v7+ |
+| Gemini | Security + GRC + SWE — all dup v7+ |
+| Schonfeld | Cybersecurity Ops Intern — dup; posting removed from board |
+| MEMX | InfoSec intern — dup; posting removed |
+| Abnormal Security | No intern program |
+| Actian | AI Security Intern — dup v7+ |
+| Worldly | Security Ops Intern — dup v7+ |
+| Prophet Security | New Grad Backend/ML — dup v9+ |
+| Profound | New Grad SWE SF — dup v7+ |
+| Sigma Computing | SWE Intern + AI/ML Grad Intern — all dup v7+ |
+| Bandwidth | SW Infrastructure Intern — dup; posting removed |
+| PayPal | Backend SWE Intern — NEW URL (R0131019); ~3.2/5 below threshold |
+| Salesforce | SWE Intern — dup; evaluated 3.7/5 (#328) |
 
-1. **RIGHT NOW:** Anthropic Fellows deadline April 26 = **5 days left**
-   - #246 AI Security (4.7/5) — highest priority in the entire pipeline
-   - #370 AI Safety (4.2/5)
-   - #372 ML Systems (4.1/5)
-2. **Today/Tomorrow:** Manually verify Crusoe at https://jobs.ashbyhq.com/Crusoe
-3. **This week:** Netflix #391 (4.2/5) + ByteDance #388 (4.3/5)
-4. **After April 26:** TikTok Product Security #392 (4.0/5)
-5. **Verify eligibility first:** Verkada #389 (4.1/5) — confirm graduation date
+## Consulting-Specific Scan (Priority 4)
 
----
+- McKinsey BA Intern: March 29, 2026 deadline — passed
+- BCG: Main deadline July 17, 2025 — passed; June 2, 2026 is Summer 2027 cycle
+- Bain: March 29 deadline — passed
+- Oliver Wyman: March 29 deadline — passed
+- Two Sigma: Confirmed dup — jobright v74
+- Citadel/Jane Street: No new Summer 2026 SWE postings found
 
-## Market Intelligence
+## GitHub Lists Checked (Priority 5)
 
-- **Summer 2026 recruiting cycle is effectively closed** after 145 scans
-- **TikTok 2-application limit:** Use ByteDance #388 + TikTok #392 as the two slots
-- **Fall 2026 internships** begin posting May–June 2026
-- **ICE** is a new company to monitor for future cycles (NYSE parent company, strong cybersecurity org)
-- **Crusoe** remains the last high-value potential discovery — verify manually
+- **SimplifyJobs Summer2026 README (dev branch)**: 0-2 day entries: Togetherwork (TAMU-ineligible), Mark43 (mobile, dup), Vendelux (dup), AssetWorks (dup), KLA (advanced degree), First American AI (~2.5/5), Arcadis (dev), Fiserv (app dev), Veeva (dup) — 0 new qualifying
+- **SpeedyApply 2026-AI-College-Jobs**: Top entries: Meta Audio PhD/Adobe ML/Roblox PhD/NVIDIA/Airbnb PhD/Citadel QR PhD — all dup or PhD-only; Poshmark/Kognitos/Bosch dup; 0 new qualifying
+- **SpeedyApply 2026-SWE-College-Jobs**: Top entries: Pinterest Fall Toronto (not US)/Salesforce/Roblox/Kognitos/Ripple/Zoox/BlackSky — all dup or non-target; 0 new qualifying
 
----
+## Companies Confirmed No New Roles
 
-## Recommended Actions
+All 70+ sources checked returned confirmed duplicates, closed listings, or below-threshold roles. This is the **146th consecutive exhaustive scan** confirming full market saturation for Summer 2026 internship roles matching Carlos's profile.
 
-1. **PAUSE automated scanning until May 2026** — Summer 2026 market exhausted
-2. **Apply to Anthropic Fellows immediately** — 5-day deadline
-3. **Manually verify Crusoe** at jobs.ashbyhq.com/Crusoe in a browser
-4. **Re-activate scanning in May 2026** for Fall 2026 co-ops and 2027 new grad roles
-5. **career-ops update available:** v1.1.0 → v1.3.0 (run `node update-system.mjs apply` when ready)
+## Recommended Next Actions
 
----
+1. **⚡ URGENT — APPLY NOW**: Anthropic Fellows AI Security (#246, 4.7/5) — Deadline APRIL 26, 2026 (5 days). Highest-priority open role in pipeline.
 
-*Scan v145 complete — 2026-04-21 — Summer 2026 market CONFIRMED FULLY SATURATED (145 consecutive scans)*
+2. **Evaluate and apply to high-priority pipeline items still open:**
+   - Roadie AI Intern (#371, 4.2/5) — check if still active before applying
+   - Anthropic Fellows ML Systems (#372, 4.1/5) — Deadline April 26
+   - Illumio SRE Intern (#386, 4.0/5) — Winter 2026/Spring 2027 grad requirement — check eligibility
+   - Together AI Security (#378) — verify listing still active (board was cleared v111)
+   - TikTok Product Security (#392, 4.0/5) — verify still active
+
+3. **No new scanning needed for Summer 2026**: Market is fully saturated. Focus energy on evaluating and applying to existing high-score pipeline items rather than scanning.
+
+4. **Consider Fall 2026 co-op search**: If Summer 2026 placement is secured or focus shifts, start looking at Fall 2026 positions (Klaviyo, SpaceX, Notion Fall already in pipeline).
+
+5. **New Grad 2026 FTE roles**: Continue monitoring for December 2026 graduation new grad positions — some companies (Ramp, Profound, Prophet Security, Replit) open late.

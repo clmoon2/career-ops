@@ -3200,3 +3200,69 @@ https://openai.com/careers	2026-04-21	scan-v145-ai-labs	AI labs v145: OpenAI App
 https://careers.nvidia.com	2026-04-21	scan-v145-nvidia	NVIDIA v145: all Summer 2026 intern URLs (SWE JR2003206/Deep Learning JR2003208/Systems JR2003204/Agentic AI JR2008503/Nsight Systems/etc.) confirmed dup v8-v144; 0 new qualifying	NVIDIA	skipped_dup
 https://www.amazon.jobs	2026-04-21	scan-v145-amazon	Amazon v145: SDE Intern 3116030/Security Intern 3129837/Systems Dev Intern Leo — all confirmed dup v7-v144; 0 new qualifying	Amazon	skipped_dup
 https://jobs.apple.com	2026-04-21	scan-v145-apple	Apple v145: SWE Intern 200606145/ML-AI Intern 200606469/InfoSec Intern 200624078/CyberSec Analyst 200622722 — all confirmed dup v8-v144; 0 new qualifying	Apple	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/polyai/jobs	2026-04-21	scan-v146-greenhouse-apis	PolyAI Greenhouse API — 503 Service Unavailable; cannot fetch	PolyAI	skipped_no_intern
+https://boards-api.greenhouse.io/v1/boards/parloa/jobs	2026-04-21	scan-v146-greenhouse-apis	Parloa Greenhouse API — 503 Service Unavailable; confirmed no intern in v117	Parloa	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/humeai/jobs	2026-04-21	scan-v146-greenhouse-apis	HumeAI Greenhouse API — 8 roles; 0 intern/new-grad; all senior FTE	HumeAI	skipped_no_intern
+https://boards-api.greenhouse.io/v1/boards/intercom/jobs	2026-04-21	scan-v146-greenhouse-apis	Intercom Greenhouse API — 0 intern/new-grad roles; all senior FTE; confirmed dup v117	Intercom	skipped_no_intern
+https://boards-api.greenhouse.io/v1/boards/stripe/jobs	2026-04-21	scan-v146-greenhouse-apis	Stripe Greenhouse API — 1 role: Data Analyst Intern Toronto Canada (not US SWE); skipping	Stripe	skipped_title
+https://boards-api.greenhouse.io/v1/boards/rippling/jobs	2026-04-21	scan-v146-greenhouse-apis	Rippling Greenhouse API — 404 Not Found; no active board	Rippling	skipped_no_intern
+https://boards-api.greenhouse.io/v1/boards/retool/jobs	2026-04-21	scan-v146-greenhouse-apis	Retool Greenhouse API — 404 Not Found; no active board	Retool	skipped_no_intern
+https://boards-api.greenhouse.io/v1/boards/scale/jobs	2026-04-21	scan-v146-greenhouse-apis	Scale AI Greenhouse API — 404 Not Found; confirmed dup v7+	Scale AI	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/mongodb/jobs	2026-04-21	scan-v146-greenhouse-apis	MongoDB Greenhouse API — confirmed dup v9+; no new intern roles	MongoDB	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/elastic/jobs	2026-04-21	scan-v146-greenhouse-apis	Elastic Greenhouse API — 0 intern/new-grad; all senior FTE	Elastic	skipped_no_intern
+https://boards-api.greenhouse.io/v1/boards/datadog/jobs	2026-04-21	scan-v146-greenhouse-apis	Datadog Greenhouse API — 0 intern; confirmed dup/no-intern v7+	Datadog	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/squareup/jobs	2026-04-21	scan-v146-greenhouse-apis	Square/Block Greenhouse API — 404 Not Found	Square/Block	skipped_no_intern
+https://boards-api.greenhouse.io/v1/boards/robinhood/jobs	2026-04-21	scan-v146-greenhouse-apis	Robinhood Greenhouse API — 2 early talent roles: PeopleX Partner Intern + Customer Experience; 0 SWE intern	Robinhood	skipped_title
+https://boards-api.greenhouse.io/v1/boards/zendesk/jobs	2026-04-21	scan-v146-greenhouse-apis	Zendesk Greenhouse API — 404 Not Found	Zendesk	skipped_no_intern
+https://boards-api.greenhouse.io/v1/boards/brex/jobs	2026-04-21	scan-v146-greenhouse-apis	Brex Greenhouse API — Rotational Program (Canada/Brazil/SLC only); not standard SWE intern; confirmed dup v7+	Brex	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/lacework/jobs	2026-04-21	scan-v146-greenhouse-apis	Lacework Greenhouse API — 404 Not Found; confirmed no intern v119	Lacework	skipped_no_intern
+https://boards-api.greenhouse.io/v1/boards/snyk/jobs	2026-04-21	scan-v146-greenhouse-apis	Snyk Greenhouse API — 404 Not Found; confirmed no intern v117+	Snyk	skipped_no_intern
+https://boards-api.greenhouse.io/v1/boards/semgrep/jobs	2026-04-21	scan-v146-greenhouse-apis	Semgrep Greenhouse API — 404 Not Found; confirmed dup/no intern v7-v97	Semgrep	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/sentry/jobs	2026-04-21	scan-v146-greenhouse-apis	Sentry Greenhouse API — 0 intern roles; Sentry New Grad dup v7+	Sentry	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/abnormalsecurity/jobs	2026-04-21	scan-v146-greenhouse-apis	Abnormal Security Greenhouse API — 98 roles; 0 intern/new-grad; all senior FTE	Abnormal Security	skipped_no_intern
+https://jobs.ashbyhq.com/ramp/ccb1aca4-79ac-414b-b7d8-bc908c575ef1	2026-04-21	scan-v146-websearch-ashby	Ramp FDE Intern — confirmed dup v7+; evaluated report #341 (4.5/5)	Ramp	skipped_dup
+https://jobs.ashbyhq.com/notion/23ac2477-0008-4bed-b1c1-81f90a32e9e6	2026-04-21	scan-v146-websearch-ashby	Notion SWE Intern — confirmed dup v7+	Notion	skipped_dup
+https://jobs.ashbyhq.com/gigaml/aa903645-854f-4404-9d49-8a96f0dcc2cc	2026-04-21	scan-v146-websearch-ashby	Giga SWE Intern — confirmed dup v7+; below threshold	Giga	skipped_dup
+https://jobs.ashbyhq.com/farsight/096cdc49-06ae-4724-8f46-c58184e98334	2026-04-21	scan-v146-websearch-ashby	Farsight AI SWE Intern — confirmed dup v7+	Farsight AI	skipped_dup
+https://jobs.ashbyhq.com/harvey/b6509622-5c1e-4a3f-916b-6e56b8fd212f	2026-04-21	scan-v146-websearch-ashby	Harvey SWE Intern — confirmed dup v7+	Harvey	skipped_dup
+https://jobs.ashbyhq.com/delinea/3eed48b7-b60c-4c50-adc2-4523337e1592	2026-04-21	scan-v146-websearch-ashby	Delinea SWE Intern — confirmed dup v7+	Delinea	skipped_dup
+https://jobs.lever.co/nominal/f2673e2a-381e-49eb-bb34-7633ac0d5ea4	2026-04-21	scan-v146-websearch-lever	Nominal SWE Intern — confirmed dup v7+; listing closed 404	Nominal	skipped_dup
+https://jobs.lever.co/SymmetrySystems/dbca271b-a99b-48ab-83f2-b596a037ad65	2026-04-21	scan-v146-websearch-lever	Symmetry Systems Full Stack Intern — confirmed dup v7+	Symmetry Systems	skipped_dup
+https://jobs.lever.co/theathletic/e55c3738-517a-4033-843d-0c572f63145e	2026-04-21	scan-v146-websearch-lever	The Athletic Engineering Intern (Remote) — NEW; media/sports journalism domain; $25/hr below min threshold; skipping	The Athletic	skipped_score
+https://job-boards.greenhouse.io/cloudflare/jobs/7206269	2026-04-21	scan-v146-greenhouse-broad	Cloudflare SWE Intern Austin TX — confirmed dup v7+	Cloudflare	skipped_dup
+https://job-boards.greenhouse.io/pdtpartners/jobs/7073180	2026-04-21	scan-v146-greenhouse-broad	PDT Partners SWE Intern — confirmed dup v7+	PDT Partners	skipped_dup
+https://job-boards.greenhouse.io/astranis/jobs/4667477006	2026-04-21	scan-v146-greenhouse-broad	Astranis Data Platform Intern — confirmed dup v7+; $29/hr below floor	Astranis	skipped_dup
+https://job-boards.greenhouse.io/doordashusa/jobs/7262223	2026-04-21	scan-v146-greenhouse-broad	DoorDash SWE Intern — confirmed dup v144+; in pipeline ~3.0/5	DoorDash	skipped_dup
+https://job-boards.greenhouse.io/gemini/jobs/7360337	2026-04-21	scan-v146-security-broad	Gemini Security Engineering Intern — confirmed dup v7+; evaluated	Gemini	skipped_dup
+https://job-boards.greenhouse.io/gemini/jobs/7360510	2026-04-21	scan-v146-security-broad	Gemini Security GRC Intern — confirmed dup v7+	Gemini	skipped_dup
+https://job-boards.greenhouse.io/gemini/jobs/7293075	2026-04-21	scan-v146-security-broad	Gemini SWE Intern — confirmed dup v7+	Gemini	skipped_dup
+https://job-boards.greenhouse.io/schonfeld/jobs/7248075	2026-04-21	scan-v146-security-broad	Schonfeld Cybersecurity Ops Intern — confirmed dup v7+; posting removed from board	Schonfeld	skipped_dup
+https://job-boards.greenhouse.io/gallup/jobs/4185955009	2026-04-21	scan-v146-security-broad	Gallup Security Intern — confirmed dup v7+; Omaha NE on-site, location mismatch	Gallup	skipped_dup
+https://job-boards.greenhouse.io/memx/jobs/4987814008	2026-04-21	scan-v146-security-broad	MEMX InfoSec Intern — confirmed dup v7+; posting removed from board	MEMX	skipped_dup
+https://job-boards.greenhouse.io/togetherai/jobs/5012785007	2026-04-21	scan-v146-security-broad	Together AI Security Intern — confirmed dup v7+; board cleared v111	Together AI	skipped_dup
+https://jobs.lever.co/actian/21624589-9c91-48ca-bce7-ba4d0bb9a868	2026-04-21	scan-v146-security-broad	Actian AI Security Intern — confirmed dup v7+; in pipeline	Actian	skipped_dup
+https://jobs.lever.co/gohighlevel/5628aebc-0c9e-44f0-8f4d-5ec28e632560	2026-04-21	scan-v146-security-broad	HighLevel Cybersecurity Intern — confirmed dup v51+; in pipeline	GoHighLevel	skipped_dup
+https://jobs.ashbyhq.com/worldly/b297af2e-4d68-4cc5-9d8a-6b83a18c2e31	2026-04-21	scan-v146-security-broad	Worldly Security Ops Intern — confirmed dup v7+; in pipeline	Worldly	skipped_dup
+https://job-boards.greenhouse.io/bandwidth/jobs/7386207	2026-04-21	scan-v146-devops-broad	Bandwidth SW Infrastructure Intern — confirmed dup v7+; posting removed from board	Bandwidth	skipped_dup
+https://job-boards.greenhouse.io/dvtrading/jobs/4677094005	2026-04-21	scan-v146-devops-broad	DV Trading DevOps Intern — confirmed dup v7+	DV Trading	skipped_dup
+https://job-boards.greenhouse.io/zscaler/jobs/4976260007	2026-04-21	scan-v146-devops-broad	Zscaler Technical Intern — confirmed dup v7+; in pipeline	Zscaler	skipped_dup
+https://job-boards.greenhouse.io/okta/jobs/7551652	2026-04-21	scan-v146-devops-broad	Okta Data Platform Engineer Intern — confirmed dup/closed v119	Okta	skipped_dup
+https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa	2026-04-21	scan-v146-devops-broad	Poshmark Cloud Platform Engineer Intern — NEW URL (different from AI/ML); Redwood City CA; e-commerce domain; ~3.0/5 below threshold	Poshmark	skipped_score
+https://job-boards.greenhouse.io/sigmacomputing/jobs/7575892003	2026-04-21	scan-v146-new-grad	Sigma Computing SWE Intern — confirmed dup v7+	Sigma Computing	skipped_dup
+https://jobs.ashbyhq.com/prophet-security/b432d9fa-f627-433f-8fda-71e3ada89039	2026-04-21	scan-v146-new-grad	Prophet Security New Grad Backend/ML — confirmed dup v9+; in pipeline	Prophet Security	skipped_dup
+https://jobs.ashbyhq.com/profound/70a34e11-d3c7-4db2-a3fa-52d8cf627642	2026-04-21	scan-v146-new-grad	Profound New Grad SWE SF — confirmed dup v7+; in pipeline	Profound	skipped_dup
+https://jobs.ashbyhq.com/ramp/83075cf0-9c22-4475-9c6b-e21923a96df8	2026-04-21	scan-v146-new-grad	Ramp University Grad Backend — confirmed dup v7+; in pipeline	Ramp	skipped_dup
+https://jobs.ashbyhq.com/harvey/163860df-ae88-437d-81da-305efa554dff	2026-04-21	scan-v146-new-grad	Harvey New Grad SWE — confirmed dup v7+	Harvey	skipped_dup
+https://jobs.ashbyhq.com/whatnot/bc8f8c7f-2c4c-4f43-a238-953568c101b8	2026-04-21	scan-v146-new-grad	Whatnot New Grad SWE — confirmed dup v7+	Whatnot	skipped_dup
+https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc	2026-04-21	scan-v146-new-grad	Replit New Grad SWE — confirmed dup v7+	Replit	skipped_dup
+https://jobs.ashbyhq.com/sentry/aedee875-ffca-477a-bc8c-1347628cc596	2026-04-21	scan-v146-new-grad	Sentry New Grad SWE — confirmed dup v7+	Sentry	skipped_dup
+https://jobs.ashbyhq.com/decagon/95a4707d-1def-481a-bb78-38a4b22b6891	2026-04-21	scan-v146-new-grad	Decagon Agent SWE New Grad — confirmed dup v7+	Decagon	skipped_dup
+https://jobs.ashbyhq.com/benchling/b3c9b312-6e2b-4dbc-9b15-0b0310d75a7f	2026-04-21	scan-v146-new-grad	Benchling New Grad SWE — confirmed dup v7+; biotech domain	Benchling	skipped_dup
+https://careers.salesforce.com/en/jobs/jr308796/summer-2026-intern-software-engineer/	2026-04-21	scan-v146-enterprise	Salesforce SWE Intern — confirmed dup v7+; evaluated 3.7/5 (#328)	Salesforce	skipped_dup
+https://careers.snap.com/job?id=H225SWEI	2026-04-21	scan-v146-enterprise	Snap SWE Intern H225SWEI — confirmed CLOSED Jan 27 2026 per v54 scan	Snap	skipped_closed
+https://www.coinbase.com/careers/positions/7268895	2026-04-21	scan-v146-enterprise	Coinbase SWE Intern SF/NYC — confirmed dup v9+; crypto/blockchain domain negative filter	Coinbase	skipped_dup
+https://www.rubrik.com/company/careers/departments/job.7071674	2026-04-21	scan-v146-enterprise	Rubrik SWE Internship Summer 2026 — confirmed CLOSED March 13 (v114 scan); rubrik.com may show stale listing; Palo Alto CA on-site; skipping	Rubrik	skipped_closed
+https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Back-End-Software-Engineer-Intern_R0131019	2026-04-21	scan-v146-enterprise	PayPal Backend SWE Intern San Jose — NEW URL not in history; $26-55/hr; Ruby/Java/Python; requires returning to school Fall 2026; fintech payments domain; comp range low end below floor; ~3.2/5 below threshold	PayPal	skipped_score
+https://github.com/SimplifyJobs/Summer2026-Internships	2026-04-21	scan-v146-github-simplify	SimplifyJobs v146: 0-2d new entries (Togetherwork TAMU-ineligible/Mark43 mobile/Vendelux dup/AssetWorks dup/KLA advanced-degree/First American AI intern ~2.5/5 domain/Arcadis developer/Fiserv/Veeva Syst — all non-target or dup); 0 new qualifying	SimplifyJobs	skipped_dup
+https://github.com/speedyapply/2026-AI-College-Jobs	2026-04-21	scan-v146-github-speedyapply-ai	SpeedyApply AI v146: top entries (Meta Audio/Adobe ML/Roblox PhD/NVIDIA/Airbnb PhD/Citadel PhD — all dup or PhD-only; Poshmark/Kognitos/Bosch/CMT/Latitude PhD/SS&C Quant — all dup or below threshold/non-target); 0 new qualifying	SpeedyApply AI	skipped_dup
+https://github.com/speedyapply/2026-SWE-College-Jobs	2026-04-21	scan-v146-github-speedyapply-swe	SpeedyApply SWE v146: top entries (Pinterest Fall Toronto/Salesforce dup/Roblox/Kognitos dup/Ripple dup/Zoox dup/BlackSky dup/Baxter embedded — all dup or non-target); 0 new qualifying	SpeedyApply SWE	skipped_dup
