@@ -95,6 +95,7 @@ No new listings scored ≥4.0 in v141.
 | HIGH | Verkada — Security SWE New Grad (#389) | Verkada | 4.1/5 | Apply soon |
 | HIGH | Accenture — Claude/Anthropic Tech Arch Analyst (#387) | Accenture | 4.0/5 | Apply soon |
 | HIGH | Illumio — SRE Engineering Intern (#386) | Illumio | 4.0/5 | Apply soon |
+| HIGH | Netflix — Software Engineer Intern (#391) | Netflix | 4.2/5 | Apply soon (v108 find) |
 
 ---
 

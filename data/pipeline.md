@@ -7,6 +7,15 @@
 <!-- ⚡ URGENT: Anthropic Fellows ML Systems #372 4.1/5 — DEADLINE APRIL 26, 2026 (5 DAYS). APPLY IMMEDIATELY. -->
 <!-- ⚡ PRIORITY: ByteDance AI Security Intern #388 4.3/5 — San Jose CA; adversarial LLM testing exact match; APPLY THIS WEEK. -->
 
+<!-- === NEW 2026-04-21 SCAN v108 (Autonomous Agent — supplemental sweep v108: Greenhouse APIs (Anthropic/Airtable/Vercel/Glean — all 503 errors); WebSearch (Ashby/Greenhouse/Lever broad, SimplifyJobs 0d, SpeedyApply SWE/AI 0d entries) — all confirmed dup v7-v107 or below threshold EXCEPT Netflix SWE Intern; KEY FINDING: 1 new above-threshold listing — Netflix SWE Intern Summer 2026 (4.2/5) EVALUATED report #391; history: +1 new entry (Netflix); total v108 scans documented) === -->
+<!-- 1 new qualifying listing ≥4.0/5 (Netflix SWE Intern 4.2/5 report #391). 1 pipeline addition. -->
+<!-- ⚡ URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026 (5 DAYS). APPLY IMMEDIATELY. -->
+<!-- ⚡ URGENT: Anthropic Fellows AI Safety #370 4.2/5 — DEADLINE APRIL 26, 2026 (5 DAYS). APPLY IMMEDIATELY. -->
+<!-- ⚡ URGENT: Anthropic Fellows ML Systems #372 4.1/5 — DEADLINE APRIL 26, 2026 (5 DAYS). APPLY IMMEDIATELY. -->
+
+### ⭐ Evaluated (score 4.2/5) — scan-v108 — REPORT FILED
+- [x] https://explore.jobs.netflix.net/careers/job/790312348360 | Netflix | Software Engineer Intern (Summer 2026) | **4.2/5** → report #391 | Los Gatos CA on-site; $40-110/hr (~$65-85/hr realistic for BS intern = $130K+ ann); 12 wks May or Jun start; multi-track: backend infra/distributed systems/security/ML-AI; Finch 35K-line backend + HMAC/TLS/OAuth security exact match; FAANG-adjacent brand; apply immediately
+
 <!-- === NEW 2026-04-21 SCAN v137 (Fresh-angle sweep: Cybersecurity APIs/Consulting/Fintech/Big Tech late/AI infra/YC/SimplifyJobs/SpeedyApply/Greenhouse APIs — all channels exhaustively checked; 0 new qualifying listings found; Summer 2026 market confirmed fully saturated after 137 consecutive scans) === -->
 <!-- 0 new qualifying URLs found (score >=4.0). 0 pipeline additions. History: 3,115 -> 3,134 entries (+19 new scan-v137 entries). -->
 <!-- ⚡ URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026 (5 DAYS). APPLY IMMEDIATELY. -->

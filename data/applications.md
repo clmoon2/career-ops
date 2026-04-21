@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 391 | 2026-04-21 | Netflix | Software Engineer Intern (Summer 2026) | 4.2/5 | Evaluada | ❌ | [391](reports/391-netflix-swe-intern-summer-2026-2026-04-21.md) | FAANG-adjacent; Los Gatos CA on-site; $40-110/hr; 12 wks May/Jun start; multi-track (backend/security/AI); Finch prod systems+security exact match; apply immediately |
 | 388 | 2026-04-20 | ByteDance | SWE Project Intern (AI Security) | 4.3/5 | Evaluada | ❌ | [388](reports/388-bytedance-ai-security-intern-2026-04-20.md) | AI red teaming + adversarial LLM eval pipelines; $45-60/hr; San Jose CA; 3mo min; LLM Adversarial Testing project = exact match; verify summer start; Chinese parent co (brand risk) |
 | 390 | 2026-04-20 | Rockstar Games | Intern: Security Engineering Automation (Summer 2026) | 4.0/5 | Evaluada | ❌ | [390](reports/390-rockstar-security-engineering-automation-intern-2026-04-20.md) | NYC 10wks Jun-Aug; Python+security automation; ~$34/hr; cover letter required; different from SecOps #250; defense-in-depth + Python automation = exact match |
 | 389 | 2026-04-20 | Verkada | Security Software Engineer, Univ Graduate 2026 | 4.1/5 | Evaluada | ❌ | [389](reports/389-verkada-security-swe-newgrad-2026-04-20.md) | $148-218K total; San Mateo CA on-site; HMAC/TLS/OAuth/CORS prod impl = exact match; new grad FTE; apply immediately + verify grad date |
