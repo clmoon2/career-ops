@@ -2284,3 +2284,38 @@ None — no new qualifying listings discovered.
 **intern-list.com:** All April 17-18 entries dup (SAP Montreal closed, Cisco dup, Applied Materials dup).
 
 <!-- === END 2026-04-21 SCAN v138 === -->
+
+<!-- === BEGIN 2026-04-21 SCAN v144 (autonomous agent) === -->
+
+**Scan v144 — 2026-04-21** | Autonomous scan: SimplifyJobs (0-1d) + SpeedyApply AI + Greenhouse broad + Ashby broad + Lever broad + TikTok/ByteDance targeted + DoorDash + Crusoe re-open verification | Net new qualifying ≥4.0: **0** | New pipeline entries: **2** (below threshold, added for tracking)
+
+> Market status: **Fully saturated — Summer 2026 internship season closed.** 144 consecutive scans. No new ≥4.0 listings. Two genuinely new URLs discovered (TikTok PGC-LLM + DoorDash).
+> ✅ **System fix:** Created missing report files #388–392 that were tracked in applications.md but files didn't exist.
+> ✅ **System fix:** Restored `modes/_profile.md` from template (was missing).
+> ⚠️ **Crusoe Product Security Applied AI Intern:** Appearing active on Simplify, LinkedIn, Climate Draft, G2VP as of April 21. Direct Ashby URL returning 503. Needs manual verification — visit https://jobs.ashbyhq.com/Crusoe directly.
+
+### ✅ Evaluated (score ≥ 4.0) — scan-v144
+None — no new qualifying listings discovered.
+
+### 🆕 New URLs discovered — scan-v144
+
+- [ ] https://lifeattiktok.com/search/7533482613907081480 | TikTok | Software Engineer Intern (TikTok-PGC-LLM Applications and AI Agents) - 2026 Summer (BS/MS) — San Jose CA; $45/hr; LLM/MLLM/RAG/Agents platform development; Python/Golang; requires practical genAI/LLM/agent experience; 12 weeks; rolling; strong technical match but brand risk + TikTok 2-app limit (count against #388+#392); (~3.8/5 — below 4.0 threshold)
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/7262223 | DoorDash | Software Engineer, Intern (Summer 2026) — SF/NY/Sunnyvale/LA/Seattle; comp undisclosed (~$45-50/hr est); Python/Java/databases; generic SWE role, food delivery domain mismatch; 12 weeks May/Jun start; no F-1 (Carlos OK); (~3.0/5 — below threshold)
+
+### Skipped — scan-v144
+
+- https://lifeattiktok.com/search/7533114979626109191 | TikTok | Backend SWE Intern (Privacy/Security-Age Compliance) — San Jose CA; $45-60/hr; compliance/age-gating backend; Python/Java/Go/C++; compliance domain mismatch; (~2.8/5)
+- https://lifeattiktok.com/search/7540823204350527752 | TikTok | SWE Intern (AI Model Optimization) — $45/hr; deep learning model optimization; PyTorch/TF/JAX; August/September start = conflicts with fall semester; (~2.5/5)
+- https://lifeattiktok.com/search/7533029779479791890 | TikTok | SWE Intern (Intelligent Creation - Generative AI and Graphics) — San Jose CA; Computer Graphics/3D/game engines/VFX expertise required; domain mismatch; (~2.0/5)
+- https://lifeattiktok.com/search/7605996823695116597 | TikTok/BytePlus | AI Agent Project Intern — London, UK only; not US-based; skip
+
+### Companies Confirmed No New Intern/New-Grad Roles — scan-v144
+**SimplifyJobs 0-1d:** Lumentum (Ottawa Canada — not US); Togetherwork (UT Austin enrollment required — TAMU not eligible); Mark43 (mobile — dup v138); Vendelux (dup v138); AssetWorks (dup v138); KLA (advanced degree req).
+**SimplifyJobs New Grad:** RTX (defense); Cadence SWE1 (Java-heavy); Adobe (dup v114); Apex Fintech (fintech domain); KBR (defense GIS).
+**SpeedyApply AI:** Meta Audio Research (dup v103); Nielsen InfoSec AI (dup v103 — comp below floor); Nielsen AI OSS (dup v103); Okta AI Content (dup v103); Trumid AI Automation (dup v102 — 3.5/5).
+**Ashby broad:** Notion/Replit/Giga/Farsight/Fizz/Cohere/Zettabyte/Delinea — all confirmed dup v7-v143.
+**Lever broad:** Symmetry/Artera/Shield AI/Voleon/NimbleRx/BestEgg/Veeva/Waabi/SoloPulse — all confirmed dup v7-v143.
+**Greenhouse broad:** Cloudflare (all dup)/Together AI (dup)/Obsidian Security (dup)/Aquatic Capital (dup)/Affirm (dup)/HP IQ (dup)/Mercury AI Enablement (Fall 2026 — wrong season).
+**ByteDance/TikTok targeted:** 8 new URLs found; 4 below threshold; 1 London-only; 1 fall-start conflict; 2 added to pipeline (~3.8 and ~3.0/5).
+
+<!-- === END 2026-04-21 SCAN v144 === -->
