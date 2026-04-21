@@ -1,5 +1,12 @@
 # Pipeline -- Pending URLs
 
+<!-- === NEW 2026-04-21 SCAN v141 (Autonomous Agent — comprehensive fresh-angle sweep v141: SimplifyJobs 0d (Arcadis/Emerson/Fiserv/KLA/Berkley/Signify/Draper — all non-target industrial/insurance/semiconductor domains, below threshold); Microsoft Security intern board — 3 NEW URLs discovered (Security Operations 1783554/Security Assurance 1772453/SE Security Redmond 1774066) — all NEW to history but all closed/redirected or past March 15 deadline; Tesla InfoSec intern board — 3 NEW URLs discovered (Offensive Security 258144 CLOSED 404/$38-53hr; SE Information Security 261553 Bellevue WA $38-50hr ETL/Spark domain mismatch ~3.3/5; SE Service Engineering Privacy 259219 vehicle/HW domain ~2.0/5) — all below 4.0 threshold; HackerNews April 2026 Who is Hiring — 503 Service Unavailable (retry next scan); YC W26 all dup; Lever/Ashby/Greenhouse broad all dup v7-v140; Wiz/Orca/Lacework no intern programs; Spotify deadlines passed Feb 5; Scale AI/Lyft/Brex/Atlassian/Intuit all dup; Deloitte consulting deadlines passed July 2025; KEY FINDINGS: 6 new URLs added to history (3 Microsoft + 3 Tesla) — all below 4.0 threshold or closed; 0 qualifying new listings; Summer 2026 market CONFIRMED FULLY SATURATED after 141 consecutive scans; ⚡ URGENT: Anthropic Fellows DEADLINE APRIL 26 = 5 DAYS) === -->
+<!-- 0 new qualifying listings ≥4.0/5. 6 new history entries (3 Microsoft closed/expired + 3 Tesla below threshold/closed). 18 new scan entries total. Summer 2026 market fully saturated. -->
+<!-- ⚡ URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026 (5 DAYS). APPLY IMMEDIATELY. -->
+<!-- ⚡ URGENT: Anthropic Fellows AI Safety #370 4.2/5 — DEADLINE APRIL 26, 2026 (5 DAYS). APPLY IMMEDIATELY. -->
+<!-- ⚡ URGENT: Anthropic Fellows ML Systems #372 4.1/5 — DEADLINE APRIL 26, 2026 (5 DAYS). APPLY IMMEDIATELY. -->
+<!-- ⚡ PRIORITY: ByteDance AI Security Intern #388 4.3/5 — San Jose CA; adversarial LLM testing exact match; APPLY THIS WEEK. -->
+
 <!-- === NEW 2026-04-21 SCAN v137 (Fresh-angle sweep: Cybersecurity APIs/Consulting/Fintech/Big Tech late/AI infra/YC/SimplifyJobs/SpeedyApply/Greenhouse APIs — all channels exhaustively checked; 0 new qualifying listings found; Summer 2026 market confirmed fully saturated after 137 consecutive scans) === -->
 <!-- 0 new qualifying URLs found (score >=4.0). 0 pipeline additions. History: 3,115 -> 3,134 entries (+19 new scan-v137 entries). -->
 <!-- ⚡ URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026 (5 DAYS). APPLY IMMEDIATELY. -->
