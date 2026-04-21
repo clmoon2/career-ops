@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 392 | 2026-04-21 | TikTok | Security Software Engineer Project Intern (Product Security) | 4.0/5 | Evaluada | ❌ | [392](reports/392-tiktok-security-swe-intern-product-security-2026-04-21.md) | LLM/MCP security + pentesting; $45-60/hr; San Jose CA on-site; 3mo; cybersec minor + adversarial LLM testing match; apply after Anthropic Fellows (Apr 26 deadline) + #388/#391 |
 | 391 | 2026-04-21 | Netflix | Software Engineer Intern (Summer 2026) | 4.2/5 | Evaluada | ❌ | [391](reports/391-netflix-swe-intern-summer-2026-2026-04-21.md) | FAANG-adjacent; Los Gatos CA on-site; $40-110/hr; 12 wks May/Jun start; multi-track (backend/security/AI); Finch prod systems+security exact match; apply immediately |
 | 388 | 2026-04-20 | ByteDance | SWE Project Intern (AI Security) | 4.3/5 | Evaluada | ❌ | [388](reports/388-bytedance-ai-security-intern-2026-04-20.md) | AI red teaming + adversarial LLM eval pipelines; $45-60/hr; San Jose CA; 3mo min; LLM Adversarial Testing project = exact match; verify summer start; Chinese parent co (brand risk) |
 | 390 | 2026-04-20 | Rockstar Games | Intern: Security Engineering Automation (Summer 2026) | 4.0/5 | Evaluada | ❌ | [390](reports/390-rockstar-security-engineering-automation-intern-2026-04-20.md) | NYC 10wks Jun-Aug; Python+security automation; ~$34/hr; cover letter required; different from SecOps #250; defense-in-depth + Python automation = exact match |

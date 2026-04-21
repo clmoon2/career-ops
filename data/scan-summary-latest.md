@@ -1,123 +1,85 @@
-# Portal Scan Summary — 2026-04-21 (v141)
+# Portal Scan Summary — 2026-04-21 (v142)
 
+**Scan:** v142 (Autonomous Agent — fresh-angle sweep)
 **Date:** 2026-04-21
-**Scan version:** v141 (autonomous agent)
-**Total scans to date:** 141 consecutive scans since 2026-04-07
+**Career-ops update:** v1.1.0 → v1.3.0 available (run `node update-system.mjs apply` to update)
 
 ---
 
-## Scan Stats
+## Results
 
-| Metric | Count |
-|--------|-------|
-| Sources searched | 20+ |
-| New URLs discovered (not in prior history) | 6 |
-| Listings filtered — closed/expired | 4 |
-| Listings filtered — below threshold (<4.0) | 2 |
-| New listings added to pipeline (≥4.0) | **0** |
-| Full reports written | **0** |
-| Scan history entries before v141 | 3,135 |
-| Scan history entries after v141 | 3,153 |
+```
+Portal Scan — 2026-04-21 (v142)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Sources scanned: 20+
+New URLs discovered: 9
+New qualifying listings (≥4.0/5): 1
+Skipped (title mismatch/wrong level): 3
+Skipped (no intern program): 2
+Skipped (duplicates): 3
+Skipped (past deadline): 1
 
----
-
-## Sources Scanned
-
-| Source | Result |
-|--------|--------|
-| SimplifyJobs Summer2026 (0d entries) | All non-target domains (industrial/semiconductor/insurance) — 0 qualifying |
-| SimplifyJobs New Grad | All dup v7-v140 — 0 qualifying |
-| Microsoft security intern board | **3 NEW URLs** (1783554/1772453/1774066) — all closed or past March 15 deadline |
-| Apple internships | All confirmed dup v7-v140 — 0 qualifying |
-| Google SWE Intern | Confirmed dup v7 — 0 qualifying |
-| Tesla InfoSec intern board | **3 NEW URLs** (258144/261553/259219) — 1 closed (404), 2 below threshold |
-| Deloitte Technology Consulting | Application deadlines passed July 2025 — 0 qualifying |
-| HackerNews April 2026 "Who is Hiring" | 503 Service Unavailable — could not access (retry next scan) |
-| Lever broad (Actian/Symmetry/Voleon/Shield AI/Artera/etc.) | All confirmed dup v7-v140 — 0 qualifying |
-| Ashby broad (Notion/Replit/Giga/Cohere/Harvey/Decagon/Zip/etc.) | All confirmed dup v7-v140 — 0 qualifying |
-| Greenhouse broad (Scale AI/Cloudflare/Lyft/Brex/Figma/Verkada/etc.) | All confirmed dup v7-v140 — 0 qualifying |
-| YC W26 internships (Swif.ai/Dex/SafetyKit/SubImage/Browser Use/etc.) | All confirmed dup v30-v140 — 0 qualifying |
-| Spotify (Engineering/ML/Backend Summer 2026) | All confirmed dup v125; deadlines passed Feb 5, 2026 — 0 qualifying |
-| Wiz / Orca Security / Lacework / Sysdig | No intern programs found — 0 qualifying |
-| Scale AI / Lyft / Brex / Atlassian / Intuit | All confirmed dup v7-v140 — 0 qualifying |
+New added to pipeline.md: 1
+Reports filed: 1
+```
 
 ---
 
-## New Discoveries (All Below Threshold)
+## New Qualifying Listing — APPLY
 
-### 1. Tesla — Offensive Security Engineer Intern #258144 ❌ CLOSED
-- **URL:** https://www.tesla.com/careers/search/job/internship-offensive-security-engineer-information-security-summer-2026-258144
-- **Location:** Palo Alto, CA (on-site)
-- **Comp:** $38–53/hr (~$79K–$110K ann)
-- **Status:** Website returned 404 — listing closed/filled
-- **Verdict:** skipped_closed
+| Score | Company | Role | Report | Notes |
+|-------|---------|------|--------|-------|
+| **4.0/5** | TikTok | Security Software Engineer Project Intern (Product Security) — 2026 Start (BS/MS) | [#392](reports/392-tiktok-security-swe-intern-product-security-2026-04-21.md) | San Jose CA on-site; $45-60/hr; LLM/MCP server security + pentesting; adversarial LLM testing proof point; apply after Anthropic Fellows deadline |
 
-### 2. Tesla — Software Engineer, Information Security Intern #261553 ⬇️ BELOW THRESHOLD
-- **URL:** https://www.tesla.com/careers/search/job/internship-software-engineer-information-security-summer-2026-261553
-- **Location:** Bellevue, WA (on-site)
-- **Comp:** $38–50/hr (~$79K–$104K ann)
-- **Duration:** 12 weeks, May 2026 start
-- **Focus:** Secure ETL pipelines (Apache Airflow, Spark), REST APIs, CI/CD, Python/Java
-- **Carlos match:** Python ✓, REST APIs ✓, CI/CD ✓ | Spark/Airflow ✗, Java ✗, Bellevue WA relocation ⚠️
-- **Score:** ~3.3/5 — below 4.0 threshold (ETL/data pipeline domain mismatch)
-- **Verdict:** skipped_score
-
-### 3. Tesla — Software Engineer, Service Engineering Privacy #259219 ⬇️ BELOW THRESHOLD
-- **URL:** https://www.tesla.com/careers/search/job/internship-software-engineer-service-engineering-privacy-summer-2026-259219
-- **Location:** Palo Alto, CA (on-site)
-- **Focus:** Vehicle service/diagnostics, privacy, C++/JavaScript/Linux
-- **Score:** ~2.0/5 — hardware/automotive domain mismatch
-- **Verdict:** skipped_score
-
-### 4–6. Microsoft Security Intern Roles ❌ CLOSED/EXPIRED
-- **Security Operations Engineering #1783554** — redirects to main apply page (closed)
-- **Security Assurance #1772453** — deadline was March 15, 2026 (PASSED); $5,610–$11,010/mo; Redmond WA
-- **Software Engineer Security #1774066** (Redmond) — redirects to main apply page (closed)
-- All 3 were NEW URLs not previously in scan history, but all inaccessible
+**URL:** https://lifeattiktok.com/search/7600536394771564853
 
 ---
 
-## Top Matches (Score ≥ 4.0) — NONE THIS SCAN
+## Skipped Listings
 
-No new listings scored ≥4.0 in v141.
-
----
-
-## Active Priority Items (From Prior Scans)
-
-| Priority | Role | Company | Score | Deadline |
-|----------|------|---------|-------|----------|
-| ⚡ URGENT | Anthropic Fellows — AI Security (#246) | Anthropic | 4.7/5 | **APRIL 26** (5 days!) |
-| ⚡ URGENT | Anthropic Fellows — AI Safety (#370) | Anthropic | 4.2/5 | **APRIL 26** (5 days!) |
-| ⚡ URGENT | Anthropic Fellows — ML Systems (#372) | Anthropic | 4.1/5 | **APRIL 26** (5 days!) |
-| 🔥 HIGH | ByteDance — AI Security Intern (#388) | ByteDance | 4.3/5 | Apply this week |
-| HIGH | Rockstar Games — Security Engineering Automation (#390) | Rockstar Games | 4.0/5 | Apply soon |
-| HIGH | Verkada — Security SWE New Grad (#389) | Verkada | 4.1/5 | Apply soon |
-| HIGH | Accenture — Claude/Anthropic Tech Arch Analyst (#387) | Accenture | 4.0/5 | Apply soon |
-| HIGH | Illumio — SRE Engineering Intern (#386) | Illumio | 4.0/5 | Apply soon |
-| HIGH | Netflix — Software Engineer Intern (#391) | Netflix | 4.2/5 | Apply soon (v108 find) |
+| Status | Company | Role | Reason |
+|--------|---------|------|--------|
+| `skipped_title` | ElevenLabs | Impact Program Intern | MBA-only (1st-2nd year MBA); non-technical partnership ops role; not eligible as CS undergrad |
+| `skipped_title` | Sierra | Intern, Agent Development | Fall 2026 — conflicts with TAMU fall semester |
+| `skipped_no_intern` | Vapi | — | All senior FTE roles; no intern program confirmed |
+| `skipped_no_intern` | HN April 2026 | Red Balloon Security interns | No public ATS URL; US citizenship requirements unclear; Glassdoor shows 0 open listings |
+| `skipped_past_deadline` | BCG / BCG Platinion | Summer Associate Intern | June 2, 2026 deadline is for Summer 2027 cycle (graduation Dec 2027-Aug 2028); BCG X requires Masters/PhD |
+| `skipped_dup` | SimplifyJobs | Various | Pinterest Fall 2026 / Baxter Embedded / CACI / GD / Leidos / Raytheon (all defense/non-target or dup v7-v141) |
+| `skipped_dup` | SpeedyApply SWE | Various | BlackSky / Kognitos / Ripple / Zoox — all confirmed dup v7-v141 |
+| `skipped_dup` | Greenhouse broad security | Various | MEMX / Schonfeld / Bandwidth / Zscaler / Gemini — all confirmed dup added April 7 (v7) |
 
 ---
 
-## Market Assessment
+## Market Status
 
-After **141 consecutive scans** since April 7, the Summer 2026 internship market is **fully saturated**:
+**Summer 2026 internship market:** FULLY SATURATED (142 consecutive scans)
 
-- **Ashby, Greenhouse, and Lever boards** have been exhaustively searched. All major ATS platforms' intern listings are confirmed duplicates.
-- **SimplifyJobs and SpeedyApply** new 0-1d entries are limited to non-target domains (industrial, semiconductor, insurance, automotive).
-- **YC W26 batch** has no new qualifying intern listings.
-- **Big Tech** (Google, Apple, Microsoft, Amazon) summer 2026 intern application windows have all closed.
-- **Security-focused companies** (Wiz, Orca, Lacework, Sysdig, Snyk) confirmed no active intern programs.
-- **Tesla InfoSec roles** (3 new discoveries) all below 4.0 threshold or closed.
-- **HackerNews April 2026** thread was inaccessible (503); retry scheduled for next scan.
+The TikTok Product Security listing (v142 discovery) demonstrates that **late-cycle rolling postings still appear** — this URL was not indexed in 141 previous scans. Late-cycle TikTok/ByteDance roles continue to appear on lifeattiktok.com outside the main ByteDance/joinbytedance.com board.
 
-### Recommended next actions:
-1. **⚡ APPLY IMMEDIATELY: Anthropic Fellows (all 3 tracks) — deadline April 26** (5 days!)
-2. **Apply this week: ByteDance AI Security Intern (#388)** — adversarial LLM testing exact match, $45-60/hr
-3. **Apply: Rockstar Games (#390), Verkada (#389), Accenture (#387), Illumio (#386)** — all ≥4.0/5
-4. **Re-scan in 3-5 days** — May 2026 may bring new grad postings as Spring graduations approach
-5. **Try HackerNews "Who is Hiring"** — May 2026 thread posts first of month; April thread was unavailable
+Key observation: TikTok Product Security (MCP server security, LLM feature security) is a uniquely cutting-edge security focus area for an intern role. Worth applying given the adversarial LLM testing proof point.
 
 ---
 
-*Generated by career-ops autonomous scan agent on 2026-04-21*
+## Priority Queue (Apply in this order)
+
+| Priority | Role | Score | Deadline | Report |
+|----------|------|-------|----------|--------|
+| CRITICAL | Anthropic Fellows — AI Security | 4.7/5 | **APRIL 26** (5 days) | #246 |
+| CRITICAL | Anthropic Fellows — AI Safety | 4.2/5 | **APRIL 26** (5 days) | #370 |
+| CRITICAL | Anthropic Fellows — ML Systems | 4.1/5 | **APRIL 26** (5 days) | #372 |
+| HIGH | ByteDance AI Security Intern | 4.3/5 | Rolling | #388 |
+| HIGH | Netflix SWE Intern | 4.2/5 | Rolling | #391 |
+| MEDIUM | TikTok Product Security Intern | 4.0/5 | Rolling | #392 |
+
+---
+
+## Recommended Next Actions
+
+1. **URGENT (5 days):** Apply to all three Anthropic Fellows tracks (AI Security 4.7/5). Deadline April 26.
+2. Apply to ByteDance AI Security (#388) and Netflix (#391) this week.
+3. Apply to TikTok Product Security (#392) — note: two ByteDance-family roles simultaneously.
+4. **Update career-ops:** Run `node update-system.mjs apply` — v1.3.0 available.
+5. **Missing report files:** #388-391 have tracker entries but .md files don't exist in reports/. Run pipeline mode to regenerate.
+6. **Capital One Cybersecurity** (pipeline ~3.8/5): Verify Workday portal still open before applying.
+
+Run `/career-ops pipeline` to process any remaining pending items.
