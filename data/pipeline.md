@@ -1,5 +1,12 @@
 # Pipeline -- Pending URLs
 
+<!-- === NEW 2026-04-21 SCAN v137 (Fresh-angle sweep: Cybersecurity APIs/Consulting/Fintech/Big Tech late/AI infra/YC/SimplifyJobs/SpeedyApply/Greenhouse APIs — all channels exhaustively checked; 0 new qualifying listings found; Summer 2026 market confirmed fully saturated after 137 consecutive scans) === -->
+<!-- 0 new qualifying URLs found (score >=4.0). 0 pipeline additions. History: 3,115 -> 3,134 entries (+19 new scan-v137 entries). -->
+<!-- ⚡ URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026 (5 DAYS). APPLY IMMEDIATELY. -->
+<!-- ⚡ URGENT: Anthropic Fellows AI Safety #370 4.2/5 — DEADLINE APRIL 26, 2026 (5 DAYS). APPLY IMMEDIATELY. -->
+<!-- ⚡ URGENT: Anthropic Fellows ML Systems #372 4.1/5 — DEADLINE APRIL 26, 2026 (5 DAYS). APPLY IMMEDIATELY. -->
+<!-- ⚡ PRIORITY: ByteDance AI Security Intern #388 4.3/5 — San Jose CA; adversarial LLM testing exact match; APPLY THIS WEEK. -->
+
 ## Pendientes
 
 <!-- === NEW 2026-04-20 SCAN v136 (Autonomous Agent — fresh-angle sweep v136: SimplifyJobs April 20 (Allegiant Air/TikTok/Space Dynamics/Poshmark/GD/ChargePoint — all non-target or dup); Greenhouse broad (Private Block CLOSED/Pure Storage C++ ~2.8/5/CoVar no-intern/Samsung SRA 6G ~2.5/5 — all below threshold or closed); Ashby broad (Worldly Security Ops ~3.0/5 NEW/ALSO Backend ~3.2/5 NEW/Superhuman 503 — all below threshold); Lever broad (all confirmed dup v7-v135); Wiz (no intern listings); SentinelOne (no intern listings); Google SWE Intern (listing removed/closed); Tesla SWE Core Infra AI ~3.0/5 (C++ heavy, AV domain); Tesla AI Inference ~3.0/5 (low-level inference compiler); JPMorgan SWE ~3.7/5 (bank domain, below threshold); Goldman Sachs ~3.5/5 (GPA req); NSA/CISA (government complex process); PIPELINE CORRECTION: Fireworks AI v135 MISIDENTIFIED — actual role is "Member of Technical Staff, Performance Optimization" with 5+ years required; NOT early career; demoted to skipped_score; KEY FINDINGS: 1 borderline pipeline addition (Capital One Cybersecurity Plano TX ~3.8/5, needs verification); 0 reports filed; Fireworks AI corrected; 18 new history entries; history 3,034 → 3,052 entries; Summer 2026 SATURATED (136 scans); ⚡ URGENT: Anthropic Fellows DEADLINE APRIL 26 = 6 DAYS) === -->
