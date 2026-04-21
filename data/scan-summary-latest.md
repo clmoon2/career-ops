@@ -1,8 +1,8 @@
-# Portal Scan Summary — 2026-04-20 (v137)
+# Scan Summary — 2026-04-21 (v138)
 
-**Date:** 2026-04-20  
-**Scan version:** v137  
-**Agent:** Autonomous scan agent
+**Date:** 2026-04-21
+**Scan version:** v138
+**Agent:** Autonomous scanner
 
 ---
 
@@ -10,15 +10,12 @@
 
 | Metric | Count |
 |--------|-------|
-| Search queries executed | 25 |
-| Portals / sources scanned | 20+ |
-| Total listings reviewed | ~80 |
-| Filtered (already in history) | ~79 |
-| New URLs discovered | 1 |
-| New listings passing title filter | 0 |
-| New listings scoring ≥ 4.0 | **0** |
-| Reports generated | **0** |
-| Added to pipeline.md | **0** |
+| Portals / sources scanned | 25+ |
+| Total history entries | 3,000+ |
+| New listings found today | 3 (all below threshold) |
+| New listings scored ≥ 4.0 | **0** |
+| New listings added to pipeline | **0** |
+| Companies producing new listings | Mark43, Vendelux, First American |
 
 ---
 
@@ -26,7 +23,7 @@
 
 > **Fully saturated. Summer 2026 internship season effectively closed.**
 
-After 137 scans and 3,000+ history entries, no new qualifying tech internship or new-grad roles were found. The only genuinely new company encountered (Spacial AI — construction/MEP engineering automation) scored ~2.5/5 due to domain mismatch.
+After 138 scans and 3,000+ history entries, no new qualifying tech internship or new-grad roles were found. The 3 new companies encountered today all scored below threshold due to domain mismatch (mobile, event analytics, insurance).
 
 ---
 
@@ -34,23 +31,33 @@ After 137 scans and 3,000+ history entries, no new qualifying tech internship or
 
 | Source | Method | Result |
 |--------|--------|--------|
-| Greenhouse broad | WebSearch | All dup v7-v136 |
-| Ashby broad | WebSearch | All dup v7-v136 |
-| Lever broad | WebSearch | All dup v7-v136 |
-| YC internships / workatastartup | WebSearch | All dup v30-v136 |
-| SimplifyJobs Summer 2026 | WebSearch | All dup |
-| SpeedyApply AI/SWE 2026 | WebSearch | All dup or non-qualifying |
-| Emerging AI companies (Perplexity/xAI/Cerebras) | WebSearch | All dup or no intern program |
-| Consulting firms (EY/PwC/McKinsey/BCG/Booz Allen) | WebSearch | Season not open yet for 2026-27; existing programs dup |
-| Defense tech (Anduril/Shield AI) | WebSearch | Clearance/domain issues |
-| Texas companies (Tyler Tech/CITGO/TD SYNNEX) | WebSearch | All closed, below threshold, or clearance |
-| Fintech (Plaid/Ramp/Brex/Mercury) | WebSearch | All dup or no open summer roles |
-| Palo Alto Networks | WebSearch | Dup via RippleMatch v29-v39 |
-| ServiceNow | WebSearch | Dup v7-v43 |
-| The Trade Desk | WebSearch | Closed March 31 2026 |
-| Snyk | WebSearch | No US intern roles |
-| GameChanger | WebSearch | Dup v20 |
-| Spacial AI | WebSearch | NEW — domain mismatch ~2.5/5 skipped |
+| SimplifyJobs Summer 2026 (0d entries) | WebFetch | 3 new companies, all below threshold |
+| SimplifyJobs New Grad (0-3d entries) | WebFetch | All dup v133-v137 |
+| SpeedyApply AI 2026 | WebFetch | All dup v103-v137 |
+| SpeedyApply SWE 2026 | WebFetch | All dup v104-v137 |
+| Ashby broad (jobs.ashbyhq.com) | WebSearch | All dup v7-v137 |
+| Greenhouse broad (job-boards.greenhouse.io) | WebSearch | All dup v7-v137; Cloudflare 7774167 closed |
+| Lever broad (jobs.lever.co) | WebSearch | All dup v7-v137 |
+| Greenhouse API — Anthropic | WebFetch | All Fellows dup; STEM Fellow (Apr 16) is fellowship not undergrad |
+| Greenhouse API — Glean | WebFetch | No intern; SWE Intern 4595665005 confirmed closed |
+| Greenhouse API — RunPod | WebFetch | No intern program; all senior FTE |
+| Greenhouse API — Temporal | WebFetch | Empty board |
+| SAP iXP (all tracks) | WebSearch | All confirmed dup/closed from v68-v130 |
+| Google Careers | WebFetch | Open listing is Sydney AU only — not US |
+| Okta AI SWE Intern (7547852) | WebFetch | 404 — closed |
+| Roadie AI Engineer (8479096002) | WebFetch | Closed — UX Design Intern only on board |
+| DV Trading AI Engineer (4677605005) | grep check | Confirmed dup v8; Chicago onsite $30-35/hr |
+| intern-list.com | WebFetch | All dup (SAP Montreal closed, Cisco/Applied Materials dup) |
+
+---
+
+## New Companies Discovered (All Below Threshold)
+
+| Company | Role | Location | Score | Status |
+|---------|------|----------|-------|--------|
+| Mark43 | Mobile Engineer Intern | Boston, MA | N/A | skipped_title — mobile focus |
+| Vendelux | Product Engineering Intern | New York, NY | ~2.8/5 | skipped_score — event analytics domain |
+| First American | AI Undergraduate Internship | Santa Ana, CA | ~2.8/5 | skipped_score — insurance domain |
 
 ---
 
@@ -60,45 +67,38 @@ After 137 scans and 3,000+ history entries, no new qualifying tech internship or
 
 ---
 
-## Current Priority Queue (from prior evaluations)
+## Pending Actions — URGENT
 
-The following high-priority items from previous scans are still awaiting action:
+The following previously evaluated roles are awaiting application:
 
-| Priority | Company | Role | Score | Deadline/Notes |
-|----------|---------|------|-------|----------------|
-| ⚠️ URGENT | Anthropic Fellows | AI Security Fellow | 4.7/5 | **DEADLINE APRIL 26** — apply immediately |
-| ⚠️ URGENT | Anthropic Fellows | AI Safety (July 2026) | 4.2/5 | **DEADLINE APRIL 26** — apply immediately |
-| 🔴 HIGH | Cloudflare | Security Engineer Intern | 4.7/5 | Austin TX in-office — apply ASAP |
-| 🔴 HIGH | Mechanize | SWE Intern | 4.6/5 | $100/hr SF — apply ASAP |
-| 🔴 HIGH | Replit | SWE New Grad | 4.5/5 | AI coding platform — apply ASAP |
-| 🔴 HIGH | Atlassian | Security Engineer Intern | 4.5/5 | Seattle 12wk — apply ASAP |
-| 🔴 HIGH | OpenAI | SWE Intern (Summer 2026) | 4.5/5 | SF/Seattle in-person |
-| 🔴 HIGH | Together AI | SWE Intern | 4.5/5 | $58/hr SF on-site |
-| 🔴 HIGH | Ramp | FDE Intern | 4.5/5 | $11K/mo + housing NYC/SF |
-| 🔴 HIGH | Glean | SWE Intern | 4.5/5 | $57-69/hr Palo Alto/SF |
-| 🔴 HIGH | Together AI | Security Intern | 4.5/5 | $58/hr SF on-site |
-| 🟡 GOOD | Browser Use | SWE Intern | 4.4/5 | YC W25; $6K-16K/mo SF |
-| 🟡 GOOD | Decagon | Agent SWE Intern | 4.4/5 | SF May-Sep 2026 |
-| 🟡 GOOD | 1Password | Developer Intern (Extension) | 4.3/5 | Remote US/CA; Chrome MV3 |
-| 🟡 GOOD | ByteDance | AI Security Intern | 4.3/5 | $45-60/hr San Jose CA |
-| 🟡 GOOD | Sierra | Intern, Agent Dev | 4.3/5 | SF on-site |
+| Priority | Company | Role | Report | Score | Action |
+|----------|---------|------|--------|-------|--------|
+| ⚠️ DEADLINE | Accenture | Claude/Anthropic Tech Arch Analyst | #387 | 4.0/5 | **Apply by June 1, 2026** — confirm graduation eligibility |
+| 🔴 HIGH | ByteDance | AI Security Engineer Intern | #388 | 4.3/5 | Apply ASAP — San Jose CA $45-60/hr |
+| 🔴 HIGH | Verkada | Security SWE University Grad | #389 | 4.1/5 | Apply ASAP — San Mateo CA $148-218K |
+| 🔴 HIGH | Rockstar Games | Security Eng Automation Intern | #390 | 4.0/5 | Apply ASAP — NYC 10 weeks |
+| 🔴 HIGH | C3 AI | SWE Intern (Ascend Program) | #380 | 4.0/5 | Apply ASAP — Redwood City CA |
+| 🔴 HIGH | Robinhood | ML Engineer Intern, Agentic ML | #381 | 4.0/5 | Apply ASAP |
+| 🔴 HIGH | Anthropic Fellows | AI Security Fellow | — | 4.7/5 | **DEADLINE APRIL 26** — 5 days left |
+| 🔴 HIGH | Cloudflare | Security Engineer Intern | #294 | 4.7/5 | Austin TX in-office — apply ASAP |
 
 ---
 
-## System Note
+## System Notes
 
-`modes/_profile.md` was missing at scan start — restored from `modes/_profile.template.md`. This is the user's customization file. Review and personalize it at your earliest convenience.
+- `modes/_profile.md` was missing at scan start — recreated from `modes/_profile.template.md` and populated with Carlos's profile data from `cv.md` + `config/profile.yml`.
+- career-ops update available: v1.1.0 → v1.3.0. User can run `node update-system.mjs apply` to update. User data (CV, profile, tracker, reports) will NOT be touched.
 
 ---
 
 ## Recommended Next Actions
 
-1. **APPLY IMMEDIATELY:** Anthropic Fellows AI Security + AI Safety — both deadline **April 26, 2026** (6 days away)
-2. **Apply this week:** Cloudflare Security Intern (#294, Austin TX), Mechanize SWE (#304), Atlassian Security Intern (#355), OpenAI SWE Intern (#353)
-3. **Review applications.md** — 390+ evaluations filed. Filter by `Evaluada` status and begin applying to all ≥ 4.0/5 roles.
-4. **Stop scanning** — market is fully saturated. Summer 2026 intern season is over for new tech postings. Focus energy on **applying** to the 50+ high-quality evaluated roles already in the pipeline.
-5. **Customize `modes/_profile.md`** — the template was just restored. Add your specific archetypes, proof points, and framing to improve future evaluations.
+1. **⚠️ APPLY TODAY:** Anthropic Fellows AI Security — deadline **April 26, 2026** (5 days away)
+2. **Apply this week:** ByteDance AI Security (#388), Verkada Security Grad (#389), Rockstar Security Intern (#390), C3 AI Ascend (#380)
+3. **Apply by June 1:** Accenture Claude/Anthropic Tech Arch Analyst (#387) — confirm graduation eligibility first
+4. **Stop daily scanning** — market is fully saturated after 138 scans. Reduce to **weekly** cadence and focus on applying to the 50+ high-quality evaluated roles already in the pipeline.
+5. **Customize `modes/_profile.md`** — recreated from template today. Review and add your specific framing, proof points, and negotiation scripts.
 
 ---
 
-*Generated by career-ops autonomous scan agent v137 | 2026-04-20*
+*Generated by career-ops autonomous scan agent v138 | 2026-04-21*

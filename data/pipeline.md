@@ -2211,3 +2211,36 @@ None — no new qualifying listings discovered.
 **New sectors scanned:** Defense tech (Anduril/Shield AI — clearance/domain issues), Texas companies (Tyler Tech/CITGO — below threshold), Healthcare/edtech/construction (Spacial AI only match — domain mismatch).
 
 <!-- === END 2026-04-20 SCAN v137 === -->
+
+<!-- === BEGIN 2026-04-21 SCAN v138 (autonomous agent) === -->
+
+**Scan v138 — 2026-04-21** | Comprehensive autonomous scan: SimplifyJobs Summer/New-Grad (0d entries) + SpeedyApply AI/SWE + Ashby broad + Greenhouse broad + Lever broad + Greenhouse APIs (Anthropic/Glean/RunPod/Temporal) + WebSearch targeted queries (SAP/Google/Okta/Roadie/DV Trading/Cloudflare) + intern-list.com | Net new qualifying: **0**
+
+> Market status: **Fully saturated — internship season closed.** 138 scans completed, 3,000+ history entries. Summer 2026 internship season effectively over. All major portals, tracked company ATS boards, and aggregators exhausted. Only 3 new companies discovered today (Mark43/Vendelux/First American) — all below threshold.
+
+> ⚠️ **URGENT DEADLINE: Accenture Claude/Anthropic Tech Arch Analyst (report #387) — deadline June 1, 2026. Apply immediately if eligible.**
+> ⚠️ **PENDING ACTION: C3 AI Ascend Program (report #380) — apply ASAP (evaluated April 20).**
+> ⚠️ **PENDING ACTION: ByteDance AI Security (report #388, 4.3/5) — apply ASAP.**
+
+### ✅ Evaluated (score ≥ 4.0) — scan-v138
+None — no new qualifying listings discovered.
+
+### 🆕 New URLs discovered — scan-v138
+- Mark43 - Mobile Engineer Intern (Boston MA, mobile focus — skipped_title)
+- Vendelux - Product Engineering Intern (NYC, event analytics domain — skipped_score ~2.8/5)
+- First American - AI Undergraduate Intern (Santa Ana CA, insurance domain — skipped_score ~2.8/5)
+
+### Companies Confirmed No New Intern/New-Grad Roles — scan-v138
+**SimplifyJobs 0d entries:** Mark43 (mobile), Vendelux (event analytics), AssetWorks (asset mgmt), Uber (PhD only), TikTok Rec Infra (dup 2.5/5), First American (insurance); SimplifyJobs New Grad: Apex Fintech (fintech domain), RTX/KBR (defense), Accenture (evaluated #387).
+**SpeedyApply:** All dup v103-v137 (Nielsen/Okta/Trumid/Meta/BlackSky/Kognitos/Ripple/Zoox).
+**Ashby broad:** Notion/Replit/Giga/Cohere/Farsight/Harvey/Whatnot/Ramp/Vantage/Sentry/Zip/Delinea/Crusoe/Decagon/Superhuman/ALSO/Northwood Space/Worldly — all dup v7-v137.
+**Greenhouse broad:** Cloudflare (7774167 closed, others dup)/Together AI/Glean/Obsidian/Affirm/Sigma/Roadie AI Eng (closed)/HP IQ/DV Trading/Veeam/Bandwidth/Robinhood — all dup v7-v137.
+**Lever broad:** Symmetry/Artera/Voleon/Shield AI/Nominal/BestEgg/Veeva/SoloPulse — all dup v7-v137.
+**Greenhouse APIs:** Glean (no intern), RunPod (no intern), Temporal (empty board), Anthropic (all Fellows dup v10+).
+**SAP:** All roles confirmed in history v68-v130 (Security AI closed, SuccessFactors Java-heavy, Agentic AI Montreal closed, Platform Infra filled).
+**Google:** SWE intern Sydney only — not US-based.
+**Okta AI SWE (7547852):** 404 closed.
+**Roadie AI Engineer (8479096002):** Closed — only UX Design Intern showing on board.
+**intern-list.com:** All April 17-18 entries dup (SAP Montreal closed, Cisco dup, Applied Materials dup).
+
+<!-- === END 2026-04-21 SCAN v138 === -->
