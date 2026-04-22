@@ -1,5 +1,31 @@
 # Pipeline -- Pending URLs
 
+<!-- === NEW 2026-04-22 SCAN v153 (Autonomous Agent — final comprehensive sweep v153: Priority 1 Greenhouse APIs (PolyAI/Parloa/Intercom/Vercel — all 503; Glean fallback confirmed 200+ roles all senior FTE; PolyAI fallback 23 roles all senior FTE; Intercom 172 roles all senior FTE; no new intern/new-grad); Priority 2 Ashby WebSearch (Deepgram/Bland no intern; n8n/Zapier/Lindy/LangChain/Pinecone/W&B — all dup or no intern; broad Ashby sweep confirmed all dup v7-v152); Priority 3 New Grad (Loop/Scale AI/Freeform/Underdog/Replit/Sentry/Zip/Notion Fall/Benchling/Decagon — all confirmed dup v5-v152); Priority 4 Defense/GovTech (Lockheed Martin 3 SWE Intern postings ~2.5/5 defense domain; RTX all dup/defense; SAIC Technical Intern 503; Leidos all dup); Priority 5 Finance/Quant (Goldman 3.5/5 dup v136; Two Sigma/Citadel/HRT all closed dup); Priority 6 GitHub (SimplifyJobs 0d: all dup v149-v152 — Fortinet/Newton/Nutanix/ICF/GDIS/DNV/ZOLL/MAG Aero/Thermo Fisher; SpeedyApply AI 4-5d old all dup v103-v152); 0 genuinely new qualifying listings ≥4.0/5; 25 new scan-history entries; Summer 2026 internship market CONFIRMED FULLY SATURATED after 153 consecutive exhaustive scans) === -->
+<!-- 0 new qualifying listings ≥4.0/5. 25 new scan-history entries (3,374 total). 0 new pipeline additions. Market confirmed fully saturated — all portals exhausted across 153 consecutive scans. -->
+<!-- ⚡ URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026 (4 DAYS). APPLY IMMEDIATELY. -->
+<!-- ⚡ URGENT: Anthropic Fellows AI Safety #370 4.2/5 — DEADLINE APRIL 26, 2026 (4 DAYS). APPLY IMMEDIATELY. -->
+<!-- ⚡ URGENT: Anthropic Fellows ML Systems #372 4.1/5 — DEADLINE APRIL 26, 2026 (4 DAYS). APPLY IMMEDIATELY. -->
+<!-- ⚡ URGENT: Anthropic Fellows RL #394 3.8/5 — SAME DEADLINE APRIL 26 (apply after top 3). -->
+<!-- ⚡ HIGH PRIORITY: Fortinet Applied AI Intern #393 4.0/5 — apply ASAP; ByteDance AI Security #388 4.3/5 — apply ASAP. -->
+
+### Skipped — scan-v153
+- https://boards-api.greenhouse.io/v1/boards/polyai/jobs | PolyAI | Greenhouse API 503; fallback confirms 23 roles all senior FTE — no intern program
+- https://boards-api.greenhouse.io/v1/boards/parloa/jobs | Parloa | Greenhouse API 503; EU/EMEA focus, no US intern program confirmed
+- https://boards-api.greenhouse.io/v1/boards/intercom/jobs | Intercom | Greenhouse API 503; fallback confirms 172 roles all senior FTE — no intern/new-grad
+- https://boards-api.greenhouse.io/v1/boards/vercel/jobs | Vercel | Greenhouse API 503; confirmed no intern in v151/v152
+- https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs | Glean | 200+ roles; SWE Univ Grad dup v7; no new intern vs v149
+- https://jobs.ashbyhq.com/deepgram | Deepgram | all senior FTE; confirmed no intern program
+- https://jobs.ashbyhq.com/bland | Bland | all senior FTE; no intern/new-grad
+- https://jobs.ashbyhq.com/langchain | LangChain | all senior FTE; no intern/new-grad
+- https://jobs.ashbyhq.com/lindy | Lindy | Engineering Intern dup v108 (04-08); no new roles
+- https://jobs.ashbyhq.com/pinecone | Pinecone | Intern Science NYC + New Grad SWE dup v7; no new roles
+- https://www.lockheedmartinjobs.com | Lockheed Martin | SWE Intern Fort Worth/CO Springs ~2.5/5; defense/aerospace domain
+- https://jobs.saic.com | SAIC | Technical Intern 503/dup; no general SWE intern program confirmed
+- SimplifyJobs 0d batch | Newton Research/Nutanix C++/ICF AI/DNV/ZOLL/MAG Aero/Thermo Fisher/Veeva/GDIS/Skillz — all dup v149 or non-target domain
+- Finance/Quant batch | Goldman Sachs/Two Sigma/Citadel/HRT/Jane Street — all closed or dup; Goldman 3.5/5 below threshold
+
+<!-- === END 2026-04-22 SCAN v153 === -->
+
 <!-- === NEW 2026-04-22 SCAN v150 (Autonomous Agent — comprehensive exhaustive scan v150: Greenhouse APIs (Anthropic all 5 Fellows tracks confirmed active — same as v149, 0 new intern; Glean SWE Intern confirmed closed, Univ Grad dup; Hume AI no intern; Parloa 11 new senior FTE roles [4823910101/4824273101/4843389101/4843556101/4843927101/4845902101 + others] all non-intern senior FTE skipped); WebSearch Level 3 across all portals: SimplifyJobs README tail (30 entries — Attentive/Fortinet SDE/Cloudflare PME/Toshiba Agentic/EarnIn Mobile/Zendesk/Tessera/Urban Science all confirmed dup); SpeedyApply AI (Nielsen InfoSec/Nielsen AI OSS/Okta AI Content/Trumid/Meta Audio — all dup from v103-v113); SpeedyApply SWE (BlackSky SDET/Kognitos/Ripple crypto/Zoox/Baxter embedded — all non-target); Ashby broad (Notion/Cohere/Replit/Farsight/Giga/BrainCo — all dup); Lever broad (Symmetry/Palantir/Shield AI/Artera/Match Group — all dup); Wellfound (Northspyre/Creatify/Swif.ai — dup); YC/Extern (all dup); 0 genuinely new qualifying listings ≥4.0/5; 17 new scan-history entries; Summer 2026 market CONFIRMED FULLY SATURATED after 150 consecutive exhaustive scans) === -->
 <!-- 0 new qualifying listings ≥4.0/5. 17 new scan-history entries (3,315 total). 0 new pipeline additions. Market confirmed fully saturated — all portals exhausted across 150 consecutive scans. -->
 <!-- ⚡ URGENT: Anthropic Fellows AI Security #246 4.7/5 — DEADLINE APRIL 26, 2026 (4 DAYS). APPLY IMMEDIATELY. -->
