@@ -2383,3 +2383,46 @@ None — no new qualifying listings discovered.
 **ByteDance/TikTok targeted:** 8 new URLs found; 4 below threshold; 1 London-only; 1 fall-start conflict; 2 added to pipeline (~3.8 and ~3.0/5).
 
 <!-- === END 2026-04-21 SCAN v144 === -->
+
+<!-- === BEGIN 2026-04-22 SCAN v151 (autonomous agent) === -->
+
+**Scan v151 — 2026-04-22** | Autonomous scan: Greenhouse APIs (Anthropic/Glean/Airtable/Vercel/RunPod/Temporal) + SimplifyJobs (0-1d) + SpeedyApply AI + SpeedyApply SWE + Ashby broad + Lever broad + YC internships + YC Work at a Startup + late-posting companies (Stripe/Databricks/Wing/Klaviyo/Figma/Dropbox) + cybersecurity firms (CrowdStrike/Wiz/SentinelOne/PAN/Tenable) + national labs (DOE SULI/LLNL/PNNL) + Texas companies (Dell/USAA/HP) + YC W26 batch + consulting firms | Net new qualifying >=4.0: **0** | New pipeline entries: **3** (Wing Backend, CoreWeave, DOE SULI — all below 4.0 threshold)
+
+> Market status: **Fully saturated — Summer 2026 internship season closed.** 151 consecutive scans, 3,336+ history entries. Only new companies discovered today: Wing/Alphabet drone delivery (C++ domain mismatch, ~3.0/5), CoreWeave generic intern (~3.2/5), DOE SULI Fall 2026 (research/academic, ~3.0/5).
+>
+> ⚠️ **URGENT: Anthropic Fellows RL Deadline — APRIL 26 (4 days).** Apply immediately.
+> ⚠️ **PENDING: Fortinet Applied AI Intern #393 (4.0/5)** — apply ASAP.
+> ⚠️ **PENDING: C3 AI Ascend #380 (4.0/5)** — apply ASAP.
+> ⚠️ **PENDING: ByteDance AI Security #388 (4.3/5)** — apply ASAP.
+> ⚠️ **PENDING: Accenture Claude/Anthropic Tech Arch #387** — deadline June 1, 2026.
+
+### ✅ Evaluated (score >= 4.0) — scan-v151
+None — no new qualifying listings discovered.
+
+### 🆕 New URLs discovered — scan-v151
+
+- [ ] https://wing.com/careers/8203613002 | Wing (Alphabet) | Backend Software Engineer Intern, Summer 2026 — Palo Alto CA hybrid; $118-122K ann (~$57-58/hr); C++ primary + gRPC/Spanner/Google infra; Operational Tooling for drone delivery fleet automation; excellent comp but C++ stack gap + drone/aviation domain mismatch; (~3.0/5 — below threshold)
+- [ ] https://www.coreweave.com/careers | CoreWeave | Intern 2026 — generic catch-all intern; on-site 8 weeks Jun 1-Aug 7 2026; Python/Go/Ansible; cloud GPU infra; comp undisclosed; (~3.2/5 — below threshold)
+- [ ] https://science.osti.gov/wdts/suli | DOE SULI | Fall 2026 Undergraduate Research Internship — 16 weeks Aug-Dec 2026; CS/AI/cybersecurity research at national labs; deadline May 20 2026; academic research stipend; conflicts with TAMU fall semester; (~3.0/5 — below threshold, noting for awareness)
+
+### Skipped — scan-v151
+- https://wing.com/careers/8204202002 | Wing | UTM SWE Intern — drone air traffic management; C++ req; aviation domain; (~2.8/5)
+- https://wing.com/careers/7654026002 | Wing | Backend SWE Intern, Flight Systems — flight systems; C++ req; aviation domain; (~2.8/5)
+- https://jobs.lenovo.com/en_US/careers/Internship | Lenovo | AI Penetration Testing Intern — ~$20-28/hr below comp floor; LLM red teaming; Morrisville NC on-site
+- https://jobs.lenovo.com/en_US/careers/JobDetail/AI-Intern-Engineer-Summer-2026/75694 | Lenovo | AI Intern Engineer — ~$20-28/hr below comp floor
+
+### Companies Confirmed No New Intern/New-Grad Roles — scan-v151
+**Greenhouse APIs:** Anthropic (all Fellows dup v149-v150); Glean (SWE Intern closed); Airtable (no intern); Vercel (no intern); RunPod (no intern); Temporal (empty board).
+**SimplifyJobs v151:** All top entries dup v7-v150 (Attentive/Fortinet SDE/Cloudflare PME/Toshiba/EarnIn/Zendesk/Tessera/Urban Science/BigCommerce/KION).
+**SpeedyApply AI v151:** Meta Audio/Adobe ML/Roblox PhD/NVIDIA/Airbnb PhD/Nielsen — all dup v103-v150 or PhD-only.
+**SpeedyApply SWE v151:** BlackSky SDET/Kognitos/Ripple crypto/Zoox/Baxter embedded — all dup.
+**Ashby broad:** Notion/Cohere/Replit/Farsight/Giga/Fizz/Zettabyte/Delinea/Vantage/Sentry/Whatnot/Ramp/Zip/Harvey/Decagon/Benchling/Pylon — all confirmed dup v7-v150.
+**Lever broad:** Symmetry/Shield AI/Artera/Palantir/Best Egg/Center for AI Safety/Match Group/Waabi/Clarity AI/W&B — all dup v7-v150; Mistral AI (Paris EMEA only).
+**YC internships:** Swif.ai/Reacher/Bloom/Candle/Circleback/14.ai/SubImage/a0.dev/CrowdVolt/SafetyKit/Browser Use — all dup v30-v150.
+**Cybersecurity firms:** CrowdStrike (dup v8-v145); Wiz (no intern v136/v141); SentinelOne (no intern); Palo Alto Networks (no US intern); Tenable (no intern found).
+**Late-posting companies:** Stripe (dup v7); Databricks (no intern v112/v137); Figma (closed, evaluated #384); Klaviyo AI Eng (dup v140, req PhD preferred); Dropbox/Credit Karma/Pendo (<3.5/5).
+**Consulting firms:** Big 4 + MBB Summer 2026 cycle fully closed; BCG X requires MS/PhD; Accenture (evaluated #387); Booz Allen opens Sept 2026 for Summer 2027.
+**Texas companies:** Dell (no US intern v67); USAA (deadline passed v68); HP IQ (dup v53/v73/v86).
+**National labs:** LLNL Cybersecurity Summer Institute (2026 apps closed); PNNL (application dates unclear); DOE SULI Fall 2026 (added to pipeline, conflicts with fall semester).
+
+<!-- === END 2026-04-22 SCAN v151 === -->
