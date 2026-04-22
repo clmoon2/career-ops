@@ -1,5 +1,27 @@
 # Pipeline -- Pending URLs
 
+<!-- === NEW 2026-04-22 SCAN v156 (Autonomous Agent — comprehensive fresh-angle sweep v156: Greenhouse APIs (Anthropic 6 Fellows all dup v149+; Airtable/Vercel/Temporal/RunPod/Arize/HumeAI/Intercom — all no intern or senior FTE; Glean Univ Grad dup v7); SimplifyJobs v156/SpeedyApply AI v156/SpeedyApply SWE v156 (same as v155 — 0 new entries); YC internships (all dup v30+); Ashby/Greenhouse/Lever broad (all confirmed dup v7-v155); Security interns (Together AI/Cloudflare/Gallup/Gemini — all dup v7+; Snap closed v54; HiddenLayer no open positions); AI security companies (HiddenLayer/Protect AI/CalypsoAI — no intern listings); Late-posting cos (Databricks no intern; Snowflake/Confluent not found); Extern v156 (all dup, confirmed v150); NEW FIND: Turbo AI SWE Intern $60/hr+housing (turbo.ai) — not in history, ~3.5/5 below threshold; 1 new URL added to pipeline; 18 new history entries; 3,435 total; season remains FULLY SATURATED) === -->
+<!-- 0 qualifying ≥4.0. 1 new URL (Turbo AI ~3.5/5 below threshold). 18 new scan-history entries (3,435 total). -->
+<!-- ⚡ ANTHROPIC FELLOWS DEADLINE APRIL 26 (4 DAYS): #246 AI Security 4.7/5, #370 AI Safety 4.2/5, #372 ML Systems 4.1/5 — APPLY NOW. -->
+
+### New additions — scan-v156
+- [ ] https://www.turbo.ai/careers/summer-2026-software-engineer-intern | Turbo AI | Summer 2026 SWE Intern — $60/hr + free housing + food; NextJS/React Native/PostgreSQL/Python/TypeScript; 6M+ users AI notes platform; In-Person TBD; ~3.5/5 below threshold
+
+### Skipped — scan-v156
+- Greenhouse APIs batch | Anthropic (6 Fellows all dup v149+) / Airtable (no intern) / Vercel (no intern) / Temporal (0 jobs) / RunPod (all senior FTE) / Glean (Univ Grad 4592324005 dup v7) / Arize AI (no intern) / Hume AI (no intern) / Intercom (no intern)
+- SimplifyJobs v156 | same as v155 (RTX/DNV/Skillz/Newton/Nutanix/Fortinet) — all dup v149-v155
+- SpeedyApply AI v156 | same as v155 (Meta Audio/Adobe ML PhD/Nielsen/Okta/Trumid) — all dup v103-v155
+- SpeedyApply SWE v156 | same as v155 (BlackSky/Kognitos/Ripple/Zoox/Baxter) — all dup v7-v155
+- YC internships v156 | Bloom/Swif.ai/Candle/Reacher/Dex — all dup v30-v155
+- Ashby broad v156 | Notion/Cohere/Replit/Farsight/Giga/Harvey/Ramp/Zip/Whatnot/Benchling/Profound/Meshy — all dup v7-v155
+- Greenhouse broad v156 | Cloudflare/Together AI/Obsidian/Sigma/Roadie/Affirm/DoorDash/Benchling/Aquatic Capital — all dup v7-v155
+- Lever broad v156 | Symmetry/Shield AI/Artera/Palantir/Saronic/Match Group/Nominal/Voleon/SoloPulse — all dup v7-v155
+- Security interns v156 | Together AI/Cloudflare/Gallup/Gemini/Tevora/Schonfeld/MEMX/Bandwidth/Actian — all dup v7-v155; Snap (confirmed closed v54); HiddenLayer (no open positions on site)
+- AI security firms v156 | HiddenLayer (no job listings on careers page); Protect AI/CalypsoAI (no intern listings found)
+- Late-posting cos v156 | Databricks (no intern program active v137); Snowflake/Confluent (no active intern listings found); Snyk (404 on Greenhouse v117+)
+
+<!-- === END 2026-04-22 SCAN v156 === -->
+
 <!-- === NEW 2026-04-22 SCAN v155 (Autonomous Agent — comprehensive fresh-angle sweep v155: Checked 27 sources not covered in today's v152-v154 — Mistral AI Lever/Cohere Ashby/Palantir Lever/Sierra Ashby/Decagon Ashby (all confirmed dup); Attio/Tinybird/TravelPerk (no intern programs); CrowdStrike/TensorWave (all dup); Wiz (no intern); Perplexity (UK only); Discord SWE Intern investigated — pre-2026/closed (Greenhouse API 0 interns, pipeline confirms no Summer 2026); Fireworks AI/Handshake/Lambda/Mercury/Stripe/Airbnb (all dup or deadline past); Superhuman/Grammarly (already in pipeline); SimplifyJobs v155/SpeedyApply v155 (same as v154); Ashby/Greenhouse/Lever broad sweeps (all dup v7-v154); 0 new qualifying; 27 new history entries; 3,417 total; FULLY SATURATED 155 consecutive scans) === -->
 <!-- 0 new qualifying ≥4.0. 27 new scan-history entries (3,417 total). 0 pipeline additions. -->
 <!-- ⚡ ANTHROPIC FELLOWS DEADLINE APRIL 26 (4 days): #246 AI Security 4.7/5, #370 AI Safety 4.2/5, #372 ML Systems 4.1/5, #394 RL 3.8/5 -->
