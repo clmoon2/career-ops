@@ -2452,3 +2452,38 @@ None — no new qualifying listings discovered.
 **National labs:** LLNL Cybersecurity Summer Institute (2026 apps closed); PNNL (application dates unclear); DOE SULI Fall 2026 (added to pipeline, conflicts with fall semester).
 
 <!-- === END 2026-04-22 SCAN v151 === -->
+
+<!-- === BEGIN 2026-04-22 SCAN v154 (autonomous agent) === -->
+
+**Scan v154 — 2026-04-22** | Autonomous scan: Greenhouse APIs (Anthropic/Airtable/Temporal/RunPod) + SimplifyJobs + SpeedyApply AI + Ashby broad + Greenhouse broad + Lever broad + YC internships + NVIDIA + Shopify + Cohesity + Crusoe verification + Actian + HN Who is Hiring + 8 broad WebSearch queries | Net new qualifying ≥4.0: **0** | New pipeline entries: **0**
+
+> Market status: **Summer 2026 internship season fully saturated.** 154 consecutive scans, ~3,420+ history entries. 100% duplicate rate this scan. All major job boards and company career pages have been exhaustively covered. Season effectively closed for Summer 2026 cycle.
+>
+> ⚠️ **CRITICAL DEADLINE: Anthropic Fellows RL — APRIL 26 (4 days).** Apply NOW (#394, 3.8/5).
+> ⚠️ **Crusoe Product Security AI Intern:** Still showing 503 on direct Ashby URL — verify manually at jobs.ashbyhq.com/Crusoe before April 26.
+> → Recommend shifting focus from scanning to **applying from evaluated queue** (70+ roles with score ≥4.0).
+
+### ✅ Evaluated (score ≥ 4.0) — scan-v154
+None — no new qualifying listings discovered.
+
+### 🆕 New URLs discovered — scan-v154
+None.
+
+### Skipped — scan-v154
+None.
+
+### Companies Confirmed No New Intern/New-Grad Roles — scan-v154
+**Greenhouse APIs:** Anthropic (all 5 Fellows confirmed dup v149-v153); Airtable (no intern); Temporal (empty board, 0 jobs); RunPod (all senior FTE).
+**SimplifyJobs v154:** Same as v153 — DNV/Skillz/Newton Research/ZOLL/Nutanix/GDIS/MAG Aero/ICF — all dup or non-target.
+**SpeedyApply AI v154:** Same top entries as v153 (Meta Audio/Nielsen/Okta/Trumid) — all dup v103-v153.
+**Ashby broad:** Notion/Cohere/Replit/Giga/Farsight/Harvey/Decagon/Zip/Ramp/Sentry/Delinea/Worldly/Zettabyte — all dup v7-v153; Notion Privacy+Risk (skipped_title).
+**Greenhouse broad:** Cloudflare/Together AI/Obsidian/Aquatic Capital/Affirm/Glean/Figma/Astranis — all dup v7-v153.
+**Lever broad:** Symmetry/Shield AI/Artera/Voleon/BestEgg/SoloPulse/NimbleRx/Veeva/Waabi/Nominal/WeRide — all dup v7-v153.
+**YC internships:** Swif.ai/Reacher/Bloom/SubImage/Browser Use/SafetyKit/Dex — all dup v30-v153.
+**NVIDIA:** All intern IDs dup v8-v145.
+**Shopify:** USA intern closed since v32; Canada only remaining.
+**Cohesity:** SWE + AI interns closed since v95.
+**Crusoe:** Product Security AI Intern still returning 503; status unconfirmed.
+**HN Who is Hiring April 2026:** Red Balloon Security (US citizenship + no ATS URL); all else senior FTE.
+
+<!-- === END 2026-04-22 SCAN v154 === -->
