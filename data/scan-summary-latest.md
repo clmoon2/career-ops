@@ -1,76 +1,87 @@
-# Portal Scan — 2026-04-21 (v147)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Portal Scan — 2026-04-22 (v148)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan:** v147 (147th consecutive exhaustive scan)
-**Date:** 2026-04-21
-**Market status:** Summer 2026 FULLY SATURATED
+**Scan:** v148 (autonomous agent)
+**Date:** 2026-04-22
+**Method:** Greenhouse APIs (11 boards) + WebSearch (5 query types)
 
-## Portals scanned
-
-| Source | Method | Result |
-|--------|--------|--------|
-| Greenhouse APIs (Anthropic/Airtable/Vercel/Glean/Arize/RunPod/Temporal/HumeAI/Intercom) | API | All 503 (intermittent outage) |
-| Greenhouse board pages | WebFetch | All 503 |
-| Ashby (jobs.ashbyhq.com) | WebSearch | All dup v7–v146 |
-| Greenhouse boards (job-boards.greenhouse.io) | WebSearch | All dup v7–v146 |
-| Lever (jobs.lever.co) | WebSearch | All dup v7–v146 |
-| SimplifyJobs (github.com/SimplifyJobs) | WebFetch | Same top-50 as v146 — all dup/non-target |
-| SpeedyApply SWE + AI repos | WebSearch | All dup v7–v146 |
-| Y Combinator / Work at a Startup | WebSearch | All dup v30–v146 |
-| Wellfound (wellfound.com) | WebSearch | All dup v7–v146 |
-| HackerNews "Who is Hiring?" April 2026 | WebFetch | 503 Service Unavailable |
-| Jobright.ai | WebSearch | All dup v7–v146 |
-| **NEW: Circle careers (careers.circle.com)** | WebSearch | **2 new URLs found** |
+---
 
 ## Results
 
-```
-Queries executed:    20+
-Listings found:      3277 total in scan-history (9 new entries added)
-Duplicated:          3275 (already in history)
-New added to pipeline: 2 (both below 4.0/5 threshold)
-Reports filed:       0
-```
+| Metric | Count |
+|--------|-------|
+| Portals / APIs scanned | 11 |
+| WebSearch queries run | 5 |
+| Total listings inspected | ~80 |
+| New listings found (never seen before) | 17 |
+| Filtered: skipped_no_intern (senior FTE) | 15 |
+| Filtered: skipped_closed (listing down) | 1 |
+| Filtered: skipped_dup (already in history) | 1 |
+| **New qualifying listings ≥ 4.0/5** | **0** |
+| New pipeline additions | 0 |
+| New scan-history entries | 17 |
 
-## New listings (below threshold)
+---
 
-| Company | Role | Score | Notes |
-|---------|------|-------|-------|
-| Circle (CRCL) | Intern, Application Security | ~3.5/5 | Remote; May 26–Aug 14; CodeQL+AI agents+CI/CD AppSec; **crypto/blockchain domain filter** |
-| Circle (CRCL) | Software Engineer, Intern (Summer 2026) | ~3.0/5 | Remote; generic SWE; **crypto domain filter** |
+## Companies Scanned via Greenhouse API
 
-**Why Circle is below threshold:** Circle.com is the issuer of USDC stablecoin. The portals.yml explicitly filters out `Blockchain` and `Crypto` domain roles. The AppSec role itself is well-matched technically (CodeQL, AI agent security tooling, CI/CD — direct overlap with Carlos's security engineering work), but the company's core business triggers the domain filter. Score capped at ~3.5/5.
+| Company | Status |
+|---------|--------|
+| Anthropic | 503 (intermittent API error) |
+| Airtable | No intern/new-grad; 1 new FTE (FDE EMEA, skipped) |
+| Vercel | No intern; 8 new FTE (SWE Agent ×2, FDE ×2 incl v0, GTM Eng, SA ×2) |
+| Glean | No new; SWE Intern closed, Univ Grad dup |
+| Arize AI | No intern; 3 new FTE (AI App Eng, AI Solutions Eng, AI PM) |
+| Hume AI | No intern; AI Researcher FTE (senior) |
+| Temporal | 0 jobs posted |
+| RunPod | No intern; Security Eng + Full-Stack dup from v5 |
+| Intercom | No intern; new AI Infrastructure Engineer FTE |
+| PolyAI | No intern; FDE PST (4796935101) confirmed FTE senior |
 
-## Top matches (score ≥ 4.0) — NONE NEW this scan
+---
 
-All high-scoring roles are from previous scans. **Urgent action items:**
+## WebSearch Discovery Results
 
-| Priority | Role | Score | Deadline | Report |
-|----------|------|-------|----------|--------|
-| ⚡ URGENT | Anthropic — AI Security Fellow | 4.7/5 | **Apr 26 (5 DAYS)** | #246 |
-| ⚡ URGENT | Anthropic — AI Safety Fellow | 4.2/5 | **Apr 26 (5 DAYS)** | #370 |
-| ⚡ URGENT | Anthropic — ML Systems Fellow | 4.1/5 | **Apr 26 (5 DAYS)** | #372 |
-| ⚡ HIGH | ByteDance — AI Security Intern (San Jose) | 4.3/5 | Apply ASAP | #388 |
-| HIGH | Netflix — SWE Intern (Summer 2026) | 4.2/5 | Apply ASAP | #391 |
-| HIGH | TikTok — Product Security Intern | 4.0/5 | Apply ASAP | #392 |
-| MEDIUM | Verkada — Security SWE New Grad 2026 | 4.1/5 | Apply ASAP | #389 |
-| MEDIUM | Rockstar Games — Security Eng Automation Intern | 4.0/5 | Apply ASAP | #390 |
+| Query | Outcome |
+|-------|---------|
+| Ashby intern/new-grad Summer 2026 | All dup v7+ |
+| Greenhouse security intern Summer 2026 | Cloudflare #294 (4.7), Schonfeld #243 (closed), XTX #247 (closed), Together AI #334 (4.5) — all dup or closed |
+| Greenhouse AI/ML intern Summer 2026 | Sigma #89 (3.5), iCapital (dup v7), DV Trading #312 (3.5), Lambda (503) — all dup or inaccessible |
+| DevOps/SRE intern Summer 2026 | PDT Systems (confirmed closed), Zscaler (dup v7), DV Trading (dup v7) |
+| New grad University Grad 2026 | Aquatic Capital (Summer 2027, wrong year), Replit #382 (4.5), Glean Univ Grad (dup v7) |
 
-## Recommended next actions
+---
 
-1. **IMMEDIATELY** apply to Anthropic Fellows AI Security (#246, 4.7/5) — deadline April 26
-2. **IMMEDIATELY** apply to Anthropic Fellows AI Safety (#370, 4.2/5) — deadline April 26
-3. **IMMEDIATELY** apply to Anthropic Fellows ML Systems (#372, 4.1/5) — deadline April 26
-4. Apply to ByteDance AI Security Intern (#388, 4.3/5) — rolling deadline, apply this week
-5. Apply to Netflix SWE Intern (#391, 4.2/5) — rolling, competitive, apply soon
-6. Review Circle AppSec Intern (pipeline, ~3.5/5) — if crypto domain is acceptable, upgrade score
+## Market Status
 
-## Scan health
+**Summer 2026 internship market is fully saturated after 148 consecutive exhaustive scans.**
 
-- **Greenhouse APIs:** All 503 (intermittent daily outages). Resume L2 scanning when APIs stabilize.
-- **Summer 2026 market:** Fully saturated after 147 consecutive scans. Most deadlines have passed or positions filled.
-- **Fall 2026 opportunities:** Limited — Center for AI Safety Research Eng (deadline May 29) is still open. Consider expanding Fall 2026 co-op search.
-- **New grad 2026 opportunities:** Still open at Replit, Airtable, Decagon, Benchling, Harvey, Glean, Palantir, Mistral AI, Cohere, Pinecone, Vapi — all in pipeline/evaluated.
+The last genuinely new qualifying listing (≥ 4.0/5) was discovered on 2026-04-21:
+- #392 TikTok Security SWE Intern (Product Security) — 4.0/5
 
-→ Run `/career-ops pipeline` to evaluate any pending pipeline items.
-→ Run `/career-ops oferta` with an Anthropic Fellows JD to begin applying immediately.
+Top evaluated listings still pending application decisions:
+
+| # | Company | Role | Score | Priority |
+|---|---------|------|-------|----------|
+| 246 | Anthropic | Fellows Program — AI Security | 4.7/5 | ⚡ DEADLINE APRIL 26 |
+| 347 | Cloudflare | Software Engineer Intern | 4.8/5 | ⭐ Apply ASAP |
+| 294 | Cloudflare | Security Engineer Intern | 4.7/5 | ⭐ Apply ASAP |
+| 353 | OpenAI | Software Engineer Internship | 4.5/5 | Apply ASAP |
+| 370 | Anthropic | Fellows — AI Safety | 4.2/5 | ⚡ DEADLINE APRIL 26 |
+| 372 | Anthropic | Fellows — ML Systems | 4.1/5 | ⚡ DEADLINE APRIL 26 |
+| 334 | Together AI | Security Engineer Intern | 4.5/5 | Apply this week |
+| 295 | Together AI | Software Engineer Intern | 4.5/5 | Apply this week |
+| 355 | Atlassian | Security Engineer Intern | 4.5/5 | Apply ASAP |
+| 357 | Browser Use | Summer SWE Intern | 4.4/5 | Apply ASAP |
+| 388 | ByteDance | SWE Project Intern (AI Security) | 4.3/5 | Apply this week |
+| 366 | 1Password | Developer Intern — Extension | 4.3/5 | Apply this week |
+
+---
+
+## Recommended Next Actions
+
+1. **URGENT — April 26 deadline**: Apply to Anthropic Fellows #246 (AI Security 4.7/5), #370 (AI Safety 4.2/5), #372 (ML Systems 4.1/5) — 4 days left.
+2. **This week**: Apply to Cloudflare SWE Intern #347 (4.8/5) and Cloudflare Security Intern #294 (4.7/5) — Austin TX, production Cloudflare Workers experience is a major differentiator.
+3. **Queue up**: OpenAI SWE Intern #353, Together AI Security #334, Together AI SWE #295, Atlassian Security #355, Browser Use #357.
+4. **Stop scanning** — the Summer 2026 market has been fully swept after 148 consecutive scans. All known boards, APIs, and aggregators are exhausted. Focus energy 100% on applications.

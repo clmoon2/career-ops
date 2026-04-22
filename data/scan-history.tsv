@@ -3275,3 +3275,20 @@ https://www.ycombinator.com/internships	2026-04-21	scan-v147-yc	YC internships v
 https://github.com/SimplifyJobs/Summer2026-Internships	2026-04-21	scan-v147-simplify	SimplifyJobs v147: same top-50 entries as v146 (Togetherwork/Mark43/Vendelux/AssetWorks/KLA/First American/Arcadis/Emerson/Fiserv) — all dup or non-target; 0 new qualifying	SimplifyJobs	skipped_dup
 https://github.com/speedyapply/2026-AI-College-Jobs	2026-04-21	scan-v147-speedyapply-ai	SpeedyApply AI v147: same as v146 — Meta Audio/Adobe ML/Roblox PhD/NVIDIA/Airbnb PhD/Nielsen — all dup or PhD-only; 0 new qualifying	SpeedyApply AI	skipped_dup
 https://github.com/speedyapply/2026-SWE-College-Jobs	2026-04-21	scan-v147-speedyapply-swe	SpeedyApply SWE v147: same as v146 — Pinterest/Salesforce/Kognitos/Ripple/Zoox/BlackSky — all dup v7-v146; 0 new qualifying	SpeedyApply SWE	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	2026-04-22	scan-v148-greenhouse-api	Anthropic Greenhouse API — 503 error (same as v143/v145/v147 intermittent pattern)	Anthropic	skipped_error
+https://boards-api.greenhouse.io/v1/boards/airtable/jobs	2026-04-22	scan-v148-greenhouse-api	Airtable API v148: no intern/new-grad; new FTE: FDE EMEA 8477376002, SWE-Backend/Compute/Infrastructure all dup	Airtable	skipped_no_intern
+https://job-boards.greenhouse.io/airtable/jobs/8477376002	2026-04-22	scan-v148-greenhouse-api	Forward Deployed Engineer, EMEA	Airtable	skipped_no_intern
+https://boards-api.greenhouse.io/v1/boards/vercel/jobs	2026-04-22	scan-v148-greenhouse-api	Vercel API v148: no intern — 8 new FTE (SWE Agent ×2, FDE ×2 incl v0, GTM Eng, SA ×2); all senior FTE skipped_no_intern	Vercel	skipped_no_intern
+https://job-boards.greenhouse.io/vercel/jobs/5704321004	2026-04-22	scan-v148-greenhouse-api	Software Engineer, Agent	Vercel	skipped_no_intern
+https://job-boards.greenhouse.io/vercel/jobs/5704320004	2026-04-22	scan-v148-greenhouse-api	Software Engineer, Agent	Vercel	skipped_no_intern
+https://job-boards.greenhouse.io/vercel/jobs/5778418004	2026-04-22	scan-v148-greenhouse-api	Forward-Deployed Engineer	Vercel	skipped_no_intern
+https://job-boards.greenhouse.io/vercel/jobs/5872425004	2026-04-22	scan-v148-greenhouse-api	Forward Deployed Engineer, v0	Vercel	skipped_no_intern
+https://job-boards.greenhouse.io/vercel/jobs/5777645004	2026-04-22	scan-v148-greenhouse-api	GTM Engineer	Vercel	skipped_no_intern
+https://job-boards.greenhouse.io/vercel/jobs/5804110004	2026-04-22	scan-v148-greenhouse-api	Solutions Architect	Vercel	skipped_no_intern
+https://job-boards.greenhouse.io/vercel/jobs/5796302004	2026-04-22	scan-v148-greenhouse-api	Solutions Architect	Vercel	skipped_no_intern
+https://boards-api.greenhouse.io/v1/boards/arizeai/jobs	2026-04-22	scan-v148-greenhouse-api	Arize AI API v148: no intern; 3 new FTE (AI Application Eng 5969145004, AI Solutions Eng 5797408004, AI PM 5818115004) — all senior FTE skipped_no_intern	Arize AI	skipped_no_intern
+https://job-boards.greenhouse.io/arizeai/jobs/5969145004	2026-04-22	scan-v148-greenhouse-api	AI Application Engineer	Arize AI	skipped_no_intern
+https://job-boards.greenhouse.io/arizeai/jobs/5797408004	2026-04-22	scan-v148-greenhouse-api	AI Solutions Engineer	Arize AI	skipped_no_intern
+https://job-boards.greenhouse.io/arizeai/jobs/5818115004	2026-04-22	scan-v148-greenhouse-api	AI Product Manager	Arize AI	skipped_no_intern
+https://job-boards.greenhouse.io/intercom/jobs/7820671	2026-04-22	scan-v148-greenhouse-api	AI Infrastructure Engineer — new FTE senior listing	Intercom	skipped_no_intern
+https://job-boards.greenhouse.io/pdtpartners/jobs/7158038	2026-04-22	scan-v148-github	Summer 2026 Systems Engineering Internship — URL redirects to board (listing closed); companion to SWE #368 (4.0/5); never formally evaluated; confirmed closed	PDT Partners	skipped_closed
