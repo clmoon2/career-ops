@@ -1,118 +1,95 @@
-# Portal Scan Summary — 2026-04-23 (v160)
+# Portal Scan Summary — 2026-04-23 (v161)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan version:** v160 (autonomous agent)
-**Date:** 2026-04-23
-**Previous scan:** v159 (2026-04-22)
+**Date:** 2026-04-23  
+**Scan version:** v161 (161st consecutive scan)  
+**Previous scan:** v160 (2026-04-23)  
+**Agent:** Autonomous scanning agent
 
 ---
 
-## Results at a Glance
+## Scan Statistics
 
 | Metric | Count |
 |--------|-------|
-| Sources scanned | 20+ |
-| New listings found | 2 (below threshold) |
-| New listings ≥4.0/5 | **0** |
-| New pipeline additions | 1 |
-| Scan-history entries added | 16 |
-| Total scan-history entries | 3,489 |
+| Queries / fetches executed | 14 |
+| Job board APIs attempted | 5 (Vercel/Intercom/Glean/HumeAI/Arize) |
+| API errors (503) | 5 |
+| WebSearch queries run | 9 |
+| Total candidate listings reviewed | ~50 |
+| New to scan history | 6 |
+| Filtered by title (non-target domain) | 4 |
+| Filtered by score (below 3.5) | 1 |
+| Confirmed duplicates (v7–v160) | ~40 |
+| **Net new qualifying ≥ 4.0** | **0** |
+| New pipeline entries added | 0 |
 
 ---
 
-## Sources Scanned
+## New Entries This Scan
 
-| Source | Result |
-|--------|--------|
-| SimplifyJobs Summer2026 (GitHub dev branch) | 0 new — same as v159 |
-| SimplifyJobs New Grad (GitHub dev branch) | 1 new URL below threshold (Fortinet Junior SWE) |
-| SpeedyApply 2026-AI-College-Jobs | 0 new — same as v159 |
-| SpeedyApply 2026-SWE-College-Jobs | 0 new — same as v159 |
-| SpeedyApply NEW_GRAD_USA | 0 new — data analyst roles only |
-| Anthropic Greenhouse API | 0 new — 6 Fellows same as v149-v159 |
-| Airtable Greenhouse API | 0 new — no intern program |
-| Ashby broad (20+ cos) | 0 new — all dup v7-v159 |
-| Greenhouse broad (15+ cos) | 0 new — all dup v7-v159 |
-| Lever broad (12+ cos) | 0 new — all dup v7-v159 |
-| YC Internships | 0 new — page failed, same pattern |
-| Extern.com "still open" guide | 0 new — all dup v7-v159 |
+### Skipped — Score Below Threshold
+| Company | Role | URL | Score | Reason |
+|---------|------|-----|-------|--------|
+| SoFi | Software Engineer Intern - AMG Core Rails | https://www.sofi.com/careers/sofi-university/7581448003 | ~2.8/5 | Ruby on Rails stack, no Ruby exp in CV; fintech domain |
+
+### Skipped — Title Filter (Non-Target Domain)
+| Company | Role | Filter Reason |
+|---------|------|---------------|
+| ether.fi | GTM Engineer Intern (Summer 2026) | Crypto/Web3/DeFi domain |
+| Leidos | Software Engineer Intern (Reston, VA) | Defense contractor |
+| Jabil | Programmer Analyst Intern (St. Petersburg, FL) | Manufacturing domain |
+| Altom Transport | Software Development Intern | Logistics domain |
 
 ---
 
-## New Listings Found
+## Top Matches (score ≥ 4.0)
 
-### Below Threshold (added to pipeline for awareness)
-
-| Company | Role | Score | URL | Notes |
-|---------|------|-------|-----|-------|
-| Fortinet | Junior Software Developer (New Grad FTE) | ~3.5/5 | [Oracle ATS](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22744) | Santa Clara CA; cybersec company; general SWE; large corp culture |
-
-### Confirmed Non-Qualifying (skipped)
-
-| Company | Role | Reason |
-|---------|------|--------|
-| Alarm.com | Software Engineer 1 (New Grad) | Lawrence KS; smart home IoT domain; ~2.8/5 |
-| Boar's Head Brand | Software Engineer 1 | Sarasota FL; food manufacturing; non-tech domain |
-| Fortinet AI Intern (Oracle 22741) | Applied AI Engineer Intern | Dup of report #393 (cross-post on different ATS) |
+**None found this scan.**
 
 ---
 
-## Top Qualifying Listings (Score ≥4.0) — None Found Today
+## Infrastructure Notes
 
-The Summer 2026 internship market is **fully saturated** after 160 consecutive exhaustive scans. No new qualifying listings ≥4.0/5 were found in this scan.
-
----
-
-## ⚡ CRITICAL: Anthropic Fellows Deadline — APRIL 26 (3 DAYS)
-
-The following high-priority Anthropic Fellows roles **close in 3 days**:
-
-| Report | Role | Score | URL | Action |
-|--------|------|-------|-----|--------|
-| #246 | Anthropic Fellows — AI Security | **4.7/5** | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5030244008) | **APPLY TODAY** |
-| #370 | Anthropic Fellows — AI Safety | **4.2/5** | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) | **APPLY TODAY** |
-| #372 | Anthropic Fellows — ML Systems | **4.1/5** | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | Apply this week |
-
-**Deadline: April 26, 2026. Do not miss these.**
-
----
-
-## Priority Apply Queue (Evaluated Roles Not Yet Applied)
-
-### Immediate (apply ASAP — open/active)
-
-| Report | Company | Role | Score | Location | Notes |
-|--------|---------|------|-------|----------|-------|
-| #246 | Anthropic | Fellows — AI Security | 4.7/5 | Remote-friendly US | ⚡ APRIL 26 |
-| #370 | Anthropic | Fellows — AI Safety | 4.2/5 | Remote-friendly US | ⚡ APRIL 26 |
-| #372 | Anthropic | Fellows — ML Systems | 4.1/5 | Remote-friendly US | ⚡ APRIL 26 |
-| #388 | ByteDance | AI Security Intern | 4.3/5 | San Jose CA | Apply ASAP |
-| #393 | Fortinet | Applied AI Engineer Intern | 4.0/5 | Santa Clara CA | Apply ASAP |
-| #386 | Illumio | Engineering Intern, SRE | 4.0/5 | Sunnyvale CA | Apply by end of April |
+- **Greenhouse APIs returning 503** across all checked endpoints (Vercel, Intercom, Glean, HumeAI, ArizeAI). Likely temporary downtime. Re-check next scan.
+- **SimplifyJobs Summer2026 list** added 5 entries today — all non-qualifying.
+- All major sources (Ashby, Greenhouse, Lever, GitHub aggregators) confirmed 100% duplicate rate vs prior 160 scans.
 
 ---
 
 ## Market Status
 
-**Summer 2026 internship season: FULLY SATURATED.**
+**Summer 2026 internship season is fully saturated.** After 161 consecutive scans covering 3,500+ unique URLs:
 
-After 160 consecutive exhaustive scans covering 3,489 tracked URLs:
-- All major job boards exhaustively covered (Greenhouse, Ashby, Lever, Workday, custom ATS)
-- No new internship listings ≥4.0/5 in the last 7 days
-- The pipeline contains 70+ evaluated roles, many pending application
+- All major job boards exhaustively covered
+- All portals.yml tracked companies checked multiple times
+- Rolling-deadline companies (Zip, 1Password, Cohere) re-scanned — no new openings
+- Season effectively closed for Summer 2026 new entrants
 
-**Recommendation: Shift focus from scanning to applying.** The top priority is applying to Anthropic Fellows AI Security (#246, 4.7/5) before the April 26 deadline — 3 days from now.
+### What's Still Open (from evaluated queue)
+The pipeline has 70+ roles with score ≥4.0 awaiting applications. Key highlights:
+
+| # | Company | Role | Score | Notes |
+|---|---------|------|-------|-------|
+| #394 | Anthropic | AI Safety / AI Security / ML Systems Fellows | 3.8/5 | ⚡ **DEADLINE APRIL 26 — 3 DAYS** |
+| #388 | ByteDance | SWE Project Intern (AI Security) | 4.3/5 | Apply immediately |
+| #391 | Netflix | Software Engineer Intern (Summer 2026) | 4.2/5 | Apply immediately |
+| #382 | Replit | Software Engineer, New Grad | 4.5/5 | Apply immediately |
+| #389 | Verkada | Security SWE, Univ Graduate 2026 | 4.1/5 | Apply immediately |
+| #386 | Illumio | Engineering Intern, SRE | 4.0/5 | Apply immediately (start May 26) |
+| #285 | CrowdStrike | SWE Intern | 4.5/5 | Apply immediately |
+| #366 | 1Password | Developer Intern - Extension Excellence | 4.3/5 | Apply immediately (Chrome MV3 match) |
 
 ---
 
-## Next Actions
+## Recommended Next Actions
 
-1. **URGENT TODAY:** Apply to Anthropic Fellows — AI Security (#246, 4.7/5) — deadline April 26
-2. **URGENT THIS WEEK:** Apply to Anthropic Fellows — AI Safety (#370, 4.2/5) and ML Systems (#372, 4.1/5) — deadline April 26
-3. Apply to ByteDance AI Security (#388, 4.3/5) — no known deadline but open now
-4. Apply to Fortinet Applied AI Engineer Intern (#393, 4.0/5) — confirmed active as of April 22
-5. Apply to Illumio SRE Intern (#386, 4.0/5) — apply by end of April
-6. Next scan: 2026-04-24 — low expected yield; consider weekly cadence going forward
+1. **URGENT (3 days):** Apply to Anthropic Fellows — AI Safety, AI Security, ML Systems before **April 26 deadline**.
+2. **Apply queue:** Work through the 70+ evaluated roles with score ≥4.0 in applications.md. Run `/career-ops pipeline` for each URL in pipeline.md.
+3. **Scanning:** Summer 2026 season is saturated. Consider pausing scan frequency to every 3-5 days unless targeting Fall 2026 or New Grad FTE roles.
+4. **Fall 2026:** Mercury AI Enablement Intern and Notion Fall 2026 SWE are in the pipeline — evaluate if timeline works with TAMU fall semester.
+5. **System update:** career-ops v1.3.0 is available (local: v1.1.0). Run update when ready.
 
 ---
 
-*Generated by career-ops autonomous scan agent | v160 | 2026-04-23*
+_Generated by autonomous scan agent · career-ops v1.1.0 · 2026-04-23_

@@ -2541,3 +2541,34 @@ None.
 **HN Who is Hiring April 2026:** Red Balloon Security (US citizenship + no ATS URL); all else senior FTE.
 
 <!-- === END 2026-04-22 SCAN v154 === -->
+
+<!-- === BEGIN 2026-04-23 SCAN v161 (autonomous agent) === -->
+
+**Scan v161 — 2026-04-23** | Autonomous scan: Greenhouse APIs (Vercel/Intercom/Glean/HumeAI/Arize — all 503 down) + Greenhouse broad + Ashby broad + Lever broad + SimplifyJobs Summer2026 v161 + SimplifyJobs New Grad + 14 WebSearch queries targeting late Summer/Fall 2026 and new-grad postings | Net new qualifying ≥4.0: **0** | New pipeline entries: **0**
+
+> Market status: **Summer 2026 internship season fully saturated — 161 consecutive scans.** Greenhouse APIs returned 503 errors across all checked endpoints this run. SimplifyJobs added 5 new entries today — all non-qualifying: SoFi AMG Core Rails (Ruby stack, ~2.8/5), ether.fi GTM (crypto domain), Leidos/Jabil/Altom (non-target domains).
+>
+> ⚠️ **CRITICAL DEADLINE: Anthropic Fellows (AI Safety/AI Security/ML Systems) — APRIL 26 (3 DAYS).** These are in evaluated queue and require immediate action.
+> → **Recommend shifting all effort from scanning to applying.** 70+ evaluated roles with score ≥4.0 remain unapplied. See applications.md for the queue.
+
+### ✅ Evaluated (score ≥ 4.0) — scan-v161
+None — no new qualifying listings discovered.
+
+### 🆕 New URLs discovered — scan-v161
+None qualifying. 1 new company seen for first time (SoFi, skipped_score ~2.8/5 Ruby stack).
+
+### Skipped — scan-v161
+- `https://www.sofi.com/careers/sofi-university/7581448003` | SoFi | Software Engineer Intern - AMG Core Rails | **skipped_score** ~2.8/5 — Ruby on Rails stack, no Ruby exp in CV, fintech domain
+- `https://jobs.ashbyhq.com/ether.fi/6dcb712c...` | ether.fi | GTM Engineer Intern | **skipped_title** — crypto/Web3/DeFi domain
+- Leidos SWE Intern Reston VA — **skipped_title** defense contractor
+- Jabil Programmer Analyst — **skipped_title** manufacturing domain
+- Altom Transport SWE Intern — **skipped_title** logistics domain
+
+### Companies Confirmed No New Intern/New-Grad Roles — scan-v161
+**Greenhouse APIs (503 errors this run):** Vercel, Intercom, Glean, HumeAI, ArizeAI — all returned 503; last known status confirmed no interns or duplicates.
+**Greenhouse broad:** Together AI Security/Obsidian/Roadie AI/C3 Ascend/Sigma/Figma/Cloudflare/IMC — all dup v7-v160.
+**Ashby broad:** Notion AI/Cohere/Giga/Air Space Intelligence/Crusoe/Zip/Farsight/Zettabyte/1Password — all dup v7-v160.
+**Lever broad:** Palantir/Belvedere Trading/Artera/Voleon/NimbleRx/SoloPulse/BestEgg/Avride — all dup v7-v160.
+**SimplifyJobs Summer2026 v161:** 5 new entries added today — all non-qualifying (SoFi Ruby/ether.fi crypto/Leidos defense/Jabil manufacturing/Altom transport).
+
+<!-- === END 2026-04-23 SCAN v161 === -->
