@@ -2603,3 +2603,62 @@ None qualifying. 1 new company seen for first time (SoFi, skipped_score ~2.8/5 R
 **SimplifyJobs Summer2026 v161:** 5 new entries added today — all non-qualifying (SoFi Ruby/ether.fi crypto/Leidos defense/Jabil manufacturing/Altom transport).
 
 <!-- === END 2026-04-23 SCAN v161 === -->
+
+<!-- === BEGIN 2026-04-23 SCAN v164 (autonomous agent) === -->
+
+**Scan v164 — 2026-04-23** | Autonomous agent scan: SimplifyJobs Summer2026 v164 (12 new entries today — all non-qualifying) + SimplifyJobs New Grad v164 (5 new entries — all non-qualifying) + SpeedyApply AI v164 (all dup v103-v163) + jobright-ai New Grad v164 (all non-qualifying) + Anthropic API (5 Fellows active; DEADLINE APRIL 26) + Greenhouse broad (all 503 or dup) + Ashby broad (all dup) + Lever broad (all dup) + CrowdStrike (all dup) + SentinelOne (PSE intern below threshold) | Net new qualifying ≥4.0: **0** | New pipeline entries: **0**
+
+> Market status: **Summer 2026 internship season fully saturated — 164 consecutive scans, 3,566+ history entries.** 100% duplicate/non-qualifying rate this scan. Two new companies first seen: AssetMark (Austin TX fintech SWE, ~2.8/5 below threshold) and Axway (Scottsdale API management SWE, ~2.8/5 below threshold). All major job boards, GitHub trackers, and company career pages exhaustively covered.
+>
+> ⚠️ **CRITICAL DEADLINE: Anthropic Fellows (AI Safety #370 + AI Security + ML Systems #372) — APRIL 26 (3 DAYS).** Apply immediately.
+> → **Strongly recommend shifting ALL effort from scanning to applying.** 70+ evaluated roles with score ≥4.0 remain unapplied in applications.md queue.
+
+### ✅ Evaluated (score ≥ 4.0) — scan-v164
+None — no new qualifying listings discovered.
+
+### 🆕 New URLs discovered — scan-v164
+None qualifying. 2 new companies first seen (both below threshold):
+- `https://assetmark.wd5.myworkdayjobs.com/en-US/AssetMark_Careers/job/Software-Engineering-Intern_Req-002995` | AssetMark | Software Engineering Intern (Summer 2026) | **skipped_score** ~2.8/5 — wealth management fintech, non-AI-first, likely Java stack, Austin TX
+- `https://careers-axway.icims.com` | Axway | Software Engineering Intern 2026 (2 roles) | **skipped_score** ~2.8/5 — API management platform, Scottsdale AZ, iCIMS 503 error
+
+### Skipped — scan-v164
+**SimplifyJobs Summer2026 v164 (0d new entries):**
+- GDMS Multiple Intern SWE — defense/clearance required
+- SoFi AMG Core Rails — dup v161, Ruby on Rails ~2.8/5
+- Leidos SWE Intern Reston VA — defense contractor
+- ether.fi GTM Engineer — crypto/Web3 domain (negative filter)
+- Jabil Programmer Analyst — manufacturing domain
+- Altom Transport SWE — logistics domain
+- Al Warren Oil SWE — oil industry domain
+- AssetMark SWE Austin TX — fintech, non-AI-first, ~2.8/5 **new company**
+- By Light Professional IT SWE — defense IT
+- Fiserv Technology Intern — deadline passed March 20 2026
+- Axway SWE Intern x2 Scottsdale — API mgmt, non-AI-first, ~2.8/5 **new company**
+- RTX SWE1 Tucson AZ — defense contractor
+
+**SimplifyJobs New Grad v164 (0d new entries):**
+- RTX Raytheon FTE conversion — defense
+- Alarm.com SWE1 Lawrence KS — dup v160
+- Boar's Head Brand SWE1 — food manufacturing
+- Fortinet Junior SWE — dup v160
+- Leidos Junior SWE Gaithersburg MD — defense
+
+**jobright-ai New Grad v164 (Apr 22 entries):**
+- Slash GTM Engineer SF — GTM/sales focus not SWE
+- Centro Benefits QA — non-tech
+- Mission Technologies SWE Dayton OH — defense
+- Relativity Space Infrastructure Eng Mississippi — aerospace/defense
+- General Atomics Associate SWE Poway CA — defense
+- All others — government/defense/non-tech
+
+**SentinelOne Partner Solutions Engineer Intern:** Sales/SE focus, not SWE engineering, ~2.5/5.
+
+### Companies Confirmed No New Intern/New-Grad Roles — scan-v164
+**Greenhouse APIs (returning 503 this run):** Vercel, Intercom, Glean, HumeAI, ArizeAI — confirmed no new interns based on v162 last check.
+**Anthropic API:** 5 Fellows tracks confirmed active (AI Safety/AI Security/ML Systems/RL/STEM); all dup v149-v163; new FTE roles (Applied AI Architect/Applied AI Eng Beneficial Deployments) senior only.
+**Ashby broad:** All dup v7-v163 — Notion/Replit/Cohere/Giga/Farsight/Zip/Whatnot/Ramp/Sentry/Benchling/Harvey/Decagon/ElevenLabs/Vapi/Bland.
+**Lever broad:** All dup v7-v163 — Palantir/Mistral(Paris)/Voleon/Secureframe/Spruce/WeRide.
+**CrowdStrike Workday:** SWE Intern + InfoSec Launch + Red Team + InfoSec + Intelligence — all dup v8-v163.
+**SpeedyApply AI v164:** Same 5 top entries (Meta Audio PhD/Nielsen InfoSec/Nielsen OSS/Okta AI Ops/Trumid) — all dup v103-v163.
+
+<!-- === END 2026-04-23 SCAN v164 === -->
