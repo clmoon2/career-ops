@@ -2699,3 +2699,40 @@ None — no new qualifying intern/new-grad listings discovered.
 **Direct checks:** EarnIn Backend Intern $30/hr below comp floor (dup v117); Atlassian SWE Intern (dup v9); Extern guide 30+ companies all dup v7-v164.
 
 <!-- === END 2026-04-23 SCAN v165 === -->
+
+<!-- === BEGIN 2026-04-23 SCAN v167 === -->
+
+## Scan v167 — 2026-04-23
+
+> **Focus:** Targeted search for late-breaking Summer 2026 listings — security, AI, SWE internships and new grad roles. Sources: Greenhouse APIs, Ashby/Lever/GitHub aggregators, direct company searches. 25+ companies/sources checked.
+
+> 3 new qualifying listings found (≥4.0). 5 new listings added to pipeline (including borderline).
+
+### ✅ Evaluated (score ≥ 4.0) — scan-v167
+- `https://jobs.lenovo.com/en_US/careers/JobDetail/AI-Penetration-Testing-Intern-Summer-2026/75220` | Lenovo | AI Penetration Testing Intern (Summer 2026) — **4.2/5** — LLM red teaming exact match; Morrisville NC; see report #394
+- `https://jobs.intuit.com/job/mountain-view/summer-2026-cyber-security-intern/27595/87369447136` | Intuit | Summer 2026 Cyber Security Intern — **4.0/5** — $37-67/hr; Red Team track; Mountain View CA; see report #395
+- `https://www.builtinboston.com/job/security-engineer-intern/154526` | Snyk | Security Engineer Intern (Enterprise Security) — **4.0/5** — pen testing + automation + developer security platform; Boston MA; see report #396
+
+### 🆕 Borderline / Below Threshold — Added to Pipeline
+- `https://jobs.accel.com/companies/snyk/jobs/73138484-software-engineer-intern-container` | Snyk | Software Engineer Intern (Container) — ~3.9/5 — TypeScript/Go container security; Boston MA; posted April 2, 2026
+- `https://jobs.lenovo.com/en_US/careers/JobDetail/AI-Security-Software-Engineer-Intern-Summer-2026/75243` | Lenovo | AI Security Software Engineer Intern (Summer 2026) — ~3.8/5 — Python/Java GenAI security; Morrisville NC; $33-38/hr borderline comp
+- `https://jobs.ashbyhq.com/fizz/c33b0bb7-d87f-4666-8622-36604fe10b20` | Fizz Social | Software Engineering Intern (Summer 2026) — ~3.5/5 — NYC; TypeScript/Node.js; consumer social app; Swift also required; low priority
+
+### Skipped / Not Qualifying — scan-v167
+- Zscaler Summer 2026 Technical Internship — CONFIRMED CLOSED Dec 20, 2025 (job-boards.greenhouse.io/zscaler/jobs/4976260007)
+- Swif.ai Full Stack SWE Intern — $500-2K/month (well below $70K floor); YC company; skip
+- Fizz Social — ~3.5/5 below threshold; consumer social domain; Swift requirement
+- ByteDance SWE Intern (Network Security) — requires PyTorch/DL framework; network traffic analysis domain mismatch; ~3.7/5
+- Gemini Security Engineering Intern — Crypto company (negative filter); skip
+- Gallup Security Engineer Intern — Omaha NE government polling company; weak domain fit
+- PolyAI API — 503 error (unavailable)
+- Parloa API — 503 error (unavailable)
+- Greenhouse APIs (all confirmed again): Airtable/Vercel/Glean/Arize AI/RunPod/HumeAI/Intercom/Temporal — no new intern roles
+
+### Companies Confirmed No New Intern/New-Grad Roles — scan-v167
+**Greenhouse APIs:** PolyAI (503), Parloa (503), Airtable (no intern), Vercel (no intern), Glean (SWE Univ Grad dup), Arize AI (no intern), RunPod (no intern), HumeAI (no intern), Intercom (no intern), Temporal (empty board).
+**Ashby broad:** All major tracked companies confirmed dup v7-v166.
+**Lever broad:** All tracked companies confirmed dup v7-v166.
+**Direct checks:** Snyk (2 new interns found — Container SWE + Security Engineer), Lenovo (2 new interns found — AI Pentest + AI Security SWE), Intuit (1 new intern found — Cyber Security), Zscaler (CLOSED Dec 2025), Fizz Social (below threshold), ByteDance Network Security (below threshold).
+
+<!-- === END 2026-04-23 SCAN v167 === -->
