@@ -1,5 +1,27 @@
 # Pipeline -- Pending URLs
 
+<!-- === NEW 2026-04-23 SCAN v162 (Autonomous Agent — exhaustive sweep v162: 28+ searches across Greenhouse/Ashby/Lever/SimplifyJobs/GitHub/direct company pages; Twilio/Dialpad/Gong/Talkdesk/Genesys/Cognigy/Make.com/Retool/Bland AI/Lindy/Langfuse/Speechmatics/Tinybird/Clarity AI — all confirmed dup v7-v161 or no intern program; Greenhouse APIs: Temporal (0 jobs)/RunPod (no intern)/Intercom (no intern)/DeepMind (no intern)/ElevenLabs (404); SimplifyJobs Summer2026 v162 — same as v160/v161, all dup; SimplifyJobs New Grad v162 — same as v161 (RTX/Cadence/Adobe/Apex Fintech/KBR — all dup or non-target); jobright-ai 2026 SWE New Grad — Adobe/Uber/Loop/CyberArk/Lazarus (no US intern)/Affirm all dup v7-v161; Help Net Security Apr 21 — no intern/new-grad; Security cos broad (Abnormal/Orca/SentinelOne/Wiz/Okta) — all dup or no intern; AI startup sweep (Perplexity EU-only/Cursor no listing/Cognition no intern/Hebbia senior-only/Luma AI no intern/Runway no intern/Magic AI no listing/Anysphere no listing); DataOps/DevOps sweep (Braintrust no intern/W&B no intern/Vercel dup v49/Hex Tech Product Eng Intern NEW ~3.5/5/Temporal no intern); iSpot.tv Engineering Intern 4683077005 NEW ~3.5/5 $35/hr AI-first Python; Spacial AI dup v137 2.5/5; Vanta entry-level TypeScript (not Python-first); Actian all dup v7-v161; CyberArk US new grad skipped/not found; DoorDash/Whatnot/Quora/Sentry/Benchling — all dup v7-v161; Hex Product Eng Intern 5776185004 NEW but SF-only no comp info ~3.5/5; 0 new qualifying ≥4.0/5; 2 new pipeline additions (iSpot/Hex below threshold ~3.5/5); 30 new history entries; Summer 2026 market CONFIRMED FULLY SATURATED after 162 consecutive exhaustive scans) === -->
+<!-- 0 new qualifying ≥4.0. 2 new pipeline additions (both ~3.5/5 below threshold). 30 new scan-history entries. -->
+<!-- ⚡ CRITICAL DEADLINE APRIL 26 (3 DAYS): Anthropic Fellows AI Security #246 4.7/5 + AI Safety #370 4.2/5 + ML Systems #372 4.1/5 — APPLY NOW. -->
+
+### New additions — scan-v162
+- [ ] https://job-boards.greenhouse.io/ispottv/jobs/4683077005 | iSpot.tv | Engineering Intern (Summer 2026) — Bellevue WA hybrid (remote option for non-local); TV advertising measurement platform; AI-first internship (Claude/Copilot/Cursor/Kiro required); Python/Java/Go; $35/hr; ≥2 yrs undergrad completed; domain mismatch (ad-tech) but AI-first culture; ~3.5/5 below threshold
+- [ ] https://hex.tech/careers/product-engineer-intern/ | Hex | Product Engineer Intern — SF or NYC (3x/wk onsite); data analytics/AI platform; React/TypeScript/Python; comp undisclosed; SF relocation required; domain adjacent; ~3.5/5 below threshold
+
+### Skipped — scan-v162
+- Twilio/Dialpad/Gong/Talkdesk/Genesys — all dup v7-v161 or no 2026 Summer US intern program
+- Cognigy/Make.com/Retool/Bland AI/Lindy/Langfuse/Speechmatics/Tinybird/Clarity AI — all dup or no intern program
+- Greenhouse APIs (Temporal/RunPod/Intercom/DeepMind/ElevenLabs) — no intern roles
+- SimplifyJobs Summer/NewGrad v162 — all dup v7-v161 (same as v160-v161)
+- jobright-ai New Grad 2026 — all dup or non-target domains
+- AI startup sweep (Perplexity/Cursor/Cognition/Hebbia/Luma/Runway/Magic/Anysphere) — no US intern programs
+- DataOps/DevOps sweep (W&B/Vercel/Braintrust) — all dup or no intern
+- Security sweep (Abnormal/Orca/SentinelOne/Wiz/Okta) — all dup v7-v161
+- Spacial AI / Vanta / CyberArk — dup v137 / TypeScript-not-Python / no US new-grad posting
+- Actian/DV Trading/Bandwidth/Sigma/Pendo/Mercury/Metronome — all dup v7-v161
+
+<!-- === END 2026-04-23 SCAN v162 === -->
+
 <!-- === NEW 2026-04-23 SCAN v160 (Autonomous Agent — exhaustive sweep v160: GitHub repos (SimplifyJobs Summer2026 v160 — same as v159, all dup; NewGrad: Alarm.com SWE1 Lawrence KS ~2.8/5, Boar's Head food domain skipped, Fortinet Junior SWE FTE Santa Clara ~3.5/5 NEW added to pipeline, Leidos defense dup, RTX defense dup); SpeedyApply AI/SWE v160 (same as v159 — all dup); SpeedyApply New Grad USA (BILL/ViaPlus/ExactSciences/FIS/GlobalFoundries — all non-SWE data analyst roles); Anthropic API v160 (6 Fellows all dup v149-v159 — DEADLINE APRIL 26 IN 3 DAYS); Airtable API (56 roles all senior FTE, no intern); Ashby broad (Notion/Cohere/Replit/Giga/Farsight/Ramp/Zettabyte/Zip/Whatnot/Vantage/OpenAI/Sentry/Kognitos — all dup v7-v159); Greenhouse broad (Cloudflare/Together AI/Obsidian/HP IQ/Glean/Klaviyo/Figma/Mercury/Okta/Censys/Bandwidth — all dup v7-v159); Lever broad (Symmetry/Actian/Shield AI/BestEgg/Artera/Voleon/Veeva/SoloPulse/Rigetti/Palantir/Mistral/W&B — all dup v7-v159); YC (page failed, same pattern as v159); Extern guide (Amazon/Stripe/Atlassian/EarnIn/Snyk/C3.ai — all dup or below threshold); 0 new qualifying ≥4.0/5; 1 new pipeline addition (Fortinet Junior SWE FTE ~3.5/5); 16 new history entries; 3,489 total; Summer 2026 market CONFIRMED FULLY SATURATED after 160 consecutive exhaustive scans) === -->
 <!-- 0 new qualifying ≥4.0. 1 new pipeline addition (Fortinet Junior SWE FTE ~3.5/5 below threshold). 16 new scan-history entries (3,489 total). -->
 <!-- ⚡ CRITICAL DEADLINE APRIL 26 (3 DAYS): Anthropic Fellows AI Security #246 4.7/5 + AI Safety #370 4.2/5 + ML Systems #372 4.1/5 — APPLY NOW. -->

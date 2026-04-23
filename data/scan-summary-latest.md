@@ -1,95 +1,40 @@
-# Portal Scan Summary — 2026-04-23 (v161)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Portal Scan — 2026-04-23 (v162)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+**Queries executed:** 30+
+**Sources checked:** 35+ companies/portals/APIs
+**Candidates reviewed:** 80+ listings across all searches
+**Filtered by title:** ~15 relevant new candidates
+**Duplicates:** ~78 (already evaluated or in pipeline from v7-v161)
+**New added to pipeline:** 2 (both below 4.0 threshold)
+**Full evaluations (≥4.0):** 0
 
-**Date:** 2026-04-23  
-**Scan version:** v161 (161st consecutive scan)  
-**Previous scan:** v160 (2026-04-23)  
-**Agent:** Autonomous scanning agent
+## New Listings Found
 
----
+- iSpot.tv | Engineering Intern (Summer 2026) | ~3.5/5 | `https://job-boards.greenhouse.io/ispottv/jobs/4683077005`
+  - AI-first internship (Claude/Copilot/Cursor/Kiro required), Python/Java/Go, $35/hr
+  - Bellevue WA hybrid (remote option for non-local candidates)
+  - Below threshold: ad-tech TV measurement domain mismatch; $35/hr only at minimum floor
 
-## Scan Statistics
+- Hex Technologies | Product Engineer Intern | ~3.5/5 | `https://hex.tech/careers/product-engineer-intern/`
+  - React/TypeScript/Python stack, data analytics/AI platform
+  - SF or NYC (3x/week onsite required); comp undisclosed
+  - Below threshold: SF relocation required; comp unknown; domain adjacent not AI-primary
 
-| Metric | Count |
-|--------|-------|
-| Queries / fetches executed | 14 |
-| Job board APIs attempted | 5 (Vercel/Intercom/Glean/HumeAI/Arize) |
-| API errors (503) | 5 |
-| WebSearch queries run | 9 |
-| Total candidate listings reviewed | ~50 |
-| New to scan history | 6 |
-| Filtered by title (non-target domain) | 4 |
-| Filtered by score (below 3.5) | 1 |
-| Confirmed duplicates (v7–v160) | ~40 |
-| **Net new qualifying ≥ 4.0** | **0** |
-| New pipeline entries added | 0 |
+## Notes
 
----
+- **Market status: FULLY SATURATED** after 162 consecutive exhaustive scans. v162 checked 35+ sources including all major ATS platforms (Greenhouse, Ashby, Lever), GitHub aggregators (SimplifyJobs Summer2026 + NewGrad, jobright-ai), Greenhouse APIs (Temporal/RunPod/Intercom/DeepMind), direct company pages for all requested companies (Talkdesk, Dialpad, Gong, Genesys, Cognigy, Make.com, Langfuse, Bland AI, Lindy, Speechmatics, Tinybird, Clarity AI, Factorial, TravelPerk), and security job aggregators (Help Net Security).
 
-## New Entries This Scan
+- **AI startup sweep** confirmed: Perplexity (EU-only), Cursor/Anysphere (no intern program), Cognition (FTE only), Hebbia (senior FTE only), Luma AI (no intern), Runway (no intern), Magic AI (no listing), W&B (confirmed no intern v7-v161).
 
-### Skipped — Score Below Threshold
-| Company | Role | URL | Score | Reason |
-|---------|------|-----|-------|--------|
-| SoFi | Software Engineer Intern - AMG Core Rails | https://www.sofi.com/careers/sofi-university/7581448003 | ~2.8/5 | Ruby on Rails stack, no Ruby exp in CV; fintech domain |
+- **Key finding:** iSpot.tv posted a new Engineering Intern role with an explicit AI-first culture (interns must use Claude, Copilot, Cursor, and Kiro) - genuinely fresh posting not seen in 161 prior scans. Not qualifying at 3.5/5 due to ad-tech domain and $35/hr floor pay.
 
-### Skipped — Title Filter (Non-Target Domain)
-| Company | Role | Filter Reason |
-|---------|------|---------------|
-| ether.fi | GTM Engineer Intern (Summer 2026) | Crypto/Web3/DeFi domain |
-| Leidos | Software Engineer Intern (Reston, VA) | Defense contractor |
-| Jabil | Programmer Analyst Intern (St. Petersburg, FL) | Manufacturing domain |
-| Altom Transport | Software Development Intern | Logistics domain |
+- **Key finding:** Hex Technologies has an open Product Engineer Intern role in SF/NYC using React/TypeScript/Python. Not qualifying due to onsite requirement and undisclosed comp.
 
----
-
-## Top Matches (score ≥ 4.0)
-
-**None found this scan.**
-
----
-
-## Infrastructure Notes
-
-- **Greenhouse APIs returning 503** across all checked endpoints (Vercel, Intercom, Glean, HumeAI, ArizeAI). Likely temporary downtime. Re-check next scan.
-- **SimplifyJobs Summer2026 list** added 5 entries today — all non-qualifying.
-- All major sources (Ashby, Greenhouse, Lever, GitHub aggregators) confirmed 100% duplicate rate vs prior 160 scans.
-
----
-
-## Market Status
-
-**Summer 2026 internship season is fully saturated.** After 161 consecutive scans covering 3,500+ unique URLs:
-
-- All major job boards exhaustively covered
-- All portals.yml tracked companies checked multiple times
-- Rolling-deadline companies (Zip, 1Password, Cohere) re-scanned — no new openings
-- Season effectively closed for Summer 2026 new entrants
-
-### What's Still Open (from evaluated queue)
-The pipeline has 70+ roles with score ≥4.0 awaiting applications. Key highlights:
-
-| # | Company | Role | Score | Notes |
-|---|---------|------|-------|-------|
-| #394 | Anthropic | AI Safety / AI Security / ML Systems Fellows | 3.8/5 | ⚡ **DEADLINE APRIL 26 — 3 DAYS** |
-| #388 | ByteDance | SWE Project Intern (AI Security) | 4.3/5 | Apply immediately |
-| #391 | Netflix | Software Engineer Intern (Summer 2026) | 4.2/5 | Apply immediately |
-| #382 | Replit | Software Engineer, New Grad | 4.5/5 | Apply immediately |
-| #389 | Verkada | Security SWE, Univ Graduate 2026 | 4.1/5 | Apply immediately |
-| #386 | Illumio | Engineering Intern, SRE | 4.0/5 | Apply immediately (start May 26) |
-| #285 | CrowdStrike | SWE Intern | 4.5/5 | Apply immediately |
-| #366 | 1Password | Developer Intern - Extension Excellence | 4.3/5 | Apply immediately (Chrome MV3 match) |
-
----
+- **CRITICAL REMINDER:** Anthropic Fellows deadline is **April 26** (in 3 days). Reports #246 (AI Security 4.7/5), #370 (AI Safety 4.2/5), #372 (ML Systems 4.1/5) are all strong matches — action needed immediately.
 
 ## Recommended Next Actions
-
-1. **URGENT (3 days):** Apply to Anthropic Fellows — AI Safety, AI Security, ML Systems before **April 26 deadline**.
-2. **Apply queue:** Work through the 70+ evaluated roles with score ≥4.0 in applications.md. Run `/career-ops pipeline` for each URL in pipeline.md.
-3. **Scanning:** Summer 2026 season is saturated. Consider pausing scan frequency to every 3-5 days unless targeting Fall 2026 or New Grad FTE roles.
-4. **Fall 2026:** Mercury AI Enablement Intern and Notion Fall 2026 SWE are in the pipeline — evaluate if timeline works with TAMU fall semester.
-5. **System update:** career-ops v1.3.0 is available (local: v1.1.0). Run update when ready.
-
----
-
-_Generated by autonomous scan agent · career-ops v1.1.0 · 2026-04-23_
+→ **IMMEDIATE (April 26 deadline in 3 days):** Apply to Anthropic Fellows AI Security (#246, 4.7/5), AI Safety (#370, 4.2/5), ML Systems (#372, 4.1/5)
+→ Summer 2026 market is saturated — all major platforms exhausted after 162 scans
+→ Consider shifting focus to application strategy for existing high-score pipeline entries rather than continued scanning
+→ iSpot.tv Engineering Intern (pipeline) — review if domain acceptable; $35/hr is at the minimum floor
+→ New scan in 3-5 days only if there are late-breaking postings after the summer recruiting season officially closes
