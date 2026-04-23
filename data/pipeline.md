@@ -2662,3 +2662,40 @@ None qualifying. 2 new companies first seen (both below threshold):
 **SpeedyApply AI v164:** Same 5 top entries (Meta Audio PhD/Nielsen InfoSec/Nielsen OSS/Okta AI Ops/Trumid) — all dup v103-v163.
 
 <!-- === END 2026-04-23 SCAN v164 === -->
+
+<!-- === BEGIN 2026-04-23 SCAN v165 (autonomous agent) === -->
+
+**Scan v165 — 2026-04-23** | Autonomous scan: Greenhouse APIs (Anthropic/Airtable/Vercel/Glean/ArizeAI/RunPod/HumeAI/Intercom/Temporal) + Ashby broad (ElevenLabs/Decagon/Cohere/Pinecone/Sierra/LangChain/n8n/Zapier/Gumloop/Attio/Tinybird/Travelperk) + Lever broad (Palantir/W&B/Mistral/ClarityAI) + SimplifyJobs Summer2026 v165 + SimplifyJobs New Grad v165 + SpeedyApply AI/SWE + Extern guide + Okta/Atlassian direct check + 15 WebSearch queries | Net new qualifying ≥4.0: **0** | New pipeline entries: **0**
+
+> Market status: **Summer 2026 internship season fully saturated — 165 consecutive scans.** Anthropic API returned full job list: 3 NEW FTE roles found (Applied AI Architect Public Sector 5194007008, Applied AI Architect Startups 5193973008, Applied AI Engineer Beneficial Deployments 5146028008) — all senior FTE, not intern/new-grad. Arize AI has 2 new FTE roles (AI Application Engineer 5969145004, AI Sales Engineer US 5792327004). Airtable added Forward Deployed Engineer EMEA (8477376002). All require 2+ years exp and target experienced hires.
+>
+> ⚠️ **CRITICAL DEADLINE: Anthropic Fellows (AI Safety #370 + AI Security + ML Systems #372) — APRIL 26 (3 DAYS).** Apply immediately.
+> → **Strongly recommend shifting ALL effort from scanning to applying.** 70+ evaluated roles with score ≥4.0 remain unapplied. See applications.md for the queue.
+
+### ✅ Evaluated (score ≥ 4.0) — scan-v165
+None — no new qualifying intern/new-grad listings discovered.
+
+### 🆕 New FTE roles at tracked companies (post-graduation consideration)
+- `https://job-boards.greenhouse.io/anthropic/jobs/5194007008` | Anthropic | Applied AI Architect (Public Sector) — FTE, experienced hire, post-grad consideration
+- `https://job-boards.greenhouse.io/anthropic/jobs/5193973008` | Anthropic | Applied AI Architect (Startups) — FTE, experienced hire, post-grad consideration
+- `https://job-boards.greenhouse.io/anthropic/jobs/5146028008` | Anthropic | Applied AI Engineer, Beneficial Deployments — FTE (second instance, 5068226008 already in history)
+- `https://job-boards.greenhouse.io/arizeai/jobs/5969145004` | Arize AI | AI Application Engineer — FTE, no explicit exp requirement in title
+
+### Skipped — scan-v165
+- Anthropic Cluster Deployment Engineer (5191638008), Field Services Engineer (5194827008) — FTE, ops-focused, skipped_fte
+- Airtable Forward Deployed Engineer EMEA (8477376002) — FTE, EMEA location, skipped_location
+- Arize AI Sales Engineer US (5792327004), EMEA (5781408004) — FTE sales-adjacent, skipped_fte
+- SpeedyApply SWE 0-2d: BlackSky SDET (defense), Kognitos (dup v104), Ripple (crypto), Zoox (autonomous vehicles) — skipped_title/dup
+- SimplifyJobs internships: GDMS SWE (defense), SoFi AMG Rails (dup v161), Leidos (defense) — all dup or non-qualifying
+- SimplifyJobs New Grad: RTX/Alarm.com/Boar's Head/Fortinet Jr SWE/Leidos — all dup
+- Okta SE AI Intern (7547852) — confirmed closed Jan 29 2026
+- Atlassian SWE Intern (20956) — dup v9
+
+### Companies Confirmed No New Intern/New-Grad Roles — scan-v165
+**Greenhouse APIs:** Vercel (80 FTE, no intern) / Glean (SWE Univ Grad 4592324005 still listed, dup v7) / Arize AI (35 FTE, no intern) / Airtable (56 FTE, no intern) / RunPod (20 FTE, no intern) / HumeAI (8 FTE, no intern) / Intercom (150+ FTE, no intern) / Temporal (0 jobs).
+**Anthropic API:** 6 Fellows all dup v5-v164 — AI Safety/AI Security/ML Systems DEADLINE APRIL 26.
+**Ashby broad:** All major companies confirmed dup v7-v164 (Decagon/Cohere/Replit/Sierra/Pinecone/LangChain/ElevenLabs/Deepgram/n8n/Zapier/Gumloop/Attio/Tinybird/Travelperk — no new intern programs).
+**Lever broad:** Palantir/W&B/Mistral/ClarityAI — all dup v7-v164.
+**Direct checks:** EarnIn Backend Intern $30/hr below comp floor (dup v117); Atlassian SWE Intern (dup v9); Extern guide 30+ companies all dup v7-v164.
+
+<!-- === END 2026-04-23 SCAN v165 === -->
