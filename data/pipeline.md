@@ -1,5 +1,32 @@
 # Pipeline -- Pending URLs
 
+<!-- === NEW 2026-04-23 SCAN v168 (Autonomous Agent — Greenhouse APIs (Anthropic/Vercel/Glean/Airtable/Arize): found new Crusoe relisted (prev closed #252) + ByteDance Security Assurance (in pipeline ~3.5, re-evaluated 4.0) + Verkada Backend Intern (in pipeline ~3.7, re-evaluated 4.0); Glean SWE Intern confirmed dup #340 4.5/5; Notion AI Intern confirmed dup #254 4.5/5; WebSearch: ByteDance Network Security (skipped_score ML/DL gap), Palantir FDSE US Gov (new URL, gov track), Cohere ML Intern (~3.5), Notion Fall Intern (~3.8), OpenAI Systems Research (~3.8), Mercury AI Enablement (CLOSED deadline passed Mar 6); 3 new evaluated ≥4.0/5; 2 confirmed dup already evaluated; Crusoe tracker updated #252→4.1/5; 19 scan-history entries added) === -->
+<!-- 3 new evaluated ≥4.0/5 (reports #398/#399/#400). Crusoe tracker updated. 19 new scan-history entries. -->
+<!-- ⚡ CRITICAL DEADLINE APRIL 26 (3 DAYS): Anthropic Fellows AI Security #246 4.7/5 + AI Safety #370 4.2/5 + ML Systems #372 4.1/5 — APPLY NOW. -->
+
+### New additions — scan-v168
+- [ ] https://jobs.ashbyhq.com/Crusoe/e21bb802-1292-476a-8d25-d1ebf18d035a | Crusoe | Product Security Applied AI Intern (Summer 2026) | 4.1/5 | ⭐ RELISTED (prev closed #252); SF Bay Area in-person 12wks; Python/Rust/Go; adversarial LLM testing + security stack = exact dual match; apply immediately [EVALUATED — report #398]
+- [ ] https://joinbytedance.com/search/7592416621414205701 | ByteDance | Security Software Engineer Project Intern (Security Assurance) | 4.0/5 | 5-60/hr; San Jose CA; offensive security/pen testing/threat emulation; 3rd ByteDance security track (vs #388 AI Security 4.3/5 + #392 TikTok Product 4.0/5); ⚠️ Chinese parent brand risk [EVALUATED — report #399]
+- [ ] https://job-boards.greenhouse.io/verkada/jobs/4836993007 | Verkada | Backend Software Engineering Intern 2026 | 4.0/5 | 5-65/hr + housing stipend; San Mateo CA on-site; Python/Go distributed systems; 100K+ device scale; different from Security SWE New Grad #389 [EVALUATED — report #400]
+- [ ] https://jobs.ashbyhq.com/openai/13a9e4e4-505b-4545-8b2b-b0bcc09c2b4f | OpenAI | Software Engineer Systems Research Internship (Summer 2026) | ~3.8/5 | Systems research track; different from regular SWE intern #353 (4.5/5); carlosOS systems depth relevant; SF in-person
+- [ ] https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb | Palantir | Forward Deployed Software Engineer, New Grad - US Government | ~3.5/5 | Gov track; different from commercial FDSE #143 (4.7/5); likely requires US person; verify eligibility
+
+### Skipped — scan-v168
+- Glean SWE Intern (4595665005) — dup #340 (4.5/5, evaluated 2026-04-11)
+- Notion AI Intern (5bc8cbb9) — dup #254 (4.5/5, evaluated 2026-04-05)
+- Anthropic STEM Fellow (5189848008) — PhD/domain-expert required; undergrad mismatch
+- Anthropic Fellows RL (5183052008) — RL gap; DEADLINE APRIL 26 (3 days)
+- Vercel FDE v0 / SWE Agent — senior FTE; experience gap
+- Cohere ML Intern (2c669d85) — ML training gap; ~3.5 below threshold
+- Notion Fall Intern — fall timing; lower priority
+- Mercury AI Enablement — deadline passed March 6 2026 (CLOSED)
+- Point72 AI Engineer Intern (8500448002) — potential dup of #323 (4.3/5)
+- ByteDance Network Security — ML/DL foundation gap; ~3.5/5
+- Arize AI / Airtable / Glean new FTE roles — senior experience required
+
+<!-- === END 2026-04-23 SCAN v168 === -->
+
+
 <!-- === NEW 2026-04-23 SCAN v163 (Autonomous Agent — exhaustive fresh-angle sweep v163: Greenhouse API (Anthropic 503; Glean SWE Univ Grad dup v7, 200+ senior FTE only); Anthropic job board direct (STEM Fellow 5189848008 confirmed dup scan-v94 — PhD/research required, Carlos=undergrad); WebSearch SWE intern greenhouse/ashby (Salesforce/Stripe/Atlassian/Cloudflare/Together AI/Obsidian/Gallup/Gemini/Rockstar/Astranis — all dup v7-v162); WebSearch security intern (Cloudflare/Together AI/Obsidian/Gallup/Gemini/Rockstar all dup); WebSearch AI/ML intern (Dex/Adobe/GM all dup); WebSearch consulting intern (MBB deadlines past Mar 2026; Big4 opens Aug 2026); WebSearch DevOps/SRE intern (DV Trading/PDT/Zscaler/Ada all dup v61-v98); YC companies broad (Circleback/14.ai/a0.dev/Browser Use/SubImage all dup v30-v84); SpeedyApply AI (Meta Audio Research/Nielsen/Okta AI Ops/Trumid — all dup v103-v162); Extern "still open" guide (30+ cos — Amazon/NVIDIA/Salesforce/Stripe/Cloudflare/Atlassian/Snyk/EarnIn/Veeva/Samsara — all dup; Fiserv/GE Vernova non-tech skip); IBM all dup v66; Cisco/Splunk: SE Intern dup v8, SWE Frontend/Backend Interns both 410 Gone; SimplifyJobs top entries all dup v149-v162; SpeedyApply SWE/AI all dup v103-v162; 0 new qualifying ≥4.0/5; 0 new pipeline additions; ~20 new scan-history entries; 3,510 total; Summer 2026 market CONFIRMED FULLY SATURATED after 163 consecutive exhaustive scans) === -->
 <!-- 0 new qualifying ≥4.0. 0 new pipeline additions. ~20 new scan-history entries. -->
 <!-- ⚡ CRITICAL DEADLINE APRIL 26 (3 DAYS): Anthropic Fellows AI Security #246 4.7/5 + AI Safety #370 4.2/5 + ML Systems #372 4.1/5 — APPLY NOW. -->
