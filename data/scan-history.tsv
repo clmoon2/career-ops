@@ -3530,3 +3530,23 @@ https://www.helpnetsecurity.com/2026/04/21/cybersecurity-jobs-available-right-no
 https://job-boards.greenhouse.io/obsidiansecurity/jobs/4788725008	2026-04-23	scan-v162-obsidian	Obsidian Security SWE Intern (Summer 2026) — confirmed dup v7-v161 (closed)	Obsidian Security	skipped_dup
 https://jobs.lever.co/actian/21624589-9c91-48ca-bce7-ba4d0bb9a868	2026-04-23	scan-v162-actian	Actian AI Security Intern — confirmed dup v7-v161	Actian	skipped_dup
 https://jobs.ashbyhq.com/perplexity	2026-04-23	scan-v162-perplexity	Perplexity: EU/Belgrade/London intern only — confirmed dup v7-v161; no US intern	Perplexity AI	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	2026-04-23	scan-v163-api	Anthropic Greenhouse API	Anthropic	skipped_503
+https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs	2026-04-23	scan-v163-api	Glean API: SWE Univ Grad dup v7; all 200+ roles senior FTE	Glean	skipped_dup
+https://job-boards.greenhouse.io/anthropic/jobs/5189848008	2026-04-23	scan-v163-greenhouse	Anthropic STEM Fellow — PhD/research required; dup scan-v94; Carlos=undergrad	Anthropic	skipped_title
+https://careers.cisco.com/global/en/job/CISCISGLOBAL2000143EXTERNALENGLOBAL/Splunk-Frontend-Software-Engineer-I-Intern-United-States	2026-04-23	scan-v163-websearch	Splunk Frontend SWE I Intern — 410 Gone; closed	Splunk/Cisco	skipped_closed
+https://careers.cisco.com/global/en/job/CISCISGLOBAL2000124EXTERNALENGLOBAL/Splunk-Backend-Fullstack-Software-Engineer-I-Intern-United-States	2026-04-23	scan-v163-websearch	Splunk Backend/Fullstack SWE I Intern — 410 Gone; closed	Splunk/Cisco	skipped_closed
+https://www.extern.com/post/summer-2026-internships-still-open-guide	2026-04-23	scan-v163-extern	Extern guide: Amazon/NVIDIA/Salesforce/Stripe/Cloudflare/Atlassian/Snyk/EarnIn/Veeva — all dup v7-v162; Fiserv/GE Vernova non-tech skip	Extern Guide	skipped_dup
+https://github.com/speedyapply/2026-AI-College-Jobs	2026-04-23	scan-v163-speedyapply-ai	SpeedyApply AI v163: Meta Audio Research/Nielsen InfoSec/Nielsen OSS/Okta AI Ops/Trumid — all dup v103-v162	SpeedyApply AI	skipped_dup
+https://github.com/SimplifyJobs/Summer2026-Internships	2026-04-23	scan-v163-simplify	SimplifyJobs v163: top entries — all dup v7-v162	SimplifyJobs	skipped_dup
+https://github.com/speedyapply/2026-SWE-College-Jobs	2026-04-23	scan-v163-speedyapply-swe	SpeedyApply SWE v163: all top entries dup v7-v162	SpeedyApply SWE	skipped_dup
+https://www.ycombinator.com/internships	2026-04-23	scan-v163-yc	YC internships: Circleback/14.ai/a0.dev/Browser Use/SubImage/Swif.ai/Reacher — all dup v30-v162	Y Combinator	skipped_dup
+https://job-boards.greenhouse.io/cloudflare/jobs/7582150	2026-04-23	scan-v163-websearch	Cloudflare Security Engineer Intern — dup v294/333	Cloudflare	skipped_dup
+https://job-boards.greenhouse.io/togetherai/jobs/5012785007	2026-04-23	scan-v163-websearch	Together AI Security Engineer Intern — dup v334	Together AI	skipped_dup
+https://job-boards.greenhouse.io/rsgur/jobs/7670953003	2026-04-23	scan-v163-websearch	Rockstar Games Security Engineering Automation Intern — dup v390	Rockstar Games	skipped_dup
+https://job-boards.greenhouse.io/gemini/jobs/7360337	2026-04-23	scan-v163-websearch	Gemini Security Engineering Intern — dup v7+	Gemini	skipped_dup
+https://job-boards.greenhouse.io/gallup/jobs/4185955009	2026-04-23	scan-v163-websearch	Gallup Security Engineer Intern Omaha NE — dup v7+	Gallup	skipped_dup
+https://careers.cisco.com/global/en/internships-and-co-ops	2026-04-23	scan-v163-websearch	Cisco intern page: Splunk SE Intern dup v8; no new qualifying	Cisco/Splunk	skipped_dup
+https://jobs.ashbyhq.com/Crusoe/e21bb802-1292-476a-8d25-d1ebf18d035a	2026-04-23	scan-v163-ashby	Crusoe Product Security Applied AI Intern — page returned "Jobs" only; confirmed closed	Crusoe	skipped_closed
+https://careers.ibm.com	2026-04-23	scan-v163-ibm	IBM internships broad: Software Dev Intern Austin/SVL/Back-end — all dup v66-v81; AI Eng Intern (sales track) dup v66	IBM	skipped_dup
+https://careers.salesforce.com/en/jobs/jr313214/summer-2026-intern-ai-research/	2026-04-23	scan-v163-websearch	Salesforce AI Research Intern — dup v7+	Salesforce	skipped_dup
+https://openai.com/careers/software-engineer-internship-co-op-applied-emerging-talent-(summer-2026)/	2026-04-23	scan-v163-websearch	OpenAI SWE Intern Applied Emerging Talent — dup v2/353	OpenAI	skipped_dup

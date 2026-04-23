@@ -1,40 +1,105 @@
-# Portal Scan — 2026-04-23 (v162)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-**Queries executed:** 30+
-**Sources checked:** 35+ companies/portals/APIs
-**Candidates reviewed:** 80+ listings across all searches
-**Filtered by title:** ~15 relevant new candidates
-**Duplicates:** ~78 (already evaluated or in pipeline from v7-v161)
-**New added to pipeline:** 2 (both below 4.0 threshold)
-**Full evaluations (≥4.0):** 0
+# Portal Scan — 2026-04-23 (v163)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## New Listings Found
+**Date:** 2026-04-23  
+**Scan version:** v163  
+**Run type:** Autonomous agent — exhaustive fresh-angle sweep
 
-- iSpot.tv | Engineering Intern (Summer 2026) | ~3.5/5 | `https://job-boards.greenhouse.io/ispottv/jobs/4683077005`
-  - AI-first internship (Claude/Copilot/Cursor/Kiro required), Python/Java/Go, $35/hr
-  - Bellevue WA hybrid (remote option for non-local candidates)
-  - Below threshold: ad-tech TV measurement domain mismatch; $35/hr only at minimum floor
+---
 
-- Hex Technologies | Product Engineer Intern | ~3.5/5 | `https://hex.tech/careers/product-engineer-intern/`
-  - React/TypeScript/Python stack, data analytics/AI platform
-  - SF or NYC (3x/week onsite required); comp undisclosed
-  - Below threshold: SF relocation required; comp unknown; domain adjacent not AI-primary
+## Results
 
-## Notes
+| Metric | Count |
+|--------|-------|
+| Sources searched | 20+ |
+| Companies/portals checked | 35+ |
+| Total URLs checked | ~60 |
+| New URLs added to history | ~20 |
+| Total scan-history size | ~3,510 entries |
+| New listings passing title filter | 0 |
+| Duplicates (already in history/pipeline) | ~55 |
+| Closed/expired listings | 3 |
+| New listings added to pipeline.md | 0 |
+| New listings scored ≥ 4.0/5 | 0 |
 
-- **Market status: FULLY SATURATED** after 162 consecutive exhaustive scans. v162 checked 35+ sources including all major ATS platforms (Greenhouse, Ashby, Lever), GitHub aggregators (SimplifyJobs Summer2026 + NewGrad, jobright-ai), Greenhouse APIs (Temporal/RunPod/Intercom/DeepMind), direct company pages for all requested companies (Talkdesk, Dialpad, Gong, Genesys, Cognigy, Make.com, Langfuse, Bland AI, Lindy, Speechmatics, Tinybird, Clarity AI, Factorial, TravelPerk), and security job aggregators (Help Net Security).
+---
 
-- **AI startup sweep** confirmed: Perplexity (EU-only), Cursor/Anysphere (no intern program), Cognition (FTE only), Hebbia (senior FTE only), Luma AI (no intern), Runway (no intern), Magic AI (no listing), W&B (confirmed no intern v7-v161).
+## Sources Scanned
 
-- **Key finding:** iSpot.tv posted a new Engineering Intern role with an explicit AI-first culture (interns must use Claude, Copilot, Cursor, and Kiro) - genuinely fresh posting not seen in 161 prior scans. Not qualifying at 3.5/5 due to ad-tech domain and $35/hr floor pay.
+### Greenhouse APIs
+- **Anthropic** → 503 Service Unavailable (API down)
+- **Glean** → SWE University Grad only (dup from scan-v7); all 200+ other roles are senior FTE
 
-- **Key finding:** Hex Technologies has an open Product Engineer Intern role in SF/NYC using React/TypeScript/Python. Not qualifying due to onsite requirement and undisclosed comp.
+### Direct Job Boards
+- **Anthropic STEM Fellow** (5189848008) → PhD/research required; already flagged in scan-v94 — Carlos is undergrad, skip
+- **Splunk Frontend SWE I Intern** (Cisco) → 410 Gone — closed
+- **Splunk Backend/Fullstack SWE I Intern** (Cisco) → 410 Gone — closed
+- **Crusoe Product Security Applied AI Intern** → page shows only "Jobs" header — confirmed closed
 
-- **CRITICAL REMINDER:** Anthropic Fellows deadline is **April 26** (in 3 days). Reports #246 (AI Security 4.7/5), #370 (AI Safety 4.2/5), #372 (ML Systems 4.1/5) are all strong matches — action needed immediately.
+### Aggregators & Repos
+- **SimplifyJobs Summer2026** → all top entries dup v7-v162
+- **SpeedyApply AI** → Meta Audio Research/Nielsen/Okta AI Ops/Trumid — all dup v103-v162
+- **SpeedyApply SWE** → all entries dup v7-v162
+- **Extern "still open" guide** → 30+ companies — Amazon/NVIDIA/Salesforce/Stripe/Cloudflare/Atlassian/Snyk/EarnIn/Veeva all dup; Fiserv/GE Vernova non-tech domain
+
+### Company Sweeps (All Duplicates)
+- **YC internships page** → Circleback/14.ai/a0.dev/Browser Use/SubImage/Swif.ai — all dup v30-v162
+- **IBM** → Software Dev Intern Austin/SVL/Back-end — all dup v66-v81
+- **Cisco/Splunk** → SE Intern dup v8; SWE interns 410 Gone
+- **Security intern sweep** → Cloudflare/Together AI/Obsidian/Gallup/Gemini/Rockstar — all dup v7-v162
+- **Consulting intern sweep** → MBB deadlines closed Mar 2026; Big 4 opens Aug 2026
+- **DevOps/SRE intern sweep** → DV Trading/PDT/Zscaler/Ada — all dup v61-v98
+- **AI/ML intern sweep** → Dex/Adobe/GM — all dup v7-v162
+- **Salesforce AI Research** → dup v7+
+- **OpenAI Applied Emerging Talent** → dup v2/v353
+
+---
+
+## Top Matches Already in Pipeline (Pending Action)
+
+| # | Company | Role | Score | Action Required |
+|---|---------|------|-------|-----------------|
+| 246 | Anthropic | Fellows — AI Security | 4.7/5 | ⚡ **APPLY NOW — DEADLINE APRIL 26** |
+| 370 | Anthropic | Fellows — AI Safety | 4.2/5 | ⚡ **APPLY NOW — DEADLINE APRIL 26** |
+| 372 | Anthropic | Fellows — ML Systems & Performance | 4.1/5 | **Apply by April 26** |
+| 304 | Mechanize | SWE Intern | 4.6/5 | Apply immediately |
+| 298 | Haize Labs | SWE Intern | 4.7/5 | Apply immediately |
+| 347 | Cloudflare | SWE Intern Austin | 4.8/5 | Apply immediately |
+| 355 | Atlassian | Security Engineer Intern | 4.5/5 | Apply immediately |
+| 353 | OpenAI | SWE Intern Summer 2026 | 4.5/5 | Apply immediately |
+| 341 | Ramp | SWE Intern — Forward Deployed | 4.5/5 | Apply immediately |
+| 334 | Together AI | Security Engineer Intern | 4.5/5 | Apply immediately |
+| 340 | Glean | SWE Intern | 4.5/5 | Apply immediately |
+
+---
+
+## Market Assessment
+
+**Summer 2026 internship market: FULLY SATURATED after 163 consecutive exhaustive scans.**
+
+All major portals (Greenhouse, Ashby, Lever, Workday, direct company pages), aggregators (SimplifyJobs, SpeedyApply, YC, Extern, Jobright), and 50+ tracked companies have been checked repeatedly. No new qualifying listings (≥4.0/5) found in the past 5 consecutive scans (v159-v163).
+
+**Focus should now shift from scanning to applying.** Carlos has 30+ evaluated listings scored ≥4.0/5. The Anthropic Fellows deadline (April 26) is the most urgent priority.
+
+---
 
 ## Recommended Next Actions
-→ **IMMEDIATE (April 26 deadline in 3 days):** Apply to Anthropic Fellows AI Security (#246, 4.7/5), AI Safety (#370, 4.2/5), ML Systems (#372, 4.1/5)
-→ Summer 2026 market is saturated — all major platforms exhausted after 162 scans
-→ Consider shifting focus to application strategy for existing high-score pipeline entries rather than continued scanning
-→ iSpot.tv Engineering Intern (pipeline) — review if domain acceptable; $35/hr is at the minimum floor
-→ New scan in 3-5 days only if there are late-breaking postings after the summer recruiting season officially closes
+
+1. **⚡ URGENT — APRIL 26 DEADLINE (3 DAYS):**
+   - Anthropic Fellows AI Security (#246, 4.7/5) — adversarial LLM testing = perfect match
+   - Anthropic Fellows AI Safety (#370, 4.2/5)
+   - Anthropic Fellows ML Systems (#372, 4.1/5)
+
+2. **Apply this week (high-score backlog):**
+   - Haize Labs SWE Intern (#298, 4.7/5) — adversarial LLM testing, $100-125K NYC
+   - Mechanize SWE Intern (#304, 4.6/5) — $100/hr SF, RL eval infra
+   - Cloudflare SWE Intern Austin (#347, 4.8/5) — already built on Cloudflare Workers
+   - Atlassian Security Engineer Intern (#355, 4.5/5) — cybersec minor exact match
+
+3. **Run `/career-ops pipeline`** to process top-scored pending evaluations.
+
+4. **No further scanning recommended** until early May when Fall 2026 / co-op listings begin emerging.
+
+---
+
+*Generated by career-ops autonomous scan agent v163 — 2026-04-23*
