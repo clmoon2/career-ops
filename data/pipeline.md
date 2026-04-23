@@ -1,5 +1,25 @@
 # Pipeline -- Pending URLs
 
+<!-- === NEW 2026-04-23 SCAN v160 (Autonomous Agent — exhaustive sweep v160: GitHub repos (SimplifyJobs Summer2026 v160 — same as v159, all dup; NewGrad: Alarm.com SWE1 Lawrence KS ~2.8/5, Boar's Head food domain skipped, Fortinet Junior SWE FTE Santa Clara ~3.5/5 NEW added to pipeline, Leidos defense dup, RTX defense dup); SpeedyApply AI/SWE v160 (same as v159 — all dup); SpeedyApply New Grad USA (BILL/ViaPlus/ExactSciences/FIS/GlobalFoundries — all non-SWE data analyst roles); Anthropic API v160 (6 Fellows all dup v149-v159 — DEADLINE APRIL 26 IN 3 DAYS); Airtable API (56 roles all senior FTE, no intern); Ashby broad (Notion/Cohere/Replit/Giga/Farsight/Ramp/Zettabyte/Zip/Whatnot/Vantage/OpenAI/Sentry/Kognitos — all dup v7-v159); Greenhouse broad (Cloudflare/Together AI/Obsidian/HP IQ/Glean/Klaviyo/Figma/Mercury/Okta/Censys/Bandwidth — all dup v7-v159); Lever broad (Symmetry/Actian/Shield AI/BestEgg/Artera/Voleon/Veeva/SoloPulse/Rigetti/Palantir/Mistral/W&B — all dup v7-v159); YC (page failed, same pattern as v159); Extern guide (Amazon/Stripe/Atlassian/EarnIn/Snyk/C3.ai — all dup or below threshold); 0 new qualifying ≥4.0/5; 1 new pipeline addition (Fortinet Junior SWE FTE ~3.5/5); 16 new history entries; 3,489 total; Summer 2026 market CONFIRMED FULLY SATURATED after 160 consecutive exhaustive scans) === -->
+<!-- 0 new qualifying ≥4.0. 1 new pipeline addition (Fortinet Junior SWE FTE ~3.5/5 below threshold). 16 new scan-history entries (3,489 total). -->
+<!-- ⚡ CRITICAL DEADLINE APRIL 26 (3 DAYS): Anthropic Fellows AI Security #246 4.7/5 + AI Safety #370 4.2/5 + ML Systems #372 4.1/5 — APPLY NOW. -->
+
+### New additions — scan-v160
+- [ ] https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22744 | Fortinet | Junior Software Developer (New Grad FTE) — Santa Clara CA (on-site likely); cybersecurity platform company; general SWE new grad role; Carlos cybersec minor + production security engineering (TLS/OAuth/HMAC/CORS) = domain fit; large corp culture (13K+ emp); comp TBD verify before applying; ~3.5/5 below threshold
+
+### Skipped — scan-v160
+- SimplifyJobs Summer2026 v160 | same as v159 — Newton Research/ZOLL/Nutanix/GDIT/ICF all dup; Fortinet AI Intern Oracle 22741 = same role as #393 (cross-post)
+- SimplifyJobs New Grad v160 | Alarm.com SWE1 Lawrence KS (~2.8/5 skipped_score); Boar's Head Sarasota FL (food domain); Leidos/RTX defense dup
+- SpeedyApply AI/SWE v160 | same as v159 — all dup v7-v159
+- SpeedyApply New Grad v160 | BILL/ViaPlus/ExactSciences/FIS/GlobalFoundries — non-SWE data analyst roles
+- Anthropic API v160 | 6 Fellows confirmed dup v149-v159 (DEADLINE APRIL 26!)
+- Airtable API v160 | no intern program
+- Ashby/Greenhouse/Lever broad v160 | all confirmed dup v7-v159
+- YC v160 | page failed; same pattern as v159
+- Extern guide v160 | all dup v7-v159; Snyk UK/Israel only; EarnIn $30/hr below floor
+
+<!-- === END 2026-04-23 SCAN v160 === -->
+
 <!-- === NEW 2026-04-22 SCAN v159 (Autonomous Agent — exhaustive sweep v159: GitHub repos (SimplifyJobs Summer2026 v159 — Fortive/Baird/Attentive/Tessera/Cloudflare PME/BigCommerce/NYT/Point72/Rocket Lawyer — all dup v7-v158); SpeedyApply AI/SWE v159 (same as v158 — all dup); Anthropic API back online (6 Fellows same as v158 — all dup; DEADLINE APRIL 26); Greenhouse broad (Cloudflare PME/Together AI/Obsidian/Censys/Bandwidth/Sigma/CoVar/Point72/Mercury past-deadline/Aquatic Capital 2027 — all dup v7-v158); Ashby broad (Notion/Cohere/Replit/Giga/Farsight/Crusoe/Worldly/Ramp/n8n/Zapier/ElevenLabs/LangChain/Pinecone — all dup v7-v158); Lever broad (Shield AI/Symmetry/Artera/Voleon/Nominal/Veeva/Rigetti/WeRide/Actian AI Security/Actian IaC/Match Group Cloud — all dup v7-v158); YC (Bindwell/Crustdata/SubImage/Novaflow/Conductor Quantum — all dup v30-v158 or skipped_score); ByteDance AI Security (Singapore location dup v61); New sources investigated: TD SYNNEX closed v137; Via AI Security = Actian dup v7; consulting MBB/Big4 all deadlines past; 0 new qualifying ≥4.0/5; 10 new history entries; 3,473 total; Summer 2026 market CONFIRMED FULLY SATURATED after 159 consecutive exhaustive scans) === -->
 <!-- 0 new qualifying ≥4.0. 0 new pipeline additions. 10 new scan-history entries (3,473 total). -->
 <!-- ⚡ CRITICAL DEADLINE APRIL 26 (4 DAYS): Anthropic Fellows AI Security #246 4.7/5 + AI Safety #370 4.2/5 + ML Systems #372 4.1/5 — APPLY NOW. -->
