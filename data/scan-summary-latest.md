@@ -1,136 +1,119 @@
-# Portal Scan Summary — 2026-04-23 (v165)
+# Portal Scan — 2026-04-23 (v166)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## Session Overview
-
-This session ran scan **v165** (this agent) plus reviewed the output of **v160-v164** (earlier agents today). Combined, today's April 23 session is the most comprehensive single-day sweep conducted.
+## Scan Metrics
 
 | Metric | Count |
 |--------|-------|
-| Total scan versions run today (v160-v165) | 6 |
-| Portals / sources checked | 40+ |
-| Candidates reviewed | ~120 |
-| New qualifying listings (score ≥4.0) | **0** |
-| New pipeline entries (all sessions today) | **2** |
-| Cumulative scan-history entries | ~3,590+ |
-| Unchecked pipeline items | 1,068 |
+| Scan version | v166 |
+| Date | 2026-04-23 |
+| Sources checked | 30+ (portals, aggregators, direct company pages) |
+| Total listings evaluated | 3,600+ (cumulative across all scans) |
+| New listings found this run | 0 |
+| Filtered by title (not relevant) | 8 |
+| Skipped (already in history/pipeline) | 22+ |
+| **New added to pipeline.md** | **0** |
+| New ≥4.0 reports generated | 0 |
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## ⚠️ CRITICAL: Anthropic Fellows Deadline — APRIL 26 (3 DAYS)
+## Sources Scanned
 
-**Apply now.** The following Anthropic Fellows tracks close April 26, 2026:
+**Job Board Portals:**
+- Ashby broad (Notion, Replit, Giga, Farsight, Cohere, Whatnot, Zettabyte, ElevenLabs, Deepgram, Vapi, Bland AI, Decagon, Sierra, Pinecone, LangChain, n8n, Zapier, Lindy, Attio, Tinybird, Travelperk, Crusoe) → all dup
+- Greenhouse broad (Cloudflare, Together AI, Obsidian, Astranis, Affirm, Aquatic Capital, SpaceX, Glean, Anthropic, Airtable, Vercel, Arize AI, RunPod, HumeAI, Intercom, Temporal, Figma, Loop, C3 AI, Dropbox, Klaviyo) → all dup
+- Lever broad (Palantir, W&B, Mistral, Voleon, Actian, Zoox, NimbleRx, Waabi, BestEgg, Nominal, Symmetry, Artera, ShieldAI) → all dup or non-target
 
-- **Anthropic Fellows — AI Safety** (#370, score 4.2/5) → `job-boards.greenhouse.io/anthropic/jobs/5183044008`
-- **Anthropic Fellows — AI Security** (#372, score 4.2/5) → `job-boards.greenhouse.io/anthropic/jobs/5030244008`
-- **Anthropic Fellows — ML Systems & Performance** → `job-boards.greenhouse.io/anthropic/jobs/5183051008`
+**GitHub Aggregators:**
+- SimplifyJobs Summer2026 (RTX/DNV/Skillz/Newton Research/ZOLL/Nutanix) → all dup or non-target
+- SpeedyApply SWE (Pinterest Fall 2026 CA/BlackSky SDET VA/Kognitos/Ripple/Zoox) → all dup or filtered
+- jobright-ai New Grad (Kiewit/AV/Nordstrom/SpaceX FTE/ExPrep/Microsoft FTE/Figma FTE/TikTok FTE/Salesforce FTE) → all FTE or dup
 
-**These are in the evaluated queue. 3 days remain. Stop scanning, start applying.**
+**Direct Company Checks:**
+- Groq: no Summer 2026 intern program open yet
+- Perplexity AI: UK only (not US-based)
+- Meta: undergrad track closed; PhD/MS ML tracks only
+- Turbo AI: dup v156 (~3.5/5, edu-tech domain)
+- Newton Research: dup v162 (~3.0/5, no ATS URL)
+- Capital One Cyber Security: dup v136 (~3.8/5, in pipeline)
+- YC companies: all confirmed dup
+- Consulting firms (Big 4 + MBB): summer 2026 cycles closed
+- Prosple Cybersec: all dup or below threshold
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## Portals Scanned Today
+## New Listings Added to Pipeline
 
-### Greenhouse APIs (Level 2)
-| Company | Result |
-|---------|--------|
-| Anthropic | 6 Fellows (all dup, deadline Apr 26); 3 NEW FTE roles (Applied AI Architect ×2, Applied AI Engineer) — senior FTE, skipped |
-| Airtable | 56 FTE; Forward Deployed Engineer EMEA NEW but EMEA location; no intern |
-| Vercel | 80 FTE; no intern/new grad |
-| Glean | SWE Univ Grad (4592324005) still listed but dup from v7 |
-| Arize AI | 35 FTE; 5 NEW FTE roles (AI Application Engineer, AI Sales Engineers, DevOps Mgr) — all senior; no intern |
-| RunPod | 20 FTE; no intern |
-| Hume AI | 8 FTE; no intern |
-| Intercom | 150+ FTE; no intern |
-| Temporal | 0 jobs (board empty) |
+**None.** The Summer 2026 internship market is fully saturated after 166 consecutive scans. All major tech companies, AI startups, and aggregators have been thoroughly covered.
 
-### Ashby Companies (Level 1/3)
-All confirmed dup v7-v164: Decagon, Cohere, Replit, Sierra, Pinecone, LangChain, ElevenLabs, Deepgram, n8n, Zapier, Gumloop, Attio, Tinybird, Travelperk, Vapi, Bland AI, Lindy.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Lever Companies
-All confirmed dup v7-v164: Palantir, Weights & Biases, Mistral AI, ClarityAI, Symmetry, Shield AI, FieldAI, Artera, Actian, Voleon, NimbleRx, Waabi, SoloPulse.
+## Top Matches (Score ≥ 4.0) in Evaluated Pipeline
 
-### GitHub Aggregators
-| Source | Result |
-|--------|--------|
-| SimplifyJobs Summer2026 | 0d entries: GDMS (defense), SoFi Rails (dup), Leidos (defense), ether.fi (crypto), Jabil/Altom/Al Warren Oil (non-target) — 0 qualifying |
-| SimplifyJobs New Grad | 0d entries: RTX/Alarm.com/Boar's Head/Fortinet Jr/Leidos — all dup or non-target |
-| SpeedyApply SWE | 0-2d: BlackSky SDET (defense), Kognitos (dup), Ripple (crypto), Zoox (auto) — 0 qualifying |
-| SpeedyApply AI | Same 5 top entries as v164 — all dup v103-v164 |
+These are the top active opportunities from prior scans — all pending application decision:
 
-### Direct Checks
-| Company | Result |
-|---------|--------|
-| Okta SE AI Intern (7547852) | Confirmed closed Jan 29, 2026 |
-| Atlassian SWE Intern | Dup v9/v43 |
-| EarnIn Backend Intern | Dup v117; $30/hr below comp floor |
-| Extern still-open guide | All 30+ companies dup v7-v164 |
+| Score | Company | Role | Key Note |
+|-------|---------|------|----------|
+| 4.8/5 | Cloudflare | SWE Intern — Austin TX | Already built on Workers/Hono — production proof point |
+| 4.7/5 | Haize Labs | SWE Intern | Adversarial LLM testing = perfect match; $100-125K ann NYC |
+| 4.7/5 | Cloudflare | Security Engineer Intern | Austin TX local; CSRF/TLS/OAuth exact match |
+| 4.7/5 | Anthropic | Fellows — AI Security | ⚠️ DEADLINE APRIL 26 — adversarial LLM testing match |
+| 4.6/5 | Mechanize | SWE Intern | $100/hr SF; RL eval infra + adversarial testing match |
+| 4.5/5 | OpenAI | SWE Internship (Summer 2026) | Multi-model pipeline; $60/hr SF/Seattle |
+| 4.5/5 | Ramp | SWE Intern — Forward Deployed | FDE archetype; $11K/mo + housing NYC/SF |
+| 4.5/5 | Glean | SWE Intern | $57-69/hr; Palo Alto/SF hybrid; AI search |
+| 4.5/5 | Together AI | SWE Intern | $58/hr SF; 5-provider AI pipeline match |
+| 4.5/5 | Atlassian | Security Engineer Intern | Seattle 12wk; Cybersec Minor+HMAC/TLS/OAuth |
+| 4.5/5 | Decagon | Agent SWE Intern | SF; agentic AI; multi-model + LangChain exact match |
+| 4.5/5 | Replit | SWE New Grad | AI coding platform; $120-140K; Foster City CA |
+| 4.5/5 | Browser Use | SWE Intern | YC W25; $6K-16K/mo SF; browser agents = perfect match |
+| 4.4/5 | 1Password | Extension Excellence Intern | Chrome MV3 exact match; remote US/CA |
+| 4.4/5 | Cloudflare | Security Engineer Intern | Reeval; Austin TX |
+| 4.3/5 | ByteDance | SWE Project Intern (AI Security) | LLM adversarial eval pipelines; $45-60/hr San Jose |
+| 4.2/5 | Netflix | SWE Intern (Summer 2026) | FAANG-adjacent; $40-110/hr; Finch prod+security match |
+| 4.2/5 | Rakuten Advertising | AI Engineer Intern | Multi-agent AI; $35-50/hr; San Mateo |
+| 4.2/5 | Anthropic | Fellows — ML Systems | ⚠️ DEADLINE APRIL 26; $3,850/wk |
+| 4.2/5 | Roadie (UPS) | AI Engineer Intern | Remote; LangChain/FastAPI/RAG exact stack |
+| 4.1/5 | Northspyre | AI Engineer Intern | $10K/mo + $5K housing; Atlanta GA; agentic AI |
+| 4.1/5 | Databricks | SWE Intern (2026) | $115-139K; Mountain View; multi-track |
+| 4.1/5 | Harvey AI | SWE New Grad (2026) | $150-200K; SF in-person; LLM routing match |
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## New Pipeline Entries (All Today's Scans)
+## ⚠️ URGENT: Anthropic Fellows — DEADLINE APRIL 26 (3 DAYS)
 
-From v160:
-- `https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22744` | **Fortinet** | Junior Software Developer (New Grad FTE) | Santa Clara CA | ~3.5/5
+Four tracks evaluated and pending application:
 
-From v162:
-- `https://job-boards.greenhouse.io/ispottv/jobs/4683077005` | **iSpot.tv** | Engineering Intern (Summer 2026) | Bellevue WA hybrid | $35/hr | AI-first | ~3.5/5
+| # | Track | Score | Report |
+|---|-------|-------|--------|
+| 246 | AI Security | 4.7/5 | [#246](reports/287-anthropic-fellows-ai-security-2026-04-10.md) |
+| 370 | AI Safety | 4.2/5 | [#370](reports/292-anthropic-fellows-ai-safety-2026-04-10.md) |
+| 372 | ML Systems & Performance | 4.1/5 | [#372](reports/358-anthropic-fellows-ml-systems-2026-04-16.md) |
+| 394 | Reinforcement Learning | 3.8/5 | [#394](reports/394-anthropic-fellows-reinforcement-learning-2026-04-22.md) |
 
-**Neither meets the ≥4.0 threshold for full evaluation.** Both added for manual review.
+**Apply to AI Security (#246) immediately.** Apply by April 26 or lose all 4 opportunities.
 
----
-
-## Top Matches (Score ≥ 4.0) — Previously Evaluated, Still Open
-
-The following high-scoring roles are in the evaluated queue. Prioritize these:
-
-| Priority | Company | Role | Score | Deadline |
-|----------|---------|------|-------|---------|
-| URGENT | Anthropic | Fellows — AI Safety | 4.2/5 | **Apr 26** |
-| URGENT | Anthropic | Fellows — AI Security | 4.2/5 | **Apr 26** |
-| URGENT | Anthropic | Fellows — ML Systems | 4.2/5 | **Apr 26** |
-| High | Decagon | Agent SWE Intern (New Grad) | 4.5/5 | Rolling |
-| High | Decagon | Agent SWE Intern (Summer 2026) | 4.4/5 | Rolling |
-| High | Sierra | APX New Grad / SWE Agent | 4.3/5 | Rolling |
-| High | CrowdStrike | InfoSec Launch Intern | 4.5/5 | Rolling |
-| Good | Glean | SWE University Grad | 4.0/5 | Rolling |
-| Good | Palantir | SWE Intern | 4.1/5 | Rolling |
-
-*Full list in `applications.md`. Run `/career-ops tracker` for full status.*
-
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## Market Assessment
 
-**Summer 2026 internship season: FULLY SATURATED after 165 consecutive scans.**
+After 166 consecutive scans since 2026-04-05, the Summer 2026 internship market for Carlos's target roles (SWE, Security, AI/ML, DevOps, Consulting) is **confirmed fully saturated**. The major hiring wave ended in February-March 2026.
 
-- New postings appearing now are primarily: (a) defense/government contractors, (b) non-target domains (fintech legacy, food, logistics), (c) senior FTE roles at AI companies.
-- Best remaining window: **new grad (Dec 2025 – May 2026 grads)** and **Fall 2026 internships**.
+**What's left in the market:**
+- Rolling acceptance roles that fill slowly (Cloudflare, Together AI, Ramp FDE, Glean)
+- Verifying still-open status of evaluated roles before applying
+- Anthropic Fellows (URGENT — April 26 deadline)
+- A few late-posting companies (Capital One Cyber ~3.8/5, Turbo AI ~3.5/5)
 
-### Still Active (confirmed today)
-- Salesforce SWE Intern SF/NYC/Seattle; $49-59/hr; grad Dec 2026+; rolling (in pipeline)
-- Atlassian SWE Intern US; rolling (in pipeline)
-- Cloudflare SWE Intern Austin TX; 12 weeks (in pipeline)
-- Fortinet Applied AI Engineer Intern #393; 4.0/5 (evaluated)
-- Decagon/Sierra new grad AI agent roles (evaluated, top priority)
-- CrowdStrike InfoSec Launch Intern (evaluated, top priority)
+**Recommended next actions:**
+1. 🚨 **TODAY**: Apply to Anthropic Fellows AI Security (#246, 4.7/5) — deadline April 26
+2. **This week**: Apply to top-scored roles still accepting: Cloudflare SWE/Security (Austin TX), OpenAI SWE Intern, Ramp FDE, Mechanize, Together AI Security
+3. **Verify active**: Haize Labs, Browser Use, Atlassian Security — confirm still open before applying
+4. **Run /career-ops pipeline**: Process any remaining pending items from data/pipeline.md
+5. **Pause autonomous scanning**: Market is saturated; resume scanning in 2-3 weeks for Fall 2026 cycles or new late-posting companies
 
-### Newly Discovered FTE Roles at Tracked Companies (post-graduation consideration)
-- Anthropic: Applied AI Architect (Public Sector/Startups) — 2 new postings
-- Anthropic: Applied AI Engineer, Beneficial Deployments — new instance
-- Arize AI: AI Application Engineer — new posting
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
----
-
-## Recommended Next Actions
-
-1. **APPLY NOW**: Anthropic Fellows (AI Safety/AI Security/ML Systems) — deadline April 26
-2. **APPLY THIS WEEK**: Decagon Agent SWE New Grad (4.5/5), CrowdStrike InfoSec Launch (4.5/5), Sierra SWE Agent New Grad
-3. **APPLY SOON**: Glean SWE University Grad (4.0/5), Palantir SWE Intern (4.1/5)
-4. **EVALUATE**: iSpot.tv Engineering Intern (~3.5/5), Fortinet Junior SWE (~3.5/5) — run `/career-ops pipeline`
-5. **PIVOT**: Shift primary focus from scanning to applying. Pipeline has 1,068 pending items but the market is saturated. Quality applications beat more scanning.
-
----
-
-*Generated by career-ops autonomous scanner | Scan v165 | 2026-04-23*
+→ Run `/career-ops pipeline` to evaluate any pending items in data/pipeline.md
+→ Run `/career-ops tracker` for a full status overview
