@@ -1,5 +1,17 @@
 # Pipeline -- Pending URLs
 
+<!-- === NEW 2026-04-24 SCAN v178 (Autonomous Agent — Exhaustive market sweep after 177 prior scans; SimplifyJobs 0-3d: ABB Robotics (2.0/5 robotics domain) + Tencent gaming + HelloFresh dup + Chamberlain dup + Fortinet dup; SpeedyApply AI 0-2d: Schonfeld HR role + Pinterest PhD + Lattice Semi not found; Greenhouse APIs: Anthropic STEM Fellow (PhD req) + Economics Fellow (econ focus) both skip; Ashby/Lever/GitHub broad: all dup v7-v177; jobright-ai New Grad: Procore Ruby-stack 2.5/5 + Roblox dup; 1 new below-threshold addition (Palantir DC); MARKET FULLY SATURATED; 0 new qualifying ≥4.0) === -->
+<!-- 0 new evaluated ≥4.0/5. 1 new below-threshold addition. -->
+<!-- ⚡ DEADLINE APRIL 26 (2 DAYS): Anthropic Fellows AI Security #246 4.7/5 + AI Safety #370 4.2/5 + ML Systems #372 4.1/5 — APPLY IMMEDIATELY. -->
+
+### New additions — scan-v178 (below threshold)
+- [ ] https://jobs.lever.co/palantir/9410b487-c6c0-4178-903c-3311ce6b1861 | Palantir | Year at Palantir, Internship (Washington DC) | ~3.5/5 | NEW URL today on SimplifyJobs; same Year at Palantir program as existing #288 (4.1/5); DC location less preferred vs NYC/SF; lower priority vs existing Palantir tracks; verify listing and compare vs #288/#1 before applying
+
+### Evaluated — scan-v178
+*(0 new qualifying ≥4.0 found — market saturated after 178 scans)*
+
+<!-- === END 2026-04-24 SCAN v178 === -->
+
 <!-- === NEW 2026-04-24 SCAN v176 (Autonomous Agent — Level 2 Greenhouse APIs (Anthropic/Glean/RunPod/Arize/Airtable/Vercel/Hume/Intercom/Temporal); Level 3 WebSearch (Ashby broad/Greenhouse broad/Lever broad; security interns; AI/ML interns; DevOps interns; new grad roles; consulting interns; 20+ company cross-portal queries); KEY FINDINGS: 20 genuinely new URLs found; 4 evaluated ≥4.0/5 (OpenAI Systems Research 4.2/5 #409, C3 AI Ascend 4.1/5 #413, Zscaler Technical 4.0/5 #411, Symmetry Systems 4.0/5 #412); 10 new pipeline additions below threshold; 6 skipped (comp/domain/timing)) === -->
 <!-- 4 new evaluated ≥4.0/5 (reports #409 OpenAI Systems Research, #413 C3 AI Ascend, #411 Zscaler, #412 Symmetry Systems). 10 new listings added to pipeline. -->
 <!-- ⚡ DEADLINE APRIL 26 (2 DAYS): Anthropic Fellows AI Security #246 4.7/5 + AI Safety #370 4.2/5 + ML Systems #372 4.1/5 — APPLY NOW. -->
