@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 408 | 2026-04-24 | Netic | Machine Learning Engineer, Intern | 4.0/5 | Evaluada | ❌ | [408](reports/408-netic-ml-engineer-intern-2026-04-24.md) | SF in-person 12wks; LLM evals+APIs+pipeline = Finch exact match; $43M Founders Fund/Greylock; verify comp before relocation |
 | 407 | 2026-04-24 | 1Password | Developer Intern - Client Secrets Management (Summer 2026) | 4.0/5 | Evaluada | ❌ | [407](reports/407-1password-developer-intern-client-secrets-mgmt-2026-04-24.md) | Remote US/CA May-Aug; HMAC-SHA256/TLS/OAuth/key-purging exact match; ~$31-38/hr est; 4th 1Password qualifying track — apply after Extension Excellence #366 |
 | 406 | 2026-04-24 | Point72 | 2026 Summer Internship - AI Engineer (Investment Services) | 4.1/5 | Evaluada | ❌ | [406](reports/406-point72-ai-engineer-intern-investment-services-2026-04-24.md) | NYC in-person; $130-145K annualized; 3rd distinct Point72 AI track; GenAI R&D + model eval; verify grad timeline; apply alongside #303 and #323 |
 | 405 | 2026-04-24 | Julius AI | Software Engineer - Product (New Grad) | 4.2/5 | Evaluada | ❌ | [405](reports/405-julius-ai-swe-product-new-grad-2026-04-24.md) | SF onsite $130-150K; React/Next.js/Tailwind/Python exact match; AI data analysis platform; strong investor network (Vercel/Notion/Replit/Palantir founders); apply immediately |

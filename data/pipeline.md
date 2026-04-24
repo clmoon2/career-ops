@@ -2885,3 +2885,36 @@ None — no new qualifying intern/new-grad listings discovered.
 **Direct checks:** Snyk (2 new interns found — Container SWE + Security Engineer), Lenovo (2 new interns found — AI Pentest + AI Security SWE), Intuit (1 new intern found — Cyber Security), Zscaler (CLOSED Dec 2025), Fizz Social (below threshold), ByteDance Network Security (below threshold).
 
 <!-- === END 2026-04-23 SCAN v167 === -->
+
+<!-- === BEGIN 2026-04-24 SCAN v177 === -->
+
+## Scan v177 — 2026-04-24
+
+> **Focus:** Broad market sweep for genuinely new listings after 176 prior scan runs. Checked 40+ companies/sources: Perplexity, xAI, Groq, Writer, Stripe, Plaid, Podium Automation, Metronome, HackerOne, Character AI, Runway, Pika, Wiz, HashiCorp, Grafana, BCG/McKinsey, Netic, YC W26, jobright-ai repos, SpeedyApply AI/SWE, SimplifyJobs.
+
+> Market is saturated after v176. 1 new qualifying ≥4.0 found (Netic ML Engineer Intern).
+
+### ✅ Evaluated (score ≥ 4.0) — scan-v177
+- `https://jobs.ashbyhq.com/netic/982f6be8-0696-47ab-9ef5-d763bf891b3f` | Netic | Machine Learning Engineer, Intern — **4.0/5** — 12wks SF in-person; LLM evals+APIs+multi-model pipeline = Finch exact match; $43M Founders Fund/Greylock/Dylan Field; see report #408
+
+### 🆕 Borderline / Below Threshold — Added to Pipeline
+- `https://jobs.ashbyhq.com/netic/6653ed1c-a11b-4054-b837-580e5aa073ae` | Netic | Deployment Engineer — ~3.5/5 — FDE-adjacent FTE; AI agents to essential-services customers; SF in-person; FTE level (not intern)
+- `https://job-boards.greenhouse.io/ripplematchinterns/jobs/8161513002` | Plaid | Software Engineering Intern, Summer 2026 — ~3.5/5 — NYC; Python/TS/React; fintech banking data; no AI focus; $75-90K est; verify active and graduation window
+
+### Skipped / Not Qualifying — scan-v177
+- xAI Engineering Internship (job-boards.greenhouse.io/xai/jobs/5054417007) — Mechanical/Electrical/Controls Engineering for data center infra; NOT SWE
+- Pika Summer Research Internship (job-boards.greenhouse.io/pika/jobs/4649697007) — PyTorch+diffusion models+VLMs; model training gap; ~2.5/5
+- Quora ML Engineer Intern - Poe (jobs.ashbyhq.com/quora/96d36065) — Canada-only remote; not eligible for US-based Carlos
+- Podium Automation SWE Intern (jobs.ashbyhq.com/podium-automation/9955a80c) — "built world" construction tech domain; a16z American Dynamism fund NYC; ~3.0/5
+- HackerOne — No intern positions found on Ashby board; all FTE
+- Groq — No Summer 2026 intern positions found; closed applications
+- Fireworks AI / Modal Labs — No intern positions found
+- Kargo Backend SWE Intern — UNPAID; comp requirement violation; auto-skip
+- SpaceX new grad (8376990002/8144023002/8145483002) — All in history since v34
+- BCG/McKinsey consulting — Application deadlines passed (March 29, 2026)
+- Character AI / Runway ML — No intern listings found on public job boards
+
+### Companies Confirmed No New Intern/New-Grad Roles — scan-v177
+Perplexity (Ashby 503), xAI (Greenhouse — data center eng only), Groq (no 2026 summer intern), Writer.com (no Ashby/Greenhouse listings), HackerOne (no intern on Ashby), Wiz (no Greenhouse/Ashby intern), HashiCorp (2024 cohort only), Grafana Labs (no active intern listings), Character AI (no public intern listings), Runway ML (no public intern listings), Pika (research-only internship, model training domain), Stripe (no US SWE intern on Greenhouse API — confirmed from v63), BCG/McKinsey (deadlines passed).
+
+<!-- === END 2026-04-24 SCAN v177 === -->
