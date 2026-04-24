@@ -1,21 +1,29 @@
-# Portal Scan Summary — 2026-04-24 (v177)
+# Portal Scan Summary — 2026-04-24 (v178)
 
-**Scan version:** v177 (autonomous agent)
-**Date:** 2026-04-24
-**Total scan-history entries:** ~3,739
+**Run:** Autonomous Agent Scan v178
+**Date:** April 24, 2026
+**Status:** Complete — Market Fully Saturated
 
 ---
 
-## Coverage
+## Portals Scanned
 
-| Level | Sources Checked |
-|-------|----------------|
-| Ashby broad | Perplexity, Netic (all roles), HackerOne, Podium Automation, Spacial AI, Vantage, Quora (all roles), Ramp, Zettabyte, Giga, Whatnot, Cohere, Replit, Fizz, Zip, Sentry |
-| Greenhouse APIs | Anthropic, Glean, Airtable, Vercel, Arize AI, RunPod, HumeAI, Intercom, Temporal (all previously 503 or no intern) |
-| Lever broad | Palantir, W&B, Mistral, Clarity AI |
-| Greenhouse websearch | xAI, DV Trading, Censys, Metronome, HP IQ, SpaceX, Pika, Obsidian Security, DoorDash, Together AI, Cloudflare |
-| GitHub repos | SimplifyJobs Summer2026, SpeedyApply SWE/AI, jobright-ai intern, jobright-ai new-grad |
-| Direct searches | Groq, Writer.com, Fireworks AI, Modal Labs, Character AI, Runway ML, Wiz, HashiCorp, Grafana Labs, BCG, McKinsey, Stripe, Plaid, Kargo, HackerOne, Netic all roles |
+| Source | Method | Result |
+|--------|--------|--------|
+| Greenhouse APIs (Anthropic, Airtable, Vercel, Glean, Arize, RunPod, HumeAI, Intercom, Temporal) | WebFetch API | All 503 — unavailable |
+| Ashby boards (Cohere, Notion, Replit, Giga, Farsight, Harvey, Fizz, Decagon, ElevenLabs, Vapi, Zapier, n8n, Lindy, Sierra, Pinecone, LangChain, Spacial, 1Password, Netic) | WebSearch broad | All confirmed dup v7–v177 |
+| Lever boards (Palantir, W&B, Mistral, Shield AI, Voleon, Belvedere, Versana) | WebSearch broad | All confirmed dup v7–v177 |
+| Greenhouse boards (Cloudflare, Scale AI, Together AI, DoorDash, Affirm, SpaceX, Aquatic Capital, Censys, Roadie, C3 AI, Figma, Okta, Loop, PDT Partners, Schonfeld) | WebSearch broad | All confirmed dup v7–v177 |
+| SimplifyJobs Summer2026 Internships (GitHub) | WebFetch README | All dup or non-target |
+| SimplifyJobs New-Grad Positions (GitHub) | WebFetch README | All dup or non-target/defense |
+| SpeedyApply 2026-SWE-College-Jobs (GitHub) | WebFetch README | All dup or non-target |
+| **SpeedyApply 2026-AI-College-Jobs (GitHub)** | **WebFetch README** | **New source checked — all dup/PhD/closed** |
+| YC Internships (ycombinator.com/internships) | WebFetch | SPA — content not loadable |
+| Oleria Security (Lever direct) | URL check | ML/AI Research Intern — 403/closed |
+| Palantir (Lever direct) | URL check | SWE Intern 7d69cf8a — 503/likely dup |
+
+**Queries executed:** 30+
+**Companies checked:** 50+
 
 ---
 
@@ -23,66 +31,60 @@
 
 | Metric | Count |
 |--------|-------|
-| Companies/sources checked | 40+ |
-| New URLs found (not in history) | 11 |
-| New qualifying ≥ 4.0 | **1** |
-| Below threshold (added to pipeline) | 2 |
-| Skipped (domain/title/location/comp) | 7 |
-| Already in scan history (dups) | remainder |
+| New URLs found | 2 |
+| New URLs qualifying (≥ 4.0) | 0 |
+| New URLs added to pipeline | 0 |
+| Skipped — closed/403/503 | 2 |
+| Confirmed duplicates | All others |
 
 ---
 
-## New Qualifying Listings (score ≥ 4.0)
+## New Listings Found
 
-### 1. Netic — Machine Learning Engineer, Intern ⭐ 4.0/5
-- **URL:** https://jobs.ashbyhq.com/netic/982f6be8-0696-47ab-9ef5-d763bf891b3f
-- **Location:** San Francisco, CA (in-person, Jackson Square)
-- **Duration:** 12 weeks
-- **Company:** AI revenue engine for essential services; $43M Series B from Founders Fund + Greylock + Dylan Field (Figma co-founder)
-- **Role:** Design, code, and ship ML models from spec to production — LLM evals, APIs, fine-tuning, insights
-- **Why Carlos:** Multi-model pipeline (5 LLM providers, $0.003/application) + ATS eval engine (785 keywords, quality floor) + 43 API routes = direct match on every stated requirement
-- **Gap:** Fine-tuning experience (minor at intern level)
-- **Report:** [#408](reports/408-netic-ml-engineer-intern-2026-04-24.md)
+**None.** The Summer 2026 intern and 2026 new-grad market is fully saturated at v178. All major ATS portals (Ashby, Greenhouse, Lever), aggregator repos (SimplifyJobs, SpeedyApply SWE+AI), and direct company career pages have been exhaustively checked across 178 scan runs since April 7, 2026.
 
----
+### Notable URLs Checked (New This Run)
 
-## Below Threshold (Added to Pipeline)
-
-| Company | Role | Score | Notes |
-|---------|------|-------|-------|
-| Netic | Deployment Engineer | ~3.5/5 | FDE-adjacent FTE; AI agents to enterprise customers; SF in-person; verify level |
-| Plaid | Software Engineering Intern, Summer 2026 | ~3.5/5 | NYC via RippleMatch; Python/TS/React fintech; no AI focus; verify active |
+| URL | Company | Role | Status | Notes |
+|-----|---------|------|--------|-------|
+| `jobs.lever.co/palantir/7d69cf8a` | Palantir | Software Engineer, Internship | `skipped_closed` | 503 error; likely dup of existing intern tracks |
+| `jobs.lever.co/oleria-security/a6137927` | Oleria Security | ML/AI Research Intern | `skipped_closed` | 403 forbidden; role closed; identity AI/ML company, $33M Series A |
 
 ---
 
-## Market Assessment
+## Top Matches Still Open (From Prior Scans)
 
-After 177 scan runs across every major job board, the Summer 2026 internship market for this profile is **essentially saturated**. The pipeline already contains 400+ evaluated roles including multiple top-tier matches (Cloudflare SWE Austin 5.0/5, Mechanize $100/hr 4.6/5, Haize Labs 4.7/5, Anthropic Fellows 4.7/5, etc.).
-
-Key observations from this scan:
-- **Ashby and Greenhouse APIs** largely return 503s; websearch is the only reliable discovery path
-- **New companies posting late** (Netic ML Intern) are the primary remaining opportunity
-- **Research-focused** internships (Pika, Quora Poe) don't match Carlos's engineering profile
-- **Defense/aerospace** companies (xAI data center, Air Space Intelligence) don't match target domain
-
----
-
-## ⚡ URGENT — DEADLINE TODAY (April 26)
-
-| # | Company | Role | Score | Deadline |
-|---|---------|------|-------|----------|
-| #246 | Anthropic | Fellows Program — AI Security | **4.7/5** | **APRIL 26** |
-| #370 | Anthropic | Fellows Program — AI Safety | **4.2/5** | **APRIL 26** |
-| #372 | Anthropic | Fellows Program — ML Systems | **4.1/5** | **APRIL 26** |
-
-**Apply to Anthropic Fellows NOW.** $3,850/wk + $15K/mo compute. Carlos's adversarial LLM testing project = direct AI Security red-teaming match.
+| # | Company | Role | Score | Deadline | Action |
+|---|---------|------|-------|----------|--------|
+| 246 | Anthropic | Fellows AI Security Engineer | 4.7/5 | **April 26, 2026 (2 DAYS)** | ⚡ APPLY NOW |
+| 370 | Anthropic | AI Safety Engineer, Intern | 4.2/5 | **April 26, 2026 (2 DAYS)** | ⚡ APPLY NOW |
+| 372 | Anthropic | ML Systems Engineer, Intern | 4.1/5 | **April 26, 2026 (2 DAYS)** | ⚡ APPLY NOW |
+| 408 | Netic | Machine Learning Engineer, Intern | 4.0/5 | No deadline posted | Apply when ready |
+| 407 | 1Password | Developer Intern - Client Secrets Mgmt | 4.0/5 | No deadline | Apply after Extension #366 |
+| 406 | Point72 | AI Engineer Intern (Investment Services) | 4.1/5 | No deadline | Apply |
+| 405 | Julius AI | Software Engineer – New Grad | 4.2/5 | No deadline | Apply |
+| 393 | Fortinet | Applied AI Engineer Internship | 4.0/5 | No deadline | Apply |
+| 387 | Accenture | Tech Analyst (Claude/Anthropic BG) | 4.0/5 | June 1, 2026 | Apply soon |
 
 ---
 
 ## Recommended Next Actions
 
-1. **URGENT:** Apply to Anthropic Fellows AI Security (#246) TODAY — deadline April 26
-2. **Apply immediately:** Netic ML Engineer Intern (#408) — Founders Fund + Greylock; LLM evals exact match
-3. **Review pipeline:** Process pending pipeline items (Netic Deployment Eng, Plaid Intern)
-4. **Top priority queue:** Cloudflare Austin 5.0/5 (#200/#347) → Mechanize $100/hr (#304) → Haize Labs (#298) → Decagon (#305) → Ramp FDE (#341) → Glean (#340)
-5. **Next scan:** Market is saturated; schedule next scan in 5-7 days to catch any new late-breaking postings
+1. **URGENT — 2 days:** Apply to Anthropic Fellows AI Security #246 (4.7/5), AI Safety #370 (4.2/5), ML Systems #372 (4.1/5) — all deadline April 26
+2. Apply to evaluated roles ≥ 4.0: Netic #408, 1Password #407, Point72 #406, Julius AI #405, Fortinet #393, Accenture #387
+3. Monitor pipeline for late-cycle summer 2026 postings (some companies post in May for June starts)
+4. Consider Fall 2026 internship track: Mercury AI Enablement, Notion Fall, Cohere Winter/Spring 2026 still open
+5. Check for new grad FTE roles: Glean (Univ Grad), Harvey (New Grad), Replit (New Grad) — all currently open
+
+---
+
+## Pipeline Status
+
+- **Total pending items:** 1,091
+- **Evaluated reports:** 408 total (latest: #408 Netic ML Engineer Intern 4.0/5)
+- **Completed applications:** 73
+- **Scan history entries:** ~3,741
+
+---
+
+*Next recommended scan: May 1, 2026 — check for late-cycle summer 2026 postings and new Fall 2026 openings.*

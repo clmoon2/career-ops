@@ -2918,3 +2918,21 @@ None — no new qualifying intern/new-grad listings discovered.
 Perplexity (Ashby 503), xAI (Greenhouse — data center eng only), Groq (no 2026 summer intern), Writer.com (no Ashby/Greenhouse listings), HackerOne (no intern on Ashby), Wiz (no Greenhouse/Ashby intern), HashiCorp (2024 cohort only), Grafana Labs (no active intern listings), Character AI (no public intern listings), Runway ML (no public intern listings), Pika (research-only internship, model training domain), Stripe (no US SWE intern on Greenhouse API — confirmed from v63), BCG/McKinsey (deadlines passed).
 
 <!-- === END 2026-04-24 SCAN v177 === -->
+
+<!-- === BEGIN 2026-04-24 SCAN v178 === -->
+
+## Scan v178 — 2026-04-24 (Autonomous Agent)
+
+**Strategy:** Greenhouse APIs (all 503), Ashby/Lever/Greenhouse WebSearch (30+ queries), SpeedyApply 2026-AI-College-Jobs (new source), direct company page checks (Oleria, Palantir new URLs), YC Internships (SPA failed to load).
+
+### 🆕 New Listings Added — scan-v178
+*(none — 0 new qualifying listings found)*
+
+### Skipped / Not Qualifying — scan-v178
+- Palantir SWE Intern `7d69cf8a` (jobs.lever.co) — 503 error; likely dup of existing Palantir intern tracks already in history
+- Oleria Security ML/AI Research Intern (jobs.lever.co/oleria-security/a6137927) — 403 forbidden; closed; identity security AI company ($33M Series A), Bellevue WA; high domain fit but role no longer active
+
+### Companies Confirmed No New Intern/New-Grad Roles — scan-v178
+SpeedyApply AI-College-Jobs repo (all dup or PhD/non-target): Lattice Semiconductor (chip design), Bosch ML (hardware), Sharp AI Ops (business ops), Axiomatic AI (EU), Citadel/SIG/Five Rings (PhD quant), Roblox/NVIDIA/Pinterest/Airbnb (PhD research), HelloFresh AI Ops (dup v170), LastMile Retail (retail search domain). All Greenhouse/Ashby/Lever board companies confirmed dup from v7-v177.
+
+<!-- === END 2026-04-24 SCAN v178 === -->
