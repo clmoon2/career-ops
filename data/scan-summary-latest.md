@@ -1,7 +1,7 @@
-# Scan Summary — 2026-04-23 (v168)
+# Scan Summary — 2026-04-24 (v169)
 
-**Date:** 2026-04-23
-**Scan version:** v168
+**Date:** 2026-04-24
+**Scan version:** v169
 **Portals scanned:** 25+ companies/sources
 
 ---
@@ -11,79 +11,57 @@
 | Metric | Count |
 |--------|-------|
 | Companies/sources checked | 25+ |
-| New listings found | 5 |
-| Confirmed duplicates (already evaluated) | 2 |
-| New listings added to pipeline | 3 |
-| New scan-history entries logged | 19 |
-| **New qualifying reports (≥ 4.0)** | **3** |
+| New listings found | 1 |
+| Confirmed duplicates (already in history) | 11 source batches |
+| New listings added to pipeline | 0 |
+| New scan-history entries logged | 12 |
+| **New qualifying reports (≥ 4.0)** | **0** |
 
 ---
 
 ## Top Matches (Score ≥ 4.0)
 
-### 1. Crusoe — Product Security Applied AI Intern (Summer 2026) ⭐ **4.1/5**
-- **URL:** https://jobs.ashbyhq.com/Crusoe/e21bb802-1292-476a-8d25-d1ebf18d035a
-- **Location:** San Francisco, CA (on-site, 12 weeks)
-- **Comp:** ~$45–55/hr estimated (GPU cloud startup)
-- **Why:** AI security + adversarial testing at a GPU cloud provider. Prompt injection, LLM red teaming, security review of AI systems. Carlos's exact adversarial LLM testing experience maps perfectly. **Relisted** — previously closed (#252, N/A in scan-v143); now live with new Ashby URL.
-- **Report:** [#398](reports/398-crusoe-product-security-ai-intern-2026-04-23.md)
-- **Status:** Tracker updated (Crusoe #252 → 4.1/5, status: Evaluated)
-
-### 2. ByteDance — Security Software Engineer Project Intern (Security Assurance) **4.0/5**
-- **URL:** https://joinbytedance.com/search/7592416621414205701
-- **Location:** San Jose, CA (on-site)
-- **Comp:** $45–60/hr (3rd distinct ByteDance security track)
-- **Why:** Offensive security / pen testing focus. Python automation, security assurance engineering, vulnerability research. Different track from ByteDance AI Security (#388, 4.3/5) already in tracker.
-- **Report:** [#399](reports/399-bytedance-security-assurance-intern-2026-04-23.md)
-- **Note:** merge-tracker deduped against #388 (ByteDance, 4.3 ≥ 4.0). Report exists as documentation.
-
-### 3. Verkada — Backend Software Engineering Intern 2026 **4.0/5**
-- **URL:** https://job-boards.greenhouse.io/verkada/jobs/4836993007
-- **Location:** San Mateo, CA (on-site + housing stipend)
-- **Comp:** $55–65/hr + housing stipend
-- **Why:** Distributed systems / Python/Go backend at a physical security + AI company. Housing stipend partially offsets Bay Area COL. Strong brand, real engineering scale.
-- **Report:** [#400](reports/400-verkada-backend-swe-intern-2026-04-23.md)
-- **Note:** merge-tracker deduped against #389 (Verkada Security SWE New Grad, 4.1 ≥ 4.0). Report exists as documentation.
+**None this scan.** The pipeline is extremely mature (~3,650 scan-history entries across 169 scans since April 5). All searched listings were already tracked from earlier scans. The late-April market has very few new postings — most Summer 2026 internship windows are now closed or filling up. This is expected at this stage of the cycle.
 
 ---
 
-## Confirmed Duplicates (Already Evaluated — No New Report)
+## New Evaluation
 
-| Company | Role | Existing Report | Score |
-|---------|------|----------------|-------|
-| Glean | Software Engineer Intern | #340 | 4.5/5 |
-| Notion | AI Intern | #254 | 4.5/5 |
-
----
-
-## Pipeline Additions (< 4.0 — Added for Later Review)
-
-| Company | Role | Est. Score | Notes |
-|---------|------|-----------|-------|
-| OpenAI | Systems Research Intern | ~3.8/5 | Infra/systems focus; PhD preferred; no comp info |
-| Palantir | FDSE US Government | ~3.5/5 | High clearance requirement; strong brand; border case |
+### Palantir — Forward Deployed Software Engineer, New Grad - US Government **2.5/5** ❌
+- **URL:** https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb
+- **Location:** Washington, D.C. / New York (on-site)
+- **Comp:** ~$155–200K FTE (new grad)
+- **Why rejected:** Active US security clearance or eligibility **required** — hard disqualifier for Carlos (no clearance, no government background). Government domain work is not a primary target. Graduation timing uncertainty (Carlos likely graduating 2027). Strong FDSE technical fit but clearance is an absolute blocker.
 
 ---
 
-## Sources Checked
+## Sources Scanned
 
-**Greenhouse APIs (direct):** Verkada (new backend role), Crusoe (confirmed Ashby), Temporal, HumeAI, Intercom, Parloa — all checked
-
-**Ashby APIs:** Crusoe (new listing confirmed), Glean (dup #340), ElevenLabs (no new intern), Decagon (no new intern)
-
-**ByteDance careers portal:** 3 distinct security tracks confirmed; new Security Assurance track found
-
-**WebSearch queries run (20+):** Notion intern 2026, Crusoe internship AI security, Verkada backend intern, ByteDance intern security, OpenAI systems intern, Palantir FDSE intern, Anthropic intern 2026, Cloudflare intern 2026
-
-**Already-evaluated:** Glean SWE Intern (dup #340), Notion AI Intern (dup #254)
+| Source | Result |
+|--------|--------|
+| Greenhouse broad (WebSearch) | All dup v7–v168 |
+| Ashby broad (WebSearch) | All dup v7–v168 |
+| Lever broad (WebSearch) | All dup v7–v168 |
+| Cloudflare (all intern roles) | All dup v7–v168 |
+| NVIDIA (Workday) | All dup v8–v145 |
+| Tesla (careers) | All dup v8–v168 |
+| Datadog (careers) | Security intern confirmed closed since v37 |
+| SpeedyApply 2026-SWE (0–2d entries) | BlackSky/Kognitos/Ripple/Zoox — all dup v104–v118 |
+| SpeedyApply 2026-AI (0–6d entries) | Nielsen/Okta Content Ops/Trumid — all dup or below comp floor |
+| SimplifyJobs Summer2026 | All dup v7–v168 |
+| Palantir (Lever) | 1 new eval: FDSE Gov New Grad 2.5/5 |
+| Atlassian, Figma, DoorDash, Affirm | All dup v7–v168 |
+| Databricks, Cohesity | Confirmed closed since v95 |
+| Nielsen, Trumid, BlackSky | All dup v70–v107 |
+| Anthropic (Greenhouse API 503) | All dup from v149 |
 
 ---
 
-## ⚠️ CRITICAL DEADLINE
+## ⚠️ CRITICAL DEADLINE — ACT TODAY
 
-**Anthropic Fellows — APPLY BY APRIL 26 (3 days)**
+### Anthropic Fellows Program — Deadline APRIL 26 (2 DAYS)
 
-Three Anthropic tracks in the tracker — all ≥ 4.1/5:
+Three Anthropic tracks evaluated in the tracker — all high scores:
 
 | Report | Track | Score | Status |
 |--------|-------|-------|--------|
@@ -91,19 +69,38 @@ Three Anthropic tracks in the tracker — all ≥ 4.1/5:
 | #370 | AI Safety Research Fellow | 4.2/5 | Evaluated |
 | #372 | ML Systems Research Fellow | 4.1/5 | Evaluated |
 
-These close in 3 days. Prioritize above everything else.
+**Also in pipeline:** Anthropic Fellows RL (5183052008) — 3.8/5, below threshold but deadline is April 26.
+
+---
+
+## Active Pipeline Highlights (Evaluated ≥ 4.0, Pending Application)
+
+| Report | Company | Role | Score | Notes |
+|--------|---------|------|-------|-------|
+| #391 | Netflix | SWE Intern (Summer 2026) | 4.2/5 | Apply immediately — FAANG-adjacent |
+| #394 | Lenovo | AI Penetration Testing Intern | 4.2/5 | LLM red teaming; Morrisville NC |
+| #398 | Crusoe | Product Security Applied AI Intern | 4.1/5 | SF on-site; adversarial LLM match |
+| #393 | Fortinet | Applied AI Engineer Internship | 4.0/5 | Anthropic API + MCP; Santa Clara CA |
+| #392 | TikTok | Security SWE Intern (Product Security) | 4.0/5 | LLM/MCP security; San Jose CA |
+| #390 | Rockstar Games | Security Engineering Automation Intern | 4.0/5 | NYC Jun–Aug; Python + security |
+| #397 | Snyk | Security Engineer Intern | 4.0/5 | Confirm Boston on-site + comp |
+| #399 | ByteDance | Security Assurance Intern | 4.0/5 | Separate track from #388 |
+| #400 | Verkada | Backend SWE Intern | 4.0/5 | $55–65/hr + housing stipend |
 
 ---
 
 ## Recommended Next Actions
 
-1. **URGENT — Apply by April 26:** Anthropic Fellows (#246, #370, #372). All three tracks if possible.
+1. **URGENT — Apply by April 26:** Anthropic Fellows (#246 AI Security 4.7/5, #370 AI Safety 4.2/5, #372 ML Systems 4.1/5). All three tracks if possible.
 
-2. **Apply this week (new from this scan):**
-   - Crusoe Product Security Applied AI Intern (#398, 4.1/5) — lead with adversarial LLM testing; SF on-site
-   - ByteDance Security Assurance Intern (#399, 4.0/5) — 3rd distinct track; San Jose; $45–60/hr
-   - Verkada Backend SWE Intern (#400, 4.0/5) — $55–65/hr + housing stipend; San Mateo
+2. **Apply this week (unapplied backlog ≥ 4.0):**
+   - Netflix SWE Intern (#391, 4.2/5) — May/Jun start; apply before spots fill
+   - Lenovo AI Pentest Intern (#394, 4.2/5)
+   - Crusoe Product Security AI Intern (#398, 4.1/5)
+   - Fortinet Applied AI Engineer (#393, 4.0/5)
 
-3. **Previously evaluated backlog (≥ 4.0, unapplied):** Cloudflare SWE #347 (4.8), Mechanize #304 (4.6), Glean SWE #340 (4.5), Fortinet Applied AI #393 (4.0), ByteDance AI Security #388 (4.3), Netflix Security SWE #391 (4.2).
+3. **Market context:** v169 found 0 new qualifying roles. The Summer 2026 internship market is at or past saturation for Carlos's profile. Shift focus from scanning to **applying to existing pipeline**. Next scan recommended April 28–30 to catch any stragglers, then reduce to bi-weekly.
 
-4. **Market context:** v168 found 3 genuine new qualifying roles after exhaustive prior coverage. The intern market for Summer 2026 is approaching saturation. Shift focus from scanning to applying.
+---
+
+*Generated by career-ops autonomous scan agent (v169) — 2026-04-24*
