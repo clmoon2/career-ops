@@ -1,106 +1,117 @@
-# Scan Summary — 2026-04-24 (v169)
+# Portal Scan — 2026-04-24 (v170)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Date:** 2026-04-24
-**Scan version:** v169
-**Portals scanned:** 25+ companies/sources
-
----
-
-## Results at a Glance
+## Overview
 
 | Metric | Count |
 |--------|-------|
-| Companies/sources checked | 25+ |
-| New listings found | 1 |
-| Confirmed duplicates (already in history) | 11 source batches |
-| New listings added to pipeline | 0 |
-| New scan-history entries logged | 12 |
-| **New qualifying reports (≥ 4.0)** | **0** |
-
----
-
-## Top Matches (Score ≥ 4.0)
-
-**None this scan.** The pipeline is extremely mature (~3,650 scan-history entries across 169 scans since April 5). All searched listings were already tracked from earlier scans. The late-April market has very few new postings — most Summer 2026 internship windows are now closed or filling up. This is expected at this stage of the cycle.
-
----
-
-## New Evaluation
-
-### Palantir — Forward Deployed Software Engineer, New Grad - US Government **2.5/5** ❌
-- **URL:** https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb
-- **Location:** Washington, D.C. / New York (on-site)
-- **Comp:** ~$155–200K FTE (new grad)
-- **Why rejected:** Active US security clearance or eligibility **required** — hard disqualifier for Carlos (no clearance, no government background). Government domain work is not a primary target. Graduation timing uncertainty (Carlos likely graduating 2027). Strong FDSE technical fit but clearance is an absolute blocker.
+| Scan version | v170 (169 prior scans) |
+| Sources checked | 30+ |
+| Companies / portals scanned | 25+ |
+| New listings found (not in history) | 2 |
+| Listings passing title filter | 2 |
+| New listings scoring ≥ 4.0 | **0** |
+| New reports generated | 0 |
+| New entries added to pipeline.md | 0 |
+| Scan-history.tsv entries added | 3 |
 
 ---
 
 ## Sources Scanned
 
-| Source | Result |
-|--------|--------|
-| Greenhouse broad (WebSearch) | All dup v7–v168 |
-| Ashby broad (WebSearch) | All dup v7–v168 |
-| Lever broad (WebSearch) | All dup v7–v168 |
-| Cloudflare (all intern roles) | All dup v7–v168 |
-| NVIDIA (Workday) | All dup v8–v145 |
-| Tesla (careers) | All dup v8–v168 |
-| Datadog (careers) | Security intern confirmed closed since v37 |
-| SpeedyApply 2026-SWE (0–2d entries) | BlackSky/Kognitos/Ripple/Zoox — all dup v104–v118 |
-| SpeedyApply 2026-AI (0–6d entries) | Nielsen/Okta Content Ops/Trumid — all dup or below comp floor |
-| SimplifyJobs Summer2026 | All dup v7–v168 |
-| Palantir (Lever) | 1 new eval: FDSE Gov New Grad 2.5/5 |
-| Atlassian, Figma, DoorDash, Affirm | All dup v7–v168 |
-| Databricks, Cohesity | Confirmed closed since v95 |
-| Nielsen, Trumid, BlackSky | All dup v70–v107 |
-| Anthropic (Greenhouse API 503) | All dup from v149 |
+**Greenhouse APIs (direct):** Anthropic · Airtable · Vercel · Glean · Arize AI · RunPod · Hume AI · Intercom · Temporal  
+**Ashby broad:** Notion · Replit · Giga · Farsight AI · Cohere · Decagon · Whatnot · Zettabyte · ElevenLabs · Deepgram · Vapi · Bland AI · Sierra · Pinecone · LangChain · n8n · Zapier · Lindy · Attio · Tinybird · Travelperk · Crusoe  
+**Lever broad:** Palantir · Weights & Biases · Mistral AI · Clarity AI  
+**Aggregators:** SimplifyJobs Summer2026-Internships (GitHub, 0-day entries) · SpeedyApply 2026-SWE-College-Jobs · SpeedyApply 2026-AI-College-Jobs  
+**WebSearch:** Targeted queries across Ashby / Greenhouse / Lever for Summer 2026 interns + new grad  
 
 ---
 
-## ⚠️ CRITICAL DEADLINE — ACT TODAY
+## New Listings Found
 
-### Anthropic Fellows Program — Deadline APRIL 26 (2 DAYS)
+All previously-tracked URLs confirmed as duplicates (v7–v169). Two genuinely new listings discovered via SimplifyJobs 0-day feed:
 
-Three Anthropic tracks evaluated in the tracker — all high scores:
+| # | Company | Role | URL | Score | Action |
+|---|---------|------|-----|-------|--------|
+| 1 | HelloFresh | AI Operations & Automation Intern (Summer 2026, NYC) | https://careers.hellofresh.com/global/en/job/7848068 | ~2.5/5 | skipped_score — ops/BizOps focus, food domain, non-engineering |
+| 2 | Chamberlain Group | AI/ML Software Engineer Intern (Summer 2026, Western Springs IL) | https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern---AI-ML-Software-Engineer--Summer-2026-_JR30646 | ~3.0/5 | skipped_score — IoT/smart home, suburban IL, non-tech-hub company |
 
-| Report | Track | Score | Status |
-|--------|-------|-------|--------|
-| #246 | AI Security Research Fellow | 4.7/5 | Evaluated |
-| #370 | AI Safety Research Fellow | 4.2/5 | Evaluated |
-| #372 | ML Systems Research Fellow | 4.1/5 | Evaluated |
-
-**Also in pipeline:** Anthropic Fellows RL (5183052008) — 3.8/5, below threshold but deadline is April 26.
+**Both below 4.0 threshold.** Not added to pipeline.md.
 
 ---
 
-## Active Pipeline Highlights (Evaluated ≥ 4.0, Pending Application)
+## Top Matches Still in Pipeline (Score ≥ 4.0)
 
-| Report | Company | Role | Score | Notes |
-|--------|---------|------|-------|-------|
-| #391 | Netflix | SWE Intern (Summer 2026) | 4.2/5 | Apply immediately — FAANG-adjacent |
-| #394 | Lenovo | AI Penetration Testing Intern | 4.2/5 | LLM red teaming; Morrisville NC |
-| #398 | Crusoe | Product Security Applied AI Intern | 4.1/5 | SF on-site; adversarial LLM match |
-| #393 | Fortinet | Applied AI Engineer Internship | 4.0/5 | Anthropic API + MCP; Santa Clara CA |
-| #392 | TikTok | Security SWE Intern (Product Security) | 4.0/5 | LLM/MCP security; San Jose CA |
-| #390 | Rockstar Games | Security Engineering Automation Intern | 4.0/5 | NYC Jun–Aug; Python + security |
-| #397 | Snyk | Security Engineer Intern | 4.0/5 | Confirm Boston on-site + comp |
-| #399 | ByteDance | Security Assurance Intern | 4.0/5 | Separate track from #388 |
-| #400 | Verkada | Backend SWE Intern | 4.0/5 | $55–65/hr + housing stipend |
+From prior scans — still pending action:
 
----
-
-## Recommended Next Actions
-
-1. **URGENT — Apply by April 26:** Anthropic Fellows (#246 AI Security 4.7/5, #370 AI Safety 4.2/5, #372 ML Systems 4.1/5). All three tracks if possible.
-
-2. **Apply this week (unapplied backlog ≥ 4.0):**
-   - Netflix SWE Intern (#391, 4.2/5) — May/Jun start; apply before spots fill
-   - Lenovo AI Pentest Intern (#394, 4.2/5)
-   - Crusoe Product Security AI Intern (#398, 4.1/5)
-   - Fortinet Applied AI Engineer (#393, 4.0/5)
-
-3. **Market context:** v169 found 0 new qualifying roles. The Summer 2026 internship market is at or past saturation for Carlos's profile. Shift focus from scanning to **applying to existing pipeline**. Next scan recommended April 28–30 to catch any stragglers, then reduce to bi-weekly.
+| # | Company | Role | Score | Deadline / Notes |
+|---|---------|------|-------|-----------------|
+| 246 | Anthropic | Fellows Program — AI Security | **4.7/5** | ⚠️ **DEADLINE APRIL 26 (2 DAYS!)** |
+| 370 | Anthropic | Fellows Program — AI Safety | **4.2/5** | ⚠️ **DEADLINE APRIL 26 (2 DAYS!)** |
+| 372 | Anthropic | Fellows Program — ML Systems & Performance | **4.1/5** | ⚠️ **DEADLINE APRIL 26 (2 DAYS!)** |
+| 340 | Glean | Software Engineer, Intern (Summer 2026) | **4.5/5** | Active — Palo Alto CA hybrid |
+| 254 | Notion | Software Engineer, AI Intern (Summer 2026) | **4.5/5** | Active — SF office |
+| 392 | TikTok | Security SWE Intern (Product Security) | **4.0/5** | Active — ByteDance brand risk noted |
+| 398 | Crusoe | Product Security Applied AI Intern | **4.1/5** | Active — relisted (was closed) |
+| 400 | Verkada | Backend SWE Intern 2026 | **4.0/5** | Active — San Mateo CA; $55-65/hr + housing |
+| 394 | Lenovo | AI Penetration Testing Intern | **4.2/5** | Active — Morrisville NC |
+| 395 | Intuit | Cyber Security Intern (Summer 2026) | **4.0/5** | Active — Mountain View CA |
+| 396 | Snyk | Security Engineer Intern (Enterprise Security) | **4.0/5** | Active — Boston MA |
 
 ---
 
-*Generated by career-ops autonomous scan agent (v169) — 2026-04-24*
+## State of the Market (April 2026)
+
+The Summer 2026 internship market is **fully saturated** at scan v170. Key observations:
+
+- **169 scans since April 5** have exhaustively tracked all major portals (Greenhouse, Ashby, Lever, SimplifyJobs, SpeedyApply, YC, GitHub aggregators, direct company pages)
+- Most major tech companies closed Summer 2026 applications between October 2025 and February 2026
+- **Active opportunities** remain at a small set of companies with rolling applications (Verkada, Snyk, TikTok USDS, Crusoe) or later programs (Anthropic Fellows)
+- GitHub aggregators (SimplifyJobs, SpeedyApply) are mostly surfacing non-target domains (defense, manufacturing, IoT) or very low comp roles
+
+---
+
+## ⚠️ CRITICAL ACTION ITEMS
+
+### 1. Anthropic Fellows — APRIL 26 DEADLINE (48 HOURS)
+
+Three tracks close in **2 days**:
+
+| Track | Score | Report | Status |
+|-------|-------|--------|--------|
+| AI Security Fellow | **4.7/5** | #246 | **APPLY NOW** |
+| AI Safety Fellow | **4.2/5** | #370 | **APPLY NOW** |
+| ML Systems & Performance Fellow | **4.1/5** | #372 | **APPLY NOW** |
+
+The AI Security track is the strongest match: Carlos's OAuth proxy engineering, HMAC-SHA256 CSRF protection, TLS 1.3 hardening, adversarial LLM testing (Venice AI API red team), and Cybersecurity minor directly map to this fellowship.
+
+### 2. Recommended Immediate Actions
+
+**Priority 1 — TODAY (48-hour deadline):**
+- Apply to Anthropic Fellows — AI Security (#246, 4.7/5)
+- Apply to Anthropic Fellows — AI Safety (#370, 4.2/5)
+- Apply to Anthropic Fellows — ML Systems & Performance (#372, 4.1/5)
+
+**Priority 2 — This week:**
+- Apply to Glean SWE Intern (#340, 4.5/5) — Palo Alto CA hybrid
+- Apply to Notion AI Intern (#254, 4.5/5) — SF
+- Apply to Crusoe Product Security AI Intern (#398, 4.1/5)
+- Apply to Lenovo AI Penetration Testing Intern (#394, 4.2/5)
+- Apply to Verkada Backend Intern (#400, 4.0/5) — San Mateo CA
+
+**Priority 3 — Rolling:**
+- Apply to Intuit Cyber Intern (#395, 4.0/5) — Mountain View CA
+- Apply to Snyk Security Engineer Intern (#396, 4.0/5) — Boston
+- Evaluate TikTok Product Security Intern (#392, 4.0/5) — ByteDance risk
+
+---
+
+## Next Recommended Scan
+
+Focus on targeted daily checks rather than broad scans:
+- **SimplifyJobs 0-day entries** — catches new company postings as they appear
+- **SpeedyApply AI repo** — daily AI-focused listings
+- **Fall 2026 internships** — window opening now (Notion Fall, Sentry Fall, OpenAI Co-op)
+- Re-check after April 30 for any post-April-26 openings
+
+Run `/career-ops pipeline` to process the 11 pending ≥4.0 listings above.
