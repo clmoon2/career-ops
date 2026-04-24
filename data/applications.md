@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 404 | 2026-04-24 | Turbo AI | Software Engineer Intern (Summer 2026) | 4.2/5 | Evaluada | ❌ | [404](reports/404-turbo-ai-swe-intern-2026-04-24.md) | $60/hr + free housing; SF in-person; NextJS/React/Python/TypeScript exact stack; 5M users 8-fig ARR; young founder culture; confirm location before applying |
 | 402 | 2026-04-24 | Wonderschool | Early Career SWE, Applied AI | 4.0/5 | Evaluada | ❌ | [402](reports/402-wonderschool-early-career-swe-applied-ai-2026-04-24.md) | LangChain/RAG/Python/AWS match; SF hybrid $100-120K; verify graduation timing eligibility |
 | 403 | 2026-04-24 | Notion | Software Engineer, New Grad | 4.3/5 | Evaluada | ❌ | [403](reports/403-notion-software-engineer-new-grad-2026-04-24.md) | TypeScript/React/Python + LLM exp exact match; SF $150-250K; different from intern #254; verify graduation timeline |
 | 401 | 2026-04-24 | Transcarent | Machine Learning Engineer Intern | 4.0/5 | Evaluada | ❌ | [401](reports/401-transcarent-ml-engineer-intern-2026-04-24.md) | US Remote; May 26–Aug 14; LangChain/LangGraph/RAG/agentic = exact stack match; comp undisclosed; healthcare domain; verify pay before accepting |

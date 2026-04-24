@@ -1,5 +1,30 @@
 # Pipeline -- Pending URLs
 
+<!-- === NEW 2026-04-24 SCAN v173 (Autonomous Agent — Level 3 WebSearch (Greenhouse broad/Ashby broad/Lever broad + targeted company queries); SimplifyJobs Summer2026 v173 (0-1d fresh: Nutanix SDN Intern/IEM/ABB Canada/HelloFresh dup/Tencent Game — 1 new qualifying below threshold); jobright-ai new grad v173 (TikTok SWE Grad 2025-start dup/Navan closed Jan2025 — 0 new qualifying); SpeedyApply AI v173 (Meta Audio/Nielsen x2/Okta AI Ops/Trumid — all dup v172); Palo Alto Networks internship search (site returning 503); SentinelOne (Partner Solutions only, no SWE intern); Turbo AI NEW FIND $60/hr + housing; C3 AI Ascend NEW; Greenhouse APIs all dup v170-v172; KEY FINDINGS: 3 genuinely new listings: Turbo AI SWE Intern 4.2/5 EVALUATED + C3 AI SWE Intern 3.7/5 pipeline + Nutanix SDN Python Intern 3.5/5 pipeline; market remains fully saturated at scan v173) === -->
+<!-- 1 new evaluated ≥4.0/5 (report #404 Turbo AI). 2 new below-threshold entries (C3 AI + Nutanix). -->
+<!-- ⚡ DEADLINE APRIL 26 (2 DAYS): Anthropic Fellows AI Security #246 4.7/5 + AI Safety #370 4.2/5 + ML Systems #372 4.1/5 — APPLY NOW. -->
+
+### New additions — scan-v173
+- [ ] https://www.turbo.ai/careers/summer-2026-software-engineer-intern | Turbo AI | Software Engineer Intern (Summer 2026) | 4.2/5 | $60/hr + free housing + free food; in-person SF (TBD confirm); NextJS/React/React Native/PostgreSQL/Python/TypeScript exact stack match; 5M+ users 200K+ notes/day = real scale; bootstrapped profitable company; young founder culture (analog to Carlos's co-founder background); [EVALUATED — report #404]
+- [ ] https://job-boards.greenhouse.io/c3ascend/jobs/8106512002 | C3 AI | Software Engineer Intern (Summer 2026) | ~3.7/5 | Redwood City CA in-person; $6-8K/mo ($36-48/hr); JavaScript/Java/OOP focus; enterprise AI platform (Tom Siebel); Platform or Solutions Engineering team; Java preference is partial gap; solid AI brand; verify stack preference before applying
+- [ ] https://jobs.jobvite.com/nutanix/job/oFskyfwJ | Nutanix | Software Engineering Intern — Python/SDN/Cloud | ~3.5/5 | San Jose CA; $36-60/hr; Python/Java/Golang + SDN/Linux focus; network virtualization domain (not Carlos's primary); undergrad-only; real scale but networking-heavy specialization limits archetype fit
+
+### Skipped — scan-v173
+- TikTok SWE Graduate (Experimentation & Evaluation) — 2025-start listing (not 2026 new grad); A/B testing platform not security/AI-primary; dup/past-deadline; skip
+- Navan University Graduate SWE (Back-End) — removed January 30 2025; closed; skip
+- SentinelOne — only Partner Solutions Engineer Tooling Intern found (non-SWE engineering role); skip
+- Palo Alto Networks internship page — 503 unavailable; unable to scan
+- Symmetry Systems Lever (dbca271b) — 403 fetching; cybersecurity startup; check manually
+- Artera SWE Intern (Lever) — medical AI domain mismatch; skip
+- SoloPulse SWE Intern (Lever) — dual-use radar/defense domain; skip
+- FieldAI V&V Intern (Lever) — robotics/autonomy hardware; skip
+- NimbleRx SWE Intern (Lever) — pharmacy delivery; non-tech-first domain; skip
+- Veeva SWE Intern (Lever) — pharma SaaS, Java-heavy; skip
+- ABB/IEM/Jabil/Fiserv/Leidos/General Dynamics (SimplifyJobs 1d-old) — manufacturing/defense/non-tech-first; all skip
+- Nutanix SDN Intern — added to pipeline (below threshold)
+
+<!-- === END 2026-04-24 SCAN v173 === -->
+
 <!-- === NEW 2026-04-24 SCAN v172 (Autonomous Agent — SimplifyJobs Summer2026 README (IEM/ABB/HelloFresh/Tencent/Cadence — all dup v7-v171 or non-target); SpeedyApply SWE v172 (BlackSky/Kognitos/Ripple/Zoox — all dup v104+); SpeedyApply AI v172 (Nielsen x2/Okta AI Ops/Trumid — all dup v103+); jobright-ai new grad README (Wonderschool EC SWE Applied AI NEW + Axon SWE I NEW + Flexport SWE 1 NEW + Notion SWE New Grad NEW + Handshake SWE I NEW); Greenhouse API scans (Cloudflare 7670429 Trust & Safety TDIR NEW + GuidePoint GPSU Security NEW); WebSearch: Lever (Whiterabbit.ai research scientist skipped_score); fresh queries across Ashby/Greenhouse/Lever for security/AI/new-grad — KEY FINDINGS: 7 genuinely new URLs found; 2 evaluated ≥4.0/5 (Wonderschool 4.0/5 + Notion New Grad 4.3/5); 5 new below-threshold or pipeline additions) === -->
 <!-- 2 new evaluated ≥4.0/5 (reports #402/#403). 5 new below-threshold entries. Scan-history ~3,675 entries. -->
 <!-- ⚡ CRITICAL DEADLINE APRIL 26 (2 DAYS): Anthropic Fellows AI Security #246 4.7/5 + AI Safety #370 4.2/5 + ML Systems #372 4.1/5 — APPLY NOW. -->
