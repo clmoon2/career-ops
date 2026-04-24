@@ -1,101 +1,82 @@
-# Portal Scan — 2026-04-24 (scan-v171)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Scan Summary — 2026-04-24 (v172)
 
-**Scan:** v171 (3rd scan of today; v169+v170 ran earlier)
-**Status:** Market fully saturated — 171 consecutive exhaustive scans
-
----
-
-## Summary
-
-| Metric | Count |
-|--------|-------|
-| Portals / sources checked | 40+ |
-| Companies scanned directly | 25+ |
-| Total listings reviewed | ~80 |
-| Filtered by title | 20 |
-| Duplicates (already in history) | ~78 |
-| New listings found | **2** |
-| New listings qualifying ≥4.0 | **1** |
-| Scan history total entries | ~3,660 |
+**Date:** 2026-04-24
+**Scan version:** v172
+**Angles tried:** SimplifyJobs Summer2026 README, SpeedyApply SWE + AI repos, jobright-ai New Grad README, Greenhouse API (Cloudflare full job listing scan), Lever broad (new searches), WebSearch (Ashby/Greenhouse/Lever security/AI/new-grad queries)
+**Companies/portals checked:** 15+ sources / 40+ companies
+**New URLs found:** 12 genuinely new URLs
+**Filtered by title/score:** 7 (below threshold or title mismatch)
+**Duplicates:** 5 sources confirmed dup v7-v171
+**New added to pipeline:** 7 (2 evaluated ≥4.0 + 5 below-threshold)
+**New evaluated ≥4.0/5:** 2
 
 ---
 
-## New Listings Found
+## New additions
 
-### ✅ QUALIFYING (Score ≥ 4.0) — Evaluated
+### Qualifying (≥4.0/5) — Evaluated
 
 | # | Company | Role | Score | URL |
 |---|---------|------|-------|-----|
-| 398 | **Transcarent** | Machine Learning Engineer Intern | **4.0/5** | https://job-boards.greenhouse.io/transcarent/jobs/5806321004 |
+| 402 | **Wonderschool** | Early Career SWE, Applied AI | **4.0/5** | https://job-boards.greenhouse.io/wonderschool/jobs/6359139003 |
+| 403 | **Notion** | Software Engineer, New Grad | **4.3/5** | https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555 |
 
-**Report:** [401](reports/401-transcarent-ml-engineer-intern-2026-04-24.md)
-**Why it qualifies:** LangChain + LangGraph + RAG + agentic workflows = exact Carlos tech stack. US Remote, May 26–Aug 14. Formal mentor. Only gap: comp undisclosed + healthcare domain. Apply and verify pay rate.
-
-### ➕ BELOW THRESHOLD (Score < 4.0) — Added to pipeline
+### Below threshold — Added to pipeline
 
 | Company | Role | Score | Notes |
 |---------|------|-------|-------|
-| Cresta | Forward Deployed Engineering Intern (AI Agent) | 3.8/5 | US/Canada remote; FDE archetype match; Python AI agents; Sebastian Thrun co; comp unclear |
+| Handshake | SWE I, RLE | ~3.5/5 | SF; limited JD data; fetch and verify before applying |
+| Axon | SWE I | ~3.2/5 | Seattle hybrid; law enforcement domain; Java preferred |
+| Flexport | SWE 1 | ~3.0/5 | Bellevue 5d/wk; Java/Rails; logistics; not a priority |
 
 ---
 
-## Key Skips (All Already in History)
+## Top matches (≥4.0/5)
 
-| Company | Role | Status |
-|---------|------|--------|
-| Handshake | AI/ML Engineer Intern | In pipeline, 3.7/5 (scan-v98) |
-| PDT Partners | Systems Engineering Internship | In pipeline, ~3.5 |
-| Schonfeld | Cybersecurity Operations Intern | In pipeline, ~3.7 |
-| 1Password | Developer Intern - Device Security | In pipeline |
-| Lambda | ML Research Intern 2026 | In history, 3.2/5 |
-| Gemini | Security Engineering Intern | Confirmed closed |
-| Airtable | SWE New Grad (8409376002) | Confirmed closed (removed scan-v89) |
-| All Greenhouse API companies | (Anthropic/Vercel/Glean/Arize/RunPod/HumeAI/Intercom/Temporal) | No intern roles |
+1. **#403 — Notion SWE New Grad — 4.3/5**
+   - https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555
+   - SF hybrid; $150-250K + equity; TypeScript/React/Python + LLM experience = textbook match for Finch proof points
+   - Different from intern #254 (4.5/5) — apply to both tracks
+   - Lead: "I built and shipped a live AI automation platform orchestrating 5 LLM providers — the same AI-native product engineering Notion is investing in"
 
----
-
-## ⚠️ CRITICAL DEADLINES (2 DAYS LEFT)
-
-**April 26 is in 2 DAYS.** Three high-priority applications are pending:
-
-| # | Company | Role | Score | Deadline |
-|---|---------|------|-------|----------|
-| 246 | **Anthropic** | Fellows — AI Security | **4.7/5** | **APRIL 26** |
-| 370 | **Anthropic** | Fellows — AI Safety | **4.2/5** | **APRIL 26** |
-| 372 | **Anthropic** | Fellows — ML Systems & Performance | **4.1/5** | **APRIL 26** |
-
-Apply to these immediately via the Constellation portal (NOT Greenhouse).
+2. **#402 — Wonderschool Early Career SWE Applied AI — 4.0/5**
+   - https://job-boards.greenhouse.io/wonderschool/jobs/6359139003
+   - SF hybrid Tue/Wed/Thu; $100-120K; LangChain/RAG/Python/AI agents exact match
+   - Verify graduation timeline eligibility (FTE role, not internship)
+   - Lead: Finch multi-model AI pipeline + TidalHack 6-agent system
 
 ---
 
-## Market Context
+## Skipped (new, below threshold)
 
-After 171 consecutive exhaustive scans over ~3 weeks, the Summer 2026 internship market is fully saturated. Remaining undiscovered roles are likely late postings from companies that just opened headcount or re-listings of previously closed roles.
-
-### Recommended Next Actions
-
-1. **APPLY NOW to Anthropic Fellows (deadline April 26)**
-2. **Evaluate Transcarent ML Intern** — verify comp before full application; LangChain stack is exact match
-3. **Review Cresta FDE** if interested in FDE track — verify US compensation rate
-4. **Process existing pipeline** — many roles scored 4.0-4.7 are still in "Evaluated" status (not Applied). Run `/career-ops pipeline` to work through them.
-5. **Reduce scan frequency** — market saturated; scan weekly rather than daily
+| URL | Company | Reason |
+|-----|---------|--------|
+| cloudflare/jobs/7670429 | Cloudflare | Trust & Safety analyst role (not SWE/engineering); ~2.5/5 |
+| guidepointsecurity/jobs/5725179004 | GuidePoint Security | $20/hr part-time; MSSP training rotation; ~2.8/5 |
+| lever.co/whiterabbit/c4333d64 | Whiterabbit.ai | Medical AI; PhD-track publications required; ~2.5/5 |
+| axon/jobs/7576927003 | Axon | Java preferred; law enforcement domain; ~3.2/5 (pipeline) |
+| flexport/jobs/7839298 | Flexport | Java/Rails; 5d/wk Bellevue; logistics; ~3.0/5 (pipeline) |
 
 ---
 
-## Top Unactioned Roles (Score ≥ 4.5, Status = Evaluated)
+## ⚡ URGENT — DEADLINE APRIL 26 (2 DAYS)
 
-| # | Company | Role | Score |
-|---|---------|------|-------|
-| 246 | Anthropic | Fellows — AI Security | **4.7/5** ⚠️ DL Apr 26 |
-| 294 | Cloudflare | Security Engineer Intern | **4.7/5** |
-| 298 | Haize Labs | SWE Intern | **4.7/5** |
-| 304 | Mechanize | SWE Intern | **4.6/5** |
-| 347 | Cloudflare | SWE Intern (Austin) | **4.8/5** |
-| 348 | NVIDIA | Solutions Architect New Grad | **4.5/5** |
-| 353 | OpenAI | SWE Internship | **4.5/5** |
-| 355 | Atlassian | Security Engineer Intern | **4.5/5** |
-| 357 | Browser Use | Summer SWE Intern | **4.4/5** |
-| 382 | Replit | SWE New Grad | **4.5/5** |
+**These Anthropic Fellows applications MUST be submitted by April 26, 2026:**
 
-These are all open and unapplied — prioritize applying to these before chasing new listings.
+- **Anthropic Fellows AI Security (#246, 4.7/5)** — APPLY NOW — Highest scored role in entire pipeline
+- **Anthropic Fellows AI Safety (#370, 4.2/5)** — APPLY NOW
+- **Anthropic Fellows ML Systems (#372, 4.1/5)** — APPLY NOW
+
+Apply via the Constellation portal (NOT Greenhouse). All three close in 48 hours.
+
+---
+
+## Recommended next actions
+
+1. **TODAY (URGENT)**: Apply to Anthropic Fellows AI Security #246 (4.7/5) — deadline April 26
+2. **TODAY (URGENT)**: Apply to Anthropic Fellows AI Safety #370 + ML Systems #372 — deadline April 26
+3. **This week**: Apply to Notion SWE New Grad (#403, 4.3/5) — lead with Finch AI pipeline proof points
+4. **This week**: Apply to Wonderschool Early Career SWE Applied AI (#402, 4.0/5) — verify FTE graduation eligibility first
+5. **Fetch & decide**: Pull full JD for Handshake SWE I (2cfafa1a) — may qualify ≥4.0 with complete info
+6. Run `node merge-tracker.mjs` to merge the two new TSV tracker additions (#402, #403)
+7. Continue working through high-score unapplied roles: Cloudflare SWE #347 (4.8/5), Haize Labs #298 (4.7/5), Mechanize #304 (4.6/5), OpenAI #353 (4.5/5)

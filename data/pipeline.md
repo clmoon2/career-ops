@@ -1,5 +1,30 @@
 # Pipeline -- Pending URLs
 
+<!-- === NEW 2026-04-24 SCAN v172 (Autonomous Agent — SimplifyJobs Summer2026 README (IEM/ABB/HelloFresh/Tencent/Cadence — all dup v7-v171 or non-target); SpeedyApply SWE v172 (BlackSky/Kognitos/Ripple/Zoox — all dup v104+); SpeedyApply AI v172 (Nielsen x2/Okta AI Ops/Trumid — all dup v103+); jobright-ai new grad README (Wonderschool EC SWE Applied AI NEW + Axon SWE I NEW + Flexport SWE 1 NEW + Notion SWE New Grad NEW + Handshake SWE I NEW); Greenhouse API scans (Cloudflare 7670429 Trust & Safety TDIR NEW + GuidePoint GPSU Security NEW); WebSearch: Lever (Whiterabbit.ai research scientist skipped_score); fresh queries across Ashby/Greenhouse/Lever for security/AI/new-grad — KEY FINDINGS: 7 genuinely new URLs found; 2 evaluated ≥4.0/5 (Wonderschool 4.0/5 + Notion New Grad 4.3/5); 5 new below-threshold or pipeline additions) === -->
+<!-- 2 new evaluated ≥4.0/5 (reports #402/#403). 5 new below-threshold entries. Scan-history ~3,675 entries. -->
+<!-- ⚡ CRITICAL DEADLINE APRIL 26 (2 DAYS): Anthropic Fellows AI Security #246 4.7/5 + AI Safety #370 4.2/5 + ML Systems #372 4.1/5 — APPLY NOW. -->
+
+### New additions — scan-v172
+- [ ] https://job-boards.greenhouse.io/wonderschool/jobs/6359139003 | Wonderschool | Early Career Software Engineer, Applied AI | 4.0/5 | SF hybrid Tue/Wed/Thu; $100-120K; LangChain/RAG/Python/AWS exact stack match; modular AI agents = Finch proof point; verify graduation timeline eligibility [EVALUATED — report #402]
+- [ ] https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555 | Notion | Software Engineer, New Grad | 4.3/5 | SF $150-250K; TypeScript/React/Python + LLM experience = exact match; different from intern #254; apply alongside intern track [EVALUATED — report #403]
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7670429 | Cloudflare | Trust & Safety - Threat Investigations Intern (Summer 2026) | ~2.5/5 | Austin TX 3-5d in-office; T&S policy/investigations analyst role (not SWE/engineering); no programming req; DNS/web knowledge preferred; Cloudflare brand strong but role mismatch for Carlos's SWE profile
+- [ ] https://job-boards.greenhouse.io/axon/jobs/7576927003 | Axon | Software Engineer I | ~3.2/5 | Seattle hybrid; $106-170K; law enforcement/public safety domain (Taser/body cams); prefers Java/Scala/Go/C# managed languages; AI-first env but Java preference + domain mismatch; professional internship required (verify)
+- [ ] https://boards.greenhouse.io/flexport/jobs/7839298 | Flexport | Software Engineer 1 | ~3.0/5 | Bellevue WA 5d in-office; $187-229K; logistics domain; Java/Spring Boot/Ruby on Rails stack; 1yr exp req; heavy in-person + Java preference = mismatch
+- [ ] https://jobs.ashbyhq.com/handshake/2cfafa1a-d47d-4bc2-9c41-4c50bcba0245 | Handshake | Software Engineer I, RLE | ~3.5/5 | SF; career platform domain (relatable); limited JD data available; prior Handshake AI/ML Intern scored 3.7/5 (v98); fetch full JD before deciding
+
+### Skipped — scan-v172
+- SimplifyJobs Summer2026 v172: IEM (non-tech domain)/ABB SWE QA Canada/HelloFresh AI Ops (dup v170 ~2.5/5)/Tencent Game R&D Bellevue (gaming domain)/Cadence SWE San Jose (EDA domain dup v79) — all dup or non-target
+- SpeedyApply SWE v172: BlackSky SDET (dup v104)/Kognitos (dup v104)/Ripple GTreasury (crypto filter)/Zoox Perception Data (dup v104) — all dup v104+
+- SpeedyApply AI v172: Nielsen InfoSec AI ($15-20K, skip)/Nielsen AI OSS ($15-20K, skip)/Okta AI Content Ops (non-SWE)/Trumid AI Automation (dup v102) — all dup or below comp floor
+- GuidePoint Security GPSU Cybersecurity Intern (5725179004) — $20/hr part-time (below comp floor); MSSP consulting training program, not engineering; required in-person onboarding Reston VA/Tampa FL; ~2.8/5
+- Whiterabbit.ai Research Scientist Intern (c4333d64) — medical AI/cancer imaging domain; deep learning research + publications (CVPR/NeurIPS) required; PhD-track; ~2.5/5
+- Cloudflare Trust & Safety TDIR Intern (7670429) — T&S policy analyst not SWE; no programming req; Austin on-site; ~2.5/5 (added to pipeline for reference)
+- Cloudflare BDR/CSE/DCSC Singapore/London intern roles — non-engineering or non-US; all skipped
+- Quantum Metric Security Eng & Ops Intern — Spring 2026 (past deadline); dup v158
+- Notion SWE New Grad distinct from intern #254 — EVALUATED above (#403)
+
+<!-- === END 2026-04-24 SCAN v172 === -->
+
 <!-- === NEW 2026-04-24 SCAN v171 (Autonomous Agent — 40+ companies/portals/sources scanned; Greenhouse APIs (Anthropic/Vercel/Glean/Arize/RunPod/HumeAI/Intercom/Temporal — all dup or no intern roles); Ashby broad (all tracked companies — all dup v7-v170); Lever broad (all tracked companies — all dup v7-v170); Greenhouse broad (all tracked companies — all dup v7-v170); WebSearch: SWE/security/AI/ML intern queries across all platforms; SpeedyApply/SimplifyJobs (all dup v169-v170); KEY FINDINGS: 2 new URLs not in scan history — Transcarent ML Engineer Intern (4.0/5, EVALUATED report #401) + Cresta FDE AI Agent Intern (3.8/5, added to pipeline); all other listings confirmed dup from v7-v170; 1 new qualifying ≥4.0/5; scan-history now ~3,660 entries) === -->
 <!-- 1 new evaluated ≥4.0/5 (report #401). 1 new below-threshold added to pipeline. -->
 <!-- ⚡ CRITICAL DEADLINE APRIL 26 (2 DAYS): Anthropic Fellows AI Security #246 4.7/5 + AI Safety #370 4.2/5 + ML Systems #372 4.1/5 — APPLY NOW. -->
