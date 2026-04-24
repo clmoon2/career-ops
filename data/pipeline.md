@@ -1,5 +1,37 @@
 # Pipeline -- Pending URLs
 
+<!-- === NEW 2026-04-24 SCAN v176 (Autonomous Agent — Level 2 Greenhouse APIs (Anthropic/Glean/RunPod/Arize/Airtable/Vercel/Hume/Intercom/Temporal); Level 3 WebSearch (Ashby broad/Greenhouse broad/Lever broad; security interns; AI/ML interns; DevOps interns; new grad roles; consulting interns; 20+ company cross-portal queries); KEY FINDINGS: 20 genuinely new URLs found; 4 evaluated ≥4.0/5 (OpenAI Systems Research 4.2/5 #409, C3 AI Ascend 4.1/5 #413, Zscaler Technical 4.0/5 #411, Symmetry Systems 4.0/5 #412); 10 new pipeline additions below threshold; 6 skipped (comp/domain/timing)) === -->
+<!-- 4 new evaluated ≥4.0/5 (reports #409 OpenAI Systems Research, #413 C3 AI Ascend, #411 Zscaler, #412 Symmetry Systems). 10 new listings added to pipeline. -->
+<!-- ⚡ DEADLINE APRIL 26 (2 DAYS): Anthropic Fellows AI Security #246 4.7/5 + AI Safety #370 4.2/5 + ML Systems #372 4.1/5 — APPLY NOW. -->
+
+### New additions — scan-v176 (evaluated ≥4.0)
+- [ ] https://jobs.ashbyhq.com/openai/13a9e4e4-505b-4545-8b2b-b0bcc09c2b4f | OpenAI | Software Engineer Systems Research Internship, Applied Emerging Talent (Summer 2026) | **4.2/5** | SF in-person; systems research track (different from #353 general SWE + #2 Fall AET); carlosOS kernel/scheduler/syscalls = exact proof point; ~$60/hr est; Applied Emerging Talent program targets builders without PhD; [EVALUATED — report #409]
+- [ ] https://job-boards.greenhouse.io/c3ascend/jobs/8106512002 | C3 AI | Software Engineer Intern (Summer 2026) | **4.1/5** | Redwood City CA on-site; $6K-$8K/mo; 5 months May-Sep; Python + enterprise AI = Finch multi-model pipeline match; shipped production code day 1; [EVALUATED — report #413]
+- [ ] https://job-boards.greenhouse.io/zscaler/jobs/4976260007 | Zscaler | Summer 2026 Technical Internship | **4.0/5** | San Jose CA hybrid 12wks; cloud security leader (zero trust); threat detection or SWE track; Carlos HMAC/TLS/OAuth/CSRF/adversarial LLM = strong security match; comp undisclosed est $35-55/hr; [EVALUATED — report #411]
+- [ ] https://jobs.lever.co/SymmetrySystems/dbca271b-a99b-48ab-83f2-b596a037ad65 | Symmetry Systems | Full Stack Software Engineer Intern (Summer 2026) | **4.0/5** | Remote US; Data+AI Security (DSPM); adversarial LLM testing + full stack prod security = dual archetype match; comp undisclosed; [EVALUATED — report #412]
+
+### New additions — scan-v176 (pending evaluation, ~3.5-3.9)
+- [ ] https://job-boards.greenhouse.io/schonfeld/jobs/7248075 | Schonfeld | 2026 Cybersecurity Operations Summer Intern | ~3.8/5 | Relisted (prev #243 removed); 10 wks; red team/blue team exercises; Python security automation; quant hedge fund security context; NYC; verify comp before applying
+- [ ] https://job-boards.greenhouse.io/bandwidth/jobs/7485269 | Bandwidth | DevSecOps Intern - Summer 2026 | ~3.8/5 | Relisted (prev #248 removed); DevSecOps + AppSec team; Python security tools; Carlos defense-in-depth = direct match; verify comp/location before applying
+- [ ] https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002 | Aquatic Capital Management | Software Engineer Intern (Summer 2026) | ~3.8/5 | Chicago/NYC quant firm; high-perf distributed systems; quant trading system (Bloomberg/Alpaca) = differentiator; C++ heavy, verify Python/SWE track exists
+- [ ] https://jobs.lever.co/actian/21624589-9c91-48ca-bce7-ba4d0bb9a868 | Actian | AI Security Intern | ~3.7/5 | 12-week June 8 start; AI governance + security controls; adversarial LLM testing + Python = match; verify US location and comp
+- [ ] https://jobs.ashbyhq.com/lambda/264f889c-38f4-42a5-9534-064a9512a3fe | Lambda | 2026 Machine Learning Research Intern | ~3.7/5 | Lambda Labs GPU cloud AI company; ML research orientation; Python/ML pipeline match; verify undergrad vs grad requirement
+- [ ] https://job-boards.greenhouse.io/verisign/jobs/7453354003 | Verisign | Summer 2026 Undergraduate Technical Internships | ~3.7/5 | DC metro area; DNS/network security; 10 wks full-time; Python + systems depth (carlosOS) = security engineer track; verify track options and comp
+- [ ] https://jobs.ashbyhq.com/handshake/eece422a-da6b-42e7-b694-3329e6ae4d6a | Handshake | AI/Machine Learning Engineer Intern | ~3.6/5 | May 18–Aug 7 or Jun 15–Sep 4 2026; career platform company; LLM/ML pipeline match; verify location and comp
+- [ ] https://job-boards.greenhouse.io/robinhood/jobs/7161061 | Robinhood | Security Risk Management Intern (Summer 2026) | ~3.5/5 | Relisted (prev #249 removed); Menlo Park 3d/wk; security risk + policy focus; adversarial LLM testing adjacent; less engineering-heavy than Carlos's primary archetype
+- [ ] https://jobs.ashbyhq.com/ramp/c50962b5-c641-4d44-bbe5-7f1d6e7ce51f | Ramp | Software Engineer Internship, Backend | ~3.7/5 | Different track from FDE Intern #341 (scored 4.5); backend engineering at Ramp; Python/TypeScript match; NYC/SF; strong company but FDE track (#341) is better fit
+- [ ] https://job-boards.greenhouse.io/gemini/jobs/7360337 | Gemini | Security Engineering Intern (Summer 2026) | ~3.5/5 | NYC hybrid 12 wks; AppSec/infra/threat detection tracks; HMAC/TLS/OAuth match; ⚠️ Gemini = crypto exchange — company domain is Crypto but title is security engineering; apply if crypto brand not a concern
+
+### Scored below threshold or skipped — scan-v176
+- Celonis Summernaut Tech Consultant (7611577003) — ~3.5/5; Raleigh NC; BI/analytics consulting focus + ETL/Data Analytics requirements ≠ Carlos's SWE profile; skip
+- Klaviyo Full-stack SWE Intern (7603083003) — ~3.5/5; Boston 5d/wk; similar to existing #313 AI Eng 3.6; Python/AWS match but classroom environment and comp aligns with #313 score
+- Delinea SWE Intern (Ashby relisted) — ~3.5/5; identity security; prev #269 CLOSED; new listing exists; evaluate if pipeline capacity allows
+- Mercury AI Enablement Fall 2026 (5817107004) — ~3.5/5; Fall 2026 timing; neobank AI; not summer
+- GuidePoint Security Internship — SKIP; $20/hr part-time remote; below $70K minimum
+- Suno SWE Internship — ~3.2/5; AI music generation domain mismatch; skip
+
+<!-- === END 2026-04-24 SCAN v176 === -->
+
 <!-- === NEW 2026-04-24 SCAN v175 (Autonomous Agent — Greenhouse APIs all 503; Level 3 WebSearch (Greenhouse/Ashby/Lever broad + targeted queries); SimplifyJobs/SpeedyApply/jobright-ai repos (all dup v174); 25+ company direct checks (Stripe/Rubrik/Lacework/Tesla/Capital One/YC batch/IBM — all dup or closed); KEY FINDINGS: 0 genuinely new URLs beyond v174; evaluated 4 v174 pipeline items: 1Password Client Secrets Mgmt 4.0/5 EVALUATED (#407) + 3 below threshold; market confirmed saturated — scan v173 saturation signal accurate) === -->
 <!-- 1 new evaluated ≥4.0/5 (report #407 1Password Client Secrets Mgmt). 0 new listings added. -->
 <!-- ⚡ DEADLINE APRIL 26 (2 DAYS): Anthropic Fellows AI Security #246 4.7/5 + AI Safety #370 4.2/5 + ML Systems #372 4.1/5 — APPLY NOW. -->
