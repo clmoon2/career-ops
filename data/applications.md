@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 401 | 2026-04-24 | Transcarent | Machine Learning Engineer Intern | 4.0/5 | Evaluada | ❌ | [401](reports/401-transcarent-ml-engineer-intern-2026-04-24.md) | US Remote; May 26–Aug 14; LangChain/LangGraph/RAG/agentic = exact stack match; comp undisclosed; healthcare domain; verify pay before accepting |
 | 397 | 2026-04-23 | Snyk | Security Engineer Intern (Enterprise Security) | 4.0/5 | Evaluada | ❌ | [396](reports/396-snyk-security-engineer-intern-2026-04-23.md) | $40-55/hr est; Boston MA on-site; developer security platform; pen testing + automation + threat modeling; unconfirmed salary; confirm comp before relocation to Boston |
 | 392 | 2026-04-21 | TikTok | Security Software Engineer Project Intern (Product Security) | 4.0/5 | Evaluada | ❌ | [392](reports/392-tiktok-security-swe-intern-product-security-2026-04-21.md) | LLM/MCP security + pentesting; $45-60/hr; San Jose CA on-site; 3mo; cybersec minor + adversarial LLM testing match; apply after Anthropic Fellows (Apr 26 deadline) + #388/#391 |
 | 391 | 2026-04-21 | Netflix | Software Engineer Intern (Summer 2026) | 4.2/5 | Evaluada | ❌ | [391](reports/391-netflix-swe-intern-summer-2026-2026-04-21.md) | FAANG-adjacent; Los Gatos CA on-site; $40-110/hr; 12 wks May/Jun start; multi-track (backend/security/AI); Finch prod systems+security exact match; apply immediately |

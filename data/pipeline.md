@@ -1,5 +1,33 @@
 # Pipeline -- Pending URLs
 
+<!-- === NEW 2026-04-24 SCAN v171 (Autonomous Agent — 40+ companies/portals/sources scanned; Greenhouse APIs (Anthropic/Vercel/Glean/Arize/RunPod/HumeAI/Intercom/Temporal — all dup or no intern roles); Ashby broad (all tracked companies — all dup v7-v170); Lever broad (all tracked companies — all dup v7-v170); Greenhouse broad (all tracked companies — all dup v7-v170); WebSearch: SWE/security/AI/ML intern queries across all platforms; SpeedyApply/SimplifyJobs (all dup v169-v170); KEY FINDINGS: 2 new URLs not in scan history — Transcarent ML Engineer Intern (4.0/5, EVALUATED report #401) + Cresta FDE AI Agent Intern (3.8/5, added to pipeline); all other listings confirmed dup from v7-v170; 1 new qualifying ≥4.0/5; scan-history now ~3,660 entries) === -->
+<!-- 1 new evaluated ≥4.0/5 (report #401). 1 new below-threshold added to pipeline. -->
+<!-- ⚡ CRITICAL DEADLINE APRIL 26 (2 DAYS): Anthropic Fellows AI Security #246 4.7/5 + AI Safety #370 4.2/5 + ML Systems #372 4.1/5 — APPLY NOW. -->
+
+### New additions — scan-v171
+- [ ] https://job-boards.greenhouse.io/transcarent/jobs/5806321004 | Transcarent | Machine Learning Engineer Intern | 4.0/5 | US Remote; May 26–Aug 14; LangChain/LangGraph/RAG/agentic = exact stack match; comp undisclosed est $40-60/hr; healthcare domain; mentor assigned [EVALUATED — report #401]
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/5106468008 | Cresta | Forward Deployed Engineering Intern (AI Agent) | 3.8/5 | US/Canada remote; AI agent building + integrations + perf tuning; Sebastian Thrun (Google X/Waymo) co-founder; contact center AI; Python; FDE archetype match; comp unclear (per local minimums) — verify US comp before applying
+
+### Skipped — scan-v171
+- All Greenhouse API companies (Anthropic/Airtable/Vercel/Glean/ArizeAI/RunPod/HumeAI/Intercom/Temporal) — dup v7-v170 or no intern roles
+- All Ashby tracked companies — dup v7-v170
+- All Lever tracked companies — dup v7-v170
+- Cloudflare all intern roles (SWE Austin 7206269 + Security 7582150 + others) — dup v7-v170
+- Handshake AI/ML Intern — dup v7 (in pipeline, scored 3.7/5 scan-v98)
+- PDT Partners Systems Engineering — dup v7 (in pipeline, scored ~3.5)
+- Schonfeld Cybersecurity Ops — dup v7 (in pipeline, scored ~3.7)
+- 1Password Device Security — dup v7 (in pipeline)
+- Delinea SWE Intern — dup v7 (in pipeline)
+- Fizz SWE Intern — skipped_score (3.3/5, scan-v167)
+- Worldly Security Ops — skipped_score (3.0/5, scan-v136)
+- Lambda ML Research — dup v98 (3.2/5)
+- Gemini Security Eng Intern — dup v87 (in history)
+- Anthropic STEM Fellow — PhD required; undergrad mismatch
+- Airtable SWE New Grad 8409376002 — dup v5; confirmed closed/removed scan-v89
+- Aquatic Capital SWE Intern — dup; Summer 2027 not 2026
+
+<!-- === END 2026-04-24 SCAN v171 === -->
+
 <!-- === NEW 2026-04-23 SCAN v168 (Autonomous Agent — Greenhouse APIs (Anthropic/Vercel/Glean/Airtable/Arize): found new Crusoe relisted (prev closed #252) + ByteDance Security Assurance (in pipeline ~3.5, re-evaluated 4.0) + Verkada Backend Intern (in pipeline ~3.7, re-evaluated 4.0); Glean SWE Intern confirmed dup #340 4.5/5; Notion AI Intern confirmed dup #254 4.5/5; WebSearch: ByteDance Network Security (skipped_score ML/DL gap), Palantir FDSE US Gov (new URL, gov track), Cohere ML Intern (~3.5), Notion Fall Intern (~3.8), OpenAI Systems Research (~3.8), Mercury AI Enablement (CLOSED deadline passed Mar 6); 3 new evaluated ≥4.0/5; 2 confirmed dup already evaluated; Crusoe tracker updated #252→4.1/5; 19 scan-history entries added) === -->
 <!-- 3 new evaluated ≥4.0/5 (reports #398/#399/#400). Crusoe tracker updated. 19 new scan-history entries. -->
 <!-- ⚡ CRITICAL DEADLINE APRIL 26 (3 DAYS): Anthropic Fellows AI Security #246 4.7/5 + AI Safety #370 4.2/5 + ML Systems #372 4.1/5 — APPLY NOW. -->
