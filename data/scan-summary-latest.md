@@ -1,108 +1,92 @@
-# Portal Scan — 2026-04-24 (Scan v173)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Portal Scan — 2026-04-24 (v174)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Run:** Autonomous agent scan v173
-**Date:** 2026-04-24
-**Previous scan:** v172 (same day — Wonderschool 4.0/5 + Notion New Grad 4.3/5)
-
----
-
-## Results
-
-Queries executed: 14 WebSearch queries + Greenhouse API checks + SimplifyJobs/SpeedyApply/jobright-ai aggregators
-Listings found (total): ~40 across all sources
-Filtered by title/relevance: 13 candidates evaluated
-Duplicates (already in history): 10 confirmed dup
-New listings added to pipeline: **3**
+**Scan version:** v174 (autonomous agent)
+**Prior scan:** v173 (same day — 3 new listings found)
+**Cumulative scans:** 174 total since v1 (2026-04-05)
 
 ---
 
-## New Listings — scan-v173
+## Stats
 
-### ✅ Evaluated (score ≥ 4.0)
-
-| # | Company | Role | Score | Location | Comp | Report |
-|---|---------|------|-------|----------|------|--------|
-| 404 | **Turbo AI** | Software Engineer Intern (Summer 2026) | **4.2/5** | SF in-person (confirm) | $60/hr + free housing + food | [#404](reports/404-turbo-ai-swe-intern-2026-04-24.md) |
-
-**Turbo AI highlights:**
-- Founded by 20-year-old college dropouts; bootstrapped, profitable, 8-figure ARR
-- 5M+ users, 200K+ AI notes/day — real production scale
-- Stack: NextJS, React Native, PostgreSQL, Python, TypeScript = **exact Carlos stack**
-- Culture: minimal meetings, own features end-to-end, ship fast = Carlos's co-founder style
-- $60/hr + free housing + free food = top-quartile intern comp
-- Confirm SF on-site location before applying
-
-### 🆕 Below Threshold — Added to Pipeline
-
-| Company | Role | Score | Location | Comp | URL |
-|---------|------|-------|----------|------|-----|
-| C3 AI | Software Engineer Intern (Summer 2026) | ~3.7/5 | Redwood City CA in-person | $6-8K/mo | [Apply](https://job-boards.greenhouse.io/c3ascend/jobs/8106512002) |
-| Nutanix | Software Engineering Intern (Python/SDN) | ~3.5/5 | San Jose CA | $36-60/hr | [Apply](https://jobs.jobvite.com/nutanix/job/oFskyfwJ) |
+| Metric | Count |
+|--------|-------|
+| Companies / sources checked | 25+ |
+| Total new URLs examined | 60+ |
+| Filtered (non-target domain/seniority) | 8 |
+| Confirmed duplicates | 12 |
+| New below-threshold additions (< 4.0) | 5 |
+| New evaluated >= 4.0/5 | 2 |
 
 ---
 
-## Companies Confirmed No New Intern Roles — scan-v173
+## Sources Checked
 
-- **Greenhouse APIs** (all dup from v170-v172): Anthropic / Airtable / Vercel / Glean / Arize AI / RunPod / Hume AI / Intercom / Temporal
-- **Ashby broad**: All tracked companies confirmed dup v7-v172 (Cohere / LangChain / Pinecone / ElevenLabs / Deepgram / Vapi / Bland / Sierra / Decagon / n8n / Zapier / Attio / Tinybird / Travelperk)
-- **Lever broad**: Palantir / Mistral / W&B / ClarityAI — all dup v7-v172
-- **SentinelOne**: Only Partner Solutions Engineer Tooling Intern available (non-SWE; skip)
-- **Palo Alto Networks**: Careers page returned 503 (unable to scan this run)
-- **SimplifyJobs 0-1d fresh**: Nutanix SDN (new, added pipeline) + IEM/ABB Canada/HelloFresh/Tencent/GDMS/Leidos — all non-target or wrong country
-- **SpeedyApply AI**: Meta Audio/Nielsen x2/Okta AI Ops/Trumid — all dup v172
-- **jobright-ai new grad**: TikTok SWE Grad (2025-start; old listing) / Navan (removed Jan 2025) / Figma (dup) / IXL (EdTech, low priority)
+- Ashby broad: Julius AI (NEW), 1Password new tracks (NEW), Spacial AI (NEW), Replit/Harvey/Notion/Cohere/Farsight/Delinea/Fizz/Zettabyte/Whatnot (dup)
+- Greenhouse broad: Point72 Investment Services (NEW), DV Trading DevOps (NEW), Roadie new URL (suspected dup), Obsidian/Glean/C3 AI/Figma/Klaviyo (dup)
+- Greenhouse APIs: Anthropic/Glean/Hume/Arize/Temporal/Vercel/RunPod/Intercom/Airtable (dup v170-v173)
+- Lever broad: Voleon/Artera/NimbleRx/Nominal (domain mismatch or dup)
+- ByteDance targeted: AI Platform (NEW), Edge Platform (below threshold)
+- jobright-ai new grad (Apr 20-23): Julius AI (NEW), Loop/Notion/TikTok (dup)
+- WebSearch queries: Ashby security/DevOps/backend, Greenhouse AI/ML/security, consulting tech intern
+
+---
+
+## New Listings Found >= 4.0/5
+
+### #405 — Julius AI | Software Engineer - Product (New Grad)
+- Score: 4.2/5
+- URL: https://jobs.ashbyhq.com/julius/83d88b90-1b7f-476c-a0e8-10b1cb71639e
+- Report: [405](reports/405-julius-ai-swe-product-new-grad-2026-04-24.md)
+- Comp: $130K-$150K + equity | SF onsite
+- Why: React/Next.js/Tailwind/Python exact stack; AI data analysis platform backed by founders of Vercel/Notion/Perplexity/Palantir/Replit/Zapier + OpenAI/GDM researchers; new grad role with Finch production experience as qualifier
+- Action: APPLY IMMEDIATELY — strongest new find in v174; exceptional comp for new grad
+
+### #406 — Point72 | 2026 Summer Internship - AI Engineer (Investment Services)
+- Score: 4.1/5
+- URL: https://job-boards.greenhouse.io/point72/jobs/8169852002
+- Report: [406](reports/406-point72-ai-engineer-intern-investment-services-2026-04-24.md)
+- Comp: $130K-$145K annualized | NYC in-person
+- Why: Third distinct Point72 AI track (Investment Services != L/S Equities #303/#323); GenAI R&D + model eval + data pipelines = direct Finch analog; less competitive than quant-facing tracks
+- Action: Apply alongside #303 and #323 if targeting Point72; verify graduation timeline first
+
+---
+
+## New Below-Threshold Additions (pipeline)
+
+| Company | Role | Score | Notes |
+|---------|------|-------|-------|
+| 1Password | Developer Intern - Insights | ~4.0/5 | Remote; data analytics + security; similar to #366/#367 |
+| 1Password | Developer Intern - Client Secrets Management | ~4.0/5 | Remote; cryptographic primitives; Rust preferred; HMAC match |
+| ByteDance | SWE Intern (AI Platform) - 2026 | ~3.7/5 | ML infra; San Jose $45-60/hr; different from security tracks |
+| DV Trading | 2026 Summer Internship - DevOps Engineer | ~3.3/5 | Chicago in-person; DevOps at quant firm |
+| Spacial AI | Software Engineering Intern | unknown | New company; JD unavailable; check manually |
 
 ---
 
 ## Market Status
 
-**Summer 2026 internship season: fully saturated at scan v173.**
+174 consecutive scans. Summer 2026 intern market is fully saturated.
 
-This is the 173rd consecutive scan. Most Summer 2026 positions opened September-January and are in final interview or offer stages. New postings are rare.
-
-**Key dynamic:** The highest-value remaining action is **applying to already-evaluated listings**, not scanning for new ones. Carlos has 70+ evaluated roles with score ≥4.0 that have not been applied to.
+Julius AI is a genuinely new company not previously tracked with above-target comp ($130-150K) and exact stack match. Strongest new find since Turbo AI (#404) yesterday.
 
 ---
 
-## CRITICAL DEADLINE — APRIL 26 (2 DAYS)
+## URGENT DEADLINE
 
-| # | Company | Role | Score | Deadline |
-|---|---------|------|-------|----------|
-| 246 | Anthropic | Fellows — AI Security | 4.7/5 | **APRIL 26** |
-| 370 | Anthropic | Fellows — AI Safety | 4.2/5 | **APRIL 26** |
-| 372 | Anthropic | Fellows — ML Systems | 4.1/5 | **APRIL 26** |
-
-**Apply to Anthropic Fellows IMMEDIATELY.**
-
----
-
-## Top Unapplied Evaluated Roles (score ≥ 4.5)
-
-| # | Company | Role | Score | Notes |
-|---|---------|------|-------|-------|
-| 347 | Cloudflare | SWE Intern — Austin TX | 4.8/5 | Prod Cloudflare Workers = top differentiator |
-| 298 | Haize Labs | SWE Intern | 4.7/5 | Adversarial LLM + co-founder = perfect |
-| 246 | Anthropic | Fellows — AI Security | 4.7/5 | DEADLINE APRIL 26 |
-| 294 | Cloudflare | Security Engineer Intern | 4.7/5 | Austin TX local; no relocation |
-| 304 | Mechanize | SWE Intern | 4.6/5 | $100/hr RL eval infra |
-| 355 | Atlassian | Security Engineer Intern | 4.5/5 | Seattle; cybersec exact match |
-| 341 | Ramp | FDE Intern | 4.5/5 | $11K/mo + housing; top FDE comp |
-| 340 | Glean | SWE Intern | 4.5/5 | $57-69/hr; Palo Alto/SF |
-| 353 | OpenAI | SWE Intern | 4.5/5 | SF/Seattle; multi-model exact match |
-| 334 | Together AI | Security Engineer Intern | 4.5/5 | $58/hr; AI security; May or Jun start |
-| 283 | Amazon | SDE Internship | 4.5/5 | FAANG; $110-160K annualized |
-| 285 | CrowdStrike | SWE Intern | 4.5/5 | Cybersecurity company; broad SWE |
-| 404 | Turbo AI | SWE Intern | 4.2/5 | NEW — $60/hr + housing; SF; apply this week |
+APRIL 26 (2 DAYS): Anthropic Fellows Program
+- AI Security Track #246 — 4.7/5 — APPLY NOW
+- AI Safety Track #370 — 4.2/5 — APPLY NOW
+- ML Systems Track #372 — 4.1/5 — APPLY NOW
 
 ---
 
 ## Recommended Next Actions
 
-1. **APPLY NOW (deadline Apr 26):** Anthropic Fellows AI Security #246, AI Safety #370, ML Systems #372
-2. **Apply this week:** Turbo AI #404 ($60/hr + housing, exact stack), Cloudflare SWE #347, Haize Labs #298
-3. **Continue applying from top-unapplied list** — 70+ qualifying roles remain unapplied
-4. **Reduce scan frequency to weekly** — market is fully saturated; shift effort to applications
-5. **Retry Palo Alto Networks** next scan run (503 error today)
+1. TODAY: Apply to Anthropic Fellows AI Security (#246, 4.7/5) — DEADLINE APRIL 26
+2. TODAY: Apply to Julius AI SWE Product New Grad (#405, 4.2/5) — new find, strong fit
+3. This week: Apply to Point72 Investment Services AI Intern (#406, 4.1/5)
+4. This week: Consider 1Password Insights + Client Secrets Management (~4.0/5 each)
+5. Optional: Run /career-ops pipeline to evaluate C3 AI Ascend + Nutanix SDN from v173
 
-→ Run `/career-ops pipeline` to evaluate C3 AI + Nutanix below-threshold entries.
+-> Run /career-ops pipeline to process pending URLs from the inbox.

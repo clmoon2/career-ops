@@ -1,5 +1,32 @@
 # Pipeline -- Pending URLs
 
+<!-- === NEW 2026-04-24 SCAN v174 (Autonomous Agent — Level 2 Greenhouse APIs (PolyAI/Parloa 503; Anthropic/Glean/Vercel/Arize/Hume/Temporal dup); Level 3 WebSearch (Ashby broad/Greenhouse broad/Lever broad; ByteDance targeted; jobright-ai new grad; Julius AI direct search); KEY FINDINGS: 9 genuinely new URLs — 2 evaluated ≥4.0 (Julius AI SWE Product New Grad 4.2/5 + Point72 IS AI Intern 4.1/5); 5 below-threshold pipeline additions; 2 suspected dups) === -->
+<!-- 2 new evaluated ≥4.0/5 (reports #405 Julius AI + #406 Point72 Investment Services). -->
+<!-- ⚡ DEADLINE APRIL 26 (2 DAYS): Anthropic Fellows AI Security #246 4.7/5 + AI Safety #370 4.2/5 + ML Systems #372 4.1/5 — APPLY NOW. -->
+
+### New additions — scan-v174
+- [ ] https://jobs.ashbyhq.com/julius/83d88b90-1b7f-476c-a0e8-10b1cb71639e | Julius AI | Software Engineer - Product (New Grad) | 4.2/5 | SF onsite $130-150K + equity; React/Next.js/Tailwind/Python exact match; AI data analysis platform; backed by founders of Vercel/Notion/Perplexity/Palantir/Replit/Zapier + OpenAI/GDM researchers; "previous internships" req — Finch co-founder qualifies; [EVALUATED — report #405]
+- [ ] https://job-boards.greenhouse.io/point72/jobs/8169852002 | Point72 | 2026 Summer Internship - AI Engineer (Investment Services) | 4.1/5 | NYC in-person; $130-145K annualized; THIRD distinct Point72 AI track (different from #303 L/S and #323 L/S); GenAI R&D for Investment Services internal tooling; model eval + data pipelines; verify grad timeline; [EVALUATED — report #406]
+- [ ] https://jobs.ashbyhq.com/1password/f1501068-4cd5-40cd-b045-5f182192bf79 | 1Password | Developer Intern - Insights (Summer 2026) | ~4.0/5 | Remote US/CA 4mo; 1Password "Insights" team; data analytics + security trust boundary; HMAC/TLS/OAuth background relevant; similar to #367 Trust Platforms + #366 Extension Excellence — all strong; apply if capacity
+- [ ] https://jobs.ashbyhq.com/1password/2271dd32-0d1a-4014-b6c8-21b22b630705 | 1Password | Developer Intern - Client Secrets Management (Summer 2026) | ~4.0/5 | Remote US/CA 4mo; secrets management / cryptographic primitives; HMAC-SHA256 + CSRF + TLS prod impl = direct match; Rust preferred (Carlos has Rust daemon); strong fit; apply if capacity
+- [ ] https://joinbytedance.com/search/7537377558908963090 | ByteDance | Software Engineer Intern (AI Platform) - 2026 Summer | ~3.7/5 | San Jose CA; $45-60/hr; ML infrastructure for CV/graphics/deep learning models; different from AI Security #388 + Product Security #392; ML infra focus not primary archetype but AI engineering adjacent; Chinese parent co (brand risk)
+- [ ] https://job-boards.greenhouse.io/dvtrading/jobs/4677094005 | DV Trading | 2026 Summer Internship - DevOps Engineer | ~3.3/5 | Chicago in-person; DevOps/SRE at quant firm; Python automation + Linux; different from #312 AI Engineer track; below Carlos's primary archetype (DevOps secondary); quant firm context is minor differentiator
+- [ ] https://jobs.ashbyhq.com/spacial/67b76194-6cc0-4d37-a3e3-c21a14ff4a26 | Spacial AI | Software Engineering Intern (Summer 2026) | unknown | New company — JD details unavailable (Ashby page returned no content); check manually before evaluating
+
+### Skipped — scan-v174
+- Superhuman SWE Intern (Greenhouse 7491439) — Berlin location; Ashby ef135dc3 — Ukraine location; both non-US; skip
+- Worldly Security Operations Intern (Ashby b297af2e) — sustainability data platform, SecOps not SWE-engineering; domain mismatch; ~3.0/5
+- Lenovo Reliability & DevOps Intern (Glassdoor) — $30-34/hr Chicago IL; below comp target + secondary archetype; ~3.0/5
+- ByteDance SWE Intern Edge Platform (7538121437628221703) — CDN infrastructure, less aligned than AI Platform; ~3.2/5
+- Zip SWE Intern 2bad03a8 — suspected dup of #376 (4.0/5); same role relisted; verify URL change only
+- Roadie SWE Intern 8431926002 — suspected dup of #371 (4.2/5) AI Engineer Intern; verify before applying; same company different Greenhouse ID
+- Roadie SWE Intern 8479096002 — got 503, could not verify; check manually vs #371
+- Point72 UI/UX Engineer Intern (8465224002) — frontend/design hybrid role; not Carlos's primary archetype
+- Nominal SWE Intern (Lever f2673e2a) — hardware/aerospace domain (spacecraft); domain mismatch; old listing was closed #221
+- Klaviyo Full-stack SWE Intern Campus (7603083003) — got 503; existing #313 Klaviyo AI Engineer was 3.6/5; full-stack track likely similar; skip for now
+
+<!-- === END 2026-04-24 SCAN v174 === -->
+
 <!-- === NEW 2026-04-24 SCAN v173 (Autonomous Agent — Level 3 WebSearch (Greenhouse broad/Ashby broad/Lever broad + targeted company queries); SimplifyJobs Summer2026 v173 (0-1d fresh: Nutanix SDN Intern/IEM/ABB Canada/HelloFresh dup/Tencent Game — 1 new qualifying below threshold); jobright-ai new grad v173 (TikTok SWE Grad 2025-start dup/Navan closed Jan2025 — 0 new qualifying); SpeedyApply AI v173 (Meta Audio/Nielsen x2/Okta AI Ops/Trumid — all dup v172); Palo Alto Networks internship search (site returning 503); SentinelOne (Partner Solutions only, no SWE intern); Turbo AI NEW FIND $60/hr + housing; C3 AI Ascend NEW; Greenhouse APIs all dup v170-v172; KEY FINDINGS: 3 genuinely new listings: Turbo AI SWE Intern 4.2/5 EVALUATED + C3 AI SWE Intern 3.7/5 pipeline + Nutanix SDN Python Intern 3.5/5 pipeline; market remains fully saturated at scan v173) === -->
 <!-- 1 new evaluated ≥4.0/5 (report #404 Turbo AI). 2 new below-threshold entries (C3 AI + Nutanix). -->
 <!-- ⚡ DEADLINE APRIL 26 (2 DAYS): Anthropic Fellows AI Security #246 4.7/5 + AI Safety #370 4.2/5 + ML Systems #372 4.1/5 — APPLY NOW. -->
