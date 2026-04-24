@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 407 | 2026-04-24 | 1Password | Developer Intern - Client Secrets Management (Summer 2026) | 4.0/5 | Evaluada | ❌ | [407](reports/407-1password-developer-intern-client-secrets-mgmt-2026-04-24.md) | Remote US/CA May-Aug; HMAC-SHA256/TLS/OAuth/key-purging exact match; ~$31-38/hr est; 4th 1Password qualifying track — apply after Extension Excellence #366 |
+| 406 | 2026-04-24 | Point72 | 2026 Summer Internship - AI Engineer (Investment Services) | 4.1/5 | Evaluada | ❌ | [406](reports/406-point72-ai-engineer-intern-investment-services-2026-04-24.md) | NYC in-person; $130-145K annualized; 3rd distinct Point72 AI track; GenAI R&D + model eval; verify grad timeline; apply alongside #303 and #323 |
 | 405 | 2026-04-24 | Julius AI | Software Engineer - Product (New Grad) | 4.2/5 | Evaluada | ❌ | [405](reports/405-julius-ai-swe-product-new-grad-2026-04-24.md) | SF onsite $130-150K; React/Next.js/Tailwind/Python exact match; AI data analysis platform; strong investor network (Vercel/Notion/Replit/Palantir founders); apply immediately |
 | 404 | 2026-04-24 | Turbo AI | Software Engineer Intern (Summer 2026) | 4.2/5 | Evaluada | ❌ | [404](reports/404-turbo-ai-swe-intern-2026-04-24.md) | $60/hr + free housing; SF in-person; NextJS/React/Python/TypeScript exact stack; 5M users 8-fig ARR; young founder culture; confirm location before applying |
 | 402 | 2026-04-24 | Wonderschool | Early Career SWE, Applied AI | 4.0/5 | Evaluada | ❌ | [402](reports/402-wonderschool-early-career-swe-applied-ai-2026-04-24.md) | LangChain/RAG/Python/AWS match; SF hybrid $100-120K; verify graduation timing eligibility |

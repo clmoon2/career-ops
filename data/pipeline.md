@@ -1,5 +1,22 @@
 # Pipeline -- Pending URLs
 
+<!-- === NEW 2026-04-24 SCAN v175 (Autonomous Agent — Greenhouse APIs all 503; Level 3 WebSearch (Greenhouse/Ashby/Lever broad + targeted queries); SimplifyJobs/SpeedyApply/jobright-ai repos (all dup v174); 25+ company direct checks (Stripe/Rubrik/Lacework/Tesla/Capital One/YC batch/IBM — all dup or closed); KEY FINDINGS: 0 genuinely new URLs beyond v174; evaluated 4 v174 pipeline items: 1Password Client Secrets Mgmt 4.0/5 EVALUATED (#407) + 3 below threshold; market confirmed saturated — scan v173 saturation signal accurate) === -->
+<!-- 1 new evaluated ≥4.0/5 (report #407 1Password Client Secrets Mgmt). 0 new listings added. -->
+<!-- ⚡ DEADLINE APRIL 26 (2 DAYS): Anthropic Fellows AI Security #246 4.7/5 + AI Safety #370 4.2/5 + ML Systems #372 4.1/5 — APPLY NOW. -->
+
+### New additions — scan-v175
+*(0 new URLs added — market saturated; all sources returned dup or below threshold)*
+
+### Evaluated from v174 pipeline — scan-v175
+- [x] https://jobs.ashbyhq.com/1password/2271dd32-0d1a-4014-b6c8-21b22b630705 | 1Password | Developer Intern - Client Secrets Management (Summer 2026) | **4.0/5** | Remote US/CA May-Aug; HMAC-SHA256/TLS/OAuth/key-purging exact match; ~$31-38/hr; [EVALUATED — report #407]
+
+### Scored below threshold — scan-v175
+- 1Password Developer Intern - Insights (f1501068) — ~3.5/5; analytics/reporting focus; less direct security engineering than other 1Password tracks; borderline comp; skip vs Extension Excellence #366
+- ByteDance SWE Intern AI Platform (7537377558908963090) — ~3.2/5; deep learning/CV/graphics ML infra not Carlos's archetype; Chinese parent brand risk; different from AI Security #388
+- Julius AI SWE Infrastructure & Security (1f1b02bc) — ~2.0/5; MID-SENIOR FTE role (not new grad/intern); Helm/Terraform/500k containers/month scale; Carlos not qualified; skip
+
+<!-- === END 2026-04-24 SCAN v175 === -->
+
 <!-- === NEW 2026-04-24 SCAN v174 (Autonomous Agent — Level 2 Greenhouse APIs (PolyAI/Parloa 503; Anthropic/Glean/Vercel/Arize/Hume/Temporal dup); Level 3 WebSearch (Ashby broad/Greenhouse broad/Lever broad; ByteDance targeted; jobright-ai new grad; Julius AI direct search); KEY FINDINGS: 9 genuinely new URLs — 2 evaluated ≥4.0 (Julius AI SWE Product New Grad 4.2/5 + Point72 IS AI Intern 4.1/5); 5 below-threshold pipeline additions; 2 suspected dups) === -->
 <!-- 2 new evaluated ≥4.0/5 (reports #405 Julius AI + #406 Point72 Investment Services). -->
 <!-- ⚡ DEADLINE APRIL 26 (2 DAYS): Anthropic Fellows AI Security #246 4.7/5 + AI Safety #370 4.2/5 + ML Systems #372 4.1/5 — APPLY NOW. -->

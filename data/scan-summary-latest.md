@@ -1,9 +1,9 @@
-# Portal Scan — 2026-04-24 (v174)
+# Portal Scan — 2026-04-24 (v175)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan version:** v174 (autonomous agent)
-**Prior scan:** v173 (same day — 3 new listings found)
-**Cumulative scans:** 174 total since v1 (2026-04-05)
+**Scan version:** v175 (autonomous agent)
+**Prior scan:** v174 (same day — 2 new listings found: Julius AI 4.2/5 + Point72 IS 4.1/5)
+**Cumulative scans:** 175 total since v1 (2026-04-05)
 
 ---
 
@@ -12,81 +12,106 @@
 | Metric | Count |
 |--------|-------|
 | Companies / sources checked | 25+ |
-| Total new URLs examined | 60+ |
-| Filtered (non-target domain/seniority) | 8 |
-| Confirmed duplicates | 12 |
-| New below-threshold additions (< 4.0) | 5 |
-| New evaluated >= 4.0/5 | 2 |
+| WebSearch queries executed | 15+ |
+| New URLs found | 0 |
+| v174 pipeline items evaluated | 4 |
+| New evaluated >= 4.0/5 | 1 (from pipeline) |
+| Scan history total | ~3,722 entries |
 
 ---
 
 ## Sources Checked
 
-- Ashby broad: Julius AI (NEW), 1Password new tracks (NEW), Spacial AI (NEW), Replit/Harvey/Notion/Cohere/Farsight/Delinea/Fizz/Zettabyte/Whatnot (dup)
-- Greenhouse broad: Point72 Investment Services (NEW), DV Trading DevOps (NEW), Roadie new URL (suspected dup), Obsidian/Glean/C3 AI/Figma/Klaviyo (dup)
-- Greenhouse APIs: Anthropic/Glean/Hume/Arize/Temporal/Vercel/RunPod/Intercom/Airtable (dup v170-v173)
-- Lever broad: Voleon/Artera/NimbleRx/Nominal (domain mismatch or dup)
-- ByteDance targeted: AI Platform (NEW), Edge Platform (below threshold)
-- jobright-ai new grad (Apr 20-23): Julius AI (NEW), Loop/Notion/TikTok (dup)
-- WebSearch queries: Ashby security/DevOps/backend, Greenhouse AI/ML/security, consulting tech intern
+- Greenhouse APIs: All returning 503 (server unavailable); fallback to WebSearch confirmed all dup
+- Ashby broad: All tracked companies — all confirmed dup v7-v174
+- Lever broad: All tracked companies — all confirmed dup v7-v174
+- SimplifyJobs Summer2026 README: all dup v174 (Nutanix/IEM/ABB/HelloFresh/Tencent)
+- SpeedyApply SWE repo: all dup v172+ (BlackSky/Kognitos/Ripple/Zoox)
+- SpeedyApply AI repo: all PhD-focused or below threshold (Meta Audio/Adobe/Roblox/NVIDIA)
+- jobright-ai New Grad README: all dup v172+ (Cohu/Navan/NVIDIA SQA/Affirm)
+- YC internships + Work at a Startup: all confirmed dup v30-v174
+- Targeted company checks: Stripe (no SWE intern), Rubrik (closed Mar 13), Lacework (404), Tesla (all closed/below), Capital One (in pipeline v136), IBM (non-Greenhouse, consulting domain), Wiz (no intern), ByteDance (below threshold), DV Trading (below threshold)
 
 ---
 
-## New Listings Found >= 4.0/5
+## Evaluated v174 Pipeline Items
 
-### #405 — Julius AI | Software Engineer - Product (New Grad)
-- Score: 4.2/5
-- URL: https://jobs.ashbyhq.com/julius/83d88b90-1b7f-476c-a0e8-10b1cb71639e
-- Report: [405](reports/405-julius-ai-swe-product-new-grad-2026-04-24.md)
-- Comp: $130K-$150K + equity | SF onsite
-- Why: React/Next.js/Tailwind/Python exact stack; AI data analysis platform backed by founders of Vercel/Notion/Perplexity/Palantir/Replit/Zapier + OpenAI/GDM researchers; new grad role with Finch production experience as qualifier
-- Action: APPLY IMMEDIATELY — strongest new find in v174; exceptional comp for new grad
-
-### #406 — Point72 | 2026 Summer Internship - AI Engineer (Investment Services)
-- Score: 4.1/5
-- URL: https://job-boards.greenhouse.io/point72/jobs/8169852002
-- Report: [406](reports/406-point72-ai-engineer-intern-investment-services-2026-04-24.md)
-- Comp: $130K-$145K annualized | NYC in-person
-- Why: Third distinct Point72 AI track (Investment Services != L/S Equities #303/#323); GenAI R&D + model eval + data pipelines = direct Finch analog; less competitive than quant-facing tracks
-- Action: Apply alongside #303 and #323 if targeting Point72; verify graduation timeline first
+| Company | Role | Score | Result |
+|---------|------|-------|--------|
+| **1Password** | Developer Intern - Client Secrets Management | **4.0/5** | ✅ EVALUATED — report #407 |
+| 1Password | Developer Intern - Insights | 3.5/5 | Below threshold — skip |
+| ByteDance | SWE Intern (AI Platform) | 3.2/5 | Below threshold — ML infra/CV domain mismatch |
+| Julius AI | SWE - Infrastructure & Security | 2.0/5 | Mid-senior FTE — not intern/new grad; skip |
 
 ---
 
-## New Below-Threshold Additions (pipeline)
+## New Listing >= 4.0/5
 
-| Company | Role | Score | Notes |
-|---------|------|-------|-------|
-| 1Password | Developer Intern - Insights | ~4.0/5 | Remote; data analytics + security; similar to #366/#367 |
-| 1Password | Developer Intern - Client Secrets Management | ~4.0/5 | Remote; cryptographic primitives; Rust preferred; HMAC match |
-| ByteDance | SWE Intern (AI Platform) - 2026 | ~3.7/5 | ML infra; San Jose $45-60/hr; different from security tracks |
-| DV Trading | 2026 Summer Internship - DevOps Engineer | ~3.3/5 | Chicago in-person; DevOps at quant firm |
-| Spacial AI | Software Engineering Intern | unknown | New company; JD unavailable; check manually |
-
----
-
-## Market Status
-
-174 consecutive scans. Summer 2026 intern market is fully saturated.
-
-Julius AI is a genuinely new company not previously tracked with above-target comp ($130-150K) and exact stack match. Strongest new find since Turbo AI (#404) yesterday.
+### #407 — 1Password | Developer Intern - Client Secrets Management (Summer 2026)
+- **Score:** 4.0/5
+- **URL:** https://jobs.ashbyhq.com/1password/2271dd32-0d1a-4014-b6c8-21b22b630705
+- **Report:** [407](reports/407-1password-developer-intern-client-secrets-mgmt-2026-04-24.md)
+- **Comp:** ~$31–38/hr estimated | Remote US/CA | May–August 2026 (4 months)
+- **Why:** HMAC-SHA256 CSRF protection + TLS 1.2/1.3 ECDSA + OAuth proxy + sensitive storage key purging at Finch = direct cryptographic analog to secrets management. 4th qualifying 1Password track.
+- **Context:** Apply after Extension Excellence #366 (4.3/5). All four 1Password tracks are worth applying to; Extension Excellence is the primary pick.
 
 ---
 
-## URGENT DEADLINE
+## Market Signal
 
-APRIL 26 (2 DAYS): Anthropic Fellows Program
-- AI Security Track #246 — 4.7/5 — APPLY NOW
-- AI Safety Track #370 — 4.2/5 — APPLY NOW
-- ML Systems Track #372 — 4.1/5 — APPLY NOW
+**SATURATED.** This is the 5th autonomous scan on April 24, 2026 (v171–v175). Summer 2026 intern market is at peak saturation:
+- Major tech companies opened applications Aug–Dec 2025; deadlines Jan–Mar 2026
+- Remaining open listings are late-closing programs, relisted roles, or small companies
+- All major ATS portals (Greenhouse, Ashby, Lever) returning dup results consistently across 5 sequential scans
+
+**Recommendation:** Next scan on **May 1–3, 2026** when:
+- Fall 2026 intern cycles may open
+- New 2027 new grad roles from top companies appear
+- Some Summer 2026 programs post late openings after yield day
+
+---
+
+## URGENT DEADLINE (48 hours)
+
+**APRIL 26 = TOMORROW**: Anthropic Fellows Program deadlines
+- **AI Security Track #246 — 4.7/5** — [APPLY NOW via Constellation program](https://constellation.org) — adversarial LLM red teaming = perfect match; $3,850/wk + $15K compute; 4-month Jul 20 start
+- **AI Safety Track #370 — 4.2/5** — APPLY NOW
+- **ML Systems Track #372 — 4.1/5** — APPLY NOW
+
+---
+
+## Full Priority Queue (all confirmed open, sorted by score)
+
+| Score | # | Company | Role | Notes |
+|-------|---|---------|------|-------|
+| 4.8 | #347 | Cloudflare | SWE Intern | Austin TX local |
+| 4.7 | #294 | Cloudflare | Security Intern | Austin TX local — no relocation |
+| 4.7 | #246 | Anthropic | Fellows AI Security | ⚡ DEADLINE APRIL 26 |
+| 4.7 | #143 | Palantir | FDSE New Grad | $145-180K + RSUs |
+| 4.7 | #298 | Haize Labs | SWE Intern | $100-125K NYC |
+| 4.6 | #304 | Mechanize | SWE Intern | $100/hr SF |
+| 4.5 | #353 | OpenAI | SWE Intern | SF/Seattle $60/hr |
+| 4.5 | #334 | Together AI | Security Intern | SF $58/hr |
+| 4.5 | #295 | Together AI | SWE Intern | SF $58/hr |
+| 4.5 | #340 | Glean | SWE Intern | Palo Alto $57-69/hr |
+| 4.5 | #341 | Ramp | FDE Intern | $11K/mo NYC/SF |
+| 4.5 | #355 | Atlassian | Security Intern | Seattle $49-75/hr |
+| 4.4 | #357 | Browser Use | SWE Intern | YC $6-16K/mo SF |
+| 4.4 | #305 | Decagon | Agent SWE Intern | SF agentic AI |
+| 4.3 | #366 | 1Password | Extension Excellence | Remote Chrome MV3 |
+| 4.3 | #274 | Sierra | Agent Dev Intern | SF multi-agent |
+| 4.3 | #344 | Dex | AI/ML Intern | YC SF $6-10K/mo |
+| 4.2 | #405 | Julius AI | SWE Product New Grad | SF $130-150K |
+| 4.0 | #407 | 1Password | Client Secrets Mgmt | Remote security 🆕 |
 
 ---
 
 ## Recommended Next Actions
 
-1. TODAY: Apply to Anthropic Fellows AI Security (#246, 4.7/5) — DEADLINE APRIL 26
-2. TODAY: Apply to Julius AI SWE Product New Grad (#405, 4.2/5) — new find, strong fit
-3. This week: Apply to Point72 Investment Services AI Intern (#406, 4.1/5)
-4. This week: Consider 1Password Insights + Client Secrets Management (~4.0/5 each)
-5. Optional: Run /career-ops pipeline to evaluate C3 AI Ascend + Nutanix SDN from v173
+1. **TONIGHT/TOMORROW:** Apply to Anthropic Fellows AI Security (#246) — DEADLINE APRIL 26
+2. **This week:** Apply to Cloudflare Security Intern #294 (Austin TX, no relocation required)
+3. **This week:** Apply to Haize Labs SWE Intern #298 ($100-125K, adversarial LLM = perfect)
+4. **Run `/career-ops pipeline`** to evaluate remaining pipeline items (C3 AI/Nutanix/Cresta FDE/Capital One Cyber/Snyk Container)
+5. **Next scan:** Schedule for May 1–3, 2026
 
--> Run /career-ops pipeline to process pending URLs from the inbox.
+→ Run `/career-ops pipeline` to process pending URLs from the inbox.
