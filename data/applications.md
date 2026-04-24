@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 402 | 2026-04-24 | Wonderschool | Early Career SWE, Applied AI | 4.0/5 | Evaluada | ❌ | [402](reports/402-wonderschool-early-career-swe-applied-ai-2026-04-24.md) | LangChain/RAG/Python/AWS match; SF hybrid $100-120K; verify graduation timing eligibility |
+| 403 | 2026-04-24 | Notion | Software Engineer, New Grad | 4.3/5 | Evaluada | ❌ | [403](reports/403-notion-software-engineer-new-grad-2026-04-24.md) | TypeScript/React/Python + LLM exp exact match; SF $150-250K; different from intern #254; verify graduation timeline |
 | 401 | 2026-04-24 | Transcarent | Machine Learning Engineer Intern | 4.0/5 | Evaluada | ❌ | [401](reports/401-transcarent-ml-engineer-intern-2026-04-24.md) | US Remote; May 26–Aug 14; LangChain/LangGraph/RAG/agentic = exact stack match; comp undisclosed; healthcare domain; verify pay before accepting |
 | 397 | 2026-04-23 | Snyk | Security Engineer Intern (Enterprise Security) | 4.0/5 | Evaluada | ❌ | [396](reports/396-snyk-security-engineer-intern-2026-04-23.md) | $40-55/hr est; Boston MA on-site; developer security platform; pen testing + automation + threat modeling; unconfirmed salary; confirm comp before relocation to Boston |
 | 392 | 2026-04-21 | TikTok | Security Software Engineer Project Intern (Product Security) | 4.0/5 | Evaluada | ❌ | [392](reports/392-tiktok-security-swe-intern-product-security-2026-04-21.md) | LLM/MCP security + pentesting; $45-60/hr; San Jose CA on-site; 3mo; cybersec minor + adversarial LLM testing match; apply after Anthropic Fellows (Apr 26 deadline) + #388/#391 |
