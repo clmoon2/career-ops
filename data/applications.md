@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 416 | 2026-04-25 | Cerebras Systems | AI Engineering Intern - Growth Team | 4.5/5 | Evaluada | ❌ | [416](reports/416-cerebras-ai-engineering-intern-growth-team-2026-04-25.md) | Sunnyvale CA 12wks Jun-Aug; Claude Code+MCP+RAG+multi-agent exact CV match; comp undisclosed est $40-55/hr; verify comp before accepting |
 | 414 | 2026-04-25 | Actian | AI Security Intern | 4.0/5 | Evaluada | ❌ | [414](reports/414-actian-ai-security-intern-2026-04-25.md) | Remote+Austin TX orientation; 12wks Jun 8; LLM red team+prompt injection exact CV match; verify comp before accepting |
 | 411 | 2026-04-24 | Zscaler | Summer 2026 Technical Internship | 4.0/5 | Evaluada | ❌ | [411](reports/411-zscaler-technical-internship-2026-04-24.md) | San Jose CA hybrid 12wks; cloud security leader; threat detection or SWE track; comp undisclosed est $35-55/hr; verify comp before accepting |
 | 412 | 2026-04-24 | Symmetry Systems | Full Stack Software Engineer Intern (Summer 2026) | 4.0/5 | Evaluada | ❌ | [412](reports/412-symmetry-systems-fullstack-intern-2026-04-24.md) | Remote US; Data+AI Security (DSPM); adversarial LLM testing + full stack = dual archetype match; comp undisclosed — verify before applying |

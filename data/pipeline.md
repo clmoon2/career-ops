@@ -1,5 +1,31 @@
 # Pipeline -- Pending URLs
 
+<!-- === NEW 2026-04-25 SCAN v186 (Autonomous Agent — Broad sweep: Greenhouse APIs (cerebrassystems + 10 tracked cos), WebSearch 25+ queries (Ashby/Greenhouse/Lever/Workday/GitHub speedyapply SWE+AI repos), cybersecurity companies (Wiz/PAN/SentinelOne/Tenable), fintech/consulting (Goldman/JPMorgan/MS/Affirm/Stripe/Plaid), AI-native companies (Perplexity/Groq/Cerebras), defense/semiconductor (Anduril/NVIDIA Fall 2026); 3,840+ entry history dedup'd; 2 genuinely new URLs discovered: Cerebras AI Eng Intern Growth Team 4.5/5 (EVALUATED → #416) + Verkada AI SWE Fall 2026 (added pending); 0 below-threshold added; 185 prior scans confirmed saturated — only fresh board (cerebrassystems vs earlytalentcerebras) yielded new result) === -->
+<!-- 1 new evaluated ≥4.0 (#416 Cerebras 4.5/5). 1 new listing added pending. -->
+
+### New evaluated — scan-v186
+- [x] https://job-boards.greenhouse.io/cerebrassystems/jobs/7713841003 | Cerebras Systems | AI Engineering Intern - Growth Team | **4.5/5** → #416 | Claude Code+MCP+RAG+multi-agent exact match; Sunnyvale CA 12wks Jun-Aug 2026; comp undisclosed est $40-55/hr; verify comp before accepting — report filed
+
+### New additions — scan-v186 (pending evaluation)
+- [ ] https://job-boards.greenhouse.io/verkada/jobs/5117760007 | Verkada | AI Software Engineering Intern - Fall 2026 | ~3.5/5 | Aug 31-Dec 18 2026; multimodal AI/ML (video+audio+sensors); San Mateo CA on-site; $55-65/hr + housing stipend; Fall 2026 conflicts with TAMU fall semester — evaluate only if graduating May 2026
+
+### Skipped — scan-v186
+- Cerebras earlytalentcerebras SWE/ML roles — confirmed dups (C++ focus, hardware domain, ~3.0/5); different from Growth Team
+- Mercury AI Enablement Fall 2026 (5817107004) — deadline passed March 6 2026; confirmed closed
+- Stripe SWE Intern (7210115) — confirmed dup v137/v146/v151; Java/Ruby stack mismatch; already evaluated
+- Affirm SWE Intern (7528020003) — confirmed dup v7-v35; already in pipeline
+- Astranis Data Platform Intern (4667477006) — confirmed dup v7; $29/hr below floor; 55hr/wk on-site
+- Cobalt.io Agentic AI Intern (8512243002) — confirmed dup v176; grad-level preferred; 2.5/5
+- NVIDIA Fall 2026 Robot Learning (myworkdayjobs) — MS/PhD required; not for undergrad
+- Kognitos AI-Native SWE Intern — confirmed dup v104; comp below floor
+- Newton Research Backend+AI Intern — confirmed dup v149; ~3.0/5
+- Plaid SWE Intern (ripplematchinterns/8161513002) — confirmed dup v177; ~3.5/5
+- Google SWE Intern Summer 2026 — confirmed dup v182 (FAANG sweep)
+- Anduril SWE Intern — confirmed dup v145; $20-35/hr below floor
+- PAN intern — uses SmartRecruiters/custom portal; confirmed evaluated in v182 sweep
+- SentinelOne Partner SE Intern — presales role; skipped_title; non-SWE engineering archetype
+- Axiomatic AI Research Intern (4845060101) — confirmed dup v182; scientific reasoning research; non-SWE
+
 <!-- === NEW 2026-04-25 SCAN v183 (Autonomous Agent — Level 2 Greenhouse APIs: Anthropic/Glean/Vercel/Airtable/Arize AI/Temporal/Hume AI/RunPod/Intercom/Twilio; Level 3 WebSearch: 20+ queries (Ashby/Greenhouse/Lever/SimplifyJobs/speedyapply/Extern/Wellfound/YC); 1,816 unique URLs dedup'd from 3,803-entry history; 18 genuinely new URLs discovered; 16 skipped (senior FTE/non-technical/EU/wrong domain/HR role/wrong seniority); 2 new listings added to pipeline; 0 qualifying ≥4.0; market FULLY SATURATED at 3,821 entries after 183 scans; ⚡ DEADLINE TODAY APR 26: Anthropic Fellows AI Security #246 (4.7/5) + AI Safety #370 (4.2/5) + ML Systems #372 (4.1/5) — APPLY NOW) === -->
 <!-- 0 new evaluated ≥4.0. 2 new listings added below threshold. ⚡ TODAY: Anthropic Fellows deadlines Apr 26 — apply immediately. -->
 
