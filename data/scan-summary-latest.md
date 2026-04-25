@@ -1,94 +1,96 @@
-# Portal Scan — 2026-04-25 (v188)
+# Portal Scan — 2026-04-25 (v189)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan number:** v188  
-**Date:** 2026-04-25  
-**Agent:** Autonomous scan agent (career-ops)
+**Scan number:** v189
+**Date:** 2026-04-25
+**Scan history total:** 3,899 entries (after 189 scans)
+
+---
+
+## Sources Scanned
+
+| Source | Method | Result |
+|--------|--------|--------|
+| Databricks Greenhouse API | WebFetch | 503 error |
+| Cloudflare Greenhouse API | WebFetch | 503 error |
+| Scale AI Greenhouse API | WebFetch | 503 error |
+| SpeedyApply 2026-SWE-College-Jobs | WebFetch | 25 entries checked (0d–1d) |
+| SpeedyApply 2026-AI-College-Jobs | WebFetch | 20 entries checked (0d) |
+| SimplifyJobs Summer2026-Internships | WebFetch | 15 latest entries checked |
+| Ashby/Greenhouse/Lever broad WebSearch | WebSearch | 60+ URLs returned, all dup |
+| Company-specific queries (20+) | WebSearch | All confirmed dups |
+| HN Who is Hiring April 2026 | WebFetch | No intern listings found |
+
+**Total portals/companies scanned:** 50+
+
+---
 
 ## Results
 
-| Metric | Count |
-|--------|-------|
-| Portals / sources scanned | 25+ |
-| Companies checked | 50+ |
-| WebSearch queries executed | 20+ |
-| Total scan-history entries | 3,876+ |
-| New URLs discovered | 1 (skipped) |
-| New listings added to pipeline | 0 |
-| Qualifying listings (≥4.0) | 0 |
-| Evaluated in this scan | 0 |
+Queries executed: 20+
+Offers found: 65+ URLs discovered
+Filtered by title: 2 relevant (passed title + dedup filter)
+Duplicates: 63+ (already in history v7–v188)
+**New added to pipeline.md: 2**
 
-## Sources Covered
+### New listings added:
+  + Axiomatic AI | Software Engineering Internship – AI/Agentic Systems | ~3.5/5
+  + Axiomatic AI | Software Engineering Internship – Platform/DevOps | ~3.2/5
 
-**Greenhouse APIs (Level 2):**
-- Anthropic — Fellows (AI Safety/Security/ML/RL/Economics/STEM) all confirmed dup; 0 new
-- Glean — SWE Univ Grad + SWE Intern + Agentic + AI&Security all confirmed dup; 0 new
-- Vercel — all senior FTE (SWE Agent/SDK/Backend); no intern/new-grad
-- Airtable — no intern/new-grad; all senior FTE
-- Arize AI — no intern; AI Solutions Eng/DevOps FTE
-- Temporal — empty board (0 jobs)
-- RunPod — no intern; FDE APAC/Security Eng/SWE FTE
-- Hume AI — no intern; 8 senior FTE roles
-- Intercom — no intern; Senior ML/Staff roles
-- PolyAI — no intern; Forward Deployed AI Eng FTE
+---
 
-**Ashby Direct (Level 1/WebSearch):**
-- 30+ companies scanned: Notion, Replit, Farsight, Zettabyte, Giga, Harvey, Delinea, Handshake, Lambda, Crusoe, Pulse, Brain Co., Ramp, Sentry, OpenAI, Cohere, ElevenLabs, Vapi, Bland, LangChain, Zapier, n8n, Pinecone, Attio, Lindy, Tinybird, TravelPerk, Fizz, Decagon, Pylon, Benchling, Solace, Zip, Prophet Security — all confirmed dup v7-v187
+## Top Matches (score ≥ 4.0) — None from This Scan
 
-**Lever (Level 1/WebSearch):**
-- 12+ companies: Palantir (all tracks), Mistral, W&B, Shield AI, Symmetry, Nominal, Artera, Veeva, Voleon, Secureframe, WeRide, Clarity AI — all confirmed dup v7-v187
+No new listings scored ≥4.0 in this scan. The Summer 2026 internship market is fully saturated at 189 scan runs.
 
-**Greenhouse Broad WebSearch:**
-- 20+ companies: Cloudflare, Together AI, SpaceX, Glean, Affirm, Sigma, Figma, C3 AI, Benchling, Obsidian, Roadie, Censys, LaunchDarkly, Dropbox, Astranis, DoorDash, Aquatic Capital — all confirmed dup v7-v187
+---
 
-**GitHub / Aggregators:**
-- SimplifyJobs Summer2026-Internships (0d entries): EA SWE Intern → skipped; Cerebras dup #416; Twilio dup v182
-- HN Who is Hiring April 2026: senior FTE only; 0 intern/new-grad
-- jobright-ai 2026 Consultant Internship: SAP/Siemens/Capgemini/Wipfli — non-target roles (SAP/ERP)
+## New Finds Detail
 
-## New Listings Found
+### Axiomatic AI — AI/Agentic Systems Intern (~3.5/5)
+- **URL:** https://job-boards.eu.greenhouse.io/axiomaticai/jobs/4848121101
+- **Location:** Boston, US / Barcelona, Spain
+- **Duration:** 3–6 months, June–September 2026
+- **Skills:** Python, LLMs, agent tool integration, workflow orchestration, evaluation infra
+- **Education:** Master's preferred (soft blocker only)
+- **Comp:** Not disclosed
+- **Why below 4.0:** Master's preference + no comp + academic AI domain + Boston relocation
+- **CV fit:** Strong — TidalHack 6-agent AutoGen, Finch multi-model pipeline, LangChain RAG
 
-None. Only new URL encountered: Electronic Arts Software Engineer Intern (`jobs.ea.com/210840`) → **SKIPPED**: Fall 2026 start + Vancouver, Canada location (requires Canadian work authorization; semester conflict with TAMU fall).
+### Axiomatic AI — Platform/DevOps Intern (~3.2/5)
+- **URL:** https://job-boards.eu.greenhouse.io/axiomaticai/jobs/4848128101
+- **Location:** Boston, US / Barcelona / Toronto
+- **Duration:** 3–6 months, June–September 2026
+- **Skills:** Python, Docker, CI/CD, observability (Logfire)
+- **Education:** Bachelor's 3rd/4th year OK
+- **Comp:** Not disclosed
+- **Why below 4.0:** Secondary archetype (DevOps), no comp, small academic AI startup
 
-## Skipped Listings (with reasons)
+---
 
-| Company | Role | Reason |
-|---------|------|--------|
-| Electronic Arts | Software Engineer Intern (Fall 2026) | Fall 2026 + Canada location |
-| All 50+ others | Various | Confirmed dups (v7-v187) |
+## Unprocessed High-Score Pipeline Items (from scans v185–v187 today)
 
-## Top Active Pipeline Items (Already in Pending)
+These were added with estimated ≥4.0 scores in earlier scans today but need formal evaluation reports:
 
-The following high-scoring items are already in the pipeline awaiting evaluation or action:
+| Company | Role | Est. Score | Source |
+|---------|------|-----------|--------|
+| DoorDash | Software Engineer, Intern (Summer 2026) | **4.3/5** | v185 |
+| CrowdStrike | Software Engineer Intern Summer 2026 (R26636) | **4.3/5** | v185 |
+| Roblox | Software Engineer Intern (Summer 2026) | **4.2/5** | v185 |
+| Figma | Software Engineer Intern (2026) | **4.2/5** | v185 |
+| Lazard | 2026 AI Engineer Summer Internship (Data Analytics Group) | **4.1/5** | v185 |
+| Salesforce | Summer 2026 Intern AI Research | ~3.8/5 | v185 |
+| Verkada | Security SWE University Graduate 2026 | ~3.8/5 | v183 |
+| Experian | ML Engineer Summer Intern (Remote) | ~3.8/5 | v187 |
+| Visa | Associate Cybersecurity Engineer Intern Summer 2026 | ~3.8/5 | v187 |
 
-| Score | Company | Role |
-|-------|---------|------|
-| 4.5/5 | Cerebras Systems | AI Engineering Intern - Growth Team (#416, EVALUATED) |
-| ~3.8/5 | Experian | ML Engineer Summer Intern (Remote) |
-| ~3.7/5 | Experian | AI SWE Summer Intern (Remote) |
-| ~3.8/5 | Visa | Associate Cybersecurity Engineer Intern Summer 2026 |
-| ~3.6/5 | Visa | Software Engineer Intern Summer 2026 Austin TX |
-| ~3.5/5 | Verkada | AI Software Engineering Intern - Fall 2026 |
-| ~3.8/5 | Verkada | Security Software Engineer, University Graduate 2026 |
-| ~3.2/5 | Walmart | 2026 Summer Intern: Cybersecurity |
-
-## Market Assessment
-
-**Status: FULLY SATURATED** — Summer 2026 internship recruiting cycle is effectively complete as of April 25, 2026.
-
-After 188 consecutive scans across all major channels (Greenhouse/Ashby/Lever/Workday/SmartRecruiters/SimplifyJobs/SpeedyApply/jobright-ai/HN/YC/Wellfound/LinkedIn/direct company APIs), the market shows:
-
-- **No new Summer 2026 intern postings** appearing on tracked channels
-- **Late-cycle hiring** (a few Summer roles still open at Experian, Visa, Walmart) but declining
-- **Fall 2026 roles** starting to appear (Verkada, EA) for next cycle
+---
 
 ## Recommended Next Actions
 
-1. **Apply to evaluated high-score items (#416 Cerebras - if not yet applied)**
-2. **Evaluate pending pipeline items ≥3.5/5**: Experian ML Eng + AI SWE (Remote), Visa Cybersecurity Intern Austin
-3. **Monitor for late-breaking Summer 2026 openings** — run `/career-ops scan` once more in 3-5 days
-4. **Transition focus to Fall 2026 roles**: Verkada AI SWE Intern (evaluate if TAMU has fall co-op program), other Fall 2026 openings
-5. **Begin New Grad 2026 job search preparation** for graduation if applicable
+1. **Run `/career-ops pipeline`** — evaluate the 5 high-score pipeline items above (DoorDash/CrowdStrike 4.3, Roblox/Figma 4.2, Lazard 4.1) and write reports before deadlines close
+2. **Apply immediately** to all already-evaluated ≥4.0 roles — Summer 2026 intern windows are closing imminently
+3. **Axiomatic AI AI/Agentic** (~3.5/5): Consider only if open to Boston relocation; strong technical match despite Masters preference and no comp
+4. **Pivot scope**: Summer 2026 market is fully saturated. Next scan should target Fall 2026 internships and 2026 New Grad FTE roles
 
----
-*Generated by career-ops autonomous scan agent | 2026-04-25*
+→ Run `/career-ops pipeline` to evaluate the pending high-score items.

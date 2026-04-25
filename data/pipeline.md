@@ -1,5 +1,25 @@
 # Pipeline -- Pending URLs
 
+<!-- === NEW 2026-04-25 SCAN v189 (Autonomous Agent — Level 2 Greenhouse APIs (Databricks/Cloudflare/Scale AI all 503); SpeedyApply SWE 0d-1d (25 entries: NVIDIA JAX Fall dup+Altom transport+Aptiv automotive+Axiomatic AI x2 NEW+Axway+KBR/Leidos defense+Rainmaker+Verkada Fall dup+Vital Lyfe); SpeedyApply AI 0d (Adobe R160428 503 likely Masters-req+Pinterest PhD skip+Cerebras dup); SimplifyJobs latest-15 (all confirmed dup v7-v188); WebSearch 20+ queries (Ashby/Greenhouse/Lever/broad all confirmed dup); HN Hiring Apr 2026 (no intern listings); 3,894-entry history dedup'd; 2 genuinely new URLs discovered today (Axiomatic AI AI/Agentic ~3.5/5 + Platform/DevOps ~3.2/5 — both below threshold, added to pipeline); 0 qualifying ≥4.0; market FULLY SATURATED at 3,898 entries after 189 scans) === -->
+<!-- 0 new evaluated ≥4.0. 2 new listings added (both below threshold). -->
+
+### New additions — scan-v189 (pending evaluation, below threshold)
+- [ ] https://job-boards.eu.greenhouse.io/axiomaticai/jobs/4848121101 | Axiomatic AI | Software Engineering Internship – AI/Agentic Systems | ~3.5/5 | NEW 0d SpeedyApply; Boston, US / Barcelona, Spain; Jun–Sep 2026 (3–6mo); Python + LLMs + agent tool integration + workflow orchestration + eval infra; Masters preferred = soft blocker; strong CV match for Carlos (TidalHack 6-agent AutoGen, Finch multi-model pipeline, LangChain); no comp disclosed; academic AI domain; apply if open to Boston relocation
+- [ ] https://job-boards.eu.greenhouse.io/axiomaticai/jobs/4848128101 | Axiomatic AI | Software Engineering Internship – Platform/DevOps | ~3.2/5 | NEW 0d SpeedyApply; Boston, US / Barcelona / Toronto; Jun–Sep 2026 (3–6mo); Python + Docker + CI/CD + observability (Logfire); Bachelor's 3rd/4th year explicitly OK; secondary archetype (DevOps); no comp; skip unless DevOps track desired
+
+### Skipped — scan-v189
+- Adobe AI/ML Intern R160428 (Workday, 0d SpeedyApply AI) — 503 inaccessible; Adobe ML pattern (R158493/R160469/R160621) all Masters req ~2.8/5; skipped_score
+- UnlikelyAI SW Intern `a0f38397` (Ashby websearch) — 403 inaccessible; prior company listing was London UK (v98 skipped_location); skip
+- NVIDIA JAX Fall 2026 (0d SpeedyApply SWE) — confirmed dup v187 (Fall 2026 semester conflict)
+- Verkada AI SWE Fall 2026 `5117760007` (0d SpeedyApply SWE) — confirmed dup Apr 24 v186 (Fall semester conflict, in pipeline)
+- Altom Transport, Aptiv, Axway, KBR, Leidos, CACI, GDMS, Thales, Blackpoint SkillBridge (SpeedyApply SWE 0d-1d) — defense/automotive/hardware/military domain; skip
+- Cadence Circuit Simulation, Onto Innovation, General Dynamics (SpeedyApply SWE 1d) — EDA/hardware/defense; skip
+- Rainmaker (Lever, 0d SpeedyApply SWE) — El Segundo CA; unverified company; skip
+- Vital Lyfe (Ashby, 0d SpeedyApply SWE) — LA health tech; not primary archetype; skip
+- All other 40+ Greenhouse/Ashby/Lever URLs from WebSearch — confirmed dup vs scan history v7-v188 (Notion/Cohere/Sentry/Giga/Farsight/Delinea/Cloudflare/Together AI/Symmetry/Shield AI/Artera/Voleon/Veeva/Best Egg/SoloPulse/Censys/Datacor/iCapital/Loop/Kikoff/Scale AI/Replit/Whatnot/Benchling/Quora/Zip/Airtable/DoorDash ML Masters)
+
+<!-- === END 2026-04-25 SCAN v189 === -->
+
 <!-- === NEW 2026-04-25 SCAN v186 (Autonomous Agent — Broad sweep: Greenhouse APIs (cerebrassystems + 10 tracked cos), WebSearch 25+ queries (Ashby/Greenhouse/Lever/Workday/GitHub speedyapply SWE+AI repos), cybersecurity companies (Wiz/PAN/SentinelOne/Tenable), fintech/consulting (Goldman/JPMorgan/MS/Affirm/Stripe/Plaid), AI-native companies (Perplexity/Groq/Cerebras), defense/semiconductor (Anduril/NVIDIA Fall 2026); 3,840+ entry history dedup'd; 2 genuinely new URLs discovered: Cerebras AI Eng Intern Growth Team 4.5/5 (EVALUATED → #416) + Verkada AI SWE Fall 2026 (added pending); 0 below-threshold added; 185 prior scans confirmed saturated — only fresh board (cerebrassystems vs earlytalentcerebras) yielded new result) === -->
 <!-- 1 new evaluated ≥4.0 (#416 Cerebras 4.5/5). 1 new listing added pending. -->
 
