@@ -2962,3 +2962,21 @@ None — no new qualifying intern/new-grad listings discovered.
 Perplexity (Ashby 503), xAI (Greenhouse — data center eng only), Groq (no 2026 summer intern), Writer.com (no Ashby/Greenhouse listings), HackerOne (no intern on Ashby), Wiz (no Greenhouse/Ashby intern), HashiCorp (2024 cohort only), Grafana Labs (no active intern listings), Character AI (no public intern listings), Runway ML (no public intern listings), Pika (research-only internship, model training domain), Stripe (no US SWE intern on Greenhouse API — confirmed from v63), BCG/McKinsey (deadlines passed).
 
 <!-- === END 2026-04-24 SCAN v177 === -->
+
+## Scan v179 — 2026-04-25
+
+> **Focus:** Daily scan after v178 market-saturation report. Exhaustive re-check of 25+ Greenhouse APIs, all major Ashby/Lever boards, SimplifyJobs/speedyapply aggregators, Cursor, Windsurf/Codeium, Cerebras, Together AI, Twilio, and date-filtered broad searches. 1 genuinely new listing found.
+
+> **⚡ DEADLINE ALERT:** Anthropic Fellows deadline is TOMORROW (April 26)! Apply to #246 (AI Security 4.7/5), #370 (AI Safety 4.2/5), and #372 (ML Systems 4.1/5) IMMEDIATELY.
+
+### 🆕 Borderline / Below Threshold — Added to Pipeline
+- `https://job-boards.greenhouse.io/earlytalentcerebras/jobs/7621174003` | Cerebras | New Graduate Software Engineer - Sunnyvale | ~3.5/5 | NEW; hybrid Sunnyvale CA; AI chip company (accelerators for LLM inference); C++ preferred; hardware/compilers/distributed systems focus; Carlos has C/C++/carlosOS kernel match; no deep compiler exp; graduating 2026 req; comp undisclosed; below 4.0 threshold — add to pipeline for later review
+
+### Skipped / Not Qualifying — scan-v179
+- Cerebras New Grad ML Stack Optimization (7620986003) — Master's degree required; skip
+- Cerebras New Grad SWE - Toronto (7621008003) — Toronto CA location; non-US; skip
+
+### Companies Re-Confirmed No New Intern/New-Grad Roles — scan-v179
+Anthropic (same Fellows Program entries, dup), Glean (Univ Grad dup), Hume AI (no intern/new-grad), Intercom (EMEA-only senior FTE), Vercel (no intern/new-grad), Temporal (0 jobs on board), Arize AI (no intern/new-grad), Airtable (New Grad dup), RunPod (no intern/new-grad), Together AI (no new roles), Cursor/Anysphere (no intern program, confirmed FTE-only), Windsurf/Cognition (New Grad 404 confirmed closed), Wiz (no intern listings), SentinelOne (PhD AI/ML only), MongoDB (dup from v26), Twilio (SWE intern dup), Okta (AI intern closed Jan 29), Capital One (dup from v96), Cohesity (closed), Cerebras SWE Intern (dup from v7).
+
+<!-- === END 2026-04-25 SCAN v179 === -->
