@@ -1,5 +1,27 @@
 # Pipeline -- Pending URLs
 
+<!-- === NEW 2026-04-25 SCAN v183 (Autonomous Agent — Level 2 Greenhouse APIs: Anthropic/Glean/Vercel/Airtable/Arize AI/Temporal/Hume AI/RunPod/Intercom/Twilio; Level 3 WebSearch: 20+ queries (Ashby/Greenhouse/Lever/SimplifyJobs/speedyapply/Extern/Wellfound/YC); 1,816 unique URLs dedup'd from 3,803-entry history; 18 genuinely new URLs discovered; 16 skipped (senior FTE/non-technical/EU/wrong domain/HR role/wrong seniority); 2 new listings added to pipeline; 0 qualifying ≥4.0; market FULLY SATURATED at 3,821 entries after 183 scans; ⚡ DEADLINE TODAY APR 26: Anthropic Fellows AI Security #246 (4.7/5) + AI Safety #370 (4.2/5) + ML Systems #372 (4.1/5) — APPLY NOW) === -->
+<!-- 0 new evaluated ≥4.0. 2 new listings added below threshold. ⚡ TODAY: Anthropic Fellows deadlines Apr 26 — apply immediately. -->
+
+### New additions — scan-v183 (pending evaluation, below threshold)
+- [ ] https://job-boards.greenhouse.io/verkada/jobs/5026072007 | Verkada | Security Software Engineer, University Graduate 2026 | ~3.8/5 | New Greenhouse ID (4872797007 previously in history); on-site San Mateo CA; HMAC/TLS/OAuth/adversarial LLM = strong security match; new grad level; verify graduation requirements and comp before applying
+- [ ] https://jobs.ashbyhq.com/safetykit/c619ef1d-7096-4bcc-9641-4ee49268c50b | SafetyKit | Applied AI Engineer | ~3.5/5 | Full-time mid-level FTE (not intern); AI safety startup (clients Character.ai/Substack/Upwork); adversarial web crawling + LLM red-teaming + model evals = exact Carlos archetype; SF CA; verify whether recent grads eligible given mid-level tag; $12.5K-$16.5K/mo per Extern
+
+### Skipped — scan-v183
+- Twilio non-SWE interns (Analyst Relations/GTM Analyst/Graphic Design/Video Producer/Technical Video Content) — skipped_title; non-technical roles
+- Twilio Developer Advocacy Intern (7728956) — skipped_title; DevRel not SWE/security engineering archetype
+- Twilio Staff Engineer AI Security (7821462) — skipped_title; Staff FTE level, not intern/new grad
+- Arize AI DevOps Release Manager (5979510004) — skipped_title; senior FTE, not intern
+- Airtable SWE Product Backend 4-8 YOE (8397515002) — skipped_title; senior FTE, not intern/new grad
+- Intercom AI Infrastructure Engineer London/Berlin (7824137/7824142) — skipped_title; EU locations only
+- Anthropic Applied AI Architect Commercial (5192805008) — skipped_title; senior FTE
+- Schonfeld Campus Recruiting AI Innovation Sophomore (7609105) — skipped_title; HR role for sophomores (class of 2028), not SWE
+- Southern Poverty Law Center Cloud Engineer Intern (8382728002) — skipped_title; nonprofit domain mismatch
+- Techtorch Applied AI Engineer (Ashby db0fbeb2) — skipped_closed; page failed to load JD content
+- Stripe Backend Engineer AI Security (gh_jid=7826765) — skipped_title; senior FTE
+
+<!-- === END 2026-04-25 SCAN v183 === -->
+
 <!-- === NEW 2026-04-25 SCAN v180 (Autonomous Agent — Full market sweep: 8 WebSearch queries (Ashby/Greenhouse/Lever/YC/SimplifyJobs/SpeedyApply broad); all results confirmed dups vs 3,781-entry history (v7-v179); 0 genuinely new URLs outside existing pipeline; 2 pipeline items from Apr 24 evaluated: Actian AI Security Intern 4.0/5 → REPORT #414; Ramp Backend SWE Intern 4.1/5 → REPORT #415; remaining Apr 24 pipeline items scored below 4.0: Lambda ML Research ~3.0/5, Plaid ~3.5/5, Palantir DC ~3.5/5, Cerebras ~3.5/5, Bandwidth ~3.2/5, Verisign CLOSED, Gemini CLOSED; market FULLY SATURATED at 3,791+ entries after 180 consecutive scans) === -->
 <!-- 2 evaluated ≥4.0/5 (report #414 Actian AI Security Intern 4.0, report #415 Ramp Backend SWE 4.1). 0 new URLs added. -->
 <!-- ⚡ CRITICAL DEADLINE TOMORROW APR 26: Anthropic Fellows AI Security #246 (4.7/5) + AI Safety #370 (4.2/5) + ML Systems #372 (4.1/5) — APPLY IMMEDIATELY. -->

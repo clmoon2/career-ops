@@ -1,90 +1,110 @@
-# Portal Scan — 2026-04-25 (v182)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Portal Scan — 2026-04-25 (v183)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan run:** Autonomous agent scan v182  
-**Date:** 2026-04-25  
-**Scan history entries:** 3,803+
-
----
-
-## Summary
-
-```
-Portal Scan — 2026-04-25 (v182)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Portals / sources scanned:    25+
-Companies checked:            40+
-New URLs discovered:          1
-Filtered (non-target):        8
-Duplicates (181 prior scans): ~200+
-New added to pipeline.md:     1
-
-  + Twilio | Software Engineer Intern (22nd June – 11th September) | Remote US | $47-50/hr | ~3.5/5
-
-→ 0 new qualifying listings (≥4.0). Market fully saturated.
-```
+**Scan run:** v183 (autonomous agent)
+**Total history size:** 3,823 entries (1,816 unique URLs)
 
 ---
 
-## New Listings Found
+## Coverage
 
-| Company | Role | Location | Comp | Score | URL |
-|---------|------|----------|------|-------|-----|
-| Twilio | Software Engineer Intern (Summer 2026) | Remote US | $47-50/hr | 3.5/5 | [link](https://job-boards.greenhouse.io/twilio/jobs/7850821) |
+### Level 2 — Greenhouse APIs (10 companies)
+- Anthropic · Glean · Vercel · Airtable · Arize AI · Temporal (empty) · Hume AI · RunPod · Intercom · Twilio
 
-**Twilio ~3.5/5 assessment:** Remote US, June 22 – Sept 11, $47-50/hr. Distributed computing + real-time DSP + distributed messaging focus. Carlos's Finch backend (35K-line Python, 46 API routes, AWS/Docker/async orchestration) is a strong SWE match. The role's focus on voice/telecom infrastructure (audio DSP, virtualization) is a domain stretch vs Carlos's AI/security primary archetypes. Below 4.0 threshold — added to pipeline for optional consideration.
-
----
-
-## Top Matches ≥4.0 This Scan
-
-**None.** The market for Summer 2026 internships and 2026 new grad roles is fully saturated at 3,803+ scanned listings after 182 autonomous scan runs.
-
----
-
-## Scan Coverage (v182 fresh angles)
-
-Specifically checked in v182 (beyond v181 scope):
-- **SimplifyJobs README latest 30** — Chamberlain/ABB/Leidos/CACI/GDMS/Thales/Tencent — all non-target or dup
-- **SpeedyApply AI latest 20** — Pinterest PhD-only/Bosch dup/HelloFresh dup/Labcorp medical/Schonfeld HR/Armada dup/Cobalt dup/Axiomatic AI research (non-SWE)
-- **Greenhouse API: Twilio** — found new URL 7850821 (distinct from existing 7560246); new summer cohort posting
-- **TIFIN AI Engineering Intern** — URL resolves to blank careers page; listing appears closed
-- **Cerebras Growth Team intern** (token 7713841003) — redirects to existing board entries (dups)
-- **YC W26 startups**, AI security firms (Crusoe/Adaptive/Cobalt), defense tech (Anduril/Palantir new DC track), FAANG (Apple/Meta/Google careers pages)
-- **Multiple Lever/Ashby/Greenhouse WebSearch** variations with exclusion filters
-
-**Companies re-confirmed no new roles:** Anthropic, Glean, Hume AI, Intercom, Vercel, Temporal, Arize AI, Airtable, RunPod, Together AI, Cursor, Windsurf, Wiz, SentinelOne, MongoDB, Okta, Capital One, Cerebras, Cobalt.io, Armada, Scale AI, Sigma Computing, DV Trading, Cloudflare, Verkada, Anduril, Palantir (existing tracks only)
+### Level 3 — WebSearch (20+ queries)
+- Ashby broad (intern 2026 SWE/AI/security/backend/DevOps)
+- Greenhouse broad (intern summer 2026 SWE/security/AI/DevOps)
+- Lever broad (intern 2026 SWE/security/backend)
+- New grad / university grad 2026 cross-portal
+- Fall 2026 internships (Ashby/Greenhouse/Lever)
+- AI/ML intern summer 2026 (Ashby/Greenhouse)
+- Consulting/technology intern 2026
+- SpeedyApply AI repo (GitHub raw)
+- Extern article (Summer 2026 still open)
+- Wellfound (startup interns)
+- Y Combinator jobs
+- SafetyKit / Brain Co / individual company searches
 
 ---
 
-## ⚡ CRITICAL DEADLINE — TOMORROW (April 26)
+## Results
 
-**These three Anthropic Fellows tracks close TOMORROW:**
+| Metric | Count |
+|--------|-------|
+| Queries / API calls executed | 28 |
+| URLs discovered (total) | 18 new (not in 3,803-entry history) |
+| Filtered by title (non-SWE/senior FTE/EU/domain) | 16 |
+| Duplicate | 0 |
+| **New listings added to pipeline** | **2** |
+| Qualifying ≥ 4.0/5 | **0** |
 
-| # | Role | Score | Deadline |
-|---|------|-------|----------|
-| 246 | Anthropic Fellows — AI Security | **4.7/5** | ⚠️ APR 26 |
-| 370 | Anthropic Fellows — AI Safety | **4.2/5** | ⚠️ APR 26 |
-| 372 | Anthropic Fellows — ML Systems & Performance | **4.1/5** | ⚠️ APR 26 |
+---
 
-**APPLY TO ALL THREE IMMEDIATELY.**
+## New Listings Added to Pipeline
+
+Neither meets the ≥4.0 threshold for a full report, but both are worth reviewing:
+
+### 1. Verkada — Security Software Engineer, University Graduate 2026
+- **URL:** https://job-boards.greenhouse.io/verkada/jobs/5026072007
+- **Score:** ~3.8/5
+- **Location:** San Mateo, CA (on-site)
+- **Type:** Full-time new grad (university graduate)
+- **Why it passed:** New Greenhouse job ID (previous 4872797007 was in history). HMAC-SHA256 CSRF + TLS 1.2/1.3 + OAuth proxy + adversarial LLM testing = direct security engineering match.
+- **Concerns:** On-site only San Mateo CA; physical security camera domain less AI-first than primary archetype; verify graduation timeline eligibility.
+
+### 2. SafetyKit — Applied AI Engineer
+- **URL:** https://jobs.ashbyhq.com/safetykit/c619ef1d-7096-4bcc-9641-4ee49268c50b
+- **Score:** ~3.5/5
+- **Location:** San Francisco, CA (full-time)
+- **Type:** Full-time mid-level FTE (NOT an internship)
+- **Why it passed:** AI safety startup (clients: Character.ai, Substack, Upwork, Faire, Eventbrite). Role involves adversarial web crawling, weapons identification, LLM red-teaming, model evals — directly aligned with Carlos's adversarial LLM testing background. Extern listed compensation at $12,500–$16,500/mo.
+- **Concerns:** Mid-level FTE; still currently enrolled student. Exceptional production background (35K-line live SaaS + Finch co-founder) may make Carlos competitive anyway. Verify if new grads / upcoming grads are eligible.
+
+---
+
+## Notable Skips
+
+| Company | Role | Reason |
+|---------|------|--------|
+| Twilio (x6) | Analyst Relations / GTM Analyst / Graphic Design / Video Producer / Technical Video / Developer Advocacy Intern | Non-technical or DevRel, not SWE/security |
+| Twilio | Staff Engineer, AI Security | Staff FTE level |
+| Arize AI | DevOps Release Manager | Senior FTE |
+| Airtable | SWE Product Backend (4-8 YOE) | Senior FTE |
+| Intercom (x2) | AI Infrastructure Engineer London/Berlin | EU locations only |
+| Anthropic | Applied AI Architect, Commercial | Senior FTE |
+| Stripe | Backend Engineer, AI Security | Senior FTE |
+| Schonfeld | Campus Recruiting AI Innovation Sophomore | HR/recruiting role, sophomores (class 2028) only |
+| SPLC | Cloud Engineer Intern | Nonprofit domain mismatch |
+| Techtorch | Applied AI Engineer | JD page failed to load |
+
+---
+
+## Market Assessment
+
+**Market is FULLY SATURATED** at 3,821+ entries after 183 consecutive scans. The Summer 2026 intern cycle is effectively closed for most well-known tech companies. The marginal return on additional broad scanning is very low.
+
+**Remaining opportunities:**
+1. **Fall 2026 internships** are opening now — Notion, Zip, Sentry, Verkada, Mercury, OpenAI all have active Fall 2026 intern listings (all already in pipeline from prior scans).
+2. **New grad FTE roles** for May/Dec 2026 graduates are the primary remaining market.
+3. **Very small/new startups** (YC W26 batch, seed-stage) may still be posting rolling.
+
+---
+
+## Critical Deadlines
+
+⚡ **TODAY — April 26, 2026:**
+- **Anthropic Fellows — AI Security** (#246 · 4.7/5) — Apply now
+- **Anthropic Fellows — AI Safety** (#370 · 4.2/5) — Apply now
+- **Anthropic Fellows — ML Systems & Performance** (#372 · 4.1/5) — Apply now
 
 ---
 
 ## Recommended Next Actions
 
-1. **⚡ APPLY NOW (deadline TOMORROW Apr 26):**
-   - Anthropic Fellows AI Security #246 (4.7/5) — highest score in entire pipeline
-   - Anthropic Fellows AI Safety #370 (4.2/5)
-   - Anthropic Fellows ML Systems #372 (4.1/5)
+1. **Apply to Anthropic Fellows today** — Deadline is April 26. Highest-scored open items in the pipeline.
+2. **Evaluate Verkada Security New Grad** — Below threshold but security engineering match is strong; worth reviewing before applying.
+3. **Check SafetyKit eligibility** — Visit the listing directly; if they consider exceptional new grads / upcoming grads, this is a strong archetype match.
+4. **Review remaining open pipeline items** — Several items from prior scans (v174-v176) remain unevaluated: Schonfeld Cybersecurity #3.8, Aquatic Capital #3.8, Lambda ML Research #3.7, Handshake AI/ML #3.6, Robinhood Security Risk #3.5.
+5. **Shift focus to Fall 2026 / New Grad** — Summer 2026 cycle is effectively done. Consider prioritizing Fall 2026 internships (Notion, OpenAI, Mercury, Sentry) and new grad FTE roles.
 
-2. **Apply soon (high score, still open):**
-   - Replit New Grad #382 (4.5/5) — verify graduation window first
-   - 1Password Extension Excellence #366 (4.3/5) — Chrome MV3 exact match
-   - Netflix SWE Intern #391 (4.2/5) — May/Jun start approaching
-   - Rakuten Advertising AI Engineer Intern #373 (4.2/5) — Jun-Aug, San Mateo
-
-3. **New pipeline addition:**
-   - Twilio SWE Intern (7850821, ~3.5/5) — Remote US $47-50/hr, June 22-Sept 11; consider as backup option
-
-4. **Market status:** Fully saturated at 3,803+ entries. Future scans unlikely to yield new qualifying Summer 2026 listings. Recommend shifting focus from scanning to applying on existing high-score pipeline items.
+→ Run `/career-ops pipeline` to evaluate pending items.
