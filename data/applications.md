@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 414 | 2026-04-25 | Actian | AI Security Intern | 4.0/5 | Evaluada | ❌ | [414](reports/414-actian-ai-security-intern-2026-04-25.md) | Remote+Austin TX orientation; 12wks Jun 8; LLM red team+prompt injection exact CV match; verify comp before accepting |
 | 411 | 2026-04-24 | Zscaler | Summer 2026 Technical Internship | 4.0/5 | Evaluada | ❌ | [411](reports/411-zscaler-technical-internship-2026-04-24.md) | San Jose CA hybrid 12wks; cloud security leader; threat detection or SWE track; comp undisclosed est $35-55/hr; verify comp before accepting |
 | 412 | 2026-04-24 | Symmetry Systems | Full Stack Software Engineer Intern (Summer 2026) | 4.0/5 | Evaluada | ❌ | [412](reports/412-symmetry-systems-fullstack-intern-2026-04-24.md) | Remote US; Data+AI Security (DSPM); adversarial LLM testing + full stack = dual archetype match; comp undisclosed — verify before applying |
 | 413 | 2026-04-24 | C3 AI | Software Engineer Intern (Summer 2026) | 4.1/5 | Evaluada | ❌ | [413](reports/413-c3ai-ascend-swe-intern-2026-04-24.md) | Redwood City CA on-site; $6K-$8K/mo; 5 months May-Sep; Python + enterprise AI = Finch exact match; relocation required; apply |

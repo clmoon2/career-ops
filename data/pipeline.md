@@ -1,5 +1,15 @@
 # Pipeline -- Pending URLs
 
+<!-- === NEW 2026-04-25 SCAN v180 (Autonomous Agent — Full market sweep: 8 WebSearch queries (Ashby/Greenhouse/Lever/YC/SimplifyJobs/SpeedyApply broad); all results confirmed dups vs 3,781-entry history (v7-v179); 0 genuinely new URLs outside existing pipeline; 2 pipeline items from Apr 24 evaluated: Actian AI Security Intern 4.0/5 → REPORT #414; Ramp Backend SWE Intern 4.1/5 → REPORT #415; remaining Apr 24 pipeline items scored below 4.0: Lambda ML Research ~3.0/5, Plaid ~3.5/5, Palantir DC ~3.5/5, Cerebras ~3.5/5, Bandwidth ~3.2/5, Verisign CLOSED, Gemini CLOSED; market FULLY SATURATED at 3,791+ entries after 180 consecutive scans) === -->
+<!-- 2 evaluated ≥4.0/5 (report #414 Actian AI Security Intern 4.0, report #415 Ramp Backend SWE 4.1). 0 new URLs added. -->
+<!-- ⚡ CRITICAL DEADLINE TOMORROW APR 26: Anthropic Fellows AI Security #246 (4.7/5) + AI Safety #370 (4.2/5) + ML Systems #372 (4.1/5) — APPLY IMMEDIATELY. -->
+
+### Evaluated — scan-v180
+- [x] https://jobs.lever.co/actian/21624589-9c91-48ca-bce7-ba4d0bb9a868 | Actian | AI Security Intern | **4.0/5** | Remote+Austin TX orientation; 12wks Jun 8; LLM red team+prompt injection exact CV match; verify comp; [EVALUATED — report #414]
+- [x] https://jobs.ashbyhq.com/ramp/c50962b5-c641-4d44-bbe5-7f1d6e7ce51f | Ramp | Software Engineer Internship, Backend | **4.1/5** | $11K/mo+housing; NYC/SF; Flask/Python/Elixir/AWS/PostgreSQL; 12-16wks; different from FDE #341 (4.5) — apply both; [EVALUATED — report #415]
+
+<!-- === END 2026-04-25 SCAN v180 === -->
+
 <!-- === NEW 2026-04-24 SCAN v178 (Autonomous Agent — Exhaustive market sweep after 177 prior scans; SimplifyJobs 0-3d: ABB Robotics (2.0/5 robotics domain) + Tencent gaming + HelloFresh dup + Chamberlain dup + Fortinet dup; SpeedyApply AI 0-2d: Schonfeld HR role + Pinterest PhD + Lattice Semi not found; Greenhouse APIs: Anthropic STEM Fellow (PhD req) + Economics Fellow (econ focus) both skip; Ashby/Lever/GitHub broad: all dup v7-v177; jobright-ai New Grad: Procore Ruby-stack 2.5/5 + Roblox dup; 1 new below-threshold addition (Palantir DC); MARKET FULLY SATURATED; 0 new qualifying ≥4.0) === -->
 <!-- 0 new evaluated ≥4.0/5. 1 new below-threshold addition. -->
 <!-- ⚡ DEADLINE APRIL 26 (2 DAYS): Anthropic Fellows AI Security #246 4.7/5 + AI Safety #370 4.2/5 + ML Systems #372 4.1/5 — APPLY IMMEDIATELY. -->
@@ -26,12 +36,12 @@
 - [ ] https://job-boards.greenhouse.io/schonfeld/jobs/7248075 | Schonfeld | 2026 Cybersecurity Operations Summer Intern | ~3.8/5 | Relisted (prev #243 removed); 10 wks; red team/blue team exercises; Python security automation; quant hedge fund security context; NYC; verify comp before applying
 - [ ] https://job-boards.greenhouse.io/bandwidth/jobs/7485269 | Bandwidth | DevSecOps Intern - Summer 2026 | ~3.8/5 | Relisted (prev #248 removed); DevSecOps + AppSec team; Python security tools; Carlos defense-in-depth = direct match; verify comp/location before applying
 - [ ] https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002 | Aquatic Capital Management | Software Engineer Intern (Summer 2026) | ~3.8/5 | Chicago/NYC quant firm; high-perf distributed systems; quant trading system (Bloomberg/Alpaca) = differentiator; C++ heavy, verify Python/SWE track exists
-- [ ] https://jobs.lever.co/actian/21624589-9c91-48ca-bce7-ba4d0bb9a868 | Actian | AI Security Intern | ~3.7/5 | 12-week June 8 start; AI governance + security controls; adversarial LLM testing + Python = match; verify US location and comp
+- [x] https://jobs.lever.co/actian/21624589-9c91-48ca-bce7-ba4d0bb9a868 | Actian | AI Security Intern | **4.0/5** | EVALUATED 2026-04-25 — report #414; verify comp before applying
 - [ ] https://jobs.ashbyhq.com/lambda/264f889c-38f4-42a5-9534-064a9512a3fe | Lambda | 2026 Machine Learning Research Intern | ~3.7/5 | Lambda Labs GPU cloud AI company; ML research orientation; Python/ML pipeline match; verify undergrad vs grad requirement
 - [ ] https://job-boards.greenhouse.io/verisign/jobs/7453354003 | Verisign | Summer 2026 Undergraduate Technical Internships | ~3.7/5 | DC metro area; DNS/network security; 10 wks full-time; Python + systems depth (carlosOS) = security engineer track; verify track options and comp
 - [ ] https://jobs.ashbyhq.com/handshake/eece422a-da6b-42e7-b694-3329e6ae4d6a | Handshake | AI/Machine Learning Engineer Intern | ~3.6/5 | May 18–Aug 7 or Jun 15–Sep 4 2026; career platform company; LLM/ML pipeline match; verify location and comp
 - [ ] https://job-boards.greenhouse.io/robinhood/jobs/7161061 | Robinhood | Security Risk Management Intern (Summer 2026) | ~3.5/5 | Relisted (prev #249 removed); Menlo Park 3d/wk; security risk + policy focus; adversarial LLM testing adjacent; less engineering-heavy than Carlos's primary archetype
-- [ ] https://jobs.ashbyhq.com/ramp/c50962b5-c641-4d44-bbe5-7f1d6e7ce51f | Ramp | Software Engineer Internship, Backend | ~3.7/5 | Different track from FDE Intern #341 (scored 4.5); backend engineering at Ramp; Python/TypeScript match; NYC/SF; strong company but FDE track (#341) is better fit
+- [x] https://jobs.ashbyhq.com/ramp/c50962b5-c641-4d44-bbe5-7f1d6e7ce51f | Ramp | Software Engineer Internship, Backend | **4.1/5** | EVALUATED 2026-04-25 — report #415; $11K/mo+housing; apply alongside FDE #341
 - [ ] https://job-boards.greenhouse.io/gemini/jobs/7360337 | Gemini | Security Engineering Intern (Summer 2026) | ~3.5/5 | NYC hybrid 12 wks; AppSec/infra/threat detection tracks; HMAC/TLS/OAuth match; ⚠️ Gemini = crypto exchange — company domain is Crypto but title is security engineering; apply if crypto brand not a concern
 
 ### Scored below threshold or skipped — scan-v176

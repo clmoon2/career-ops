@@ -1,122 +1,114 @@
-# Scan Summary — 2026-04-25 (v179)
-
-**Date:** 2026-04-25
-**Scan version:** v179 (autonomous agent)
-**Previous scan:** v178 (2026-04-24)
-
----
+# Portal Scan — 2026-04-25 (v180)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## Results
 
-```
-Portal Scan — 2026-04-25
-━━━━━━━━━━━━━━━━━━━━━━━━━━
-Sources checked:        25+ (Greenhouse APIs, Ashby, Lever, WebSearch, SimplifyJobs, speedyapply)
-Companies scanned:      30+
-Offers found total:     3,780+ (cumulative across all 179 scans)
-New listings this scan: 1
-New ≥4.0 quality:       0
-Added to pipeline:      1 (below threshold, ~3.5/5)
+| Metric | Count |
+|--------|-------|
+| Queries executed | 8 WebSearch + Greenhouse APIs |
+| URLs checked total (cumulative history) | 3,791 |
+| New URLs found (not in history) | 0 |
+| Pipeline items from Apr 24 evaluated | 9 |
+| Scored ≥ 4.0 → Reports filed | 2 |
+| Scored < 4.0 → Skipped | 7 |
+| Closed/invalid | 2 (Verisign, Gemini) |
 
-  + Cerebras | New Graduate Software Engineer - Sunnyvale | ~3.5/5
-    → https://job-boards.greenhouse.io/earlytalentcerebras/jobs/7621174003
-    → C++ preferred, hardware/AI accelerator systems focus; Carlos has carlosOS (C/C++/x86) but no compiler depth; below 4.0 floor
+---
 
-→ Market fully saturated at scan v179 (3,780+ history entries). No qualifying new ≥4.0 roles found.
-```
+## Portals Scanned
+
+- **Ashby** — jobs.ashbyhq.com: Giga, Notion, Cohere, Superhuman, Zip, Air Space Intelligence, Replit, OpenAI (all dup v7-v179)
+- **Greenhouse** — job-boards.greenhouse.io: Cloudflare, Obsidian, DoorDash, Astranis, Scale AI, Affirm, Gusto, Figma (all dup v7-v179)
+- **Lever** — jobs.lever.co: Artera, Voleon, SoloPulse, BestEgg, NimbleRx, Palantir, Saronic, Versana (all dup v7-v179)
+- **YC / Work at a Startup** — SubImage, Swif.ai, Reacher, Cekura (closed), Chunkr, Mesh, Novaflow (all dup v30-v179)
+- **Greenhouse APIs** — Anthropic, Glean, HumeAI, Intercom, Vercel, Temporal, ArizeAI, Airtable, RunPod, TogetherAI (all checked v179, no new intern roles)
+- **SimplifyJobs / SpeedyApply / Jobright** — all entries confirmed dup from previous scans
+
+**Market status: FULLY SATURATED** after 180 consecutive exhaustive scans. 3,791 total entries in scan history.
+
+---
+
+## New Listings Added to Pipeline
+
+*0 new URLs added — all search results are duplicates from prior scans (v7-v179).*
+
+---
+
+## Evaluations — April 24-25 Pipeline Items
+
+### ⭐ Score ≥ 4.0 → Reports Filed
+
+| # | Company | Role | Score | Key Reason |
+|---|---------|------|-------|-----------|
+| 414 | **Actian** | AI Security Intern | **4.0/5** | Remote+Austin TX; LLM red team/prompt injection/OWASP Top 10 for LLMs = exact adversarial testing CV match; 12wks Jun 8 |
+| 415 | **Ramp** | Software Engineer Internship, Backend | **4.1/5** | $11K/mo+housing; Flask/Python/AWS/PostgreSQL = Finch exact stack; different from FDE #341 |
+
+### Below Threshold (< 4.0)
+
+| Company | Role | Score | Reason |
+|---------|------|-------|--------|
+| Lambda Labs | 2026 ML Research Intern | ~3.0/5 | Research/publications orientation; SF 4d/wk |
+| Plaid | SWE Intern (Summer 2026) | ~3.5/5 | Fintech banking data; no AI focus; Python/TS match but below archetype |
+| Palantir | Year at Palantir (Washington DC) | ~3.5/5 | Same program as #288 (4.1/5 NYC); DC less preferred |
+| Cerebras | New Graduate SWE - Sunnyvale | ~3.5/5 | C++ preferred; AI accelerator/hardware focus |
+| Bandwidth | DevSecOps Intern Summer 2026 | ~3.2/5 | Telecom domain; not AI-first; Raleigh NC |
+| Verisign | Summer 2026 Technical Internships | CLOSED | Page shows FTE-only; no active intern listing |
+| Gemini | Security Engineering Intern | CLOSED | Previously confirmed closed |
+
+---
+
+## Top Active Listings by Score (for reference)
+
+| # | Company | Role | Score | Status |
+|---|---------|------|-------|--------|
+| 347 | Cloudflare | SWE Intern (Summer 2026) – Austin | 4.8/5 | Evaluada |
+| 304 | Mechanize | SWE Intern | 4.6/5 | Evaluada |
+| 298 | Haize Labs | SWE Intern | 4.7/5 | Evaluada |
+| 294 | Cloudflare | Security Engineer Intern | 4.7/5 | Evaluada |
+| 246 | Anthropic | Fellows Program — AI Security | 4.7/5 | Evaluada |
+| 341 | Ramp | SWE Internship - Forward Deployed | 4.5/5 | Evaluada |
+| 334 | Together AI | Security Engineer Intern | 4.5/5 | Evaluada |
+| 355 | Atlassian | Security Engineer Intern | 4.5/5 | Evaluada |
+| 382 | Replit | SWE New Grad | 4.5/5 | Evaluada |
+| 357 | Browser Use | Summer SWE Intern | 4.4/5 | Evaluada |
+| 305 | Decagon | Agent SWE Intern | 4.4/5 | Evaluada |
 
 ---
 
 ## ⚡ CRITICAL: Anthropic Fellows Deadline TOMORROW (April 26)
 
-**Three tracks still open — apply TODAY:**
+Three Anthropic Fellows tracks close **TOMORROW April 26, 2026**:
 
-| # | Role | Score | Deadline |
-|---|------|-------|----------|
-| #246 | Anthropic Fellows — AI Security | **4.7/5** | ⚠️ APRIL 26 |
-| #370 | Anthropic Fellows — AI Safety | **4.2/5** | ⚠️ APRIL 26 |
-| #372 | Anthropic Fellows — ML Systems & Performance | **4.1/5** | ⚠️ APRIL 26 |
+| # | Track | Score | Comp |
+|---|-------|-------|------|
+| 246 | **AI Security** | 4.7/5 | $3,850/wk + $15K/mo compute |
+| 370 | **AI Safety** | 4.2/5 | $3,850/wk + $15K/mo compute |
+| 372 | **ML Systems & Performance** | 4.1/5 | $3,850/wk + $15K/mo compute |
 
-**Compensation:** $3,850/week + $15,000/month compute credits. 4-month program starting July 2026.
-**Apply via:** https://job-boards.greenhouse.io/anthropic (search "Fellows")
-
----
-
-## Sources Scanned
-
-### Greenhouse APIs (11 boards)
-| Company | Result |
-|---------|--------|
-| Anthropic | Same Fellows entries — dup |
-| Glean | Univ Grad dup |
-| Hume AI | No intern/new-grad roles |
-| Intercom | EMEA senior FTE only |
-| Vercel | No intern/new-grad |
-| Temporal | 0 jobs (empty board) |
-| Arize AI | All senior FTE |
-| Airtable | New Grad dup |
-| RunPod | No intern/new-grad |
-| Together AI | No new roles |
-| **Cerebras** | **NEW: New Grad SWE Sunnyvale ~3.5/5 → added to pipeline** |
-
-### WebSearch Queries (15+)
-- site:job-boards.greenhouse.io intern summer 2026 AI/security/backend
-- site:jobs.ashbyhq.com intern summer 2026 AI/security/fullstack
-- site:jobs.lever.co SWE/security intern summer 2026
-- "new grad" software engineer 2026 Ashby/Greenhouse
-- SimplifyJobs Summer 2026 latest additions (0-2 days old)
-- speedyapply 2026-SWE-College-Jobs latest
-- Date-filtered: "summer 2026 intern" posted April 2026
-
-### New Companies Checked (not in portals.yml)
-| Company | Result |
-|---------|--------|
-| Cursor (Anysphere) | No intern program (FTE only, confirmed v179) |
-| Windsurf (Cognition) | New Grad SWE 404 confirmed closed |
-| Cerebras | **NEW: New Grad SWE Sunnyvale added** |
-| Wiz | No intern listings |
-| SentinelOne | AI/ML intern PhD-only |
-| MongoDB | Security intern dup from v26 |
-| Twilio | SWE intern dup |
-| Okta | AI intern closed Jan 29, 2026 |
-| Capital One | Cyber intern dup from v96 |
-| Cohesity | Intern listings closed |
-
----
-
-## Top Pending Applications (≥4.0, Not Yet Applied)
-
-Priority order by score + urgency:
-
-| # | Company | Role | Score | Urgency |
-|---|---------|------|-------|---------|
-| 246 | Anthropic | Fellows — AI Security | 4.7/5 | ⚡ DEADLINE APR 26 |
-| 304 | Mechanize | SWE Intern | 4.6/5 | Apply ASAP |
-| 347 | Cloudflare | SWE Intern (Austin) | 4.8/5 | Apply ASAP |
-| 334 | Together AI | Security Intern | 4.5/5 | Apply ASAP |
-| 294 | Cloudflare | Security Intern | 4.7/5 | Apply ASAP |
-| 298 | Haize Labs | SWE Intern | 4.7/5 | Apply ASAP |
-| 370 | Anthropic | Fellows — AI Safety | 4.2/5 | ⚡ DEADLINE APR 26 |
-| 372 | Anthropic | Fellows — ML Systems | 4.1/5 | ⚡ DEADLINE APR 26 |
-| 357 | Browser Use | SWE Intern | 4.4/5 | Apply soon |
-| 305 | Decagon | Agent SWE Intern | 4.4/5 | Apply soon |
-
----
-
-## Market Assessment
-
-After 179 scan runs covering 3,780+ job listings, the Summer 2026 internship market is **fully saturated** from a discovery standpoint. The scan cadence can now shift to:
-
-1. **Apply to existing high-score evaluations** — highest-leverage action
-2. **Monitor for new postings** weekly rather than daily (1 new listing per day max expected)
-3. **Focus on the Anthropic Fellows deadline** — 24 hours left as of this scan
+**Apply at: https://www.constellation.org/programs/anthropic-fellows**
+(Apply via Constellation, NOT Greenhouse)
 
 ---
 
 ## Recommended Next Actions
 
-1. **RIGHT NOW:** Apply to Anthropic Fellows AI Security (#246, 4.7/5) — deadline April 26
-2. **TODAY:** Apply to Anthropic Fellows AI Safety (#370) + ML Systems (#372)
-3. **This week:** Apply to Mechanize (#304, 4.6/5), Haize Labs (#298, 4.7/5), Cloudflare SWE Austin (#347, 4.8/5)
-4. **Pipeline:** Run `/career-ops pipeline` to evaluate the 1 new listing added (Cerebras New Grad ~3.5/5)
-5. **Next scan:** Shift to weekly cadence — daily scanning no longer yields meaningful new results
+1. **IMMEDIATE (today)**: Apply to Anthropic Fellows AI Security #246 (4.7/5). Deadline is April 26 — tomorrow.
+2. **Apply this week**: Cloudflare SWE Intern #347 (4.8/5) — Austin TX local, strongest overall match
+3. **Apply this week**: Cloudflare Security Engineer Intern #294 (4.7/5) — Austin TX, dual security track
+4. **Apply this week**: Together AI Security Engineer Intern #334 (4.5/5)
+5. **Verify comp then apply**: Actian AI Security Intern #414 (4.0/5) — starts June 8, remote
+6. **Apply alongside FDE #341**: Ramp Backend SWE Intern #415 (4.1/5) — same comp tier, different team
+7. **Check application status**: Use `/career-ops tracker` to review pending applications
+
+---
+
+## Scan Statistics
+
+- **Scan version:** v180
+- **Date:** 2026-04-25
+- **Previous scan:** v179 (2026-04-25 — Cerebras New Grad only find)
+- **Total scan history entries:** 3,791
+- **New entries this scan:** 10
+- **New pipeline additions:** 0 (pipeline fully saturated)
+- **Reports filed this scan:** 2 (#414 Actian, #415 Ramp Backend)
+- **Total evaluations to date:** 415
