@@ -3151,3 +3151,16 @@ All 181 prior tracked companies re-confirmed; Twilio only new URL (7850821) foun
 - **Arista Networks** — Network hardware focus; 2025/2026 cycle; 3.0/5 domain mismatch
 
 <!-- === END 2026-04-25 SCAN v187 === -->
+
+<!-- === NEW 2026-04-25 SCAN v188 (Autonomous Agent — Multi-source sweep: Greenhouse APIs (Anthropic/Glean/Vercel/Airtable/Arize/Temporal/RunPod/HumeAI/Intercom/PolyAI), Ashby broad (30+ tracked companies), Lever broad (12+ companies), Greenhouse broad WebSearch (20+ queries), SimplifyJobs 0d entries, HN Who is Hiring April 2026, jobright-ai Consultant repo; 20+ companies confirmed active; 3,876+ entry history dedup'd; ONLY 1 new URL: EA SWE Intern → skipped_title (Fall 2026 + Vancouver Canada — semester conflict + non-US work auth); 187 prior scans confirmed FULLY SATURATED; 0 new qualifying >=4.0; 0 new pipeline additions) === -->
+<!-- 0 new evaluated ≥4.0. 0 new listings added. Market fully saturated for Summer 2026 internship cycle. -->
+
+### Skipped — scan-v188
+- Electronic Arts SWE Intern (jobs.ea.com/210840) — Fall 2026 + Vancouver Canada; semester conflict + non-US; skipped_title
+- All 30+ Ashby companies — confirmed dup v7-v187
+- All 12+ Lever companies — confirmed dup v7-v187
+- All Greenhouse broad companies — confirmed dup v7-v187
+- Greenhouse APIs (Vercel/Airtable/Arize/Temporal/RunPod/HumeAI/Intercom/PolyAI) — all senior FTE or empty; no intern/new-grad
+- SimplifyJobs 0d: Cerebras (dup #416) + Twilio SWE (dup v182 ~3.5/5) + Leidos/IEM/Savannah River (non-target)
+
+<!-- === END 2026-04-25 SCAN v188 === -->
