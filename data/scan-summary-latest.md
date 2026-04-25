@@ -1,99 +1,90 @@
-# Portal Scan — 2026-04-25 (v181)
+# Portal Scan — 2026-04-25 (v182)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan run:** Autonomous agent scan v181  
+**Scan run:** Autonomous agent scan v182  
 **Date:** 2026-04-25  
-**Status:** Market fully saturated — 0 new qualifying roles
+**Scan history entries:** 3,803+
 
 ---
 
-## Results
+## Summary
 
-| Metric | Count |
-|--------|-------|
-| Portals / sources scanned | 30+ |
-| Total scan-history entries | 3,794 |
-| New URLs discovered | 3 |
-| New URLs added to pipeline | 0 |
-| Roles with score ≥ 4.0 | 0 |
-| Roles evaluated (full report) | 0 |
+```
+Portal Scan — 2026-04-25 (v182)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Portals / sources scanned:    25+
+Companies checked:            40+
+New URLs discovered:          1
+Filtered (non-target):        8
+Duplicates (181 prior scans): ~200+
+New added to pipeline.md:     1
 
----
+  + Twilio | Software Engineer Intern (22nd June – 11th September) | Remote US | $47-50/hr | ~3.5/5
 
-## Sources Checked
-
-**WebSearch queries (20+):**
-- Greenhouse: `site:job-boards.greenhouse.io` — security, AI, SWE intern 2026
-- Ashby: `site:jobs.ashbyhq.com` — intern 2026 SWE/security/ML
-- Lever: `site:jobs.lever.co` — intern 2026 SWE/security/AI
-- SimplifyJobs Summer2026 GitHub repo (latest additions)
-- SpeedyApply 2026-AI-College-Jobs repo (0-day additions)
-- SpeedyApply 2026-SWE-College-Jobs repo (0-day additions)
-- Y Combinator internships page
-- HN Who Is Hiring April 2026
-- Jobright.ai SWE/security intern 2026
-- New grad 2026 Greenhouse boards
-
-**Greenhouse APIs checked:**
-- Anthropic, Glean, Hume AI, Intercom, Vercel, Temporal, Arize AI, Airtable, RunPod, Together AI, Cerebras
+→ 0 new qualifying listings (≥4.0). Market fully saturated.
+```
 
 ---
 
-## New URLs Found (3) — All Closed
+## New Listings Found
 
-| Company | Role | URL | Status |
-|---------|------|-----|--------|
-| Rockstar Games | Intern: Security Engineering Automation (Summer 2026) | [greenhouse](https://job-boards.greenhouse.io/rsgur/jobs/7670953003) | CLOSED Apr 5 |
-| Rockstar Games | Intern: Application Security (Summer 2026) | [greenhouse](https://job-boards.greenhouse.io/rsgur/jobs/7670952003) | CLOSED Apr 5 |
-| Rockstar Games | Intern: Security Operations (Summer 2026) | [greenhouse](https://job-boards.greenhouse.io/rsgur/jobs/7670946003) | CLOSED Apr 5 |
+| Company | Role | Location | Comp | Score | URL |
+|---------|------|----------|------|-------|-----|
+| Twilio | Software Engineer Intern (Summer 2026) | Remote US | $47-50/hr | 3.5/5 | [link](https://job-boards.greenhouse.io/twilio/jobs/7850821) |
 
-**Note:** All three Rockstar Games security intern roles (NYC, 10 weeks Jun–Aug, Python focus) had application deadlines of **April 5, 2026** — 20 days before this scan. They would have scored ~3.8–4.0/5 for Carlos given the strong security + Python match, but are no longer actionable.
+**Twilio ~3.5/5 assessment:** Remote US, June 22 – Sept 11, $47-50/hr. Distributed computing + real-time DSP + distributed messaging focus. Carlos's Finch backend (35K-line Python, 46 API routes, AWS/Docker/async orchestration) is a strong SWE match. The role's focus on voice/telecom infrastructure (audio DSP, virtualization) is a domain stretch vs Carlos's AI/security primary archetypes. Below 4.0 threshold — added to pipeline for optional consideration.
 
 ---
 
-## Top Matches (score ≥ 4.0) — None New
+## Top Matches ≥4.0 This Scan
 
-No new qualifying roles discovered in this scan.
-
-**Current top evaluated reports for reference:**
-- **#246** — Anthropic Fellows AI Security (4.7/5) ⚡ **DEADLINE TOMORROW APR 26**
-- **#370** — Anthropic AI Safety Fellows (4.2/5) ⚡ **DEADLINE TOMORROW APR 26**
-- **#372** — Anthropic ML Systems Fellows (4.1/5) ⚡ **DEADLINE TOMORROW APR 26**
-- **#415** — Ramp Backend SWE Intern (4.1/5)
-- **#414** — Actian AI Security Intern (4.0/5)
-- **#408** — Netic ML Engineer Intern (4.0/5)
+**None.** The market for Summer 2026 internships and 2026 new grad roles is fully saturated at 3,803+ scanned listings after 182 autonomous scan runs.
 
 ---
 
-## Market Assessment
+## Scan Coverage (v182 fresh angles)
 
-After 181 scans and 3,794 scan-history entries, the Summer 2026 intern/new-grad market is **fully saturated**:
+Specifically checked in v182 (beyond v181 scope):
+- **SimplifyJobs README latest 30** — Chamberlain/ABB/Leidos/CACI/GDMS/Thales/Tencent — all non-target or dup
+- **SpeedyApply AI latest 20** — Pinterest PhD-only/Bosch dup/HelloFresh dup/Labcorp medical/Schonfeld HR/Armada dup/Cobalt dup/Axiomatic AI research (non-SWE)
+- **Greenhouse API: Twilio** — found new URL 7850821 (distinct from existing 7560246); new summer cohort posting
+- **TIFIN AI Engineering Intern** — URL resolves to blank careers page; listing appears closed
+- **Cerebras Growth Team intern** (token 7713841003) — redirects to existing board entries (dups)
+- **YC W26 startups**, AI security firms (Crusoe/Adaptive/Cobalt), defense tech (Anduril/Palantir new DC track), FAANG (Apple/Meta/Google careers pages)
+- **Multiple Lever/Ashby/Greenhouse WebSearch** variations with exclusion filters
 
-- All major ATS portals (Greenhouse, Ashby, Lever, Workday, iCIMS) exhaustively covered
-- All YC internship board, HN hiring threads, SimplifyJobs, SpeedyApply repos checked
-- Today's new aggregator additions are: defense contractors (GDMS, Thales, Raytheon), circuit simulation (Cadence), firmware (Zipline), and manufacturing — all below threshold or in negative-filter domains
-- Late-cycle postings continue to be either defense/non-target domains, below comp floor, require clearance, or require Masters/PhD
+**Companies re-confirmed no new roles:** Anthropic, Glean, Hume AI, Intercom, Vercel, Temporal, Arize AI, Airtable, RunPod, Together AI, Cursor, Windsurf, Wiz, SentinelOne, MongoDB, Okta, Capital One, Cerebras, Cobalt.io, Armada, Scale AI, Sigma Computing, DV Trading, Cloudflare, Verkada, Anduril, Palantir (existing tracks only)
 
 ---
 
-## ⚡ Critical Action Item
+## ⚡ CRITICAL DEADLINE — TOMORROW (April 26)
 
-**ANTHROPIC FELLOWS DEADLINE IS TOMORROW (APRIL 26, 2026).**
+**These three Anthropic Fellows tracks close TOMORROW:**
 
-Three evaluated reports with top scores are due tomorrow:
-1. **[#246] Anthropic Fellows — AI Security** — **4.7/5** — Apply immediately
-2. **[#370] Anthropic Fellows — AI Safety** — **4.2/5** — Apply immediately
-3. **[#372] Anthropic Fellows — ML Systems** — **4.1/5** — Apply immediately
+| # | Role | Score | Deadline |
+|---|------|-------|----------|
+| 246 | Anthropic Fellows — AI Security | **4.7/5** | ⚠️ APR 26 |
+| 370 | Anthropic Fellows — AI Safety | **4.2/5** | ⚠️ APR 26 |
+| 372 | Anthropic Fellows — ML Systems & Performance | **4.1/5** | ⚠️ APR 26 |
+
+**APPLY TO ALL THREE IMMEDIATELY.**
 
 ---
 
 ## Recommended Next Actions
 
-1. **APPLY TO ANTHROPIC FELLOWS TODAY** — deadline is April 26 (tomorrow). These are the highest-scored open roles in the entire pipeline.
-2. Run `/career-ops` to review the full pipeline of pending items (~1,100 unchecked items, mostly pre-scored 3.0–3.8)
-3. Consider running a final scan after April 26 to catch any new postings that open post-Anthropic-deadline
-4. The 2026 summer intern market window is effectively closed; focus energy on applying to open evaluated offers
+1. **⚡ APPLY NOW (deadline TOMORROW Apr 26):**
+   - Anthropic Fellows AI Security #246 (4.7/5) — highest score in entire pipeline
+   - Anthropic Fellows AI Safety #370 (4.2/5)
+   - Anthropic Fellows ML Systems #372 (4.1/5)
 
----
+2. **Apply soon (high score, still open):**
+   - Replit New Grad #382 (4.5/5) — verify graduation window first
+   - 1Password Extension Excellence #366 (4.3/5) — Chrome MV3 exact match
+   - Netflix SWE Intern #391 (4.2/5) — May/Jun start approaching
+   - Rakuten Advertising AI Engineer Intern #373 (4.2/5) — Jun-Aug, San Mateo
 
-*Generated by autonomous scan agent v181 · 2026-04-25*
+3. **New pipeline addition:**
+   - Twilio SWE Intern (7850821, ~3.5/5) — Remote US $47-50/hr, June 22-Sept 11; consider as backup option
+
+4. **Market status:** Fully saturated at 3,803+ entries. Future scans unlikely to yield new qualifying Summer 2026 listings. Recommend shifting focus from scanning to applying on existing high-score pipeline items.

@@ -2990,3 +2990,22 @@ Perplexity (Ashby 503), xAI (Greenhouse — data center eng only), Groq (no 2026
 Anthropic (same Fellows Program entries, dup), Glean (Univ Grad dup), Hume AI (no intern/new-grad), Intercom (EMEA-only senior FTE), Vercel (no intern/new-grad), Temporal (0 jobs on board), Arize AI (no intern/new-grad), Airtable (New Grad dup), RunPod (no intern/new-grad), Together AI (no new roles), Cursor/Anysphere (no intern program, confirmed FTE-only), Windsurf/Cognition (New Grad 404 confirmed closed), Wiz (no intern listings), SentinelOne (PhD AI/ML only), MongoDB (dup from v26), Twilio (SWE intern dup), Okta (AI intern closed Jan 29), Capital One (dup from v96), Cohesity (closed), Cerebras SWE Intern (dup from v7).
 
 <!-- === END 2026-04-25 SCAN v179 === -->
+
+## Scan v182 — 2026-04-25
+
+> **Focus:** Autonomous scan v182 — fresh angles after market saturation (181 prior scans). Checked YC W26 startups, AI security firms (Crusoe/Cobalt/Adaptive), defense tech (Anduril/Shield AI/Palantir new tracks), major FAANG (Apple/Meta/Google), SimplifyJobs README latest entries, speedyapply AI latest entries, Greenhouse APIs for Cerebras/Twilio, WebSearch across Ashby/Lever/Greenhouse with multiple query variations. 3,794+ prior entries in scan history.
+
+### 🆕 New — Added to Pipeline
+- `https://job-boards.greenhouse.io/twilio/jobs/7850821` | Twilio | Software Engineer Intern (22nd June - 11th September, remote-US) | ~3.5/5 | NEW URL; Remote US; $47-50/hr; June 22 – Sept 11; distributed computing, real-time DSP/audio, distributed messaging; Finch backend + async orchestration = strong SWE match; domain is telecom infrastructure not AI-first; below 4.0 threshold — add to pipeline for consideration
+
+### Skipped / Not Qualifying — scan-v182
+- TIFIN AI Engineering Intern (gh_jid=5981740004) — URL redirects to careers page only (listing closed or redirect broken); skip
+- Cerebras SWE Intern Sunnyvale (7621006003) — confirmed dup from scan-v8 (April 8); skip
+- Cerebras SWE Intern Toronto (7619297003) — confirmed dup from scan-v36 (April 11); non-US; skip
+- SimplifyJobs recent adds: Chamberlain Group (hardware domain)/ABB QA Canada (wrong country)/Tencent Game R&D (gaming domain)/Cadence (EDA domain)/Leidos (visualization/non-AI)/CACI (defense/non-AI-primary)/GDMS (defense)/Thales (defense) — all dup or non-target
+- SpeedyApply AI latest: Pinterest MS/PhD-only, Bosch AI R&D (dup), HelloFresh (dup), Labcorp (medical domain, non-target), Schonfeld (HR/ops role), Armada (dup v75), Cobalt.io (dup v176 — grad-level req 2.5/5), Axiomatic AI (AI scientific reasoning research — non-SWE-eng archetype)
+
+### Companies Re-Confirmed No New Intern/New-Grad Roles — scan-v182
+All 181 prior tracked companies re-confirmed; Twilio only new URL (7850821) found across 3,794+ history entries; market remains fully saturated.
+
+<!-- === END 2026-04-25 SCAN v182 === -->
