@@ -1,5 +1,22 @@
 # Pipeline -- Pending URLs
 
+<!-- === NEW 2026-04-25 SCAN v190 (Autonomous Agent — Level 2 Greenhouse APIs (Databricks/Cloudflare still 503; Scale AI back online — all 3 roles confirmed dup v7-v189); SpeedyApply SWE+AI (same as v189 — all confirmed dup); SimplifyJobs (all confirmed dup v7-v189); WebSearch 25+ queries (Ashby/Greenhouse/Lever/Workday/broad); Workday fresh scan (Kensho/S&P Global ML Intern 319677 GENUINELY NEW; Motorola R59959 likely closed Jan 2026; Adobe R160706 Masters-preferred pattern; GM/Workiva/Sensata all dup); Cloudflare new IDs (7359136 Research Eng requires publications ~2.5/5 skip; 7444764 Data Science ~3.0/5 skip); ByteDance/TikTok security (all dup: 7600176 Security Eng dup v41; Product Security #392 dup; Network Security dup); Dell under maintenance until May 4; consulting firms (Deloitte/PwC/EY summer 2026 apps closed); 3,899-entry history dedup'd; 1 genuinely new URL discovered (Kensho ML Intern ~3.8/5 below threshold, added to pipeline); 0 qualifying ≥4.0; market FULLY SATURATED at 3,900 entries after 190 scans) === -->
+<!-- 0 new evaluated ≥4.0. 1 new listing added (below threshold). -->
+
+### New additions — scan-v190 (pending evaluation, below threshold)
+- [ ] https://spgi.wd5.myworkdayjobs.com/en-US/Kensho_Careers/job/Machine-Learning-Intern---Summer-2026_319677-1 | Kensho (S&P Global) | Machine Learning Intern - Summer 2026 | ~3.8/5 | NEW v190; Cambridge MA or NYC on-site; ~$50-75/hr (Kensho SWE interns $75/hr Levels.fyi); Python+LangGraph+Pydantic AI+PyTorch; building GenAI platform+LLM apps+agentic systems+Kensho Extract; Bachelor's pursuing OK (not Masters required); financial data domain (S&P Global subsidiary); strong CV match (Finch multi-model 5-LLM pipeline+TidalHack 6-agent AutoGen+LangChain); borderline below 4.0 — evaluate if interested in financial data AI
+
+### Skipped — scan-v190
+- Kensho/SPGI_Careers board (319677 without -1 suffix) — same role as above, alternate portal URL; logged as dup of 319677-1
+- Cloudflare Research Engineer Intern 7359136 (Austin TX) — requires peer-reviewed research/publications; not Carlos's archetype; ~2.5/5; skip
+- Cloudflare Data Science Intern 7444764 — data science focus, not SWE/security/AI-engineering; ~3.0/5; skip
+- Motorola Solutions ML/AI Intern R59959 — reported removed Jan 2026 per job board; Schaumburg IL on-site; non-primary archetype; ~2.8/5; skip
+- Adobe R160706 ML Engineer/Researcher Intern — Adobe Firefly applied research; same Masters-preferred pattern as R158493/R160469/R160428; ~2.8/5; skip
+- Scale AI API (all 3 roles) — confirmed dup v7-v189 (SWE Intern 4606014, ML Research 4606060, AI Deployment Strategist 4677519)
+- ByteDance Security Engineering Intern 7600176 — confirmed dup v41; already in pipeline
+
+<!-- === END 2026-04-25 SCAN v190 === -->
+
 <!-- === NEW 2026-04-25 SCAN v189 (Autonomous Agent — Level 2 Greenhouse APIs (Databricks/Cloudflare/Scale AI all 503); SpeedyApply SWE 0d-1d (25 entries: NVIDIA JAX Fall dup+Altom transport+Aptiv automotive+Axiomatic AI x2 NEW+Axway+KBR/Leidos defense+Rainmaker+Verkada Fall dup+Vital Lyfe); SpeedyApply AI 0d (Adobe R160428 503 likely Masters-req+Pinterest PhD skip+Cerebras dup); SimplifyJobs latest-15 (all confirmed dup v7-v188); WebSearch 20+ queries (Ashby/Greenhouse/Lever/broad all confirmed dup); HN Hiring Apr 2026 (no intern listings); 3,894-entry history dedup'd; 2 genuinely new URLs discovered today (Axiomatic AI AI/Agentic ~3.5/5 + Platform/DevOps ~3.2/5 — both below threshold, added to pipeline); 0 qualifying ≥4.0; market FULLY SATURATED at 3,898 entries after 189 scans) === -->
 <!-- 0 new evaluated ≥4.0. 2 new listings added (both below threshold). -->
 

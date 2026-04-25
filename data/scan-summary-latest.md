@@ -1,96 +1,103 @@
-# Portal Scan — 2026-04-25 (v189)
+# Portal Scan — 2026-04-25 (v190)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan number:** v189
+**Scan number:** v190
 **Date:** 2026-04-25
-**Scan history total:** 3,899 entries (after 189 scans)
-
----
-
-## Sources Scanned
-
-| Source | Method | Result |
-|--------|--------|--------|
-| Databricks Greenhouse API | WebFetch | 503 error |
-| Cloudflare Greenhouse API | WebFetch | 503 error |
-| Scale AI Greenhouse API | WebFetch | 503 error |
-| SpeedyApply 2026-SWE-College-Jobs | WebFetch | 25 entries checked (0d–1d) |
-| SpeedyApply 2026-AI-College-Jobs | WebFetch | 20 entries checked (0d) |
-| SimplifyJobs Summer2026-Internships | WebFetch | 15 latest entries checked |
-| Ashby/Greenhouse/Lever broad WebSearch | WebSearch | 60+ URLs returned, all dup |
-| Company-specific queries (20+) | WebSearch | All confirmed dups |
-| HN Who is Hiring April 2026 | WebFetch | No intern listings found |
-
-**Total portals/companies scanned:** 50+
+**Agent:** Autonomous scan agent
 
 ---
 
 ## Results
 
-Queries executed: 20+
-Offers found: 65+ URLs discovered
-Filtered by title: 2 relevant (passed title + dedup filter)
-Duplicates: 63+ (already in history v7–v188)
-**New added to pipeline.md: 2**
-
-### New listings added:
-  + Axiomatic AI | Software Engineering Internship – AI/Agentic Systems | ~3.5/5
-  + Axiomatic AI | Software Engineering Internship – Platform/DevOps | ~3.2/5
-
----
-
-## Top Matches (score ≥ 4.0) — None from This Scan
-
-No new listings scored ≥4.0 in this scan. The Summer 2026 internship market is fully saturated at 189 scan runs.
+```
+Portals / queries executed:  25+ WebSearch + 3 Greenhouse APIs + 2 GitHub repos
+Candidates reviewed:         ~60
+Confirmed duplicates:        ~57 (already in 3,899-entry history)
+New URLs discovered:         2 (1 added to pipeline, 1 skipped as alt URL)
+New listings ≥4.0/5:         0
+New listings added (< 4.0):  1
+Cumulative history:          3,900 entries
+```
 
 ---
 
-## New Finds Detail
+## New Listings Added to Pipeline
 
-### Axiomatic AI — AI/Agentic Systems Intern (~3.5/5)
-- **URL:** https://job-boards.eu.greenhouse.io/axiomaticai/jobs/4848121101
-- **Location:** Boston, US / Barcelona, Spain
-- **Duration:** 3–6 months, June–September 2026
-- **Skills:** Python, LLMs, agent tool integration, workflow orchestration, evaluation infra
-- **Education:** Master's preferred (soft blocker only)
-- **Comp:** Not disclosed
-- **Why below 4.0:** Master's preference + no comp + academic AI domain + Boston relocation
-- **CV fit:** Strong — TidalHack 6-agent AutoGen, Finch multi-model pipeline, LangChain RAG
-
-### Axiomatic AI — Platform/DevOps Intern (~3.2/5)
-- **URL:** https://job-boards.eu.greenhouse.io/axiomaticai/jobs/4848128101
-- **Location:** Boston, US / Barcelona / Toronto
-- **Duration:** 3–6 months, June–September 2026
-- **Skills:** Python, Docker, CI/CD, observability (Logfire)
-- **Education:** Bachelor's 3rd/4th year OK
-- **Comp:** Not disclosed
-- **Why below 4.0:** Secondary archetype (DevOps), no comp, small academic AI startup
+```
+  + Kensho (S&P Global) | Machine Learning Intern - Summer 2026 | ~3.8/5 | scan-v190-workday
+    Cambridge MA or NYC on-site | Python+LangGraph+Pydantic AI+PyTorch | ~$50-75/hr
+    Bachelor's OK (not Masters required) | GenAI platform+LLM apps+agentic systems
+    URL: https://spgi.wd5.myworkdayjobs.com/en-US/Kensho_Careers/job/Machine-Learning-Intern---Summer-2026_319677-1
+```
 
 ---
 
-## Unprocessed High-Score Pipeline Items (from scans v185–v187 today)
+## Top Matches ≥4.0 This Scan
 
-These were added with estimated ≥4.0 scores in earlier scans today but need formal evaluation reports:
+**None.** Market fully saturated at scan v190.
 
-| Company | Role | Est. Score | Source |
-|---------|------|-----------|--------|
-| DoorDash | Software Engineer, Intern (Summer 2026) | **4.3/5** | v185 |
-| CrowdStrike | Software Engineer Intern Summer 2026 (R26636) | **4.3/5** | v185 |
-| Roblox | Software Engineer Intern (Summer 2026) | **4.2/5** | v185 |
-| Figma | Software Engineer Intern (2026) | **4.2/5** | v185 |
-| Lazard | 2026 AI Engineer Summer Internship (Data Analytics Group) | **4.1/5** | v185 |
-| Salesforce | Summer 2026 Intern AI Research | ~3.8/5 | v185 |
-| Verkada | Security SWE University Graduate 2026 | ~3.8/5 | v183 |
-| Experian | ML Engineer Summer Intern (Remote) | ~3.8/5 | v187 |
-| Visa | Associate Cybersecurity Engineer Intern Summer 2026 | ~3.8/5 | v187 |
+---
+
+## Sources Scanned
+
+**Level 2 — Greenhouse APIs:**
+- Scale AI: back online — all 3 roles confirmed dup v7-v189
+- Databricks: 503 (still down)
+- Cloudflare: 503 (still down)
+
+**Level 3 — WebSearch (25+ queries):**
+- Ashby broad (20+ companies): all dup v7-v189
+- Greenhouse broad (20+ companies): all dup v7-v189
+- Lever broad (10+ companies): all dup v7-v189
+- Workday fresh sweep: Kensho NEW + Motorola closed + Adobe Masters-preferred + others dup
+- SimplifyJobs latest-30: all dup v7-v189
+- SpeedyApply SWE+AI: same as v189 — all dup
+- ByteDance/TikTok: all dup (security/AI-platform roles v10-v142)
+- Texas companies (Dell): portal under maintenance until May 4
+- Big 4 consulting: summer 2026 apps closed
+
+**New Cloudflare IDs investigated:**
+- 7359136 Research Engineer: requires research publications → skip (~2.5/5)
+- 7444764 Data Science: not primary archetype → skip (~3.0/5)
+
+---
+
+## Skipped Candidates
+
+| Candidate | Reason | Score |
+|-----------|--------|-------|
+| Cloudflare Research Eng 7359136 | Requires publications/research background | ~2.5/5 |
+| Cloudflare Data Science 7444764 | Data science focus, not SWE/security/AI-eng | ~3.0/5 |
+| Motorola Solutions R59959 | Reportedly closed Jan 2026; Schaumburg IL on-site | ~2.8/5 |
+| Adobe R160706 | Masters-preferred pattern (same as R158493/R160469) | ~2.8/5 |
+| Scale AI (3 roles) | All confirmed dup v7-v189 | — |
+| ByteDance 7600176 | Confirmed dup v41 | — |
+
+---
+
+## Active Pipeline (pending evaluation)
+
+- Axiomatic AI AI/Agentic Systems — ~3.5/5 (v189, Masters soft blocker, Boston)
+- Axiomatic AI Platform/DevOps — ~3.2/5 (v189, secondary archetype)
+- **Kensho ML Intern — ~3.8/5 (v190, today)** ← borderline, good tech match
+
+## Recently Evaluated (high-priority, apply if not yet done)
+
+| Report | Company | Role | Score |
+|--------|---------|------|-------|
+| #416 | Cerebras Systems | AI Engineering Intern (Growth Team) | 4.5/5 |
+| #415 | Ramp | Backend SWE Internship | 4.1/5 |
+| #414 | Actian | AI Security Intern | 4.0/5 |
 
 ---
 
 ## Recommended Next Actions
 
-1. **Run `/career-ops pipeline`** — evaluate the 5 high-score pipeline items above (DoorDash/CrowdStrike 4.3, Roblox/Figma 4.2, Lazard 4.1) and write reports before deadlines close
-2. **Apply immediately** to all already-evaluated ≥4.0 roles — Summer 2026 intern windows are closing imminently
-3. **Axiomatic AI AI/Agentic** (~3.5/5): Consider only if open to Boston relocation; strong technical match despite Masters preference and no comp
-4. **Pivot scope**: Summer 2026 market is fully saturated. Next scan should target Fall 2026 internships and 2026 New Grad FTE roles
+1. **⚠️ DEADLINE TODAY (APR 26):** Anthropic Fellows — AI Security #246 (4.7/5), AI Safety #370 (4.2/5), ML Systems #372 (4.1/5) — **APPLY NOW**
+2. Apply to Cerebras #416 (4.5/5) if not yet done
+3. Consider Kensho ML Intern (~3.8/5) — good comp, real agentic work, reputable brand; financial domain is secondary but compatible with quant trading background
+4. Skip Axiomatic AI DevOps (3.2/5) unless specifically targeting DevOps
+5. Dell portal reopens May 4 — rescan then for potential new SWE intern posts
+6. **Market fully saturated** — shift focus to application quality, not more discovery
 
-→ Run `/career-ops pipeline` to evaluate the pending high-score items.
+→ Run `/career-ops pipeline` to evaluate the new Kensho listing.
