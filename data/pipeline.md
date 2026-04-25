@@ -3031,3 +3031,57 @@ Anthropic (same Fellows Program entries, dup), Glean (Univ Grad dup), Hume AI (n
 All 181 prior tracked companies re-confirmed; Twilio only new URL (7850821) found across 3,794+ history entries; market remains fully saturated.
 
 <!-- === END 2026-04-25 SCAN v182 === -->
+
+<!-- === BEGIN 2026-04-25 SCAN v185 === -->
+
+## Scan v185 — 2026-04-25
+
+> **Focus:** Fresh angles after market saturation (v179-v184). 38 sources checked: Handshake, LinkedIn, Greenhouse APIs for 11 untested companies (Square/HubSpot/Discord/DoorDash/Roblox/Duolingo/Rapid7/PAN/CrowdStrike/Figma/Dropbox), Texas-based companies, financial services tech, security firms, 30 WebSearch queries. 6 qualifying ≥4.0 found.
+
+### ✅ Evaluated (score ≥ 4.0) — scan-v185
+
+- `https://job-boards.greenhouse.io/doordashusa/jobs/7262223` | DoorDash | Software Engineer, Intern (Summer 2026) — **4.3/5** — $55/hr; NYC/SF/LA/SEA/Sunnyvale; 12wks; Python/AWS/SQL exact stack; Finch backend maps directly; apply now
+- `https://careers.roblox.com/jobs/7114765` | Roblox | Software Engineer Intern (Summer 2026) — **4.2/5** — $62/hr top-tier; San Mateo CA hybrid; carlosOS kernel = systems depth differentiator; target Infra/Search tracks (NOT Lua/game engine)
+- `https://job-boards.greenhouse.io/figma/jobs/5602159004` | Figma | Software Engineer Intern (2026) [NEW general track] — **4.2/5** — ~$60/hr + housing; SF/NYC; Tech Platform or Infrastructure tracks; Rust+TypeScript is rare undergrad differentiator; DIFFERENT from #384 Security
+- `https://simplify.jobs/p/17b2b25d-d99c-4ebd-829a-8e99bf954598/AI-Engineer-Intern` | Lazard | 2026 AI Engineer Summer Internship (Data Analytics Group) — **4.1/5** — ~$100K prorated ~10wks; NYC; quant trading (Bloomberg/Alpaca/Sharpe 1.79) + 5-LLM pipeline = rare combo in IB; apply
+- `https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer-Intern---Summer-2026_R26636` | CrowdStrike | Software Engineer Intern — Summer 2026 (R26636) — **4.3/5** — $38-45/hr + $4,500/mo housing; Sunnyvale or Redmond; VERIFY vs #285 before applying
+
+### 🆕 Borderline / Below Threshold — Added to Pipeline
+
+- `https://careers.salesforce.com/en/jobs/jr313214/summer-2026-intern-ai-research/` | Salesforce | Summer 2026 Intern – AI Research — ~3.8/5 — Palo Alto CA; Agentforce AI; ML/NLP; publication not required; evaluate separately from #328
+- `https://att.wd1.myworkdayjobs.com/en-US/ATTCollegeSpecialInvite/job/Technology-Development-Program-Intern--2026-_R-80658-1` | AT&T | Technology Development Program Intern (SWE track) 2026 — ~3.6/5 — Dallas TX (local advantage!); $58.4-98.2K/yr annualized; rising senior req; Java/Python
+- `https://careers.oracle.com/en/job/306078` | Oracle | Undergrad Software Engineer Intern (Database Technologies) — ~3.5/5 — Redwood Shores CA; $41/hr + housing; Python/C++ match; database domain
+- `https://job-boards.greenhouse.io/virtu/jobs/7848570002` | Virtu Financial | Software Engineer Intern — ~3.8/5 — Austin TX (local advantage!); verify listing active; quant firm + Austin location = verify priority
+
+### Skipped / Not Qualifying — scan-v185
+
+- Roblox Applied Scientist PhD Intern — PhD required
+- Roblox Community Apprenticeship — Lua/game-engine domain mismatch
+- Discord 2026 board — no active intern program found (2025 postings stale)
+- Figma Senior Security Engineer — Senior FTE not intern
+- Block/Square Embedded Firmware Intern — hardware/embedded excluded
+- Block Toronto SWE Intern — Canada location
+- HRT SWE Internship — CLOSED per official site
+- Two Sigma SWE Internship — recruiting cycle likely closed for Summer 2026
+- Citadel Securities SWE Intern — recruiting cycle likely closed
+- Genies Backend LLM Intern — 2025 listing, Web3 domain
+- Obsidian Security SWE Intern — DUPLICATE of #281
+- Salesforce SWE main intern — DUPLICATE of #328 (deadline May 23 noted)
+
+### Companies Confirmed No New Intern/New-Grad Roles — scan-v185
+
+- **HubSpot** — Greenhouse board: 0 active postings
+- **Duolingo** — Greenhouse board: 0 intern listings for 2026
+- **Rapid7** — Greenhouse API 404; Workday ATS: no intern found
+- **Palo Alto Networks** — Greenhouse API 404; Workday: intern program exists but postings show "no longer accepting applications"
+- **HRT** — Applications CONFIRMED CLOSED for Summer 2026
+- **Goldman Sachs** Dallas Engineering — deadline was February 28, 2026 CLOSED
+- **Elastic** — Greenhouse/jobs.elastic.co: no SWE intern Summer 2026
+- **Orca Security** — Senior FTE only; no 2026 intern program
+- **CyberArk** — No SWE/security intern Summer 2026
+- **Tenable** — No intern listings found
+- **Abnormal Security** — No intern posting on Ashby
+- **Match Group** — Only Ghent Belgium SWE intern (EU location)
+- **Dropbox** — FTE only; intern #375 already in tracker
+
+<!-- === END 2026-04-25 SCAN v185 === -->
