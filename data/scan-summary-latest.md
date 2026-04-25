@@ -1,89 +1,74 @@
-# Portal Scan — 2026-04-25 (Scan v186)
+# Portal Scan — 2026-04-25 (v187)
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+**Scan:** v187 (autonomous agent)
 **Date:** 2026-04-25
-**Agent:** Autonomous scan agent
-**History size before scan:** 3,833+ entries (185 prior scans)
-
----
+**Prior scans:** 186 (3,840+ history entries)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## Summary
 
-```
-Portals scanned:      25+ WebSearch queries + Greenhouse APIs (cerebrassystems, tracked cos)
-Companies checked:    30+ (Cerebras, Verkada, Stripe, Affirm, Plaid, Astranis, Mercury,
-                       NVIDIA, Anduril, PAN, SentinelOne, Wiz, Goldman Sachs,
-                       JPMorgan, Perplexity, Groq, Kognitos, Newton Research, Fizz,
-                       Cobalt, Axiomatic AI, Google + all portals.yml tracked companies)
-Repos checked:        speedyapply/2026-SWE-College-Jobs + speedyapply/2026-AI-College-Jobs
-URLs evaluated:       100+ (most confirmed dups against 3,840-entry history)
-Genuinely new URLs:   2
-New >=4.0 evaluated:  1
-New pipeline adds:    2 total (1 evaluated + 1 pending)
-```
+Queries executed: 20+ (SmartRecruiters, Workday, Greenhouse, Lever, Ashby, broad WebSearch)
+Platforms newly indexed: **SmartRecruiters** (Visa, Experian, Western Digital, LinkedIn)
+Offers found (raw): 30+
+Already in history: 25
+Filtered by title/score: 10
+**New URLs added to pipeline: 5**
+Qualifying ≥4.0 (full eval): **0**
 
----
+## New Listings Added to Pipeline
 
-## Top Match — Score >= 4.0
+| Company | Role | Score | Location | URL |
+|---------|------|-------|----------|-----|
+| Experian | ML Engineer Summer Intern (Remote & Paid) | ~3.8/5 | Remote US | [Link](https://jobs.smartrecruiters.com/Experian/744000121254203-ml-engineer-summer-intern-remote-paid-) |
+| Experian | AI SWE Summer Intern (Remote & Paid) | ~3.7/5 | Remote US | [Link](https://jobs.smartrecruiters.com/Experian/744000115927684-ai-swe-summer-intern-remote-paid-) |
+| Visa | Associate Cybersecurity Engineer Intern | ~3.8/5 | Foster City CA | [Link](https://jobs.smartrecruiters.com/Visa/744000088418385-associate-cybersecurity-engineer-intern-summer-2026) |
+| Visa | Software Engineer Intern Austin TX | ~3.6/5 | Austin TX (LOCAL) | [Link](https://jobs.smartrecruiters.com/Visa/744000103272876-software-engineer-intern-summer-2026-austin) |
+| Walmart | 2026 Summer Intern: Cybersecurity | ~3.2/5 | Multiple locations | [Link](https://careers.walmart.com/us/jobs/WD2293268-2026-summer-intern-cybersecurity) |
 
-### #416 — Cerebras Systems | AI Engineering Intern, Growth Team | **4.5/5**
+## Top Matches by Score
 
-**URL:** https://job-boards.greenhouse.io/cerebrassystems/jobs/7713841003
-**Report:** reports/416-cerebras-ai-engineering-intern-growth-team-2026-04-25.md
+None exceeded the 4.0/5 threshold for full evaluation reports this scan.
 
-**Why 4.5/5:**
-- JD explicitly names Claude Code + MCP + RAG + multi-agent — Carlos's exact stack from Finch (5 LLM providers, 7-stage pipeline, Claude Sonnet 4.6 enrichment)
-- TidalHack 6-agent AutoGen system maps directly to the multi-agent capstone requirement
-- carlosOS + Finch together cover all 3 tracks (Kernel Bringup, Cloud Platform SRE, test automation)
-- Python-first (35,800 LOC), LLM API tool calling + structured outputs (5 providers in production)
-- Capstone: "Ship one internal tool actively used by engineering teams" = Finch already does this
+**Closest to threshold:**
+- **Visa Cybersecurity Intern (3.8/5):** OWASP Top 10 + threat modeling + secure SDLC = direct match for Carlos's OAuth/TLS/HMAC/CSP work and cybersecurity minor. Requires Foster City CA relocation. Strong Visa brand (global fintech). Java-heavy stack is the main friction.
+- **Experian ML Engineer Intern (3.8/5):** Remote + Python/Hugging Face/GenAI = strong Carlos match. Experian Innovation Lab does genuine R&D. Comp undisclosed but estimated $25-35/hr (below market for Carlos's level).
+- **Experian AI SWE Intern (3.7/5):** RAG pipelines + vector stores + agent frameworks = Carlos's exact stack. Remote. Lower comp floor ($20-35/hr) is the main negative.
 
-**Key details:**
-- 12 weeks, June-August 2026
-- Sunnyvale CA or Toronto ON (prefer Sunnyvale)
-- Compensation: undisclosed — verify before accepting (estimated $40-55/hr)
-- Found on: job-boards.greenhouse.io/cerebrassystems/ (separate board from earlytalentcerebras/)
+## Key Discovery This Scan
 
-**Action:** Apply immediately. Target the Kernel & Model Bringup or Cloud Platform SRE tracks.
+**SmartRecruiters platform now indexed.** Previous 186 scans focused almost exclusively on Greenhouse, Ashby, and Lever. SmartRecruiters hosts major companies including Visa (global fintech), Experian (data/credit), LinkedIn (Microsoft), Western Digital, Arista Networks. This opens a new search surface for future scans.
 
----
+## Skipped This Scan
 
-## New Pipeline Additions (Pending Evaluation)
-
-| URL | Company | Role | Est. Score | Note |
-|-----|---------|------|-----------|------|
-| https://job-boards.greenhouse.io/verkada/jobs/5117760007 | Verkada | AI Software Engineering Intern - Fall 2026 | ~3.5/5 | Aug 31-Dec 18; multimodal AI/ML (video/audio/sensors); San Mateo CA; $55-65/hr + housing; Fall 2026 conflicts with TAMU semester — only if graduating May 2026 |
-
----
-
-## Market Observations
-
-After 186 scans covering 3,840+ unique URLs, the Summer 2026 internship market is approaching saturation. Key findings:
-
-1. **New boards matter**: The Cerebras finding came from job-boards.greenhouse.io/cerebrassystems/ — a distinct Greenhouse board from earlytalentcerebras/ that had been scanned many times. Always check for company-specific boards vs. the early-talent subdomain.
-
-2. **Fall 2026 is opening up**: Multiple companies (Verkada, Notion, Zip, Sentry, Mercury) now have Fall 2026 intern postings. If Carlos has flexibility post-graduation, this is an untapped track.
-
-3. **AI tooling roles**: Roles explicitly mentioning Claude Code, MCP, multi-agent, and RAG are now appearing at hardware/infrastructure companies (Cerebras), not just pure software startups. Carlos's stack is highly competitive here.
-
----
-
-## Upcoming Deadlines
-
-| # | Company | Role | Score | Deadline |
-|---|---------|------|-------|---------|
-| 246 | Anthropic | Fellows — AI Security | 4.7/5 | APR 26 — APPLY TODAY |
-| 370 | Anthropic | Fellows — AI Safety | 4.2/5 | APR 26 — APPLY TODAY |
-| 372 | Anthropic | Fellows — ML Systems | 4.1/5 | APR 26 — APPLY TODAY |
-| 347 | Cloudflare | SWE Intern Austin | 4.8/5 | Open — apply this week |
-| 416 | Cerebras Systems | AI Engineering Intern - Growth Team | 4.5/5 | NEW — apply immediately |
-| 304 | Mechanize | SWE Intern | 4.6/5 | Open — verify status |
-| 355 | Atlassian | Security Engineer Intern | 4.5/5 | Open — apply this week |
-
----
+| Company | Reason |
+|---------|--------|
+| Walmart SWE (WD2291126, R-2354882) | $19-35/hr below comp floor; retail tech domain |
+| Resolve Tech Solutions (Addison TX) | SAP consulting company — negative keyword |
+| Visa SWE Foster City / Bellevue / Ashburn | 3.5/5; non-TX locations; below threshold |
+| Western Digital SWE Web/App Dev | Storage hardware domain; 3.0/5 |
+| NVIDIA JAX Fall 2026 | Fall 2026 conflicts with TAMU semester |
+| NBCUniversal Cybersecurity | Academic year 2025-2026, not summer 2026 |
+| LinkedIn SWE Intern Mountain View | On-site Mountain View CA; 3.5/5 |
 
 ## Recommended Next Actions
 
-1. **CRITICAL (APR 26):** Apply to Anthropic Fellows AI Security (#246 4.7/5) + AI Safety (#370) + ML Systems (#372) — deadlines expire today.
-2. **This week:** Apply to Cerebras (#416, 4.5/5) — target Kernel & Model Bringup or Cloud Platform SRE track. Claude Code + MCP + multi-agent = zero ramp time.
-3. **If graduating May 2026:** Evaluate the Verkada AI Fall 2026 intern from pipeline.
-4. **Run /career-ops pipeline** to process remaining unevaluated pipeline entries from scans v183-v185 (DoorDash 4.3/5 / Roblox 4.2/5 / Figma 4.2/5 / Lazard 4.1/5 / CrowdStrike 4.3/5).
+1. **Evaluate Visa Cybersecurity Intern (3.8/5)** — Best new listing. OWASP/threat modeling match is strong. Run full `/career-ops` evaluation if open to Foster City CA for summer.
+
+2. **Evaluate Experian ML Engineer / AI SWE (3.8/3.7/5)** — Both are remote, both match Carlos's AI stack. Worth evaluation if comfortable with the Experian brand and comp range.
+
+3. **Consider Visa Austin TX SWE (3.6/5)** — Local advantage (no relocation). Below threshold but Austin location is a meaningful differentiator.
+
+4. **Add SmartRecruiters to portals.yml** for future scans:
+   - Visa: `careers.smartrecruiters.com/Visa`
+   - Experian: `careers.smartrecruiters.com/Experian`
+
+5. **Market status:** After 187 scans, Summer 2026 intern market is confirmed saturated. Focus on **applying to already-evaluated listings** rather than continued scanning. Key open items:
+   - DoorDash SWE Intern (4.3/5) — `job-boards.greenhouse.io/doordashusa/jobs/7262223`
+   - CrowdStrike SWE Intern R26636 (4.3/5) — verify vs #285
+   - Roblox SWE Intern (4.2/5) — `careers.roblox.com/jobs/7114765`
+   - Figma SWE Intern general track (4.2/5) — `job-boards.greenhouse.io/figma/jobs/5602159004`
+   - Lazard AI Engineer Intern (4.1/5) — `simplify.jobs/p/17b2b25d-d99c-4ebd-829a-8e99bf954598/AI-Engineer-Intern`
+
+---
+*Generated by career-ops scan-v187 autonomous agent | 2026-04-25*

@@ -3111,3 +3111,43 @@ All 181 prior tracked companies re-confirmed; Twilio only new URL (7850821) foun
 - **Dropbox** — FTE only; intern #375 already in tracker
 
 <!-- === END 2026-04-25 SCAN v185 === -->
+
+<!-- === BEGIN 2026-04-25 SCAN v187 === -->
+
+## Scan v187 — 2026-04-25
+
+> **Focus:** Autonomous scan v187 — SmartRecruiters ATS platform (Visa, Experian, Western Digital, LinkedIn), Walmart Workday careers, Texas regional companies (Resolve Tech Addison TX), NVIDIA Workday, Qualcomm, Amazon, semiconductor sector, consulting (Booz Allen), Lever broad + Greenhouse broad. First thorough sweep of SmartRecruiters — uncovered Experian Innovation Lab (2 roles) and Visa (5 locations). 5 new URLs added to pipeline; 0 qualifying ≥4.0 (market continues to be saturated after 186 prior scans).
+
+### 🆕 Borderline / Below Threshold — Added to Pipeline
+
+- [ ] https://jobs.smartrecruiters.com/Experian/744000121254203-ml-engineer-summer-intern-remote-paid- | Experian | ML Engineer Summer Intern (Remote & Paid) | ~3.8/5 | Remote US; 12wks; Python/Hugging Face/scikit-learn/GenAI exact match; "great compensation" (undisclosed, ~$25-35/hr est); Experian Innovation Lab; must return Fall 2026
+- [ ] https://jobs.smartrecruiters.com/Experian/744000115927684-ai-swe-summer-intern-remote-paid- | Experian | AI SWE Summer Intern (Remote & Paid) | ~3.7/5 | Remote US; $20-35/hr; RAG pipelines + vector stores + agent frameworks + LLMs = Carlos exact stack; Innovation Lab R&D; reports to Principal SWE; must return Fall 2026
+- [ ] https://jobs.smartrecruiters.com/Visa/744000088418385-associate-cybersecurity-engineer-intern-summer-2026 | Visa | Associate Cybersecurity Engineer Intern - Summer 2026 | ~3.8/5 | Foster City CA; OWASP Top 10 + threat modeling + secure SDLC = cybersecurity minor + OAuth/TLS/HMAC match; strong Visa brand; $35-45/hr est; Java-heavy; relocation required
+- [ ] https://jobs.smartrecruiters.com/Visa/744000103272876-software-engineer-intern-summer-2026-austin | Visa | Software Engineer Intern - Summer 2026, Austin TX | ~3.6/5 | Austin TX LOCAL (no relocation); $35-40/hr; Visa fintech payments scale; security-first culture matches Carlos background
+- [ ] https://careers.walmart.com/us/jobs/WD2293268-2026-summer-intern-cybersecurity | Walmart | 2026 Summer Intern: Cybersecurity | ~3.2/5 | multiple locations; Walmart Global Tech; cybersecurity minor match; retail domain; pending details verification
+
+### Skipped / Not Qualifying — scan-v187
+
+- Walmart SWE Intern (WD2291126, R-2354882) — $19-46/hr retail tech; below comp floor for SWE; domain mismatch; 3.0/5
+- Resolve Tech Solutions AI & ML Intern (Addison TX) — SAP consulting company; SAP in negative keywords; skip
+- Visa SWE Intern Foster City (744000109722936) — 3.5/5; Foster City relocation only; non-security role; below threshold
+- Visa SWE Intern Bellevue WA (744000103272705) — 3.5/5; non-TX location; below threshold
+- Visa SWE Intern Ashburn VA (744000103274324) — 3.5/5; non-TX location; below threshold
+- Western Digital SWE Intern Web/App Dev San Jose — storage hardware company; web app domain; 3.0/5
+- NVIDIA JAX Fall 2026 (JR2009745) — Fall 2026 conflicts with TAMU semester
+- NBCUniversal Cybersecurity Academic Year 2025-2026 — academic year program not summer 2026
+- LinkedIn SWE Intern Mountain View (744000085237793) — on-site Mountain View CA; MS preferred; dup of prior LinkedIn checks
+
+### Companies Confirmed No New Intern/New-Grad Roles — scan-v187
+
+- **Databricks** — Workday ATS (503 on API); no intern listing found via SmartRecruiters
+- **Qualcomm** — MS/PhD preferred summer intern program; no BS-level listing posted
+- **Amazon** — SDE intern (3116030) confirmed dup v7-v186
+- **ServiceNow** — All intern listings confirmed dup v43-v187
+- **RTX/Raytheon** — Defense domain; all confirmed dup v67-v186
+- **Intel** — No BS-level SWE intern summer 2026 posted
+- **Booz Allen Hamilton** — Summer Games Cybersecurity (115072) confirmed dup v7-v186; requires clearance
+- **Western Digital** — Web/App dev only; storage hardware domain; 3.0/5
+- **Arista Networks** — Network hardware focus; 2025/2026 cycle; 3.0/5 domain mismatch
+
+<!-- === END 2026-04-25 SCAN v187 === -->
