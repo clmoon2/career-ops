@@ -1,5 +1,17 @@
 # Pipeline -- Pending URLs
 
+<!-- === NEW 2026-04-26 SCAN v198 (Autonomous Agent — 25+ WebSearch queries (Ashby/Greenhouse/Lever Fall 2026; NVIDIA Workday new grad; security broad; SpeedyApply/jobright/zapplyjobs repos; CrowdStrike/Wiz; Perplexity/Cerebras/Groq; AI infra); 30+ companies checked; 4,039-entry history dedup'd; 5 genuinely new URLs: NVIDIA FlashInfer JR2017076+AI-Networking JR2017100+QA JR2016688 (all below threshold domain mismatch); Twitch SWE I $193k 8519628002 (~3.0/5 below threshold); Cerebras AI Cloud 6297566003 (Toronto non-US skip); 0 qualifying ≥4.0; WROTE missing reports #416 Cerebras AI Eng Intern (4.5/5) + #417 Vapi New Grad SWE (4.1/5); market FULLY SATURATED at ~4,045 entries after 198 scans) === -->
+<!-- 0 new evaluated ≥4.0. 1 new pipeline addition (Twitch below threshold). Reports #416 and #417 recreated. -->
+
+### New additions — scan-v198 (below threshold)
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8519628002 | Twitch | Software Engineer I (Ad Supply Experiences) | ~3.0/5 | NEW v198; FTE new grad $193k SF; ad tech/AdSys domain; TS/Python; evaluate only if no better offers
+
+### Skipped — scan-v198
+- NVIDIA JR2017076 Deep Learning (FlashInfer) — CUDA/GPU kernel domain mismatch; ~2.5/5
+- NVIDIA JR2017100 AI Networking — HPC distributed training networking mismatch; ~2.5/5
+- NVIDIA JR2016688 Software QA — QA focus not primary archetype; ~2.0/5
+- Cerebras 6297566003 AI Cloud Platform New Grad — Toronto, Canada location; non-US; ~2.5/5
+
 <!-- === NEW 2026-04-26 SCAN v195 (Autonomous Agent — Greenhouse APIs 503 (persistent since v193); 20+ WebSearch queries (Fall 2026 Ashby+Greenhouse+Lever; security AppSec; new grad; Snyk/Semgrep/Wiz/Delinea; DevOps/SRE; Verkada; SpeedyApply repos); ~3,994-entry history dedup'd; 8 genuinely new URLs; 1 qualifying ≥4.0 (Snyk Security Eng Intern 4.2/5 → #416); 3 below threshold (BRM/Oligo/Delinea); 4 skipped; ~4,003 entries after 195 scans) === -->
 <!-- 1 new evaluated ≥4.0 (#416 Snyk 4.2/5). 3 new pipeline additions (below threshold). -->
 
