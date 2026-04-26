@@ -1,103 +1,42 @@
-# Portal Scan — 2026-04-25 (v190)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Portal Scan — 2026-04-26 (v189)
 
-**Scan number:** v190
-**Date:** 2026-04-25
-**Agent:** Autonomous scan agent
-
----
-
-## Results
-
-```
-Portals / queries executed:  25+ WebSearch + 3 Greenhouse APIs + 2 GitHub repos
-Candidates reviewed:         ~60
-Confirmed duplicates:        ~57 (already in 3,899-entry history)
-New URLs discovered:         2 (1 added to pipeline, 1 skipped as alt URL)
-New listings ≥4.0/5:         0
-New listings added (< 4.0):  1
-Cumulative history:          3,900 entries
-```
-
----
-
-## New Listings Added to Pipeline
-
-```
-  + Kensho (S&P Global) | Machine Learning Intern - Summer 2026 | ~3.8/5 | scan-v190-workday
-    Cambridge MA or NYC on-site | Python+LangGraph+Pydantic AI+PyTorch | ~$50-75/hr
-    Bachelor's OK (not Masters required) | GenAI platform+LLM apps+agentic systems
-    URL: https://spgi.wd5.myworkdayjobs.com/en-US/Kensho_Careers/job/Machine-Learning-Intern---Summer-2026_319677-1
-```
-
----
-
-## Top Matches ≥4.0 This Scan
-
-**None.** Market fully saturated at scan v190.
-
----
+## Stats
+- Queries executed: 35+ WebSearch queries + Greenhouse APIs + Ashby/Lever direct
+- Offers found: ~80+ across all sources
+- Filtered by title/score: ~78 (senior FTE, wrong domain, wrong location, wrong seniority)
+- Duplicates: ~76 (already in history from v7-v188)
+- New added to pipeline.md: 2
 
 ## Sources Scanned
+- Greenhouse APIs: Anthropic, Glean, Vercel, Airtable, Arize AI, Temporal, RunPod, Hume AI, Intercom, PolyAI — all confirmed senior FTE or empty
+- Ashby broad: 30+ tracked companies — all confirmed dup v7-v188
+- Lever broad: 20+ tracked companies — all confirmed dup v7-v188
+- SimplifyJobs Summer 2026: 0-2d entries — all dup or non-target
+- SpeedyApply SWE + AI repos: all 0-2d entries dup or below threshold
+- jobright-ai new grad: all dup v7-v188
+- New angle searches: Voleon university hire, Kirin AI, Alarm.com DevOps, Riot Games (closed), Lattice Semi (FPGA domain), Bosch AI R&D (manufacturing), State Street Cloud Eng (6-month wrong timeline)
 
-**Level 2 — Greenhouse APIs:**
-- Scale AI: back online — all 3 roles confirmed dup v7-v189
-- Databricks: 503 (still down)
-- Cloudflare: 503 (still down)
+## New Listings Added
 
-**Level 3 — WebSearch (25+ queries):**
-- Ashby broad (20+ companies): all dup v7-v189
-- Greenhouse broad (20+ companies): all dup v7-v189
-- Lever broad (10+ companies): all dup v7-v189
-- Workday fresh sweep: Kensho NEW + Motorola closed + Adobe Masters-preferred + others dup
-- SimplifyJobs latest-30: all dup v7-v189
-- SpeedyApply SWE+AI: same as v189 — all dup
-- ByteDance/TikTok: all dup (security/AI-platform roles v10-v142)
-- Texas companies (Dell): portal under maintenance until May 4
-- Big 4 consulting: summer 2026 apps closed
++ The Voleon Group | Software Engineer - University Hire 2026 | ~4.0/5 | $160K-$170K Berkeley CA FTE new-grad
++ Kirin | Software Engineering Intern, AI Agents + Devices | ~3.7/5 | Remote AI startup (seed stage)
 
-**New Cloudflare IDs investigated:**
-- 7359136 Research Engineer: requires research publications → skip (~2.5/5)
-- 7444764 Data Science: not primary archetype → skip (~3.0/5)
+## Skipped — Notable
 
----
-
-## Skipped Candidates
-
-| Candidate | Reason | Score |
-|-----------|--------|-------|
-| Cloudflare Research Eng 7359136 | Requires publications/research background | ~2.5/5 |
-| Cloudflare Data Science 7444764 | Data science focus, not SWE/security/AI-eng | ~3.0/5 |
-| Motorola Solutions R59959 | Reportedly closed Jan 2026; Schaumburg IL on-site | ~2.8/5 |
-| Adobe R160706 | Masters-preferred pattern (same as R158493/R160469) | ~2.8/5 |
-| Scale AI (3 roles) | All confirmed dup v7-v189 | — |
-| ByteDance 7600176 | Confirmed dup v41 | — |
-
----
-
-## Active Pipeline (pending evaluation)
-
-- Axiomatic AI AI/Agentic Systems — ~3.5/5 (v189, Masters soft blocker, Boston)
-- Axiomatic AI Platform/DevOps — ~3.2/5 (v189, secondary archetype)
-- **Kensho ML Intern — ~3.8/5 (v190, today)** ← borderline, good tech match
-
-## Recently Evaluated (high-priority, apply if not yet done)
-
-| Report | Company | Role | Score |
-|--------|---------|------|-------|
-| #416 | Cerebras Systems | AI Engineering Intern (Growth Team) | 4.5/5 |
-| #415 | Ramp | Backend SWE Internship | 4.1/5 |
-| #414 | Actian | AI Security Intern | 4.0/5 |
-
----
+- Voleon Full-stack University Hire 2026 — London UK; non-US location
+- Lyft SWE Backend Intern (8130804002 / 8128890002) — alias URLs for existing pipeline entry 8149370002
+- Alarm.com DevOps Intern (7852339002) — Tysons VA on-site; ~3.2/5 below threshold
+- Riot Games SWE Intern remote — deadline Oct 31 2025; CLOSED
+- Lattice Semiconductor Agentic AI Intern — FPGA domain; negative keyword
+- Bosch AI R&D Intern — manufacturing/automotive domain; ~2.5/5
+- State Street Cloud Engineering — 6-month Jul-Dec; wrong timeline
 
 ## Recommended Next Actions
 
-1. **⚠️ DEADLINE TODAY (APR 26):** Anthropic Fellows — AI Security #246 (4.7/5), AI Safety #370 (4.2/5), ML Systems #372 (4.1/5) — **APPLY NOW**
-2. Apply to Cerebras #416 (4.5/5) if not yet done
-3. Consider Kensho ML Intern (~3.8/5) — good comp, real agentic work, reputable brand; financial domain is secondary but compatible with quant trading background
-4. Skip Axiomatic AI DevOps (3.2/5) unless specifically targeting DevOps
-5. Dell portal reopens May 4 — rescan then for potential new SWE intern posts
-6. **Market fully saturated** — shift focus to application quality, not more discovery
+1. **Evaluate Voleon SWE University Hire 2026** — $160K-$170K FTE new-grad in Berkeley, same firm Carlos evaluated at 4.1/5 for the intern role (#361). Verify graduation eligibility (Class of 2026 requirement). URL: https://jobs.lever.co/voleon/7c185ae4-3fdd-4613-8152-3ede45d2b7c0
 
-→ Run `/career-ops pipeline` to evaluate the new Kensho listing.
+2. **Evaluate Kirin AI SWE Intern** — Remote AI startup building AI agents + anime news anchor. LLMs + CV + Cloudflare stack matches Carlos's profile well. Seed stage so comp is TBD. URL: https://jobs.ashbyhq.com/Kirin/38772f01-84fd-4f09-a36d-e7fa86341b99
+
+3. **Market note** — Summer 2026 internship market is FULLY SATURATED after 189 consecutive scans. The few new listings appearing are either FTE new-grad tracks (like Voleon) or small seed-stage startups (like Kirin). No new high-quality intern listings (>=4.0) appeared this scan.
+
+4. **Focus shift** — With the Anthropic Fellows deadline having arrived today (April 26), priority should shift to applying to the best-scored open roles in the pipeline rather than continued scanning.

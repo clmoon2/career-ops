@@ -3201,3 +3201,44 @@ All 181 prior tracked companies re-confirmed; Twilio only new URL (7850821) foun
 - SimplifyJobs 0d: Cerebras (dup #416) + Twilio SWE (dup v182 ~3.5/5) + Leidos/IEM/Savannah River (non-target)
 
 <!-- === END 2026-04-25 SCAN v188 === -->
+
+## Scan v189 — 2026-04-26
+
+> **Focus:** Autonomous scan v189 — Multi-angle sweep across Greenhouse (boards + job-boards), Ashby (30+ companies), Lever (20+ companies), SimplifyJobs, SpeedyApply SWE + AI repos, Greenhouse APIs (Anthropic/Glean/Vercel/Airtable/Arize/Temporal/RunPod/HumeAI/Intercom/PolyAI), jobright-ai; fresh angle searches for Voleon new-grad track, Kirin AI startup, Alarm.com DevOps; 3,906-entry history dedup'd; 2 new URLs added to pipeline (Voleon SWE University Hire 2026 new-grad FTE ~4.0/5 + Kirin AI SWE Intern remote ~3.7/5); 0 qualifying ≥4.0 interns; Summer 2026 internship market remains FULLY SATURATED at scan 189.
+
+### New Listings Added — scan-v189
+
+- [ ] https://jobs.lever.co/voleon/7c185ae4-3fdd-4613-8152-3ede45d2b7c0 | The Voleon Group | Software Engineer - University Hire 2026 | ~4.0/5 | Berkeley CA; $160K-$170K base; FTE new-grad (graduating class 2026); Python/Go/C++/Linux backend; quant trading infra; Bloomberg/Alpaca quant trading system = rare differentiator; companion to evaluated intern role #361; VERIFY graduation eligibility
+- [ ] https://jobs.ashbyhq.com/Kirin/38772f01-84fd-4f09-a36d-e7fa86341b99 | Kirin | Software Engineering Intern, AI Agents + Devices | ~3.7/5 | Remote; AI anime news anchor startup; LLMs + CV models + recommenders; Cloudflare stack (D1/R2/DO); backend + mobile; 0→1 stage; seed-stage startup (comp undisclosed); AI agents exact match
+
+### Skipped — scan-v189
+
+- Voleon Full-stack University Hire 2026 (78f3c520) — London UK only; non-US; skip
+- Lyft SWE Intern Backend 8130804002 — alias for existing 8149370002 already in pipeline ~3.5/5; skip_dup
+- Lyft SWE Intern Backend 8128890002 — alias for 8149370002; skip_dup
+- Alarm.com DevOps Intern (7852339002) — Tysons Corner VA on-site; DevOps/Kubernetes; non-AI-first; comp undisclosed; ~3.2/5 below threshold
+- Alarm.com Cloud Operations Intern (8440261002) — same program as 7852339002; Tysons VA on-site; ~3.2/5
+- Riot Games SWE Intern Summer 2026 remote — application deadline was October 31 2025; CLOSED
+- Lattice Semiconductor Agentic AI Intern — FPGA/semiconductor domain; negative keyword match
+- Bosch AI R&D Intern Sunnyvale — manufacturing/automotive domain; non-target; ~2.5/5
+- State Street Cloud Engineering Internship — 6-month Jul-Dec 2026; wrong timeline; not summer
+- Voleon SWE Intern (100b2cb6) — confirmed dup v7; evaluated #361 4.1/5
+- All 30+ Ashby tracked companies — confirmed dup v7-v188
+- All 20+ Lever tracked companies — confirmed dup v7-v188
+- All Greenhouse API companies — confirmed dup or senior FTE only
+- SimplifyJobs/SpeedyApply 0d entries — all dup v7-v188 or non-target (defense/hardware/PhD-only)
+
+### Companies Confirmed No New Intern/New-Grad Roles — scan-v189
+
+- **Notion** — All intern roles confirmed dup v7-v188 (summer/fall/winter tracks)
+- **Harvey** — SWE Intern (b6509622) + New Grad (163860df) confirmed dup v7-v188
+- **Ramp** — Backend intern (c50962b5) confirmed dup v7-v188
+- **Whatnot** — SWE Intern + New Grad both confirmed dup v7-v188
+- **Replit** — New Grad (b5e81eae) confirmed dup v7-v188
+- **C3 AI** — Evaluated #413 (4.1/5); all boards dup v7-v188
+- **Farsight AI** — Confirmed dup v7-v188
+- **Numeric** — Confirmed dup v7-v188
+- **Giga** — Confirmed dup v7-v188
+- **Profound** — Confirmed dup v7-v188
+
+<!-- === END 2026-04-26 SCAN v189 === -->
