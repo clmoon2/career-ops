@@ -1,5 +1,22 @@
 # Pipeline -- Pending URLs
 
+<!-- === NEW 2026-04-26 SCAN v199 (Autonomous Agent — 30+ WebSearch queries (Ashby Fall 2026; Greenhouse Fall 2026+security; Lever Fall 2026; GitHub repos SpeedyApply/SimplifyJobs/jobright-ai; Greenhouse APIs Anthropic/Glean/Vercel/Temporal/HumeAI/Airtable; new grad broad; DevOps/SRE; AI startup; consulting); 40+ companies checked; 4,045-entry history dedup'd; 1 genuinely new URL: Loop Chicago New Grad 5981831004 (~3.7/5 below threshold); Greenhouse APIs Anthropic 503/Glean+Vercel+Temporal+HumeAI+Airtable all dup; all Ashby/Lever/Greenhouse broad confirmed dup v7-v198; SpeedyApply/SimplifyJobs/jobright-ai all dup v7-v198; 0 qualifying ≥4.0; market FULLY SATURATED at ~4,046 entries after 199 scans) === -->
+<!-- 0 new evaluated ≥4.0. 1 new pipeline addition (Loop Chicago below threshold). -->
+
+### New additions — scan-v199 (below threshold)
+- [ ] https://job-boards.greenhouse.io/loop/jobs/5981831004 | Loop | 2026 New Grad | Software Engineer, Full-Stack (Chicago) | ~3.7/5 | NEW v199; $125K base; Chicago IL 4d/wk in-person; LLM agents + supply chain AI infra; Claude Code/Codex stack; different URL from 5780582004 (Chicago-specific, explicit comp); below 4.0 threshold (supply chain domain, relocation required); evaluate if pipeline clears
+
+### Skipped — scan-v199
+- Greenhouse APIs: Anthropic 503; Glean (no new intern); Vercel (no intern); Temporal (0 jobs); HumeAI (senior FTE only); Airtable (no new grad — 8409376002 dup v5)
+- Ashby broad: all confirmed dup v7-v198 (Notion/Zip/Sentry/OpenAI/Cohere/Ramp/Harvey/Decagon/Pylon/Quora/Suno/Handshake/Benchling/Whatnot/Farsight/Delinea/Tessera/Ema/TensorWave/Worldly etc.)
+- Greenhouse broad: all confirmed dup v7-v198 (Cloudflare/Scale AI/Loop 5780582+5780584/Figma/Airtable/Impiricus/Sigma/Verkada/Together AI etc.)
+- Lever broad: all confirmed dup v7-v198 (Palantir/Mistral/W&B/Voleon/Nominal/Artera/Hermeus/CAIS etc.)
+- SpeedyApply SWE/AI repos: all dup v7-v198 (NVIDIA JAX Fall/Robot Learning/Axiomatic AI/Altom/Aptiv/Adobe R160428 etc.)
+- SimplifyJobs New Grad: all dup v7-v198 (Picogrid/Remitly/GM Financial/Uber/Axon etc.)
+- jobright-ai New Grad: all dup v7-v198 (State Farm/Fortinet/Notion #403/Flexport etc.)
+
+<!-- === END 2026-04-26 SCAN v199 === -->
+
 <!-- === NEW 2026-04-26 SCAN v198 (Autonomous Agent — 25+ WebSearch queries (Ashby/Greenhouse/Lever Fall 2026; NVIDIA Workday new grad; security broad; SpeedyApply/jobright/zapplyjobs repos; CrowdStrike/Wiz; Perplexity/Cerebras/Groq; AI infra); 30+ companies checked; 4,039-entry history dedup'd; 5 genuinely new URLs: NVIDIA FlashInfer JR2017076+AI-Networking JR2017100+QA JR2016688 (all below threshold domain mismatch); Twitch SWE I $193k 8519628002 (~3.0/5 below threshold); Cerebras AI Cloud 6297566003 (Toronto non-US skip); 0 qualifying ≥4.0; WROTE missing reports #416 Cerebras AI Eng Intern (4.5/5) + #417 Vapi New Grad SWE (4.1/5); market FULLY SATURATED at ~4,045 entries after 198 scans) === -->
 <!-- 0 new evaluated ≥4.0. 1 new pipeline addition (Twitch below threshold). Reports #416 and #417 recreated. -->
 

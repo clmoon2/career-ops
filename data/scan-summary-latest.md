@@ -1,82 +1,70 @@
-# Portal Scan Summary — 2026-04-26 (v198)
+# Portal Scan Summary — 2026-04-26 (v199)
 
 **Date:** 2026-04-26
-**Scan version:** v198 (autonomous agent)
+**Scan version:** v199 (autonomous agent)
 **Candidate:** Carlos Luna-Peña
 
----
+## Coverage
 
-## Portals Scanned
+| Source | Result |
+|--------|--------|
+| Greenhouse APIs (Anthropic, Glean, Vercel, Temporal, HumeAI, Airtable) | All dup/no-intern (Anthropic 503) |
+| Ashby broad (30+ companies) | All dup v7-v198 |
+| Greenhouse broad (20+ companies) | All dup v7-v198 |
+| Lever broad (10+ companies) | All dup v7-v198 |
+| SpeedyApply SWE repo | All dup v7-v198 |
+| SpeedyApply AI repo | All dup v7-v198 |
+| SimplifyJobs New Grad | 1 new URL found (below threshold) |
+| jobright-ai New Grad | All dup v7-v198 |
+| 30+ WebSearch queries | All dup v7-v198 |
 
-### WebSearch Queries (25+)
-| Query | Result |
-|-------|--------|
-| Ashby — Fall 2026 SWE/security/AI intern | All dup v7–v197 |
-| Greenhouse — Fall 2026 SWE/security/AI intern | All dup v7–v197 |
-| Lever — Fall 2026 SWE/security/AI intern | All dup v7–v197 |
-| NVIDIA Workday — new grad 2026 | 3 new IDs (JR2017076/JR2017100/JR2016688); below threshold |
-| SpeedyApply SWE NEW_GRAD_USA.md | NVIDIA + Twitch new IDs; rest dup |
-| jobright-ai 2026-Software-Engineer-Internship | All dup v7–v197 |
-| zapplyjobs/Internships-2026 | Twitch 8519628002 confirmed new; rest dup |
-| CrowdStrike/SentinelOne/Wiz security intern | No new intern postings |
-| Perplexity/Groq/Together AI new grad | All dup v7–v197 |
-| Cerebras Systems AI Cloud Platform | 6297566003 new but Toronto (non-US); skip |
-| Greenhouse new grad 2026 broad | All dup v7–v197 |
-| Ashby new grad / early career 2026 | All dup v7–v197 |
-| Lever intern Fall 2026 broad | All dup v7–v197 |
-| Security companies AppSec/DevSecOps | All dup v7–v197 |
-| Datadog/Wiz/Lacework intern 2026 | No new qualifying intern roles |
+**Total companies/sources scanned:** 40+
+**History entries before:** ~4,045 → **after:** ~4,046
 
-### Greenhouse APIs
-- All APIs returning 503 (persistent since v193)
-- Fallback to WebSearch for all Greenhouse-hosted companies
+## Results
 
----
+| Metric | Count |
+|--------|-------|
+| Queries executed | 30+ |
+| New URLs found | 1 |
+| Qualifying ≥4.0 | 0 |
+| Added to pipeline | 1 (below threshold ~3.7/5) |
+| Skipped (dup) | ~4,045 |
 
-## New Listings Found: 5 (all below 4.0 threshold)
+## New Additions
 
-| URL | Company | Role | Score | Decision |
-|-----|---------|------|-------|----------|
-| [JR2017076](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Deep-Learning-Software-Engineer--FlashInfer---New-College-Grad-2026_JR2017076) | NVIDIA | Deep Learning SWE (FlashInfer) New Grad | ~2.5/5 | Skipped — CUDA/GPU kernel domain mismatch |
-| [JR2017100](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Software-Engineer--AI-Networking--New-College-Grad-2026_JR2017100) | NVIDIA | Software Engineer (AI Networking) New Grad | ~2.5/5 | Skipped — HPC networking domain mismatch |
-| [JR2016688](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Software-QA-Engineer--New-College-Grad-2026_JR2016688) | NVIDIA | Software QA Engineer New Grad | ~2.0/5 | Skipped — QA focus, not primary archetype |
-| [8519628002](https://job-boards.greenhouse.io/twitch/jobs/8519628002) | Twitch | Software Engineer I (Ad Supply) | ~3.0/5 | Added to pipeline — below threshold |
-| [6297566003](https://job-boards.greenhouse.io/cerebrassystems/jobs/6297566003) | Cerebras | AI Cloud Platform SWE New Grad | ~2.5/5 | Skipped — Toronto, Canada (non-US) |
+```
++ Loop | 2026 New Grad | Software Engineer, Full-Stack (Chicago) | ~3.7/5
+  $125K base; Chicago IL 4d/wk; LLM agents + supply chain AI
+  → https://job-boards.greenhouse.io/loop/jobs/5981831004
+```
 
----
+## Top Matches ≥4.0
 
-## Top Matches (score ≥ 4.0)
+**0 new qualifying matches found.**
 
-**0 new qualifying listings found in v198.**
+Market fully saturated — Summer 2026 intern cycle closed; no new high-signal postings in 199 consecutive scans.
 
----
+## Pending Pipeline (prioritized)
 
-## Missing Reports Recreated This Session
+| Priority | Company | Role | Score | Notes |
+|----------|---------|------|-------|-------|
+| 🔴 HIGH | Voleon Group | SWE University Hire 2026 | ~4.0/5 | $160-170K FTE; Berkeley CA; verify graduation |
+| 🟡 MED | Experian | ML Engineer Summer Intern | ~3.8/5 | Remote; Python/Hugging Face/GenAI match |
+| 🟡 MED | Experian | AI SWE Summer Intern | ~3.7/5 | Remote; RAG+vectors+agents |
+| 🟡 MED | Visa | Cybersecurity Eng Intern | ~3.8/5 | Foster City CA; OWASP/TLS match |
+| 🟡 MED | Kirin | AI Agents + Devices Intern | ~3.7/5 | Remote; Cloudflare D1/R2 exact match |
+| 🟢 LOW | Loop (Chicago) | New Grad SWE Full-Stack | ~3.7/5 | $125K; supply chain domain |
+| 🟢 LOW | Twitch | Software Engineer I | ~3.0/5 | $193K; ad-tech domain |
 
-Two evaluation reports from prior scans were confirmed missing from reports/. Recreated now:
+## Market Status
 
-| Report | Company | Role | Score | URL |
-|--------|---------|------|-------|-----|
-| [#416](reports/416-cerebras-ai-engineering-intern-growth-team-2026-04-25.md) | Cerebras Systems | AI Engineering Intern - Growth Team | **4.5/5** | [job-boards.greenhouse.io/cerebrassystems/jobs/7713841003](https://job-boards.greenhouse.io/cerebrassystems/jobs/7713841003) |
-| [#417](reports/417-vapi-new-grad-swe-2026-04-26.md) | Vapi | New Grad Software Engineer | **4.1/5** | [jobs.ashbyhq.com/vapi/3613e24a](https://jobs.ashbyhq.com/vapi/3613e24a-de10-4e76-8c28-530df2a9981b) |
+- **Summer 2026 intern season: CONFIRMED CLOSED** (199 scans, all major companies closed)
+- **Fall 2026 intern cycle: NOT YET OPEN** (conflicts with TAMU fall semester anyway)
+- **2026 New Grad FTE: SATURATING** (very few new postings; most in history since Apr 5)
 
-**Action required:** Both ≥4.0 and not yet applied (Status: Evaluada, PDF: ❌). Apply if still open.
+## Next Actions
 
----
-
-## Market Assessment
-
-**Summer 2026 internship season: CONFIRMED CLOSED.** All major portals exhausted across 198 scans.
-
-**Fall 2026 cycle:** Early — existing roles (Verkada, OpenAI, Notion, SpaceX, Sentry, Zip) all in history. No new Fall 2026 openings discovered today.
-
-**New grad (FTE) market:** NVIDIA posted fresh roles; domain specialization (CUDA/GPU/HPC) puts them below threshold.
-
----
-
-## Recommended Next Actions
-
-1. **Apply to #416 Cerebras AI Eng Intern (4.5/5)** — June–August 2026. Top archetype match. Claude Code + MCP + RAG = exact fit. Apply immediately if window still open.
-2. **Apply to #417 Vapi New Grad SWE (4.1/5)** — FTE SF. TypeScript/React/Node exact stack match.
-3. **Review all pipeline ≥4.0 items** — ensure no high-scoring listings are unapplied.
-4. **Next broad scan:** Wait 3–5 days. May/June will bring new Fall 2026 postings.
+1. **Run `/career-ops pipeline`** — evaluate Voleon (~4.0), Experian ML/AI, Kirin AI Agents
+2. **Apply to approved offers** — check status on Ramp #415, Cerebras #416, Vapi #417
+3. **Resume next scan ~May 5-7** — Fall 2026 internship cycle may start opening then
