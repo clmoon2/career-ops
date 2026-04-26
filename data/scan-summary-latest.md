@@ -1,70 +1,73 @@
-# Portal Scan Summary — 2026-04-26 (v199)
-
+# Portal Scan — 2026-04-26 (v200)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+**Scan version:** v200
 **Date:** 2026-04-26
-**Scan version:** v199 (autonomous agent)
 **Candidate:** Carlos Luna-Peña
 
-## Coverage
-
-| Source | Result |
-|--------|--------|
-| Greenhouse APIs (Anthropic, Glean, Vercel, Temporal, HumeAI, Airtable) | All dup/no-intern (Anthropic 503) |
-| Ashby broad (30+ companies) | All dup v7-v198 |
-| Greenhouse broad (20+ companies) | All dup v7-v198 |
-| Lever broad (10+ companies) | All dup v7-v198 |
-| SpeedyApply SWE repo | All dup v7-v198 |
-| SpeedyApply AI repo | All dup v7-v198 |
-| SimplifyJobs New Grad | 1 new URL found (below threshold) |
-| jobright-ai New Grad | All dup v7-v198 |
-| 30+ WebSearch queries | All dup v7-v198 |
-
-**Total companies/sources scanned:** 40+
-**History entries before:** ~4,045 → **after:** ~4,046
-
-## Results
+## Summary
 
 | Metric | Count |
 |--------|-------|
-| Queries executed | 30+ |
-| New URLs found | 1 |
-| Qualifying ≥4.0 | 0 |
-| Added to pipeline | 1 (below threshold ~3.7/5) |
-| Skipped (dup) | ~4,045 |
+| Sources checked | 50+ (SpeedyApply SWE+AI repos, SimplifyJobs New Grad, 6 Greenhouse APIs, 10+ WebSearch queries) |
+| Companies scanned | 50+ |
+| History entries before scan | ~4,060 |
+| Unique new URLs found | 27 |
+| Added to pipeline | 18 |
+| Skipped (score < 3.0) | 9 |
+| Qualifying ≥ 4.0 (full reports) | 0 |
 
-## New Additions
+## New Listings Added to Pipeline
 
-```
-+ Loop | 2026 New Grad | Software Engineer, Full-Stack (Chicago) | ~3.7/5
-  $125K base; Chicago IL 4d/wk; LLM agents + supply chain AI
-  → https://job-boards.greenhouse.io/loop/jobs/5981831004
-```
+All 18 new listings score below 4.0. No full evaluation reports written (none hit threshold).
 
-## Top Matches ≥4.0
+| Score | Company | Role | Location | URL |
+|-------|---------|------|----------|-----|
+| ~3.6/5 | Acorns | Software Engineering Intern | Remote US | https://jobs.ashbyhq.com/acorns/eafd7d09-b689-472d-80d1-65fbfa0e00c7 |
+| ~3.4/5 | Virtru | Graduate Software Developer Intern | Washington DC | https://job-boards.greenhouse.io/virtru/jobs/4653402005 |
+| ~3.4/5 | Meshy | Generative AI Researcher Intern | Sunnyvale CA | https://jobs.ashbyhq.com/meshy/4be984f5-c843-44a6-bdd7-4b931d28ef91 |
+| ~3.3/5 | Allen Institute for AI | Research Internship — AI for Science | Seattle WA | https://job-boards.greenhouse.io/thealleninstitute/jobs/7366257 |
+| ~3.2/5 | Meshy | Machine Learning Systems Intern | Sunnyvale CA | https://jobs.ashbyhq.com/meshy/30c936df-5745-43aa-8dec-2658d0775e74 |
+| ~3.2/5 | Mercator (YC) | Software Engineer Intern | San Francisco | https://jobs.ashbyhq.com/mercator/102d3cd4-fd35-4075-9552-fcb4e1497bb1 |
+| ~3.2/5 | Klaviyo | Software Engineer 1 (New Grad) | Boston MA | https://job-boards.greenhouse.io/klaviyocampus/jobs/7602542003 |
+| ~3.2/5 | Kirin | Quantitative Research Intern — Prediction Markets | New York City | https://jobs.ashbyhq.com/kirin/93648515-7e6c-43f4-bdcb-0c072f22a15a |
+| ~3.2/5 | LMI Innovation | AI Engineer Intern — USPS | Tysons VA | https://careers-lmi.icims.com/jobs/13491/ai-engineer-intern-%28usps%29---summer-2026/job |
+| ~3.2/5 | Dryft | Full-Stack Engineering Intern | San Francisco | https://jobs.ashbyhq.com/dryft/3f1c261d-9b65-412b-9f17-34b8968bdd78 |
+| ~3.1/5 | d-Matrix | Software Engineering Intern (Simulation) | Santa Clara CA | https://jobs.ashbyhq.com/d-matrix/0abbd071-4abf-46b8-bcff-242cd4f4e491 |
+| ~3.1/5 | 8VC | Software Engineer New Grad | San Francisco | https://jobs.ashbyhq.com/8vc/4fea7270-2409-4701-b147-fc961d95588d |
+| ~3.0/5 | Nymbus | AI-First Software Engineer (Entry Level) | Atlanta GA | https://nymbus.com/careers?gh_jid=5785973004 |
+| ~3.0/5 | Perpay | Software Engineer — New Grad | Philadelphia PA | https://job-boards.greenhouse.io/perpay/jobs/4034578007 |
+| ~3.0/5 | Nectar Social | Software Engineer — Early Career | Palo Alto CA | https://jobs.ashbyhq.com/nectar-social/606df770-4167-4066-bbfd-d7464b28d9b2 |
+| ~3.0/5 | Terranova | Software Engineering Intern | Berkeley CA | https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0 |
+| ~3.0/5 | Persona AI | Software Engineering Intern | Pensacola FL | https://jobs.ashbyhq.com/persona.ai/8a866ae6-613e-4d46-af2d-7dc13eb926bb |
+| ~3.0/5 | LMI Innovation | Software Engineering Intern — USPS | Tysons VA | https://careers-lmi.icims.com/jobs/13493/software-engineering-intern-%28usps%29---summer-2026/job |
 
-**0 new qualifying matches found.**
+## Listings Skipped (Below 3.0 Threshold)
 
-Market fully saturated — Summer 2026 intern cycle closed; no new high-signal postings in 199 consecutive scans.
-
-## Pending Pipeline (prioritized)
-
-| Priority | Company | Role | Score | Notes |
-|----------|---------|------|-------|-------|
-| 🔴 HIGH | Voleon Group | SWE University Hire 2026 | ~4.0/5 | $160-170K FTE; Berkeley CA; verify graduation |
-| 🟡 MED | Experian | ML Engineer Summer Intern | ~3.8/5 | Remote; Python/Hugging Face/GenAI match |
-| 🟡 MED | Experian | AI SWE Summer Intern | ~3.7/5 | Remote; RAG+vectors+agents |
-| 🟡 MED | Visa | Cybersecurity Eng Intern | ~3.8/5 | Foster City CA; OWASP/TLS match |
-| 🟡 MED | Kirin | AI Agents + Devices Intern | ~3.7/5 | Remote; Cloudflare D1/R2 exact match |
-| 🟢 LOW | Loop (Chicago) | New Grad SWE Full-Stack | ~3.7/5 | $125K; supply chain domain |
-| 🟢 LOW | Twitch | Software Engineer I | ~3.0/5 | $193K; ad-tech domain |
+| Reason | Company | Role |
+|--------|---------|------|
+| PhD preferred + healthcare domain | Cotiviti | Generative AI Research Engineer Intern |
+| PhD preferred + healthcare domain | Cotiviti | Generative AI Developer Intern |
+| RL specialization + non-hub location | Persona AI | Reinforcement Learning Engineering Intern |
+| EV/mobility domain mismatch | Infinite Machine | AI Intern |
+| Autonomous driving + 2yr exp likely | Aurora Innovation | Software Engineer 1 |
+| Defense clearance required | MORSE Corp | Python Software Engineer Co-op |
+| Defense clearance required | MORSE Corp | Full Stack Software Engineer Co-op |
+| Staffing firm model | mthree | Entry Level Software Developer |
+| Healthcare telehealth domain | Ophelia | Software Engineer 1 |
 
 ## Market Status
 
-- **Summer 2026 intern season: CONFIRMED CLOSED** (199 scans, all major companies closed)
-- **Fall 2026 intern cycle: NOT YET OPEN** (conflicts with TAMU fall semester anyway)
-- **2026 New Grad FTE: SATURATING** (very few new postings; most in history since Apr 5)
+**Summer 2026 intern season: CONFIRMED CLOSED** — all Summer 2026 deadlines have passed or roles are filled. The remaining new entries are late-posted Summer 2026 roles or new grad FTE positions.
 
-## Next Actions
+**Fall 2026 cycle:** Not yet active. Expect companies to post Fall 2026 co-ops/internships starting May-June 2026.
 
-1. **Run `/career-ops pipeline`** — evaluate Voleon (~4.0), Experian ML/AI, Kirin AI Agents
-2. **Apply to approved offers** — check status on Ramp #415, Cerebras #416, Vapi #417
-3. **Resume next scan ~May 5-7** — Fall 2026 internship cycle may start opening then
+**History saturation:** ~4,088 entries after 200 scans. The major job boards (Ashby, Greenhouse, Lever) have been comprehensively scanned.
+
+## Recommended Next Actions
+
+1. **Write missing reports** — Reports #416 (Cerebras AI Eng Intern) and #417 (Vapi New Grad SWE) are in tracker but files are missing
+2. **Evaluate pipeline items** — 50+ items still pending in pipeline.md including strong matches already added in prior scans
+3. **Best new find: Acorns (Remote, ~3.6/5)** — Well-known fintech savings app, fully remote, est. $45-50/hr; worth a quick full evaluation via `/career-ops pipeline`
+4. **Apply to active high-score offers** — Focus energy on already-evaluated roles ≥4.0 that haven't been applied to yet
+5. **Watch for Fall 2026 postings** — Run `/career-ops scan` again in early May when Fall 2026 cycles typically open
+6. **Consider new grad FTE roles** — If open to starting full-time post-graduation: Klaviyo SWE 1 (Boston), 8VC New Grad (SF), Nymbus AI-First (Atlanta) all warrant evaluation

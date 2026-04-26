@@ -3380,3 +3380,29 @@ All 181 prior tracked companies re-confirmed; Twilio only new URL (7850821) foun
 - **Next steps:** Shift focus to active pipeline items (Snyk #397 active, Cerebras #416 deadline approaching, Ramp #415); consider Fall 2026 cycle starting May-June
 
 <!-- === END 2026-04-26 SCAN v197 === -->
+
+<!-- === BEGIN 2026-04-26 SCAN v200 === -->
+## Scan v200 — 2026-04-26
+
+### New Listings Found
+
+- [ ] https://jobs.ashbyhq.com/acorns/eafd7d09-b689-472d-80d1-65fbfa0e00c7 | Acorns | Software Engineering Intern (Remote) | Remote US; well-known fintech savings/investing app (Google/Apple/Amazon backed); Python/backend; strong brand; comp est ~$45-50/hr; (~3.6/5)
+- [ ] https://job-boards.greenhouse.io/virtru/jobs/4653402005 | Virtru | Graduate Software Developer Intern | Washington DC; data privacy/encryption platform (end-to-end encryption for email/cloud); security alignment with Carlos's OAuth/HMAC/TLS work; "Graduate" = recent grad eligible; comp est ~$40-50/hr; (~3.4/5)
+- [ ] https://job-boards.greenhouse.io/thealleninstitute/jobs/7366257 | Allen Institute for AI | Research Internship — AI for Science | Seattle WA; Ai2 is prestigious AI nonprofit (Paul Allen); different track from 7366263 (Agentic LLMs); AI for scientific discovery; Python/ML; comp likely ~$35-45/hr; (~3.3/5)
+- [ ] https://jobs.ashbyhq.com/meshy/4be984f5-c843-44a6-bdd7-4b931d28ef91 | Meshy | Generative AI Researcher Intern | Sunnyvale CA; Meshy AI (3D generation AI platform, $13M Series A); GenAI research focus; multi-model + vision; ~$35-45/hr est; (~3.4/5)
+- [ ] https://jobs.ashbyhq.com/meshy/30c936df-5745-43aa-8dec-2658d0775e74 | Meshy | Machine Learning Systems Intern | Sunnyvale CA; ML systems/infrastructure at Meshy 3D AI; PyTorch/distributed; comp est ~$35-45/hr; (~3.2/5)
+- [ ] https://jobs.ashbyhq.com/dryft/3f1c261d-9b65-412b-9f17-34b8968bdd78 | Dryft | Full-Stack Engineering Intern | San Francisco; seed-stage startup (details TBD); full-stack; comp unknown; (~3.2/5 — verify company before applying)
+- [ ] https://jobs.ashbyhq.com/d-matrix/0abbd071-4abf-46b8-bcff-242cd4f4e491 | d-Matrix | Software Engineering Intern (Simulation and Modeling) | Santa Clara CA; d-Matrix makes AI inference chips (AMD Instinct competitor); simulation/modeling domain gap; comp est ~$40/hr; (~3.1/5)
+- [ ] https://jobs.ashbyhq.com/kirin/93648515-7e6c-43f4-bdcb-0c072f22a15a | Kirin | Quantitative Research Intern — Prediction Markets | New York City; different from Kirin AI Agents (38772f01 already in pipeline); prediction markets + quant; Carlos has Bloomberg/Alpaca trading project; comp unknown; (~3.2/5)
+- [ ] https://job-boards.greenhouse.io/klaviyocampus/jobs/7602542003 | Klaviyo | Software Engineer 1 (New Grad) | Boston MA in-office; email/SMS marketing platform; FTE new grad; $100-130K est; companion to Full-Stack Intern (7603083003 already in pipeline); (~3.2/5)
+- [ ] https://jobs.ashbyhq.com/8vc/4fea7270-2409-4701-b147-fc961d95588d | 8VC | Software Engineer New Grad | San Francisco; 8VC venture firm portfolio company; comp est $120-150K; YC-style early stage; (~3.1/5 — verify exact company context)
+- [ ] https://jobs.ashbyhq.com/mercator/102d3cd4-fd35-4075-9552-fcb4e1497bb1 | Mercator | Software Engineer Intern | San Francisco; YC-backed AI-assisted geospatial data analytics (Tribe Capital, Soma Capital, Amplify Partners, Rebel Fund); Python/data tools; comp unknown; (~3.2/5)
+- [ ] https://careers-lmi.icims.com/jobs/13491/ai-engineer-intern-%28usps%29---summer-2026/job | LMI Innovation | AI Engineer Intern — USPS (Summer 2026) | Tysons VA; Logistics Management Institute (government consulting firm); AI engineering for USPS modernization; Python/LLM work; comp est ~$25-35/hr; (~3.2/5)
+- [ ] https://nymbus.com/careers?gh_jid=5785973004 | Nymbus | AI-First Software Engineer (Entry Level) | Atlanta GA; banking technology platform; "AI-first" culture; Atlanta location; comp est $90-120K; (~3.0/5)
+- [ ] https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0 | Terranova | Software Engineering Intern | Berkeley CA; unknown company — verify before applying; comp unknown; (~3.0/5)
+- [ ] https://job-boards.greenhouse.io/perpay/jobs/4034578007 | Perpay | Software Engineer — New Grad | Philadelphia PA; fintech buy-now-pay-later consumer lending; comp est $100-120K; (~3.0/5)
+- [ ] https://jobs.ashbyhq.com/nectar-social/606df770-4167-4066-bbfd-d7464b28d9b2 | Nectar Social | Software Engineer — Early Career | Palo Alto CA; professional social networking platform; comp est $90-120K; (~3.0/5)
+- [ ] https://jobs.ashbyhq.com/persona.ai/8a866ae6-613e-4d46-af2d-7dc13eb926bb | Persona AI | Software Engineering Intern | Pensacola FL; location is not a major tech hub; AI product (unclear domain); comp unknown; (~3.0/5 — location downgrade)
+- [ ] https://careers-lmi.icims.com/jobs/13493/software-engineering-intern-%28usps%29---summer-2026/job | LMI Innovation | Software Engineering Intern — USPS (Summer 2026) | Tysons VA; SWE intern companion to AI Engineer role; government consulting; comp est ~$22-30/hr; (~3.0/5)
+
+<!-- === END 2026-04-26 SCAN v200 === -->
