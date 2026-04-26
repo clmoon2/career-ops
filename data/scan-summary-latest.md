@@ -1,101 +1,78 @@
-# Portal Scan Summary — 2026-04-26 (v194)
+# Portal Scan — 2026-04-26 (v195)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan:** v194 (autonomous agent)
 **Date:** 2026-04-26
-**History size:** ~3,995 entries (after 194 scans)
+**Scan version:** v195
+**History entries at start:** ~3,994
+**History entries at end:** ~4,003
+
+## Execution Summary
+
+| Source | Result |
+|--------|--------|
+| Greenhouse APIs (Anthropic/Glean/Arize/Airtable/Vercel/Temporal/Hume/Intercom) | All 503 (persistent since v193) |
+| Ashby broad (Fall 2026 / new grad / AI / security) | 20+ queries |
+| Greenhouse broad (Fall 2026 / security / DevOps) | 10+ queries |
+| Lever broad (Fall 2026 / security) | 5+ queries |
+| SpeedyApply SWE + AI repos | All confirmed dups (same as v192-v194) |
+| Security companies (Snyk/Semgrep/Wiz/Delinea/1Password/CrowdStrike) | 5 targeted queries |
+| Consulting (Deloitte/Accenture/McKinsey) | Summer 2026 apps confirmed closed |
+
+**Total new URLs found:** 8
+**Confirmed dups:** 100+
 
 ---
 
-## Coverage
+## New Listings Found
 
-### Greenhouse APIs (Level 2 — recovered after v193 503 errors)
-- Anthropic — no new intern/new-grad roles; Fellows programs all confirmed dup
-- Glean — University Grad + all SWE/ML/Security roles confirmed dup (v7-v193)
-- Arize AI — all senior roles, no interns; confirmed dup
-- Airtable — no interns; new grad confirmed dup
-- Vercel — no interns; all senior roles confirmed dup
-- Temporal — empty board (0 jobs)
-- Hume AI — no interns/new grads; confirmed dup
-- Intercom — no interns; all senior roles
+### ✅ Evaluated ≥ 4.0
 
-### WebSearch Queries (Level 3 — 14+ queries)
-- Fall 2026 Greenhouse (`fall 2026 intern software engineer AI security`)
-- Fall 2026 Ashby (`fall 2026 intern software engineer AI site:jobs.ashbyhq.com`)
-- Fall 2026 Lever (`intern 2026 software engineer site:jobs.lever.co`)
-- New grad Ashby broad (`new grad 2026 software engineer AI site:jobs.ashbyhq.com`)
-- New grad Greenhouse broad (`new grad 2026 software engineer site:job-boards.greenhouse.io`)
-- Consulting — Deloitte technology intern 2026
-- Consulting — PwC technology / AI intern 2026
-- Consulting — Accenture Technology Summer Analyst
-- Financial — Capital One / Stripe / Brex / Plaid intern 2026
-- Defense — Booz Allen Hamilton intern 2026
-- GitHub aggregator — zapplyjobs/Internships-2026 (0-5d fresh)
-- GitHub aggregator — speedyapply/2026-AI-College-Jobs (0-1d fresh)
-- Cloudflare Fall 2026 intern roles
-- Financial services — JPMorgan / Goldman Sachs intern 2026
+| # | Company | Role | Score | Notes |
+|---|---------|------|-------|-------|
+| [416](reports/416-snyk-security-engineer-intern-2026-04-26.md) | **Snyk** | Security Engineer Intern | **4.2/5** | #1 developer security platform; summer intern; flexible/remote; Python + security automation; adversarial testing overlap |
+
+### Below Threshold
+
+| Company | Role | Score | Notes |
+|---------|------|-------|-------|
+| BRM | Entry Level Software Engineer | ~3.3/5 | AI super agents; full-time entry-level; early-stage startup |
+| Oligo Space | ML/AI Intern (Fall 2026) | ~2.5/5 | Spacecraft manufacturing ML; domain mismatch |
+| Delinea | Software Engineering Intern | ~3.0/5 | Identity security; undated/rolling listing |
+
+### Skipped
+
+| Company | Role | Reason |
+|---------|------|--------|
+| CertiK | SWE Intern Fall | Blockchain → negative keyword |
+| Verkada | Embedded SWE Intern Fall 2026 | Embedded → negative keyword |
+| SPLC | Cybersecurity Intern Fall 2026 | Non-profit civil rights org; ~2.0/5 |
+| Altom Transport | Summer 2026 Dev Intern | Transportation company; Houston TX; ~2.0/5 |
 
 ---
 
-## Results
+## ⚡ Action Item — Apply to Snyk #416
 
-| Metric | Count |
-|--------|-------|
-| Portals / queries executed | 22 |
-| URLs found (total across all queries) | 70+ |
-| New URLs (not in ~3,984-entry history) | 10 |
-| Passed title filter | 7 |
-| Skipped — closed deadline | 6 |
-| Skipped — poor fit / location | 3 |
-| Skipped — title mismatch | 1 |
-| **New added to pipeline** | **0** |
-| Qualifying ≥ 4.0 / reports written | **0** |
+Snyk is the #1 developer security platform (Series E, ~$8.5B valuation 2021). First Snyk intern listing found in 195 scans.
+
+Carlos's CV match:
+- Defense-in-depth security (CORS, HMAC-SHA256, TLS 1.3, CSP, PII redaction)
+- OAuth proxy engineering with timing-safe signature verification
+- Adversarial LLM prompt injection testing
+- 35K-line Python backend (Finch/ApplyEasy)
+
+**Verify the role is still active, then apply.** The listing uses older `boards.greenhouse.io` URL format — confirm open before investing time.
 
 ---
 
-## New URLs Discovered (all skipped)
+## Market Status
 
-| Company | Role | Status | Reason |
-|---------|------|--------|--------|
-| Mercury | Full-Stack Engineering Intern (Fall 2026) | skipped_closed | Deadline March 6, 2026; Haskell stack |
-| Mercury | Backend Engineering Intern (Fall 2026) | skipped_closed | Deadline March 6, 2026 |
-| PwC | Assurance AI Technology Intern (Summer 2026) | skipped_closed | Big 4 summer apps closed (Sep-Feb cycle); confirmed v190 |
-| PwC | Advisory National AI Engineering Intern (Summer 2026) | skipped_closed | Same — Big 4 summer apps closed |
-| PwC | Data & Analytics Technology Consulting Intern (Summer 2026) | skipped_closed | Same |
-| Hermeus | Modeling & Simulation SWE Intern (Fall 2026) | skipped | Aerospace sim stack; no relevant background; ~2.5/5 |
-| Hermeus | Hardware-In-the-Loop SWE Intern (Fall 2026) | skipped | Embedded hardware; ~2.0/5 |
-| Faire | Data Science Intern (Personalization & Recommender Systems) | skipped_title | No positive keyword match in title |
-| MITRE Corporation | Software Systems Engineering Intern (Omaha, NE) | skipped | Poor location (Omaha); defense research; ~3.0/5 |
-| Capital One | Technology Internship Program (Summer 2026) | skipped_closed | Large banks hire Jan-Feb; deadline likely passed |
+- **Summer 2026:** CONFIRMED CLOSED across all major portals (since v190)
+- **Fall 2026:** Still early; most roles open May-August 2026
+- **New grad 2026:** Already saturated (Loop, Airtable, Replit, Zip, Decagon — all in history)
+- **Greenhouse APIs:** Persistently 503 since v193; likely back soon
 
----
+## Next Actions
 
-## Market Assessment
-
-**Summer 2026 intern season: CONFIRMED CLOSED**
-- Big 4 consulting firms (PwC, Deloitte, EY, KPMG): summer intern apps closed (noted v190)
-- Fintech firms (Brex, Mercury, Capital One): deadlines January-March 2026
-- AI/SWE platforms (Glean, Arize, Vercel, Airtable): no new intern postings
-- All major tracked companies: ~3,995 history entries covering 193+ prior scans
-
-**Fall 2026 cycle: EARLY STAGE**
-- Only a handful of Fall 2026 listings found (Hermeus, Verkada — both poor fit or already in history)
-- Large companies (Google, Microsoft, Meta, Cloudflare 1111-intern program) typically post Fall 2026 roles May-June
-- Best strategy: re-scan around May 15-20 for Fall 2026 openings
-
-**New grad FTE: ACTIVE**
-- Multiple new grad roles already in pipeline (Glean, Decagon, Whatnot, Zip, Harvey, Loop, Benchling, Replit)
-- These are rolling / year-round — worth prioritizing now if graduation timeline permits
-
----
-
-## Recommended Next Actions
-
-1. **DEADLINE TODAY (Apr 26)** — Anthropic Fellows: AI Security (#246 4.7/5), AI Safety (#370 4.2/5), ML Systems (#372 4.1/5)
-2. **Process pipeline** — Run `/career-ops pipeline` to evaluate 1,100+ pending items (many ~3.5-4.0 range)
-3. **Pause Summer 2026 scan** — Season is closed; no new listings will appear
-4. **Re-scan May 15-20** for Fall 2026 cycle openings at major tech companies
-5. **Pivot to new grad FTE** — Evaluate Glean University Grad, Decagon Agent SWE New Grad, Harvey SWE New Grad if graduation timeline permits
-
----
-
-*Next scan recommended: 2026-05-15 (Fall 2026 cycle launch check)*
+1. Apply to Snyk #416 — highest priority
+2. Reduce scan frequency to 2x/week until Fall 2026 cycle opens (June+)
+3. Watch for new Fall 2026 openings at: Cloudflare, Stripe, Wiz, Tenable, Datadog

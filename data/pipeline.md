@@ -1,5 +1,22 @@
 # Pipeline -- Pending URLs
 
+<!-- === NEW 2026-04-26 SCAN v195 (Autonomous Agent — Greenhouse APIs 503 (persistent since v193); 20+ WebSearch queries (Fall 2026 Ashby+Greenhouse+Lever; security AppSec; new grad; Snyk/Semgrep/Wiz/Delinea; DevOps/SRE; Verkada; SpeedyApply repos); ~3,994-entry history dedup'd; 8 genuinely new URLs; 1 qualifying ≥4.0 (Snyk Security Eng Intern 4.2/5 → #416); 3 below threshold (BRM/Oligo/Delinea); 4 skipped; ~4,003 entries after 195 scans) === -->
+<!-- 1 new evaluated ≥4.0 (#416 Snyk 4.2/5). 3 new pipeline additions (below threshold). -->
+
+### New additions — scan-v195 — evaluated ≥4.0
+- [x] https://boards.greenhouse.io/snyk/jobs/7715204002 | Snyk | Security Engineer Intern | 4.2/5 | EVALUATED #416 | Summer intern; dev security platform; HMAC+TLS+defense-in-depth+adversarial LLM match; verify still active
+
+### New additions — scan-v195 (below threshold)
+- [ ] https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189 | BRM | Entry Level Software Engineer | ~3.3/5 | NEW v195; AI super agents; full-time entry-level
+- [ ] https://jobs.ashbyhq.com/oligo/107f5148-84bd-43ba-a49d-ac8928898ca6 | Oligo Space | ML/AI Intern (Fall 2026) | ~2.5/5 | NEW v195; spacecraft manufacturing ML; Fall 2026; domain mismatch
+- [ ] https://jobs.ashbyhq.com/delinea/c20f90dc-e242-4431-b2ee-559d4f4c359a | Delinea | Software Engineering Intern | ~3.0/5 | NEW v195; identity security; undated/rolling listing
+
+### Skipped — scan-v195
+- https://jobs.lever.co/certik/cc4bc2b7-ee87-43be-81c9-09c8b0411a7e — CertiK Fall intern — blockchain → skipped_title
+- https://job-boards.greenhouse.io/verkada/jobs/5099596007 — Verkada Embedded Fall 2026 — embedded/IoT → skipped_title
+- https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8495549002 — SPLC Cybersecurity Fall 2026 — non-profit; ~2.0/5
+- https://apply.workable.com/altom-transport/j/D926279465/ — Altom Transport Summer 2026 — transportation; ~2.0/5
+
 <!-- === NEW 2026-04-26 SCAN v194 (Autonomous Agent — Greenhouse APIs WORKING (recovered after v193 503s): Anthropic/Glean/Arize/Airtable/Vercel/Temporal/Hume/Intercom all checked; 14+ WebSearch queries (Fall 2026 Greenhouse+Ashby+Lever; PwC/Deloitte/Accenture consulting; Capital One/Brex/Stripe fintech; GitHub zapplyjobs+SpeedyApply aggregators; new grad Ashby broad); ~3,984-entry history dedup'd; 10 genuinely new URLs found across all queries — Mercury Full-Stack+Backend Fall 2026 (CLOSED March 6 deadline; Haskell stack mismatch); PwC AI Tech+Advisory AI+D&A Tech Consulting (CLOSED per v190 note — Big 4 summer apps close Sep-Feb); Hermeus M&S+HW-in-Loop Fall 2026 (poor fit, aerospace sim); Faire Data Science (skipped_title); MITRE Omaha NE (poor location); Capital One Tech Intern (CLOSED Jan-Feb deadline); 0 qualifying ≥4.0; 0 new pipeline additions; Summer 2026 intern season CONFIRMED CLOSED across all major portals; Fall 2026 cycle still early; market SATURATED at ~3,995 entries after 194 scans) === -->
 <!-- 0 new evaluated ≥4.0. 0 new listings added. -->
 
