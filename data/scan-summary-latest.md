@@ -1,42 +1,107 @@
-# Portal Scan — 2026-04-26 (v189)
+# Portal Scan Summary — 2026-04-26 (v191)
 
-## Stats
-- Queries executed: 35+ WebSearch queries + Greenhouse APIs + Ashby/Lever direct
-- Offers found: ~80+ across all sources
-- Filtered by title/score: ~78 (senior FTE, wrong domain, wrong location, wrong seniority)
-- Duplicates: ~76 (already in history from v7-v188)
-- New added to pipeline.md: 2
+**Date:** 2026-04-26  
+**Scan number:** v191  
+**Agent:** Autonomous scan  
+
+---
+
+## Results
+
+| Metric | Count |
+|--------|-------|
+| Sources scanned | 30+ (Greenhouse APIs × 12, Ashby × 25+, Lever × 20+, SpeedyApply SWE+AI, SimplifyJobs, HN April 2026, WebSearch × 20+ queries, new companies) |
+| Total history entries before scan | 3,941 |
+| Total history entries after scan | 3,956 |
+| Genuinely new URLs found | 5 |
+| Skipped (location — non-US) | 3 |
+| Skipped (score < 4.0) | 2 |
+| Qualifying new listings (≥4.0) | 0 |
+| Added to pipeline | 1 (below threshold) |
+
+---
+
+## New Listings Found
+
+### Below Threshold (added to pipeline for later review)
+
+| Company | Role | Score | Notes |
+|---------|------|-------|-------|
+| OpenSesame | Security and Compliance Internship (Summer 2026) | ~3.0/5 | Remote US; B2B SaaS eLearning; GRC focus not engineering; creative application required |
+
+### Skipped
+
+| Company | Role | Reason |
+|---------|------|--------|
+| Cloudflare | Infrastructure Deployment Engineer Intern | London/Lisbon only — non-US |
+| Cloudflare | GRC Team Intern Summer 2026 (×2 locations) | Lisbon only — non-US |
+| TMEIC Corporation Americas | AI/ML Intern Summer 2026 | Roanoke VA; industrial automation domain; ~2.5/5 |
+| AGE Solutions | Engineering Internship | Defense contractor; clearance required; no actual intern posting |
+
+---
 
 ## Sources Scanned
-- Greenhouse APIs: Anthropic, Glean, Vercel, Airtable, Arize AI, Temporal, RunPod, Hume AI, Intercom, PolyAI — all confirmed senior FTE or empty
-- Ashby broad: 30+ tracked companies — all confirmed dup v7-v188
-- Lever broad: 20+ tracked companies — all confirmed dup v7-v188
-- SimplifyJobs Summer 2026: 0-2d entries — all dup or non-target
-- SpeedyApply SWE + AI repos: all 0-2d entries dup or below threshold
-- jobright-ai new grad: all dup v7-v188
-- New angle searches: Voleon university hire, Kirin AI, Alarm.com DevOps, Riot Games (closed), Lattice Semi (FPGA domain), Bosch AI R&D (manufacturing), State Street Cloud Eng (6-month wrong timeline)
 
-## New Listings Added
+### Greenhouse APIs (Level 2)
+- Anthropic, Glean, Vercel, Airtable, Arize AI, Temporal, RunPod, HumeAI, Intercom, PolyAI — all confirmed dup v7-v190
+- **Databricks** (API back online after 503s) — 200+ FTE, 0 new intern/new-grad
+- **Cloudflare** (API back online after 503s) — found 5 new non-SWE interns, all non-US locations
 
-+ The Voleon Group | Software Engineer - University Hire 2026 | ~4.0/5 | $160K-$170K Berkeley CA FTE new-grad
-+ Kirin | Software Engineering Intern, AI Agents + Devices | ~3.7/5 | Remote AI startup (seed stage)
+### Ashby (Level 1 — 25+ companies)
+All confirmed dup: Notion, Replit, Farsight, Cohere, Giga, Fizz, Zettabyte, Ramp, Whatnot, Harvey, Decagon, Benchling, Zip, Sentry, Solace, Pylon, Quora, Perplexity (EU-only), ElevenLabs, Vapi, Deepgram, LangChain, Zapier, n8n, Kirin, Sierra, Cursor (no listings)
 
-## Skipped — Notable
+### Lever (Level 1 — 20+ companies)
+All confirmed dup: Palantir (all tracks), Voleon, Symmetry Systems, Shield AI, Artera, Nominal, SoloPulse, The Athletic, Rigetti, Best Egg, Tevora, Actian
 
-- Voleon Full-stack University Hire 2026 — London UK; non-US location
-- Lyft SWE Backend Intern (8130804002 / 8128890002) — alias URLs for existing pipeline entry 8149370002
-- Alarm.com DevOps Intern (7852339002) — Tysons VA on-site; ~3.2/5 below threshold
-- Riot Games SWE Intern remote — deadline Oct 31 2025; CLOSED
-- Lattice Semiconductor Agentic AI Intern — FPGA domain; negative keyword
-- Bosch AI R&D Intern — manufacturing/automotive domain; ~2.5/5
-- State Street Cloud Engineering — 6-month Jul-Dec; wrong timeline
+### SpeedyApply SWE (0-1d entries)
+NVIDIA JAX Fall 2026, Altom, Aptiv, Axiomatic AI (dup v189), Axway, KBR, Leidos, Rainmaker, Verkada AI Fall (dup v186), Vital Lyfe — all confirmed dup from v189; CACI, Cadence, Blackpoint (SkillBridge military-only), General Dynamics, Thales — all non-target or dup
+
+### SpeedyApply AI (0-1d entries)
+Cerebras (dup #416), Lattice ML Ops (semiconductor), TMEIC (NEW — industrial automation ~2.5/5), Resolve Tech (SAP neg keyword), TIFIN (dup), Adobe ML (dup), Bosch (dup), HelloFresh (dup), Kion Group (industrial mfg), Labcorp (medical), Sharp (supply chain), Pinterest (Masters/PhD only)
+
+### New Companies Checked
+- **Cursor/Anysphere** — no public intern listings
+- **Groq** — no intern listings on Lever/Greenhouse/Ashby
+- **Perplexity AI** — EU intern roles only (Berlin/Belgrade/London; no US)
+- **Avanade** — no confirmed 2026 summer intern URL found
+- **Modal Labs** — no intern listings visible
+- **Cognition AI** — no intern listings found
+
+### Aggregators
+- **SimplifyJobs Summer2026-Internships** — all 0-1d entries confirmed dup v7-v190
+- **HN Who is Hiring April 2026** — no intern/new-grad tech listings matching profile
+
+---
+
+## Market Status
+
+**Summer 2026 internship market is FULLY SATURATED at 3,956 entries after 191 consecutive scans.**
+
+The market has passed peak application season. The April 26 deadline for Anthropic Fellows has now passed. Most companies posted Summer 2026 internships between September 2025 and March 2026.
+
+---
+
+## High-Priority Open Applications (still "Evaluada")
+
+| # | Company | Role | Score | Notes |
+|---|---------|------|-------|-------|
+| 416 | Cerebras Systems | AI Engineering Intern | 4.5/5 | Verify deadline |
+| 413 | C3 AI | SWE Intern | 4.1/5 | May-Sep; Redwood City CA |
+| 409 | OpenAI | Systems Research Intern | 4.2/5 | Verify listing active |
+| 405 | Julius AI | SWE Product New Grad | 4.2/5 | SF; $130-150K |
+| 404 | Turbo AI | SWE Intern | 4.2/5 | $60/hr + housing; SF |
+| 403 | Notion | SWE New Grad | 4.3/5 | Verify graduation eligibility |
+| 391 | Netflix | SWE Intern | 4.2/5 | Los Gatos CA; verify deadline |
+| 389 | Verkada | Security SWE New Grad | 4.1/5 | $148-218K; San Mateo CA |
+| 388 | ByteDance | SWE AI Security Intern | 4.3/5 | San Jose CA; Chinese parent risk |
+| 382 | Replit | SWE New Grad | 4.5/5 | $120-140K; Foster City CA |
+
+---
 
 ## Recommended Next Actions
 
-1. **Evaluate Voleon SWE University Hire 2026** — $160K-$170K FTE new-grad in Berkeley, same firm Carlos evaluated at 4.1/5 for the intern role (#361). Verify graduation eligibility (Class of 2026 requirement). URL: https://jobs.lever.co/voleon/7c185ae4-3fdd-4613-8152-3ede45d2b7c0
+1. **Apply to high-priority open roles** — Run `/career-ops pipeline` to process #382-416 in applications tracker.
+2. **Shift focus to new-grad FTE** — Summer 2026 intern market is nearly closed. New-grad FTE (Replit, Harvey, Notion, Verkada, Julius AI, Palantir FDSE #143 4.7/5) are the primary targets.
+3. **Next scan** — Wait 3-5 days. Consider targeting Fall 2026 internships and 2026/2027 new-grad roles in the next scan cycle.
 
-2. **Evaluate Kirin AI SWE Intern** — Remote AI startup building AI agents + anime news anchor. LLMs + CV + Cloudflare stack matches Carlos's profile well. Seed stage so comp is TBD. URL: https://jobs.ashbyhq.com/Kirin/38772f01-84fd-4f09-a36d-e7fa86341b99
-
-3. **Market note** — Summer 2026 internship market is FULLY SATURATED after 189 consecutive scans. The few new listings appearing are either FTE new-grad tracks (like Voleon) or small seed-stage startups (like Kirin). No new high-quality intern listings (>=4.0) appeared this scan.
-
-4. **Focus shift** — With the Anthropic Fellows deadline having arrived today (April 26), priority should shift to applying to the best-scored open roles in the pipeline rather than continued scanning.
+→ Run `/career-ops pipeline` to evaluate and apply to pending listings.

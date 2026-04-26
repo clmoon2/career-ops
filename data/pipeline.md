@@ -3242,3 +3242,48 @@ All 181 prior tracked companies re-confirmed; Twilio only new URL (7850821) foun
 - **Profound** — Confirmed dup v7-v188
 
 <!-- === END 2026-04-26 SCAN v189 === -->
+
+## Scan v191 — 2026-04-26
+
+> **Focus:** Autonomous scan v191 — Greenhouse APIs (all 10 tracked companies + Databricks/Cloudflare APIs back online after 503s in v189/v190); Ashby broad (25+ tracked companies); Lever broad (20+ companies); Greenhouse broad WebSearch; SpeedyApply SWE+AI 0-1d entries; SimplifyJobs latest; HN Who is Hiring April 2026; new companies not previously tracked (Avanade, Cursor, Groq, Modal Labs, Anysphere); 3,941-entry history dedup'd. 5 genuinely new URLs found: 3 non-US Cloudflare interns (skipped_location), OpenSesame Security/Compliance Remote ~3.0/5, TMEIC AI/ML Roanoke VA ~2.5/5. 0 qualifying ≥4.0. Market FULLY SATURATED at 3,956 entries after 191 scans.
+
+### 🔽 Below Threshold — Added to Pipeline
+
+- [ ] https://job-boards.greenhouse.io/opensesame/jobs/7417070 | OpenSesame | Security and Compliance Internship (Summer 2026) | ~3.0/5 | Remote US; B2B SaaS eLearning; end date Aug 28 2026; GRC/compliance focus (governance, risk, policy — NOT security engineering); Python automation + compliance frameworks; creative application required; cybersecurity minor match but role doesn't leverage engineering skills; below threshold
+
+### Skipped — scan-v191
+
+- Cloudflare Infrastructure Deployment Engineer Intern (7759602) — London UK or Lisbon Portugal on-site; hardware datacenter work; non-US location; skipped_location
+- Cloudflare GRC Team Intern Summer 2026 (7578549 + 7577564) — Lisbon Portugal on-site; non-US location; skipped_location
+- TMEIC Corporation Americas AI/ML Intern Summer 2026 (Workable 8B7205061B) — Roanoke VA; industrial automation (Toshiba Mitsubishi-Electric JV); power electronics/energy domain; ~2.5/5 skipped_score
+- AGE Solutions Summer 2026 Engineering Internship (4981400008) — defense contractor; national security/clearance focus; no actual intern listing (senior FTE only); skipped_title
+- Databricks SWE Intern (6866531002/6866534002) + New Grad (6866549002) — confirmed dup v7-v190
+- Cloudflare SWE Austin (7206269) + Security (7582169) — confirmed dup v7-v190
+- All SpeedyApply SWE 0-1d (NVIDIA JAX Fall/Altom/Aptiv/Axway/KBR/Leidos/Rainmaker/Verkada AI Fall/Vital Lyfe/CACI/Cadence/Blackpoint/GDMS/Thales) — all confirmed dup or non-target
+- All SpeedyApply AI 0-1d (Cerebras dup/Lattice Semiconductor/Resolve SAP/TIFIN dup/Adobe dup/Bosch dup/HelloFresh dup/Kion Group industrial/Labcorp medical/Sharp supply-chain/Pinterest PhD) — 0 new qualifying
+- Perplexity AI — EU intern roles only (no US intern program)
+- Cursor/Anysphere — no intern listings found publicly
+- Groq — no intern listings found on Lever/Greenhouse/Ashby
+- Avanade AI Engineering Intern — 2024 role ID, no confirmed 2026 summer posting found
+- Modal Labs — no intern listings visible
+- All Ashby tracked companies — confirmed dup v7-v190
+
+### Companies Confirmed No New Intern/New-Grad Roles — scan-v191
+
+- **Anthropic** — All 6 Fellows tracks confirmed dup v7-v190; April 26 deadline has now passed
+- **Glean** — SWE Univ Grad (4592324005) confirmed dup; no new intern
+- **Vercel** — No intern/new-grad roles; all senior FTE
+- **Airtable** — No intern/new-grad; New Grad 8409376002 confirmed dup v5
+- **Arize AI** — No intern; talent pool only
+- **Temporal** — Empty board (0 jobs)
+- **RunPod** — No intern/new-grad; 19 senior FTE only
+- **Hume AI** — No intern/new-grad; 8 senior FTE only
+- **Intercom** — No intern/new-grad; mid-senior FTE only
+- **PolyAI** — No intern/new-grad; 22 senior FTE only
+- **Databricks** — API back online; 200+ FTE, 0 new intern/new-grad beyond dup history
+- **Cloudflare** — API back online; only non-US interns newly found (London/Lisbon)
+- **Cursor** — No public intern/new-grad listings
+- **Groq** — No intern listings on major ATS platforms
+- **Perplexity AI** — EU-only intern roles (no US)
+
+<!-- === END 2026-04-26 SCAN v191 === -->
