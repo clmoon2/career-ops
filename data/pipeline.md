@@ -3336,3 +3336,18 @@ All 181 prior tracked companies re-confirmed; Twilio only new URL (7850821) foun
 - All Lever broad companies — all dup v7-v195
 
 <!-- === END 2026-04-26 SCAN v196 === -->
+
+<!-- === NEW 2026-04-26 SCAN v197 (Autonomous Agent — 50+ WebSearch queries; SpeedyApply SWE+AI repos; SimplifyJobs New Grad; jobright-ai SWE Intern+Consultant repos; HN April 2026; Snyk 7715204002 (404 CLOSED); Mercury AI Enablement (March 6 deadline CLOSED); broad Greenhouse/Ashby/Lever sweeps all dup; 4,027-entry history dedup'd; 0 genuinely new qualifying URLs found; market FULLY SATURATED after 197 scans) === -->
+<!-- 0 new evaluated. 0 new pipeline additions. Summer 2026 intern season CONFIRMED CLOSED. Note: missing report files for #416(Cerebras/Apr-25) and #417(Vapi/Apr-26). -->
+
+## Scan v197 — 2026-04-26
+
+> **Focus:** Autonomous scan v197 — SpeedyApply SWE/AI repos (all dup v7-v196); SimplifyJobs New Grad (all dup); jobright-ai SWE Intern (Draper defense/SiFive semiconductor/Dexmate/Xometry manufacturing/Beckman medical/Zetheta India non-US all non-target); jobright-ai Consultant (non-tech only); Snyk 7715204002 (404 CLOSED); Mercury AI Enablement (deadline March 6 CLOSED); HN April 2026 (Red Balloon Security no ATS URL confirmed no-find v110+); 50+ broad WebSearch queries across Greenhouse/Ashby/Lever (all confirmed dup v7-v196); 4,027-entry history dedup'd. **0 qualifying ≥4.0. 0 new pipeline additions.** Market FULLY SATURATED at ~4,039 entries after 197 scans.
+
+### ⚠️ Action Items — scan-v197
+
+- **Missing report #416:** Cerebras AI Engineering Intern - Growth Team (evaluated 2026-04-25, in tracker, report file not written)
+- **Missing report #417:** Vapi New Grad Software Engineer (evaluated 2026-04-26, referenced in pipeline v196, report file not written)
+- **Next steps:** Shift focus to active pipeline items (Snyk #397 active, Cerebras #416 deadline approaching, Ramp #415); consider Fall 2026 cycle starting May-June
+
+<!-- === END 2026-04-26 SCAN v197 === -->
