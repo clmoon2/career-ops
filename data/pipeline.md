@@ -3311,3 +3311,28 @@ All 181 prior tracked companies re-confirmed; Twilio only new URL (7850821) foun
 - **Perplexity AI** — EU-only intern roles (no US)
 
 <!-- === END 2026-04-26 SCAN v191 === -->
+
+<!-- === NEW 2026-04-26 SCAN v196 (Autonomous Agent — Greenhouse APIs (Anthropic/Glean/Arize/HumeAI/Intercom/PolyAI all dup or no intern); 30+ WebSearch queries across Ashby/Greenhouse/Lever/security/new-grad/consulting angles; SpeedyApply SWE+AI repos (all dup); SimplifyJobs New Grad repo (all dup); jobright-ai new grad repo (all dup); 50+ companies/sources checked; 4,004-entry history dedup'd; 2 genuinely new URLs: Vapi New Grad SWE 4.1/5 EVALUATED #417 + Fable Security New Grad SWE ~3.2/5 below threshold; Lakera/Maze roles found but non-US or mid-senior; market FULLY SATURATED; Summer 2026 intern season confirmed closed) === -->
+
+### ✅ Evaluated — scan-v196
+
+- [x] https://jobs.ashbyhq.com/vapi/3613e24a-de10-4e76-8c28-530df2a9981b | Vapi | New Grad Software Engineer | **4.1/5** | SF on-site; TypeScript/React/Node + multi-model AI pipeline = strong CV match; "Founder Juice" culture fits co-founder profile; $120-150K est; verify graduation date eligibility → **Report #417**
+
+### 🔽 Below Threshold — scan-v196
+
+- [ ] https://jobs.ashbyhq.com/fable/6a8f039c-2836-4efc-a68e-e683a3b43ca1 | Fable Security | New Grad Software Engineer | ~3.2/5 | SF; AI-powered security behavior platform; Series B $86.3M (Greylock/Redpoint); 12 employees (very small); security awareness domain ≠ security engineering; comp undisclosed
+
+### Skipped — scan-v196
+
+- Lila Sciences 8188699002 — 404 closed
+- Lakera AI Security Red Team (US Remote, 75dd7f97) — mid-senior FTE, 3+ YOE red teaming required; ~2.0/5 skip
+- Lakera SWE/Research/ML Interns (Zürich, bec82a9f/cefb87e2/56b5e142) — non-US location; skip
+- Maze Security Engineer & Researcher (57602f80) — Remote Europe/Greece; non-US; skip
+- Tevora Winter 2026 Cybersecurity (078cf33f) — SOC/compliance focus + past deadline (ended April 2026); skip
+- All Greenhouse APIs (Anthropic/Glean/Arize/HumeAI/Intercom/PolyAI) — all dup v7-v195 or 0 intern/new-grad
+- All SpeedyApply SWE/AI 0-1d — all dup v7-v195
+- All SimplifyJobs New Grad 0-1d — all dup v7-v195
+- All Ashby broad companies — all dup v7-v195 (Notion/Zip/Sentry/OpenAI/Cohere/Giga/Replit/Decagon/Ramp/Harvey/Benchling etc.)
+- All Lever broad companies — all dup v7-v195
+
+<!-- === END 2026-04-26 SCAN v196 === -->

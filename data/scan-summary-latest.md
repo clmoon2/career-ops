@@ -1,78 +1,77 @@
-# Portal Scan — 2026-04-26 (v195)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Portal Scan — 2026-04-26 (v196)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 **Date:** 2026-04-26
-**Scan version:** v195
-**History entries at start:** ~3,994
-**History entries at end:** ~4,003
-
-## Execution Summary
-
-| Source | Result |
-|--------|--------|
-| Greenhouse APIs (Anthropic/Glean/Arize/Airtable/Vercel/Temporal/Hume/Intercom) | All 503 (persistent since v193) |
-| Ashby broad (Fall 2026 / new grad / AI / security) | 20+ queries |
-| Greenhouse broad (Fall 2026 / security / DevOps) | 10+ queries |
-| Lever broad (Fall 2026 / security) | 5+ queries |
-| SpeedyApply SWE + AI repos | All confirmed dups (same as v192-v194) |
-| Security companies (Snyk/Semgrep/Wiz/Delinea/1Password/CrowdStrike) | 5 targeted queries |
-| Consulting (Deloitte/Accenture/McKinsey) | Summer 2026 apps confirmed closed |
-
-**Total new URLs found:** 8
-**Confirmed dups:** 100+
+**Scan number:** v196
+**History entries before scan:** 4,004
+**History entries after scan:** ~4,027
 
 ---
 
-## New Listings Found
+## Coverage
 
-### ✅ Evaluated ≥ 4.0
+Sources scanned this run:
 
-| # | Company | Role | Score | Notes |
-|---|---------|------|-------|-------|
-| [416](reports/416-snyk-security-engineer-intern-2026-04-26.md) | **Snyk** | Security Engineer Intern | **4.2/5** | #1 developer security platform; summer intern; flexible/remote; Python + security automation; adversarial testing overlap |
+| Source | Method | Result |
+|--------|--------|--------|
+| Anthropic, Glean, Arize AI, Hume AI, Intercom, PolyAI | Greenhouse API | All dup v7-v195 or 0 intern/new-grad |
+| Ashby broad (50+ companies) | WebSearch + direct | 2 NEW (Vapi + Fable Security) |
+| Greenhouse broad (20+ companies) | WebSearch | All dup v7-v195 |
+| Lever broad (15+ companies) | WebSearch | All dup v7-v195 |
+| SpeedyApply SWE + AI repos | WebFetch | All dup v7-v195 |
+| SimplifyJobs New Grad | WebFetch | All dup or non-target |
+| jobright-ai New Grad | WebFetch | All dup or non-target |
+| Lakera, Maze (security firms) | WebSearch | Non-US or mid-senior FTE |
+| Big 4 consulting (PwC/Deloitte/EY/KPMG) | WebSearch | Summer 2026 apps closed; Fall 2026 not yet open |
 
-### Below Threshold
-
-| Company | Role | Score | Notes |
-|---------|------|-------|-------|
-| BRM | Entry Level Software Engineer | ~3.3/5 | AI super agents; full-time entry-level; early-stage startup |
-| Oligo Space | ML/AI Intern (Fall 2026) | ~2.5/5 | Spacecraft manufacturing ML; domain mismatch |
-| Delinea | Software Engineering Intern | ~3.0/5 | Identity security; undated/rolling listing |
-
-### Skipped
-
-| Company | Role | Reason |
-|---------|------|--------|
-| CertiK | SWE Intern Fall | Blockchain → negative keyword |
-| Verkada | Embedded SWE Intern Fall 2026 | Embedded → negative keyword |
-| SPLC | Cybersecurity Intern Fall 2026 | Non-profit civil rights org; ~2.0/5 |
-| Altom Transport | Summer 2026 Dev Intern | Transportation company; Houston TX; ~2.0/5 |
+**Total companies/sources checked:** 50+
 
 ---
 
-## ⚡ Action Item — Apply to Snyk #416
+## Results
 
-Snyk is the #1 developer security platform (Series E, ~$8.5B valuation 2021). First Snyk intern listing found in 195 scans.
+### New listings found: 7 total
 
-Carlos's CV match:
-- Defense-in-depth security (CORS, HMAC-SHA256, TLS 1.3, CSP, PII redaction)
-- OAuth proxy engineering with timing-safe signature verification
-- Adversarial LLM prompt injection testing
-- 35K-line Python backend (Finch/ApplyEasy)
+| URL | Company | Title | Status |
+|-----|---------|-------|--------|
+| [link](https://jobs.ashbyhq.com/vapi/3613e24a-de10-4e76-8c28-530df2a9981b) | Vapi | New Grad Software Engineer | ✅ EVALUATED 4.1/5 → #417 |
+| [link](https://jobs.ashbyhq.com/fable/6a8f039c-2836-4efc-a68e-e683a3b43ca1) | Fable Security | New Grad Software Engineer | 🔽 Added to pipeline (~3.2/5) |
+| [link](https://jobs.ashbyhq.com/lakera.ai/75dd7f97-8ae2-460f-ae7e-cfceade9c1c6) | Lakera | AI Security Engineer - Red Team (US) | ⏭ Skipped — mid-senior FTE |
+| [link](https://jobs.ashbyhq.com/lakera.ai/bec82a9f-2807-4d94-8193-440f0a9722b0) | Lakera | SWE Intern | ⏭ Skipped — Zürich non-US |
+| [link](https://jobs.ashbyhq.com/lakera.ai/cefb87e2-f74b-4ac3-ba02-5345162e1c9d) | Lakera | Research Internship | ⏭ Skipped — Zürich non-US |
+| [link](https://jobs.ashbyhq.com/lakera.ai/56b5e142-5e94-49de-bd0c-45e5cfc3092d) | Lakera | ML Intern | ⏭ Skipped — Zürich non-US |
+| [link](https://jobs.ashbyhq.com/mazehq/57602f80-6363-47b2-a8c5-c8fc3c538d00) | Maze | Security Engineer & Researcher | ⏭ Skipped — Remote Europe |
 
-**Verify the role is still active, then apply.** The listing uses older `boards.greenhouse.io` URL format — confirm open before investing time.
+**Filtered by title:** 2 (Tevora Winter 2026 past deadline, Lila Sciences 404)
+**Duplicate:** 4,000+ (all major portals fully saturated)
+**New added to pipeline:** 2
 
 ---
 
-## Market Status
+## Top Matches (score ≥ 4.0)
 
-- **Summer 2026:** CONFIRMED CLOSED across all major portals (since v190)
-- **Fall 2026:** Still early; most roles open May-August 2026
-- **New grad 2026:** Already saturated (Loop, Airtable, Replit, Zip, Decagon — all in history)
-- **Greenhouse APIs:** Persistently 503 since v193; likely back soon
+### 1. Vapi — New Grad Software Engineer | 4.1/5
+- **URL:** https://jobs.ashbyhq.com/vapi/3613e24a-de10-4e76-8c28-530df2a9981b
+- **Report:** [#417](reports/417-vapi-new-grad-swe-2026-04-26.md)
+- **Why:** TypeScript/React/Node stack + multi-model AI pipeline experience + co-founder "Founder Juice" = near-perfect cultural and technical match at voice AI infrastructure leader. Est. $120-150K base.
+- **Action:** Verify graduation date eligibility → Apply
 
-## Next Actions
+---
 
-1. Apply to Snyk #416 — highest priority
-2. Reduce scan frequency to 2x/week until Fall 2026 cycle opens (June+)
-3. Watch for new Fall 2026 openings at: Cloudflare, Stripe, Wiz, Tenable, Datadog
+## Market Assessment
+
+**Summer 2026 intern season: CONFIRMED CLOSED.** All major portals (Greenhouse/Ashby/Lever) are fully saturated after 196 scans. The most relevant new finds are now FTE new-grad roles rather than internships.
+
+**Recommendation: Shift focus to:**
+1. **Applying to pipeline queue** — 20+ evaluated roles still pending application decision
+2. **New grad FTE roles** — Vapi (#417), Glean (#47 4.5/5), Decagon (#117 4.5/5), Replit (#204 5.0/5), Ramp FDE (#341), and others already evaluated
+3. **Fall 2026 intern cycle** — will open Aug/Sep 2026; set reminder to restart aggressive scanning then
+
+---
+
+## Recommended Next Actions
+
+1. **APPLY NOW:** Vapi New Grad SWE #417 (4.1/5) — verify graduation eligibility first
+2. **Review pipeline queue** — run `/career-ops pipeline` to process pending evaluated roles
+3. **Pause active scanning** — diminishing returns; market is fully saturated for Summer 2026
+4. **Resume scanning in August 2026** — Fall 2026 intern cycle will open
