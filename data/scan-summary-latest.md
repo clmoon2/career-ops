@@ -1,107 +1,78 @@
-# Scan Summary — 2026-04-27 (v205)
+# Portal Scan Summary — 2026-04-27 (v206)
 
-**Date:** 2026-04-27  
-**Portals/Companies scanned:** 21  
-**Listings processed:** ~40  
-**New listings added to pipeline:** 0  
-**Reports written (≥4.0):** 0  
+**Date:** 2026-04-27
+**Scan version:** v206
+**Previous scan:** v205 (2026-04-27, same day — 0 new listings)
+
+---
+
+## Coverage
+
+| Level | Method | Companies/Queries |
+|-------|--------|-------------------|
+| Greenhouse API | Direct JSON | Anthropic, Glean, Vercel, Airtable, HumeAI, Arize AI, RunPod, Intercom, Temporal |
+| WebSearch — Broad | Greenhouse/Ashby/Lever site: queries | 20+ queries across internships, security, AI/ML, DevOps, consulting, new grad |
+| WebSearch — Targeted | Company-specific | Figma, Palantir, Snorkel AI, Shield AI, Five Rings, Qube RT, Sertis, SimplifyJobs |
 
 ---
 
 ## Results
 
-**Market status: FULLY SATURATED** — 0 genuinely new qualifying URLs found after 205 scans / 4,250+ tracked entries.
-
-The Summer 2026 intern hiring cycle closed in February–March 2026. No new openings discovered across all portals.
-
----
-
-## Sources Scanned
-
-### Greenhouse APIs
-| Company | Listings | Result |
-|---------|----------|--------|
-| Anthropic | 150+ | All senior FTE; Fellows deadline Apr 26 CLOSED; 0 qualifying |
-| Temporal | 0 | Empty board |
-| Glean | 170+ | University Grad dup v7+; all other senior FTE; 0 qualifying |
-
-### Ashby Companies
-| Company | Result |
-|---------|--------|
-| n8n | Senior-only; no intern program (confirmed v114+) |
-| Zapier | No intern program (confirmed v114+) |
-| Deepgram | No intern program (Ashby 503; confirmed no program) |
-| Attio | No intern program (confirmed v107+) |
-| Tinybird | No intern program (confirmed v107+) |
-| TravelPerk | No intern program (confirmed v100+) |
-
-### WebSearch / Direct Scans
-| Company | Result |
-|---------|--------|
-| OpenAI | All listings dup (Summer v2/v163; new grad dup #2; Fall 2026 dup #2) |
-| Twilio | No 2026 US intern found (confirmed no-intern v179) |
-| Weights & Biases | No intern program; all senior FTE (confirmed v100+) |
-| Gong | No 2026 US intern posting |
-| Talkdesk | Only Summer 2025 intern (closed); no 2026 program |
-| Dialpad | Canada co-ops only; no US Summer 2026 intern |
-| Ada | SWE + DevOps interns dup since v7 (Apr 7); Canada-remote only |
-| Langfuse | No intern; joined ClickHouse Jan 2026 |
-
-### SpeedyApply + Aggregators
-| Listing | Result |
-|---------|--------|
-| NVIDIA SWE Intern JAX Fall 2026 | Dup v193 + TAMU semester conflict |
-| Verkada AI SWE Intern Fall 2026 | Dup v186; in pipeline at ~3.5/5 |
-| Axiomatic AI Intern | Dup v189 |
-| Cerebras AI Eng Intern Growth | Dup #416 (evaluated 4.5/5) |
-
-### Consulting
-| Company | Result |
-|---------|--------|
-| Accenture Tech Summer Analyst | Summer 2026 CLOSED; Claude/Anthropic Analyst dup #387 |
-| Deloitte / PwC / Big 4 | All Summer 2026 CLOSED (apps closed Sep–Feb) |
+| Metric | Count |
+|--------|-------|
+| APIs checked | 9 |
+| WebSearch queries run | 22 |
+| Total URLs evaluated | 150+ |
+| New URLs found (not in history) | 12 |
+| Filtered (non-US, PhD-only, Embedded, closed) | 11 |
+| Added to pipeline | 1 |
+| Qualifying >= 4.0 (full reports written) | 0 |
+| Total scan history entries | 4,270+ |
 
 ---
 
-## Top Matches (≥4.0) — Prior Scans, Pending Action
+## New Additions to Pipeline
 
-From the last two scans (v203/v204), three reports are ready for application decisions:
+### Below Threshold (< 4.0)
 
-| # | Score | Company | Role | Report |
-|---|-------|---------|------|--------|
-| 420 | 4.4/5 | Vapi | Backend Product Engineer | [reports/420-vapi-backend-product-engineer-2026-04-27.md] |
-| 419 | 4.3/5 | Palantir | Software Engineer Internship | [reports/419-palantir-swe-intern-2026-04-27.md] |
-| 418 | 4.2/5 | Salesforce | AMTS College Grad | [reports/418-salesforce-amts-new-grad-2026-04-27.md] |
+| Company | Role | Score | Notes |
+|---------|------|-------|-------|
+| Snorkel AI | Software Engineer — Summer Intern | ~3.7/5 | $55/hr + $3k/month housing; SF; 12 weeks; Python/JS; programmatic data labeling/AI platform — adjacent to core agentic/security track |
 
 ---
 
-## Active Pipeline (Evaluate with `/career-ops pipeline`)
+## Top Matches (>= 4.0) — None This Run
 
-| Score | Company | Role |
-|-------|---------|------|
-| ~3.9/5 | ByteDance | SWE Intern Applied ML — Fall 2026 |
-| ~3.8/5 | Infisical | Full Stack Engineer New Grad |
-| ~3.8/5 | Replit | SWE New Grad Summer 2026 |
-| ~3.8/5 | Airtable | SWE New Grad 2026 |
-| ~3.8/5 | RunPod | Site Reliability Engineer |
-| ~3.8/5 | LangChain | Deployed Engineer |
-| ~3.5/5 | Ramp | University Grad SWE Backend |
-| ~3.5/5 | MongoDB | Security Engineering Intern 2026 |
-| ~3.5/5 | Verkada | AI SWE Intern Fall 2026 |
+No listings scored >= 4.0. The Summer 2026 intern market remains fully saturated.
+
+---
+
+## Skipped / Filtered
+
+| Company | Reason |
+|---------|--------|
+| Figma — PhD Security Intern | PhD Intern only — not eligible as undergrad |
+| Qube RT — Security Intern | London UK (non-US) |
+| Sertis — AI/ML Intern | Bangkok Thailand (non-US) |
+| Shield AI — Embedded SWE Intern | Negative keyword (Embedded) |
+| Five Rings — SW Dev $300k/yr | HFT/quant firm; apps opened Sep 2025 (closed) |
+| Modernizing Medicine — Cloud Intern | 404 (closed) |
+| Five9 — SWE AI Insights Intern | URL broken/job not found |
+| TikTok/ByteDance — AI/ML SWE Intern | ByteDance parent; 503 on fetch; already tracked |
+| Palantir — internship 2fb19022 | 503 on fetch; role unclear |
+| Unknown — eventsandinterns board | Greenhouse board slug unverifiable |
+
+---
+
+## Market Status
+
+**Summer 2026 intern season: CONFIRMED CLOSED.** All major portals (Greenhouse, Ashby, Lever) returning the same ~4,270 known URLs. 206 scans with no meaningful new listings since v204 (3 entries on 2026-04-27). Fall 2026 cycle is just beginning — expect new postings to appear May-August 2026.
 
 ---
 
 ## Recommended Next Actions
 
-1. **Apply to Vapi #420 (4.4/5)** — highest priority; exceptional stack match (Flask/FastAPI/AI pipelines)
-2. **Apply to Palantir #419 (4.3/5)** — verify graduation eligibility; strong FDE track record
-3. **Apply to Salesforce #418 (4.2/5)** — new grad role; tailor around Agentforce/AI platform work
-4. **Evaluate ByteDance Fall 2026** — strong ML alignment; decide on brand comfort
-5. **Run `/career-ops pipeline`** — process remaining 9 queued URLs from v203/v204
-6. **Fall 2026 watch** — set September 2026 reminder for next intern cycle opening
-
----
-
-*Previous scan: v204 (2026-04-27) — 22 companies; 57 listings; 9 new; 3 reports ≥4.0*  
-*→ Run `/career-ops pipeline` to evaluate queued URLs*  
-*→ Run `/career-ops tracker` to see full application status*
+1. **Evaluate existing pipeline** — Run `/career-ops pipeline` to work through unevaluated entries in `data/pipeline.md` (dozens of below-threshold items from v199-v204 that may be worth evaluating given the market slowdown).
+2. **Apply to existing evaluated offers** — Reports #418 (Salesforce AMTS), #419 (Palantir SWE Intern), #420 (Vapi Backend) are ready and strong matches.
+3. **Monitor Fall 2026 cycle** — Set a recurring scan for late May / early June when Fall 2026 programs typically open applications.
+4. **Evaluate Snorkel AI if pipeline clears** — Snorkel AI SWE intern (~3.7/5): strong comp ($55/hr + housing) and AI alignment, despite programmatic labeling focus.

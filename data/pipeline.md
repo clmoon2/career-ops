@@ -1,5 +1,24 @@
 # Pipeline -- Pending URLs
 
+<!-- === BEGIN 2026-04-27 SCAN v206 === -->
+<!-- Greenhouse APIs: Anthropic (STEM Fellow dup; 150+ senior FTE; 0 new intern), Glean (SWE Univ Grad dup; 0 new), Vercel (0 intern), Airtable (0 intern), HumeAI (0 intern; all senior FTE), Arize AI (0 intern; all senior), RunPod (0 intern; all senior), Intercom (0 intern; all senior), Temporal (0 jobs) -->
+<!-- WebSearch: Greenhouse broad SWE intern (all dup); Ashby broad SWE intern (all dup); Lever broad SWE intern (all dup except Palantir 2fb19022 503/unverified); Greenhouse security interns (1 NEW: Snorkel AI SWE below threshold; Figma PhD-only skip; QRT London skip; Shield AI Embedded skip); Ashby AI/ML intern (all dup); Ashby Fall 2026 (all dup); SimplifyJobs recent (Cerebras 7713841003 404; TikTok ByteDance 503 skip; Five9 redirect broken; Northspyre dup; Socure dup); Lever Fall 2026 (all dup except Shield AI Embedded skip); Figma/Databricks/Stripe (Figma PhD Security NEW skip; others dup); consulting/defense (Peraton/Leidos custom sites; no Greenhouse URLs new) -->
+<!-- 1 new listing found | 0 qualifying ≥4.0 | 1 pipeline-only addition | market FULLY SATURATED v206 -->
+
+### New additions — scan-v206 (below threshold — pipeline only)
+- [ ] https://job-boards.greenhouse.io/snorkelai/jobs/5752694004 | Snorkel AI | Software Engineer — Summer Intern | ~3.7/5 | NEW v206; AI platform for programmatic data labeling/training; SF onsite; $55/hr + $3k/month housing; 12 weeks; Python/JS required; LLM/AI adjacent but data labeling focus vs Carlos's core agentic/security track; evaluate if no higher-priority options
+
+### Skipped — scan-v206
+- https://jobs.lever.co/palantir/2fb19022-bb65-4af8-b6fa-31beb345c140 — Palantir (URL returned 503; role unclear; all other Palantir intern URLs already in history)
+- https://job-boards.greenhouse.io/figma/jobs/5611154004 — Figma PhD Intern Security Engineer — PhD required; not eligible as undergrad
+- https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8313830002 — Qube RT Security Intern — London UK; not US; non-US location skip
+- https://job-boards.greenhouse.io/eventsandinterns/jobs/7479555003 — Unknown company Security Engineer Intern — unverifiable board slug; 503 on fetch
+- https://job-boards.greenhouse.io/sertis/jobs/7847750002 — Sertis AI/ML Intern — Bangkok Thailand; not US
+- https://jobs.lever.co/shieldai/84ed6c2d-a904-4459-9ddb-254561df2439 — Shield AI Embedded SWE — Embedded software negative keyword
+- https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008 — Five Rings SW Dev ($300k/yr) — HFT/quant firm; applications opened Sep 2025 (likely closed)
+- https://job-boards.greenhouse.io/modernizingmedicineinc/jobs/8236500002 — Modernizing Medicine Cloud Intern — 404 (closed)
+<!-- === END 2026-04-27 SCAN v206 === -->
+
 <!-- === BEGIN 2026-04-27 SCAN v204 === -->
 <!-- Greenhouse APIs: PolyAI (0 intern/new-grad; all senior/sales FTE), Parloa (0 intern; 1 FDE-US dup; 1 SW-GTM dup; 1 Sec-Eng dup), Intercom (0 intern; all senior FTE, all dup), Hume AI (0 intern; all senior FTE, all dup), Temporal (0 jobs — board empty), Arize AI (all senior FTE, dup), RunPod (1 NEW: SRE), Factorial (404) -->
 <!-- WebSearch: Cohere (all dup in pipeline), LangChain (all dup), Pinecone (all dup), n8n (no intern), Zapier (no results), ElevenLabs (dup), Deepgram (no intern), Vapi (1 NEW: Backend Product Engineer), Bland AI (1 NEW: ML Engineer), Sierra (all dup), Decagon (all dup), Attio (no intern), Lindy (dup), Palantir (1 NEW: SWE Intern 7d69cf8a), W&B (acquired by CoreWeave; no intern results), Mistral (no intern), Salesforce (1 NEW: AMTS College Grad), ByteDance (1 NEW: Fall 2026 Applied ML Intern), Gong (no intern), Consulting (no Greenhouse results) -->
