@@ -1,74 +1,83 @@
-# Portal Scan — 2026-04-27 (v210)
+# Portal Scan — 2026-04-27 (v211)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan version:** v210 (third scan today, following v208 and v209)
+**Scan version:** v211 (autonomous agent — fourth scan today, following v208/v209/v210)
 **Date:** 2026-04-27
-**Scope:** Greenhouse APIs + 30+ WebSearch queries across Ashby/Greenhouse/Lever for SWE, Security, AI/ML, DevOps, Consulting intern/new grad roles
+**Candidate:** Carlos Luna-Peña
+**Focus:** Summer 2026 internships + 2026 new grad — SWE, Security, AI/ML, DevOps, Consulting
 
 ---
 
-## Results
+## Scan Coverage
 
-| Metric | Count |
-|--------|-------|
-| WebSearch queries executed | 30+ |
-| Greenhouse APIs fetched | 6 (Anthropic, Vercel, Temporal, Arize, RunPod, Hume AI) |
-| URLs evaluated | ~500 |
-| Genuinely new URLs found | 3 |
-| Skipped (closed/location) | 3 |
-| **New qualifying (≥4.0) → pipeline** | **0** |
-| **New below-threshold → pipeline** | **0** |
+| Source | Queries / Companies Checked | Result |
+|--------|----------------------------|--------|
+| WebSearch — Ashby intern/new-grad | 8 queries | 0 new URLs |
+| WebSearch — Greenhouse intern/new-grad | 6 queries | 0 new URLs |
+| WebSearch — Lever intern | 3 queries | 0 new URLs |
+| WebSearch — Security/AI/DevOps/Consulting | 6 queries | 0 new URLs |
+| Greenhouse APIs | Glean, Vercel, Haize Labs, Together AI, Scale AI, Databricks, Temporal, RunPod | 0 new URLs |
+| SimplifyJobs Summer 2026 README (0d/1d entries) | HERE Technologies, TikTok Data Platform, Chamberlain | 0 new URLs |
+| SimplifyJobs New Grad README (0d entries) | Mirage, Cox, RTX | 0 new (Mirage dup confirmed) |
+| SpeedyApply AI/SWE repos | 319 AI + 335 SWE internship entries | 0 new URLs |
+| Broad discovery: new companies | Skyryse, Genies, HRL, Spacial AI, Mirage | 0 new qualifying |
 
----
-
-## New URLs Found (all skipped)
-
-| Company | Role | URL | Reason |
-|---------|------|-----|--------|
-| TELUS Digital | Software Engineering Intern (Fuel iX) | https://job-boards.greenhouse.io/willowtree/jobs/8112498002 | 404 — listing closed |
-| Alpha FMC | North America Technology Internship | https://job-boards.greenhouse.io/alphaawmnaearlycareers/jobs/7482799002 | No current openings |
-| Graphcore | 2026 Summer Intern — Software Engineering Drivers | https://job-boards.greenhouse.io/graphcore/jobs/8441333002 | Bristol, UK — non-US |
+**Total queries executed:** 25+
+**URLs checked this session:** ~250
+**Genuinely new URLs found:** 0
+**History entries checked against:** 4,389
 
 ---
 
-## Context
+## Market Status: FULLY SATURATED
 
-This is the third portal scan run today. Scans v208 and v209 were highly productive:
-- **v208**: 52 new URLs found, 6 evaluated ≥4.0 (Reports #421–#426): Haize Labs (4.5), OpenAI Fall 2026 (4.4), Together AI Security (4.3), Together AI SWE (4.2), Cloudflare Security Austin (4.2), Decagon Agent Intern (4.2)
-- **v209**: 8 new URLs added: Palantir New Grad SWE, Anduril Early Career SWE + Systems Intern, Palo Alto Networks New Grad, Okta SWE Intern Canada, ezCater Security Intern, AGE Solutions Engineering, Apptronik DevEx SWE Intern
-
-**Why v210 found nothing new:** The scan history (4,389 entries as of today) is extremely comprehensive. The major job boards (Ashby, Greenhouse, Lever) have been systematically covered across hundreds of prior scans starting April 5, 2026. Search engines are serving cached results for listings already in the pipeline. This is expected saturation behavior near the end of a Summer 2026 internship recruitment cycle.
+After 211 scan sessions since April 5, 2026, every major US SWE/Security/AI/ML internship portal has been exhaustively indexed. The Summer 2026 internship window is closing — most deadlines have passed. No new qualifying positions were found in this scan.
 
 ---
 
-## Pending Pipeline Items (from v208/v209, queued for evaluation)
+## Active Pipeline Summary
 
-These findings are in pipeline.md awaiting full evaluation reports:
+### Top Evaluated Roles (≥4.0) — from today's prior scans
 
-| Priority | Company | Role | Score | Notes |
-|----------|---------|------|-------|-------|
-| 1 | Haize Labs | Software Engineer Intern | 4.5/5 | LLM adversarial testing — exact research match |
-| 2 | OpenAI | Software Engineer, Applied Emerging Talent (Fall 2026) | 4.4/5 | SF in-person; $60/hr; React/Python |
-| 3 | Together AI | Security Engineer Intern (Summer 2026) | 4.3/5 | SF on-site; $58/hr + housing |
-| 4 | Together AI | Software Engineer Intern (Summer 2026) | 4.2/5 | SF on-site; $58/hr + housing |
-| 5 | Cloudflare | Security Engineer Intern (Austin TX) | 4.2/5 | Austin TX — 100mi from College Station! |
-| 6 | Decagon | Agent Software Engineer Intern | 4.2/5 | Agentic AI; LangGraph/AutoGen match |
-| 7 | Palantir | Software Engineer, New Grad | pending | Strong FDE culture match |
-| 8 | Anduril | Early Career Software Engineer | pending | Defense tech; strong backend fit |
-| 9 | Anduril | Systems Engineer Intern | pending | Defense tech; systems depth |
-| 10 | Palo Alto Networks | Software Engineer - New College Grad | pending | Security domain match |
-| 11 | ezCater | Security Intern (Remote) | pending | Remote; cybersec minor match |
-| 12 | Apptronik | Software Engineering Intern: Developer Experience | pending | Robotics; DevEx SWE |
+| Score | Company | Role | Notes |
+|-------|---------|------|-------|
+| 4.5/5 | Haize Labs | Software Engineer Intern (Summer 2026) | NYC 6d/wk; $125-200K/yr; LLM adversarial testing = exact match — **APPLY** |
+| 4.4/5 | Vapi | Backend Product Engineer | Voice AI infra; Python/TS/Cloudflare stack — **HIGHEST PRIORITY** |
+| 4.4/5 | OpenAI | SWE Intern Applied Emerging Talent (Fall 2026) | $60/hr; 15wk SF; verify fall conflict |
+| 4.3/5 | Palantir | Software Engineer Internship | $10K/mo; FDSE archetype; verify grad date |
+| 4.3/5 | Together AI | Security Engineer Intern (Summer 2026) | SF on-site; $58/hr; AI lab security |
+| 4.2/5 | Together AI | Software Engineer Intern (Summer 2026) | SF on-site; $58/hr; apply after Security |
+| 4.2/5 | Cloudflare | Security Engineer Intern (Austin TX) | 100mi from College Station; **APPLY** |
+| 4.2/5 | Decagon | Agent Software Engineer Intern | Agentic AI; LangGraph = perfect match |
+
+### Borderline — Awaiting Evaluation
+
+- Cloudflare SWE Intern Austin (~4.0/5)
+- Cloudflare AI Automation Intern (~4.0/5)
+
+### Total Pipeline (below-threshold, for optional evaluation)
+
+29 URLs in pipeline.md across Mercury, SpaceX, Verkada, 1Password, Cohere, Gemini, Brex, Scale AI, Handshake, Illumio, Haize Research, LaunchDarkly, Lambda, and others.
 
 ---
 
 ## Recommended Next Actions
 
-1. **`/career-ops pipeline`** — Evaluate the v208/v209 pending URLs (start with Haize Labs 4.5/5, OpenAI 4.4/5, Together AI 4.3/5)
-2. **Apply to top matches already evaluated** — Cloudflare Security Austin (local!), Together AI Security, Decagon Agent
-3. **Check pipeline.md** — Several Borderline ≥4.0 items from prior scans may be worth evaluating
-4. **Next scan** — Run again in 2-3 days; new listings emerge daily, especially for Fall 2026 cycle
+1. **Apply to Vapi Backend Product Engineer (#420, 4.4/5)** — highest priority; perfect stack match; no deadline risk
+2. **Apply to Haize Labs SWE Intern (#421, 4.5/5)** — LLM adversarial testing = exact research match; NYC; apply now
+3. **Apply to Cloudflare Security Austin (#425, 4.2/5)** — local to College Station; strong brand; apply ASAP
+4. **Apply to Decagon Agent SWE Intern (#426, 4.2/5)** — agentic AI; perfect archetype; comp unconfirmed (verify)
+5. **Evaluate borderline Cloudflare roles** — run `/career-ops pipeline` on the ~4.0/5 entries in pipeline.md
+6. **Fall 2026 watch** — most Summer 2026 windows are closing; start monitoring for Fall 2026 openings (Sept-Dec 2026 start)
 
 ---
 
-*Scan history: 4,389 entries | Latest report: #420 | Active pipeline: ~12+ items pending evaluation*
+## Notes for Next Scan
+
+- **Summer 2026 market is closed.** Run next full scan in 1 week to catch reopened roles or new Fall 2026 openings.
+- Consider adding Fall 2026-specific queries to `portals.yml` search_queries
+- Twilio SWE Intern 7850821 ($47-50/hr, remote US, June 22–Sept 11) — below 4.0 threshold but still open; evaluate if other options fall through
+
+---
+
+*Generated by career-ops autonomous scanner v211 | 2026-04-27*
