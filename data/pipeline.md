@@ -1,5 +1,91 @@
 # Pipeline -- Pending URLs
 
+<!-- === BEGIN 2026-04-27 SCAN v208 === -->
+<!-- Greenhouse APIs: all 8 companies (Anthropic/Glean/Vercel/Airtable/HumeAI/Arize/RunPod/Intercom) all 503 — consistent with v201/v202 pattern -->
+<!-- WebSearch: 16 queries across Ashby/Greenhouse/Lever for SWE+Security+AI+DevOps+Consulting interns + Fall 2026 cycle + broad AI/ML. 52 genuinely new URLs discovered (not in 4,282-entry history). 6 qualifying ≥4.0 (reports #421-426): Haize Labs SWE (4.5), OpenAI Fall 2026 (4.4), Together AI Security (4.3), Together AI SWE (4.2), Cloudflare Security Austin (4.2), Decagon Agent Intern (4.2). 2 borderline 4.0 pipeline-only. 25 below-threshold pipeline additions. ~20 skipped (non-US London, negative keyword, domain mismatch). New companies found: Cloudflare (multiple intern URLs), Haize Labs, Together AI, Mercury Fall 2026, Verkada Fall 2026, Symmetry Systems, Farsight AI, Naptha AI, LaunchDarkly, Tatari, StockX, Brex, Harmonic -->
+<!-- 6 qualifying ≥4.0 | 52 new URLs total | 4,334 history entries after v208 -->
+
+### Evaluated (≥4.0) — scan-v208
+
+- [x] https://job-boards.greenhouse.io/haizelabs/jobs/4685944008 | Haize Labs | Software Engineer Intern | **4.5/5** | NYC 6d/wk; $125K-200K/yr; LLM adversarial fuzz-testing — Carlos's exact research project; clients: Anthropic/Scale AI/AI21 — **REPORT #421**
+- [x] https://jobs.ashbyhq.com/openai/1f3353ed-78eb-4a01-b783-c44b1c086711 | OpenAI | Software Engineer Internship/Co-op, Applied Emerging Talent (Fall 2026) | **4.4/5** | SF in-person; $60/hr; 15 weeks; React/Python/Postgres; ChatGPT + API features — **REPORT #422**
+- [x] https://job-boards.greenhouse.io/togetherai/jobs/5012785007 | Together AI | Security Engineer Intern (Summer 2026) | **4.3/5** | SF on-site; $58/hr + housing stipend; AI lab security engineering; Python/bash; May18-Aug7 or Jun15-Sep4 — **REPORT #423**
+- [x] https://job-boards.greenhouse.io/togetherai/jobs/5012768007 | Together AI | Software Engineer Intern (Summer 2026) | **4.2/5** | SF on-site; $58/hr + housing; ML/Platform/Infra/Inference teams; prioritize Security role first — **REPORT #424**
+- [x] https://job-boards.greenhouse.io/cloudflare/jobs/7582150 | Cloudflare | Security Engineer Intern (Summer 2026, Austin TX) | **4.2/5** | Austin TX (100mi from College Station!); 12+ wk; 3-5d/wk on-site; comp ~$45/hr est; Cloudflare Workers experience = direct asset — **REPORT #425**
+- [x] https://jobs.ashbyhq.com/decagon/aa9c9d2a-aba9-429e-bf91-8303247fbcd6 | Decagon | Agent Software Engineer - Intern (Summer 2026) | **4.2/5** | Pure agentic AI; 7-stage pipeline + AutoGen + LangGraph = perfect archetype; comp unconfirmed — **REPORT #426**
+
+### Borderline ≥4.0 — scan-v208 (evaluate next session)
+
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7206269 | Cloudflare | Software Engineer Intern (Summer 2026, Austin TX) | ~4.0/5 | Austin TX (no relocation); 12+ wk; 3-5d/wk; major CDN+security company; Cloudflare Workers background; comp ~$45/hr
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7589903 | Cloudflare | AI Automation Intern (M&A Integration Ops, Summer 2026) | ~4.0/5 | Austin/SF/NYC; AI+Automation focus; Summer/Spring/Fall 2026; strong archetype fit
+
+### Below Threshold — scan-v208 (pipeline for later evaluation)
+
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7670429 | Cloudflare | Trust & Safety - Threat Investigations Intern (Summer 2026) | ~3.8/5 | Austin TX; security-adjacent; threat investigations; cyber interest
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7359136 | Cloudflare | Research Engineer Intern (Summer 2026) | ~3.7/5 | Austin TX likely; research focus; good brand but research vs engineering track
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7774167 | Cloudflare | Software Engineer Intern (Summer 2026) | ~3.8/5 | Likely Austin or SF; additional SWE intern URL; verify location vs 7206269
+- [ ] https://jobs.ashbyhq.com/cohere/66c98ca3-334b-4a6a-a27c-5807b3686121 | Cohere | Software Engineer Intern (Spring/Summer 2026) | ~3.9/5 | AI/LLM provider; Toronto + remote; good stack match; Canadian company (verify US eligibility)
+- [ ] https://jobs.ashbyhq.com/cohere/2c669d85-e3d7-43f1-aa43-be33e12ff8a5 | Cohere | Machine Learning Intern/Co-op (Spring/Summer 2026) | ~3.7/5 | AI/LLM; research-adjacent; ML training focus
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/5817107004 | Mercury | Software Engineering Intern - AI Enablement (Fall 2026) | ~3.9/5 | Remote US; $55/hr; AI tools for engineering teams; Fall 2026; strong comp; fintech banking
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/5817062004 | Mercury | Backend Engineering Intern (Fall 2026) | ~3.8/5 | Remote US; $55/hr; Python backend; Fall 2026; fintech
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/5817004004 | Mercury | Full-Stack Engineering Intern (Fall 2026) | ~3.8/5 | Remote US; $55/hr; full-stack; Fall 2026; fintech
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/5668761004 | Mercury | Backend Engineering Intern (Summer 2026) | ~3.8/5 | Remote US; $55/hr; Summer 2026; verify if still open
+- [ ] https://job-boards.greenhouse.io/spacex/jobs/8403219002 | SpaceX | Fall 2026 Software Engineering Internship/Co-op | ~3.7/5 | Likely Hawthorne CA; aerospace domain; strong comp; verify Python/backend focus vs embedded
+- [ ] https://job-boards.greenhouse.io/verkada/jobs/5099422007 | Verkada | Backend Software Engineering Intern (Fall 2026) | ~3.7/5 | San Mateo CA 5d/wk on-site; relocation required; strong company; physical security AI
+- [ ] https://job-boards.greenhouse.io/verkada/jobs/5099529007 | Verkada | Frontend Software Engineering Intern (Fall 2026) | ~3.6/5 | San Mateo CA 5d/wk; frontend; less core than backend for Carlos
+- [ ] https://job-boards.greenhouse.io/verkada/jobs/5026067007 | Verkada | Frontend Software Engineer University Grad 2026 | ~3.6/5 | San Mateo CA; new grad; frontend focus; security camera AI company
+- [ ] https://jobs.ashbyhq.com/1password/44426502-60f1-4639-b662-f48779861ac1 | 1Password | Developer Intern - Data Security (Summer 2026) | ~3.8/5 | Remote-friendly; security company; data security track; Python/security fit
+- [ ] https://jobs.ashbyhq.com/1password/a31143c2-8b13-4757-9821-007ea93c2b8c | 1Password | Developer Intern - Device Security (Summer 2026) | ~3.7/5 | Remote-friendly; device security track; lower core fit than data security
+- [ ] https://jobs.ashbyhq.com/ema/ac9732bc-f6d2-40f3-b6f7-0cc6d45ac11d | Ema | Security Engineer Intern | ~3.7/5 | Ema = AI agent platform; web/API security + red teaming; good AI+security combo; verify location
+- [ ] https://job-boards.greenhouse.io/gemini/jobs/7360337 | Gemini | Security Engineering Intern (Summer 2026) | ~3.7/5 | $50/hr; NY/CA/WA; crypto exchange (brand concern); AppSec/infra/client/blockchain security tracks
+- [ ] https://jobs.lever.co/SymmetrySystems/dbca271b-a99b-48ab-83f2-b596a037ad65 | Symmetry Systems | Full Stack Software Engineer - 2026 Summer Intern | ~3.7/5 | Data+AI security startup; full-stack; strong domain match for security-minded engineer
+- [ ] https://jobs.ashbyhq.com/farsight/096cdc49-06ae-4724-8f46-c58184e98334 | Farsight AI | Software Engineering Intern (Summer 2026) | ~3.8/5 | Agentic AI for financial services; LLM automation; strong agentic archetype; verify comp + location
+- [ ] https://jobs.ashbyhq.com/naptha/96df9dd3-85bc-4cff-b806-973b78bb433a | Naptha AI | Software Engineer Intern | ~3.7/5 | Agent infrastructure startup; frontier AI agent stack; strong agentic fit; verify company stage
+- [ ] https://job-boards.greenhouse.io/haizelabs/jobs/4070377008 | Haize Labs | Research Intern | ~3.8/5 | NYC 6d/wk; $125K-200K; LLM safety research; sister role to SWE Intern (#421); research vs engineering track
+- [ ] https://job-boards.greenhouse.io/brex/jobs/8434389002 | Brex | Software Engineer Intern | ~3.7/5 | $55/hr; fintech (Stripe competitor); Feb 2026 posting; good brand; Python/TypeScript; fintech domain
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4606014005 | Scale AI | Software Engineering Intern (Summer 2026) | ~3.7/5 | AI data company; strong brand; Python/ML; SF on-site; verify current status
+- [ ] https://job-boards.greenhouse.io/roadie/jobs/8479096002 | Roadie | AI Engineer Intern (Summer 2026) | ~3.6/5 | AI agents for Customer Support + Trust & Safety; Python/AI; smaller company; verify comp
+- [ ] https://job-boards.greenhouse.io/launchdarkly/jobs/7632240003 | LaunchDarkly | Fullstack Software Engineer Intern | ~3.6/5 | Feature flags + DevOps platform; full-stack; good DevOps exposure; verify comp
+- [ ] https://job-boards.greenhouse.io/lilasciences/jobs/4034001009 | Lila Sciences | Intern - Security & Cloud Engineering | ~3.5/5 | Biotech AI; security+cloud; Boston area; scientific computing domain
+- [ ] https://jobs.ashbyhq.com/lambda/264f889c-38f4-42a5-9534-064a9512a3fe | Lambda | 2026 Machine Learning Research Intern | ~3.6/5 | Lambda (GPU cloud); ML research; training optimization; research track
+- [ ] https://jobs.ashbyhq.com/handshake/eece422a-da6b-42e7-b694-3329e6ae4d6a | Handshake | AI/Machine Learning Engineer Intern | ~3.6/5 | Career platform AI; good brand; ML engineering; SF-based
+- [ ] https://jobs.ashbyhq.com/Illumio/9bb7111e-4749-4135-b43f-6984ab250417 | Illumio | Engineering Intern, SRE | ~3.5/5 | Sunnyvale CA 5d/wk on-site; cybersecurity network segmentation; SRE focus; relocation required
+
+### Skipped — scan-v208
+
+- https://job-boards.greenhouse.io/cloudflare/jobs/7582169 — Cloudflare Security Intern London — non-US; no relocation provided
+- https://job-boards.greenhouse.io/cloudflare/jobs/7296923 — Cloudflare SWE Intern London — non-US
+- https://job-boards.greenhouse.io/cloudflare/jobs/7578802 — Cloudflare Red Team Security Intern London — non-US
+- https://job-boards.greenhouse.io/cloudflare/jobs/7577080 — Cloudflare Physical Security Intern — not SWE/engineering
+- https://job-boards.greenhouse.io/cloudflare/jobs/7659508 — Cloudflare Legal Privacy Intern — not SWE/security engineering
+- https://job-boards.greenhouse.io/cloudflare/jobs/7574862 — Cloudflare GRC Intern — GRC/compliance, not engineering
+- https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f — Shield AI SWE Intern — aerospace defense; verify if embedded concern applies
+- https://job-boards.greenhouse.io/dvtrading/jobs/4677094005 — DV Trading DevOps Intern — HFT trading firm, finance domain; unclear comp
+- https://job-boards.greenhouse.io/ada18/jobs/5044605007 — Ada DevOps Intern — Canada only; non-US
+- https://job-boards.greenhouse.io/gallup/jobs/4185955009 — Gallup Security Intern Omaha NE — on-site 4d/wk Omaha; analytics company; low priority location
+- https://job-boards.greenhouse.io/mdbgeneralreferrals/jobs/7375640 — MongoDB Security Intern Dublin — non-US (Ireland)
+- https://jobs.lever.co/BestEgg/3b828fc3-4fb0-49e8-9832-458c1fd437a9 — Best Egg SWE Intern — fintech lending; lower priority domain
+- https://jobs.lever.co/BestEgg/35e80bd9-f511-4131-adbd-d17ccb5dd285 — Best Egg Backend Intern — same as above
+- https://jobs.lever.co/veeva/4df9c2ca-d702-4d41-af82-290deff66564 — Veeva SWE Intern — life sciences SaaS; domain gap
+- https://jobs.lever.co/artera/e404f923-0387-4086-8ab0-55988a1564d0 — Artera SWE Intern — medical AI; niche healthcare domain
+- https://jobs.lever.co/rigetti/40442388-ca66-4899-ab45-d8a2658bd050 — Rigetti Computing SWE Intern — quantum computing; domain gap
+- https://jobs.lever.co/nominal/f2673e2a-381e-49eb-bb34-7633ac0d5ea4 — Nominal SWE Intern — hardware/aerospace test data platform; domain gap
+- https://job-boards.greenhouse.io/tatari/jobs/8451506002 — Tatari SWE Intern — AdTech TV advertising; domain gap
+- https://job-boards.greenhouse.io/thenewyorktimes/jobs/4623927005 — NYT Backend Intern — $40/hr ($28/hr below optimal floor); media company; below comp preference
+- https://job-boards.greenhouse.io/stockx/jobs/8456940002 — StockX SWE Intern — e-commerce resale; domain gap
+- https://job-boards.greenhouse.io/harmonic/jobs/4591178005 — Harmonic SWE Intern — B2B SaaS unknown company; low priority
+- https://jobs.ashbyhq.com/NorthwoodSpace/385cac5a-45c0-4ffc-8aec-163c765c469f — Northwood Space SWE Intern — aerospace/defense; domain gap
+- https://jobs.ashbyhq.com/zettabyte-space/ec96b63a-e11c-4589-ab25-4f1779fb8759 — Zettabyte SWE Intern — GPU cloud; small company; unknown comp
+- https://jobs.ashbyhq.com/gigaml/aa903645-854f-4404-9d49-8a96f0dcc2cc — Giga SWE Intern — small AI startup; unknown company
+- https://jobs.ashbyhq.com/unlikelyai/8d50b0a8-0f5c-403e-8629-917d8b8430d2 — UnlikelyAI ML Intern — trust-focused AI; very small company
+- https://jobs.ashbyhq.com/profound/70a34e11-d3c7-4db2-a3fa-52d8cf627642 — Profound New Grad — AI for brand presence; small unknown company
+- https://jobs.ashbyhq.com/ramp/a1229aec-1105-4c47-8533-b912e732ed89 — Ramp University Grad Frontend — fintech; frontend only; less relevant
+- https://jobs.ashbyhq.com/brainco/0abea2f1-324e-47cc-9055-d015827ba641 — Brain Co. AI/ML Intern — same company as bb6e555b early career; AI hardware
+- https://jobs.ashbyhq.com/sentry/5e112240-922a-48f1-8865-9e7f89687f39 — Sentry SWE Intern Fall 2026 — error monitoring; good company but fall semester conflict
+- https://jobs.ashbyhq.com/zip/caa5ba75-3b38-4d29-88cd-69a90b01fd6f — Zip SWE Intern Fall 2026 — procurement AI; fall semester conflict
+
+<!-- === END 2026-04-27 SCAN v208 === -->
+
 <!-- === BEGIN 2026-04-27 SCAN v207 === -->
 <!-- Priorities checked: CrowdStrike (R26636 dup, Launch R26658 sophomore-only skip); Booz Allen Summer Games (Cyber+SWE both dup v113); SAIC (Tech Intern 17629492 dup v153; Cyber Analyst 17642654 NEW $40K below comp floor); Leidos (AI Infra Security 17504502 + Cyber AI/ML 17512146 NEW careers.leidos.com URLs; SWE Spring/Fall 16843657 NEW TS/SCI w/Poly req skip); PAN (RippleMatch dup v96); SentinelOne (no SWE intern v173); Datadog (Early Career 7646452 NEW ≥4.0); Databricks (new grad dup v191); Confluent (Toronto-only skip); Snowflake (2025 intern skip); CrowdStrike (dup); Stripe/Brex (dup/no new grad); Fall 2026 Ashby (all dup); Palantir (all dup v206); Cognition AI (no intern; all FTE senior); Cursor (no intern v179); Perplexity (EU-only v166); CoreWeave (no intern URL found; generic listing v151); Big Tech Fall 2026 (FAANG summer cycle closed Nov 2025; no Fall 2026 cycle open yet); Dark Wolf (dup v7); Mercury Backend Fall 2026 (closed March 6 v194); Tessera Labs (all dup); Newton Research (dup v162) -->
 <!-- 1 qualifying ≥4.0 (Datadog Early Career #421 4.0/5) | 2 below-threshold pipeline additions (Leidos Cyber AI/ML + Leidos AI Infra Security) | 1 skipped_score (SAIC Cyber Analyst $40K) | 7 priority areas fully swept; 4,271 history entries dedup'd -->

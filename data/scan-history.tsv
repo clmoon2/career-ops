@@ -4280,3 +4280,72 @@ https://job-boards.greenhouse.io/cerebrassystems/jobs/7580399003	2026-04-27	scan
 https://job-boards.greenhouse.io/cerebrassystems/jobs/7587669003	2026-04-27	scan-v208-greenhouse-api	Cerebras Early Career Compiler Engineer - LLVM — NEW URL (not in v7-v207 history); Sunnyvale CA; LLVM backend compiler engineering; C++ heavy; requires deep compiler/architecture expertise; highly specialized domain mismatch for Carlos; ~2.0/5 below threshold	Cerebras	skipped_title
 https://job-boards.greenhouse.io/snorkelai/jobs/5752694004	2026-04-27	scan-v208-snorkel-verify	Snorkel AI Software Engineer Summer Intern — CLOSED: confirmed no longer in Snorkel AI Greenhouse board as of 2026-04-27; was added in scan-v206 at ~3.7/5 below threshold; listing removed from board	Snorkel AI	skipped_closed
 scan-v208	2026-04-27	scan-v208-summary	Scan v208 complete (autonomous agent) — Cerebras API (2 genuinely NEW URLs: CoDesign New Grad 7580399003 ~2.5/5 hardware/ASIC domain mismatch + LLVM Compiler 7587669003 ~2.0/5 highly specialized — both skipped below threshold); Datadog API (DataPUPS summit event not real intern); Snorkel AI API (5752694004 CONFIRMED CLOSED); 30+ WebSearch queries (Ashby/Greenhouse/Lever/SimplifyJobs/SpeedyApply SWE+AI repos all confirmed dup v7-v207); 4,282 history entries; 0 new qualifying ≥4.0; 0 new pipeline additions; 0 new reports; Summer 2026 FULLY CLOSED — all major programs ended; Fall 2026 cycle still early (SpaceX/Verkada/Sentry/Notion/OpenAI Fall 2026 already in pipeline); recommend evaluating existing 1,183-item pipeline + monitoring Fall 2026 cycle for new postings in May 2026	scan-v208	added
+https://job-boards.greenhouse.io/haizelabs/jobs/4685944008	2026-04-27	websearch-v208-greenhouse-security	Software Engineer Intern	Haize Labs	added
+https://job-boards.greenhouse.io/haizelabs/jobs/4070377008	2026-04-27	websearch-v208-greenhouse-security	Research Intern	Haize Labs	added
+https://jobs.ashbyhq.com/openai/1f3353ed-78eb-4a01-b783-c44b1c086711	2026-04-27	websearch-v208-ashby-fall2026	Software Engineer Internship Applied Emerging Talent (Fall 2026)	OpenAI	added
+https://jobs.ashbyhq.com/openai/566ce27d-8a1c-497c-a301-0912010d7b29	2026-04-27	websearch-v208-ashby-fall2026	Software Engineer Internship Co-op Applied Emerging Talent (Fall 2026)	OpenAI	skipped_dup
+https://job-boards.greenhouse.io/togetherai/jobs/5012785007	2026-04-27	websearch-v208-greenhouse-security	Security Engineer Intern (Summer 2026)	Together AI	added
+https://job-boards.greenhouse.io/togetherai/jobs/5012768007	2026-04-27	websearch-v208-greenhouse-security	Software Engineer Intern (Summer 2026)	Together AI	added
+https://job-boards.greenhouse.io/cloudflare/jobs/7582150	2026-04-27	websearch-v208-cloudflare	Security Engineer Intern (Summer 2026) Austin TX	Cloudflare	added
+https://job-boards.greenhouse.io/cloudflare/jobs/7206269	2026-04-27	websearch-v208-cloudflare	Software Engineer Intern (Summer 2026) Austin TX	Cloudflare	added
+https://job-boards.greenhouse.io/cloudflare/jobs/7670429	2026-04-27	websearch-v208-cloudflare	Trust and Safety Threat Investigations Intern (Summer 2026)	Cloudflare	added
+https://job-boards.greenhouse.io/cloudflare/jobs/7774167	2026-04-27	websearch-v208-cloudflare	Software Engineer Intern (Summer 2026)	Cloudflare	added
+https://job-boards.greenhouse.io/cloudflare/jobs/7589903	2026-04-27	websearch-v208-cloudflare	AI Automation Intern (Summer 2026)	Cloudflare	added
+https://job-boards.greenhouse.io/cloudflare/jobs/7359136	2026-04-27	websearch-v208-cloudflare	Research Engineer Intern (Summer 2026)	Cloudflare	added
+https://job-boards.greenhouse.io/cloudflare/jobs/7582169	2026-04-27	websearch-v208-cloudflare	Security Engineer Intern (Summer 2026) London	Cloudflare	skipped_title
+https://job-boards.greenhouse.io/cloudflare/jobs/7296923	2026-04-27	websearch-v208-cloudflare	Software Engineer Intern (Summer 2026) London	Cloudflare	skipped_title
+https://job-boards.greenhouse.io/cloudflare/jobs/7578802	2026-04-27	websearch-v208-cloudflare	Red Team Security Intern (Summer 2026) London	Cloudflare	skipped_title
+https://job-boards.greenhouse.io/cloudflare/jobs/7577080	2026-04-27	websearch-v208-cloudflare	Physical Security Intern (Summer 2026)	Cloudflare	skipped_title
+https://job-boards.greenhouse.io/cloudflare/jobs/7659508	2026-04-27	websearch-v208-cloudflare	Data and Technology Legal Privacy Intern (Summer 2026)	Cloudflare	skipped_title
+https://job-boards.greenhouse.io/cloudflare/jobs/7574862	2026-04-27	websearch-v208-cloudflare	GRC Team Intern (Summer 2026)	Cloudflare	skipped_title
+https://jobs.ashbyhq.com/decagon/aa9c9d2a-aba9-429e-bf91-8303247fbcd6	2026-04-27	websearch-v208-ashby-summer2026	Agent Software Engineer Intern (Summer 2026)	Decagon	added
+https://job-boards.greenhouse.io/spacex/jobs/8403219002	2026-04-27	websearch-v208-fall2026	Fall 2026 Software Engineering Internship Co-op	SpaceX	added
+https://job-boards.greenhouse.io/mercury/jobs/5817107004	2026-04-27	websearch-v208-fall2026	Software Engineering Intern AI Enablement (Fall 2026)	Mercury	added
+https://job-boards.greenhouse.io/mercury/jobs/5817062004	2026-04-27	websearch-v208-fall2026	Backend Engineering Intern (Fall 2026)	Mercury	added
+https://job-boards.greenhouse.io/mercury/jobs/5817004004	2026-04-27	websearch-v208-fall2026	Full-Stack Engineering Intern (Fall 2026)	Mercury	added
+https://job-boards.greenhouse.io/mercury/jobs/5668761004	2026-04-27	websearch-v208-backend	Backend Engineering Intern (Summer 2026)	Mercury	added
+https://job-boards.greenhouse.io/verkada/jobs/5099422007	2026-04-27	websearch-v208-fall2026	Backend Software Engineering Intern (Fall 2026)	Verkada	added
+https://job-boards.greenhouse.io/verkada/jobs/5099529007	2026-04-27	websearch-v208-fall2026	Frontend Software Engineering Intern (Fall 2026)	Verkada	added
+https://job-boards.greenhouse.io/verkada/jobs/5026067007	2026-04-27	websearch-v208-newgrad	Frontend Software Engineer University Grad 2026	Verkada	added
+https://jobs.ashbyhq.com/cohere/66c98ca3-334b-4a6a-a27c-5807b3686121	2026-04-27	websearch-v208-ashby-summer2026	Software Engineer Intern (Spring/Summer 2026)	Cohere	added
+https://jobs.ashbyhq.com/cohere/2c669d85-e3d7-43f1-aa43-be33e12ff8a5	2026-04-27	websearch-v208-ashby-aiml	Machine Learning Intern Co-op (Spring/Summer 2026)	Cohere	added
+https://job-boards.greenhouse.io/gemini/jobs/7360337	2026-04-27	websearch-v208-greenhouse-security	Security Engineering Intern (Summer 2026)	Gemini	added
+https://jobs.ashbyhq.com/1password/44426502-60f1-4639-b662-f48779861ac1	2026-04-27	websearch-v208-ashby-security	Developer Intern Data Security (Summer 2026)	1Password	added
+https://jobs.ashbyhq.com/1password/a31143c2-8b13-4757-9821-007ea93c2b8c	2026-04-27	websearch-v208-ashby-security	Developer Intern Device Security (Summer 2026)	1Password	added
+https://jobs.ashbyhq.com/ema/ac9732bc-f6d2-40f3-b6f7-0cc6d45ac11d	2026-04-27	websearch-v208-ashby-security	Security Engineer Intern	Ema	added
+https://jobs.ashbyhq.com/Illumio/9bb7111e-4749-4135-b43f-6984ab250417	2026-04-27	websearch-v208-ashby-security	Engineering Intern SRE	Illumio	added
+https://job-boards.greenhouse.io/scaleai/jobs/4606014005	2026-04-27	websearch-v208-newgrad	Software Engineering Intern (Summer 2026)	Scale AI	added
+https://job-boards.greenhouse.io/roadie/jobs/8479096002	2026-04-27	websearch-v208-aiml	AI Engineer Intern (Summer 2026)	Roadie	added
+https://jobs.lever.co/SymmetrySystems/dbca271b-a99b-48ab-83f2-b596a037ad65	2026-04-27	websearch-v208-lever-summer2026	Full Stack Software Engineer 2026 Summer Intern	Symmetry Systems	added
+https://job-boards.greenhouse.io/lilasciences/jobs/4034001009	2026-04-27	websearch-v208-greenhouse-security	Intern Security and Cloud Engineering	Lila Sciences	added
+https://job-boards.greenhouse.io/brex/jobs/8434389002	2026-04-27	websearch-v208-swe	Software Engineer Intern	Brex	added
+https://job-boards.greenhouse.io/harmonic/jobs/4591178005	2026-04-27	websearch-v208-swe	Software Engineer Intern	Harmonic	skipped_title
+https://job-boards.greenhouse.io/launchdarkly/jobs/7632240003	2026-04-27	websearch-v208-devops	Fullstack Software Engineer Intern	LaunchDarkly	added
+https://jobs.ashbyhq.com/profound/70a34e11-d3c7-4db2-a3fa-52d8cf627642	2026-04-27	websearch-v208-ashby-newgrad	Software Engineer New Grad San Francisco	Profound	skipped_title
+https://jobs.ashbyhq.com/sentry/5e112240-922a-48f1-8865-9e7f89687f39	2026-04-27	websearch-v208-ashby-fall2026	Software Engineer Intern (Fall 2026)	Sentry	added
+https://jobs.ashbyhq.com/zip/caa5ba75-3b38-4d29-88cd-69a90b01fd6f	2026-04-27	websearch-v208-ashby-fall2026	Software Engineer Intern (Fall 2026)	Zip	added
+https://jobs.ashbyhq.com/farsight/096cdc49-06ae-4724-8f46-c58184e98334	2026-04-27	websearch-v208-ashby-summer2026	Software Engineering Intern (Summer 2026)	Farsight AI	added
+https://jobs.ashbyhq.com/lambda/264f889c-38f4-42a5-9534-064a9512a3fe	2026-04-27	websearch-v208-ashby-aiml	2026 Machine Learning Research Intern	Lambda	added
+https://jobs.ashbyhq.com/handshake/eece422a-da6b-42e7-b694-3329e6ae4d6a	2026-04-27	websearch-v208-ashby-aiml	AI Machine Learning Engineer Intern	Handshake	added
+https://jobs.ashbyhq.com/gigaml/aa903645-854f-4404-9d49-8a96f0dcc2cc	2026-04-27	websearch-v208-consulting	Software Engineer Intern (Summer 2026)	Giga	skipped_title
+https://jobs.ashbyhq.com/naptha/96df9dd3-85bc-4cff-b806-973b78bb433a	2026-04-27	websearch-v208-consulting	Software Engineer Intern	Naptha AI	added
+https://job-boards.greenhouse.io/tatari/jobs/8451506002	2026-04-27	websearch-v208-backend	Software Engineer Intern	Tatari	skipped_title
+https://job-boards.greenhouse.io/thenewyorktimes/jobs/4623927005	2026-04-27	websearch-v208-backend	Backend Engineering Intern	The New York Times	skipped_title
+https://jobs.ashbyhq.com/ramp/a1229aec-1105-4c47-8533-b912e732ed89	2026-04-27	websearch-v208-ashby-newgrad	University Grad Software Engineer Frontend	Ramp	skipped_title
+https://job-boards.greenhouse.io/stockx/jobs/8456940002	2026-04-27	websearch-v208-backend	Software Engineering Intern DRC Team	StockX	skipped_title
+https://job-boards.greenhouse.io/dvtrading/jobs/4677094005	2026-04-27	websearch-v208-devops	Summer 2026 DevOps Engineer Intern	DV Trading	skipped_title
+https://jobs.ashbyhq.com/brainco/0abea2f1-324e-47cc-9055-d015827ba641	2026-04-27	websearch-v208-consulting	AI ML Engineering Internship Summer 2026	Brain Co.	skipped_title
+https://jobs.ashbyhq.com/unlikelyai/8d50b0a8-0f5c-403e-8629-917d8b8430d2	2026-04-27	websearch-v208-ashby-aiml	Machine Learning Engineer Intern	UnlikelyAI	skipped_title
+https://jobs.ashbyhq.com/zettabyte-space/ec96b63a-e11c-4589-ab25-4f1779fb8759	2026-04-27	websearch-v208-ashby-summer2026	Software Engineering Intern (Summer 2026)	Zettabyte	skipped_title
+https://jobs.ashbyhq.com/NorthwoodSpace/385cac5a-45c0-4ffc-8aec-163c765c469f	2026-04-27	websearch-v208-ashby-summer2026	Software Engineer Intern (Summer 2026)	Northwood Space	skipped_title
+https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f	2026-04-27	websearch-v208-lever-summer2026	Software Engineering Intern 2026 Summer	Shield AI	skipped_title
+https://job-boards.greenhouse.io/gallup/jobs/4185955009	2026-04-27	websearch-v208-greenhouse-security	Security Engineer Intern Summer 2026	Gallup	skipped_title
+https://job-boards.greenhouse.io/mdbgeneralreferrals/jobs/7375640	2026-04-27	websearch-v208-greenhouse-security	Security Intern 2026 Dublin	MongoDB	skipped_title
+https://jobs.lever.co/BestEgg/3b828fc3-4fb0-49e8-9832-458c1fd437a9	2026-04-27	websearch-v208-lever-summer2026	2026 Summer Internship Software Engineer Intern	Best Egg	skipped_title
+https://jobs.lever.co/BestEgg/35e80bd9-f511-4131-adbd-d17ccb5dd285	2026-04-27	websearch-v208-lever-summer2026	2026 Summer Internship Backend Software Engineering Intern	Best Egg	skipped_title
+https://jobs.lever.co/veeva/4df9c2ca-d702-4d41-af82-290deff66564	2026-04-27	websearch-v208-lever-summer2026	Intern Software Engineer (Summer 2026)	Veeva Systems	skipped_title
+https://jobs.lever.co/artera/e404f923-0387-4086-8ab0-55988a1564d0	2026-04-27	websearch-v208-lever-summer2026	Software Engineer Intern (Summer 2026)	Artera	skipped_title
+https://jobs.lever.co/rigetti/40442388-ca66-4899-ab45-d8a2658bd050	2026-04-27	websearch-v208-lever-summer2026	2026 Internship Software Engineering Computer Vision	Rigetti Computing	skipped_title
+https://jobs.lever.co/nominal/f2673e2a-381e-49eb-bb34-7633ac0d5ea4	2026-04-27	websearch-v208-lever-summer2026	Software Engineer Internship (Summer 2026)	Nominal	skipped_title
+https://job-boards.greenhouse.io/ada18/jobs/5044605007	2026-04-27	websearch-v208-devops	DevOps Intern	Ada	skipped_title
+https://jobs.ashbyhq.com/gigaml/aa903645-854f-4404-9d49-8a96f0dcc2cc	2026-04-27	websearch-v208-consulting	Software Engineer Intern (Summer 2026)	Giga	skipped_dup

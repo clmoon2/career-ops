@@ -1,27 +1,19 @@
-# Portal Scan Summary — 2026-04-27 (v208)
+# Portal Scan Summary — 2026-04-27 (v208 — AUTONOMOUS AGENT)
 
-**Scan version:** v208 (autonomous agent)  
-**Date:** 2026-04-27  
-**History entries before scan:** 4,278  
-**History entries after scan:** 4,282  
+**Date:** 2026-04-27
+**Previous scan:** v207 (same day — earlier session)
+**History entries before scan:** 4,282
+**History entries after scan:** 4,351 (+69)
 
 ---
 
-## Portals / Sources Scanned
+## Scan Methods
 
-| Source | Method | Result |
-|--------|--------|--------|
-| Cerebras Systems API | Greenhouse API | 3 roles found: AI Eng Intern Growth Team (dup #416), CoDesign New Grad (NEW ~2.5/5), LLVM Compiler (NEW ~2.0/5) |
-| Datadog API | Greenhouse API | DataPUPS Early ID Summit (event, not an intern role) |
-| Snorkel AI API | Greenhouse API | Intern 5752694004 CONFIRMED CLOSED |
-| Anthropic API | Greenhouse API | STEM Fellow + Fellows Program (all dup v7-v207; April 26 deadline PASSED) |
-| Glean / Vercel / Airtable / HumeAI / Arize / RunPod / Intercom / Temporal | Greenhouse API | All dup or empty (confirmed v205-v207) |
-| Greenhouse (broad) | WebSearch (20+ queries) | All confirmed dup v7-v207 |
-| Ashby (broad) | WebSearch (15+ queries) | All confirmed dup v7-v207 |
-| Lever (broad) | WebSearch (10+ queries) | All confirmed dup v7-v207 |
-| SpeedyApply SWE + AI repos | WebFetch | Axway/Resolve Tech/Altom/Aptiv all dup; Verkada AI Fall dup v186 |
-| SimplifyJobs Summer2026 + New Grad | WebSearch | All dup v7-v207 |
-| Wellfound, BuiltIn, ZipRecruiter | WebSearch | All dup or non-target |
+| Method | Result |
+|--------|--------|
+| Greenhouse APIs (8 companies) | All 503 — consistent with v201/v202 pattern |
+| WebSearch (16 queries) | 52 genuinely new URLs found across Ashby/Greenhouse/Lever |
+| New companies discovered | Cloudflare (8 intern URLs), Haize Labs, Together AI, Mercury Fall, Verkada Fall, Symmetry Systems, Farsight AI, Naptha AI |
 
 ---
 
@@ -29,72 +21,62 @@
 
 | Metric | Count |
 |--------|-------|
-| Companies/sources checked | 22+ |
-| WebSearch queries executed | 30+ |
-| New URLs found | 2 |
-| New URLs qualifying (≥4.0) | 0 |
-| New pipeline additions | 0 |
-| New evaluation reports written | 0 |
+| WebSearch queries run | 16 |
+| New URLs found | 52 |
+| Filtered/skipped | 20 |
+| Added to pipeline | 32 |
+| Evaluated 4.0+ (full reports written) | 6 |
+| Borderline 4.0 (pipeline, evaluate later) | 2 |
+| Below threshold pipeline additions | 24 |
 
 ---
 
-## New URLs Found (below threshold)
+## Top Matches (4.0+) — Reports Written This Scan
 
-| Company | Role | URL | Score | Reason Skipped |
-|---------|------|-----|-------|----------------|
-| Cerebras Systems | CoDesign & NextGen New College Grad | job-boards.greenhouse.io/cerebrassystems/jobs/7580399003 | ~2.5/5 | Hardware/ASIC co-design domain mismatch; Sunnyvale on-site |
-| Cerebras Systems | Early Career Compiler Engineer - LLVM | job-boards.greenhouse.io/cerebrassystems/jobs/7587669003 | ~2.0/5 | LLVM compiler specialization — not Carlos's domain |
-
----
-
-## Status Changes
-
-- **Snorkel AI SWE Summer Intern** (5752694004): CLOSED as of 2026-04-27 — removed from Greenhouse board. Was in pipeline at ~3.7/5.
-- **Anthropic Fellows Program** (all tracks): Application deadline for July 2026 cohort was **April 26, 2026** — now passed. Rolling applications continue for later cohorts; worth monitoring.
+| # | Company | Role | Score | Highlights |
+|---|---------|------|-------|-----------|
+| 421 | Haize Labs | Software Engineer Intern | 4.5/5 | NYC; $125K-200K/yr; LLM adversarial fuzz-testing = Carlos's direct CV project; clients Anthropic/Scale/AI21 |
+| 422 | OpenAI | SWE Intern Applied Emerging Talent (Fall 2026) | 4.4/5 | SF in-person; $60/hr; 15wk; React/Python/Postgres; ChatGPT + API features |
+| 423 | Together AI | Security Engineer Intern | 4.3/5 | SF; $58/hr + housing; AI lab security engineering; Python/bash; Summer 2026 |
+| 424 | Together AI | Software Engineer Intern | 4.2/5 | SF; $58/hr + housing; ML/Platform/Infra/Inference teams |
+| 425 | Cloudflare | Security Engineer Intern (Austin TX) | 4.2/5 | Austin TX (100mi from College Station!); Cloudflare Workers background is direct asset |
+| 426 | Decagon | Agent Software Engineer - Intern | 4.2/5 | Agentic AI company; 7-stage pipeline + AutoGen + LangGraph = perfect archetype |
 
 ---
 
-## Market Assessment
+## Borderline 4.0 (Evaluate Next Session)
 
-**Summer 2026:** FULLY CLOSED. All major tech company summer internship programs have either:
-- Filled their cohorts (programs opened Aug–Oct 2025, filled by Feb 2026)
-- Passed their application deadlines
-- Removed listings from job boards
-
-**Fall 2026:** Early cycle — programs are posting but most start Aug–Dec 2026 (requires leaving TAMU during fall semester — flag for Carlos). Already in pipeline:
-- SpaceX Fall 2026 SWE Co-op (Bastrop/McGregor TX — ~3.7/5)
-- Verkada AI SWE Intern Fall 2026 (~3.5/5)
-- Sentry SWE Intern Fall 2026 (~pipeline)
-- Notion SWE Intern Fall 2026 (~pipeline)
-- OpenAI Applied Emerging Talent Fall 2026 (already evaluated)
-- HP IQ Device Experiences Fall 2026 (~3.0/5)
-
-**New Grad FTE (2026 Start):** Active cycle. Many companies (Replit, Decagon, Quora/Poe, Harvey, Loop, etc.) are actively hiring for 2026 new grad starts. These are in the existing pipeline.
+- Cloudflare SWE Intern Austin TX (7206269) — ~4.0/5 — no relocation; same location advantage as #425
+- Cloudflare AI Automation Intern (7589903) — ~4.0/5 — AI+Automation; Austin/SF/NYC; strong archetype fit
 
 ---
 
-## Top Matches Already in Pipeline (Unprocessed)
+## New Companies for portals.yml
 
-The existing pipeline has **1,183 pending items**. Priority unprocessed items:
+| Company | Greenhouse Board | Note |
+|---------|-----------------|------|
+| Haize Labs | haizelabs | LLM adversarial testing; top fit |
+| Together AI | togetherai | AI infrastructure; $58/hr intern comp |
+| Cloudflare | cloudflare | CDN/security; Austin TX office |
+| Mercury | mercury | Fintech; remote-friendly; Fall 2026 cycle |
 
-| Company | Role | Est. Score | Notes |
-|---------|------|-----------|-------|
-| Infisical | Full Stack New Grad (Remote US) | ~3.8/5 | $110-180K + equity; OSS secrets management |
-| Replit | Software Engineer New Grad | ~3.8/5 | AI dev platform; in pipeline since Apr 5 |
-| SpaceX | Fall 2026 SWE Co-op (Bastrop TX) | ~3.7/5 | 30 min from McGregor — Texas location advantage |
-| MongoDB | Security Engineering Intern | ~3.5/5 | Seattle; cybersec minor alignment |
-| Ramp | University Grad 2026 Backend SWE | ~3.5/5 | NYC 4d/wk on-site concern |
-| Airtable | Software Engineer New Grad | ~3.8/5 | Verify still active (was pending close) |
+---
+
+## Market Assessment (Updated)
+
+Summer 2026: Previously "fully saturated" — but 52 new URLs found confirms continuous new postings. Cloudflare, Together AI, Haize Labs intern programs appear recently opened (not in prior 4,282-entry history).
+
+Fall 2026 cycle: Now opening broadly. Mercury (3 roles), Verkada (2 roles), OpenAI, SpaceX, Sentry, Zip all now posting. Weekly scanning recommended through May-June 2026.
+
+New Grad FTE: Still active — Decagon, Cohere, Brex, Scale AI posting.
 
 ---
 
 ## Recommended Next Actions
 
-1. **Evaluate existing pipeline** — 1,183 pending items, many above 4.0 threshold, need reports
-2. **Monitor Fall 2026 cycle** — check SpeedyApply/SimplifyJobs weekly for Fall 2026 internship openings (May 2026 expected inflection point for Fall cycle)
-3. **Watch Anthropic Fellows rolling cohorts** — deadline passed for July 2026; check again in June for next cohort
-4. **Apply to high-score pipeline items** — Replit New Grad, Infisical, Decagon, Quora/Poe all scored ≥4.0 in prior evaluations
-
----
-
-*Next scan recommended: May 2026 (Fall 2026 cycle expected to open more broadly)*
+1. APPLY TODAY: Haize Labs (#421, 4.5/5) — adversarial LLM research = rare direct fit + $125K-200K
+2. APPLY THIS WEEK: OpenAI (#422), Together AI Security (#423), Together AI SWE (#424), Cloudflare Security Austin (#425), Decagon (#426)
+3. EVALUATE NEXT: Cloudflare SWE Austin + AI Automation (both ~4.0/5)
+4. Run: node merge-tracker.mjs (to sync #421-426 to applications.md)
+5. Add to portals.yml: Haize Labs, Together AI, Cloudflare, Mercury
+6. Next scan: Check again in 1-3 days — Fall 2026 cycle accelerating
