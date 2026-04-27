@@ -1,5 +1,27 @@
 # Pipeline -- Pending URLs
 
+<!-- === BEGIN 2026-04-27 SCAN v207 === -->
+<!-- Priorities checked: CrowdStrike (R26636 dup, Launch R26658 sophomore-only skip); Booz Allen Summer Games (Cyber+SWE both dup v113); SAIC (Tech Intern 17629492 dup v153; Cyber Analyst 17642654 NEW $40K below comp floor); Leidos (AI Infra Security 17504502 + Cyber AI/ML 17512146 NEW careers.leidos.com URLs; SWE Spring/Fall 16843657 NEW TS/SCI w/Poly req skip); PAN (RippleMatch dup v96); SentinelOne (no SWE intern v173); Datadog (Early Career 7646452 NEW ≥4.0); Databricks (new grad dup v191); Confluent (Toronto-only skip); Snowflake (2025 intern skip); CrowdStrike (dup); Stripe/Brex (dup/no new grad); Fall 2026 Ashby (all dup); Palantir (all dup v206); Cognition AI (no intern; all FTE senior); Cursor (no intern v179); Perplexity (EU-only v166); CoreWeave (no intern URL found; generic listing v151); Big Tech Fall 2026 (FAANG summer cycle closed Nov 2025; no Fall 2026 cycle open yet); Dark Wolf (dup v7); Mercury Backend Fall 2026 (closed March 6 v194); Tessera Labs (all dup); Newton Research (dup v162) -->
+<!-- 1 qualifying ≥4.0 (Datadog Early Career #421 4.0/5) | 2 below-threshold pipeline additions (Leidos Cyber AI/ML + Leidos AI Infra Security) | 1 skipped_score (SAIC Cyber Analyst $40K) | 7 priority areas fully swept; 4,271 history entries dedup'd -->
+
+### Evaluated (≥4.0) — scan-v207
+
+- [x] https://job-boards.greenhouse.io/datadog/jobs/7646452 | Datadog | Software Engineer, Early Career | **4.0/5** | NYC hybrid; $123-155K + RSUs; prod Python/AI stack match; top observability brand; new grad FTE — **REPORT #421**
+
+### Below Threshold — scan-v207 (pipeline for later evaluation)
+
+- [ ] https://careers.leidos.com/jobs/17512146-cyber-ai-slash-ml-intern | Leidos | Cyber AI/ML Intern | Remote US; Python/ML/LLM/cybersec focus; Bachelor's degree OK; must be US citizen + clearance ability; comp undisclosed; defense contractor domain; (~3.2/5 — clearance requirement + defense domain)
+- [ ] https://careers.leidos.com/jobs/17504502-ai-infrastructure-and-security-intern | Leidos | AI Infrastructure & Security Intern | Remote US; Summer 2026; Python/AWS/Docker/NIST/FedRAMP; Leidos CDAO division; must be US citizen + clearance ability; comp undisclosed; (~3.0/5 — clearance requirement + defense domain + comp unknown)
+
+### Skipped — scan-v207
+
+- https://jobs.saic.com/jobs/17642654-cybersecurity-analyst-intern — SAIC Cybersecurity Analyst Intern DC — $40K/yr (below $30/hr comp floor); SOC/analyst focus not SWE; Public Trust clearance required
+- https://careers.leidos.com/jobs/16843657-software-engineer-intern-spring-slash-fall-2026 — Leidos SWE Intern Spring/Fall 2026 Reston — TS/SCI with Polygraph required; major clearance blocker
+- https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Launch-Intern---Summer-2026_R26658 — CrowdStrike Launch Intern — for sophomores (Class of 2028 only); Carlos ineligible
+- All Confluent 2026 intern listings — Toronto Canada location only; non-US skip
+
+<!-- === END 2026-04-27 SCAN v207 === -->
+
 <!-- === BEGIN 2026-04-27 SCAN v206 === -->
 <!-- Greenhouse APIs: Anthropic (STEM Fellow dup; 150+ senior FTE; 0 new intern), Glean (SWE Univ Grad dup; 0 new), Vercel (0 intern), Airtable (0 intern), HumeAI (0 intern; all senior FTE), Arize AI (0 intern; all senior), RunPod (0 intern; all senior), Intercom (0 intern; all senior), Temporal (0 jobs) -->
 <!-- WebSearch: Greenhouse broad SWE intern (all dup); Ashby broad SWE intern (all dup); Lever broad SWE intern (all dup except Palantir 2fb19022 503/unverified); Greenhouse security interns (1 NEW: Snorkel AI SWE below threshold; Figma PhD-only skip; QRT London skip; Shield AI Embedded skip); Ashby AI/ML intern (all dup); Ashby Fall 2026 (all dup); SimplifyJobs recent (Cerebras 7713841003 404; TikTok ByteDance 503 skip; Five9 redirect broken; Northspyre dup; Socure dup); Lever Fall 2026 (all dup except Shield AI Embedded skip); Figma/Databricks/Stripe (Figma PhD Security NEW skip; others dup); consulting/defense (Peraton/Leidos custom sites; no Greenhouse URLs new) -->
