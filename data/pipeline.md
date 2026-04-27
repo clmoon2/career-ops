@@ -3628,3 +3628,8 @@ All 181 prior tracked companies re-confirmed; Twilio only new URL (7850821) foun
 - [ ] https://job-boards.greenhouse.io/ripplematchinterns/jobs/8239241002 | Okta | Software Engineer Intern - Canada (via RippleMatch) | Toronto/Canada; location mismatch for US-focused search; IAM/identity security company; only worth pursuing if open to Canada; (~2.8/5 — location penalty)
 
 <!-- === END 2026-04-27 SCAN v209 === -->
+
+<!-- === BEGIN 2026-04-27 SCAN v210 === -->
+<!-- Greenhouse APIs: Anthropic (senior FTE only, all in history), Vercel (no intern/new grad, all in history), Temporal (0 jobs), Arize AI (no interns), RunPod (no interns), Hume AI (senior only) -->
+<!-- WebSearch: 30+ queries across Ashby/Greenhouse/Lever for SWE+Security+AI+DevOps+Consulting interns + new grad roles. 3 genuinely new URLs found, all skipped (TELUS Fuel iX 404 closed, Alpha FMC no openings, Graphcore Bristol UK non-US). Scan history now 4,389 entries. 0 new qualifying ≥4.0. v210 confirms saturation of Summer 2026 intern cycle on major job boards. -->
+<!-- === END 2026-04-27 SCAN v210 === -->
