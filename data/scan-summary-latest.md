@@ -1,93 +1,79 @@
-# Portal Scan — 2026-04-27 (v203)
+# Scan Summary — 2026-04-27 (v204)
 
-**Scan version:** v203 (autonomous agent)
-**Date:** 2026-04-27
-**Status:** Summer 2026 intern season CONFIRMED CLOSED. Active cycle: Fall 2026 internships + 2026 new grad FTE roles.
+**Date:** 2026-04-27  
+**Portals/Companies scanned:** 22  
+**Listings processed:** 57  
+**Filtered by title (no intern/SWE keywords):** 9 (PolyAI sales roles, n8n senior-only, Parloa sales roles, Attio senior-only)  
+**Duplicates skipped:** 39  
+**New listings added to pipeline:** 9  
+**Reports written (≥4.0):** 3 (#418 Salesforce, #419 Palantir, #420 Vapi)  
 
----
+## Top Matches (≥4.0)
 
-## Summary
+| Score | Company | Role | URL |
+|-------|---------|------|-----|
+| 4.4/5 | Vapi | Backend Product Engineer | https://jobs.ashbyhq.com/vapi/5aecc877-6f32-4fc6-9f51-3072d4bdcf92 |
+| 4.3/5 | Palantir | Software Engineer, Internship | https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d |
+| 4.2/5 | Salesforce | Software Engineering AMTS (College Grad) | https://careers.salesforce.com/en/jobs/jr330400/software-engineering-amts-college-grad/ |
 
-```
-Queries executed:         20+ (Ashby/Greenhouse/Lever Fall 2026, new grad SWE+AI,
-                          security, consulting, NVIDIA/defense verticals)
-APIs checked:             6 (TogetherAI, Glean, Vercel, Airtable, Anthropic, SpaceX)
-Total URLs discovered:    55+
-Filtered/skipped:         12 skipped_title + 23 skipped_dup + 8 skipped_closed
-New URLs added:           15 (pipeline + reports)
-Reports written (>=4.0):  3
-```
+## Added to Pipeline (below threshold)
 
----
+| Score | Company | Role | Notes |
+|-------|---------|------|-------|
+| ~3.9/5 | ByteDance | SWE Intern Applied ML — Fall 2026 | Fall start; strong ML; verify comfort with ByteDance |
+| ~3.8/5 | RunPod | Site Reliability Engineer | Remote US; cloud GPU infra; verify entry-level eligibility |
+| ~3.8/5 | LangChain | Deployed Engineer | SF/NY; FDE-style; verify entry-level eligibility |
+| ~3.6/5 | Bland AI | Machine Learning Engineer | Voice AI; SF; senior-leaning |
+| ~3.5/5 | Parloa | Senior/Lead FDE — US | NY/Remote; voice AI; too senior |
+| ~3.5/5 | Bland AI | ML Researcher — Multimodal LLMs | Research role; senior level |
 
-## Top Matches — Reports Written
+## Scan Coverage
 
-| # | Company | Role | Score | URL |
-|---|---------|------|-------|-----|
-| 418 | Together AI | Software Engineer – New Grad | **4.2/5** | https://job-boards.greenhouse.io/togetherai/jobs/4835292007 |
-| 419 | Together AI | ML / Research Engineer – New Grad | **4.0/5** | https://job-boards.greenhouse.io/togetherai/jobs/4835315007 |
-| 420 | Center for AI Safety | Research Engineer Intern (Fall 2026) | **4.0/5** | https://jobs.lever.co/aisafety/e011814b-9a80-43d6-bb0c-cc153ea4bec4 |
+**Greenhouse APIs (8 boards):**
+- PolyAI — 22 listings scanned; 0 relevant (all senior sales/management FTE, UK-based)
+- Parloa — 62 listings scanned; 1 new FDE pipeline-only (4 dups)
+- Intercom — 130+ listings scanned; 0 new (all dups, all senior FTE)
+- Hume AI — 8 listings scanned; 0 new (all dups, all senior FTE)
+- Temporal — 0 listings (board empty)
+- Arize AI — 35 listings scanned; 0 new (all senior FTE, all dups)
+- RunPod — 19 listings scanned; 1 NEW (SRE, pipeline only)
+- Factorial — 404 (board not found)
 
-### Highlights
+**Ashby WebSearch (15 companies):**
+- Cohere — all dups (3 intern/ML intern URLs already in pipeline)
+- LangChain — 1 new (Deployed Engineer, pipeline); AI Engineer + Fullstack both dup
+- Pinecone — all dups (new grad + intern both known)
+- n8n — all senior/Europe-only; no intern program
+- Zapier — no results
+- ElevenLabs — dup (Impact Program Intern already known)
+- Deepgram — no intern program; all senior engineering managers
+- Vapi — 1 NEW high-priority (Backend Product Engineer, report #420)
+- Bland AI — 2 NEW pipeline (ML Engineer + ML Researcher Multimodal)
+- Sierra — all dups (intern + new grad both known)
+- Decagon — all dups (intern summer 2026 already in pipeline)
+- Attio — no intern program; all senior FTE
+- Tinybird — no Ashby board found
+- Travelperk — no intern results
+- Lindy — dup (Engineering Intern already known)
 
-- **Together AI SWE New Grad (#418)** — $150-200K, SF on-site. Carlos's 35,800-line Python backend + 5-provider LLM pipeline is textbook Together AI infra engineering. Best new-grad offer found in this scan. Apply immediately.
+**Lever WebSearch (4 companies):**
+- Palantir — 1 NEW (SWE Intern general, report #419); 8+ other intern/new-grad URLs all dups
+- Weights & Biases — acquired by CoreWeave; no standalone intern results
+- Mistral AI — no intern program; all senior FTE, Europe-based
+- Clarity AI — no relevant results
 
-- **Together AI ML/Research New Grad (#419)** — Same comp band; ML/Research engineering track. Secondary fit; TidalHack 6-agent system is the lead proof point. Apply alongside #418.
-
-- **Center for AI Safety Fall 2026 (#420)** — Deadline May 29 (still open). Adversarial LLM testing project on CV is a direct match for CAIS research areas. No PhD required. Prestigious career signal for AI safety/security track. Apply before May 29.
-
----
-
-## Pipeline Additions (sub-4.0, for later evaluation)
-
-| URL | Company | Role | Est. Score |
-|-----|---------|------|------------|
-| https://job-boards.greenhouse.io/spacex/jobs/8403219002 | SpaceX | Fall 2026 SWE Internship (Bastrop/McGregor TX) | ~3.7/5 |
-| https://jobs.ashbyhq.com/infisical/32b14a87-73a7-4f3e-94ca-291c8441b534 | Infisical | Full Stack New Grad (Remote US, $110-180K) | ~3.8/5 |
-| https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc | Replit | SWE New Grad Summer 2026 | ~3.8/5 |
-| https://job-boards.greenhouse.io/airtable/jobs/8409376002 | Airtable | SWE New Grad 2026 (verify active) | ~3.8/5 |
-| https://jobs.ashbyhq.com/ramp/83075cf0-9c22-4475-9c6b-e21923a96df8 | Ramp | University Grad 2026 Backend (NYC, $142-175K) | ~3.5/5 |
-| https://job-boards.greenhouse.io/mongodb/jobs/7292747 | MongoDB | Security Engineering Intern 2026 (Seattle) | ~3.5/5 |
-| https://job-boards.greenhouse.io/loop/jobs/5780584004 | Loop | 2026 New Grad SWE AI (SF/NYC) | ~3.5/5 |
-| https://job-boards.greenhouse.io/loop/jobs/5780582004 | Loop | 2026 New Grad SWE Full-Stack (SF/Chicago) | ~3.5/5 |
-| https://job-boards.greenhouse.io/launchdarkly/jobs/7632240003 | LaunchDarkly | Fullstack SWE Intern | ~3.2/5 |
-| https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003 | Sigma Computing | SWE New Grad Program ($65/hr temp-to-hire) | ~3.2/5 |
-| https://jobs.ashbyhq.com/spruceid/3d182b7f-482e-45b2-8668-f04f0b5fda8e | Spruce Systems | Full-Stack New Grad (Remote) | ~3.0/5 |
-| https://job-boards.greenhouse.io/hpiq/jobs/5622472004 | HP IQ | SWE Intern Device Experiences Fall 2026 | ~3.0/5 |
-
----
-
-## Key Dedup Findings
-
-These high-signal listings appeared in search results but were already evaluated:
-
-| Already Evaluated | Entry # | Score |
-|-------------------|---------|-------|
-| OpenAI AET Fall 2026 | #2 | 4.5/5 |
-| Decagon Agent SWE New Grad | #117 | 4.5/5 |
-| Quora Poe AI Engineer New Grad | #124 | 4.5/5 |
-| Together AI SWE Intern (Summer) | #295 | 4.5/5 |
-| Together AI Security Intern (Summer) | #334 | 4.5/5 |
-| Harvey SWE New Grad | #383 | 4.1/5 |
-| Verkada Security SWE Univ Grad | #389 | 4.1/5 |
-| Scale AI SWE New Grad | #302 | 4.2/5 |
-
----
-
-## Market Intelligence
-
-- **Summer 2026 intern season:** Fully closed (confirmed across 203 scans)
-- **Fall 2026 cycle:** Limited but opening — SpaceX, HP IQ, CAIS confirmed active; Notion (SF-only)
-- **New grad FTE 2026:** Active — Together AI, Infisical, Replit, Airtable, Ramp, MongoDB, Loop, Sigma Computing
-- **Anthropic Fellows:** Deadline was April 26 — CLOSED for this cycle
-- **Action priority:** CAIS (deadline May 29) + Together AI SWE new grad + Infisical/Replit for remote options
-
----
+**Cross-portal WebSearch:**
+- Salesforce — 1 NEW (AMTS College Grad, report #418); Summer 2026 intern dup; Security intern dup
+- Twilio — only old listings returned (2021-2025 interns); no active 2026 openings
+- ByteDance — 1 NEW (Fall 2026 Applied ML intern); AI Platform intern dup
+- Gong — no intern results on Greenhouse
+- Consulting (Deloitte/Accenture/McKinsey) — no Greenhouse results; Deloitte Summer 2026 intern confirmed closed
 
 ## Recommended Next Actions
 
-1. **Apply to Center for AI Safety #420** — Deadline May 29; adversarial LLM testing = direct research match; apply this week
-2. **Apply to Together AI SWE New Grad #418** — $150-200K; best new-grad comp found; apply this week
-3. **Run `/career-ops pipeline`** — Evaluate SpaceX Fall 2026 (~3.7/5, Bastrop/McGregor TX — 30min from College Station)
-4. **Run `/career-ops pipeline`** — Evaluate Infisical (~3.8/5, remote + security alignment)
-5. **Verify Airtable new grad 8409376002** — Prior entry #16 was closed; check if new URL is active before investing time
+1. **Apply to Vapi (Backend Product Engineer)** — highest priority, exceptional stack match, apply immediately
+2. **Apply to Palantir (SWE Intern)** — verify graduation date eligibility first; then prioritize application
+3. **Apply to Salesforce (AMTS)** — strong new-grad opportunity; tailor CV around Agentforce/AI platform experience
+4. **Evaluate ByteDance Fall 2026 intern** — worth applying if comfortable with ByteDance; strong ML alignment
+5. **Check RunPod SRE** — verify if entry-level or requires 3+ years; if junior-eligible, solid cloud infra match
+6. **Next scan target** — consider: Glean (Greenhouse), Vercel, Airtable, DoorDash new grad, Stripe, Rippling, Modal Labs, Cerebras

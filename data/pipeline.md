@@ -1,5 +1,24 @@
 # Pipeline -- Pending URLs
 
+<!-- === BEGIN 2026-04-27 SCAN v204 === -->
+<!-- Greenhouse APIs: PolyAI (0 intern/new-grad; all senior/sales FTE), Parloa (0 intern; 1 FDE-US dup; 1 SW-GTM dup; 1 Sec-Eng dup), Intercom (0 intern; all senior FTE, all dup), Hume AI (0 intern; all senior FTE, all dup), Temporal (0 jobs — board empty), Arize AI (all senior FTE, dup), RunPod (1 NEW: SRE), Factorial (404) -->
+<!-- WebSearch: Cohere (all dup in pipeline), LangChain (all dup), Pinecone (all dup), n8n (no intern), Zapier (no results), ElevenLabs (dup), Deepgram (no intern), Vapi (1 NEW: Backend Product Engineer), Bland AI (1 NEW: ML Engineer), Sierra (all dup), Decagon (all dup), Attio (no intern), Lindy (dup), Palantir (1 NEW: SWE Intern 7d69cf8a), W&B (acquired by CoreWeave; no intern results), Mistral (no intern), Salesforce (1 NEW: AMTS College Grad), ByteDance (1 NEW: Fall 2026 Applied ML Intern), Gong (no intern), Consulting (no Greenhouse results) -->
+<!-- 9 new listings found | 3 qualifying ≥4.0 (reports #418-420) | 6 pipeline-only additions -->
+
+### New additions — scan-v204 (≥4.0 — full reports written)
+- [x] https://careers.salesforce.com/en/jobs/jr330400/software-engineering-amts-college-grad/ | Salesforce | Software Engineering AMTS (College Grad) | New grad FTE; Agentforce AI platform; Python/TS; SF/Seattle/NYC | (~4.2/5) — REPORT #418
+- [x] https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d | Palantir | Software Engineer, Internship | $10K/mo; FDSE archetype; production AI + Rust/C; verify grad date | (~4.3/5) — REPORT #419
+- [x] https://jobs.ashbyhq.com/vapi/5aecc877-6f32-4fc6-9f51-3072d4bdcf92 | Vapi | Backend Product Engineer | Voice AI infra; perfect Python/TS/Cloudflare/multi-model stack; HIPAA/SOC2 | (~4.4/5) — REPORT #420
+
+### New additions — scan-v204 (below threshold — pipeline only)
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/4108951008 | RunPod | Site Reliability Engineer | Remote US; Kubernetes/AWS SRE; cloud GPU infra; full-time senior; verify entry-level fit | (~3.8/5)
+- [ ] https://joinbytedance.com/search/7534883498658629906 | ByteDance | Software Engineer Intern (Applied ML-Enterprise) — Fall 2026 | Fall 2026 start; ML/enterprise; 12-week; strong comp; OPT concern N/A | (~3.9/5)
+- [ ] https://jobs.ashbyhq.com/bland/05906608-0628-412c-8b01-a050d87986c5 | Bland AI | Machine Learning Engineer | Voice AI ML; SF; senior-leaning but AI infra stack match | (~3.6/5)
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4604587101 | Parloa | Senior/Lead Forward Deployed Engineer — US | NY/Remote US; voice AI; FDE role; too senior (Lead level) | (~3.5/5)
+- [ ] https://jobs.ashbyhq.com/bland/681dfcda-f016-4bda-826e-7e813fae0083 | Bland AI | ML Researcher — Multimodal LLMs | SF; research-heavy; LLM multimodal; senior researcher level | (~3.5/5)
+- [ ] https://jobs.ashbyhq.com/langchain/17264d5c-0ca3-4c26-9683-dd9b020cc155 | LangChain | Deployed Engineer | SF/NY; FDE-style role; not intern-labeled; verify entry-level eligibility | (~3.8/5)
+<!-- === END 2026-04-27 SCAN v204 === -->
+
 <!-- === NEW 2026-04-27 SCAN v202 (Autonomous Agent — Greenhouse APIs RECOVERED: Anthropic SUCCESS (all Fellows confirmed active; 0 new intern/new-grad; only senior FTE additions); HumeAI (0 intern, senior FTE only); Temporal (0 jobs — board empty); Arize (no intern program; senior FTE only; Buenos Aires-only roles); RunPod 503; Glean 503; 20+ WebSearch queries (Ashby broad Fall+Summer 2026; Greenhouse broad security/AI/DevOps/consulting; Lever Fall 2026; SpeedyApply SWE+AI repos; SimplifyJobs Summer2026+NewGrad; jobright.ai new grad; security broad: Bandwidth/Tevora/Worldly/CenterAISafety/Gemini; consulting: Celonis/Appian/C3AI; new companies: Spacial AI/Axiomatic AI/Verkada AI-SWE-Fall; Schonfeld/Tenstorrent/Equinix/Socure); 4,112-entry history dedup'd; 0 genuinely new URLs found; 0 qualifying ≥4.0; market FULLY SATURATED at ~4,112 entries after 202 scans; Summer 2026 intern season CONFIRMED CLOSED; Fall 2026 cycle still early; Anthropic API recovered from v201 503) === -->
 <!-- 0 new evaluated ≥4.0. 0 new pipeline additions. All returns confirmed dups v7-v201. -->
 
