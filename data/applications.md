@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 418 | 2026-04-27 | Together AI | Software Engineer – New Grad | 4.2/5 | Evaluada | ❌ | [418](reports/418-together-ai-swe-newgrad-2026-04-27.md) | $150-200K FTE new grad; SF on-site; 5-provider LLM pipeline + 35K-line backend = direct match; top-decile comp for new grad; apply |
+| 419 | 2026-04-27 | Together AI | Machine Learning / Research Engineer – New Grad | 4.0/5 | Evaluada | ❌ | [419](reports/419-together-ai-ml-research-newgrad-2026-04-27.md) | Same comp band as #418; ML/Research track; TidalHack + CV pipeline are best proof points; prioritize #418 SWE role first |
+| 420 | 2026-04-27 | Center for AI Safety | Research Engineer Intern (Fall 2026) | 4.0/5 | Evaluada | ❌ | [420](reports/420-center-for-ai-safety-research-intern-fall-2026-04-27.md) | Deadline May 29; adversarial LLM testing + cybersec minor = direct research match; no PhD required; prestigious AI safety signal |
 | 416 | 2026-04-25 | Cerebras Systems | AI Engineering Intern - Growth Team | 4.5/5 | Evaluada | ❌ | [416](reports/416-cerebras-ai-engineering-intern-growth-team-2026-04-25.md) | Sunnyvale CA 12wks Jun-Aug; Claude Code+MCP+RAG+multi-agent exact CV match; comp undisclosed est $40-55/hr; verify comp before accepting |
 | 414 | 2026-04-25 | Actian | AI Security Intern | 4.0/5 | Evaluada | ❌ | [414](reports/414-actian-ai-security-intern-2026-04-25.md) | Remote+Austin TX orientation; 12wks Jun 8; LLM red team+prompt injection exact CV match; verify comp before accepting |
 | 411 | 2026-04-24 | Zscaler | Summer 2026 Technical Internship | 4.0/5 | Evaluada | ❌ | [411](reports/411-zscaler-technical-internship-2026-04-24.md) | San Jose CA hybrid 12wks; cloud security leader; threat detection or SWE track; comp undisclosed est $35-55/hr; verify comp before accepting |

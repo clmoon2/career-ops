@@ -1,82 +1,93 @@
-# Portal Scan — 2026-04-27 (v202)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Portal Scan — 2026-04-27 (v203)
 
-**Scan:** v202 (autonomous agent)
+**Scan version:** v203 (autonomous agent)
 **Date:** 2026-04-27
-**History size at start:** ~4,112 entries
+**Status:** Summer 2026 intern season CONFIRMED CLOSED. Active cycle: Fall 2026 internships + 2026 new grad FTE roles.
 
 ---
 
-## Results
+## Summary
 
 ```
-Greenhouse APIs checked:   6 (Anthropic ✓ recovered, HumeAI ✓, Temporal ✓, Arize ✓, RunPod 503, Glean 503)
-WebSearch queries run:     20+
-Companies/portals checked: 30+
-Genuinely new URLs:        0
-Filtered by title:         0
-Duplicates confirmed:      ALL
-New added to pipeline.md:  0
-Qualifying ≥4.0:           0
+Queries executed:         20+ (Ashby/Greenhouse/Lever Fall 2026, new grad SWE+AI,
+                          security, consulting, NVIDIA/defense verticals)
+APIs checked:             6 (TogetherAI, Glean, Vercel, Airtable, Anthropic, SpaceX)
+Total URLs discovered:    55+
+Filtered/skipped:         12 skipped_title + 23 skipped_dup + 8 skipped_closed
+New URLs added:           15 (pipeline + reports)
+Reports written (>=4.0):  3
 ```
 
 ---
 
-## Portals Scanned
+## Top Matches — Reports Written
 
-### Greenhouse APIs
-| Company | Status | Result |
-|---------|--------|--------|
-| Anthropic | ✅ Recovered (was 503 in v201) | All Fellows confirmed active; 0 new intern/new-grad; senior FTE only |
-| HumeAI | ✅ Online | 0 intern roles; all senior FTE |
-| Temporal | ✅ Online | 0 jobs — board empty |
-| Arize AI | ✅ Online | No intern program; senior FTE only |
-| RunPod | ❌ 503 | Persistent |
-| Glean | ❌ 503 | Persistent |
+| # | Company | Role | Score | URL |
+|---|---------|------|-------|-----|
+| 418 | Together AI | Software Engineer – New Grad | **4.2/5** | https://job-boards.greenhouse.io/togetherai/jobs/4835292007 |
+| 419 | Together AI | ML / Research Engineer – New Grad | **4.0/5** | https://job-boards.greenhouse.io/togetherai/jobs/4835315007 |
+| 420 | Center for AI Safety | Research Engineer Intern (Fall 2026) | **4.0/5** | https://jobs.lever.co/aisafety/e011814b-9a80-43d6-bb0c-cc153ea4bec4 |
 
-### WebSearch Coverage
-- Ashby: Fall 2026 SWE/AI/security (Notion/Zip/OpenAI/Sentry/Cohere) — all confirmed dup v7-v201
-- Greenhouse: Fall 2026 + security + AI/ML + DevOps (SpaceX/Kodiak/Verkada/Mercury) — all dup
-- Lever: Fall 2026 (CenterAISafety/Hermeus/ShieldAI) — all dup
-- SpeedyApply SWE+AI repos (April 27): NVIDIA JAX Fall/Axiomatic AI/Verkada AI Fall — all dup v7-v201
-- SimplifyJobs Summer 2026 + New Grad (Equinix/Socure/Appian/Tenstorrent/Notion new-grad) — all dup
-- Security broad (Bandwidth/Tevora/Worldly/Gemini/CenterAISafety) — all dup
-- Consulting (Celonis/C3AI/Appian/Sigma Computing) — all dup
+### Highlights
+
+- **Together AI SWE New Grad (#418)** — $150-200K, SF on-site. Carlos's 35,800-line Python backend + 5-provider LLM pipeline is textbook Together AI infra engineering. Best new-grad offer found in this scan. Apply immediately.
+
+- **Together AI ML/Research New Grad (#419)** — Same comp band; ML/Research engineering track. Secondary fit; TidalHack 6-agent system is the lead proof point. Apply alongside #418.
+
+- **Center for AI Safety Fall 2026 (#420)** — Deadline May 29 (still open). Adversarial LLM testing project on CV is a direct match for CAIS research areas. No PhD required. Prestigious career signal for AI safety/security track. Apply before May 29.
 
 ---
 
-## New Listings Found (≥4.0)
+## Pipeline Additions (sub-4.0, for later evaluation)
 
-**None.** 0 qualifying listings discovered.
+| URL | Company | Role | Est. Score |
+|-----|---------|------|------------|
+| https://job-boards.greenhouse.io/spacex/jobs/8403219002 | SpaceX | Fall 2026 SWE Internship (Bastrop/McGregor TX) | ~3.7/5 |
+| https://jobs.ashbyhq.com/infisical/32b14a87-73a7-4f3e-94ca-291c8441b534 | Infisical | Full Stack New Grad (Remote US, $110-180K) | ~3.8/5 |
+| https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc | Replit | SWE New Grad Summer 2026 | ~3.8/5 |
+| https://job-boards.greenhouse.io/airtable/jobs/8409376002 | Airtable | SWE New Grad 2026 (verify active) | ~3.8/5 |
+| https://jobs.ashbyhq.com/ramp/83075cf0-9c22-4475-9c6b-e21923a96df8 | Ramp | University Grad 2026 Backend (NYC, $142-175K) | ~3.5/5 |
+| https://job-boards.greenhouse.io/mongodb/jobs/7292747 | MongoDB | Security Engineering Intern 2026 (Seattle) | ~3.5/5 |
+| https://job-boards.greenhouse.io/loop/jobs/5780584004 | Loop | 2026 New Grad SWE AI (SF/NYC) | ~3.5/5 |
+| https://job-boards.greenhouse.io/loop/jobs/5780582004 | Loop | 2026 New Grad SWE Full-Stack (SF/Chicago) | ~3.5/5 |
+| https://job-boards.greenhouse.io/launchdarkly/jobs/7632240003 | LaunchDarkly | Fullstack SWE Intern | ~3.2/5 |
+| https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003 | Sigma Computing | SWE New Grad Program ($65/hr temp-to-hire) | ~3.2/5 |
+| https://jobs.ashbyhq.com/spruceid/3d182b7f-482e-45b2-8668-f04f0b5fda8e | Spruce Systems | Full-Stack New Grad (Remote) | ~3.0/5 |
+| https://job-boards.greenhouse.io/hpiq/jobs/5622472004 | HP IQ | SWE Intern Device Experiences Fall 2026 | ~3.0/5 |
 
 ---
 
-## Market Status
+## Key Dedup Findings
 
-**Summer 2026 intern season: CONFIRMED CLOSED.** All application deadlines passed by Feb-March 2026. Every active listing has been in the pipeline since v5-v201.
+These high-signal listings appeared in search results but were already evaluated:
 
-**Anthropic Fellows:** All 5 tracks confirmed still live on the board (AI Safety / AI Security / ML Systems / RL / STEM Fellow), but the April 26 deadline has now passed.
+| Already Evaluated | Entry # | Score |
+|-------------------|---------|-------|
+| OpenAI AET Fall 2026 | #2 | 4.5/5 |
+| Decagon Agent SWE New Grad | #117 | 4.5/5 |
+| Quora Poe AI Engineer New Grad | #124 | 4.5/5 |
+| Together AI SWE Intern (Summer) | #295 | 4.5/5 |
+| Together AI Security Intern (Summer) | #334 | 4.5/5 |
+| Harvey SWE New Grad | #383 | 4.1/5 |
+| Verkada Security SWE Univ Grad | #389 | 4.1/5 |
+| Scale AI SWE New Grad | #302 | 4.2/5 |
 
-**Fall 2026 cycle:** Still early. Existing Fall 2026 postings (Notion/Zip/OpenAI/Sentry/SpaceX) were all discovered in v7-v34. New postings expected May-August 2026.
+---
 
-**New Grad 2026 FTE:** Saturated. All top opportunities evaluated (Notion #403 4.3/5, Harvey, Benchling, Decagon, Whatnot, Loop, Replit) are in the pipeline.
+## Market Intelligence
+
+- **Summer 2026 intern season:** Fully closed (confirmed across 203 scans)
+- **Fall 2026 cycle:** Limited but opening — SpaceX, HP IQ, CAIS confirmed active; Notion (SF-only)
+- **New grad FTE 2026:** Active — Together AI, Infisical, Replit, Airtable, Ramp, MongoDB, Loop, Sigma Computing
+- **Anthropic Fellows:** Deadline was April 26 — CLOSED for this cycle
+- **Action priority:** CAIS (deadline May 29) + Together AI SWE new grad + Infisical/Replit for remote options
 
 ---
 
 ## Recommended Next Actions
 
-1. **Pipeline evaluation** — Run `/career-ops pipeline` to evaluate pending items:
-   - Acorns Remote SWE Intern (~3.6/5) — good remote fit
-   - Loop Full-Stack New Grad NYC/Chicago (~3.7/5) — LLM agents + supply chain AI
-   - Kensho ML Intern (~3.8/5) — S&P Global subsidiary, financial GenAI
-   - Snyk Security Engineer Intern (#416, 4.2/5) — verify still active post-deadline
-
-2. **Apply to unapplied ≥4.0 reports** — Audit `data/applications.md` for Evaluated entries not yet Applied.
-
-3. **Monitor Fall 2026 cycle** — New postings expected May-August 2026. Highest-value companies to watch: Anthropic (new cohort), Cloudflare, Figma, Datadog, Stripe.
-
-4. **Reduce scan frequency** — Market fully saturated. Weekly scanning is sufficient until Fall 2026 cycle heats up (May-June 2026). No need to run daily.
-
----
-
-*Generated by career-ops autonomous scan agent — v202 — 2026-04-27*
+1. **Apply to Center for AI Safety #420** — Deadline May 29; adversarial LLM testing = direct research match; apply this week
+2. **Apply to Together AI SWE New Grad #418** — $150-200K; best new-grad comp found; apply this week
+3. **Run `/career-ops pipeline`** — Evaluate SpaceX Fall 2026 (~3.7/5, Bastrop/McGregor TX — 30min from College Station)
+4. **Run `/career-ops pipeline`** — Evaluate Infisical (~3.8/5, remote + security alignment)
+5. **Verify Airtable new grad 8409376002** — Prior entry #16 was closed; check if new URL is active before investing time

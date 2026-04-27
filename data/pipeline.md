@@ -3437,3 +3437,29 @@ All 181 prior tracked companies re-confirmed; Twilio only new URL (7850821) foun
 - [ ] https://careers-lmi.icims.com/jobs/13493/software-engineering-intern-%28usps%29---summer-2026/job | LMI Innovation | Software Engineering Intern — USPS (Summer 2026) | Tysons VA; SWE intern companion to AI Engineer role; government consulting; comp est ~$22-30/hr; (~3.0/5)
 
 <!-- === END 2026-04-26 SCAN v200 === -->
+
+<!-- === BEGIN 2026-04-27 SCAN v203 === -->
+## Scan v203 — 2026-04-27
+
+### Evaluated (≥4.0) — Reports Written
+
+- [x] https://job-boards.greenhouse.io/togetherai/jobs/4835292007 | Together AI | Software Engineer – New Grad | **4.2/5** — $150-200K FTE; SF on-site; 5-provider LLM pipeline = direct match; REPORT #418
+- [x] https://job-boards.greenhouse.io/togetherai/jobs/4835315007 | Together AI | Machine Learning / Research Engineer – New Grad | **4.0/5** — ML/Research track companion; TidalHack best proof point; prioritize #418 first; REPORT #419
+- [x] https://jobs.lever.co/aisafety/e011814b-9a80-43d6-bb0c-cc153ea4bec4 | Center for AI Safety | Research Engineer Intern (Fall 2026) | **4.0/5** — Deadline May 29; adversarial LLM testing = exact CAIS research match; no PhD required; REPORT #420
+
+### New Listings — Below Threshold (Pipeline for later evaluation)
+
+- [ ] https://job-boards.greenhouse.io/spacex/jobs/8403219002 | SpaceX | Fall 2026 Software Engineering Internship/Co-op | Bastrop/McGregor TX + other locations; $30-36/hr; min 12wks Aug/Sep start; Python/C/C++; US citizen required; prefer 3.5 GPA; mission-critical flight/satellite software; Carlos is 30min from McGregor TX; (~3.7/5)
+- [ ] https://jobs.ashbyhq.com/infisical/32b14a87-73a7-4f3e-94ca-291c8441b534 | Infisical | Full Stack Engineer – New Grad (US & Canada) | Remote US/Canada or SF; $110-180K + 0.10-0.50% equity; open source secrets management + PKI + SSH (YC-backed); JS/React/Node.js/TypeScript stack (not Python-first); security infra alignment with cybersec minor; (~3.8/5)
+- [ ] https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc | Replit | Software Engineer – New Grad (Summer 2026) | AI-powered dev platform; distributed systems + full stack; exact tech builders use; (~3.8/5)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8409376002 | Airtable | Software Engineer, New Grad (2026) | SF/NYC; backend/full-stack/AI teams; requires previous SWE internship experience (Carlos has Finch); verify this is different from entry #16 (closed Apr 5); (~3.8/5 if active)
+- [ ] https://jobs.ashbyhq.com/ramp/83075cf0-9c22-4475-9c6b-e21923a96df8 | Ramp | University Grad 2026: Software Engineer – Backend | NYC on-site 4d/wk; $142-175K + equity; Flask/Python/AWS/PostgreSQL stack = exact match; note: Ramp backend intern already at #415; this is FTE new grad; verify comp structure; (~3.5/5 — NYC on-site concern)
+- [ ] https://job-boards.greenhouse.io/mongodb/jobs/7292747 | MongoDB | Security Engineering Intern 2026 | Seattle WA; large-scale DB security engineering; cybersec minor alignment; comp est ~$40-50/hr; (~3.5/5)
+- [ ] https://job-boards.greenhouse.io/loop/jobs/5780584004 | Loop | 2026 New Grad: Software Engineer, AI | SF/NYC 4d/wk on-site; production AI systems; "compress 3 years into 1" program; different URL from Loop Chicago/NY (5981831004/5981828004 ~3.7/5); verify if same program; (~3.5/5 — on-site concern same as prior Loop evals)
+- [ ] https://job-boards.greenhouse.io/loop/jobs/5780582004 | Loop | 2026 New Grad: Software Engineer, Full-Stack | SF/Chicago on-site; companion to AI track above; full-stack across LLM agents + product features; (~3.5/5)
+- [ ] https://job-boards.greenhouse.io/launchdarkly/jobs/7632240003 | LaunchDarkly | Fullstack Software Engineer Intern | Feature flag/DevOps platform; React + Python; comp unknown; (~3.2/5)
+- [ ] https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003 | Sigma Computing | Software Engineer (New Grad Program) | SF/NYC in-person; $65/hr temp-to-hire 12wks contract; Java/Python/JS; cloud data analytics; conversion to FTE after review period; (~3.2/5 — temp-to-hire structure is risky)
+- [ ] https://jobs.ashbyhq.com/spruceid/3d182b7f-482e-45b2-8668-f04f0b5fda8e | Spruce Systems | Full-Stack Software Engineer (New Grad) – Remote | Digital identity + credentialing (privacy-preserving); remote; security-adjacent; comp unknown; (~3.0/5)
+- [ ] https://job-boards.greenhouse.io/hpiq/jobs/5622472004 | HP IQ | Software Engineering Intern, Device Experiences (Fall 2026) | SF; Oct-Dec 2026; HP subsidiary; device/hardware domain gap; (~3.0/5)
+
+<!-- === END 2026-04-27 SCAN v203 === -->
