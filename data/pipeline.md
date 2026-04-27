@@ -3609,3 +3609,22 @@ All 181 prior tracked companies re-confirmed; Twilio only new URL (7850821) foun
 - [ ] https://job-boards.greenhouse.io/hpiq/jobs/5622472004 | HP IQ | Software Engineering Intern, Device Experiences (Fall 2026) | SF; Oct-Dec 2026; HP subsidiary; device/hardware domain gap; (~3.0/5)
 
 <!-- === END 2026-04-27 SCAN v203 === -->
+
+<!-- === BEGIN 2026-04-27 SCAN v209 === -->
+## Scan v209 — 2026-04-27
+
+### Evaluated (≥4.0) — Reports Written
+
+- [x] https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29 | Palantir | Software Engineer, New Grad | **4.0/5** — ~$151K avg new grad; NYC/Palo Alto on-site; Java+TypeScript+React stack = matches Carlos's skills; co-founder narrative maps directly; path to FDE track; REPORT #421
+
+### New Listings — Below Threshold (Pipeline for later evaluation)
+
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/4802146007 | Anduril Industries | Early Career Software Engineer | Costa Mesa CA on-site 5d/wk; FTE not intern; $130-135K + equity; C++/Go/Rust/Python stack; US Person required; clearance eligibility possible; strong builder fit but full relocation required; (~3.5/5)
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/4829641007 | Anduril Industries | Systems Engineer Intern | Costa Mesa/other locations; may be hardware-adjacent vs pure SW; verify scope before applying; US Person required; (~3.0/5)
+- [ ] https://job-boards.greenhouse.io/ripplematchinterns/jobs/8231615002 | Palo Alto Networks | Software Engineer - Bachelors - New College Grad (via RippleMatch) | Santa Clara or Reston VA; cybersec company aligns with cybersec minor; returning-to-school requirement for interns may not apply to new grad track; verify eligibility; (~3.5/5)
+- [ ] https://job-boards.greenhouse.io/ezcaterinc/jobs/5074033007 | ezCater | Security Intern (Remote) | Remote US; food ordering startup; security engineering internship; cybersec minor alignment; lighter-weight company vs top-tier; (~3.2/5)
+- [ ] https://job-boards.greenhouse.io/apptronik/jobs/5828414004 | Apptronik | Software Engineering Intern: Developer Experience | Austin TX (close to College Station); robotics company; developer tooling team; Python/TypeScript likely; interesting domain; no relocation needed; (~3.5/5)
+- [ ] https://job-boards.greenhouse.io/agecareers/jobs/5196604008 | AGE Solutions | Summer 2026 Engineering Internship | Remote; defense/tech sector; part-time 8-10 weeks; small/unknown company; low prestige but easy win; (~2.8/5)
+- [ ] https://job-boards.greenhouse.io/ripplematchinterns/jobs/8239241002 | Okta | Software Engineer Intern - Canada (via RippleMatch) | Toronto/Canada; location mismatch for US-focused search; IAM/identity security company; only worth pursuing if open to Canada; (~2.8/5 — location penalty)
+
+<!-- === END 2026-04-27 SCAN v209 === -->

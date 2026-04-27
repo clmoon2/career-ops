@@ -1,82 +1,63 @@
-# Portal Scan Summary — 2026-04-27 (v208 — AUTONOMOUS AGENT)
+# Portal Scan Summary — 2026-04-27 (Scan v209)
 
-**Date:** 2026-04-27
-**Previous scan:** v207 (same day — earlier session)
-**History entries before scan:** 4,282
-**History entries after scan:** 4,351 (+69)
-
----
-
-## Scan Methods
-
-| Method | Result |
-|--------|--------|
-| Greenhouse APIs (8 companies) | All 503 — consistent with v201/v202 pattern |
-| WebSearch (16 queries) | 52 genuinely new URLs found across Ashby/Greenhouse/Lever |
-| New companies discovered | Cloudflare (8 intern URLs), Haize Labs, Together AI, Mercury Fall, Verkada Fall, Symmetry Systems, Farsight AI, Naptha AI |
-
----
-
-## Results
+## Stats
 
 | Metric | Count |
 |--------|-------|
-| WebSearch queries run | 16 |
-| New URLs found | 52 |
-| Filtered/skipped | 20 |
-| Added to pipeline | 32 |
-| Evaluated 4.0+ (full reports written) | 6 |
-| Borderline 4.0 (pipeline, evaluate later) | 2 |
-| Below threshold pipeline additions | 24 |
+| Date | 2026-04-27 |
+| Scan version | v209 |
+| Companies / sources searched | 25+ |
+| Total URLs evaluated | ~50 |
+| Skipped (duplicates) | 42 |
+| Skipped (closed/invalid) | 1 |
+| **New listings added to pipeline** | **8** |
+| **Reports written (score ≥ 4.0)** | **1** |
+
+## Context
+
+This scan ran after v203/v208 (also 2026-04-27) which had already covered ~239 URLs today. v209 focused on:
+- Palantir full new grad / FDSE roster (Lever)
+- ElevenLabs, Cohere, Deepgram (Ashby)
+- Cloudflare Summer 2026 internship suite (Greenhouse)
+- Anduril Industries new + early-career roles (Greenhouse)
+- Palo Alto Networks / Okta via RippleMatch (Greenhouse)
+- CrowdStrike, Figma, Robinhood, Databricks (various)
+- Security roles: Wiz, ezCater, Obsidian, Schonfeld
+- Consulting: Accenture, Deloitte, IBM, AGE Solutions
+- DevOps/Platform: Super.com, Vantage
+- AI startups: Notion AI Intern, Apptronik DevX
+
+Note: Greenhouse APIs returned 503 (rate-limited) — used WebSearch + WebFetch instead.
 
 ---
 
-## Top Matches (4.0+) — Reports Written This Scan
+## Top Match — Report Written
 
-| # | Company | Role | Score | Highlights |
-|---|---------|------|-------|-----------|
-| 421 | Haize Labs | Software Engineer Intern | 4.5/5 | NYC; $125K-200K/yr; LLM adversarial fuzz-testing = Carlos's direct CV project; clients Anthropic/Scale/AI21 |
-| 422 | OpenAI | SWE Intern Applied Emerging Talent (Fall 2026) | 4.4/5 | SF in-person; $60/hr; 15wk; React/Python/Postgres; ChatGPT + API features |
-| 423 | Together AI | Security Engineer Intern | 4.3/5 | SF; $58/hr + housing; AI lab security engineering; Python/bash; Summer 2026 |
-| 424 | Together AI | Software Engineer Intern | 4.2/5 | SF; $58/hr + housing; ML/Platform/Infra/Inference teams |
-| 425 | Cloudflare | Security Engineer Intern (Austin TX) | 4.2/5 | Austin TX (100mi from College Station!); Cloudflare Workers background is direct asset |
-| 426 | Decagon | Agent Software Engineer - Intern | 4.2/5 | Agentic AI company; 7-stage pipeline + AutoGen + LangGraph = perfect archetype |
+### ✅ #421 — Palantir: Software Engineer, New Grad (4.0/5)
+- **URL:** https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29
+- **Why:** Palantir prizes production builders at scale. Carlos's 35K-line backend, multi-model AI pipeline, co-founder story, and Java/TypeScript skills match directly. ~$151K avg new grad pay. Path to FDE track in 1-2 years.
+- **Concern:** On-site required; likely NYC, Palo Alto, or DC. Relocation from TX.
+- **Action:** Apply — report #421 ready with tailoring notes.
 
 ---
 
-## Borderline 4.0 (Evaluate Next Session)
+## New Listings Added to Pipeline
 
-- Cloudflare SWE Intern Austin TX (7206269) — ~4.0/5 — no relocation; same location advantage as #425
-- Cloudflare AI Automation Intern (7589903) — ~4.0/5 — AI+Automation; Austin/SF/NYC; strong archetype fit
-
----
-
-## New Companies for portals.yml
-
-| Company | Greenhouse Board | Note |
-|---------|-----------------|------|
-| Haize Labs | haizelabs | LLM adversarial testing; top fit |
-| Together AI | togetherai | AI infrastructure; $58/hr intern comp |
-| Cloudflare | cloudflare | CDN/security; Austin TX office |
-| Mercury | mercury | Fintech; remote-friendly; Fall 2026 cycle |
-
----
-
-## Market Assessment (Updated)
-
-Summer 2026: Previously "fully saturated" — but 52 new URLs found confirms continuous new postings. Cloudflare, Together AI, Haize Labs intern programs appear recently opened (not in prior 4,282-entry history).
-
-Fall 2026 cycle: Now opening broadly. Mercury (3 roles), Verkada (2 roles), OpenAI, SpaceX, Sentry, Zip all now posting. Weekly scanning recommended through May-June 2026.
-
-New Grad FTE: Still active — Decagon, Cohere, Brex, Scale AI posting.
+| Company | Title | Score Est | Notes |
+|---------|-------|-----------|-------|
+| Anduril Industries | Early Career Software Engineer | ~3.5/5 | FTE $130-135K; Costa Mesa on-site 5d/wk; US Person required |
+| Anduril Industries | Systems Engineer Intern | ~3.0/5 | Possibly hardware-adjacent; verify scope |
+| Palo Alto Networks | SWE New College Grad (RippleMatch) | ~3.5/5 | Cybersec alignment; verify eligibility |
+| ezCater | Security Intern (Remote) | ~3.2/5 | Remote; cybersec minor fit; food-tech startup |
+| Apptronik | SWE Intern: Developer Experience | ~3.5/5 | Austin TX; robotics; dev tooling; no relocation |
+| AGE Solutions | Summer 2026 Engineering Internship | ~2.8/5 | Part-time remote; defense; 8-10 wks |
+| Okta | SWE Intern - Canada (RippleMatch) | ~2.8/5 | Canada location; identity/IAM company |
 
 ---
 
 ## Recommended Next Actions
 
-1. APPLY TODAY: Haize Labs (#421, 4.5/5) — adversarial LLM research = rare direct fit + $125K-200K
-2. APPLY THIS WEEK: OpenAI (#422), Together AI Security (#423), Together AI SWE (#424), Cloudflare Security Austin (#425), Decagon (#426)
-3. EVALUATE NEXT: Cloudflare SWE Austin + AI Automation (both ~4.0/5)
-4. Run: node merge-tracker.mjs (to sync #421-426 to applications.md)
-5. Add to portals.yml: Haize Labs, Together AI, Cloudflare, Mercury
-6. Next scan: Check again in 1-3 days — Fall 2026 cycle accelerating
+1. **Apply to Palantir #421** — Report and tailoring notes ready.
+2. **Evaluate Apptronik** — Austin TX, no relocation needed. Run `/career-ops` with URL.
+3. **Retry Greenhouse APIs tomorrow** — Anthropic, Airtable, Vercel, Glean, Hume AI, Temporal were all 503 today.
+4. **Run pipeline** — v203 scan added 3 reports (#418 Together AI, #419 Together AI ML, #420 Vapi) + 12 below-threshold listings ready to evaluate.
