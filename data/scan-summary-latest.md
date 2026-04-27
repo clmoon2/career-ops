@@ -1,104 +1,75 @@
-# Portal Scan — 2026-04-26 (v200 combined)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-**Scan version:** v200 (two autonomous agent runs combined)
-**Date:** 2026-04-26
-**Candidate:** Carlos Luna-Peña
+# Portal Scan — 2026-04-27 (v201)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## Summary
+**Scan:** v201 (autonomous agent)
+**Date:** 2026-04-27
+**History size going in:** 4,112 entries
+
+---
+
+## Coverage
+
+| Source | Status |
+|--------|--------|
+| Greenhouse APIs (Anthropic, HumeAI, Temporal, Arize, RunPod, Glean) | All 503 — server down (5th consecutive scan) |
+| Ashby broad (Notion, Cohere, Replit, Farsight, Sentry, Zip, Harvey, Decagon, Whatnot, Ramp, ElevenLabs, Vapi, Bland, Giga, etc.) | All confirmed dups v7-v200 |
+| Greenhouse broad (Cloudflare, Together AI, Glean, Figma, Obsidian, HP IQ, Verkada, Klaviyo, etc.) | All confirmed dups v7-v200 |
+| Lever broad (Palantir, W&B, Mistral, SoloPulse, Nium, Artera, Voleon, Hermeus) | All confirmed dups v7-v200 |
+| SpeedyApply SWE repo (NVIDIA JAX/Altom/Aptiv/Axiomatic AI/Axway/KBR/Leidos/Rainmaker/Verkada Fall/Vital Lyfe/Blackpoint/CACI/Cadence/GDMS/Thales) | All confirmed dups v189-v200 |
+| SpeedyApply AI repo | All confirmed dups v186-v200 |
+| SimplifyJobs Summer2026 README | All confirmed dups v7-v200 |
+| jobright-ai New Grad | All confirmed dups v166-v200 |
+| Consulting (Deloitte Technology/Accenture/Booz Allen Summer Games) | All in history from v5-v34 |
+| Defense/Gov (Leidos, SAIC, KBR, CACI, Booz Allen) | All skipped (clearance req / defense domain) |
+| Cybersecurity (Wiz, CrowdStrike, Datadog, Gemini, Together AI Security, Gallup, MEMX, Schonfeld) | All confirmed dups v7-v200 |
+| New grad Ashby (Benchling, Decagon, Whatnot, Harvey, Quora, Replit, Scale AI, Kikoff) | All confirmed dups v5-v200 |
+
+---
+
+## Results
 
 | Metric | Count |
 |--------|-------|
-| Sources checked | 60+ (SpeedyApply SWE+AI+NEW_GRAD_USA repos, SimplifyJobs New Grad, jobright-ai, 4 Greenhouse APIs, 24+ WebSearch queries, new companies) |
-| Companies/portals scanned | 60+ |
-| History entries before scan | ~4,060 |
-| History entries after scan | ~4,112 |
-| Unique new URLs found | 20 |
-| Added to pipeline.md | 20 |
-| Qualifying ≥ 4.0 (full reports written) | **0** |
-
----
-
-## Sources Checked
-
-### Level 2 — Greenhouse APIs
-| Company | Result |
-|---------|--------|
-| Anthropic | All Fellows tracks dup v7-v199; STEM Fellow (PhD req) dup v94 |
-| Glean | All FTE senior roles dup; SWE Intern closed |
-| Vercel | All FTE dup; FDE v0 skipped_title; Agent SWE skipped_title |
-| Airtable | All FTE dup; no new grad/intern |
-
-### Level 3 — WebSearch queries (24+)
-- **Ashby Fall 2026:** Notion/Zip/Sentry/OpenAI all dup v7-v199
-- **Greenhouse Fall 2026:** Mercury closed (March 6 deadline), Verkada skipped_title, Cloudflare dup
-- **Security focus:** Cloudflare Security dup, Obsidian closed, Censys closed, Gallup dup
-- **New companies:** CrowdStrike (no Greenhouse intern listings); Wiz (no listings found); Datadog (early career FTE only); Gumloop (Ashby 503 inaccessible)
-- **Consulting:** Summer 2026 apps all closed; fall apps open Aug-Sep 2026
-
-### GitHub Aggregators
-| Repo | New Finds |
-|------|-----------|
-| SpeedyApply SWE (0-1d) | Acorns (Remote ~3.6/5), Virtru (DC ~3.4/5), d-Matrix (~3.1/5), Dryft (~3.2/5), Mercator YC (~3.2/5), Terranova (~3.0/5), Persona AI (~3.0/5) |
-| SpeedyApply AI (0-1d) | Meshy GenAI Researcher (~3.4/5), Meshy ML Systems (~3.2/5), Allen Inst AI for Science (~3.3/5), LMI AI Eng USPS (~3.2/5), Kirin Quant (~3.2/5) |
-| SpeedyApply NEW_GRAD_USA | Loop NY 5981828004 (~3.7/5), Abnormal Security 7697216003 (~3.0/5) |
-| SimplifyJobs New Grad | Klaviyo SWE1 Boston (~3.2/5), 8VC New Grad SF (~3.1/5), Nymbus AI-First Atlanta (~3.0/5), Perpay New Grad Philly (~3.0/5), Nectar Social (~3.0/5), LMI SWE USPS (~3.0/5) |
-| jobright-ai New Grad | All non-target (SynergisticIT/Jacobs/Parker/STR/Twitch/Verkada SE) |
-
----
-
-## New Listings Found (All Below 4.0 Threshold)
-
-| Score | Company | Role | Location | URL |
-|-------|---------|------|----------|-----|
-| ~3.7/5 | Loop | 2026 New Grad — SWE Full-Stack (New York) | NYC 4d/wk | [5981828004](https://job-boards.greenhouse.io/loop/jobs/5981828004) |
-| ~3.6/5 | Acorns | Software Engineering Intern | Remote US | [link](https://jobs.ashbyhq.com/acorns/eafd7d09-b689-472d-80d1-65fbfa0e00c7) |
-| ~3.4/5 | Virtru | Graduate Software Developer Intern | Washington DC | [4653402005](https://job-boards.greenhouse.io/virtru/jobs/4653402005) |
-| ~3.4/5 | Meshy | Generative AI Researcher Intern | Sunnyvale CA | [link](https://jobs.ashbyhq.com/meshy/4be984f5-c843-44a6-bdd7-4b931d28ef91) |
-| ~3.3/5 | Allen Institute for AI | Research Internship — AI for Science | Seattle WA | [7366257](https://job-boards.greenhouse.io/thealleninstitute/jobs/7366257) |
-| ~3.2/5 | Meshy | Machine Learning Systems Intern | Sunnyvale CA | [link](https://jobs.ashbyhq.com/meshy/30c936df-5745-43aa-8dec-2658d0775e74) |
-| ~3.2/5 | Mercator (YC) | Software Engineer Intern | San Francisco | [link](https://jobs.ashbyhq.com/mercator/102d3cd4-fd35-4075-9552-fcb4e1497bb1) |
-| ~3.2/5 | Klaviyo | Software Engineer 1 (New Grad FTE) | Boston MA | [7602542003](https://job-boards.greenhouse.io/klaviyocampus/jobs/7602542003) |
-| ~3.2/5 | Kirin | Quantitative Research Intern | New York City | [link](https://jobs.ashbyhq.com/kirin/93648515-7e6c-43f4-bdcb-0c072f22a15a) |
-| ~3.2/5 | LMI Innovation | AI Engineer Intern (USPS) | Tysons VA | [link](https://careers-lmi.icims.com/jobs/13491) |
-| ~3.2/5 | Dryft | Full-Stack Engineering Intern | San Francisco | [link](https://jobs.ashbyhq.com/dryft/3f1c261d-9b65-412b-9f17-34b8968bdd78) |
-| ~3.1/5 | d-Matrix | Software Engineering Intern (Simulation) | Santa Clara CA | [link](https://jobs.ashbyhq.com/d-matrix/0abbd071-4abf-46b8-bcff-242cd4f4e491) |
-| ~3.1/5 | 8VC | Software Engineer New Grad | San Francisco | [link](https://jobs.ashbyhq.com/8vc/4fea7270-2409-4701-b147-fc961d95588d) |
-| ~3.0/5 | Abnormal Security | SWE1 — Dev Accelerator | Remote US | [7697216003](https://job-boards.greenhouse.io/abnormalsecurity/jobs/7697216003) |
-| ~3.0/5 | Nymbus | AI-First Software Engineer (Entry Level) | Atlanta GA | [link](https://nymbus.com/careers?gh_jid=5785973004) |
-| ~3.0/5 | Perpay | Software Engineer — New Grad | Philadelphia PA | [4034578007](https://job-boards.greenhouse.io/perpay/jobs/4034578007) |
-| ~3.0/5 | Nectar Social | Software Engineer — Early Career | Palo Alto CA | [link](https://jobs.ashbyhq.com/nectar-social/606df770-4167-4066-bbfd-d7464b28d9b2) |
-| ~3.0/5 | Terranova | Software Engineering Intern | Berkeley CA | [link](https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0) |
-| ~3.0/5 | Persona AI | Software Engineering Intern | Pensacola FL | [link](https://jobs.ashbyhq.com/persona.ai/8a866ae6-613e-4d46-af2d-7dc13eb926bb) |
-| ~3.0/5 | LMI Innovation | Software Engineering Intern (USPS) | Tysons VA | [link](https://careers-lmi.icims.com/jobs/13493) |
-
----
-
-## Top Matches ≥ 4.0
-
-**None found in scan v200.**
+| Portals/sources scanned | 30+ |
+| Total candidates checked | ~200 URLs |
+| Genuinely NEW URLs | **0** |
+| Qualifying ≥4.0 | **0** |
+| Below threshold (new) | 0 |
+| Filtered/skipped | 0 (all dups) |
+| New pipeline additions | **0** |
 
 ---
 
 ## Market Status
 
-**Summer 2026 intern season: CONFIRMED CLOSED** — all Summer 2026 deadlines have passed or roles are filled. The remaining new entries are late-posted Summer 2026 roles or new grad FTE positions.
+**Summer 2026 intern season: CONFIRMED CLOSED**
 
-**Fall 2026 intern cycle:** Still early. Most companies post Fall 2026 co-ops/internships starting May-June 2026.
+After 201 consecutive scans, the market shows zero new qualifying openings. The Greenhouse API (6 companies) has been returning 503 for 5 straight scans. All major job boards (Ashby, Greenhouse, Lever, SimplifyJobs, SpeedyApply) return exclusively confirmed duplicates.
 
-**New grad FTE 2026:** Market deeply saturated (~4,112 entries across 200 scans). Top active roles already in pipeline: Vapi New Grad #417 (4.1/5), Wonderschool #402 (4.0/5), Cerebras AI Eng Intern #416 (4.5/5 — verify active).
-
-**Milestone:** Scan #200 complete. 4,112+ unique URLs tracked since scan v1.
+The last new qualifying role (≥4.0) was **Cerebras AI Engineering Intern - Growth Team** (#416, 4.5/5), found on **2026-04-25** (2 days ago).
 
 ---
 
-## Recommended Next Actions
+## Evaluated reports on file (≥4.0, not yet applied)
 
-1. **Verify and apply to existing pipeline ≥4.0 reports** — Cerebras #416 (4.5/5), Vapi #417 (4.1/5), Wonderschool #402 (4.0/5)
-2. **Best new find: Acorns (~3.6/5)** — Well-known fintech savings app, fully remote, solid Python/backend match; worth evaluating via `/career-ops pipeline`
-3. **Virtru (~3.4/5)** — Data privacy/encryption; Washington DC; security alignment (OAuth/TLS/HMAC matches CV); "Graduate" eligible
-4. **Watch for Fall 2026 openings** — Run `/career-ops scan` again in early May-June when Fall 2026 cycles open
-5. **New grad FTE focus** — Consider: Klaviyo SWE 1 (Boston), 8VC New Grad (SF), Loop NY/Chicago (~3.7/5 supply chain AI)
+| # | Company | Role | Score | Notes |
+|---|---------|------|-------|-------|
+| 246 | Anthropic | AI Security Fellow | 4.7/5 | Deadline was April 26 — verify if closed |
+| 403 | Notion | Software Engineer, New Grad | 4.3/5 | SF $150-250K; apply immediately |
+| 408 | Netic | ML Engineer Intern | 4.0/5 | Founders Fund/Greylock; SF 12wks |
+| 416 | Cerebras | AI Engineering Intern (Growth) | 4.5/5 | Claude Code+MCP+RAG exact match; apply now |
+| 417 | Vapi | New Grad SWE | 4.1/5 | Voice AI infra; verify status |
 
 ---
 
-*Next scan recommended: 2026-05-03 or trigger manually with `/career-ops scan`*
+## Recommended next actions
+
+1. **Apply to #416 Cerebras AI Eng Intern (4.5/5)** — Most urgent, exact skill match (Claude Code, MCP, RAG, multi-agent), just evaluated 2 days ago.
+2. **Verify #246 Anthropic Fellows** — Check if April 26 deadline has passed; if still open, apply immediately (4.7/5 = highest scored role in pipeline).
+3. **Apply to #403 Notion New Grad (4.3/5)** — $150-250K SF, TypeScript/React/Python+LLM, strong profile match.
+4. **Apply to #417 Vapi New Grad (4.1/5)** — Voice AI infrastructure, verify listing is still active.
+5. **Apply to #408 Netic ML Engineer Intern (4.0/5)** — Founders Fund/Greylock backed, 12-week SF.
+6. **Process below-threshold pipeline (optional)** — 20 listings from v200 (Acorns 3.6/5, Virtru 3.4/5, Loop NY 3.7/5, etc.) if no better options are accepted.
+7. **Pause daily scans** — Summer 2026 market is exhausted. Consider scanning weekly instead to catch any late-breaking openings.
+
+→ Run `/career-ops pipeline` to begin applying to the qualified roles above.

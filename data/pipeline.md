@@ -1,5 +1,8 @@
 # Pipeline -- Pending URLs
 
+<!-- === NEW 2026-04-27 SCAN v201 (Autonomous Agent — Greenhouse APIs all 503 (Anthropic/HumeAI/Temporal/Arize/RunPod/Glean); 25+ WebSearch queries (Ashby broad: Notion/Cohere/Replit/Farsight/Sentry/Zip/Harvey/Decagon/Whatnot/Ramp; Greenhouse broad: Cloudflare/Together AI/Glean/Figma/Obsidian/HP IQ/Verkada; Lever: Palantir/W&B/Mistral/SoloPulse/Nium/Artera; SpeedyApply SWE+AI repos; SimplifyJobs Summer2026; consulting: Deloitte/Accenture/Booz Allen; defense: Leidos/KBR/CACI; security: Wiz/CrowdStrike/Datadog/Gemini; new grad: Benchling/Decagon/Whatnot/Quora/Scale AI/Replit; 30+ sources checked; 4,112-entry history dedup'd; 0 genuinely new URLs; 0 qualifying ≥4.0; market FULLY SATURATED at ~4,112 entries after 201 scans; Summer 2026 intern season CONFIRMED CLOSED) === -->
+<!-- 0 new evaluated ≥4.0. 0 new pipeline additions. All returns confirmed dups v7-v200. -->
+
 <!-- === NEW 2026-04-26 SCAN v200 (Autonomous Agent — 4 Greenhouse APIs (Anthropic/Glean/Vercel/Airtable all dup); 20+ WebSearch queries (Ashby Fall 2026; Greenhouse Fall 2026+security; SpeedyApply SWE+AI+NEW_GRAD_USA repos; SimplifyJobs New Grad; jobright-ai; new companies CrowdStrike/Wiz/Datadog/Abnormal Security/Gumloop/Assort Health); 30+ sources checked; 4,088-entry history dedup'd; 2 genuinely new URLs: Loop NY 5981828004 (~3.7/5) + Abnormal Security Dev Accelerator 7697216003 (~3.0/5); 0 qualifying ≥4.0; market FULLY SATURATED at ~4,090 entries after 200 scans) === -->
 <!-- 0 new evaluated ≥4.0. 2 new pipeline additions (both below threshold). -->
 
