@@ -1,5 +1,30 @@
 # Pipeline -- Pending URLs
 
+<!-- === BEGIN 2026-04-28 SCAN v219 === -->
+<!-- Sources: 10 Greenhouse APIs (Anthropic/Airtable/Vercel/ArizeAI/Glean/RunPod/HumeAI/Intercom/TogetherAI/Temporal); 15+ WebSearch queries (Ashby intern 2026/Greenhouse new-grad/Lever intern/security+AI/SpeedyApply AI 0d/NVIDIA Fall 2026/cybersecurity 2026); 4,485-entry history fully dedup'd (includes v218 entries: Anyscale/Affirm/Klaviyo below-threshold). RESULT: 2 genuinely new URLs (both below threshold). 0 qualifying ≥4.0. KEY STATUS: Together AI intern roles CONFIRMED CLOSED from API. Market FULLY SATURATED at 219 scans. -->
+<!-- 0 qualifying ≥4.0 | 2 new URLs total | 0 pipeline additions -->
+
+### Skipped — scan-v219 (new below-threshold)
+
+- https://jobs.lever.co/nium/56ce917e-71b9-41ed-9b7f-69e060810273 — Nium SWE Intern (Summer 2026) — fintech global payments infrastructure; 8-12wk; no comp disclosed; ~3.0/5 skipped_score (payments domain mismatch; no AI/security angle; no comp)
+- https://job-boards.greenhouse.io/cmt/jobs/7858103 — Cambridge Mobile Telematics Customer Success AI Optimization Intern (Summer 2026) — Cambridge MA; business/customer success focus; AI tooling evaluation; ~2.5/5 skipped_score (CS/business domain, not SWE)
+
+### Confirmed duplicates — scan-v219 (APIs)
+
+- Anthropic API: 200+ listings scanned — all confirmed dup v7-v218; no new intern/new-grad; Fellows Program tracks (AI Safety/Security/ML Systems/RL/STEM) all in history
+- Airtable API: 44 listings — no intern/new-grad; New Grad (8409376002) confirmed CLOSED since v9
+- Vercel API: 86 listings — all confirmed dup v7-v218; no intern/new-grad
+- Arize AI API: 36 listings — all confirmed dup v7-v218; no intern/new-grad
+- Glean API: 167 listings — all confirmed dup v7-v218; no intern/new-grad
+- RunPod API: 19 listings — all confirmed dup v7-v218; no intern/new-grad
+- HumeAI API: 8 listings — all confirmed dup v7-v218
+- Intercom API: 120+ listings — all confirmed dup v7-v218; no intern/new-grad
+- Together AI API: 49 listings — intern roles GONE (SWE 5012768007 + Security 5012785007 both CLOSED/filled)
+- Temporal API: 0 listings (empty)
+- WebSearch: Ashby/Greenhouse/Lever intern+new-grad broad — all dup v7-v218 (Notion/OpenAI/Decagon/Cloudflare/Replit/Farsight/Cohere/Fizz/Delinea/Whatnot/Vantage/Zettabyte/Sentry/Zip/Voleon/Artera/Nominal/Tevora/Gemini/Loop/Scale AI/Obsidian/HP IQ/Gallup/Anyscale/Affirm/Klaviyo confirmed dup v218); NVIDIA Fall 2026 (JAX JR2009745 + Robot Learning JR2015575) dup v186/v187
+
+<!-- === END 2026-04-28 SCAN v219 === -->
+
 <!-- === BEGIN 2026-04-28 SCAN v216 === -->
 <!-- Sources: 10 Greenhouse APIs (palantir/figma/duolingo/nvidia/mongodb/datadog/stripe/databricks/zoom/spacex; all 404/no-intern/dup); SimplifyJobs New Grad README; jobright-ai New Grad README; SpeedyApply SWE+AI 0d; 15+ WebSearch queries (Lever/Ashby/Greenhouse Fall2026+NewGrad+FDE+Security+AI); 4,413-entry history fully dedup'd. RESULT: 0 new URLs found. All sources confirmed dup v7-v215. Market FULLY SATURATED at 216 scans. -->
 <!-- 0 qualifying ≥4.0 | 0 new URLs total | 0 pipeline additions -->

@@ -1,111 +1,78 @@
-# Portal Scan Summary — 2026-04-28 (v218)
+# Portal Scan — 2026-04-28 (v219)
 
-**Scan:** v218 (autonomous agent)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 **Date:** 2026-04-28
-**Scan count:** 218 total scans in this job search cycle
+**Scan version:** v219 (autonomous agent)
+**History size at start:** 4,483 entries (post-v218)
 
----
+## Sources Scanned
+
+### Greenhouse APIs (10 companies)
+| Company | Result |
+|---------|--------|
+| Anthropic | 200+ listings — all dup v7-v218; no new intern/new-grad |
+| Airtable | 44 listings — no intern/new-grad; New Grad confirmed CLOSED |
+| Vercel | 86 listings — all dup v7-v218; no intern/new-grad |
+| Arize AI | 36 listings — all dup v7-v218; no intern/new-grad |
+| Glean | 167 listings — all dup v7-v218; no intern/new-grad |
+| RunPod | 19 listings — all dup v7-v218; no intern/new-grad |
+| HumeAI | 8 listings — all dup v7-v218 |
+| Intercom | 120+ listings — all dup v7-v218; no intern/new-grad |
+| Together AI | 49 listings — **INTERN ROLES CLOSED** (SWE 5012768007 + Security 5012785007 removed from API) |
+| Temporal | 0 listings (empty board) |
+
+### WebSearch (15+ queries)
+- Ashby intern 2026 (SWE/Security/AI)
+- Greenhouse new-grad 2026 broad
+- Lever intern 2026 (SWE/cybersecurity)
+- Security engineer intern fall/summer 2026
+- NVIDIA Fall 2026 internships
+- SpeedyApply AI README (0d entries)
+- New grad Greenhouse 2026 (AI/ML/backend)
+- Cybersecurity intern 2026 new postings
 
 ## Results
 
-```
-Portal Scan — 2026-04-28 (v218)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Portals checked:       40+ (APIs + queries + direct page checks)
-Entries in history:    4,474 (after this scan)
-New URLs found total:  31
-Confirmed duplicates:  18 (different URL, same job already in tracker)
-Skipped (closed):      2  (Mercury deadline passed; PANW Oct 2025 listings)
-Skipped (location):    2  (Cloudflare London; Perplexity UK/Berlin)
-Skipped (domain/score): 4 (Gemini crypto ~3.0; Impiricus unknown; GridBlock unknown)
-Below threshold added: 3  (Anyscale 3.6; Affirm 3.7; Klaviyo Full-stack 3.6)
-Qualifying ≥4.0:       0
-```
+**Queries executed:** 25+
+**Total URL candidates evaluated:** ~50
+**Relevant (pass title filter):** 12
+**Duplicates (already in history):** 10
+**New URLs added to history:** 2
 
----
+## New URLs Found (both below threshold)
 
-## Top Matches (≥4.0)
+| Company | Role | Score | Reason Skipped |
+|---------|------|-------|----------------|
+| Nium | Software Engineer Intern (Summer 2026, 8-12wk) | ~3.0/5 | Fintech payments domain; no AI/security focus; no comp |
+| Cambridge Mobile Telematics | Customer Success AI Optimization Intern (Summer 2026) | ~2.5/5 | Business/CS ops role; not SWE/engineering |
 
-**None found this scan.**
+## Top Matches (≥4.0) — NONE THIS SCAN
 
-All high-scoring companies (Cloudflare, Replit, Together AI, Glean, Ramp, Obsidian Security, Farsight AI) were found again via different URL patterns but are already evaluated in the tracker (v7–v217). The underlying jobs have not changed.
+0 qualifying listings. Market is fully saturated for Summer 2026.
 
----
+## Key Status Updates
 
-## Below-Threshold New Additions
+**Together AI interns CLOSED:** Both SWE Intern (5012768007) and Security Engineer Intern (5012785007) have been removed from the Together AI Greenhouse board — confirmed filled or withdrawn. Reports #423 and #424 should be reviewed; if not yet applied, mark status as `Discarded`.
 
-| Company | Role | Score | Notes |
-|---------|------|-------|-------|
-| Anyscale | Software Engineer (Intern 26') | ~3.6 | SF in-office; $63.35/hr; Ray distributed computing; Python match; no direct Ray exp |
-| Affirm | Software Engineering Intern — Summer 2026 | ~3.7 | SF hybrid 3d/wk; $55/hr ($9.5K/mo); Python-primary BNPL fintech; solid engineering |
-| Klaviyo | Full-stack SWE Intern — Summer 2026 | ~3.6 | Boston in-office; MarTech SaaS; Python+React stack; different from AI Engineer (#313) |
+**Airtable New Grad closed:** Software Engineer, New Grad (2026) — 8409376002 — absent from current Airtable API (consistent with history since v9 2026-04-09).
 
----
-
-## Portals Checked
-
-| Source | Method | Result |
-|--------|--------|--------|
-| Anthropic | Greenhouse API | Fellows/senior only — 0 intern |
-| Hume AI | Greenhouse API | 8 senior roles — 0 intern |
-| Glean | Greenhouse API | 170 roles — SWE Intern + Univ Grad already in tracker (#340, #52) |
-| Vercel | Greenhouse API | Senior only — 0 intern |
-| Airtable | Greenhouse API | Senior only — 0 intern |
-| Arize AI | Greenhouse API | Senior only — 0 intern |
-| RunPod | Greenhouse API | Senior only — 0 intern |
-| Temporal | Greenhouse API | 0 jobs (empty board) |
-| Ashby broad | WebSearch (15+ queries) | Anyscale NEW (3.6); all others dup v7-v217 |
-| Greenhouse broad | WebSearch (15+ queries) | Affirm NEW (3.7); Klaviyo Full-stack NEW (3.6); Mercury CLOSED; Gemini crypto skip; all others dup |
-| Lever broad | WebSearch (5+ queries) | All dup v7-v217 |
-| Cloudflare | Greenhouse (multiple IDs) | All dup vs tracker (#200/#294/#347) |
-| Replit | Ashby | SWE Intern + New Grad — dup (#70/#204/#382) |
-| Together AI | Greenhouse | SWE + Security Interns — dup (#295/#334) |
-| Palo Alto Networks | RippleMatch | Oct 2025 postings — likely filled/closed |
-| Obsidian Security | Greenhouse | SWE Intern — dup (#281) |
-| SimplifyJobs Off-Season | GitHub README | Capital One/NVIDIA/Palantir FDSE/Shopify — all dup v7-v217 |
-| Wiz/SentinelOne/Fortinet | WebSearch | No intern postings found |
-| Booz Allen/Leidos/SAIC | WebSearch | No Greenhouse/Lever/Ashby intern postings |
-| Perplexity | Ashby | ML Research Intern — UK/Berlin, skip |
-| Gemini Exchange | Greenhouse | Security Engineering Intern — crypto domain (~3.0), skip |
-| Mercury | Greenhouse | AI Enablement Fall 2026 — deadline PASSED (March 6) |
-
----
-
-## Market Assessment
-
-**Scan v218. Summer 2026 internship market CONFIRMED CLOSED** across all major US tech portals.
-
-After 218 scans and 4,474 history entries, all major recurring sources are producing confirmed duplicates. Genuine new URLs found this cycle were either different job IDs for already-evaluated jobs, closed postings, or below-threshold opportunities.
-
-**Active pipeline ≥4.0 (evaluated, ready to apply):**
-
-| # | Company | Role | Score |
-|---|---------|------|-------|
-| 200/347 | **Cloudflare** | Software Engineer Intern (Austin TX) | **5.0/4.8** |
-| 70/204 | **Replit** | SWE Intern (Summer 2026) | **5.0** |
-| 294 | **Cloudflare** | Security Engineer Intern (Austin TX) | **4.7** |
-| 416 | **Cerebras** | AI Engineering Intern | **4.5** |
-| 334/291 | **Together AI** | Security Engineer Intern | **4.5** |
-| 295 | **Together AI** | Software Engineer Intern | **4.5** |
-| 341 | **Ramp** | Software Engineer Internship (FDE) | **4.5** |
-| 382 | **Replit** | Software Engineer, New Grad | **4.5** |
-| 340 | **Glean** | Software Engineer Intern | **4.5** |
-| 420 | **Vapi** | Backend Product Engineer | **4.4** |
-| 419 | **Palantir** | SWE Intern | **4.3** |
-| 415 | **Ramp** | Backend SWE Intern | **4.1** |
-| 423 | **Creatify AI** | Software Engineer Intern 2026 | **4.0** |
-| 418 | **Salesforce** | AMTS New Grad | **4.0** |
-
----
+**Market saturation confirmed:** 219 scans total, 4,485+ history entries. Virtually all active summer 2026 intern and new grad roles have been found and evaluated across 219 autonomous scan runs since April 5, 2026.
 
 ## Recommended Next Actions
 
-1. **Apply NOW** to highest-priority roles — Summer 2026 cycle is closing fast.
-   - Cloudflare Austin TX SWE Intern (#347) — 4.8/5, direct Cloudflare Workers experience
-   - Replit SWE Intern (#204) — 5.0/5, AI platform perfect match
-   - Together AI Security Intern (#334) — 4.5/5, cybersec minor exact match
-   - Cerebras AI Engineering Intern (#416) — 4.5/5
+**Priority: Apply to evaluated roles that are still open.** At least 20 reports with ≥4.0 score are sitting in `Evaluada` status. Top priority queue:
 
-2. **Next scan recommended:** May 4-5, 2026 (5-7 days). Watch for late-breaking Summer 2026 listings and Fall 2026 co-op openings.
+| # | Company | Role | Score | Notes |
+|---|---------|------|-------|-------|
+| 416 | Cerebras | AI Engineering Intern | 4.5/5 | Sunnyvale CA Jun-Aug; Claude Code+MCP exact match |
+| 420 | Vapi | Backend Product Engineer | 4.4/5 | Voice AI infra; verify FTE eligibility |
+| 409 | OpenAI | SWE Intern Fall 2026 | 4.4/5 | $60/hr; verify semester conflict |
+| 419 | Palantir | SWE Intern | 4.3/5 | $10K/mo; FDSE archetype |
+| 403 | Notion | SWE New Grad | 4.3/5 | $150-250K; verify graduation timing |
+| 425 | Cloudflare | Security Intern Austin | 4.2/5 | 100mi from TAMU; Cloudflare Workers match |
+| 413 | C3 AI | SWE Intern (Ascend) | 4.1/5 | $6-8K/mo; 5mo May-Sep Redwood City |
 
-3. **Fall 2026 co-op pipeline** opening now — OpenAI, Notion, Sentry, Zip, Verkada already tracked. Targeted Fall 2026 scan in May 2026.
+**Stop scanning Summer 2026** — No new qualifying listings found in last 4 consecutive scans (v216-v219). Resume scanning in August 2026 for Fall/Winter 2026 and Spring 2027 cycles when new cohorts open.
+
+→ Run `/career-ops pipeline` to process any remaining pending pipeline items, then prioritize applications.
