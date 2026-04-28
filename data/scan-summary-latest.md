@@ -1,56 +1,95 @@
-# Portal Scan — 2026-04-28 (v213)
+# Portal Scan Summary — 2026-04-28 (v214)
 
+**Scan:** v214 (autonomous agent)
 **Date:** 2026-04-28
-**Scan version:** v213
-**Focus:** Fall 2026 cycle, LinkedIn/Indeed/Builtin/Wellfound, consulting firms (Big 4 + Accenture), mid-size tech (Stripe/Figma/Discord/Duolingo/Roblox/Snap/Pinterest/Dropbox), defense/gov-adjacent (Leidos/SAIC/Booz Allen/Raytheon/Lockheed Martin), fintech (Plaid/Robinhood/Chime/Coinbase), cloud/infra (Fastly/DigitalOcean/Render/Railway/Fly.io), AI-specific (Perplexity/Character AI/Mistral/Groq/Together AI/Runway ML/Stability AI/Midjourney), SimplifyJobs Off-Season tracker, jobright-ai New-Grad and Consultant trackers
+**History entries before scan:** 4,401
+**History entries after scan:** 4,411
 
-## Results
+---
 
-- Queries executed: 18
-- Total results evaluated: 80+
-- New URLs found: 1
-- Filtered by title: 0
-- Duplicates skipped: 79+
-- Added to pipeline: 1 (below threshold, ~3.2/5)
+## Execution Summary
 
-## New Listings Found
+| Category | Count |
+|----------|-------|
+| WebSearch queries executed | 25+ |
+| Greenhouse APIs checked | 3 (Twilio, Glean, Intercom) |
+| SpeedyApply/SimplifyJobs READMEs checked | 4 |
+| Total results evaluated | 150+ |
+| Genuinely new URLs found | 8 |
+| Added to pipeline | 2 |
+| Skipped (score/title/location) | 6 |
+| Qualifying ≥4.0 (reports written) | 0 |
 
-| Company | Role | URL | Score | Status |
-|---------|------|-----|-------|--------|
-| Actian Corporation | AI Engineer Intern, Database Performance Knowledge | https://jobs.lever.co/actian/6638beee-45f5-46ac-9dc1-fbde7f1b5310 | ~3.2/5 | Added to pipeline (below threshold) |
+---
 
-**Actian AI Engineer Intern (DB Performance Knowledge):** RAG pipeline using HCL Vector/Informix DB + MCP Server tools. Python/AI stack is a match. Remote + Austin TX orientation flight provided. 12 weeks starting June 8, 2026. $20-30/hr (below $33/hr comp floor). Enterprise database domain is a mismatch from target archetypes. Added to pipeline for awareness but not recommended for application.
+## New Listings Found (8 total)
 
-**Skipped / Not New:**
-- SeatGeek Software Engineer New Grad (7406634) — Greenhouse URL redirects to SeatGeek main jobs page (likely closed)
-- N1 Backend Rust New Grad (a3e25c84) — Rust stack hits negative filter
-- All Greenhouse/Ashby/Lever results for Fall 2026 interns, new grads, consulting, defense, fintech, AI companies confirmed dup from v7-v212
-- SimplifyJobs Off-Season README: all entries (Digs/Sierra/Atomic Semi/Hermeus/Varda/Palantir FDSE/Federal Reserve SWE/Cirrus Logic/Notion/Pinterest Toronto) confirmed dup from prior scans
-- jobright-ai New-Grad README: all entries (SeatGeek/Abnormal AI/Navan Backend/AppLovin/Notion/Roblox/Procore/SpaceX/etc.) confirmed dup or closed
-- jobright-ai Consultant README: all entries (Appian/West Monroe/ECS/Pegasystems/Deloitte) confirmed dup or below threshold
-- HN Who is Hiring April 2026: senior FTE only, Red Balloon Security (no ATS listing, dup v110+)
-- Consulting: Deloitte/Accenture/PwC/EY/KPMG/BCG all dup or confirmed closed
-- Defense: Leidos/SAIC/Lockheed Martin/Raytheon all dup or clearance-required
-- AI-native: Perplexity (UK intern only), Groq (senior FTE), Runway ML (no intern listings), Midjourney/Stability AI (no ATS intern postings), Character AI (no new URLs)
-- Cloud/infra: Fastly/DigitalOcean/Render/Railway/Fly.io all dup or no intern program
-- Fintech: Plaid/Robinhood/Chime/Coinbase all dup from v7-v212
+### Pipeline Additions
 
-## Top Matches (Score >= 4.0)
+| Company | Role | Score | Notes |
+|---------|------|-------|-------|
+| Homebase | Forward Deployed Engineering Intern, AI-Native | ~3.8/5 | Hybrid SF; $30-35/hr; FDE+AI archetype; just posted Apr 28 |
+| GoFundMe | Backend Software Engineer Intern (Summer 2026) | ~3.4/5 | SF on-site; May 27–Aug 7; Python/backend; companion to Full Stack 7289152 |
 
-None this scan.
+### Skipped
 
-## Market Status
+| Company | Role | Reason |
+|---------|------|--------|
+| Dark Wolf Solutions | Data and AI Internship | $20/hr (below comp floor); Herndon VA on-site; defense contractor |
+| Horace Mann | Software Engineer Intern | Insurance domain mismatch; ~3.0/5 |
+| Globalization Partners | Software Engineering Intern | HR/payroll domain mismatch; ~3.0/5 |
+| Onapsis | Go-to-Market AI Pod Intern | SAP security domain; negative keyword "SAP" match |
+| Sezzle | Software Engineer Intern | Colombia only; non-US location |
+| GoFundMe | Native Mobile Software Engineer Intern | Mobile focus; ~3.2/5 |
 
-**Summer 2026 internship cycle: CONFIRMED CLOSED.** After 213 scans covering 4,400+ unique URLs across all major ATS platforms (Greenhouse, Ashby, Lever), job aggregators (SimplifyJobs, jobright-ai, SpeedyApply, RippleMatch, Wellfound, Builtin), and company-direct career pages, the Summer 2026 market is fully saturated. No new qualifying Summer 2026 intern or new grad roles remain undiscovered.
+---
 
-**Fall 2026 cycle: EARLY WATCH.** Six Fall 2026 roles are already in the active pipeline (OpenAI, Notion, Sentry, Zip, SpaceX, Verkada). Most companies have not posted Fall 2026 roles publicly yet. Expect the main Fall 2026 wave to open May-June 2026.
+## Top Matches (≥4.0) This Scan
 
-**New Grad 2026: LATE CYCLE.** Most new-grad roles from earlier in the cycle are either filled or deadline-passed. The market is tapering. Focus should shift to applying to the 6 already-evaluated high-score pipeline entries.
+**None.** No new listings reached the 4.0/5 threshold.
+
+---
+
+## Active Pipeline Status
+
+### Evaluated ≥4.0 (from prior scans)
+
+| Report | Company | Role | Score |
+|--------|---------|------|-------|
+| #421 | Haize Labs | Software Engineer Intern | 4.5/5 |
+| #422 | OpenAI | Software Engineer Internship (Fall 2026) | 4.4/5 |
+| #423 | Together AI | Security Engineer Intern | 4.3/5 |
+| #424 | Together AI | Software Engineer Intern | 4.2/5 |
+| #425 | Cloudflare | Security Engineer Intern (Austin TX) | 4.2/5 |
+| #426 | Decagon | Agent Software Engineer Intern | 4.2/5 |
+
+### Borderline (pending evaluation)
+
+- Cloudflare SWE Intern Austin (7206269) — ~4.0/5
+- Cloudflare AI Automation Intern (7589903) — ~4.0/5
+- Homebase FDE AI-Native — ~3.8/5 ← **NEW THIS SCAN**
+
+---
+
+## Market Assessment
+
+**Summer 2026:** CONFIRMED CLOSED. All major programs have ended or hit deadlines. 214 scans have swept every major portal multiple times.
+
+**Fall 2026:** Early cycle in progress. Watch list:
+- OpenAI Fall 2026 (in pipeline, evaluated #422)
+- Notion Fall 2026 (in pipeline)
+- Sentry Fall 2026 (in pipeline)
+- Zip Fall 2026 (in pipeline)
+- Verkada AI SWE Fall 2026 (in pipeline)
+
+**Summer 2027:** Cycle expected to open Aug–Sep 2026. No listings yet.
+
+---
 
 ## Recommended Next Actions
 
-1. **APPLY immediately** to the 6 active high-score pipeline entries: Haize Labs SWE (#421, 4.5/5), OpenAI Fall (#422, 4.4/5), Together AI Security (#423, 4.3/5), Together AI SWE (#424, 4.2/5), Cloudflare Security Austin (#425, 4.2/5), Decagon Agent (#426, 4.2/5)
-2. **Evaluate borderline entries** in pipeline: Cloudflare SWE Austin (7206269), Cloudflare AI Automation (7589903) — both ~4.0
-3. **Monitor Fall 2026 cycle** — resume scanning weekly in May-June 2026 when the next wave of Fall 2026 postings is expected
-4. **Watch for Summer 2027 cycle** opening August-September 2026 — that is the next major internship wave
-5. **Actian DB Performance intern** (3.2/5) — skip unless no other options; comp and domain do not fit target profile
+1. **Apply to high-score evaluated roles** — Haize Labs (#421, 4.5/5), OpenAI Fall (#422, 4.4/5), Together AI Security (#423, 4.3/5)
+2. **Evaluate borderline pipeline** — Cloudflare SWE Austin 7206269, Cloudflare AI Automation 7589903
+3. **Evaluate Homebase FDE AI-Native** — ~3.8/5; FDE+AI archetype match; verify if $30-35/hr comp is acceptable
+4. **Monitor Fall 2026 cycle** — OpenAI/Notion/Sentry/Zip/Verkada already in pipeline; watch for new Fall 2026 postings in May 2026
+5. **Next scan:** Resume in 3–7 days; focus on Fall 2026 openings and Summer 2027 early cycle launches (expected Aug–Sep 2026)

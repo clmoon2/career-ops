@@ -1,5 +1,25 @@
 # Pipeline -- Pending URLs
 
+<!-- === BEGIN 2026-04-28 SCAN v214 === -->
+<!-- WebSearch: 25+ queries across Ashby/Greenhouse/Lever/Builtin/SimplifyJobs/SpeedyApply SWE+AI/Extern for Summer+Fall 2026+NewGrad; Greenhouse APIs (Twilio/Glean/Intercom confirmed no new intern); SpeedyApply SWE+AI READMEs fully dedup'd; SimplifyJobs dev/README top-30 checked; 4,401-entry history dedup confirmed across all results. 8 genuinely new URLs found; 0 qualifying ≥4.0; Homebase FDE AI-Native (3.8/5) is top find; Dark Wolf/Sezzle/Onapsis/Horace Mann/Globalization Partners all below threshold or skipped. Market FULLY SATURATED at 214 scans. Summer 2026 CONFIRMED CLOSED. Fall 2026 early cycle watch continues. -->
+<!-- 0 qualifying ≥4.0 | 8 new URLs total | 2 pipeline additions -->
+
+### Below Threshold — scan-v214 (pipeline for later evaluation)
+
+- [ ] https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2 | Homebase | Forward Deployed Engineering Intern, AI-Native | ~3.8/5 | Hybrid SF; $30-35/hr; FDE + AI-native archetype = perfect match; workforce mgmt SaaS for SMBs; just posted Apr 28; comp at floor; SF relocation
+- [ ] https://job-boards.greenhouse.io/gofundme/jobs/7289288 | GoFundMe | Backend Software Engineer Intern (Summer 2026) | ~3.4/5 | SF on-site; May 27-Aug 7; Python/backend stack; crowdfunding domain; companion to Full Stack 7289152
+
+### Skipped — scan-v214
+
+- https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7714939003 — Dark Wolf Data & AI Intern — Herndon VA on-site; $20/hr (below comp floor); defense contractor; US citizenship required; skipped_score
+- https://job-boards.greenhouse.io/horacemannservicecorporation/jobs/5982339004 — Horace Mann SWE Intern — insurance company; domain mismatch; ~3.0/5 skipped_score
+- https://job-boards.greenhouse.io/globalizationpartners/jobs/7714834003 — Globalization Partners SWE Intern — HR/payroll domain mismatch; ~3.0/5 skipped_score
+- https://job-boards.greenhouse.io/onapsis/jobs/8490508002 — Onapsis Go-to-Market AI Pod Intern — SAP security domain; negative keyword SAP match; skipped_title
+- https://job-boards.greenhouse.io/sezzleinternships/jobs/7695767003 — Sezzle SWE Intern — Colombia only; non-US; skipped_location
+- https://job-boards.greenhouse.io/gofundme/jobs/7289201 — GoFundMe Mobile SWE Intern — mobile focus; ~3.2/5 skipped_score
+
+<!-- === END 2026-04-28 SCAN v214 === -->
+
 <!-- === BEGIN 2026-04-27 SCAN v208 === -->
 <!-- Greenhouse APIs: all 8 companies (Anthropic/Glean/Vercel/Airtable/HumeAI/Arize/RunPod/Intercom) all 503 — consistent with v201/v202 pattern -->
 <!-- WebSearch: 16 queries across Ashby/Greenhouse/Lever for SWE+Security+AI+DevOps+Consulting interns + Fall 2026 cycle + broad AI/ML. 52 genuinely new URLs discovered (not in 4,282-entry history). 6 qualifying ≥4.0 (reports #421-426): Haize Labs SWE (4.5), OpenAI Fall 2026 (4.4), Together AI Security (4.3), Together AI SWE (4.2), Cloudflare Security Austin (4.2), Decagon Agent Intern (4.2). 2 borderline 4.0 pipeline-only. 25 below-threshold pipeline additions. ~20 skipped (non-US London, negative keyword, domain mismatch). New companies found: Cloudflare (multiple intern URLs), Haize Labs, Together AI, Mercury Fall 2026, Verkada Fall 2026, Symmetry Systems, Farsight AI, Naptha AI, LaunchDarkly, Tatari, StockX, Brex, Harmonic -->
