@@ -3701,3 +3701,16 @@ All 181 prior tracked companies re-confirmed; Twilio only new URL (7850821) foun
 - [ ] https://jobs.lever.co/anchorage/74618e55-5e12-48eb-a07e-2acc48430bca | Anchorage Digital | Software Engineer (New Grad) | Remote; FTE new grad; crypto domain; strong engineering culture; comp undisclosed; (~2.8/5 — crypto domain)
 - [ ] https://careers.ibm.com/en_US/careers/JobDetail/Software-Engineering-Intern-2026/57950 | IBM | Software Engineering Intern 2026 | Multiple US locations (Austin TX + others); $72-132K annualized range; Python/cloud/AI projects; Java-heavy enterprise culture; (~3.0/5 — enterprise Java culture, below-target archetype)
 <!-- === END 2026-04-28 SCAN v217 === -->
+
+<!-- === BEGIN 2026-04-28 SCAN v218 === -->
+<!-- Sources: Greenhouse APIs (Anthropic fellows-only; Hume AI 8 senior roles; Glean 170 roles — no intern/new-grad new; Vercel senior only; Airtable senior only; Arize AI senior only; RunPod senior only; Temporal 0 jobs); 40+ WebSearch queries (Ashby/Greenhouse/Lever targeting SWE+Security+AI+DevOps+internship+new-grad+cybersecurity companies+consulting+fintech+AI startups+Fall2026); GitHub SimplifyJobs Summer2026 Off-Season README checked (Capital One/NVIDIA/Palantir FDSE/Shopify all dup v7-v217); Anyscale/Replit/Together AI/Cloudflare/Glean/Obsidian/Ramp/Farsight/Zettabyte/Bandwidth all confirmed dup (different Greenhouse URL for same jobs already evaluated v7-v217); PANW via RippleMatch likely closed (Oct 2025 postings); Gemini Security (crypto domain 3.0/5 skip); Mercury AI Enablement (deadline March 6 PASSED); Perplexity ML Research (UK/Berlin skip); Impiricus/GridBlock (unknown small companies skip); 4,474 history entries after this scan. RESULT: 0 qualifying ≥4.0. 3 genuinely new below-threshold URLs. Market CONFIRMED SATURATED at 218 scans. -->
+<!-- 0 qualifying ≥4.0 | 3 new pipeline additions -->
+
+### Scan v218 — 2026-04-28
+
+#### New Listings — Below Threshold
+
+- [ ] https://jobs.ashbyhq.com/anyscale/5dbc4672-2943-4b9e-91be-4217a6f81ad2 | Anyscale | Software Engineer (Intern 26') | SF in-office; $63.35/hr; Ray distributed computing; rising junior eligible; Python match; no direct Ray experience but LangChain/ML pipeline adjacent; good company brand; (~3.6/5 — stack gap on Ray)
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7528020003 | Affirm | Software Engineering Intern — Summer 2026 | SF hybrid 3d/wk (Tue-Thu); $55/hr (~$9.5K/mo); Python-primary BNPL fintech; 12-16 wks; strong engineering culture; not AI-first; (~3.7/5 — solid but fintech domain adjacent)
+- [ ] https://job-boards.greenhouse.io/klaviyocampus/jobs/7603083003 | Klaviyo | Full-stack Software Engineer Intern — Summer 2026 | Boston MA in-office; 11 wks; MarTech SaaS (email/SMS automation); Python+React/TypeScript likely; different from AI Engineer Intern (#313 already 3.6/5); (~3.6/5 — relocation + non-AI domain)
+<!-- === END 2026-04-28 SCAN v218 === -->

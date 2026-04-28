@@ -4450,3 +4450,34 @@ https://careers.ibm.com/en_US/careers/JobDetail/Software-Developer-Internship-20
 https://careers.ibm.com/en_US/careers/JobDetail/Software-Developer-Intern-2026/54845	2026-04-28	scan-v217-ibm	Software Developer Intern 2026 — IBM; duplicate family of IBM roles; ~2.8/5	IBM	skipped_dup
 https://jobs.careers.microsoft.com/global/en/job/1735688/Software-Engineering-Intern	2026-04-28	scan-v217-microsoft	Software Engineering Intern — Microsoft; URL redirects to apply.careers.microsoft.com (closed/expired pattern per v141); skip	Microsoft	skipped_closed
 scan-v217	2026-04-28	scan-v217-summary	Scan v217 complete (autonomous agent 2026-04-28) — EU Greenhouse APIs (PolyAI/Parloa/Intercom: 0 intern); Retool (0 openings, site empty); 25+ WebSearch queries (Greenhouse/Ashby/Lever IBM Microsoft Pega targeting SWE+Security+AI+DevOps+NewGrad+intern); 4,436-entry history dedup'd; RESULT: 1 genuinely qualifying ≥4.0 found: Creatify AI SWE Intern (Mountain View $40-60/hr Python/Flask/React 4.0/5 → #422). 3 below-threshold additions (Viam Robotics ~3.2/Anchorage Digital intern+newgrad ~2.8). IBM new URLs found (Java-heavy enterprise, below threshold). Market remains HIGHLY SATURATED after 217 scans. Summer 2026 CONFIRMED CLOSED. Creatify AI strongest new find of this cycle.	scan-v217	added
+https://job-boards.greenhouse.io/anthropic/jobs/5023394008	2026-04-28	scan-v218-greenhouse	Anthropic Fellows Program	Anthropic	skipped_title
+https://job-boards.greenhouse.io/anthropic/jobs/5183044008	2026-04-28	scan-v218-greenhouse	Anthropic Fellows Program — AI Safety	Anthropic	skipped_title
+https://job-boards.greenhouse.io/anthropic/jobs/5030244008	2026-04-28	scan-v218-greenhouse	Anthropic Fellows Program — AI Security	Anthropic	skipped_title
+https://job-boards.greenhouse.io/anthropic/jobs/5189848008	2026-04-28	scan-v218-greenhouse	Anthropic STEM Fellow	Anthropic	skipped_title
+https://job-boards.greenhouse.io/gleanwork/jobs/4592324005	2026-04-28	scan-v218-greenhouse	Software Engineer, University Grad	Glean	skipped_dup
+https://job-boards.greenhouse.io/gleanwork/jobs/4595665005	2026-04-28	scan-v218-greenhouse	Software Engineer, Intern (Summer 2026)	Glean	skipped_dup
+https://job-boards.greenhouse.io/cloudflare/jobs/7206269	2026-04-28	scan-v218-cloudflare-swe	Software Engineer Intern (Summer 2026) - Austin TX	Cloudflare	skipped_dup
+https://job-boards.greenhouse.io/cloudflare/jobs/7774167	2026-04-28	scan-v218-cloudflare-swe	Software Engineer Intern (Summer 2026)	Cloudflare	skipped_dup
+https://job-boards.greenhouse.io/cloudflare/jobs/7296923	2026-04-28	scan-v218-cloudflare-swe	Software Engineer Intern (Summer 2026)	Cloudflare	skipped_dup
+https://job-boards.greenhouse.io/cloudflare/jobs/7582169	2026-04-28	scan-v218-cloudflare-security	Security Engineer Intern (Summer 2026) - London	Cloudflare	skipped_location
+https://job-boards.greenhouse.io/obsidiansecurity/jobs/4788725008	2026-04-28	scan-v218-security	Software Engineer - Intern (Summer 2026)	Obsidian Security	skipped_dup
+https://jobs.ashbyhq.com/ramp/c50962b5-c641-4d44-bbe5-7f1d6e7ce51f	2026-04-28	scan-v218-ashby	Software Engineer Internship, Backend	Ramp	skipped_dup
+https://jobs.ashbyhq.com/zettabyte-space/ec96b63a-e11c-4589-ab25-4f1779fb8759	2026-04-28	scan-v218-ashby	Software Engineering Intern (Summer 2026)	Zettabyte	skipped_dup
+https://jobs.ashbyhq.com/farsight/096cdc49-06ae-4724-8f46-c58184e98334	2026-04-28	scan-v218-ashby	Software Engineering Intern (Summer 2026)	Farsight AI	skipped_dup
+https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1	2026-04-28	scan-v218-ashby	Software Engineering Intern (Summer 2026)	Replit	skipped_dup
+https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc	2026-04-28	scan-v218-ashby	Software Engineer - New Grad (Summer 2026)	Replit	skipped_dup
+https://job-boards.greenhouse.io/bandwidth/jobs/7485269	2026-04-28	scan-v218-security	DevSecOps Intern - Summer 2026	Bandwidth	skipped_dup
+https://job-boards.greenhouse.io/togetherai/jobs/5012785007	2026-04-28	scan-v218-security	Security Engineer Intern (Summer 2026)	Together AI	skipped_dup
+https://job-boards.greenhouse.io/togetherai/jobs/5012768007	2026-04-28	scan-v218-greenhouse	Software Engineer Intern (Summer 2026)	Together AI	skipped_dup
+https://job-boards.greenhouse.io/gemini/jobs/7360337	2026-04-28	scan-v218-security	Security Engineering Intern (Summer 2026)	Gemini	skipped_score
+https://jobs.ashbyhq.com/anyscale/5dbc4672-2943-4b9e-91be-4217a6f81ad2	2026-04-28	scan-v218-ashby-ai	Software Engineer (Intern 26')	Anyscale	added
+https://job-boards.greenhouse.io/affirm/jobs/7528020003	2026-04-28	scan-v218-greenhouse	Software Engineering Intern - Summer 2026	Affirm	added
+https://job-boards.greenhouse.io/klaviyocampus/jobs/7603083003	2026-04-28	scan-v218-greenhouse	Full-stack Software Engineer Intern (Summer 2026)	Klaviyo	added
+https://job-boards.greenhouse.io/mercury/jobs/5817107004	2026-04-28	scan-v218-greenhouse	Software Engineering Intern - AI Enablement (Fall 2026)	Mercury	skipped_closed
+https://job-boards.greenhouse.io/roadie/jobs/8431926002	2026-04-28	scan-v218-greenhouse	Software Engineer Intern (Summer 2026)	Roadie	skipped_dup
+https://job-boards.greenhouse.io/impiricus/jobs/5160382008	2026-04-28	scan-v218-greenhouse	Intern - Software Engineer (Full-stack)	Impiricus	skipped_score
+https://job-boards.greenhouse.io/2026_summer_intern_program/jobs/4134986009	2026-04-28	scan-v218-greenhouse	GridBlock - 2026 Summer Software Engineering Intern	GridBlock	skipped_score
+https://job-boards.greenhouse.io/ripplematchinterns/jobs/8192567002	2026-04-28	scan-v218-ripplematch	Palo Alto Networks - Intern - Software Engineer - Bachelors	Palo Alto Networks	skipped_closed
+https://job-boards.greenhouse.io/ripplematchinterns/jobs/8192572002	2026-04-28	scan-v218-ripplematch	Palo Alto Networks - Software Engineer - Bachelors - New College Grad	Palo Alto Networks	skipped_closed
+https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c	2026-04-28	scan-v218-ashby	Internship - Machine Learning Research Engineer	Perplexity	skipped_location
+scan-v218	2026-04-28	scan-v218-summary	Scan v218 complete (autonomous agent 2026-04-28) — Greenhouse APIs (Anthropic/Hume/Glean/Vercel/Airtable/Arize/RunPod/Temporal: all senior only or 0 jobs); 40+ WebSearch queries across Ashby/Greenhouse/Lever targeting SWE+Security+AI+DevOps+cybersec+consulting+fintech+AI-startups+Fall2026; all major platforms rechecked; 22 new URLs found vs history, all confirmed dup vs applications.md except 3 genuinely new below-threshold (Anyscale $63.35/hr 3.6; Affirm $55/hr 3.7; Klaviyo Full-stack 3.6) + 4 skipped (Mercury closed/Gemini crypto/Impiricus unknown/GridBlock unknown); RESULT: 0 qualifying ≥4.0. Market CONFIRMED SATURATED at 218 scans.	scan-v218	added
