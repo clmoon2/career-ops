@@ -3663,3 +3663,7 @@ All 181 prior tracked companies re-confirmed; Twilio only new URL (7850821) foun
 
 <!-- Scan v213 summary: 18 WebSearch queries across LinkedIn/Indeed/Builtin/Wellfound/Greenhouse/Ashby/Lever/GitHub targeting Fall 2026 cycle + NewGrad + consulting firms + defense contractors + fintech + AI-native companies. SimplifyJobs Off-Season README + jobright-ai New-Grad + Consultant READMEs checked. HN Who is Hiring April 2026 rechecked. All results confirmed dup from v7-v212 except 1 new Actian Lever URL (below threshold). SeatGeek new-grad 7406634 found but redirects to main jobs page (likely closed). N1 Backend Rust a3e25c84 (Rust = negative filter). Market fully saturated after 213 scans. -->
 <!-- === END 2026-04-28 SCAN v213 === -->
+
+<!-- === BEGIN 2026-04-28 SCAN v215 === -->
+<!-- Scan v215 (autonomous agent 2026-04-28): 4 GitHub repos (SpeedyApply SWE+AI all dup v189+; SimplifyJobs Summer2026 all dup v161+; pittcsc New-Grad all dup/wrong-year); 9 Greenhouse APIs (coinbase/crowdstrike/snowflake/scale/benchling/ramp all 404; robinhood/brex/stripe 0 SWE intern); 15+ WebSearch queries; 20+ specific job URLs verified; 4,412-entry history fully dedup'd. 0 genuinely new URLs found. Notable dead ends: SPLC Cybersecurity Fall 2026 (deadline April 27 PASSED, $17.95/hr below floor); Twilio 7850821 (Summer 2025 not 2026); Codazen 4979883004 (Winter 2024 wrong year). MARKET FULLY SATURATED at 215 scans. Summer 2026 CONFIRMED CLOSED. 0 new pipeline additions. -->
+<!-- === END 2026-04-28 SCAN v215 === -->
