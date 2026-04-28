@@ -3633,3 +3633,13 @@ All 181 prior tracked companies re-confirmed; Twilio only new URL (7850821) foun
 <!-- Greenhouse APIs: Anthropic (senior FTE only, all in history), Vercel (no intern/new grad, all in history), Temporal (0 jobs), Arize AI (no interns), RunPod (no interns), Hume AI (senior only) -->
 <!-- WebSearch: 30+ queries across Ashby/Greenhouse/Lever for SWE+Security+AI+DevOps+Consulting interns + new grad roles. 3 genuinely new URLs found, all skipped (TELUS Fuel iX 404 closed, Alpha FMC no openings, Graphcore Bristol UK non-US). Scan history now 4,389 entries. 0 new qualifying ≥4.0. v210 confirms saturation of Summer 2026 intern cycle on major job boards. -->
 <!-- === END 2026-04-27 SCAN v210 === -->
+
+<!-- === BEGIN 2026-04-28 SCAN v213 === -->
+## Scan v213 — 2026-04-28
+
+### New Listings — Below Threshold (Pipeline for awareness)
+
+- [ ] https://jobs.lever.co/actian/6638beee-45f5-46ac-9dc1-fbde7f1b5310 | Actian Corporation | AI Engineer Intern, Database Performance Knowledge | Remote + Austin TX orientation; RAG pipeline + MCP Server tools + HCL Vector/Informix DB; Python/AI stack match; $20-30/hr (below $33/hr floor); enterprise database domain mismatch; 12 weeks Jun 8; (~3.2/5 — below threshold due to comp + domain)
+
+<!-- Scan v213 summary: 18 WebSearch queries across LinkedIn/Indeed/Builtin/Wellfound/Greenhouse/Ashby/Lever/GitHub targeting Fall 2026 cycle + NewGrad + consulting firms + defense contractors + fintech + AI-native companies. SimplifyJobs Off-Season README + jobright-ai New-Grad + Consultant READMEs checked. HN Who is Hiring April 2026 rechecked. All results confirmed dup from v7-v212 except 1 new Actian Lever URL (below threshold). SeatGeek new-grad 7406634 found but redirects to main jobs page (likely closed). N1 Backend Rust a3e25c84 (Rust = negative filter). Market fully saturated after 213 scans. -->
+<!-- === END 2026-04-28 SCAN v213 === -->
