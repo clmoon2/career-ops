@@ -3683,3 +3683,21 @@ All 181 prior tracked companies re-confirmed; Twilio only new URL (7850821) foun
 <!-- === BEGIN 2026-04-28 SCAN v215 === -->
 <!-- Scan v215 (autonomous agent 2026-04-28): 4 GitHub repos (SpeedyApply SWE+AI all dup v189+; SimplifyJobs Summer2026 all dup v161+; pittcsc New-Grad all dup/wrong-year); 9 Greenhouse APIs (coinbase/crowdstrike/snowflake/scale/benchling/ramp all 404; robinhood/brex/stripe 0 SWE intern); 15+ WebSearch queries; 20+ specific job URLs verified; 4,412-entry history fully dedup'd. 0 genuinely new URLs found. Notable dead ends: SPLC Cybersecurity Fall 2026 (deadline April 27 PASSED, $17.95/hr below floor); Twilio 7850821 (Summer 2025 not 2026); Codazen 4979883004 (Winter 2024 wrong year). MARKET FULLY SATURATED at 215 scans. Summer 2026 CONFIRMED CLOSED. 0 new pipeline additions. -->
 <!-- === END 2026-04-28 SCAN v215 === -->
+
+<!-- === BEGIN 2026-04-28 SCAN v217 === -->
+<!-- Sources: PolyAI/Parloa/Intercom EU Greenhouse APIs (0 intern); 25+ WebSearch queries (Greenhouse/Ashby/Lever/IBM/Microsoft/Pega targeting SWE+Security+AI+DevOps+NewGrad+intern); Retool (0 openings — site confirmed empty); Anchorage Digital Lever (new, crypto domain); Viam Robotics Greenhouse (new, NYC Golang robotics); Creatify AI Ashby (NEW 4.0/5 → #423 evaluated); IBM career pages (new URLs, Java-heavy enterprise); SafetyCulture Lever (Sydney Australia, skipped); 4,436-entry history dedup'd. RESULT: 1 qualifying ≥4.0 (Creatify AI #422). 3 new below-threshold pipeline additions. -->
+<!-- 1 qualifying ≥4.0 | 8 new URLs total | 4 pipeline additions -->
+
+### Scan v217 — 2026-04-28
+
+#### Evaluated (≥4.0)
+
+- [x] https://jobs.ashbyhq.com/creatify/75a1f1ad-13d2-4513-952c-71b6dfcaa84f | Creatify AI | Software Engineer Intern 2026 | Mountain View CA on-site; $40-60/hr; Python/Flask/React exact stack match; AI video ad automation pipeline mirrors Finch architecture; **4.0/5 → #423**
+
+#### New Listings — Below Threshold
+
+- [ ] https://job-boards.greenhouse.io/viamrobotics/jobs/5648506004 | Viam Robotics | Software Engineering Intern (Summer 2026) | NYC in-person 10-12 weeks; Go+TypeScript stack (Go gap); robotics/AI platform (Eliot Horowitz ex-MongoDB); strong pedigree; Go is learnable; (~3.2/5 — language gap + robotics domain)
+- [ ] https://jobs.lever.co/anchorage/31c1e23d-232d-4a6a-bfeb-82908a270c28 | Anchorage Digital | Software Engineering Internship (Summer 2026) | Remote/hybrid; 12 weeks; regulated digital asset bank; strong SWE culture; crypto domain penalty; comp undisclosed; (~2.8/5 — crypto domain mismatch)
+- [ ] https://jobs.lever.co/anchorage/74618e55-5e12-48eb-a07e-2acc48430bca | Anchorage Digital | Software Engineer (New Grad) | Remote; FTE new grad; crypto domain; strong engineering culture; comp undisclosed; (~2.8/5 — crypto domain)
+- [ ] https://careers.ibm.com/en_US/careers/JobDetail/Software-Engineering-Intern-2026/57950 | IBM | Software Engineering Intern 2026 | Multiple US locations (Austin TX + others); $72-132K annualized range; Python/cloud/AI projects; Java-heavy enterprise culture; (~3.0/5 — enterprise Java culture, below-target archetype)
+<!-- === END 2026-04-28 SCAN v217 === -->

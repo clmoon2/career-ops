@@ -1,102 +1,91 @@
-# Portal Scan Summary — 2026-04-28 (v216)
+# Portal Scan Summary — 2026-04-28 (v217)
 
+**Scan:** v217 (autonomous agent)
 **Date:** 2026-04-28
-**Scan version:** v216
-**Portals/queries executed:** 35+
-**Total candidates evaluated:** 100+
-**Filtered by title (negative keywords):** 8
-**Filtered by location (non-US):** 4
-**Filtered by score (below threshold):** 3
-**Duplicates:** ~85+ (already in 4,413-entry history)
-**New URLs added:** 0
+**Scan count:** 217 total scans in this job search cycle
 
 ---
 
-## Top Matches (≥4.0)
+## Results
 
-**None found.** All qualifying roles are already in the pipeline from prior scans (v7–v215).
+```
+Portal Scan — 2026-04-28 (v217)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Portals checked:       25+ (queries + direct API/page checks)
+Entries in history:    4,451 (after this scan)
+New URLs found total:  15
+Filtered/skipped:      11 (SafetyCulture AU, Anchorage Masters x3, IBM Poughkeepsie/Lowell, closed)
+Below threshold:       3  (Viam ~3.2, Anchorage intern/newgrad ~2.8, IBM ~3.0)
+Qualifying ≥4.0:       1
 
-## New Pipeline Additions
-
-**None.** Zero new URLs discovered.
-
----
-
-## Sources Checked
-
-### Greenhouse APIs (10 checked)
-| Board | Result |
-|-------|--------|
-| `palantir` | 404 — uses Lever; all roles dup v209 |
-| `figma` | 0 intern/new-grad; all FTE senior |
-| `duolingo` | 0 intern; 90 senior roles only |
-| `nvidia` | 404 — uses Workday; dup v186+v189 |
-| `mongodb` | 1 result: Women in Tech Summit EMEA — non-US |
-| `datadog` | DataPUPS full-stack already dup v208 (#342) |
-| `stripe` | Data Analyst Intern Masters Toronto — non-US |
-| `databricks` | 0 intern; all Eng Manager/FTE AI FDE senior |
-| `zoom` | 404 — uses Workday |
-| `spacex` | 7 FTE roles only; no intern/new-grad |
-| `anduril` | 404 — uses andurilindustries board; dup v209 |
-
-### GitHub Repos
-- **SimplifyJobs/New-Grad-Positions** (dev): Loop/Notion/Julius/Sigma/Airtable/Salesforce/Underdog — all confirmed dup v7-v215
-- **jobright-ai/2026-Software-Engineer-New-Grad**: Anduril/Amentum/Raytheon (defense)/Uber/Autodesk Canada/PayPal/AWS SDE2 (senior) — 0 qualifying
-- **speedyapply/2026-SWE-College-Jobs** (0d new): Axway (dup v164), Resolve Tech R1221 (SAP negative keyword skip); all others dup v189+
-- **speedyapply/2026-AI-College-Jobs** (0d new): Adobe R160428/Pinterest PhD/Schonfeld HR role/Cerebras (#416 dup)/Lattice Semi FPGA — all dup or filtered
-
-### WebSearch Queries (15+)
-1. `"fall 2026" intern "software engineer" site:jobs.lever.co` → Center for AI Safety (dup v7), Hermeus (dup v7 aerospace)
-2. `"fall 2026" intern "software" OR "cybersecurity" OR "AI" site:jobs.ashbyhq.com` → Notion/Zip/Sentry/OpenAI — all dup v208+
-3. `"forward deployed engineer" intern 2026` → Cresta (dup v171 Canada-only), Ramp (dup v7), Palantir (dup v209)
-4. `"new grad" 2026 "software engineer" site:job-boards.greenhouse.io` → Loop/Airtable/Scale AI/Freeform/Sigma/Underdog — all dup v5-v215
-5. `consulting "technology analyst" intern 2026 Deloitte/Accenture/PwC` → No new ATS links; Big4 deadlines passed
-6. `"cybersecurity intern" 2026 site:leidos.com OR site:saic.com` → SAIC DC (clearance req); Leidos (defense clearance req)
-7. `site:myworkdayjobs.com "software engineer" intern 2026 cybersecurity AI ML` → Nasdaq/CrowdStrike/GM/NVIDIA/Adobe — all dup v7-v189
-8. `"AI engineer" intern 2026 site:job-boards.greenhouse.io` → Roadie (dup v208), Datacor (SAP-adjacent), Censys (dup v7 closed), Point72 (dup v7), Sigma (dup v7)
-9. `"software engineer intern" 2026 fintech payments AI new posting April 2026` → Brex/Ramp/Robinhood all dup v7+; Block/Coinbase/Fiserv all dup
-10. `site:builtin.com "software engineer intern" 2026` → Together AI (dup v7), Kensho Technologies (dup v7), Censys (closed Sep 2025), Leidos Spring/Fall (closed Sep 2025)
-11. `Loop "new grad" "software engineer AI" 2026` → All Loop URLs dup v7-v200 confirmed
-12. `Cresta "forward deployed engineering intern" 2026` → Canada Remote; dup v171; comp undisclosed; already in pipeline
-13. `"software engineer" intern "fall 2026" new April 2026` → NVIDIA JAX Fall (dup v187), Notion (dup v208), Zip (dup v208)
-14. `github.com jobright-ai "2026-Software-Engineer-New-Grad" April 2026` → Defense/non-target entries dominate; 0 qualifying
-15. `site:wellfound.com "software engineer intern" OR "AI engineer intern" 2026 new April` → C3 AI (dup v20), Northspyre (dup v7), Spacial AI (dup v137) — 0 new
+New pipeline additions: 4
+```
 
 ---
 
-## Notable Investigated (All Duplicates)
+## Top Match (≥4.0)
 
-| Company | Role | Status | Notes |
-|---------|------|--------|-------|
-| Figma | Software Engineer Intern (2026) | dup v7 | No new intern listings found |
-| Datadog | Software Engineering Intern (SRE) | dup v208 (#342) | — |
-| Stripe | Data Analyst Intern | skipped_location | Masters + Toronto Canada |
-| MongoDB | Security Intern | skipped_location | Dublin, Ireland |
-| Cresta | FDE Intern (AI Agent) | dup v171 | Canada Remote; already in pipeline |
-| Loop | New Grad SWE AI | dup v7+v203 | SF/NYC on-site; below threshold ~3.5/5 |
-| Center for AI Safety | Research Engineer Intern Fall 2026 | dup v7+v203 | Stipend $9K-$19.2K; deadline May 29 |
-| Resolve Tech | Managed Cloud Delivery Intern | skipped_title | SAP consulting; negative keyword |
-| NVIDIA | Various Fall 2026 | dup v186+v187 | Workday ATS; all dup |
-| Sigma Computing | New Grad Program | dup v9+v203 | $65/hr temp-to-hire; already in pipeline |
+| # | Company | Role | Score | Notes |
+|---|---------|------|-------|-------|
+| 422 | **Creatify AI** | Software Engineer Intern 2026 | **4.0/5** | Mountain View CA; $40-60/hr; Python/Flask/React exact match; AI video ad automation pipeline |
+
+### Creatify AI — Why it qualified
+
+- **Stack:** Python/Flask + React — Carlos's exact production stack from Finch (23,800-line Flask backend + React 19 SPA)
+- **Archetype:** Agentic/Automation — Creatify automates the full video ad lifecycle with AI, structurally identical to Finch's 7-stage job application pipeline
+- **Traction:** $10M ARR in 18 months, $24M raised, 1.5M users — real product, not stealth
+- **Pay:** $40-60/hr ($83K-125K annualized) — above floor, in target range
+- **Risk:** In-person Mountain View (relocation from College Station TX); ad tech domain
+
+**Report:** reports/422-creatify-ai-swe-intern-2026-04-28.md
+
+---
+
+## Below-Threshold Additions (≤3.9/5)
+
+| Company | Role | Score | Notes |
+|---------|------|-------|-------|
+| Viam Robotics | Software Engineering Intern (Summer 2026) | ~3.2 | NYC in-person; Go+TypeScript; robotics AI platform; Eliot Horowitz (MongoDB) founder |
+| Anchorage Digital | Software Engineering Internship (Summer 2026) | ~2.8 | Remote/hybrid; 12 weeks; regulated crypto bank; strong SWE culture; crypto domain |
+| Anchorage Digital | Software Engineer (New Grad) | ~2.8 | Remote FTE; same crypto domain; strong engineering |
+| IBM | Software Engineering Intern 2026 | ~3.0 | Multiple US locations; $72-132K annualized; Python/AI track; Java-heavy enterprise |
+
+---
+
+## Portals Checked
+
+| Source | Method | Result |
+|--------|--------|--------|
+| PolyAI / Parloa / Intercom | Greenhouse EU APIs | 0 intern roles |
+| Retool | Direct page | 0 openings — site confirmed empty |
+| Ashby broad (25+ queries) | WebSearch | Creatify AI NEW; all others dup v7-v216 |
+| Greenhouse broad (10+ queries) | WebSearch | Viam Robotics NEW; all others dup |
+| Lever broad (10+ queries) | WebSearch | Anchorage Digital NEW; all others dup |
+| IBM careers | WebSearch | 6 new IBM intern URLs (Java-heavy, below threshold) |
+| Microsoft careers | WebSearch | 1 new URL (1735688, closed/redirects) |
+| SafetyCulture | Lever | Sydney Australia — skipped_location |
+| Pega | Direct fetch | US roles $32-37/hr; Java domain; most 404 |
 
 ---
 
 ## Market Assessment
 
-**Summer 2026:** CONFIRMED CLOSED at 216 scans. All major programs ended or hit deadlines. No new Summer 2026 openings appearing.
+Scan v217. Summer 2026 internship market is **confirmed closed** across all major US tech portals. All major recurring sources fully exhausted — producing confirmed duplicates from v7-v216.
 
-**Fall 2026:** Very limited openings. OpenAI/Notion/Sentry/Zip/Verkada already captured in pipeline from prior scans. Next wave of Fall 2026 postings expected May-June 2026.
-
-**New Grad (2026):** Active but all major companies (Loop/Sigma/Airtable/Replit/Harvey/Notion/Julius AI) already in pipeline. Market remains saturated for Carlos's target profile.
-
-**Summer 2027:** Cycle expected to open Aug-Sep 2026. Begin monitoring Aug 2026.
+**Active pipeline ≥4.0 (evaluated, pending application):**
+- #420 Vapi Backend Product Engineer — 4.4/5
+- #419 Palantir SWE Intern — 4.3/5
+- #416 Cerebras AI Engineering Intern — 4.5/5
+- **#422 Creatify AI SWE Intern — 4.0/5 ← NEW this scan**
+- #418 Together AI SWE New Grad — 4.2/5
+- #421 Haize Labs Research Intern — 4.0/5
+- #414 Actian AI Security Intern — 4.0/5
 
 ---
 
 ## Recommended Next Actions
 
-1. **Apply to high-priority evaluated roles** — Focus on top-scored reports already in tracker (Cerebras 4.5/5 #416, Browser Use 4.4/5 #357, Atlassian Security 4.5/5 #355, Glean SWE 4.5/5 #340, Ramp FDE 4.5/5 #341, Replit New Grad 4.5/5 #382)
-2. **Apply to active Fall 2026 roles** — OpenAI Fall #409 (4.4/5), Sentry Fall, Zip Fall, Notion Fall, Verkada Fall
-3. **Evaluate borderline pipeline** — Infisical (~3.8/5), Airtable New Grad (~3.8/5 if active), SpaceX Fall (~3.7/5), Apptronik Austin (~3.5/5), Homebase FDE AI-Native (~3.8/5 v214)
-4. **Monitor for Fall 2026 new openings** — Focus next scan on companies that typically open fall cycles May-June: Anthropic, Meta, Google, Microsoft, Amazon
-5. **Next scan:** Resume in 5-7 days (May 3-5, 2026); daily scanning no longer yields results
+1. **Apply to Creatify AI (#422, 4.0/5)** — generate tailored CV + cover letter; verify relocation support; confirm dates. Apply this week — deadline unknown.
+2. **Evaluate Viam Robotics** (pipeline, ~3.2/5) — Go learnable; strong pedigree (MongoDB founder); NYC.
+3. **Monitor Fall 2026 cycle** — OpenAI/Notion/Sentry/Zip/Verkada already in pipeline; Fall 2026 roles open May-Jul.
+4. **Next scan recommended:** 2026-05-01 to 2026-05-03. Watch for Fall 2026 early opens.

@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 423 | 2026-04-28 | Creatify AI | Software Engineer Intern 2026 | 4.0/5 | Evaluada | ❌ | [423](reports/423-creatify-ai-swe-intern-2026-04-28.md) | Mountain View CA on-site; $40-60/hr; Python/Flask/React exact stack; AI video ad automation mirrors Finch architecture; $24M raised $10M ARR |
 | 421 | 2026-04-28 | Haize Labs | Research Intern | 4.0/5 | Evaluada | ❌ | [421](reports/421-haizelabs-research-intern-2026-04-28.md) | NYC 6d/wk; $125-200K/yr annualized; LLM safety research; adversarial testing = perfect match; apply alongside SWE Intern #298 |
 | 418 | 2026-04-27 | Together AI | Software Engineer – New Grad | 4.2/5 | Evaluada | ❌ | [418](reports/418-together-ai-swe-newgrad-2026-04-27.md) | $150-200K FTE new grad; SF on-site; 5-provider LLM pipeline + 35K-line backend = direct match; top-decile comp for new grad; apply |
 | 419 | 2026-04-27 | Palantir | Software Engineer, Internship | 4.3/5 | Evaluada | ❌ | [419](reports/419-palantir-swe-intern-2026-04-27.md) | Re-eval 2026-04-27 (4→4.3). Top-tier intern; $10K/mo; FDSE archetype fit; production AI + Rust/C systems; verify grad date |
