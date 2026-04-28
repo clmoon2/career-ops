@@ -41,7 +41,7 @@
 - [ ] https://jobs.lever.co/SymmetrySystems/dbca271b-a99b-48ab-83f2-b596a037ad65 | Symmetry Systems | Full Stack Software Engineer - 2026 Summer Intern | ~3.7/5 | Data+AI security startup; full-stack; strong domain match for security-minded engineer
 - [ ] https://jobs.ashbyhq.com/farsight/096cdc49-06ae-4724-8f46-c58184e98334 | Farsight AI | Software Engineering Intern (Summer 2026) | ~3.8/5 | Agentic AI for financial services; LLM automation; strong agentic archetype; verify comp + location
 - [ ] https://jobs.ashbyhq.com/naptha/96df9dd3-85bc-4cff-b806-973b78bb433a | Naptha AI | Software Engineer Intern | ~3.7/5 | Agent infrastructure startup; frontier AI agent stack; strong agentic fit; verify company stage
-- [ ] https://job-boards.greenhouse.io/haizelabs/jobs/4070377008 | Haize Labs | Research Intern | ~3.8/5 | NYC 6d/wk; $125K-200K; LLM safety research; sister role to SWE Intern (#421); research vs engineering track
+- [x] https://job-boards.greenhouse.io/haizelabs/jobs/4070377008 | Haize Labs | Research Intern | **4.0/5** | NYC 6d/wk; $125-200K/yr; LLM safety research; adversarial testing = exact match; **REPORT #421** | 2026-04-28
 - [ ] https://job-boards.greenhouse.io/brex/jobs/8434389002 | Brex | Software Engineer Intern | ~3.7/5 | $55/hr; fintech (Stripe competitor); Feb 2026 posting; good brand; Python/TypeScript; fintech domain
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4606014005 | Scale AI | Software Engineering Intern (Summer 2026) | ~3.7/5 | AI data company; strong brand; Python/ML; SF on-site; verify current status
 - [ ] https://job-boards.greenhouse.io/roadie/jobs/8479096002 | Roadie | AI Engineer Intern (Summer 2026) | ~3.6/5 | AI agents for Customer Support + Trust & Safety; Python/AI; smaller company; verify comp
