@@ -1,5 +1,21 @@
 # Pipeline -- Pending URLs
 
+<!-- === BEGIN 2026-04-28 SCAN v216 === -->
+<!-- Sources: 10 Greenhouse APIs (palantir/figma/duolingo/nvidia/mongodb/datadog/stripe/databricks/zoom/spacex; all 404/no-intern/dup); SimplifyJobs New Grad README; jobright-ai New Grad README; SpeedyApply SWE+AI 0d; 15+ WebSearch queries (Lever/Ashby/Greenhouse Fall2026+NewGrad+FDE+Security+AI); 4,413-entry history fully dedup'd. RESULT: 0 new URLs found. All sources confirmed dup v7-v215. Market FULLY SATURATED at 216 scans. -->
+<!-- 0 qualifying ≥4.0 | 0 new URLs total | 0 pipeline additions -->
+
+### Skipped — scan-v216 (all confirmed duplicates)
+
+- Greenhouse APIs: palantir (404/Lever), figma (0 intern), duolingo (0 intern), nvidia (404/Workday), mongodb (EMEA only), datadog (0 new), stripe (Masters Toronto), databricks (0 intern), zoom (404), spacex (FTE only), anduril (404)
+- SimplifyJobs New Grad: Loop/Notion/Julius/Sigma/Airtable/Salesforce — all dup v7-v215
+- SpeedyApply SWE: Axway (dup v164), Resolve Tech R1221 (SAP negative keyword), NVIDIA/Aptiv/Altom/Axiomatic AI/KBR/Leidos all dup v189+
+- SpeedyApply AI: Adobe/Pinterest PhD/Schonfeld HR/Cerebras/Lattice Semi — all dup v183-v215
+- Lever Fall 2026: Center for AI Safety (dup v7+v203), Hermeus (dup v7 aerospace domain)
+- Ashby Fall 2026: Notion/Zip/Sentry/OpenAI — all dup v208+
+- FDE search: Cresta (dup v171 Canada-only), Ramp (dup v7), Palantir (dup v209)
+
+<!-- === END 2026-04-28 SCAN v216 === -->
+
 <!-- === BEGIN 2026-04-28 SCAN v214 === -->
 <!-- WebSearch: 25+ queries across Ashby/Greenhouse/Lever/Builtin/SimplifyJobs/SpeedyApply SWE+AI/Extern for Summer+Fall 2026+NewGrad; Greenhouse APIs (Twilio/Glean/Intercom confirmed no new intern); SpeedyApply SWE+AI READMEs fully dedup'd; SimplifyJobs dev/README top-30 checked; 4,401-entry history dedup confirmed across all results. 8 genuinely new URLs found; 0 qualifying ≥4.0; Homebase FDE AI-Native (3.8/5) is top find; Dark Wolf/Sezzle/Onapsis/Horace Mann/Globalization Partners all below threshold or skipped. Market FULLY SATURATED at 214 scans. Summer 2026 CONFIRMED CLOSED. Fall 2026 early cycle watch continues. -->
 <!-- 0 qualifying ≥4.0 | 8 new URLs total | 2 pipeline additions -->
