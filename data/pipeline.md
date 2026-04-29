@@ -3868,3 +3868,21 @@ All 181 prior tracked companies re-confirmed; Twilio only new URL (7850821) foun
 - https://job-boards.greenhouse.io/roboforce/jobs/5203723008 — RoboForce AI & Robotics Data Collection Engineer — Milpitas CA; robotics data collection (not intern); FTE role posted on speedyapply; no "intern" in title; skipped_title
 
 <!-- === END 2026-04-29 SCAN v231 === -->
+
+<!-- === BEGIN 2026-04-29 SCAN v232 === -->
+<!-- Sources: Greenhouse APIs (Anthropic/Airtable/Vercel/ArizeAI/Glean — 0 intern/new-grad, all dup v1-v231); 30+ WebSearch queries (Ashby/Greenhouse/Lever Summer2026+Fall2026+SWE+Security+AI+DevOps); speedyapply SWE/AI READMEs (all dup v1-v231); SimplifyJobs latest (all dup); YC WorkAtAStartup (Browser Use/Bud/Pulse/Dex — dup via canonical YC/Ashby URLs); extern.com startup list (all dup); 4,676-entry history dedup; 3 genuinely new URLs (all non-target): Bosch/Quadric (x2) all ~2.0/5; 0 qualifying ≥4.0; EVALUATED Sierra #428 from v231 pipeline. Market SATURATED at 232 scans. -->
+<!-- 0 qualifying ≥4.0 | 0 new pipeline additions | 3 skipped below-threshold -->
+
+## Scan v232 — 2026-04-29
+
+### ✅ Evaluated from v231 Pipeline
+
+- [x] https://jobs.ashbyhq.com/Sierra/8bb2509d-9215-4cb5-8cf1-2bf0dbade6d8 | Sierra | Intern, Agent Development (Summer 2026) | **EVALUATED → Report #428 (4.5/5)** | SF in-person; Bret Taylor + Clay Bavor; agentic arch EXACT match; comp unknown; ⚠️ verify TAMU graduation Dec 2026-Jun 2027
+
+### Skipped — Below Threshold / Non-Target Domain
+
+- https://jobs.smartrecruiters.com/BoschGroup/744000123460947 — Bosch Calibration Process Data Science Intern — Farmington Hills MI; automotive manufacturing domain; ~2.0/5 skipped_score
+- https://apply.workable.com/quadric-dot-i-o-inc/j/369989F805/ — Quadric Software Engineer Intern (Kernels) — Burlingame CA; AI accelerator chip architecture; domain mismatch; ~2.0/5 skipped_score
+- https://apply.workable.com/quadric-dot-i-o-inc/j/4F8EDFF366/ — Quadric Software Engineer Intern (Compiler) — Burlingame CA; ASIC compiler toolchain; domain mismatch; ~2.0/5 skipped_score
+
+<!-- === END 2026-04-29 SCAN v232 === -->
