@@ -1,5 +1,15 @@
 # Pipeline -- Pending URLs
 
+<!-- === BEGIN 2026-04-29 SCAN v228 === -->
+<!-- Sources: 6 Greenhouse APIs (PolyAI/Parloa/Airtable/Vercel/Glean/Temporal = all 0 intern/new-grad or dup); 25+ WebSearch queries (Fall2026+Summer2026+SWE+Security+AI+DevOps+BigTech+Consulting across Ashby/Greenhouse/Lever); Verkada full API scan (Embedded 5099596007 = dup v195); Verkada new Fall 2026 roles confirmed as only v227 finds (AI #425 + Backend #426); CrowdStrike Workday targeted search (6 known roles all dup; Data Science R26761 = NEW); SpeedyApply/SimplifyJobs latest; 4,655-entry history dedup. RESULT: 3 new URLs (CrowdStrike Data Science R26761 remote ~3.5/5 below threshold; Skyryse 7341596 CLOSED redirect; Databricks New Grad 7640776002 Belgrade non-US). NOTE: CrowdStrike Data & AI Intern (Frisco TX, Jun-Aug, Claude Code+Databricks) confirmed to exist in search results but Workday URL unconfirmed — manual check at crowdstrike.wd5.myworkdayjobs.com recommended (est ~4.0/5 if comp good + willing to temp-relocate). 0 qualifying ≥4.0. Market FULLY SATURATED at 228 scans. -->
+<!-- 0 qualifying ≥4.0 | 3 new URLs total | 1 pipeline addition (below threshold) -->
+
+### Below Threshold — scan-v228 (pending evaluation)
+
+- [ ] https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/usa---remote/data-science-intern---summer-2026--remote-_r26761 | CrowdStrike | Data Science Intern - Summer 2026 (Remote) | ~3.5/5 | Remote US; Jun 1-Aug 14; security data science/ML for threat detection; cybersecurity minor + Python + Finch data pipeline match; comp undisclosed (est $35-50/hr); below threshold but CrowdStrike brand strong; ⚠️ also manually check Workday for "AI Intern" Frisco TX (Claude Code+Databricks, ~4.0/5 if comp good + willing to temp-relocate to Dallas area)
+
+<!-- === END 2026-04-29 SCAN v228 === -->
+
 <!-- === BEGIN 2026-04-29 SCAN v227 === -->
 <!-- Sources: Greenhouse APIs (Anthropic/Airtable/Vercel/ArizeAI/Glean/RunPod/HumeAI/Intercom = all 0 intern/new-grad or dup); 30+ WebSearch queries (Ashby/Greenhouse/Lever Fall2026+Summer2026+NewGrad+Security+AI+DevOps+Consulting+cybersecurity); SimplifyJobs SWE Off-Season README (top-30 entries); SpeedyApply AI top-30; 4,638-entry history dedup. KEY DISCOVERY: Fall 2026 cycle at Verkada has opened 2 NEW qualifying roles both at $55-65/hr + housing. CONSTRAINT: both require Aug 31 start = Fall semester conflict — verify with TAMU advisor before applying. -->
 <!-- 2 qualifying ≥4.0 | 17 new URLs total | 2 pipeline evaluated, 15 skipped -->

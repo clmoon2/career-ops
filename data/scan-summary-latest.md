@@ -1,90 +1,98 @@
-# Portal Scan — 2026-04-29 (v227)
+# Portal Scan — 2026-04-29 (v228)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## Summary
 
-| Metric | Count |
-|--------|-------|
-| Scan version | v227 |
-| Date | 2026-04-29 |
-| History entries before scan | 4,638 |
-| Greenhouse APIs checked | 9 (Anthropic, Airtable, Vercel, ArizeAI, Glean, RunPod, HumeAI, Intercom + Verkada direct) |
-| WebSearch queries run | 30+ |
-| GitHub job boards checked | SimplifyJobs SWE Off-Season, SpeedyApply AI top-30 |
-| Total new URLs discovered | 17 |
-| Qualifying ≥ 4.0 | **2** |
-| Skipped (score < 4.0) | 9 |
-| Skipped (closed/deadline passed) | 3 |
-| Skipped (title mismatch) | 2 |
-| History entries after scan | 4,656 |
+**Scan version:** v228 (228th autonomous scan)  
+**Date:** 2026-04-29  
+**History entries before scan:** 4,655  
+**History entries after scan:** 4,659  
+**Qualifying ≥4.0:** 0  
+**New URLs found:** 3  
+**Pipeline additions:** 1 (below threshold)
 
 ---
 
-## Top Matches (≥ 4.0)
+## Scan Sources Covered
 
-### ⭐ #425 — Verkada | AI Software Engineering Intern - Fall 2026 | **4.2/5**
-- **URL:** https://job-boards.greenhouse.io/verkada/jobs/5117760007
-- **Comp:** $55–65/hr + monthly housing stipend
-- **Dates:** August 31 – December 18, 2026 (on-site San Mateo CA)
-- **Why:** AI+security archetype — builds multimodal AI (video/audio/sensor fusion) for physical security at cloud scale. Carlos's AIPHRODITE computer vision pipeline, Whisper audio processing, and TidalHack anomaly detection are direct matches. Top-quartile intern comp.
-- **⚠️ CONSTRAINT:** Fall 2026 start (Aug 31) conflicts with TAMU Fall semester. Verify gap semester feasibility first.
-- **Action:** Verify semester → apply immediately
+### Greenhouse APIs (6 companies)
+| Company | Listings | Result |
+|---------|----------|--------|
+| PolyAI | 21 | 0 intern/new-grad (all senior FTE) |
+| Parloa | 60 | 0 intern/new-grad (all senior FTE) |
+| Airtable | ~50 | 0 intern/new-grad |
+| Vercel | 86 | 0 intern/new-grad |
+| Glean | 162 | 0 intern/new-grad (SWE Intern 4595665005 = confirmed closed dup) |
+| Temporal | 0 | Empty board |
+| **Verkada (bonus)** | 80+ | Embedded Fall 2026 (5099596007) = dup v195 (Embedded = negative keyword) |
 
-### ✅ #426 — Verkada | Backend Software Engineering Intern - Fall 2026 | **4.0/5**
-- **URL:** https://job-boards.greenhouse.io/verkada/jobs/5099422007
-- **Comp:** $55–65/hr + monthly housing stipend
-- **Dates:** August 31 – December 18, 2026 (on-site San Mateo CA)
-- **Why:** Python/AWS/Docker/PostgreSQL stack — Finch 35K-line Python backend + AWS EC2 blue/green + Docker = direct match for every required tool. Companion application to AI SWE above.
-- **⚠️ CONSTRAINT:** Same Fall semester conflict as #425.
-- **Action:** Apply alongside #425 (different Verkada teams)
-
----
-
-## Skipped This Scan
-
-| Company | Role | Reason |
-|---------|------|--------|
-| Verkada | Frontend SWE Intern Fall 2026 | Frontend-only role, ~3.2/5 |
-| Anthropic | STEM Fellow | PhD required; Carlos is undergrad |
-| Mercury | AI Enablement Intern Fall 2026 | Deadline March 6 2026 — closed |
-| Mercury | Full Stack Intern Fall 2026 | Deadline March 6 2026 — closed |
-| SpaceX | Fall 2026 SWE Co-op | Aerospace domain mismatch |
-| SpaceX | Fall 2026 Engineering Co-op | Aerospace domain mismatch |
-| Aquatic Capital | SWE Intern Summer 2026 | Appears closed (shows Summer 2027 listings) |
-| Impiricus | Backend SWE Intern | $25/hr below comp floor |
-| SPLC | Cybersecurity Fall 2026 | Nonprofit IT helpdesk, ~2.5/5 |
-| Axiomatic AI | AI/Agentic Systems Intern | Master's preferred, no comp disclosed |
-| Axiomatic AI | Platform/DevOps Intern | Master's preferred, no comp disclosed |
-| TikTok | ML Engineer Intern 2026 | PyTorch/JAX ML research focus, ByteDance risk |
-| TMEIC | AI/ML Fall Intern | Manufacturing domain, Roanoke VA |
-| Vital Lyfe | SWE Internship | Health startup, comp unknown, ~2.5/5 |
+### WebSearch Queries (25+)
+- Fall 2026 SWE/Security/AI (Greenhouse/Ashby/Lever) — all confirmed dup v208-v227
+- NVIDIA/Apple/Amazon/Microsoft/Atlassian Fall co-ops — all dup v7-v227 or non-US
+- AI companies (Lambda/Cohere/UnlikelyAI/Pulse/Handshake/BrainCo) — all dup v7-v227
+- Security companies (CrowdStrike/PAN/Wiz/Okta/SentinelOne) — mostly dup; R26761 = NEW
+- Consulting (EY/Celonis/Marshall Wace) — all dup v7-v227
+- New grad 2026 (Loop/Underdog/Notion/Julius) — all dup v7-v227
+- SpeedyApply SWE+AI latest — all dup v222-v227
 
 ---
 
-## APIs Checked (0 new intern/new-grad)
+## New URLs Found
 
-- **Anthropic:** No intern (1 new STEM Fellow, PhD required → skipped_title)
-- **Airtable, Vercel, Arize AI, Glean, RunPod, HumeAI, Intercom:** All mid-senior FTE, 0 intern/new-grad
+| # | URL | Company | Role | Score | Disposition |
+|---|-----|---------|------|-------|-------------|
+| 1 | [R26761](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/usa---remote/data-science-intern---summer-2026--remote-_r26761) | CrowdStrike | Data Science Intern - Summer 2026 (Remote) | ~3.5/5 | **→ pipeline** |
+| 2 | [7341596](https://job-boards.greenhouse.io/skyryse/jobs/7341596) | Skyryse | Software Engineering Intern, AI | N/A | CLOSED (redirect) |
+| 3 | [7640776002](https://www.databricks.com/company/careers/university-recruiting/software-engineering-new-grad-2026-7640776002) | Databricks | New Grad SWE 2026 | N/A | Non-US (Belgrade, Serbia) |
 
 ---
 
-## Market Signal
+## Top Matches (≥4.0)
 
-**Summer 2026 is confirmed CLOSED.** The Fall 2026 cycle is actively opening — Verkada posted 3 new Fall 2026 intern roles this scan. This is the first scan in multiple cycles with genuine ≥4.0 qualifiers.
+**None found in this scan.**
 
-**Critical path:** Both qualifying roles require Fall semester availability (Aug 31 start). Carlos must confirm academic timeline with TAMU to unlock the Fall 2026 cycle.
+---
+
+## Notable Unconfirmed Lead
+
+### CrowdStrike — Data & AI Engineering AI Intern (Summer 2026, Frisco TX)
+
+Confirmed to exist via multiple search results but Workday URL not obtained:
+- **Location:** Frisco, TX — hybrid, 3 days/week on-site (~3 hrs from College Station)
+- **Timeline:** June 1 – August 14, 2026
+- **Stack:** Claude Code, Databricks Platform, Delta Lake, MLflow, AI-assisted pipelines
+- **Constraint:** "Only considering candidates within commutable distance to Frisco, TX — no relocation assistance"
+- **Score estimate:** ~4.0/5 (excellent stack match; location = temp relocation needed; comp TBD)
+- **Action:** Search `crowdstrike.wd5.myworkdayjobs.com` for "AI Intern" listing manually
+
+---
+
+## Pipeline Additions
+
+```
+- [ ] CrowdStrike Data Science Intern (Remote, ~3.5/5) — verify comp before applying
+⚠️  Manually check: CrowdStrike AI Intern Frisco TX (Claude Code+Databricks, est ~4.0/5)
+```
+
+---
+
+## Market Status
+
+**Summer 2026: CONFIRMED CLOSED** across all major companies (228 scans).
+
+**Fall 2026 cycle: ACTIVELY OPENING** — Verkada opened 3 new Fall 2026 roles in v227 today.  
+Expect more Fall 2026 openings in May-June 2026 as companies post for Aug/Sep starts.
 
 ---
 
 ## Recommended Next Actions
 
-1. **TODAY — Verify gap semester** with TAMU academic advisor. Fall 2026 internships start Aug 31.
-2. **Apply to Verkada AI SWE #425** ($55-65/hr + housing, 4.2/5) — priority #1 if semester resolved.
-3. **Apply to Verkada Backend SWE #426** ($55-65/hr + housing, 4.0/5) — alongside #425.
-4. **Review existing pipeline** — Sieve SWE Intern (v221, ~3.9/5), Homebase FDE (v214, ~3.8/5) still pending; verify if open.
-5. **Next scan** — 3-5 days. Fall 2026 cycle is opening. Weekly scans recommended.
+1. **Verify TAMU Fall 2026 semester plan** (gap semester feasibility) → unlocks Verkada AI SWE #425 (4.2/5) + Backend #426 (4.0/5) + OpenAI Fall #409/422 (4.4/5)
+2. **Manually check CrowdStrike Workday** → search "AI Intern" → Frisco TX listing (est ~4.0/5)
+3. **Run `/career-ops pipeline`** → evaluate CrowdStrike Data Science Intern (R26761) comp + fit
+4. **Keep monitoring** — Fall 2026 cycle will accelerate in May 2026; run next scan in 2-3 days
 
 ---
 
-*career-ops update available: v1.1.0 → v1.3.0. Run `node update-system.mjs apply` to update.*
+*Autonomous scan agent — career-ops v228 — 2026-04-29*
