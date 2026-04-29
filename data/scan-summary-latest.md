@@ -1,52 +1,9 @@
-# Portal Scan — 2026-04-29 (v221)
+# Portal Scan — 2026-04-29 (v222)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan:** v221 (autonomous agent)
+**Scan:** v222 (autonomous agent)
 **Date:** 2026-04-29
-**History before scan:** 4,497 entries
-**History after scan:** 4,552 entries
-
----
-
-## Sources Checked
-
-### Greenhouse APIs (Level 2 — structured JSON)
-| Company | Result |
-|---------|--------|
-| Anthropic | 200+ listings; 0 new intern/new-grad; all confirmed dup |
-| Airtable | 41 listings; 0 intern/new-grad; New Grad CLOSED since v9 |
-| Vercel | 86 listings; 0 intern/new-grad; all confirmed dup |
-| Arize AI | 36 listings; all confirmed dup v218; 0 intern/new-grad |
-| Glean | 164 listings; 0 intern/new-grad; all confirmed dup |
-| RunPod | 19 listings; 0 intern/new-grad; all confirmed dup |
-| Hume AI | 8 listings; 0 intern/new-grad; all confirmed dup |
-| Intercom | 150+ listings; 0 intern/new-grad; all confirmed dup |
-| Together AI | 49 listings; SWE intern 5012768007 + Security intern 5012785007 **CONFIRMED CLOSED** (removed from API) |
-
-### WebSearch Queries (Level 3 — 40+ queries)
-- Ashby intern 2026 SWE / backend / fullstack / DevOps
-- Ashby intern 2026 security / cybersecurity / AI/ML
-- Greenhouse intern SWE 2026 summer + fall cycle
-- Greenhouse new grad 2026 SWE / AI / security
-- Greenhouse AI intern / backend 2026
-- Greenhouse security/DevSecOps intern 2026
-- Lever intern 2026 SWE / security / AI
-- Technology consulting intern 2026
-- Built.in new grad SWE AI April 2026
-- SpeedyApply SWE README (latest 0-1d entries)
-- SpeedyApply AI README (latest 0-1d entries)
-- SimplifyJobs Summer2026 README (latest 0-day entries)
-- Sieve AI careers
-
-### SimplifyJobs 0-day Entries Checked
-| Company | Title | Status |
-|---------|-------|--------|
-| AeroVironment | SWE Intern | Aerospace defense — skip |
-| Quadric | SWE Intern (Compiler) | Hardware/compiler domain — skip |
-| Cambium Learning Group | SWE Intern (AI Apps) | Educational tech; low priority |
-| X Development | PhD/Master's Residency | Grad level — skip |
-| **Sieve** | **Software Engineering Intern** | **NEW — added to pipeline** |
-| General Dynamics Mission Systems | SWE Intern | Defense — skip |
+**Candidate:** Carlos Luna-Peña
 
 ---
 
@@ -54,68 +11,100 @@
 
 | Metric | Count |
 |--------|-------|
-| Queries executed | 40+ |
-| Companies/portals scanned | 60+ |
-| Total URLs found (all scans) | ~55 |
-| Confirmed duplicates (v7-v220) | 54 |
-| New URLs found | **1** |
-| Qualifying ≥4.0 | **0** |
-| Added to pipeline | **1** |
+| Greenhouse APIs checked | 10 |
+| WebSearch queries executed | 20+ |
+| GitHub repos checked | SimplifyJobs Summer2026, SpeedyApply SWE, SpeedyApply AI |
+| Companies scanned | 30+ |
+| History entries at start | 4,552 |
+| New URLs found vs history | 1 |
+| Qualifying ≥4.0 | 0 |
+| Added to pipeline | 1 |
 
 ---
 
-## New Listing Found
+## New Listings Found
 
-### → Sieve — Software Engineering Intern
-**URL:** https://jobs.ashbyhq.com/sieve/b319e35e-2455-4c63-ae3d-721bc7dbffc9
-**Score:** ~3.9/5 (borderline — comp unknown; likely 4.2+ if ≥$40/hr)
+### Below Threshold — Pending Comp Verification (~3.9/5)
 
-**Why it matters:**
+| Company | Role | Score | Notes |
+|---------|------|-------|-------|
+| **Sieve** | Applied Research Engineering Intern | ~3.9/5 | YC AI video data lab (Series A); 18 employees; SF on-site; applied research + ML engineering for video AI data pipelines; frontier AI lab clients; **comp TBD → verify first** |
 
-Sieve is the only AI research lab exclusively focused on video data. YC-backed (W22), Series A from Matrix Partners, Swift Ventures, and AI Grant. 18 employees in SF.
+URL: https://jobs.ashbyhq.com/sieve/2298668b-f218-435a-a497-de4fc11c5ac6
 
-**Mission:** Build high-quality video datasets delivered to frontier AI labs (Anthropic, etc.)
-**Tech:** Python (primary), Go/TypeScript (bonus)
-**Work:** Data sourcing, ML filters, data pipelines, QA dashboards — end-to-end ownership
+Same company as Sieve SWE Intern added in v221. Both Sieve roles now in pipeline pending comp verification. If comp ≥$40/hr → likely 4.0+.
 
-**Carlos match:**
-- Python 35K-LOC production backend at Finch ✅
-- Computer vision pipeline at AIPHRODITE (87% accuracy) ✅
-- 7-stage AI pipeline + multi-model orchestration ✅
-- React dashboards ✅
-- Co-founder mentality = thrives in 18-person teams ✅
+---
 
-**Blocker:** Compensation not disclosed. Verify before applying.
-**Action:** Check comp on the role page — if ≥$40/hr, upgrade to 4.2+/5 and apply immediately.
+## Confirmed Closed
+
+| Company | Role | Status |
+|---------|------|--------|
+| Together AI | SWE Intern + Security Intern | CONFIRMED CLOSED (removed from API) |
+| Airtable | Software Engineer New Grad | CONFIRMED CLOSED since v9 |
+
+---
+
+## Platforms Exhausted
+
+- Greenhouse APIs: Anthropic/Airtable/Vercel/ArizeAI/Glean/RunPod/HumeAI/Intercom/Bandwidth/Cloudflare — all confirmed dup v7-v221
+- Ashby: All major companies (Notion/Replit/Sentry/Zip/Delinea/Harvey/Decagon/Benchling/Quora/Ramp/Cohere/ElevenLabs/Vapi/Bland/Crusoe/LangChain/Pinecone/Cohere) — all dup v7-v221
+- Lever: Palantir/Voleon/Artera/Shield AI/Symmetry/Weights & Biases/Mistral — all dup v7-v221
+- ByteDance: All US security/SWE/SRE interns dup v19-v135; AML SRE new = Singapore skip
+- SimplifyJobs/SpeedyApply: All dup v7-v221
 
 ---
 
 ## Market Status
 
-**Summer 2026: CONFIRMED CLOSED** — Together AI SWE + Security interns removed from API
-**Fall 2026 cycle:** OpenAI/Sentry/Zip/Notion/Mercury all in pipeline from v208
-**Scan count:** 221 complete — market fully saturated; only brand-new companies breaking through
+**CONFIRMED SATURATED — 222 scans complete**
+
+Summer 2026: **CLOSED** — all major programs filled or deadlines passed
+Fall 2026: Limited (OpenAI/Notion/Sentry/Zip/Verkada in pipeline — check semester conflicts)
+New Grad 2026: Limited options evaluated
+
+Only fresh finds in past 3 days:
+- v221: Sieve SWE Intern (~3.9/5)
+- v222: Sieve Applied Research Engineering Intern (~3.9/5)
 
 ---
 
-## Active Pipeline (top priorities)
+## Active Pipeline (Top Unevaluated)
 
-| Priority | Company | Role | Score | Notes |
-|----------|---------|------|-------|-------|
-| 1 | **Sieve** | SWE Intern | ~3.9/5 | **NEW today** — verify comp |
-| 2 | Homebase | FDE AI-Native Intern | ~3.8/5 | Hybrid SF; $30-35/hr; FDE archetype |
-| 3 | Cloudflare | SWE Intern Austin TX (7206269) | ~4.0/5 | Borderline — evaluate now |
-| 4 | Cloudflare | AI Automation Intern (7589903) | ~4.0/5 | Borderline — evaluate now |
-| 5 | Cohere | SWE Intern Spring/Summer 2026 | ~3.9/5 | AI/LLM provider; verify US eligibility |
+| Company | Role | Est. Score |
+|---------|------|-----------|
+| Sieve | Software Engineering Intern | ~3.9/5 |
+| Sieve | Applied Research Engineering Intern | ~3.9/5 |
+| Homebase | Forward Deployed Engineering Intern — AI-Native | ~3.8/5 |
+| Affirm | Software Engineering Intern — Summer 2026 | ~3.7/5 |
+| Anyscale | Software Engineer Intern 26' | ~3.6/5 |
+| Klaviyo | Full-Stack Software Engineer Intern — Summer 2026 | ~3.6/5 |
+
+---
+
+## Previously Evaluated Top Matches
+
+| # | Company | Role | Score |
+|---|---------|------|-------|
+| 382 | Replit | Software Engineer — New Grad | 4.5/5 |
+| 124 | Quora/Poe | AI Engineer New Grad | 4.5/5 |
+| 416 | Cerebras | AI Engineering Intern — Growth Team | 4.5/5 |
+| 351 | Harvey | Software Engineering Intern | 4.1/5 |
+| 421 | Datadog | Early Career Software Engineer | 4.0/5 |
+| 422 | Haize Labs | Research Intern | 4.0/5 |
+| 423 | Creatify AI | Software Engineer Intern | 4.0/5 |
+| 384 | Figma | Software Engineer Intern | 4.0/5 |
 
 ---
 
 ## Recommended Next Actions
 
-1. **[TODAY]** Visit Sieve listing and confirm compensation — if ≥$40/hr, apply immediately
-2. **[TODAY]** Evaluate Cloudflare borderline roles (7206269 + 7589903) for full reports
-3. **[ONGOING]** Monitor Fall 2026 cycle — OpenAI/Sentry/Zip/Notion all in pipeline
-4. **[NEXT SCAN]** Run scan v222 in 2-3 days; watch SimplifyJobs 0-day for new companies
-5. **[May 29]** Center for AI Safety Research Intern deadline — already in pipeline from v203
+1. **Verify Sieve comp** — Visit https://jobs.ashbyhq.com/sieve to check pay on both intern roles. If ≥$40/hr, evaluate for full reports (expected 4.0–4.2/5). Strong ML research + engineering match.
 
-→ Run `/career-ops pipeline` to evaluate pending URLs.
+2. **Apply to 4.0+ evaluated roles** — Creatify AI SWE (#423, $40-60/hr), Haize Labs (#422), Datadog (#421), Figma (#384), Harvey (#351) — if not yet applied.
+
+3. **Evaluate Homebase FDE** — Forward Deployed Engineering Intern at an AI-native company is still pending (~3.8/5).
+
+4. **Fall 2026 watch** — OpenAI/Notion/Sentry/Zip/Verkada Fall interns still open. Verify TAMU semester dates before applying (Sep-Dec timeline).
+
+5. **Next scan** — Market saturated. Recommend waiting 5-7 days before v223. Monitor SimplifyJobs/SpeedyApply daily for 0-day additions in the meantime.

@@ -1,5 +1,15 @@
 # Pipeline -- Pending URLs
 
+<!-- === BEGIN 2026-04-29 SCAN v222 === -->
+<!-- Sources: Greenhouse APIs (Anthropic/Airtable/Vercel/ArizeAI/Glean/RunPod/HumeAI/Intercom/Bandwidth/Cloudflare all confirmed dup or no intern/new-grad; Together AI SWE+Security CONFIRMED CLOSED from API); 20+ WebSearch queries (Ashby/Greenhouse/Lever SWE+Security+AI+ML+DevOps+Consulting+intern+new-grad+Fall2026+new-grad+ByteDance+Sieve); SimplifyJobs Summer2026 README + SpeedyApply SWE + SpeedyApply AI READMEs (all prior entries dup v7-v221; only Sieve x2 new); ByteDance latest (AML SRE Singapore skip; all other roles dup v19-v135); 4,552-entry history fully dedup'd. RESULT: 1 genuinely new URL (Sieve Applied Research Engineering Intern, ~3.9/5 borderline, same company as v221 SWE intern). 0 qualifying ≥4.0. Market FULLY SATURATED at 222 scans. -->
+<!-- 0 qualifying ≥4.0 | 1 new URL | 1 pipeline addition -->
+
+### Below Threshold — scan-v222 (pending comp verification)
+
+- [ ] https://jobs.ashbyhq.com/sieve/2298668b-f218-435a-a497-de4fc11c5ac6 | Sieve | Applied Research Engineering Intern | ~3.9/5 | SF on-site; comp TBD (same Series A YC startup as SWE intern b319e35e); applied research + engineering for AI video data pipelines; strong ML research match (TidalHack XGBoost/SHAP/AutoGen; Finch multi-model AI); different role from SWE intern; verify comp first (if ≥$40/hr → likely 4.0+)
+
+<!-- === END 2026-04-29 SCAN v222 === -->
+
 <!-- === BEGIN 2026-04-29 SCAN v221 === -->
 <!-- Sources: 9 Greenhouse APIs (Anthropic/Airtable/Vercel/ArizeAI/Glean/RunPod/HumeAI/Intercom/TogetherAI — all confirmed dup or no intern); 40+ WebSearch queries across Ashby/Greenhouse/Lever/SimplifyJobs/SpeedyApply SWE+AI READMEs (SWE+Security+AI+ML+DevOps+Consulting+intern+new-grad+Fall2026); 4,497-entry history fully dedup'd. RESULT: 1 genuinely new URL (Sieve SWE Intern, ~3.9/5 borderline). 0 qualifying ≥4.0. Market FULLY SATURATED at 221 scans. SimplifyJobs showed Sieve (YC AI video lab, 18 ppl, Series A) as 0-day new posting today 2026-04-29. -->
 <!-- 0 qualifying ≥4.0 | 1 new URL total | 1 pipeline addition -->
