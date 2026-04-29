@@ -1,8 +1,8 @@
-# Portal Scan Summary — 2026-04-29 (v224)
+# Portal Scan Summary — 2026-04-29 (v225)
 
 **Date:** 2026-04-29
-**Scan Number:** v224
-**Previous scan:** v223 (2026-04-29, earlier run same day)
+**Scan Number:** v225
+**Previous scan:** v224 (2026-04-29, earlier run same day — found Etched ~3.8/5 + Skydio ~3.0/5)
 
 ---
 
@@ -10,97 +10,74 @@
 
 | Metric | Count |
 |--------|-------|
-| Greenhouse APIs scanned | 9 (Anthropic, Airtable, Vercel, Intercom, Glean, Temporal, HumeAI, ArizeAI, RunPod) |
-| WebSearch queries run | 25+ |
-| GitHub tracking repos checked | 2 (zapplyjobs/Internships-2026, speedyapply/2026-AI-College-Jobs) |
-| Total URLs dedup-checked vs history | 50+ |
-| History entries at scan start | 4,598 |
-| History entries after scan | 4,623 |
-| New companies discovered | 2 (Etched, Skydio) |
-| New URLs added to pipeline | 6 |
+| Greenhouse APIs scanned | 5 (Anthropic, Airtable, Vercel, ArizeAI, Glean) |
+| WebSearch queries run | 30+ |
+| GitHub tracking repos checked | 2 (speedyapply/2026-AI-College-Jobs, speedyapply/2026-SWE-College-Jobs) |
+| Total URLs dedup-checked vs history | 80+ |
+| History entries at scan start | 4,623 |
+| History entries after scan | 4,627 |
+| Genuinely new URLs found | 3 |
+| New URLs added to pipeline | 0 |
 | **Reports written (≥4.0)** | **0** |
 
 ---
 
 ## New Listings Found
 
-### Below Threshold — Added to Pipeline
+### All Below Threshold — Skipped
 
-| Company | Role | Score | URL | Details |
-|---------|------|-------|-----|---------|
-| **Etched** | Infrastructure Intern | ~3.8/5 | [Link](https://jobs.ashbyhq.com/etched/1b073af4-6764-45ca-a22d-40a4823f0877) | San Jose CA; 12w Jun-Aug 2026 + housing stipend; AI ASIC chip startup ($120M+); Python/DevOps/CI-CD/Linux exact match; verify comp before applying |
-| Skydio | Autonomy Eng Intern - Deep Learning (Comp. Photo.) | ~3.0/5 | [Link](https://jobs.ashbyhq.com/skydio/d13e3179-e646-4873-84a6-d492a692bc25) | San Mateo CA; $47/hr; HDR/super-res for drones; domain mismatch |
-| Skydio | Autonomy Eng Intern - Summer 2026 | ~3.0/5 | [Link](https://jobs.ashbyhq.com/skydio/17f6173b-c96f-4b02-a6b5-da0a91ad95e5) | San Mateo CA; $47/hr; companion listing |
-| Skydio | Autonomy Eng Intern | ~3.0/5 | [Link](https://jobs.ashbyhq.com/skydio/6280ab1d-147d-4f39-8618-a216c18ce0f9) | San Mateo CA; $47/hr; CV/DL track |
-| Skydio | Autonomy Eng Intern - CV/DL | ~3.0/5 | [Link](https://job-boards.greenhouse.io/skydio/jobs/4255866003) | Greenhouse board; same domain |
-| Skydio | Autonomy Eng Intern - CV/DL | ~3.0/5 | [Link](https://job-boards.greenhouse.io/skydio/jobs/7498519003) | Greenhouse board; companion |
-
-### Skipped
-
-| Company | Role | Reason |
-|---------|------|--------|
-| Five Rings | Winter Intern 2027 Quant Trader | Wrong role + wrong timing (Winter 2027) |
-| Hermeus | Flight SWE Intern (Mission Systems) | Aerospace embedded domain |
-| Warp | Forward Deployed Engineer | FTE not intern |
-| Tenex Labs | Forward Deployed AI Engineer | FTE not intern |
-| Lyra Technology | Forward Deployment AI Engineer | FTE not intern |
-| Avoca | Forward Deployed Engineer | FTE not intern |
-| Genesis Molecular AI | ML Research Intern | Biotech/drug discovery, PhD/MS focus |
-| Genies | ML Engineer Intern 3D GenAI | Q1 2026 timing PASSED |
-| Perplexity | Search ML Engineer Intern | Belgrade Serbia — EU location |
+| Company | Role | Score | URL | Reason |
+|---------|------|-------|-----|--------|
+| TikTok | LLM Post-training Engineer Intern (Summer 2026) | ~3.0/5 | [Link](https://lifeattiktok.com/search/7631599293708126517) | ML research-heavy (RLHF/fine-tuning); ByteDance parent risk; stack mismatch |
+| TikTok | Software Engineer Project Intern (Content AI Infrastructure) | ~2.5/5 | [Link](https://lifeattiktok.com/search/7621299118434961669) | C++/Kafka/Flink infrastructure; ByteDance parent risk |
+| General Dynamics Mission Systems | Software Engineer Intern | ~2.0/5 | [Link](https://careers-gdms.icims.com/jobs/72240/software-engineer---intern/job) | Defense contractor; Fort Wayne IN on-site; clearance likely required |
 
 ---
 
-## Coverage
+## Sources Checked
 
-**Greenhouse APIs (all confirmed 0 intern/new-grad this run):**
-- Anthropic: Fellows deadlines passed April 26; STEM Fellow PhD-only; 0 new qualifying
-- Airtable, Vercel, Intercom, Glean: 0 intern/new-grad; all senior FTE
-- Temporal: Board empty (0 listings)
-- HumeAI, ArizeAI, RunPod: 0 intern/new-grad
+### Greenhouse APIs (0 new intern/new-grad)
+- Anthropic: Fellows Program only (all dup v7+)
+- Airtable: 0 intern/new-grad (senior FTE only)
+- Vercel: 0 intern (SE Agent/AI Gateway/CDN Security all FTE)
+- ArizeAI: 0 intern (AI Solutions Engineer/AI PM all FTE)
+- Glean: 0 intern (SE + ML FTE only)
 
-**Companies confirmed saturated (2-29 hits in history):**
-- CrowdStrike (29 hits), Palo Alto Networks (12), Datadog (17), SentinelOne, Wiz, Ema (5), Tevora (9)
-- Cerebras AI Eng Intern (evaluated #416 v186), BrainCo (10), Lambda (10), Handshake (12)
-- Harvey (7), Replit (10), Zip new-grad (2), Scale AI new-grad (6), Together AI (3)
-- Cloudflare (8-12 hits per listing), PDT Partners (6-11), Ramp (11), Notion (9-11)
+### WebSearch Queries (all dup v7–v224)
+- Ashby: intern 2026 SWE/Security/AI/Backend — all dup (Notion/Zip/Sentry/OpenAI/Cohere/Farsight/Whatnot/Harvey/Decagon confirmed)
+- Greenhouse: intern 2026 SWE/Security/AI — all dup (Cloudflare/Verkada/Mercury/Together AI CLOSED)
+- Lever: intern 2026 SWE/Security/AI — all dup (Shield AI/Symmetry/Tevora/Voleon/Artera/Rigetti confirmed)
+- Cybersecurity focus: MITRE (closed/dup), Booz Allen (defense/dup), Wiz/CrowdStrike/PAN/SentinelOne (no intern boards found)
+- Consulting: Big 4 closed for Summer 2026; Fall 2027 recruiting opens Aug-Sep 2026
+- FDE/new-grad: Palantir/Promise/Northslope/Ramp all dup v7+
+- TikTok lifeattiktok: 2 genuinely new URLs (both below threshold)
 
-**GitHub repos:** zapplyjobs/Internships-2026 (902 listings — all known or FTE FDE); speedyapply/2026-AI-College-Jobs (Cerebras dup, Skydio new)
-
----
-
-## Top Recommended Action
-
-### Etched Infrastructure Intern (~3.8/5)
-
-**What Etched does:** Builds transformer-only ASIC chips for AI inference. Backed by $120M+, founded by Apple chip veterans. Infrastructure role = building CI/CD tooling so chip engineers can iterate faster.
-
-**Why Carlos is a match:**
-- Python + DevOps + CI/CD: production blue/green on AWS EC2 with ALB, ECR, GitHub Actions × 5 workflows
-- Docker + Linux: containerized multi-service deployment, nginx, systemd
-- Infrastructure tooling: built 5 GitHub Actions workflows, automated smoke testing, sub-second rollback
-- Small team pace: co-founded Finch from scratch, 6-person team lead
-
-**Action:** Visit [the listing](https://jobs.ashbyhq.com/etched/1b073af4-6764-45ca-a22d-40a4823f0877), confirm compensation (expect $40-60/hr; housing stipend confirmed). If comp ≥$33/hr → full evaluation → apply.
+### GitHub Aggregators
+- SpeedyApply 2026-SWE: GDMS 72240 (new but defense/clearance); HERE 81213 (dup v223); Calix (dup v223); Cognex (non-target)
+- SpeedyApply 2026-AI: Homebase/Cambridge MT/DarkWolf/Cerebras/Lattice Semi — all dup v214+
+- SimplifyJobs Summer2026: Remedy Scientific/Quadric/Cambium/AeroVironment — all non-target or dup
 
 ---
 
-## Market Assessment
+## Market Status
 
-**Status: CONFIRMED SATURATED (224 scans)**
+**FULLY SATURATED — 225 scans total (Day 3 of late-cycle 2026-04-29)**
 
-Summer 2026 intern cycle is closed. Fall 2026 cycle is the active frontier. New finds come from:
-1. **Non-standard hardware/chip startups** (Etched, Atomic Semi in v223)
-2. **Drone/robotics companies** with specialized CV/DL roles (Skydio)
-3. **Emerging AI startups** with fresh funding rounds
-
-**Next scan timing:** Resume in 3-5 days (May 2-4 2026) when Fall 2026 wave accelerates. Companies that typically post Fall cycles in May: Stripe, GitHub, Coinbase, Block, Benchling, major fintech.
+- Summer 2026: CONFIRMED CLOSED across all major platforms
+- Fall 2026: Cycle still early — most Fall 2026 openings are same ones since v7 (Notion/OpenAI/Sentry/Zip/Verkada)
+- Key pending items in pipeline:
+  - Atomic Semi Full Stack SWE Intern (report #424, 4.0/5) — apply immediately; Sept start requires gap semester decision
+  - Atomic Semi Infrastructure Intern (3.7/5) — apply if FS role unavailable
+  - Atomic Semi SRE Intern (3.7/5) — companion listing
+  - Etched Infrastructure Intern (3.8/5, v224) — verify comp first
+  - Sieve SWE Intern (3.9/5, v221) — verify comp first ($40+/hr threshold)
+  - Sieve Applied Research Intern (3.9/5, v222) — verify comp first
 
 ---
 
 ## Recommended Next Actions
 
-1. **Verify Etched comp** → if ≥$33/hr, do full `/career-ops oferta` evaluation and apply
-2. **Apply to Atomic Semi #424** (from v223, 4.0/5, $52-63/hr, Rust+Python+React match) — September start requires gap semester planning
-3. **CAIS deadline May 29** → Research Engineer Intern #420 deadline approaching; apply if not done
-4. **Process pipeline** → `/career-ops pipeline` on Atomic Semi Infrastructure + SRE listings from v223 (867c67f7, ad818171)
+1. **APPLY NOW**: Atomic Semi Full Stack SWE Intern (#424, 4.0/5) — gaps in Fall 2026 calendar should be discussed with admissions before applying
+2. **Verify comp**: Sieve SWE + Applied Research Interns (both 3.9/5) — comp not disclosed; if ≥$40/hr → likely 4.0+; run `/career-ops pipeline` to evaluate
+3. **Verify comp**: Etched Infrastructure Intern (3.8/5, v224) — comp not disclosed for well-funded AI chip company
+4. **Market status**: No new Summer 2026 roles remaining. Fall 2026 cycle is early — check again in May 2026 when new Fall postings typically open

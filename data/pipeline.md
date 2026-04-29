@@ -3793,3 +3793,17 @@ All 181 prior tracked companies re-confirmed; Twilio only new URL (7850821) foun
 - [ ] https://job-boards.greenhouse.io/skydio/jobs/7498519003 | Skydio | Autonomy Engineer Intern - Computer Vision/Deep Learning | San Mateo CA; Greenhouse board; companion listing; (~3.0/5 — below threshold)
 
 <!-- === END 2026-04-29 SCAN v224 === -->
+
+<!-- === BEGIN 2026-04-29 SCAN v225 === -->
+<!-- Sources: 5 Greenhouse APIs (Anthropic/Airtable/Vercel/ArizeAI/Glean — all 0 intern, confirmed dup v7-v224); 30+ WebSearch queries (Ashby/Greenhouse/Lever SWE+Security+AI+DevOps+FDE+cybersecurity+consulting+MITRE+BoozAllen — all dup v7-v224); SpeedyApply SWE/AI READMEs (GDMS 72240 new but defense/clearance; all others dup); SimplifyJobs today (Remedy/Quadric/Cambium non-target or dup); TikTok lifeattiktok board (2 new URLs: LLM Post-training 7631599 + Content AI Infra 7621299 — both ByteDance concern + below-threshold); 4,623-entry history fully dedup'd. RESULT: 3 genuinely new URLs; 0 qualifying ≥4.0. Market FULLY SATURATED at 225 scans. -->
+<!-- 0 qualifying ≥4.0 | 0 pipeline additions | 3 skipped below-threshold -->
+
+## Scan v225 — 2026-04-29
+
+### Skipped — Below Threshold
+
+- https://lifeattiktok.com/search/7631599293708126517 — TikTok LLM Post-training Engineer Intern (Summer 2026) — San Jose CA; $45/hr; PyTorch/JAX LLM fine-tuning, RLHF, distributed training (DeepSpeed/Megatron); ML research-heavy focus; ByteDance parent company risk; ~3.0/5 skipped_score (stack mismatch: research-tier ML vs application-layer AI)
+- https://lifeattiktok.com/search/7621299118434961669 — TikTok Software Engineer Project Intern (Content AI Infrastructure) - 2026 Start — San Jose CA; $45/hr; C++/Python/Kafka/Flink/GPU systems infrastructure; C++ heavy stack mismatch; ByteDance parent company risk; ~2.5/5 skipped_score
+- https://careers-gdms.icims.com/jobs/72240/software-engineer---intern/job — General Dynamics Mission Systems Software Engineer Intern — Fort Wayne IN on-site; defense contractor; security clearance eligibility likely required; domain mismatch; ~2.0/5 skipped_score
+
+<!-- === END 2026-04-29 SCAN v225 === -->
