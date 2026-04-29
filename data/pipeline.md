@@ -3776,3 +3776,20 @@ All 181 prior tracked companies re-confirmed; Twilio only new URL (7850821) foun
 - [ ] https://jobs.ashbyhq.com/atomicsemi/ad818171-c80f-4116-85f5-50d212a61fb0 | Atomic Semi | SRE & Infrastructure Software Engineering Intern | SF on-site; $52-63/hr; Rust/Go/Linux/systemd/monitoring; companion to 867c67f7; (~3.7/5 — same concerns as above)
 
 <!-- === END 2026-04-29 SCAN v223 === -->
+
+<!-- === BEGIN 2026-04-29 SCAN v224 === -->
+<!-- Sources: Greenhouse APIs (Anthropic=all Fellows closed/dup; Airtable/Vercel/Intercom/Glean/Temporal/HumeAI/ArizeAI/RunPod — 0 intern/new-grad); 25+ WebSearch queries (Ashby/Greenhouse/Lever SWE+Security+AI+DevOps+intern+new-grad); GitHub zapplyjobs/Internships-2026 + speedyapply/2026-AI-College-Jobs READMEs; cybersecurity-specific (CrowdStrike/PAN/Ema/Tevora — all in history 3-29 hits); consulting (Big4 apps closed for 2026); 50+ URL dedup checks against 4,598-entry history; NEW companies: Etched (AI chip infra intern — 0 hits) + Skydio (drone autonomy intern — 5 URLs all 0 hits); FDE roles (Warp/Tenex/Lyra/Avoca — FTE not intern, skip); Five Rings Winter 2027 (wrong timing); Hermeus Flight SWE (aerospace embedded, skip); 0 qualifying ≥4.0 this scan. Market SATURATED. -->
+<!-- 0 qualifying ≥4.0 | 6 new pipeline additions -->
+
+## Scan v224 — 2026-04-29
+
+### New Listings — Below Threshold (Pipeline for later evaluation)
+
+- [ ] https://jobs.ashbyhq.com/etched/1b073af4-6764-45ca-a22d-40a4823f0877 | Etched | Infrastructure Intern | San Jose CA; 12w June-Aug 2026; housing stipend; infrastructure tooling for AI transformer ASIC chip company; Python/DevOps/CI-CD/Linux exact match (blue/green CI/CD, GitHub Actions, Docker, AWS); DevOps archetype secondary; comp unknown (well-funded $120M+); (~3.8/5 — strong infra match, verify comp before applying)
+- [ ] https://jobs.ashbyhq.com/skydio/d13e3179-e646-4873-84a6-d492a692bc25 | Skydio | Autonomy Engineer Intern - Deep Learning (Computational Photography) | San Mateo CA; $47/hr undergrad; deep learning for HDR/super-resolution/denoising on drone camera system; Python/ML match but computational photography domain mismatch; no drone-specific exp; (~3.0/5 — below threshold, keep for reference)
+- [ ] https://jobs.ashbyhq.com/skydio/17f6173b-c96f-4b02-a6b5-da0a91ad95e5 | Skydio | Autonomy Engineer Intern - Summer 2026 | San Mateo CA; $47/hr; companion to d13e3179; deep learning autonomy for drones; domain mismatch; (~3.0/5 — below threshold)
+- [ ] https://jobs.ashbyhq.com/skydio/6280ab1d-147d-4f39-8618-a216c18ce0f9 | Skydio | Autonomy Engineer Intern | San Mateo CA; $47/hr; similar to above; drone CV/DL; (~3.0/5 — below threshold)
+- [ ] https://job-boards.greenhouse.io/skydio/jobs/4255866003 | Skydio | Autonomy Engineer Intern - Computer Vision/Deep Learning | San Mateo CA; Greenhouse board; CV/DL for autonomous drones; same domain mismatch; (~3.0/5 — below threshold)
+- [ ] https://job-boards.greenhouse.io/skydio/jobs/7498519003 | Skydio | Autonomy Engineer Intern - Computer Vision/Deep Learning | San Mateo CA; Greenhouse board; companion listing; (~3.0/5 — below threshold)
+
+<!-- === END 2026-04-29 SCAN v224 === -->
