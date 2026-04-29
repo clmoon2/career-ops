@@ -1,5 +1,15 @@
 # Pipeline -- Pending URLs
 
+<!-- === BEGIN 2026-04-29 SCAN v221 === -->
+<!-- Sources: 9 Greenhouse APIs (Anthropic/Airtable/Vercel/ArizeAI/Glean/RunPod/HumeAI/Intercom/TogetherAI — all confirmed dup or no intern); 40+ WebSearch queries across Ashby/Greenhouse/Lever/SimplifyJobs/SpeedyApply SWE+AI READMEs (SWE+Security+AI+ML+DevOps+Consulting+intern+new-grad+Fall2026); 4,497-entry history fully dedup'd. RESULT: 1 genuinely new URL (Sieve SWE Intern, ~3.9/5 borderline). 0 qualifying ≥4.0. Market FULLY SATURATED at 221 scans. SimplifyJobs showed Sieve (YC AI video lab, 18 ppl, Series A) as 0-day new posting today 2026-04-29. -->
+<!-- 0 qualifying ≥4.0 | 1 new URL total | 1 pipeline addition -->
+
+### Below Threshold — scan-v221 (pending comp verification)
+
+- [ ] https://jobs.ashbyhq.com/sieve/b319e35e-2455-4c63-ae3d-721bc7dbffc9 | Sieve | Software Engineering Intern | ~3.9/5 | SF on-site; comp TBD (Series A YC startup, 18 ppl); Python data pipelines + ML filters for video AI datasets; frontier AI lab clients; strong stack + culture match → verify comp first (if ≥$40/hr → likely 4.2+)
+
+<!-- === END 2026-04-29 SCAN v221 === -->
+
 <!-- === BEGIN 2026-04-28 SCAN v219 === -->
 <!-- Sources: 10 Greenhouse APIs (Anthropic/Airtable/Vercel/ArizeAI/Glean/RunPod/HumeAI/Intercom/TogetherAI/Temporal); 15+ WebSearch queries (Ashby intern 2026/Greenhouse new-grad/Lever intern/security+AI/SpeedyApply AI 0d/NVIDIA Fall 2026/cybersecurity 2026); 4,485-entry history fully dedup'd (includes v218 entries: Anyscale/Affirm/Klaviyo below-threshold). RESULT: 2 genuinely new URLs (both below threshold). 0 qualifying ≥4.0. KEY STATUS: Together AI intern roles CONFIRMED CLOSED from API. Market FULLY SATURATED at 219 scans. -->
 <!-- 0 qualifying ≥4.0 | 2 new URLs total | 0 pipeline additions -->
