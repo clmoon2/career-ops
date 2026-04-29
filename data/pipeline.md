@@ -3843,3 +3843,28 @@ All 181 prior tracked companies re-confirmed; Twilio only new URL (7850821) foun
 - https://careers-gdms.icims.com/jobs/72240/software-engineer---intern/job — General Dynamics Mission Systems Software Engineer Intern — Fort Wayne IN on-site; defense contractor; security clearance eligibility likely required; domain mismatch; ~2.0/5 skipped_score
 
 <!-- === END 2026-04-29 SCAN v225 === -->
+
+<!-- === BEGIN 2026-04-29 SCAN v231 === -->
+<!-- Sources: 20+ WebSearch queries (Ashby/Greenhouse/Lever Fall2026+Summer2026+NewGrad+Security+AI+DevOps+intern); Greenhouse APIs (HumeAI/RunPod/Glean/Mercury — 0 intern/new-grad active); speedyapply/2026-AI-College-Jobs README (0-1d entries); Simplify AI top startups; security company sweep (Wiz/SentinelOne/PAN — 0 new intern); 4,667-entry history fully dedup'd; consulting deadlines confirmed passed; 8 genuinely new URLs: 3 added to pipeline, 5 skipped. Sierra Agent Development intern is the KEY find. -->
+<!-- 1 qualifying ≥4.0 | 3 pipeline additions | 5 skipped -->
+
+## Scan v231 — 2026-04-29
+
+### ⭐ Top Match (Potential ≥4.0)
+
+- [ ] https://jobs.ashbyhq.com/Sierra/8bb2509d-9215-4cb5-8cf1-2bf0dbade6d8 | Sierra | Intern, Agent Development (Summer 2026) | SF on-site (in-person); founded by Bret Taylor (ex-CEO Salesforce) + Clay Bavor (ex-VP Google); "build autonomous AI agents for enterprise" — agentic archetype EXACT match; graduating Dec 2026-Jun 2027 → Carlos eligible; $175M+ funded; comp unknown; (~4.0-4.2/5 — evaluate immediately, verify comp + location policy)
+
+### New Listings — Below Threshold (Pipeline for later evaluation)
+
+- [ ] https://jobs.ashbyhq.com/Crusoe/e21bb802-1292-476a-8d25-d1ebf18d035a | Crusoe | Product Security Applied AI Intern (Summer 2026) | SF Bay Area in-person; GPU cloud for AI, $700M Series D; "custom agents, LLMs, cloud workflows, security tradecraft"; Python/agents/security minor + Finch pipeline exact match; 12 weeks; graduating Fall 2026-Spring 2027; comp unknown; (~3.8/5 — security+AI archetype match, verify comp)
+- [ ] https://job-boards.greenhouse.io/rocketlawyer/jobs/5203906008 | Rocket Lawyer | Data Engineering Intern - AI & Automation (Summer 2026) | Remote (CA/AZ/CO/NC/UT); $40-50/hr; Jun 8-Aug 14 2026; Python/SQL/Snowflake/Airflow/Docker/K8s; legal tech domain; 10 weeks; (~3.0/5 — below threshold, remote+comp ok but legal domain mismatch)
+
+### Skipped — Closed / Score / Title
+
+- https://job-boards.greenhouse.io/mercury/jobs/5817113004 — Mercury Frontend Engineering Intern (Fall 2026) — Mercury API confirms no active intern track; application window closed (same pattern as 5817107004/5817004004 deadline March 6 2026); skipped_closed
+- https://job-boards.greenhouse.io/billiontoone/jobs/4689943005 — BillionToOne Data Science and AI Intern (Summer 2026) — Menlo Park CA; biotech genomics company; DNA sequencing domain mismatch; ~2.0/5 skipped_score
+- https://jobs.lever.co/nationaljournal/45962b5c-6eb3-4760-80ed-7a48ab391335 — National Journal AI & Automation Research Intern — Washington DC on-site; policy media company (not a tech startup); ~2.0/5 skipped_score
+- https://jobs.lever.co/nationaljournal/47332c3e-1eed-4004-8071-39a9895700e1 — National Journal Policy Data & AI Intern — Washington DC on-site; policy media domain; ~2.0/5 skipped_score
+- https://job-boards.greenhouse.io/roboforce/jobs/5203723008 — RoboForce AI & Robotics Data Collection Engineer — Milpitas CA; robotics data collection (not intern); FTE role posted on speedyapply; no "intern" in title; skipped_title
+
+<!-- === END 2026-04-29 SCAN v231 === -->
