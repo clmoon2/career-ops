@@ -1,91 +1,76 @@
-# Portal Scan — 2026-04-29 (v229)
+# Portal Scan — 2026-04-29 (v230)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan number:** 229
+**Scan version:** v230 (autonomous agent)
 **Date:** 2026-04-29
-**Agent:** Autonomous scan agent
+**History size at start:** 4,664 entries (v229)
 
----
+## Execution Summary
 
-## Summary
+| Level | What was checked | Result |
+|-------|-----------------|--------|
+| Greenhouse APIs | Anthropic (STEM Fellow PhD req), Glean (all FTE senior) | 0 new qualifying |
+| Ashby companies | Cohere, Pinecone, LangChain, ElevenLabs, Vapi, Bland, Sierra, Decagon, n8n, Zapier, Attio, Tinybird, TravelPerk, Perplexity | All confirmed dup v7–v229 |
+| Lever companies | Palantir, Weights & Biases, Mistral AI, Clarity AI | All confirmed dup v7–v229 |
+| WebSearch queries | 35+ across Ashby/Greenhouse/Lever — Fall 2026, Summer 2026, New Grad, Security, AI/ML, DevOps, Consulting | All confirmed dup except 2 new |
+| GitHub repos | speedyapply/2026-SWE-College-Jobs (0–5d entries), zapplyjobs/Internships-2026, YC internships | All dup or non-target |
+| Security companies | CrowdStrike, Palo Alto Networks, SentinelOne, Wiz, Adobe Product Security | All confirmed dup |
+| Consulting | Big 4 (apps open Aug–Sep 2026), MBB (deadlines passed Mar–Apr 2026) | Not applicable now |
+
+## Results
 
 ```
-Portal Scan — 2026-04-29
-━━━━━━━━━━━━━━━━━━━━━━━━━━
-Sources scanned:       25+
-Queries executed:      20+ WebSearch + 6 Greenhouse APIs + 3 direct fetches
-History entries:       4,660 (pre-scan)
-New URLs found:        3
-Filtered (dup):        All others (market CONFIRMED SATURATED at 229 scans)
-Qualifying ≥4.0:       1
-New pipeline entries:  3 (1 evaluated + 2 below threshold)
+Queries executed:      35+
+Companies covered:     25+ from portals.yml (all major ones)
+Offers found total:    2
+Filtered (below 4.0):  2
+Duplicates (dedup'd):  100+
+New added to pipeline: 0
+Qualifying >=4.0:      0
+New reports written:   0
 ```
 
----
-
-## New Listings Found
-
-### ✅ Evaluated (≥4.0) — Apply if graduation timing confirmed
-
-| Company | Role | Score | Report | Notes |
-|---------|------|-------|--------|-------|
-| **Notion** | Software Engineer, New Grad (AI) | **4.0/5** | [#427](reports/427-notion-swe-new-grad-ai-2026-04-29.md) | SF hybrid; $126-146K+equity; AI team (LLM features + eval); TypeScript/Python/Claude Code exact match; ⚠️ FTE start by **Jul 27, 2026** — VERIFY GRADUATION DATE |
-
-### 📋 Below Threshold — Added to pipeline
+## New URLs Found (Below Threshold)
 
 | Company | Role | Score | URL | Notes |
 |---------|------|-------|-----|-------|
-| Twitch | Undergrad SWE Intern | ~3.8/5 | [Link](https://job-boards.greenhouse.io/twitch/jobs/8174019002) | SF on-site; $42.5-88.94/hr; Jun 2026; Winter 2026/Spring 2027 grad; Amazon subsidiary; gaming domain |
-| Aledade | Security Engineering Intern | ~3.3/5 | [Link](https://jobs.lever.co/aledade/53b2340f-db00-4188-93bd-ce039045130d) | Remote; 10wks Jun 1-Aug 7; SIEM/EDR/AI detection; cybersecurity minor match; comp undisclosed |
+| Moloco | Data Science Intern (Summer 2026) | ~3.0/5 | [greenhouse](https://job-boards.greenhouse.io/moloco/jobs/7472531003) | Ad-tech ML (ranking/retrieval/auction); Menlo Park/Seattle on-site; comp $8,600-10,400/12 weeks (ambiguous); domain mismatch |
+| Intel | AI Software Engineering Intern | ~2.5/5 | [workday](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | Hillsboro OR on-site; semiconductor/hardware AI; Intel restructuring concerns |
 
----
+## Market Status
 
-## Sources Checked
+**FULLY SATURATED** — 230 scans since 2026-04-05. Summer 2026 internship cycle is confirmed closed. Fall 2026 cycle has limited openings already captured in pipeline. Next new wave: Summer 2027 cycle opens Aug–Sep 2026.
 
-| Source | Result |
-|--------|--------|
-| SpeedyApply 2026-SWE-College-Jobs | All dup v221-v228 |
-| SpeedyApply 2026-AI-College-Jobs | All dup (Cerebras AI Eng = #416 dup) |
-| SimplifyJobs New Grad README | All dup v172-v228 |
-| Greenhouse API: earlytalentcerebras | 5 roles, all dup v179-v186 |
-| Greenhouse API: Twitch board | **NEW**: 8174019002 Undergrad SWE Intern |
-| CrowdStrike Workday full rescan | 10 roles, all dup v197-v228 |
-| Cohere/LangChain/Pinecone Ashby | All dup v208+ |
-| Lever broad (security/AI/Fall2026) | **NEW**: Aledade 53b2340f Security Eng |
-| Ashby Notion board | **NEW**: 7e6dc7fe New Grad (AI) |
-| ByteDance/TikTok security | All dup v19-v225 |
-| Greenhouse Fall 2026 broad | Verkada dup v227; Mercury closed; HP IQ dup |
+## Data Integrity Note
 
----
+Reports **#421–#427** are referenced in scan-history.tsv (from scans v207–v229) and marked as evaluated in pipeline.md, but the corresponding `.md` files do **not exist** in `reports/`. Most recent confirmed report file: `420-vapi-backend-product-engineer-2026-04-27.md`.
 
-## Key Findings & Context
+Affected evaluations (referenced but files missing):
+- #421 — Datadog Early Career (4.0/5)
+- #424 — Atomic Semi Full Stack SWE Fall 2026 (4.0/5)
+- #425 — Verkada AI SWE Intern Fall 2026 (4.2/5)
+- #426 — Verkada Backend SWE Intern Fall 2026 (4.0/5)
+- #427 — Notion New Grad AI (4.0/5) — **ACTIVE OPPORTUNITY**
 
-### Top find: Notion New Grad (AI) — Report #427
+## Top Matches in Active Pipeline
 
-This is a distinct role from report #403 (general Notion New Grad, 4.3/5). The AI-specific track explicitly requires:
-- Multi-model LLM experience → Finch's 5-provider pipeline is a direct match
-- Evaluation frameworks → Carlos's deterministic validation gates map exactly
-- Claude Code familiarity → Carlos uses it daily
-
-**The hard constraint**: Must start FTE before **July 27, 2026**. If Carlos is graduating May/June 2026, this is an immediate priority. If he's Spring 2027 grad (still in school Fall 2026), this does not work.
-
-### Market status at scan 229
-
-The market remains **FULLY SATURATED** for Summer 2026 (confirmed closed). Fall 2026 cycle has produced Verkada (reports #425/#426) and now Notion New Grad AI (#427 — graduation-dependent) as the qualifying ≥4.0 finds.
-
----
+| # | Company | Role | Score | Action |
+|---|---------|------|-------|--------|
+| #427 | Notion | Software Engineer, New Grad (AI) | 4.0/5 | Verify graduation date — must start FTE by **Jul 27 2026** |
+| #425 | Verkada | AI Software Engineering Intern - Fall 2026 | 4.2/5 | Verify TAMU Fall semester gap plan (Aug 31 start) |
+| #426 | Verkada | Backend SWE Intern - Fall 2026 | 4.0/5 | Same TAMU semester constraint as #425 |
+| — | CrowdStrike | Data & AI Intern (Frisco TX) | ~4.0/5 est | Manual check at crowdstrike.wd5.myworkdayjobs.com |
+| — | Twitch | Undergrad SWE Intern | ~3.8/5 | Pipeline — verify deadline still open |
 
 ## Recommended Next Actions
 
-**Immediate (today):**
+1. **Verify graduation date** — Unblocks Notion #427 (Jul 27 deadline) and Fall 2026 planning
+2. **Apply to Notion New Grad AI** — 4.0/5; $126–146K base+equity; if graduating by Jul 2026
+3. **TAMU advisor** — Confirm availability for Fall 2026 internship (Aug 31 start) for Verkada #425/#426
+4. **Manual check CrowdStrike** — Data & AI Intern Frisco TX on Workday (~4.0/5 estimated)
+5. **Evaluate Twitch** — Undergrad SWE Intern in pipeline (~3.8/5) — verify deadline
+6. **Write missing reports** — Run `/career-ops` to re-evaluate URLs from pipeline.md for #421/#424–#427
+7. **Next scan** — Resume in **5–7 days** (May 5–7, 2026); Fall 2026 cycle will gradually open more roles
 
-1. **VERIFY GRADUATION DATE** — Is Carlos graduating May/June 2026 or Spring 2027?
-   - If May/June 2026 → Apply to Notion New Grad AI (#427) **this week** (start by Jul 27)
-   - If Spring 2027 → Skip Notion this cycle; focus on Fall 2026 internships
-
-2. **Verify TAMU semester plan** — Verkada reports #425 (4.2/5) and #426 (4.0/5) require August 31 start. Gap semester decision needed.
-
-3. **Apply to Verkada AI SWE Intern #425** — $55-65/hr + housing; Aug 31-Dec 18; highest-scoring active find.
-
-4. **Check Twitch deadline** — If 8174019002 still accepting apps, worth a quick apply ($88.94/hr ceiling, Amazon brand, Jun 2026 start).
-
-**Scan frequency:** Market saturated at 229 scans. Next scan in 3-5 days to catch new Fall 2026 openings.
+→ Run `/career-ops pipeline` to evaluate below-threshold pipeline entries.
+→ Run `/career-ops tracker` to review full application status.
