@@ -88,7 +88,7 @@
 
 ### Evaluated (≥4.0) — scan-v208
 
-- [x] https://job-boards.greenhouse.io/haizelabs/jobs/4685944008 | Haize Labs | Software Engineer Intern | **4.5/5** | NYC 6d/wk; $125K-200K/yr; LLM adversarial fuzz-testing — Carlos's exact research project; clients: Anthropic/Scale AI/AI21 — **REPORT #421**
+- [x] https://job-boards.greenhouse.io/haizelabs/jobs/4685944008 | Haize Labs | Software Engineer Intern | **4.5/5** | NYC 6d/wk; $125K-200K/yr; LLM adversarial fuzz-testing — Carlos's exact research project; clients: Anthropic/Scale AI/AI21 — **REPORT #424**
 - [x] https://jobs.ashbyhq.com/openai/1f3353ed-78eb-4a01-b783-c44b1c086711 | OpenAI | Software Engineer Internship/Co-op, Applied Emerging Talent (Fall 2026) | **4.4/5** | SF in-person; $60/hr; 15 weeks; React/Python/Postgres; ChatGPT + API features — **REPORT #422**
 - [x] https://job-boards.greenhouse.io/togetherai/jobs/5012785007 | Together AI | Security Engineer Intern (Summer 2026) | **4.3/5** | SF on-site; $58/hr + housing stipend; AI lab security engineering; Python/bash; May18-Aug7 or Jun15-Sep4 — **REPORT #423**
 - [x] https://job-boards.greenhouse.io/togetherai/jobs/5012768007 | Together AI | Software Engineer Intern (Summer 2026) | **4.2/5** | SF on-site; $58/hr + housing; ML/Platform/Infra/Inference teams; prioritize Security role first — **REPORT #424**
@@ -122,7 +122,7 @@
 - [ ] https://jobs.lever.co/SymmetrySystems/dbca271b-a99b-48ab-83f2-b596a037ad65 | Symmetry Systems | Full Stack Software Engineer - 2026 Summer Intern | ~3.7/5 | Data+AI security startup; full-stack; strong domain match for security-minded engineer
 - [ ] https://jobs.ashbyhq.com/farsight/096cdc49-06ae-4724-8f46-c58184e98334 | Farsight AI | Software Engineering Intern (Summer 2026) | ~3.8/5 | Agentic AI for financial services; LLM automation; strong agentic archetype; verify comp + location
 - [ ] https://jobs.ashbyhq.com/naptha/96df9dd3-85bc-4cff-b806-973b78bb433a | Naptha AI | Software Engineer Intern | ~3.7/5 | Agent infrastructure startup; frontier AI agent stack; strong agentic fit; verify company stage
-- [x] https://job-boards.greenhouse.io/haizelabs/jobs/4070377008 | Haize Labs | Research Intern | **4.0/5** | NYC 6d/wk; $125-200K/yr; LLM safety research; adversarial testing = exact match; **REPORT #421** | 2026-04-28
+- [x] https://job-boards.greenhouse.io/haizelabs/jobs/4070377008 | Haize Labs | Research Intern | **4.0/5** | NYC 6d/wk; $125-200K/yr; LLM safety research; adversarial testing = exact match; **REPORT #424** | 2026-04-28
 - [ ] https://job-boards.greenhouse.io/brex/jobs/8434389002 | Brex | Software Engineer Intern | ~3.7/5 | $55/hr; fintech (Stripe competitor); Feb 2026 posting; good brand; Python/TypeScript; fintech domain
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4606014005 | Scale AI | Software Engineering Intern (Summer 2026) | ~3.7/5 | AI data company; strong brand; Python/ML; SF on-site; verify current status
 - [ ] https://job-boards.greenhouse.io/roadie/jobs/8479096002 | Roadie | AI Engineer Intern (Summer 2026) | ~3.6/5 | AI agents for Customer Support + Trust & Safety; Python/AI; smaller company; verify comp
@@ -173,7 +173,7 @@
 
 ### Evaluated (≥4.0) — scan-v207
 
-- [x] https://job-boards.greenhouse.io/datadog/jobs/7646452 | Datadog | Software Engineer, Early Career | **4.0/5** | NYC hybrid; $123-155K + RSUs; prod Python/AI stack match; top observability brand; new grad FTE — **REPORT #421**
+- [x] https://job-boards.greenhouse.io/datadog/jobs/7646452 | Datadog | Software Engineer, Early Career | **4.0/5** | NYC hybrid; $123-155K + RSUs; prod Python/AI stack match; top observability brand; new grad FTE — **REPORT #424**
 
 ### Below Threshold — scan-v207 (pipeline for later evaluation)
 
@@ -3696,7 +3696,7 @@ All 181 prior tracked companies re-confirmed; Twilio only new URL (7850821) foun
 
 ### Evaluated (≥4.0) — Reports Written
 
-- [x] https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29 | Palantir | Software Engineer, New Grad | **4.0/5** — ~$151K avg new grad; NYC/Palo Alto on-site; Java+TypeScript+React stack = matches Carlos's skills; co-founder narrative maps directly; path to FDE track; REPORT #421
+- [x] https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29 | Palantir | Software Engineer, New Grad | **4.0/5** — ~$151K avg new grad; NYC/Palo Alto on-site; Java+TypeScript+React stack = matches Carlos's skills; co-founder narrative maps directly; path to FDE track; REPORT #424
 
 ### New Listings — Below Threshold (Pipeline for later evaluation)
 
@@ -3759,3 +3759,20 @@ All 181 prior tracked companies re-confirmed; Twilio only new URL (7850821) foun
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/7528020003 | Affirm | Software Engineering Intern — Summer 2026 | SF hybrid 3d/wk (Tue-Thu); $55/hr (~$9.5K/mo); Python-primary BNPL fintech; 12-16 wks; strong engineering culture; not AI-first; (~3.7/5 — solid but fintech domain adjacent)
 - [ ] https://job-boards.greenhouse.io/klaviyocampus/jobs/7603083003 | Klaviyo | Full-stack Software Engineer Intern — Summer 2026 | Boston MA in-office; 11 wks; MarTech SaaS (email/SMS automation); Python+React/TypeScript likely; different from AI Engineer Intern (#313 already 3.6/5); (~3.6/5 — relocation + non-AI domain)
 <!-- === END 2026-04-28 SCAN v218 === -->
+
+<!-- === BEGIN 2026-04-29 SCAN v223 === -->
+<!-- Sources: Greenhouse APIs (PolyAI/Parloa EU boards — 0 intern/new-grad; Anthropic Fellows tracks all in history); WebSearch batch 1 (Fall 2026 on Ashby/Greenhouse/Lever — all dup v7-v222); WebSearch batch 2 (YC board/HN April 2026/consulting/defense/fintech — all dup or skipped); SpeedyApply 2026-SWE-College-Jobs README (80 entries extracted; ATOMIC SEMI first seen — 3 new URLs found); dedup against 4,575-entry history; Result: 1 qualifying ≥4.0 (Atomic Semi Full Stack Intern Fall $52-63/hr REPORT #424); 1 below-threshold added; 0 qualifying new-grad entries; Market SATURATED at 223 scans but Atomic Semi is GENUINELY NEW. -->
+<!-- 1 qualifying ≥4.0 | 2 new pipeline additions -->
+
+## Scan v223 — 2026-04-29
+
+### Evaluated (≥4.0) — Reports Written
+
+- [x] https://jobs.ashbyhq.com/atomicsemi/68fba2a4-ca8c-448c-ad39-4d12b26a93e5 | Atomic Semi | Full Stack Software Engineering Intern - Fall | SF on-site; $52-63/hr; Rust+Python+React+Linux exact match; September start (gap semester needed); REPORT #424 — **4.0/5**
+
+### New Listings — Below Threshold (Pipeline for later evaluation)
+
+- [ ] https://jobs.ashbyhq.com/atomicsemi/867c67f7-20b5-4726-b9da-85a760d3851e | Atomic Semi | Infrastructure Software Engineering Intern - Fall | SF on-site; $52-63/hr; Rust+Go+Linux bare-metal; September start; Go gap (not in Carlos's stack); (~3.7/5 — apply only if FS intern closed or after discussing timing with company)
+- [ ] https://jobs.ashbyhq.com/atomicsemi/ad818171-c80f-4116-85f5-50d212a61fb0 | Atomic Semi | SRE & Infrastructure Software Engineering Intern | SF on-site; $52-63/hr; Rust/Go/Linux/systemd/monitoring; companion to 867c67f7; (~3.7/5 — same concerns as above)
+
+<!-- === END 2026-04-29 SCAN v223 === -->

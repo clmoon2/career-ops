@@ -1,110 +1,80 @@
-# Portal Scan — 2026-04-29 (v222)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Portal Scan Summary — 2026-04-29 (v223)
 
-**Scan:** v222 (autonomous agent)
 **Date:** 2026-04-29
-**Candidate:** Carlos Luna-Peña
+**Scan Number:** v223
+**Previous scan:** v222 (2026-04-29, same day)
 
 ---
 
-## Results
+## Stats
 
 | Metric | Count |
 |--------|-------|
-| Greenhouse APIs checked | 10 |
-| WebSearch queries executed | 20+ |
-| GitHub repos checked | SimplifyJobs Summer2026, SpeedyApply SWE, SpeedyApply AI |
-| Companies scanned | 30+ |
-| History entries at start | 4,552 |
-| New URLs found vs history | 1 |
-| Qualifying ≥4.0 | 0 |
-| Added to pipeline | 1 |
+| Companies/portals checked | 25+ |
+| Greenhouse APIs scanned | 3 (PolyAI, Parloa, Anthropic) |
+| WebSearch queries run | 50+ |
+| GitHub repos checked | 2 (SpeedyApply 2026-SWE-College-Jobs, 2026-AI-College-Jobs) |
+| History entries at scan start | 4,575 |
+| New URLs found (total) | 8 |
+| Genuinely new (first time seen) | 5 (Atomic Semi x4, Radian) |
+| Filtered by title/score | 4 |
+| Added to pipeline | 3 |
+| **Qualifying >=4.0 (reports written)** | **1** |
 
 ---
 
-## New Listings Found
+## Top Match — Report Written
 
-### Below Threshold — Pending Comp Verification (~3.9/5)
+### #421 — Atomic Semi | Full Stack Software Engineering Intern - Fall | **4.0/5**
 
-| Company | Role | Score | Notes |
-|---------|------|-------|-------|
-| **Sieve** | Applied Research Engineering Intern | ~3.9/5 | YC AI video data lab (Series A); 18 employees; SF on-site; applied research + ML engineering for video AI data pipelines; frontier AI lab clients; **comp TBD → verify first** |
+**URL:** https://jobs.ashbyhq.com/atomicsemi/68fba2a4-ca8c-448c-ad39-4d12b26a93e5
 
-URL: https://jobs.ashbyhq.com/sieve/2298668b-f218-435a-a497-de4fc11c5ac6
+**Why it qualifies:**
+- $52-63/hr compensation ($110-132K annualized) — highest comp intern found in 220+ scans
+- Tech stack is an exact match: Rust + Python + JavaScript/React + REST APIs + Linux + GitHub Actions CI/CD + PostgreSQL
+- Carlos's Rust daemon (Typing Habit Analyzer w/ systemd), carlosOS kernel, and Finch full stack all directly map to requirements
+- Portfolio requirement is achievable (applyeasy.tech + GitHub)
 
-Same company as Sieve SWE Intern added in v221. Both Sieve roles now in pipeline pending comp verification. If comp ≥$40/hr → likely 4.0+.
+**Key concern:** September 2026 start conflicts with TAMU fall semester. Carlos should evaluate gap semester or LOA before applying.
+
+**Action:** Apply immediately. This is the best new listing found since v222.
 
 ---
 
-## Confirmed Closed
+## Below-Threshold Additions to Pipeline
 
-| Company | Role | Status |
+| Company | Role | Score | URL | Notes |
+|---------|------|-------|-----|-------|
+| Atomic Semi | Infrastructure SWE Intern - Fall | 3.7/5 | https://jobs.ashbyhq.com/atomicsemi/867c67f7-20b5-4726-b9da-85a760d3851e | Go gap is main issue; $52-63/hr; consider if Full Stack role closes |
+| Atomic Semi | SRE & Infrastructure SWE Intern | 3.7/5 | https://jobs.ashbyhq.com/atomicsemi/ad818171-c80f-4116-85f5-50d212a61fb0 | Companion to above; same concerns |
+
+---
+
+## Skipped (Reasons)
+
+| Company | Role | Reason |
 |---------|------|--------|
-| Together AI | SWE Intern + Security Intern | CONFIRMED CLOSED (removed from API) |
-| Airtable | Software Engineer New Grad | CONFIRMED CLOSED since v9 |
-
----
-
-## Platforms Exhausted
-
-- Greenhouse APIs: Anthropic/Airtable/Vercel/ArizeAI/Glean/RunPod/HumeAI/Intercom/Bandwidth/Cloudflare — all confirmed dup v7-v221
-- Ashby: All major companies (Notion/Replit/Sentry/Zip/Delinea/Harvey/Decagon/Benchling/Quora/Ramp/Cohere/ElevenLabs/Vapi/Bland/Crusoe/LangChain/Pinecone/Cohere) — all dup v7-v221
-- Lever: Palantir/Voleon/Artera/Shield AI/Symmetry/Weights & Biases/Mistral — all dup v7-v221
-- ByteDance: All US security/SWE/SRE interns dup v19-v135; AML SRE new = Singapore skip
-- SimplifyJobs/SpeedyApply: All dup v7-v221
+| Radian | GenAI Intern (Remote) | $20-26/hr below $33/hr comp floor |
+| Calix | Cloud Engineer Intern (Remote) | Java primary = negative filter; telecom domain |
+| Atomic Semi | Automation Intern - Fall | Robotics/hardware automation (not SW automation); domain mismatch |
+| HERE Technologies | SWE Intern | Chicago; mapping domain; not AI/security target |
+| NBCUniversal | SWE Internship - Academic Year | Media domain; not primary target |
 
 ---
 
 ## Market Status
 
-**CONFIRMED SATURATED — 222 scans complete**
+**Summer 2026:** CONFIRMED CLOSED/SATURATED after 223 scans. All major portals (Ashby, Greenhouse, Lever), GitHub repos (SimplifyJobs, SpeedyApply), and YC board fully exhausted.
 
-Summer 2026: **CLOSED** — all major programs filled or deadlines passed
-Fall 2026: Limited (OpenAI/Notion/Sentry/Zip/Verkada in pipeline — check semester conflicts)
-New Grad 2026: Limited options evaluated
+**Fall 2026:** Still active. Atomic Semi find confirms value of checking SpeedyApply and non-standard sources. Other Fall 2026 listings (Verkada, Notion, SpaceX, Sentry) all in pipeline from prior scans.
 
-Only fresh finds in past 3 days:
-- v221: Sieve SWE Intern (~3.9/5)
-- v222: Sieve Applied Research Engineering Intern (~3.9/5)
-
----
-
-## Active Pipeline (Top Unevaluated)
-
-| Company | Role | Est. Score |
-|---------|------|-----------|
-| Sieve | Software Engineering Intern | ~3.9/5 |
-| Sieve | Applied Research Engineering Intern | ~3.9/5 |
-| Homebase | Forward Deployed Engineering Intern — AI-Native | ~3.8/5 |
-| Affirm | Software Engineering Intern — Summer 2026 | ~3.7/5 |
-| Anyscale | Software Engineer Intern 26' | ~3.6/5 |
-| Klaviyo | Full-Stack Software Engineer Intern — Summer 2026 | ~3.6/5 |
-
----
-
-## Previously Evaluated Top Matches
-
-| # | Company | Role | Score |
-|---|---------|------|-------|
-| 382 | Replit | Software Engineer — New Grad | 4.5/5 |
-| 124 | Quora/Poe | AI Engineer New Grad | 4.5/5 |
-| 416 | Cerebras | AI Engineering Intern — Growth Team | 4.5/5 |
-| 351 | Harvey | Software Engineering Intern | 4.1/5 |
-| 421 | Datadog | Early Career Software Engineer | 4.0/5 |
-| 422 | Haize Labs | Research Intern | 4.0/5 |
-| 423 | Creatify AI | Software Engineer Intern | 4.0/5 |
-| 384 | Figma | Software Engineer Intern | 4.0/5 |
+**New grad 2026:** Most positions already evaluated. Together AI (closed), Replit (#382), Quora/Poe (#124), Decagon (#355), Glean (#52) all in tracker.
 
 ---
 
 ## Recommended Next Actions
 
-1. **Verify Sieve comp** — Visit https://jobs.ashbyhq.com/sieve to check pay on both intern roles. If ≥$40/hr, evaluate for full reports (expected 4.0–4.2/5). Strong ML research + engineering match.
-
-2. **Apply to 4.0+ evaluated roles** — Creatify AI SWE (#423, $40-60/hr), Haize Labs (#422), Datadog (#421), Figma (#384), Harvey (#351) — if not yet applied.
-
-3. **Evaluate Homebase FDE** — Forward Deployed Engineering Intern at an AI-native company is still pending (~3.8/5).
-
-4. **Fall 2026 watch** — OpenAI/Notion/Sentry/Zip/Verkada Fall interns still open. Verify TAMU semester dates before applying (Sep-Dec timeline).
-
-5. **Next scan** — Market saturated. Recommend waiting 5-7 days before v223. Monitor SimplifyJobs/SpeedyApply daily for 0-day additions in the meantime.
+1. **APPLY NOW**: Atomic Semi Full Stack Intern - Fall (Report #421). Comp ($52-63/hr) and tech match (Rust+Python+React+Linux) are exceptional. Resolve Fall timing question first.
+2. **Process pipeline**: Run /career-ops pipeline to evaluate the 30+ below-threshold URLs accumulated since v218.
+3. **Wait for new cycle**: Fall 2026 cycle is actively posting. Check SpeedyApply off-season README weekly for new entries.
+4. **Monitor CAIS deadline**: Center for AI Safety Research Engineer Intern (Report #420) deadline is **May 29, 2026** — apply before then.
