@@ -1,5 +1,20 @@
 # Pipeline -- Pending URLs
 
+<!-- === BEGIN 2026-04-29 SCAN v229 === -->
+<!-- Sources: SpeedyApply SWE+AI READMEs; SimplifyJobs New Grad README; Greenhouse APIs (earlytalentcerebras all dup); CrowdStrike Workday full rescan (all 228 prior dup); Twitch Greenhouse board (new cycle found); Ashby Notion board (new AI new-grad role found); Lever broad (Aledade Security Eng NEW); 4,660-entry history dedup. RESULT: 3 genuinely new URLs — Notion New Grad AI 7e6dc7fe (4.0/5 ≥threshold → EVALUATED #427; ⚠️ graduation date blocker) + Twitch Undergrad SWE Intern 8174019002 (~3.8/5 below threshold → pipeline) + Aledade Security Engineering 53b2340f (~3.3/5 below threshold → pipeline). -->
+<!-- 1 qualifying ≥4.0 → REPORT #427 | 3 new URLs total | 2 below-threshold pipeline additions -->
+
+### Evaluated (≥4.0) — scan-v229
+
+- [x] https://jobs.ashbyhq.com/notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9 | Notion | Software Engineer, New Grad (AI) | **4.0/5** | SF hybrid Mon/Tue/Thu; $126-146K base+equity; AI team — multi-model LLM features + eval frameworks; TypeScript/Python exact match; Claude Code explicitly mentioned; ⚠️ HARD BLOCKER: must start FTE by Jul 27 2026 — verify graduation date FIRST; if May/June 2026 grad → apply immediately — **REPORT #427**
+
+### Below Threshold — scan-v229 (pending evaluation)
+
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8174019002 | Twitch | Undergrad Software Engineering Intern | ~3.8/5 | SF on-site; $42.5-$88.94/hr; Jun 2026 start; Winter 2026 or Spring 2027 graduation; gaming/streaming domain; Amazon subsidiary; Python/React/TS stack match; apply if deadline still open (check active status)
+- [ ] https://jobs.lever.co/aledade/53b2340f-db00-4188-93bd-ce039045130d | Aledade | Summer Internship - Security Engineering | ~3.3/5 | Remote; 10wks Jun 1-Aug 7; SIEM/EDR/vulnerability mgmt + AI detection tools; cybersecurity minor match; healthcare domain; comp undisclosed (est $25-35/hr)
+
+<!-- === END 2026-04-29 SCAN v229 === -->
+
 <!-- === BEGIN 2026-04-29 SCAN v228 === -->
 <!-- Sources: 6 Greenhouse APIs (PolyAI/Parloa/Airtable/Vercel/Glean/Temporal = all 0 intern/new-grad or dup); 25+ WebSearch queries (Fall2026+Summer2026+SWE+Security+AI+DevOps+BigTech+Consulting across Ashby/Greenhouse/Lever); Verkada full API scan (Embedded 5099596007 = dup v195); Verkada new Fall 2026 roles confirmed as only v227 finds (AI #425 + Backend #426); CrowdStrike Workday targeted search (6 known roles all dup; Data Science R26761 = NEW); SpeedyApply/SimplifyJobs latest; 4,655-entry history dedup. RESULT: 3 new URLs (CrowdStrike Data Science R26761 remote ~3.5/5 below threshold; Skyryse 7341596 CLOSED redirect; Databricks New Grad 7640776002 Belgrade non-US). NOTE: CrowdStrike Data & AI Intern (Frisco TX, Jun-Aug, Claude Code+Databricks) confirmed to exist in search results but Workday URL unconfirmed — manual check at crowdstrike.wd5.myworkdayjobs.com recommended (est ~4.0/5 if comp good + willing to temp-relocate). 0 qualifying ≥4.0. Market FULLY SATURATED at 228 scans. -->
 <!-- 0 qualifying ≥4.0 | 3 new URLs total | 1 pipeline addition (below threshold) -->

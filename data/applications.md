@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 427 | 2026-04-29 | Notion (AI Track) | Software Engineer, New Grad (AI) | 4.0/5 | Evaluada | ❌ | [427](reports/427-notion-swe-new-grad-ai-2026-04-29.md) | SF hybrid; $126-146K base+equity; AI team; start by Jul 27 2026 ⚠️ verify graduation date — different from #403 general new grad |
 | 426 | 2026-04-29 | Verkada | Backend Software Engineering Intern - Fall 2026 | 4.0/5 | Evaluada | ❌ | [426](reports/426-verkada-backend-swe-intern-fall-2026-04-29.md) | $55-65/hr + housing; Python/AWS/Docker/PostgreSQL match; San Mateo CA on-site Aug 31-Dec 18; companion to AI SWE #425; ⚠️ verify Fall semester |
 | 425 | 2026-04-29 | Verkada | AI Software Engineering Intern - Fall 2026 | 4.2/5 | Evaluada | ❌ | [425](reports/425-verkada-ai-swe-intern-fall-2026-04-29.md) | $55-65/hr + housing; San Mateo CA on-site Aug 31-Dec 18; AI+security multimodal (AIPHRODITE/Whisper/TidalHack match); ⚠️ verify Fall semester — apply immediately if clear |
 | 424 | 2026-04-29 | Atomic Semi | Full Stack Software Engineering Intern - Fall | 4.0/5 | Evaluada | ❌ | [424](reports/424-atomic-semi-fullstack-swe-intern-fall-2026-04-29.md) | $52-63/hr; SF on-site; Fall start (gap semester needed); Rust+Python+React+Linux exact match; apply immediately |
