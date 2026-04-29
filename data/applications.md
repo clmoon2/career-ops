@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 426 | 2026-04-29 | Verkada | Backend Software Engineering Intern - Fall 2026 | 4.0/5 | Evaluada | ❌ | [426](reports/426-verkada-backend-swe-intern-fall-2026-04-29.md) | $55-65/hr + housing; Python/AWS/Docker/PostgreSQL match; San Mateo CA on-site Aug 31-Dec 18; companion to AI SWE #425; ⚠️ verify Fall semester |
+| 425 | 2026-04-29 | Verkada | AI Software Engineering Intern - Fall 2026 | 4.2/5 | Evaluada | ❌ | [425](reports/425-verkada-ai-swe-intern-fall-2026-04-29.md) | $55-65/hr + housing; San Mateo CA on-site Aug 31-Dec 18; AI+security multimodal (AIPHRODITE/Whisper/TidalHack match); ⚠️ verify Fall semester — apply immediately if clear |
 | 424 | 2026-04-29 | Atomic Semi | Full Stack Software Engineering Intern - Fall | 4.0/5 | Evaluada | ❌ | [424](reports/424-atomic-semi-fullstack-swe-intern-fall-2026-04-29.md) | $52-63/hr; SF on-site; Fall start (gap semester needed); Rust+Python+React+Linux exact match; apply immediately |
 | 423 | 2026-04-28 | Creatify AI | Software Engineer Intern 2026 | 4.0/5 | Evaluada | ❌ | [423](reports/423-creatify-ai-swe-intern-2026-04-28.md) | Mountain View CA on-site; $40-60/hr; Python/Flask/React exact stack; AI video ad automation mirrors Finch architecture; $24M raised $10M ARR |
 | 421 | 2026-04-28 | Haize Labs | Research Intern | 4.0/5 | Evaluada | ❌ | [421](reports/421-haizelabs-research-intern-2026-04-28.md) | NYC 6d/wk; $125-200K/yr annualized; LLM safety research; adversarial testing = perfect match; apply alongside SWE Intern #298 |

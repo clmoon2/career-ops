@@ -1,105 +1,90 @@
-# Portal Scan — 2026-04-29 (Scan v226)
+# Portal Scan — 2026-04-29 (v227)
 
-**Candidate:** Carlos Luna-Peña  
-**Date:** 2026-04-29  
-**Scan version:** v226 (autonomous agent)  
-**Previous scan:** v225 (2026-04-29 — 0 qualifying; TikTok/GDMS found, both skipped)
-
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## Summary
 
-```
-Portal Scan — 2026-04-29 (v226)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Sources checked:        30+ (APIs + WebSearch + GitHub repos)
-Companies scanned:      25+
-Candidate URLs checked: 11 genuinely new URLs investigated
-Location skipped:       2 (Cloudflare Asia-Pacific rotational)
-Closed/expired:         1 (ABB Agentic AI Intern)
-Domain/role mismatch:   3 (CMT telematics, CF Prog Manager, wrong type)
-Duplicates (all others): dup v7–v225
-New URLs added to pipeline.md: 0
-Qualifying ≥ 4.0:       0
-```
-
----
-
-## Sources Checked
-
-### Greenhouse APIs (new companies, not previously in portals.yml)
-| Company | Result |
-|---------|--------|
-| Stripe | 0 intern/new-grad; only Toronto Data Analyst Intern (Master's, Canada) |
-| Discord | 0 intern; all senior/staff FTE |
-| Databricks | 0 intern; all senior/manager FTE |
-| Figma | 0 active SWE intern (5602159004 evaluated as #384, now closed) |
-| Brex | 0 intern/new-grad engineering track |
-| Cloudflare (new IDs) | 3 new job IDs: 7817971/7817923 (Associate SE, Asia-Pacific only); 7826916 (Prog Manager, wrong role) |
-| Snowflake | 404 (not on Greenhouse) |
-| Plaid | 404 (not on Greenhouse) |
-
-### WebSearch (30+ queries)
-- Fall 2026 SWE/Security/AI/DevOps interns (Greenhouse/Ashby/Lever): all confirmed dup v7–v225
-- New grad 2026 SWE (Greenhouse/Ashby): all confirmed dup v7–v225
-- Technology consulting interns 2026: Big 4 confirmed closed (PwC/EY/Deloitte/Capgemini)
-- Lever broad scan: Shield AI/BestEgg/Nominal/Voleon/SoloPulse all confirmed dup
-- Cybersecurity interns: Booz Allen/Leidos/CrowdStrike/Wiz all confirmed dup
-- Defense/national labs: Sandia TITANS (non-standard; not checked this cycle)
-
-### GitHub Repos
-- **SimplifyJobs/Summer2026-Internships (dev branch):** Top 20 recent = all non-standard boards or already in history (Sieve in v221–v222; AeroVironment/Quadric/Cambium/Remedy non-standard ATS; X Development PhD-only)
-- **speedyapply/2026-AI-College-Jobs:** Top 10 recent = Dark Wolf (v223), Homebase (v214), CMT (v219), Lattice Semiconductor (iCIMS non-standard ATS)
-
-### Specific New Listings Investigated
-| URL | Company | Assessment |
-|-----|---------|------------|
-| job-boards.greenhouse.io/cloudflare/jobs/7817971 | Cloudflare | NEW ID; Associate SE Asia-Pacific 12-month rotational (Sydney+China+ANZ+ASEAN); **skipped_location** |
-| job-boards.greenhouse.io/cloudflare/jobs/7817923 | Cloudflare | NEW ID; companion Asia-Pacific rotational; **skipped_location** |
-| job-boards.greenhouse.io/cloudflare/jobs/7826916 | Cloudflare | NEW ID; Associate Engineer Program Manager; **skipped_title** |
-| careers.abb/global/.../JR00024219 | ABB | Agentic AI Intern San Jose — **CLOSED** |
-| job-boards.greenhouse.io/cmt/jobs/7657520 | CMTelematics | URL redirects to board; telematics domain; Cambridge MA on-site; ~2.5/5 **skipped_score** |
+| Metric | Count |
+|--------|-------|
+| Scan version | v227 |
+| Date | 2026-04-29 |
+| History entries before scan | 4,638 |
+| Greenhouse APIs checked | 9 (Anthropic, Airtable, Vercel, ArizeAI, Glean, RunPod, HumeAI, Intercom + Verkada direct) |
+| WebSearch queries run | 30+ |
+| GitHub job boards checked | SimplifyJobs SWE Off-Season, SpeedyApply AI top-30 |
+| Total new URLs discovered | 17 |
+| Qualifying ≥ 4.0 | **2** |
+| Skipped (score < 4.0) | 9 |
+| Skipped (closed/deadline passed) | 3 |
+| Skipped (title mismatch) | 2 |
+| History entries after scan | 4,656 |
 
 ---
 
 ## Top Matches (≥ 4.0)
 
-**None found in this scan.**
+### ⭐ #425 — Verkada | AI Software Engineering Intern - Fall 2026 | **4.2/5**
+- **URL:** https://job-boards.greenhouse.io/verkada/jobs/5117760007
+- **Comp:** $55–65/hr + monthly housing stipend
+- **Dates:** August 31 – December 18, 2026 (on-site San Mateo CA)
+- **Why:** AI+security archetype — builds multimodal AI (video/audio/sensor fusion) for physical security at cloud scale. Carlos's AIPHRODITE computer vision pipeline, Whisper audio processing, and TidalHack anomaly detection are direct matches. Top-quartile intern comp.
+- **⚠️ CONSTRAINT:** Fall 2026 start (Aug 31) conflicts with TAMU Fall semester. Verify gap semester feasibility first.
+- **Action:** Verify semester → apply immediately
 
-The Summer 2026 internship market is fully saturated after 226 scans. All qualifying (≥ 4.0) opportunities have already been discovered and evaluated in prior scans.
+### ✅ #426 — Verkada | Backend Software Engineering Intern - Fall 2026 | **4.0/5**
+- **URL:** https://job-boards.greenhouse.io/verkada/jobs/5099422007
+- **Comp:** $55–65/hr + monthly housing stipend
+- **Dates:** August 31 – December 18, 2026 (on-site San Mateo CA)
+- **Why:** Python/AWS/Docker/PostgreSQL stack — Finch 35K-line Python backend + AWS EC2 blue/green + Docker = direct match for every required tool. Companion application to AI SWE above.
+- **⚠️ CONSTRAINT:** Same Fall semester conflict as #425.
+- **Action:** Apply alongside #425 (different Verkada teams)
 
 ---
 
-## Key Pipeline Items (from prior scans, pending action)
+## Skipped This Scan
 
-| Company | Role | Score | Notes |
-|---------|------|-------|-------|
-| Atomic Semi | Full Stack Intern (Summer 2026) | 4.0/5 | **Report #421 — apply immediately** |
-| Etched | Infrastructure Intern (Summer 2026) | ~3.8/5 | v223 — verify comp before applying |
-| Homebase | Forward Deployed Eng Intern (AI-Native) | ~3.8/5 | v214 — Houston/SF hybrid |
-| OpenAI | Software Engineer Co-op (Fall 2026) | ~4.3/5 est. | Fall cycle — apply May–June |
-| Sentry | Software Engineer Intern (Fall 2026) | ~4.0/5 est. | Fall cycle — apply May–June |
-| Notion | Software Engineer Intern (Fall 2026) | ~3.9/5 est. | Sept 14–Dec 4, SF |
-| Twilio | Software Engineer Intern (Summer 2026) | ~3.5/5 | Remote US; apply by May 10 |
+| Company | Role | Reason |
+|---------|------|--------|
+| Verkada | Frontend SWE Intern Fall 2026 | Frontend-only role, ~3.2/5 |
+| Anthropic | STEM Fellow | PhD required; Carlos is undergrad |
+| Mercury | AI Enablement Intern Fall 2026 | Deadline March 6 2026 — closed |
+| Mercury | Full Stack Intern Fall 2026 | Deadline March 6 2026 — closed |
+| SpaceX | Fall 2026 SWE Co-op | Aerospace domain mismatch |
+| SpaceX | Fall 2026 Engineering Co-op | Aerospace domain mismatch |
+| Aquatic Capital | SWE Intern Summer 2026 | Appears closed (shows Summer 2027 listings) |
+| Impiricus | Backend SWE Intern | $25/hr below comp floor |
+| SPLC | Cybersecurity Fall 2026 | Nonprofit IT helpdesk, ~2.5/5 |
+| Axiomatic AI | AI/Agentic Systems Intern | Master's preferred, no comp disclosed |
+| Axiomatic AI | Platform/DevOps Intern | Master's preferred, no comp disclosed |
+| TikTok | ML Engineer Intern 2026 | PyTorch/JAX ML research focus, ByteDance risk |
+| TMEIC | AI/ML Fall Intern | Manufacturing domain, Roanoke VA |
+| Vital Lyfe | SWE Internship | Health startup, comp unknown, ~2.5/5 |
+
+---
+
+## APIs Checked (0 new intern/new-grad)
+
+- **Anthropic:** No intern (1 new STEM Fellow, PhD required → skipped_title)
+- **Airtable, Vercel, Arize AI, Glean, RunPod, HumeAI, Intercom:** All mid-senior FTE, 0 intern/new-grad
+
+---
+
+## Market Signal
+
+**Summer 2026 is confirmed CLOSED.** The Fall 2026 cycle is actively opening — Verkada posted 3 new Fall 2026 intern roles this scan. This is the first scan in multiple cycles with genuine ≥4.0 qualifiers.
+
+**Critical path:** Both qualifying roles require Fall semester availability (Aug 31 start). Carlos must confirm academic timeline with TAMU to unlock the Fall 2026 cycle.
 
 ---
 
 ## Recommended Next Actions
 
-1. **APPLY NOW — Atomic Semi Full Stack Intern (#421, 4.0/5):** Report already written. Apply if not yet submitted.
-2. **APPLY SOON — Twilio SWE Intern (deadline May 10, 3.5/5):** Below threshold but deadline approaching — user's call.
-3. **Evaluate pipeline:** Run `/career-ops pipeline` to process Etched, Homebase, and other pending items.
-4. **Hold on scanning:** Market fully saturated for Summer 2026. Resume scanning in **7–10 days** for new Fall 2026 postings.
-5. **Fall 2026 focus:** OpenAI/Sentry/Notion/Zip co-ops close Aug–Sept 2026. Apply in May–June.
+1. **TODAY — Verify gap semester** with TAMU academic advisor. Fall 2026 internships start Aug 31.
+2. **Apply to Verkada AI SWE #425** ($55-65/hr + housing, 4.2/5) — priority #1 if semester resolved.
+3. **Apply to Verkada Backend SWE #426** ($55-65/hr + housing, 4.0/5) — alongside #425.
+4. **Review existing pipeline** — Sieve SWE Intern (v221, ~3.9/5), Homebase FDE (v214, ~3.8/5) still pending; verify if open.
+5. **Next scan** — 3-5 days. Fall 2026 cycle is opening. Weekly scans recommended.
 
 ---
 
-## Market Assessment
-
-> **Summer 2026 CONFIRMED CLOSED.** Fully saturated at scan v226 with 4,638 entries in scan history. Every major ATS (Greenhouse/Ashby/Lever), GitHub job repo (SimplifyJobs/speedyapply), and company category (Big Tech/AI Labs/Security/Consulting/Defense) has been exhaustively checked across 226 scans.
->
-> **Action:** Stop scanning for Summer 2026. Evaluate and apply to pipeline. Begin monitoring Fall 2026 cycle (resume scanning ~May 6–10).
-
----
-
-*Generated by career-ops autonomous scan agent — 2026-04-29*
+*career-ops update available: v1.1.0 → v1.3.0. Run `node update-system.mjs apply` to update.*

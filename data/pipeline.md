@@ -1,5 +1,16 @@
 # Pipeline -- Pending URLs
 
+<!-- === BEGIN 2026-04-29 SCAN v227 === -->
+<!-- Sources: Greenhouse APIs (Anthropic/Airtable/Vercel/ArizeAI/Glean/RunPod/HumeAI/Intercom = all 0 intern/new-grad or dup); 30+ WebSearch queries (Ashby/Greenhouse/Lever Fall2026+Summer2026+NewGrad+Security+AI+DevOps+Consulting+cybersecurity); SimplifyJobs SWE Off-Season README (top-30 entries); SpeedyApply AI top-30; 4,638-entry history dedup. KEY DISCOVERY: Fall 2026 cycle at Verkada has opened 2 NEW qualifying roles both at $55-65/hr + housing. CONSTRAINT: both require Aug 31 start = Fall semester conflict — verify with TAMU advisor before applying. -->
+<!-- 2 qualifying ≥4.0 | 17 new URLs total | 2 pipeline evaluated, 15 skipped -->
+
+### Evaluated (≥4.0) — scan-v227
+
+- [x] https://job-boards.greenhouse.io/verkada/jobs/5117760007 | Verkada | AI Software Engineering Intern - Fall 2026 | **4.2/5** | $55-65/hr + housing; San Mateo CA on-site Aug 31-Dec 18; AI+security (multimodal video/audio/sensor fusion, threat detection); AIPHRODITE CV pipeline + Whisper audio + TidalHack anomaly detection = strong match; ⚠️ verify Fall semester — **REPORT #425**
+- [x] https://job-boards.greenhouse.io/verkada/jobs/5099422007 | Verkada | Backend Software Engineering Intern - Fall 2026 | **4.0/5** | $55-65/hr + housing; San Mateo CA on-site Aug 31-Dec 18; Python/AWS/Docker/PostgreSQL = Finch exact stack; companion to AI SWE #425; ⚠️ verify Fall semester — **REPORT #426**
+
+<!-- === END 2026-04-29 SCAN v227 === -->
+
 <!-- === BEGIN 2026-04-29 SCAN v222 === -->
 <!-- Sources: Greenhouse APIs (Anthropic/Airtable/Vercel/ArizeAI/Glean/RunPod/HumeAI/Intercom/Bandwidth/Cloudflare all confirmed dup or no intern/new-grad; Together AI SWE+Security CONFIRMED CLOSED from API); 20+ WebSearch queries (Ashby/Greenhouse/Lever SWE+Security+AI+ML+DevOps+Consulting+intern+new-grad+Fall2026+new-grad+ByteDance+Sieve); SimplifyJobs Summer2026 README + SpeedyApply SWE + SpeedyApply AI READMEs (all prior entries dup v7-v221; only Sieve x2 new); ByteDance latest (AML SRE Singapore skip; all other roles dup v19-v135); 4,552-entry history fully dedup'd. RESULT: 1 genuinely new URL (Sieve Applied Research Engineering Intern, ~3.9/5 borderline, same company as v221 SWE intern). 0 qualifying ≥4.0. Market FULLY SATURATED at 222 scans. -->
 <!-- 0 qualifying ≥4.0 | 1 new URL | 1 pipeline addition -->
