@@ -1,5 +1,33 @@
 # Pipeline -- Pending URLs
 
+<!-- === BEGIN 2026-04-30 SCAN v242 === -->
+<!-- Sources: 10 Greenhouse APIs (Anthropic/Airtable/Vercel/Glean/ArizeAI/RunPod/HumeAI/Temporal/Intercom/Loop); SimplifyJobs Summer2026+New-Grad 0d; 10+ WebSearch queries (Greenhouse+Ashby+Lever intern+new-grad+security+AI+DevOps 2026); 4,731-entry history dedup. RESULT: 10 genuinely new URLs — Loop SWE Full-Stack SF (4.0/5 → REPORT #421) + Loop Chicago + Loop NYC + Tevora Cybersecurity Intern x2 + Worldly Security Ops Intern + DV Trading DevOps Intern + Anthropic Fellows ML Systems new cohort (DEADLINE MAY 3!) + Anthropic Fellows AI Safety new cohort (DEADLINE MAY 3!) + Anthropic Fellows RL new track. 1 qualifying ≥4.0. Market CONFIRMED SATURATED at 242 scans — Loop Full-Stack is the standout new find. -->
+<!-- 1 qualifying ≥4.0 → REPORT #421 | 10 new URLs total | 8 pipeline additions | 2 skipped/closed -->
+<!-- ⚡ URGENT: Anthropic Fellows ML Systems + AI Safety — APPLICATION DEADLINE MAY 3 2026 EOD PST (3 days). These programs were evaluated previously (#358 ML Systems, #292 AI Safety) but the CURRENT APPLICATION LINKS have new Greenhouse IDs. Apply via the new URLs. -->
+
+### Evaluated (≥4.0) — scan-v241
+
+- [x] https://job-boards.greenhouse.io/loop/jobs/5780582004 | Loop | 2026 New Grad | Software Engineer, Full-Stack (SF) | **4.0/5** | $150K base; 4d/wk in-office SF; full-stack + LLM agents + Claude Code culture; exact Finch stack match (Python/React/TypeScript/PostgreSQL/AWS/LLM pipelines); verify TAMU graduation date before applying — **REPORT #421**
+
+### Below Threshold — scan-v241 (pending evaluation)
+
+- [ ] https://job-boards.greenhouse.io/loop/jobs/5981831004 | Loop | 2026 New Grad | Software Engineer, Full-Stack (Chicago) | ~3.8/5 | $125K base; 4d/wk in-office Chicago; same role as SF variant (5780582004) but lower cost-of-living location; apply if SF relocation is difficult
+- [ ] https://job-boards.greenhouse.io/loop/jobs/5981828004 | Loop | 2026 New Grad | Software Engineer, Full-Stack (NYC) | ~3.8/5 | NYC in-office; comp likely SF-parity (~$150K); same role; additional option alongside SF application
+- [ ] https://job-boards.greenhouse.io/dvtrading/jobs/4677094005 | DV Trading | 2026 Summer Internship - DevOps Engineer | ~3.3/5 | Quant trading firm; DevOps/SRE focus; Carlos's AWS+Docker+CI/CD match; finance domain; comp undisclosed; verify still open and if internship not full-time FTE
+- [ ] https://jobs.lever.co/tevora/480a3148-3423-459e-9902-4ea58f10ffd9 | Tevora | Cybersecurity Internship Summer 2026 | ~3.2/5 | Jun 3-Aug 11; security consulting firm (Consultant Development Program); cybersecurity minor + adversarial LLM testing match; comp undisclosed; consulting lifestyle; verify remote vs on-site
+- [ ] https://jobs.lever.co/tevora/a35c55b9-6af3-4e97-8c1f-aa3e194c88a3 | Tevora | Cybersecurity Internship Summer 2026 - Federal | ~3.0/5 | Federal variant of Tevora cybersecurity consulting internship; may require clearance eligibility; lower priority than general track
+- [ ] https://jobs.ashbyhq.com/worldly/b297af2e-4d68-4cc5-9d8a-6b83a18c2e31 | Worldly | Security Operations Intern (Summer 2026) | ~3.0/5 | Security ops (SIEM/monitoring) vs security engineering; cybersecurity minor match but lower engineering depth; verify comp and remote/on-site
+
+### ⚡ URGENT — Anthropic Fellows (Deadline May 3, 2026 EOD PST)
+
+> These fellowship programs were previously evaluated (AI Safety #292, ML Systems #358, AI Security previously evaluated). Anthropic has **relaunched the current cohort with NEW Greenhouse application URLs**. If you haven't applied yet, these links are the ACTIVE APPLICATIONS — 3 days left.
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5183051008 | Anthropic | Fellows Program — ML Systems & Performance | **DEADLINE MAY 3** | $3,850/wk for 4 months; July 20 start; accelerator backends, distributed systems, synthetic data pipelines; previously evaluated as #358 (~4.0+/5); apply NOW if eligible
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5183044008 | Anthropic | Fellows Program — AI Safety | **DEADLINE MAY 3** | $3,850/wk for 4 months; July 20 start; empirical safety research; previously evaluated as #292; apply NOW if interested in safety research track
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5183052008 | Anthropic | Fellows Program — Reinforcement Learning | **DEADLINE MAY 3** | $3,850/wk for 4 months; July 20 start; NEW track not previously evaluated; RL research (environment design, training infrastructure); ~2.8/5 weak match for Carlos's engineering-heavy profile vs research RL focus
+
+<!-- === END 2026-04-30 SCAN v242 === -->
+
 <!-- === BEGIN 2026-04-30 SCAN v240 === -->
 <!-- Sources: SimplifyJobs Summer2026 0d (30 entries — Intelcom Canada x4/Altom dup/AeroVironment aerospace/d-Matrix dup v235/Gelber dup/BorgWarner auto/Fiserv/NYT AI dup v235/Adtheorant NEW skipped_score/Delta Dental/Radiance/RTX Java filter/Quadric dup v232/Cambium dup v221/Sieve dup v221-v222/GDMS dup/Dark Wolf dup/Horace Mann dup); SimplifyJobs New-Grad 0d (10 entries — U.S.Venture/Abbott/NVIDIA compiler/RTX/Cox/Twitch SWE I 8367602002 GENUINELY NEW ~3.0/5/Snowflake Canada/GE/GM Financial/Airbnb iOS); 40+ WebSearch queries (Ashby/Greenhouse/Lever broad + security + AI + consulting — all confirmed dup v7-v239); Lever broad (Symmetry/Voleon/Artera/Nominal/SoloPulse/NimbleRx/BestEgg/Veeva/ShieldAI all dup v7-v119); Greenhouse broad (Cloudflare/ScaleAI/Censys/Mercury closed/Dark Wolf/Gallup skipped_location/Datacor/Okta/Aquatic Capital all dup v7-v191); 4,725-entry history dedup. RESULT: 3 genuinely new URLs — Twitch SWE I 8367602002 (~3.0/5 pipeline) + Adtheorant Backend (~2.0/5 skipped_score) + Remedy Scientific (~2.0/5 skipped_title). 0 qualifying ≥4.0. Market CONFIRMED SATURATED at 240 scans. -->
 <!-- 0 qualifying ≥4.0 | 3 new URLs total | 1 pipeline addition | 2 skipped -->
