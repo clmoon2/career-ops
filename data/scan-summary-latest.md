@@ -1,10 +1,10 @@
-# Portal Scan Summary — 2026-04-30 (Scan v240)
+# Portal Scan Summary — 2026-04-30 (Scan v241)
 
 **Agent:** Autonomous scan agent  
-**Scan version:** v240  
+**Scan version:** v241  
 **Date:** 2026-04-30  
-**Total scan-history entries:** 4,729  
-**Total scans run to date:** 240 (6 run on 2026-04-30: v233–v240)
+**Total scan-history entries:** 4,730  
+**Total scans run to date:** 241 (7 run on 2026-04-30: v233–v241)
 
 ---
 
@@ -12,33 +12,46 @@
 
 | Source | Method | Result |
 |--------|--------|--------|
-| SimplifyJobs Summer2026 (0d) | WebFetch README | 30 entries checked; 1 new (Adtheorant skipped_score) |
-| SimplifyJobs New-Grad (0d) | WebFetch README | 10 entries checked; 1 new (Twitch 8367602002 → pipeline) |
-| Ashby broad (40+ companies) | WebSearch | All confirmed dup v7–v239 |
-| Greenhouse broad (40+ companies) | WebSearch | All confirmed dup v7–v239 |
-| Lever broad (30+ companies) | WebSearch | All confirmed dup v7–v119 |
-| Ashby security/AI targeted | WebSearch | All confirmed dup |
-| Greenhouse security/AI targeted | WebSearch | All confirmed dup |
-| portals.yml tracked companies | History dedup | Anthropic/Airtable/Vercel/Glean/ArizeAI/RunPod/HumeAI/Intercom/PolyAI/Temporal — all dup v233 |
-| Scale AI, Cloudflare, Censys | History dedup | All confirmed dup v7 |
-| Mercury Fall 2026 AI Enablement | History dedup | Confirmed dup v7; deadline March 6 2026 (closed) |
-| Dark Wolf, Gallup, Obsidian | History dedup | All confirmed dup v7 |
+| Greenhouse API — Stripe | WebFetch | All dup |
+| Greenhouse API — Discord | WebFetch | All dup |
+| Greenhouse API — Databricks | WebFetch | All dup |
+| Greenhouse API — Scale AI | WebFetch | Scale AI ML Fellow PhD req → skipped_title |
+| Greenhouse API — Figma | WebFetch | All dup |
+| Greenhouse API — HubSpot | WebFetch | All dup |
+| Ashby WebSearch — batch 1 | WebSearch | All dup |
+| Ashby WebSearch — batch 2 | WebSearch | All dup |
+| Ashby WebSearch — batch 3 | WebSearch | All dup |
+| Ashby WebSearch — batch 4 | WebSearch | All dup |
+| Ashby WebSearch — batch 5 | WebSearch | All dup |
+| Greenhouse WebSearch — batch 1 | WebSearch | All dup |
+| Greenhouse WebSearch — batch 2 | WebSearch | All dup |
+| Greenhouse WebSearch — batch 3 | WebSearch | All dup |
+| Greenhouse WebSearch — batch 4 | WebSearch | All dup |
+| Lever WebSearch — batch 1 | WebSearch | All dup |
+| Lever WebSearch — batch 2 | WebSearch | All dup |
+| Lever WebSearch — batch 3 | WebSearch | All dup |
+| SpeedyApply SWE (0–1 day) | WebSearch | All dup |
+| SpeedyApply AI/ML (0–1 day) | WebSearch | All dup |
+| HN Who's Hiring April 2026 | WebSearch | All dup |
+| TAMU recruiting — SWE/CS | WebSearch | All dup |
+| Scale AI Human Frontier Collective | WebSearch | All dup |
+| Texas companies — security/AI | WebSearch | All dup |
+| Poshmark Security Intern | WebFetch (verify) | CLOSED — redirects to general jobs page |
+| Apptronik Greenhouse | WebFetch (verify) | 1 NEW URL (5985132004) → skipped_score (~2.5/5) |
 
-**Total companies/portals effectively checked:** 40+
+**Total sources effectively checked:** 25+
 
 ---
 
-## New Listings Found (v240)
+## New Listings Found (v241)
 
-| # | Company | Role | Score | Status |
-|---|---------|------|-------|--------|
-| 1 | Twitch (Amazon) | Software Engineer I | ~3.0/5 | Added to pipeline |
-| 2 | Adtheorant (Cadent) | Backend Engineer Intern | ~2.0/5 | Skipped (ad tech domain) |
-| 3 | Remedy Scientific | Software Engineering Intern | ~2.0/5 | Skipped (medical domain) |
+| # | Company | Role | URL | Score | Status |
+|---|---------|------|-----|-------|--------|
+| 1 | Apptronik | Robotics Software Intern (Real-Time Controls) | greenhouse.io/apptronik/jobs/5985132004 | ~2.5/5 | skipped_score (robotics/embedded domain) |
 
 **Qualifying ≥4.0:** 0  
 **New reports written:** 0  
-**Pipeline additions:** 1
+**Pipeline additions:** 0
 
 ---
 
@@ -52,6 +65,7 @@ These are the highest-priority unresolved items across the full pipeline:
 | 🔴 HIGH | **New York Times** | AI Engineer Intern | **4.0/5** | Apply immediately — June 1 2026 start, no deadline listed |
 | 🟡 VERIFY | **Sierra** | Intern, Agent Development (Summer 2026) | **4.5/5** | Verify TAMU graduation date (Dec 2026–Jun 2027 required) |
 | 🟡 VERIFY | **Notion** | Software Engineer, New Grad AI | **4.0/5** | Verify TAMU graduation for Jul 27 2026 FTE start |
+| 🟢 QUEUED | **Verkada** | AI Software Engineering Intern (Fall 2026) | **4.2/5** | Applications open — apply when ready |
 
 **Reports on disk:** up to #420 (`vapi-backend-product-engineer-2026-04-27.md`)  
 ⚠️ **ALERT:** Reports #421–#430 claimed by prior agents (v207–v236) are NOT on disk. Need manual write.
@@ -60,22 +74,22 @@ These are the highest-priority unresolved items across the full pipeline:
 
 ## Market Assessment
 
-After 240 scans across 4,729 history entries, the market is **confirmed saturated**:
+After 241 scans across 4,730 history entries, the market is **confirmed saturated**:
 
 - **Summer 2026 intern cycle:** CLOSED
 - **Fall 2026 intern cycle:** Limited (Shopify ⚠️ URGENT, Verkada, OpenAI in pipeline)
 - **New Grad 2026:** Active but scan-saturated
-- **New findings rate:** <3 new URLs per scan, all below 4.0 threshold
+- **New findings rate:** ≤1 new URL per scan, all below 4.0 threshold
 
 ### Recommended Next Actions
 
 1. **⚠️ URGENT:** Apply to Shopify before May 7, 2026 at `internships.shopify.com` — Security Engineer track strongest match
 2. **HIGH:** Apply to NYT AI Engineer Intern via Greenhouse immediately (June 1 start)
 3. **VERIFY:** Confirm TAMU graduation date for Sierra (#428) + Notion (#427) eligibility
-4. **EVALUATE:** Pull full JDs for: JumpCloud (~3.8/5), Ema ML (~3.8/5), Twitch Undergrad 8174019002 (~3.8/5), SingleStore 7833869 (~3.5/5)
+4. **EVALUATE:** Pull full JDs for pipeline items below threshold (Twitch New Grad, JumpCloud, Ema ML)
 5. **REPORTS:** Write missing reports #421–#430 for full pipeline tracking
-6. **NEXT SCAN:** Run again in 3–5 days to catch new Fall 2026 postings; Summer 2026 fully exhausted
+6. **NEXT SCAN:** Run again in 3–5 days; Summer 2026 fully exhausted, focus on Fall 2026 and New Grad
 
 ---
 
-*Generated by career-ops autonomous scan agent, scan v240, 2026-04-30*
+*Generated by career-ops autonomous scan agent, scan v241, 2026-04-30*
