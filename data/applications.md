@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 430 | 2026-04-30 | New York Times | AI Engineer Intern | 4.0/5 | Evaluada | ❌ | [430](reports/430-nyt-ai-engineer-intern-2026-04-30.md) | LLM/RAG/observability exact match; NYC hybrid; $40/hr; June 1 start; apply now |
 | 429 | 2026-04-30 | Shopify | Engineering & Data Internship (Fall 2026) | 4.2/5 | Evaluada | ❌ | [429](reports/429-shopify-engineering-intern-fall-2026-2026-04-30.md) | ⚠️ DEADLINE MAY 7! 6 tracks: Security Eng + SWE + Infra + Applied ML; hybrid Bellevue/NYC; verify TAMU fall semester |
 | 427 | 2026-04-29 | Notion (AI Track) | Software Engineer, New Grad (AI) | 4.0/5 | Evaluada | ❌ | [427](reports/427-notion-swe-new-grad-ai-2026-04-29.md) | SF hybrid; $126-146K base+equity; AI team; start by Jul 27 2026 ⚠️ verify graduation date — different from #403 general new grad |
 | 426 | 2026-04-29 | Verkada | Backend Software Engineering Intern - Fall 2026 | 4.0/5 | Evaluada | ❌ | [426](reports/426-verkada-backend-swe-intern-fall-2026-04-29.md) | $55-65/hr + housing; Python/AWS/Docker/PostgreSQL match; San Mateo CA on-site Aug 31-Dec 18; companion to AI SWE #425; ⚠️ verify Fall semester |

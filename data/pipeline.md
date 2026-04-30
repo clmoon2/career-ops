@@ -3926,3 +3926,24 @@ All 181 prior tracked companies re-confirmed; Twilio only new URL (7850821) foun
 - https://jobs.ashbyhq.com/atomicsemi/947338ca-e135-4398-9aa3-79e131bc03d5 — Atomic Semi Fab Software Engineering Intern Fall — semiconductor fab operations software; domain mismatch (fab tooling = hardware-adjacent); skipped_title
 
 <!-- === END 2026-04-30 SCAN v234 === -->
+
+<!-- === BEGIN 2026-04-30 SCAN v235 === -->
+<!-- Sources: Greenhouse APIs (Figma/ScaleAI/Brex/Cloudflare/Rippling: all 0 new intern/new-grad vs. v7-v234); SpeedyApply SWE+AI latest 0-2d entries; SimplifyJobs Summer2026 latest-30 (NYT AI Engineer 4688353005 NEW 0d; d-Matrix Applied AI 93a6e6ee NEW 0d; Gelber Group x2 NEW 0d below threshold); SimplifyJobs Off-Season (Nokia all Canada; Amazon FE dup v234; others Canada/non-US); Big Tech: Google/Meta/Microsoft/Apple fall 2026 all dup v7-v234; Cybersecurity: CrowdStrike/Wiz/Snyk/PAN/SentinelOne all dup v7-v234; Consulting: Deloitte/Accenture/IBM all dup v7-v234; Lever search (AI Safety/Symmetry/Hermeus/FieldAI/Artera all dup v7-v234); 4,702-entry history fully dedup'd. RESULT: 1 qualifying >=4.0 (NYT AI Engineer #430 4.0/5); 1 below-threshold pipeline add (d-Matrix Applied AI ~3.3/5); 2 skipped (Gelber Group x2 Java+low-comp). -->
+<!-- 1 qualifying >=4.0 (NYT #430) | 2 new pipeline/evaluated | 2 skipped below threshold -->
+
+## Scan v235 — 2026-04-30
+
+### ⭐ Evaluated (>=4.0) — scan-v235
+
+- [x] https://job-boards.greenhouse.io/thenewyorktimes/jobs/4688353005 | New York Times | AI Engineer Intern | **4.0/5** | NYC hybrid; $40/hr x 35hrs x 10wks; June 1 2026 start; LLM apps + RAG + observability + API design = exact Finch match; no deadline listed — APPLY NOW via Greenhouse | **REPORT #430**
+
+### Pendientes — scan-v235
+
+- [ ] https://jobs.ashbyhq.com/d-Matrix/93a6e6ee-3391-4437-8459-e28eb05eace7 | d-Matrix | Applied AI Engineering Intern | Santa Clara CA; JD JavaScript-gated; d-Matrix = AI inference chips; Applied AI Engineering = likely Python/ML deployment vs. prior Simulation/Modeling (0abbd071 3.1/5 v200); potential match for multi-model pipeline exp; est ~3.3/5 — verify JD before applying
+
+### Skipped — Below Threshold / Non-Target Domain
+
+- https://job-boards.greenhouse.io/gelbergroup/jobs/4652887006 — Gelber Group SWE Tech Ops — Chicago IL on-site; $25/hr (below comp floor); Python+JS/C# pref; legacy portal modernization; ~2.5/5 skipped_score
+- https://job-boards.greenhouse.io/gelbergroup/jobs/4657272006 — Gelber Group SWE Backoffice — Chicago IL on-site; $25/hr; C#/Java required (Java negative filter); report generation UI; ~2.0/5 skipped_title
+
+<!-- === END 2026-04-30 SCAN v235 === -->
