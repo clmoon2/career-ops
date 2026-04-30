@@ -1,5 +1,13 @@
 # Pipeline -- Pending URLs
 
+<!-- === BEGIN 2026-04-30 SCAN v244 === -->
+<!-- Sources: Greenhouse APIs (Anthropic/Airtable/Vercel/Glean/ArizeAI/RunPod/Intercom — all 0 new intern/new-grad); 25+ WebSearch queries (Ashby/Greenhouse/Lever SWE+Security+AI+ML+DevOps+NewGrad intern 2026 — broad, negated known companies, Fall 2026 co-ops, new grad, analyst intern, consulting intern); SimplifyJobs Summer2026 0d (d-Matrix Applied AI 93a6e6ee dup v235; AeroVironment dup v243; Altom dup; Intelcom Canada skip); SimplifyJobs New-Grad 0d (Blue Yonder/U.S.Venture/NVIDIA compiler — non-target or dup v240); 4,760-entry history dedup. RESULT: 0 genuinely new URLs. ALL SOURCES CONFIRMED DUP v7-v243. Market CONFIRMED SATURATED at 244 scans (10th scan on 2026-04-30). -->
+<!-- 0 qualifying ≥4.0 | 0 new URLs total | 0 pipeline additions -->
+<!-- ⚡ CRITICAL DEADLINE: Anthropic Fellows ML Systems (#358) + AI Safety (#292) — DEADLINE MAY 3 2026 EOD PST (3 DAYS). Apply NOW. -->
+<!-- ⚠️  Shopify Fall 2026 (#429) DEADLINE MAY 7 2026 (7 DAYS!) — apply at internships.shopify.com NOW. -->
+<!-- ✅ TOP PRIORITY ACTIONS: (1) NYT AI Engineer #430 4.0/5 June 1 start — apply ASAP; (2) Shopify Fall 2026 #429 deadline May 7; (3) Anthropic Fellows May 3 deadline; (4) Sierra #428 4.5/5 verify graduation eligibility; (5) Notion New Grad AI #427 4.0/5 Jul 27 FTE start — verify graduation date. -->
+<!-- === END 2026-04-30 SCAN v244 === -->
+
 <!-- === BEGIN 2026-04-30 SCAN v243 === -->
 <!-- Sources: PolyAI EU Greenhouse API (0 intern/new-grad); Parloa EU Greenhouse API (0 intern/new-grad); 30+ WebSearch queries (BCG/Deloitte/Accenture/EY/KPMG consulting, Google/Microsoft/Meta Big Tech, CrowdStrike/PAN/SentinelOne security, Datadog/Cloudflare/Booz Allen refresh, SpeedyApply SWE 0d, SimplifyJobs New-Grad 0d, Lever/Ashby broad); 4,753-entry history dedup. RESULT: 2 genuinely new URLs — Bloom Energy Full Stack Dev Intern San Jose (~3.0/5) + AeroVironment SWE Intern FL (~2.5/5). 0 qualifying ≥4.0. Market CONFIRMED SATURATED at 243 scans (9th scan on 2026-04-30). -->
 <!-- 0 qualifying ≥4.0 | 2 new URLs total | 1 pipeline addition | 1 skipped_score -->
