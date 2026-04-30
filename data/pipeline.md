@@ -1,5 +1,11 @@
 # Pipeline -- Pending URLs
 
+<!-- === BEGIN 2026-04-30 SCAN v243 === -->
+<!-- Sources: PolyAI EU Greenhouse API (0 intern/new-grad); Parloa EU Greenhouse API (0 intern/new-grad); 30+ WebSearch queries (BCG/Deloitte/Accenture/EY/KPMG consulting, Google/Microsoft/Meta Big Tech, CrowdStrike/PAN/SentinelOne security, Datadog/Cloudflare/Booz Allen refresh, SpeedyApply SWE 0d, SimplifyJobs New-Grad 0d, Lever/Ashby broad); 4,753-entry history dedup. RESULT: 2 genuinely new URLs — Bloom Energy Full Stack Dev Intern San Jose (~3.0/5) + AeroVironment SWE Intern FL (~2.5/5). 0 qualifying ≥4.0. Market CONFIRMED SATURATED at 243 scans (9th scan on 2026-04-30). -->
+<!-- 0 qualifying ≥4.0 | 2 new URLs total | 1 pipeline addition | 1 skipped_score -->
+<!-- ⚡ CRITICAL DEADLINE: Anthropic Fellows ML Systems (#358) + AI Safety (#292) — NEW COHORT URLS — DEADLINE MAY 3 2026 EOD PST (3 DAYS). Apply via new Greenhouse IDs from pipeline below. -->
+<!-- ⚠️  Shopify Fall 2026 (#429) DEADLINE MAY 7 2026 (7 DAYS!) — apply at internships.shopify.com NOW. -->
+
 <!-- === BEGIN 2026-04-30 SCAN v242 === -->
 <!-- Sources: 10 Greenhouse APIs (Anthropic/Airtable/Vercel/Glean/ArizeAI/RunPod/HumeAI/Temporal/Intercom/Loop); SimplifyJobs Summer2026+New-Grad 0d; 10+ WebSearch queries (Greenhouse+Ashby+Lever intern+new-grad+security+AI+DevOps 2026); 4,731-entry history dedup. RESULT: 10 genuinely new URLs — Loop SWE Full-Stack SF (4.0/5 → REPORT #421) + Loop Chicago + Loop NYC + Tevora Cybersecurity Intern x2 + Worldly Security Ops Intern + DV Trading DevOps Intern + Anthropic Fellows ML Systems new cohort (DEADLINE MAY 3!) + Anthropic Fellows AI Safety new cohort (DEADLINE MAY 3!) + Anthropic Fellows RL new track. 1 qualifying ≥4.0. Market CONFIRMED SATURATED at 242 scans — Loop Full-Stack is the standout new find. -->
 <!-- 1 qualifying ≥4.0 → REPORT #421 | 10 new URLs total | 8 pipeline additions | 2 skipped/closed -->
@@ -8,6 +14,10 @@
 ### Evaluated (≥4.0) — scan-v241
 
 - [x] https://job-boards.greenhouse.io/loop/jobs/5780582004 | Loop | 2026 New Grad | Software Engineer, Full-Stack (SF) | **4.0/5** | $150K base; 4d/wk in-office SF; full-stack + LLM agents + Claude Code culture; exact Finch stack match (Python/React/TypeScript/PostgreSQL/AWS/LLM pipelines); verify TAMU graduation date before applying — **REPORT #421**
+
+### Below Threshold — scan-v243 (pending evaluation)
+
+- [ ] https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/San-Jose-California/Full-Stack-Developer-Intern_JR-20763 | Bloom Energy | Full Stack Developer Intern | ~3.0/5 | San Jose CA; clean energy / fuel cell company; Full Stack role (Python/JS/React likely); Silicon Valley location good; domain (energy) is non-primary; comp unknown; verify stack requirements before applying
 
 ### Below Threshold — scan-v241 (pending evaluation)
 
