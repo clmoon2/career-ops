@@ -1,5 +1,20 @@
 # Pipeline -- Pending URLs
 
+<!-- === BEGIN 2026-04-30 SCAN v240 === -->
+<!-- Sources: SimplifyJobs Summer2026 0d (30 entries — Intelcom Canada x4/Altom dup/AeroVironment aerospace/d-Matrix dup v235/Gelber dup/BorgWarner auto/Fiserv/NYT AI dup v235/Adtheorant NEW skipped_score/Delta Dental/Radiance/RTX Java filter/Quadric dup v232/Cambium dup v221/Sieve dup v221-v222/GDMS dup/Dark Wolf dup/Horace Mann dup); SimplifyJobs New-Grad 0d (10 entries — U.S.Venture/Abbott/NVIDIA compiler/RTX/Cox/Twitch SWE I 8367602002 GENUINELY NEW ~3.0/5/Snowflake Canada/GE/GM Financial/Airbnb iOS); 40+ WebSearch queries (Ashby/Greenhouse/Lever broad + security + AI + consulting — all confirmed dup v7-v239); Lever broad (Symmetry/Voleon/Artera/Nominal/SoloPulse/NimbleRx/BestEgg/Veeva/ShieldAI all dup v7-v119); Greenhouse broad (Cloudflare/ScaleAI/Censys/Mercury closed/Dark Wolf/Gallup skipped_location/Datacor/Okta/Aquatic Capital all dup v7-v191); 4,725-entry history dedup. RESULT: 3 genuinely new URLs — Twitch SWE I 8367602002 (~3.0/5 pipeline) + Adtheorant Backend (~2.0/5 skipped_score) + Remedy Scientific (~2.0/5 skipped_title). 0 qualifying ≥4.0. Market CONFIRMED SATURATED at 240 scans. -->
+<!-- 0 qualifying ≥4.0 | 3 new URLs total | 1 pipeline addition | 2 skipped -->
+
+### Below Threshold — scan-v240 (pending evaluation)
+
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8367602002 | Twitch (Amazon) | Software Engineer I | ~3.0/5 | SF in-person; FTE new-grad at Amazon subsidiary; gaming/streaming domain; second Twitch SWE I posting (see also 8217817002 from v239); verify team/domain before applying — low priority given domain mismatch and two similar roles already in pipeline
+
+### Skipped — scan-v240
+
+- https://careers-cadent.icims.com/jobs/1359/job — Adtheorant Backend Engineer Intern — Philadelphia PA / NYC; ad tech (Cadent subsidiary); programmatic advertising domain; comp unknown; ~2.0/5 skipped_score
+- https://jobs.ashbyhq.com/Remedy%20Scientific/2e74c46f-cc91-487d-858d-62664f801efc — Remedy Scientific SWE Intern — Oakland CA; medical/biotech domain; non-target; ~2.0/5 skipped_title
+
+<!-- === END 2026-04-30 SCAN v240 === -->
+
 <!-- === BEGIN 2026-04-30 SCAN v239 === -->
 <!-- Sources: 6 Greenhouse APIs (Anthropic/Glean/Vercel/Airtable/RunPod/ArizeAI + HumeAI/Intercom/Temporal); 25+ WebSearch queries (Ashby/Greenhouse/Lever SWE+Security+AI+ML+DevOps+Consulting+intern+new-grad+2026 — Priority focus: JumpCloud/SingleStore/Acorns/Eventual/Twitch/Sigma/SpeedyApply 0d/SimplifyJobs New-Grad 0d); 4,713-entry history dedup. RESULT: 6 genuinely new pipeline URLs (all below threshold) — JumpCloud Entry-Level SWE (security identity, remote, ~3.8/5); SingleStore Platform Intern Summer 2026 (~3.5/5); Sigma Computing SWE Intern Summer 2026 (~3.5/5); Eventual Computing New Grad (~3.5/5); Twitch SWE I (~3.2/5); Acorns Recent Grad (~3.0/5). Plus 5 skipped (PhD-only/C++/expired/FTE-senior). 0 qualifying ≥4.0. Market confirmed saturated at 239 scans. -->
 <!-- 0 qualifying ≥4.0 | 11 new URLs total | 6 pipeline additions | 5 skipped -->

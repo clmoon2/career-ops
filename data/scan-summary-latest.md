@@ -1,78 +1,81 @@
-# Portal Scan Summary — 2026-04-30 (v239)
+# Portal Scan Summary — 2026-04-30 (Scan v240)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-**Date:** 2026-04-30
-**Scan #:** v239
-**Prior scan total:** v238 (also 2026-04-30)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+**Agent:** Autonomous scan agent  
+**Scan version:** v240  
+**Date:** 2026-04-30  
+**Total scan-history entries:** 4,729  
+**Total scans run to date:** 240 (6 run on 2026-04-30: v233–v240)
 
-## Sources Covered
+---
+
+## Portals Scanned
 
 | Source | Method | Result |
 |--------|--------|--------|
-| Anthropic | Greenhouse API | 0 new (all dup v7-v238; Fellows Program confirmed) |
-| Glean | Greenhouse API | 0 new (160 listings, no intern/new-grad) |
-| Vercel | Greenhouse API | 0 new (85 listings, no intern/new-grad) |
-| Airtable | Greenhouse API | 0 new (40 listings, no intern/new-grad) |
-| RunPod | Greenhouse API | 0 new (19 listings, no intern/new-grad) |
-| Arize AI | Greenhouse API | 0 new (35 listings, no intern/new-grad) |
-| Hume AI | Greenhouse API | 0 new (8 listings, no intern/new-grad) |
-| Intercom | Greenhouse API | 0 new (155 listings, no intern/new-grad) |
-| Temporal | Greenhouse API | 0 listings (empty board) |
-| SimplifyJobs New-Grad README | WebFetch | 0 new qualifying |
-| SpeedyApply AI README | WebFetch | 0 new (BillionToOne/RoboForce/Rocket Lawyer all dup v231) |
-| SpeedyApply SWE README | WebFetch | 0 new qualifying |
-| Ashby/Greenhouse/Lever WebSearch (25+ queries) | WebSearch | 6 new pipeline additions |
+| SimplifyJobs Summer2026 (0d) | WebFetch README | 30 entries checked; 1 new (Adtheorant skipped_score) |
+| SimplifyJobs New-Grad (0d) | WebFetch README | 10 entries checked; 1 new (Twitch 8367602002 → pipeline) |
+| Ashby broad (40+ companies) | WebSearch | All confirmed dup v7–v239 |
+| Greenhouse broad (40+ companies) | WebSearch | All confirmed dup v7–v239 |
+| Lever broad (30+ companies) | WebSearch | All confirmed dup v7–v119 |
+| Ashby security/AI targeted | WebSearch | All confirmed dup |
+| Greenhouse security/AI targeted | WebSearch | All confirmed dup |
+| portals.yml tracked companies | History dedup | Anthropic/Airtable/Vercel/Glean/ArizeAI/RunPod/HumeAI/Intercom/PolyAI/Temporal — all dup v233 |
+| Scale AI, Cloudflare, Censys | History dedup | All confirmed dup v7 |
+| Mercury Fall 2026 AI Enablement | History dedup | Confirmed dup v7; deadline March 6 2026 (closed) |
+| Dark Wolf, Gallup, Obsidian | History dedup | All confirmed dup v7 |
 
-## Results
+**Total companies/portals effectively checked:** 40+
 
-```
-Queries executed:          30+
-Sources scanned:           20+ portals / companies
-History before scan:       4,713 entries
-New URLs added:            11 total
-  → Pipeline additions:    6
-  → Skipped:               5 (PhD-only/expired/C++/stale/senior-FTE)
-Qualifying ≥4.0/5:         0
-History after scan:        4,724 entries
-```
+---
 
-## New Listings Added to pipeline.md
+## New Listings Found (v240)
 
-| Company | Role | Score | Notes |
-|---------|------|-------|-------|
-| **JumpCloud** | Software Engineer (Entry-Level) | ~3.8/5 | Remote US; $100-120K est; identity/directory security platform; OAuth/HMAC/TLS stack exact match; verify new-grad eligibility + comp band |
-| **SingleStore** | Software Engineer, Platform Intern (Summer 2026) | ~3.5/5 | Python/Go; database platform; 12wks; verify comp + location |
-| **Sigma Computing** | Software Engineering Intern (Summer 2026) | ~3.5/5 | SF; $50/hr; BI/analytics platform; Python/SQL match; verify still accepting |
-| **Eventual Computing** | Software Engineer, New Grad | ~3.5/5 | Distributed computing / cloud-native; AWS/Docker/Python match; verify comp + remote |
-| **Twitch** | Software Engineer I | ~3.2/5 | SF FTE; Amazon subsidiary; verify team/domain before applying |
-| **Acorns** | Software Engineer I, Recent Graduate | ~3.0/5 | Remote fintech; Python/React match; low priority |
+| # | Company | Role | Score | Status |
+|---|---------|------|-------|--------|
+| 1 | Twitch (Amazon) | Software Engineer I | ~3.0/5 | Added to pipeline |
+| 2 | Adtheorant (Cadent) | Backend Engineer Intern | ~2.0/5 | Skipped (ad tech domain) |
+| 3 | Remedy Scientific | Software Engineering Intern | ~2.0/5 | Skipped (medical domain) |
 
-## Skipped (recorded in history)
+**Qualifying ≥4.0:** 0  
+**New reports written:** 0  
+**Pipeline additions:** 1
 
-| Company | Role | Reason |
-|---------|------|--------|
-| Sigma Computing | AI/ML PhD Intern (7523576003) | PhD-only program |
-| Apex Technology | SWE Internship Spring 2026 | Likely expired (Spring 2026 past) |
-| SingleStore | SWE Intern Engine (7783300) | C++ heavy — below stack match |
-| SingleStore | SWE Intern & New Grad (6237482) | Likely stale/inactive listing |
-| SingleStore | AI Security Engineer (6824559) | FTE senior — not entry-level |
+---
 
-## Market Status
+## Top Matches (Score ≥4.0) — Active Pipeline
 
-**CONFIRMED SATURATED at 239 scans / 4,724 history entries.**
+These are the highest-priority unresolved items across the full pipeline:
 
-Summer 2026 intern season is effectively closed for new listings. Active opportunities:
-- **New grad FTE roles** — JumpCloud (~3.8/5) is the best new find in this scan
-- **Fall 2026 interns** — TAMU semester conflict; check co-op track with advisor
-- **Active pipeline** has unreviewed items from v221-v238 with higher priority
+| Priority | Company | Role | Score | Action Needed |
+|----------|---------|------|-------|---------------|
+| 🔴 URGENT | **Shopify** | Engineering & Data Internship Fall 2026 | **4.2/5** | **DEADLINE MAY 7, 2026** — Apply NOW at internships.shopify.com; Security Engineer track |
+| 🔴 HIGH | **New York Times** | AI Engineer Intern | **4.0/5** | Apply immediately — June 1 2026 start, no deadline listed |
+| 🟡 VERIFY | **Sierra** | Intern, Agent Development (Summer 2026) | **4.5/5** | Verify TAMU graduation date (Dec 2026–Jun 2027 required) |
+| 🟡 VERIFY | **Notion** | Software Engineer, New Grad AI | **4.0/5** | Verify TAMU graduation for Jul 27 2026 FTE start |
 
-## Recommended Next Actions
+**Reports on disk:** up to #420 (`vapi-backend-product-engineer-2026-04-27.md`)  
+⚠️ **ALERT:** Reports #421–#430 claimed by prior agents (v207–v236) are NOT on disk. Need manual write.
 
-1. **JumpCloud** (~3.8/5) — Best new find this scan. Remote, security-identity FTE, $100-120K est. Run `/career-ops pipeline` on this URL to get a full evaluation. Verify new-grad eligibility and start date flexibility.
-2. **Sieve comp-gate** (v221-v222) — Both Sieve roles (SWE b319e35e + Research 2298668b) are borderline ~3.9/5 pending comp. Check their careers page for rate disclosure.
-3. **CrowdStrike Workday check** (v228) — Data & AI Intern Frisco TX manually unconfirmed. Check crowdstrike.wd5.myworkdayjobs.com directly.
-4. **Verkada Fall 2026** (v227, 4.2/5) — Verify TAMU fall semester co-op eligibility before discarding.
-5. **Twitch Undergrad SWE Intern** (v229, ~3.8/5) — Jun 2026 start; check if deadline passed.
+---
 
-→ Run `/career-ops pipeline` to evaluate the top unreviewed items.
+## Market Assessment
+
+After 240 scans across 4,729 history entries, the market is **confirmed saturated**:
+
+- **Summer 2026 intern cycle:** CLOSED
+- **Fall 2026 intern cycle:** Limited (Shopify ⚠️ URGENT, Verkada, OpenAI in pipeline)
+- **New Grad 2026:** Active but scan-saturated
+- **New findings rate:** <3 new URLs per scan, all below 4.0 threshold
+
+### Recommended Next Actions
+
+1. **⚠️ URGENT:** Apply to Shopify before May 7, 2026 at `internships.shopify.com` — Security Engineer track strongest match
+2. **HIGH:** Apply to NYT AI Engineer Intern via Greenhouse immediately (June 1 start)
+3. **VERIFY:** Confirm TAMU graduation date for Sierra (#428) + Notion (#427) eligibility
+4. **EVALUATE:** Pull full JDs for: JumpCloud (~3.8/5), Ema ML (~3.8/5), Twitch Undergrad 8174019002 (~3.8/5), SingleStore 7833869 (~3.5/5)
+5. **REPORTS:** Write missing reports #421–#430 for full pipeline tracking
+6. **NEXT SCAN:** Run again in 3–5 days to catch new Fall 2026 postings; Summer 2026 fully exhausted
+
+---
+
+*Generated by career-ops autonomous scan agent, scan v240, 2026-04-30*
