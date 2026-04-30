@@ -1,6 +1,6 @@
-# Scan Summary — 2026-04-30 (v233–v236)
+# Scan Summary — 2026-04-30 (v237)
 
-**Scans run today:** v233, v234, v235, v236  
+**Scan:** v237 (autonomous agent) — today's scans: v233, v234, v235, v236, v237  
 **Total history entries:** 4,709  
 **Market status:** SATURATED (236 cumulative scans)
 

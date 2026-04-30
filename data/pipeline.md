@@ -1,5 +1,10 @@
 # Pipeline -- Pending URLs
 
+<!-- === BEGIN 2026-04-30 SCAN v237 === -->
+<!-- Sources: 10 Greenhouse APIs (Anthropic/Airtable/Vercel/Glean/ArizeAI/RunPod/HumeAI/Intercom/Temporal/PolyAI); 20+ WebSearch queries (Ashby/Greenhouse/Lever SWE+Security+AI+ML+DevOps+Consulting Summer2026+Fall2026+NewGrad); GitHub SimplifyJobs Summer2026+Off-Season 0d; SpeedyApply SWE+AI 0-1d; CrowdStrike Workday full sweep; Ema/TensorWave/Axiomatic AI re-check. RESULT: 0 genuinely new URLs — 4,709-entry history fully dedup'd. All sources confirmed dup v7-v236. Market CONFIRMED SATURATED at 237 scans. -->
+<!-- 0 qualifying ≥4.0 | 0 new URLs total | 0 pipeline additions -->
+<!-- === END 2026-04-30 SCAN v237 === -->
+
 <!-- === BEGIN 2026-04-29 SCAN v229 === -->
 <!-- Sources: SpeedyApply SWE+AI READMEs; SimplifyJobs New Grad README; Greenhouse APIs (earlytalentcerebras all dup); CrowdStrike Workday full rescan (all 228 prior dup); Twitch Greenhouse board (new cycle found); Ashby Notion board (new AI new-grad role found); Lever broad (Aledade Security Eng NEW); 4,660-entry history dedup. RESULT: 3 genuinely new URLs — Notion New Grad AI 7e6dc7fe (4.0/5 ≥threshold → EVALUATED #427; ⚠️ graduation date blocker) + Twitch Undergrad SWE Intern 8174019002 (~3.8/5 below threshold → pipeline) + Aledade Security Engineering 53b2340f (~3.3/5 below threshold → pipeline). -->
 <!-- 1 qualifying ≥4.0 → REPORT #427 | 3 new URLs total | 2 below-threshold pipeline additions -->
