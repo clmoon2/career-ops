@@ -3886,3 +3886,23 @@ All 181 prior tracked companies re-confirmed; Twilio only new URL (7850821) foun
 - https://apply.workable.com/quadric-dot-i-o-inc/j/4F8EDFF366/ — Quadric Software Engineer Intern (Compiler) — Burlingame CA; ASIC compiler toolchain; domain mismatch; ~2.0/5 skipped_score
 
 <!-- === END 2026-04-29 SCAN v232 === -->
+
+<!-- === BEGIN 2026-04-30 SCAN v233 === -->
+<!-- Sources: Greenhouse APIs (Anthropic/Airtable/Vercel/Glean/ArizeAI/RunPod/HumeAI/Intercom/PolyAI/Temporal — all 0 new intern/new-grad vs. v7-v232 history); 15+ WebSearch queries (Ashby/Greenhouse/Lever SWE+Security+AI+ML+DevOps Fall2026+Summer2026+NewGrad — all confirmed dup v7-v232 except 3 new TensorWave/Ema URLs); Full dedup against 4,683-entry history; 3 genuinely new URLs (TensorWave Software Intern + GRC Analyst + Ema ML Intern); 0 qualifying ≥4.0 (JD inaccessible via WebFetch — JavaScript-gated; est. ~3.5-3.8/5 for top 2). Market SATURATED at 233 scans. -->
+<!-- 0 qualifying ≥4.0 | 3 new pipeline additions | 0 scored above threshold -->
+
+## Scan v233 — 2026-04-30
+
+### Pendientes
+
+- [ ] https://jobs.ashbyhq.com/ema/5aa53773-f1bd-4ce9-b7cc-1f7bb4fb202e | Ema | Machine Learning Intern | Ema is a multi-agent AI company (ex-Google Brain founders); LLM pipelines/AI infra focus; Carlos's multi-model orchestration + LangChain exact match; comp/location unknown — verify before applying; (~3.8/5 est.)
+- [ ] https://jobs.ashbyhq.com/TensorWave/daa3655f-70c4-4f0e-8c0b-53c22c108e93 | TensorWave | Software Intern | GPU cloud platform for AI training/inference; Python/systems stack likely; security-adjacent (other TensorWave roles are security-focused); comp unknown; (~3.5/5 est.)
+- [ ] https://jobs.ashbyhq.com/TensorWave/0ac02bb5-ed7f-4ca9-9980-d48a07f39b9a | TensorWave | GRC Analyst Intern | GPU cloud; governance/risk/compliance + cybersecurity minor match; more policy than technical; comp unknown; (~2.5/5 est. — verify before applying)
+
+### Skipped — Confirmed Dups / Non-Target
+
+<!-- All Greenhouse APIs (Anthropic/Airtable/Vercel/Glean/ArizeAI/RunPod/HumeAI/Intercom/PolyAI): 0 new intern/new-grad roles vs. v7-v232 history -->
+<!-- All major WebSearch queries (Ashby/Greenhouse/Lever Fall2026+Summer2026+NewGrad+Security+AI): all confirmed dup v7-v232 -->
+<!-- Market assessment: FULLY SATURATED. Summer 2026 CLOSED. Fall 2026 limited cycle (OpenAI/Notion/Sentry/Zip/Verkada already in pipeline). Focus: evaluate existing pipeline entries + apply to top picks. -->
+
+<!-- === END 2026-04-30 SCAN v233 === -->
