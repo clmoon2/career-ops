@@ -3906,3 +3906,23 @@ All 181 prior tracked companies re-confirmed; Twilio only new URL (7850821) foun
 <!-- Market assessment: FULLY SATURATED. Summer 2026 CLOSED. Fall 2026 limited cycle (OpenAI/Notion/Sentry/Zip/Verkada already in pipeline). Focus: evaluate existing pipeline entries + apply to top picks. -->
 
 <!-- === END 2026-04-30 SCAN v233 === -->
+
+<!-- === BEGIN 2026-04-30 SCAN v234 === -->
+<!-- Sources: 10 Greenhouse APIs (Anthropic/Airtable/Vercel/Glean/ArizeAI/RunPod/HumeAI/Intercom/PolyAI/Temporal — all 0 new intern/new-grad vs. v7-v233); Stripe API (Toronto Data Analyst only, Canada); Discord API (82 FTE-only, 0 intern); Databricks API (FTE-only, 0 intern); 40+ WebSearch queries (Ashby/Greenhouse/Lever Fall2026+Summer2026+SWE+Security+AI+DevOps+Consulting+NewGrad — all confirmed dup v7-v233 except 3 new URLs); SimplifyJobs Off-Season README latest-20 (Shopify Fall 2026 NEW; Amazon FE Fall 2026 NEW; Nokia/SOTI/Capital One/GE Canada = non-US; Verkada/NVIDIA/Atomic Semi 947338ca dup or domain mismatch); GitHub speedyapply repos all dup; 4,697-entry history fully dedup'd. RESULT: 3 genuinely new URLs: Shopify Fall 2026 (9b2afa1b) ⭐ 4.2/5 → EVALUATED #429; Amazon FE Fall 2026 (10407301) ~3.2/5 → pipeline; Atomic Semi Fab SWE (947338ca) → skipped_title semiconductor domain. ⚠️ URGENT: Shopify deadline May 7 2026. -->
+<!-- 1 qualifying ≥4.0 (Shopify #429) | 3 new URLs total | 1 pipeline below-threshold | 1 skipped domain -->
+
+## Scan v234 — 2026-04-30
+
+### ⭐ Evaluated (≥4.0) — scan-v234
+
+- [x] https://www.shopify.com/careers/data-and-engineering-internships-fall-2026_9b2afa1b-28fa-4ae4-8f69-80ce64059065 | Shopify | Engineering & Data Internship Fall 2026 | **4.2/5** | ⚠️ **DEADLINE MAY 7, 2026 (7 days!)** | 6 tracks: Security Engineer + Software Engineer + Infrastructure + Applied ML + Data Eng + Product Data Science | Hybrid 3d/wk at Bellevue WA or NYC | 4-month paid program; est. $50–65/hr USD for US locations | Security Eng track = strongest match (cybersecurity minor + OAuth HMAC-SHA256 + TLS 1.2/1.3 + CSP/CORS + adversarial LLM); SWE track = strong (35K-line Flask, React 19, blue/green CI/CD); Infra track = strong (AWS EC2/Docker/GitHub Actions) | ⚠️ verify TAMU fall semester before accepting | **REPORT #429** — apply immediately via internships.shopify.com
+
+### Below Threshold — scan-v234 (pipeline for later evaluation)
+
+- [ ] https://www.amazon.jobs/en/jobs/10407301/front-end-engineer-fall-internship-2026-us | Amazon | Front-End Engineer Fall Internship 2026 (US) | ~3.2/5 | Multiple US cities (Seattle, Bay Area, DC/MD/VA, Austin, NYC, Minneapolis); $110K–$160K annualized (~$53–$77/hr); React/JS/HTML/CSS focus; Carlos has React 19 SPA but primarily backend; Fall 2026 start (Aug/Sep) 12 weeks; graduation May 2027–Dec 2029 required | Amazon brand is strong but FE-only is below Carlos's backend/full-stack strength; apply if bandwidth allows after Shopify/Verkada
+
+### Skipped — Domain / Title Mismatch
+
+- https://jobs.ashbyhq.com/atomicsemi/947338ca-e135-4398-9aa3-79e131bc03d5 — Atomic Semi Fab Software Engineering Intern Fall — semiconductor fab operations software; domain mismatch (fab tooling = hardware-adjacent); skipped_title
+
+<!-- === END 2026-04-30 SCAN v234 === -->
