@@ -1,5 +1,20 @@
 # Pipeline -- Pending URLs
 
+<!-- === BEGIN 2026-04-30 SCAN v239 === -->
+<!-- Sources: 6 Greenhouse APIs (Anthropic/Glean/Vercel/Airtable/RunPod/ArizeAI + HumeAI/Intercom/Temporal); 25+ WebSearch queries (Ashby/Greenhouse/Lever SWE+Security+AI+ML+DevOps+Consulting+intern+new-grad+2026 — Priority focus: JumpCloud/SingleStore/Acorns/Eventual/Twitch/Sigma/SpeedyApply 0d/SimplifyJobs New-Grad 0d); 4,713-entry history dedup. RESULT: 6 genuinely new pipeline URLs (all below threshold) — JumpCloud Entry-Level SWE (security identity, remote, ~3.8/5); SingleStore Platform Intern Summer 2026 (~3.5/5); Sigma Computing SWE Intern Summer 2026 (~3.5/5); Eventual Computing New Grad (~3.5/5); Twitch SWE I (~3.2/5); Acorns Recent Grad (~3.0/5). Plus 5 skipped (PhD-only/C++/expired/FTE-senior). 0 qualifying ≥4.0. Market confirmed saturated at 239 scans. -->
+<!-- 0 qualifying ≥4.0 | 11 new URLs total | 6 pipeline additions | 5 skipped -->
+
+### Below Threshold — scan-v239 (pending evaluation)
+
+- [ ] https://jobs.lever.co/jumpcloud/41a0870e-910e-48f8-8263-f601c64abf8f | JumpCloud | Software Engineer (Entry-Level) | ~3.8/5 | Remote US; $118-155K (entry est. $100-120K); cloud identity/directory platform (LDAP/RADIUS/SAML/SSO/MFA/MDM); Python+TypeScript+Go stack; Carlos's OAuth proxy + HMAC-SHA256 + TLS hardening = direct match; security engineering FTE not intern; verify if new-grad eligible and exact comp band
+- [ ] https://job-boards.greenhouse.io/singlestore/jobs/7833869 | SingleStore | Software Engineer, Platform Intern (Summer 2026) | ~3.5/5 | SF/Seattle/remote TBD; database platform team (internal testing + dev environment); Python/Go stack; 12wks; comp unknown (est $40-55/hr for DB company); verify comp + location
+- [ ] https://job-boards.greenhouse.io/sigmacomputing/jobs/6680704003 | Sigma Computing | Software Engineering Intern (Summer 2026) | ~3.5/5 | SF on-site (est); BI/analytics platform; $50/hr; Python/SQL/data stack match; verify still active (new URL vs 7501718003 already in history); apply if Summer 2026 still open
+- [ ] https://jobs.ashbyhq.com/eventualcomputing/becb5675-3480-4d2b-b126-2acad40fd088 | Eventual Computing | Software Engineer, New Grad | ~3.5/5 | Distributed computing / cloud-native infra; Carlos's AWS + Docker + Python + async orchestration matches; small company; verify comp + remote policy
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8217817002 | Twitch (Amazon) | Software Engineer I | ~3.2/5 | SF; FTE new grad at Amazon subsidiary; $193K comp precedent from sibling roles; gaming/streaming domain (Twitch 8519628002 ad tech was ~3.0/5 v198); verify which team/domain this role targets before applying
+- [ ] https://jobs.ashbyhq.com/Acorns/5618f1de-cf18-4114-9408-11cd73153a9d | Acorns | Software Engineer I, Recent Graduate | ~3.0/5 | Remote US; fintech savings app; Python/React/TS stack match; consumer fintech domain (not AI/security-forward); recent-grad role; low priority — skip unless pipeline thin
+
+<!-- === END 2026-04-30 SCAN v239 === -->
+
 <!-- === BEGIN 2026-04-30 SCAN v238 === -->
 <!-- Sources: GitHub SimplifyJobs Summer2026/New-Grad/Off-Season 0d; speedyapply SWE+AI 0d; zapplyjobs Internships-2026 0d; jobright-ai New-Grad-2026 latest; 30+ WebSearch queries (Ashby/Greenhouse/Lever SWE+Security+AI+DevOps+NewGrad+2026 — Priority 2 companies: Wiz/Semgrep/Modal/Perplexity/Cursor/SeatGeek/Mirage/Loop/Wonderschool/Workato/Nextdoor/Zettabyte and others); Greenhouse API SeatGeek board (1 new-grad found). RESULT: 2 genuinely new URLs — SeatGeek New Grad 7858968 (~3.6/5 below threshold → pipeline) + Mirage Early Career ff388d40 (~3.0/5 experience mismatch → pipeline for ref); all other sources confirmed dup v7-v237. -->
 <!-- 0 qualifying ≥4.0 | 2 new URLs total | 1 meaningful pipeline addition -->
