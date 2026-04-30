@@ -3947,3 +3947,21 @@ All 181 prior tracked companies re-confirmed; Twilio only new URL (7850821) foun
 - https://job-boards.greenhouse.io/gelbergroup/jobs/4657272006 — Gelber Group SWE Backoffice — Chicago IL on-site; $25/hr; C#/Java required (Java negative filter); report generation UI; ~2.0/5 skipped_title
 
 <!-- === END 2026-04-30 SCAN v235 === -->
+
+<!-- === BEGIN 2026-04-30 SCAN v236 === -->
+<!-- Sources: Greenhouse APIs (Anthropic/Airtable/Vercel/ArizeAI/RunPod/Glean/HumeAI/Intercom/Temporal — all 0 new intern/new-grad vs. v233-v235); TogetherAI API full scan (49 jobs total, 0 intern — SWE Intern 5012768007 + Security Intern 5012785007 + GTM Analyst Intern 5014290007 all CONFIRMED CLOSED, not in current API board); 30+ WebSearch queries (all dup v7-v235 from earlier today); 4,709-entry history dedup'd; 0 genuinely new URLs. ALERT: Reports #421-#430 claimed by prior scan agents not written to disk — last report on disk is #420. -->
+<!-- 0 qualifying >=4.0 | 0 new pipeline additions | market SATURATED at 236 scans / 4,709 history entries -->
+
+## Scan v236 — 2026-04-30
+
+### No New Findings
+
+All sources confirmed duplicate vs. scan-v233/v234/v235 (all run earlier today). Market fully saturated at 236 scans / 4,709 history entries. Together AI internships (SWE + Security + GTM Analyst) CONFIRMED CLOSED via live Greenhouse API — removed from active pipeline.
+
+**⚠️ CRITICAL ACTION ITEMS (from v227-v235 pipeline):**
+- Apply **Shopify** Engineering & Data Fall 2026 — ⚠️ DEADLINE MAY 7, 2026 (7 days) — report #429
+- Apply **NYT** AI Engineer Intern — June 1 start, no deadline listed — report #430
+- Verify TAMU graduation date for **Sierra** Agent Development Intern — report #428
+- Verify TAMU semester plan for **Verkada** AI SWE Intern Fall 2026 — report #425
+
+<!-- === END 2026-04-30 SCAN v236 === -->

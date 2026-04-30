@@ -1,123 +1,87 @@
-# Portal Scan — 2026-04-30 (v235)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Scan Summary — 2026-04-30 (v233–v236)
 
-**Scan:** v235 (autonomous agent)
-**Date:** 2026-04-30
-**History size:** 4,707 entries (after v235 additions)
-
----
-
-## Sources Checked
-
-### Greenhouse APIs (Level 2)
-- Figma: 3 early-career roles — Inside Sales/Data Scientist PhD/Associate Solutions Consultant — all non-SWE-intern, not qualifying
-- Scale AI: AI Deployment Strategist Intern (4677519005) — dup v9; SWE New Grad (4605996005) — dup v8
-- Brex: 0 intern/new-grad roles (Rotational Program only, non-engineering)
-- Cloudflare: GRC Team Interns 7578549+7577564 (Lisbon Portugal — non-US, dup v191); Infra Deployment 7759602 (London — non-US, dup v191)
-- Rippling: 404 (no public Greenhouse board)
-- Notion: 404 (uses Ashby, dup v7-v234)
-
-### SpeedyApply SWE (0-2d entries)
-All confirmed dup v7-v234: GDMS/HERE Technologies/Horace Mann/Quadric/Calix/Cognex/PrePass/Raytheon/Resolve/Altom/Aptiv/Axiomatic AI/Leidos/Rainmaker/Verkada
-
-### SpeedyApply AI (0-2d entries)
-All confirmed dup v7-v234: BillionToOne/National Journal x2/RoboForce/Rocket Lawyer/CMTelematics/Dark Wolf/Homebase/Lattice Agentic/Cerebras
-
-### SimplifyJobs Summer2026 (latest 30, 0-2d)
-- **NEW:** NYT AI Engineer Intern 4688353005 (0d) — EVALUATED #421
-- **NEW:** d-Matrix Applied AI Engineering Intern 93a6e6ee (0d) — pipeline
-- **NEW:** Gelber Group SWE Tech Ops 4652887006 (0d) — skipped_score ($25/hr)
-- **NEW:** Gelber Group SWE Backoffice 4657272006 (0d) — skipped_title (Java)
-- All others: dup v7-v234
-
-### SimplifyJobs Off-Season (Fall 2026)
-- Nokia x11: all Ottawa ON Canada — non-US skip
-- Amazon FE Fall 2026: dup v234
-- SOTI/Capital One x4: all Canada — non-US skip
-
-### Big Tech (Google, Microsoft, Meta, Apple)
-All fall 2026 openings confirmed dup v7-v234. Microsoft Applied AI/ML intern deadline March 2026 (passed). Google fall 2026 only China/Mexico/Switzerland locations. Meta summer-only program.
-
-### Cybersecurity (CrowdStrike, Wiz, Snyk, Palo Alto Networks, SentinelOne)
-All confirmed dup v7-v234. CrowdStrike SWE/InfoSec/RedTeam/Intelligence interns all summer 2026 in history (v8-v9). No new fall 2026 listings found.
-
-### Tech Consulting (Deloitte, Accenture, IBM, BCG, McKinsey)
-All confirmed dup v7-v234. Deloitte Technology/Cyber interns past deadline. Accenture Claude/Anthropic Tech Arch Analyst (report #387, v133) already evaluated.
-
-### Lever Search (broad)
-AI Safety/Symmetry/Hermeus/FieldAI/Artera all dup v7-v234.
-
-### Ashby Broad Search
-Notion/Zip/Sentry/Cohere/OpenAI/Replit/Farsight/Vantage/Delinea/Superhuman all dup v7-v234.
+**Scans run today:** v233, v234, v235, v236  
+**Total history entries:** 4,709  
+**Market status:** SATURATED (236 cumulative scans)
 
 ---
 
-## Results
+## Results by Scan
 
-| Metric | Count |
-|--------|-------|
-| Portals/sources scanned | 25+ |
-| Queries executed | 40+ |
-| Offers found (total, before dedup) | ~200+ |
-| Filtered by title/domain | ~190 |
-| Duplicates (already in history) | ~196 |
-| **Genuinely new URLs** | **4** |
-| Added to pipeline | 2 |
-| Evaluated (>=4.0) | 1 |
-| Skipped (below threshold/domain) | 2 |
+| Scan | New ≥4.0 | Pipeline Adds | Key Finding |
+|------|----------|---------------|-------------|
+| v233 | 2 | 4 | Sierra Agent Dev #428 (4.5/5); Verkada AI SWE Fall #425 (4.2/5); Notion SWE New Grad #427 (4.0/5) |
+| v234 | 1 | 3 | Shopify Engineering Fall 2026 #429 (4.2/5) — DEADLINE MAY 7 |
+| v235 | 1 | 2 | NYT AI Engineer Intern #430 (4.0/5); d-Matrix Applied AI ~3.3/5 |
+| v236 | 0 | 0 | Together AI internships CONFIRMED CLOSED; all sources fully saturated |
 
 ---
 
-## Top Match
+## Active Evaluated Offers (>=4.0)
 
-### Report #430 — The New York Times · AI Engineer Intern — 4.0/5
+### URGENT — Deadline May 7, 2026
 
-**URL:** https://job-boards.greenhouse.io/thenewyorktimes/jobs/4688353005
-**Comp:** $40/hr x 35 hrs/wk x 10 weeks | NYC Hybrid
-**Start:** June 1, 2026 | **Deadline:** Not listed (apply immediately)
-
-**Why it matches Carlos:**
-- LLM applications, RAG pipelines, API design, observability = exact Finch skill map
-- Responsible AI (privacy, bias, safety) = adversarial LLM testing background
-- Prototyping AI experiences = Finch's 26-archetype AI content generation pipeline
-- Brand name at an established media company entering AI
-
-**Score breakdown:** CV match 4.5 | North Star 4.5 | Comp 3.0 | Culture 3.5 — 4.0/5
+**#429 — Shopify Engineering & Data Fall 2026 Internship**
+Score: **4.2/5** | 4-month term (Sep–Dec 2026) | Multiple Canada cities + SF remote
+URL: https://www.shopify.com/careers/engineering-and-data-fall-2026-co-op-and-internship_c847fc31-ed7c-4d2c-a5d8-f37de4ad671e
+Match: Python/TypeScript/React stack, distributed systems, Finch platform experience
+**→ APPLY BEFORE MAY 7**
 
 ---
 
-## Below Threshold — Pipeline
+### Apply Now (No Deadline Listed)
 
-| Company | Role | Score | URL |
-|---------|------|-------|-----|
-| d-Matrix | Applied AI Engineering Intern | ~3.3/5 est. | https://jobs.ashbyhq.com/d-Matrix/93a6e6ee-3391-4437-8459-e28eb05eace7 |
-
----
-
-## Recommended Next Actions
-
-1. **APPLY NOW — NYT AI Engineer Intern #421** (June 1 start, no stated deadline)
-   - Apply at: https://job-boards.greenhouse.io/thenewyorktimes/jobs/4688353005
-   - Lead with: Finch's 5-LLM pipeline + LangChain RAG + Sentry observability
-   - Cover letter angle: "I built an AI pipeline evaluating fit between jobs and candidates — applying the same rigor to help NYT readers navigate journalism is a direct translation."
-
-2. **URGENT DEADLINE MAY 7 — Shopify Fall 2026 #429 (4.2/5)**
-   - Apply at: internships.shopify.com
-   - Select Security Engineer track (strongest match via HMAC-SHA256, TLS, CORS, CSP)
-   - Verify TAMU fall semester availability first
-
-3. **Verify graduation date — Sierra Agent Dev #428 (4.5/5)**
-   - Dec 2026–Jun 2027 graduation required
-   - If eligible: highest-priority application in pipeline
-
-4. **Evaluate pipeline backlog:**
-   - d-Matrix Applied AI 93a6e6ee — get JD (~3.3/5 est.)
-   - Ema ML Intern (5aa53773) — ~3.8/5 est., verify comp
-   - Sieve SWE (b319e35e) + Applied Research (2298668b) — ~3.9/5 est., verify comp
-   - Homebase FDE AI-Native (a7ab59c0) — 3.8/5 est.
-
-5. **Market status:** SATURATED at 235 scans. Summer 2026 CONFIRMED CLOSED (NYT June 1 is a rare late post). Fall 2026 limited openings. Recommend applying to evaluated pipeline — not scanning — for the next 5-7 days.
+**#430 — New York Times AI Engineer Intern**
+Score: **4.0/5** | $40/hr x 35hr x 10wk | NYC hybrid | June 1, 2026 start
+URL: https://job-boards.greenhouse.io/thenewyorktimes/jobs/4688353005
+Match: LLM apps + RAG + observability + API design = exact Finch architecture match
+**→ APPLY NOW (June 1 start = imminent)**
 
 ---
 
-*Generated by career-ops autonomous scan agent — 2026-04-30*
+### Strong Matches (Evaluate Availability)
+
+**#428 — Sierra AI Agent Development Intern**
+Score: **4.5/5** | Remote | Timing TBD
+Note: Verify TAMU graduation date eligibility before applying
+
+**#425 — Verkada AI SWE Intern Fall 2026**
+Score: **4.2/5** | San Mateo CA | Fall 2026
+Note: Verify TAMU fall semester plan (in-person at Verkada may conflict)
+
+**#427 — Notion Software Engineer New Grad (AI)**
+Score: **4.0/5** | SF/NYC hybrid | New Grad
+Note: New grad = requires graduation before start date
+
+---
+
+## Below-Threshold Pipeline (Evaluate If Bandwidth)
+
+- **d-Matrix Applied AI Engineering Intern** (~3.3/5) — Santa Clara CA; AI inference chips; verify JD at https://jobs.ashbyhq.com/d-Matrix/93a6e6ee-3391-4437-8459-e28eb05eace7
+- **Amazon Front-End Engineer Fall 2026** (~3.2/5) — Multiple US cities; FE-only stack below Carlos's full-stack strength
+
+---
+
+## Infrastructure Alert
+
+Reports **#421–#430** were claimed by scan agents but last confirmed report file on disk is `420-vapi-backend-product-engineer-2026-04-27.md`. Run `ls reports/ | tail -20` to verify and write any missing reports before applying.
+
+---
+
+## Key Findings — Together AI
+
+Together AI's 3 internship postings (SWE Intern 5012768007, Security Intern 5012785007, GTM Analyst Intern 5014290007) are **CONFIRMED CLOSED** as of 2026-04-30 — verified via live Greenhouse API (49 active jobs, 0 intern/entry-level).
+
+---
+
+## Next Actions
+
+1. **TODAY**: Apply to Shopify #429 (deadline May 7 — 7 days)
+2. **THIS WEEK**: Apply to NYT #430 (June 1 start)
+3. **VERIFY**: Check reports/ directory for missing report files
+4. **CHECK**: Sierra #428 and Verkada #425 eligibility vs. TAMU schedule
+5. **MONITOR**: Market saturated at 236 scans — next scan in 3-5 days
+
+---
+
+*Generated by career-ops autonomous scan agent — 2026-04-30 (v236)*
