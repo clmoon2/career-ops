@@ -1,5 +1,16 @@
 # Pipeline -- Pending URLs
 
+<!-- === BEGIN 2026-04-30 SCAN v238 === -->
+<!-- Sources: GitHub SimplifyJobs Summer2026/New-Grad/Off-Season 0d; speedyapply SWE+AI 0d; zapplyjobs Internships-2026 0d; jobright-ai New-Grad-2026 latest; 30+ WebSearch queries (Ashby/Greenhouse/Lever SWE+Security+AI+DevOps+NewGrad+2026 — Priority 2 companies: Wiz/Semgrep/Modal/Perplexity/Cursor/SeatGeek/Mirage/Loop/Wonderschool/Workato/Nextdoor/Zettabyte and others); Greenhouse API SeatGeek board (1 new-grad found). RESULT: 2 genuinely new URLs — SeatGeek New Grad 7858968 (~3.6/5 below threshold → pipeline) + Mirage Early Career ff388d40 (~3.0/5 experience mismatch → pipeline for ref); all other sources confirmed dup v7-v237. -->
+<!-- 0 qualifying ≥4.0 | 2 new URLs total | 1 meaningful pipeline addition -->
+
+### Below Threshold — scan-v238 (pending evaluation)
+
+- [ ] https://job-boards.greenhouse.io/seatgeek/jobs/7858968 | SeatGeek | Software Engineer - New Grad | ~3.6/5 | NYC hybrid 3d/wk; $110-130K; Python/Go/React+TS stack; graduating Spring/Summer 2026; ticketing/events domain (not AI/security-forward); C#/.NET in stack but not required; decent comp + solid stack match but domain mismatch for Carlos's AI/security trajectory
+- [ ] https://jobs.ashbyhq.com/mirage/ff388d40-ab91-4383-977b-4caa18e85160 | Mirage | Software Engineer, Early Career | ~3.0/5 | NYC in-person 5d/wk; AI video platform (20M+ creators); $185-285K comp listed but JD appears to require 5+ years experience despite "early career" title — likely not suitable for new grad; skip unless Mirage clarifies graduation eligibility
+
+<!-- === END 2026-04-30 SCAN v238 === -->
+
 <!-- === BEGIN 2026-04-30 SCAN v237 === -->
 <!-- Sources: 10 Greenhouse APIs (Anthropic/Airtable/Vercel/Glean/ArizeAI/RunPod/HumeAI/Intercom/Temporal/PolyAI); 20+ WebSearch queries (Ashby/Greenhouse/Lever SWE+Security+AI+ML+DevOps+Consulting Summer2026+Fall2026+NewGrad); GitHub SimplifyJobs Summer2026+Off-Season 0d; SpeedyApply SWE+AI 0-1d; CrowdStrike Workday full sweep; Ema/TensorWave/Axiomatic AI re-check. RESULT: 0 genuinely new URLs — 4,709-entry history fully dedup'd. All sources confirmed dup v7-v236. Market CONFIRMED SATURATED at 237 scans. -->
 <!-- 0 qualifying ≥4.0 | 0 new URLs total | 0 pipeline additions -->
