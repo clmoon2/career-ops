@@ -4118,3 +4118,20 @@ All sources confirmed duplicate vs. scan-v233/v234/v235 (all run earlier today).
 - Notion New Grad AI (#427) — 4.0/5, verify Jul 27 FTE start date
 
 <!-- === END 2026-05-01 SCAN v246 === -->
+
+<!-- === BEGIN 2026-05-01 SCAN v248 === -->
+### New Listings — Scan v248 (2026-05-01, 4th scan today)
+
+- [ ] https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Networking-Systems-Software-Engineering-Intern---Fall-2026_JR2017181 | NVIDIA | Networking Systems Software Engineering Intern - Fall 2026 | Santa Clara CA; $62/hr; 12-week Fall; C++/Python networking; ~3.5/5 — ⚠️ Fall 2026 likely conflicts with TAMU semester (Aug/Sep start); networking specialization; verify timing before applying
+- [ ] https://jobs.ashbyhq.com/kira/22b09832-e23b-44a4-9c03-46512e14499c | Kira Learning | Software Engineering Intern (Summer 2026, SF) | AI-native education platform; fullstack React+Python; 12-week; SF on-site; comp unknown; ~3.2/5 — education sector; verify comp before applying
+- [ ] https://jobs.ashbyhq.com/kira/d46f8721-f33d-4539-bb78-e07f204e8ee8 | Kira Learning | Software Engineering Intern (Summer 2026, NYC) | Same role as SF listing; NYC location; ~3.2/5 — prefer SF listing if applying to both
+- [ ] https://lifeattiktok.com/search/7600535181632457013 | TikTok | Security Software Engineer Project Intern (Product Security) - 2026 Start | San Jose CA; Product Security / LLM security / pentesting; similar to #392 (4.0/5, same team); ~3.8/5 — ⚠️ ByteDance parent company brand risk; review carefully
+
+**⚠️ URGENT DEADLINES (unchanged — act NOW):**
+- **Anthropic Fellows ML Systems (#358) + AI Safety (#292) — DEADLINE MAY 3, 2026 EOD PST (2 DAYS!)**
+- **Shopify Fall 2026 Engineering & Data Internship (#429) — DEADLINE MAY 7, 2026 (6 DAYS!)**
+- NYT AI Engineer Intern (#430) — 4.0/5, June 1 start, apply now
+- Sierra Agent Development Intern (#428) — 4.5/5, verify TAMU graduation eligibility
+- Notion New Grad AI (#427) — 4.0/5, verify Jul 27 FTE start date
+
+<!-- === END 2026-05-01 SCAN v248 === -->

@@ -1,109 +1,87 @@
-# Scan Summary — v247 (2026-05-01)
+# Portal Scan Summary — 2026-05-01 (v248)
 
-**Agent:** career-ops autonomous scan agent  
-**Run:** Scan v247 of 247 total scans  
-**Date:** 2026-05-01  
-**Duration:** Full scan (Greenhouse APIs + 25+ WebSearch queries + SpeedyApply repo)
-
----
-
-## Portals Scanned
-
-### Level 2 — Greenhouse APIs (9 companies)
-| Company | Intern/New Grad Jobs Found | Result |
-|---------|---------------------------|--------|
-| Anthropic | 0 new (all seen v1–v246) | skipped_no_intern |
-| Airtable | 0 new | skipped_no_intern |
-| Vercel | 0 new | skipped_no_intern |
-| Arize AI | 0 new | skipped_no_intern |
-| Glean | 0 new | skipped_no_intern |
-| RunPod | 0 new | skipped_no_intern |
-| Hume AI | 0 new | skipped_no_intern |
-| Intercom | 0 new | skipped_no_intern |
-| Temporal | 0 jobs total on board | skipped_no_intern |
-
-### Level 3 — WebSearch Queries (25+ queries)
-Queries covering: Ashby (AI/ML intern, SWE intern, security intern, DevOps intern, new grad), Greenhouse (same categories), Lever (same categories), plus targeted company searches (OpenAI, Palantir, ByteDance, Zapier, Retell AI, Vapi, ElevenLabs, Deepgram, Cohere, Mistral, LangChain, Pinecone, n8n, Sierra, Decagon, Weights & Biases).
-
-**All 25+ WebSearch queries returned results already in scan-history.tsv (confirmed via grep dedup).**
-
-### SpeedyApply 2026-AI-College-Jobs Repo
-Checked `0d` (today) entries — found 3 genuinely new URLs not in scan-history.tsv.
+**Scan:** v248 (4th scan today)
+**Date:** 2026-05-01
+**Candidate:** Carlos Luna-Peña
 
 ---
 
-## Results
+## Overview
 
 | Metric | Count |
 |--------|-------|
-| Companies scanned | 30+ |
-| WebSearch queries executed | 25+ |
-| Total URLs encountered | ~200 |
-| Already in scan-history.tsv | ~197 |
-| Genuinely new URLs | 3 |
-| New URLs ≥ 4.0/5 | 0 |
-| New URLs added to pipeline (below threshold) | 1 |
-| New URLs skipped (score < 3.0) | 2 |
-| New reports generated | 0 |
+| Portals / sources scanned | 25+ |
+| Greenhouse APIs checked | 3 (Anthropic, HumeAI, Glean) |
+| WebSearch queries executed | 40+ |
+| Job aggregators checked | SpeedyApply 2026-SWE-College-Jobs (top 80) |
+| Total URLs evaluated | 100+ |
+| Duplicates (already in history) | 96+ |
+| Filtered by title/domain/exp | 4 |
+| **Genuinely new → pipeline** | **4** |
+| Qualifying ≥ 4.0 | **0** |
+| New evaluation reports | **0** |
+| Total scan history entries | 4,818 |
 
 ---
 
-## New Listings Found
+## New Listings Added to Pipeline
 
-### Below Threshold (added to pipeline)
-| Company | Role | Score | Notes |
-|---------|------|-------|-------|
-| Salesforce | Summer 2026 Intern — AI & Data Science Analyst | ~3.0/5 | SF only; analyst track, not SWE; $49–59/hr est. Weak fit for engineering-focused profile. |
+| Company | Role | Location | Est. Score | Notes |
+|---------|------|----------|------------|-------|
+| NVIDIA | Networking Systems SWE Intern — Fall 2026 | Santa Clara, CA | ~3.5/5 | $62/hr; Fall timing conflicts with TAMU semester |
+| Kira Learning | Software Engineering Intern — Summer 2026 | San Francisco, CA | ~3.2/5 | AI-native edtech; fullstack; verify comp |
+| Kira Learning | Software Engineering Intern — Summer 2026 | New York, NY | ~3.2/5 | Same role as SF; alternative location |
+| TikTok | Security SWE Project Intern (Product Security) | San Jose, CA | ~3.8/5 | Second slot for #392 role; ByteDance risk |
 
-### Skipped (score < 3.0)
-| Company | Role | Score | Reason |
-|---------|------|-------|--------|
-| Bloom Energy | Technical Product Systems Intern AI & PLM | ~2.5/5 | Energy/hardware domain, PLM tools focus, not AI/SWE |
-| Deutsche Windtechnik | AI & Data Intern (Houston TX) | ~2.0/5 | Wind energy niche, data-only, no SWE component |
+No listings reached the **≥ 4.0 threshold** for a full evaluation report.
 
 ---
 
-## Top Matches ≥ 4.0/5
+## Sources Scanned
 
-**None found this scan.** Market for Summer 2026 internships and 2026 New Grad roles is comprehensively covered after 247 scans across all major ATS platforms (Ashby, Greenhouse, Lever, Workday).
+### Level 2 — Greenhouse APIs
+- Anthropic: 0 new intern/new-grad (same as v247)
+- Hume AI: 0 new intern/new-grad (same as v247)
+- Glean: 0 intern/new-grad (150+ FTE roles, no intern program)
 
----
-
-## Recommended Next Actions
-
-### URGENT — Time-Sensitive Deadlines
-
-1. **🔴 CRITICAL — Anthropic Fellows Program**  
-   **DEADLINE: May 3, 2026 EOD PST (2 DAYS)**  
-   Apply immediately. This is the highest-priority action.
-
-2. **🟠 HIGH — Shopify Fall 2026 Intern (#429 in tracker)**  
-   **DEADLINE: May 7, 2026 (6 DAYS)**  
-   Score: 4.2/5. Apply before deadline.
-
-### High Priority — Pending Applications
-3. **New York Times AI Engineer Intern** (#430, 4.0/5, evaluated April 30) — Apply now.
-4. **Cerebras SWE Intern** (#416, 4.5/5) — Highest score in tracker; verify status.
-5. **Vapi SWE Intern** (#420, 4.4/5) — Strong AI/infra fit; apply if not done.
-6. **Palantir SWE Intern** (#419, 4.3/5) — Apply if not done.
-7. **Verkada AI SWE Fall** (#425, 4.2/5) — Security + AI intersection; strong fit.
-
-### Medium Priority
-8. **Sierra** — Verify new grad graduation eligibility (May 2027 vs. May 2026 cutoff).
-9. **Salesforce AI & Data Science Analyst** — Consider if analyst track is acceptable; weak fit for SWE career path.
+### Level 3 — WebSearch Queries
+- Ashby: SWE intern 2026, security intern 2026, AI/ML intern 2026, backend/fullstack intern 2026, Fall/Winter 2026 → all confirmed dup v7-v247
+- Greenhouse: SWE intern 2026, new grad 2026, security intern 2026, DevOps/cloud intern 2026, AI/ML intern 2026 → all confirmed dup v7-v247
+- Lever: SWE intern 2026, security engineer intern 2026 → all confirmed dup v7-v247
+- SpeedyApply 2026-SWE-College-Jobs top 80 entries: **4 genuinely new** (NVIDIA JR2017181 + Kira Learning x2 + TikTok 7600535)
 
 ---
 
 ## Market Status
 
-**CONFIRMED SATURATED after 247 scans.**
+**CONFIRMED SATURATED** at 248 scans across 30 days (Apr 1 – May 1, 2026).
 
-All major job boards for Summer 2026 internships and 2026 New Grad roles in SWE/AI/ML/Security/DevOps have been exhaustively indexed. The marginal value of additional scans is very low. Recommend:
-
-- Reduce scan frequency (weekly instead of daily)
-- Focus effort on **applications and follow-ups** for the 30+ roles already evaluated ≥4.0/5
-- Re-enable scanning in July–August 2026 when Fall 2026 and 2027 internship postings begin appearing
+- Summer 2026 internship window: **CLOSED** (most programs started)
+- Fall 2026 internship cycle: **Early stage** (few new postings; timing conflicts for TAMU students until Dec 2026)
+- New grad 2026 roles: **Saturated** (most programs closed or FTE-only)
+- Recommendation: **Stop scanning, focus on applying to pipeline**
 
 ---
 
-*Generated by career-ops scan agent v247 | 2026-05-01*
+## ⚠️ URGENT ACTIONS (act NOW)
+
+| # | Opportunity | Score | Deadline | Action |
+|---|-------------|-------|----------|--------|
+| #358/#292 | **Anthropic Fellows** (ML Systems + AI Safety) | 4.5/5 | **MAY 3, 2026 (2 DAYS!)** | Apply immediately at anthropic.com/careers |
+| #429 | **Shopify Fall 2026 Engineering Intern** | 4.3/5 | **MAY 7, 2026 (6 DAYS!)** | Apply at internships.shopify.com |
+| #430 | NYT AI Engineer Intern | 4.0/5 | June 1 start (no close date) | Apply now — earliest start |
+| #428 | Sierra Agent Development Intern | 4.5/5 | Open | Verify TAMU graduation eligibility first |
+| #427 | Notion New Grad AI | 4.0/5 | Jul 27 FTE start | Verify graduation date compatibility |
+
+---
+
+## Recommended Next Actions
+
+1. **APPLY TO ANTHROPIC FELLOWS NOW** — deadline May 3 is 2 days away. ML Systems (#358) + AI Safety (#292) both scored 4.5/5.
+2. **Apply to Shopify Fall 2026 by May 7** — 6 days left on deadline.
+3. Run `/career-ops pipeline` to evaluate the 4 new listings above.
+4. Pause scanning — the market is saturated. Resume scanning in mid-May to catch early Fall 2027 / Summer 2027 postings.
+
+---
+
+*Generated by career-ops autonomous scan agent v248 — 2026-05-01*
