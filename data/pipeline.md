@@ -4205,3 +4205,18 @@ Portals checked this scan:
 - Notion New Grad AI (#427) — 4.0/5, verify Jul 27 FTE start date
 
 <!-- === END 2026-05-01 SCAN v251 === -->
+
+<!-- === BEGIN 2026-05-01 SCAN v254 === -->
+## Added by scan-v254 (2026-05-01)
+
+- [ ] https://job-boards.greenhouse.io/globalizationpartners/jobs/7720641003 | Globalization Partners | AI Intern (Summer 2026) — ~3.2/5; US Remote; $75K prorated/12wks (~$36/hr); Python/TF/PyTorch/NLP/GenAI; HR tech domain; 3rd-year eligible
+
+**⚠️ CRITICAL DEADLINES — ACT NOW:**
+- **Anthropic Fellows ML Systems (#358) + AI Safety (#292) — DEADLINE MAY 3, 2026 EOD PST (2 DAYS!)**
+- **Shopify Fall 2026 Engineering & Data Internship (#429) — DEADLINE MAY 7, 2026 (6 DAYS!)**
+- Center for AI Safety Research Intern — deadline May 29, 2026
+- NYT AI Engineer Intern (#430) — 4.0/5, June 1 start
+- Sierra Agent Development Intern (#428) — 4.5/5, verify TAMU graduation eligibility
+- Notion New Grad AI (#427) — 4.0/5, verify Jul 27 FTE start date
+
+<!-- === END 2026-05-01 SCAN v254 === -->
