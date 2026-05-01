@@ -4177,3 +4177,24 @@ All portals checked returned confirmed duplicates vs. v7-v249:
 - career-ops v1.1.0 → v1.6.0 (Gemini CLI integration + other features). Run: `node update-system.mjs apply`
 
 <!-- === END 2026-05-01 SCAN v250 === -->
+
+<!-- === BEGIN 2026-05-01 SCAN v251 === -->
+### New Listings — Scan v251 (2026-05-01, 7th scan today)
+
+*No new qualifying listings found this scan.* Market confirmed maximally saturated at 251 scans.
+
+Portals checked this scan:
+- **25+ WebSearch queries** (consulting/Big4, cybersecurity/CrowdStrike/PAN/SentinelOne/Wiz, defense/Anduril/ShieldAI, fintech/Stripe/Rippling/Brex/Nium, enterprise/Snowflake/Databricks/MongoDB, YC startups, Lever/Ashby/Greenhouse Fall 2026 specific) — ALL confirmed dup v7-v250
+- **Greenhouse APIs** (Anthropic/Airtable/HumeAI/Glean/Vercel): Airtable/HumeAI/Glean/Vercel confirmed 0 intern/new-grad roles; Anthropic all dup v250
+- **Direct checks**: Nium Lever (confirmed dup v219, 3.0/5); NVIDIA JR2017181 (confirmed dup v248, ~3.5/5 pipeline); SpaceX 8403206002 (confirmed dup, 2.5/5 below threshold)
+- No new Fall 2026 postings found on Ashby, Greenhouse, Lever, or Workday
+
+**⚠️ CRITICAL DEADLINES — ACT NOW:**
+- **Anthropic Fellows ML Systems (#358) + AI Safety (#292) — DEADLINE MAY 3, 2026 EOD PST (2 DAYS!)**
+- **Shopify Fall 2026 Engineering & Data Internship (#429) — DEADLINE MAY 7, 2026 (6 DAYS!)**
+- Center for AI Safety Research Intern — deadline May 29, 2026
+- NYT AI Engineer Intern (#430) — 4.0/5, June 1 start
+- Sierra Agent Development Intern (#428) — 4.5/5, verify TAMU graduation eligibility
+- Notion New Grad AI (#427) — 4.0/5, verify Jul 27 FTE start date
+
+<!-- === END 2026-05-01 SCAN v251 === -->
