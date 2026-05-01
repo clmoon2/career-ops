@@ -4070,3 +4070,33 @@ All sources confirmed duplicate vs. scan-v233/v234/v235 (all run earlier today).
 - Verify TAMU semester plan for **Verkada** AI SWE Intern Fall 2026 — report #425
 
 <!-- === END 2026-04-30 SCAN v236 === -->
+
+<!-- === BEGIN 2026-05-01 SCAN v246 === -->
+<!-- Sources: Anthropic Greenhouse API (1 new entry: Economics & Policy Fellows skipped_closed); HumeAI API (0 intern/new-grad); RunPod API (0 intern/new-grad); Vercel API (0 intern/new-grad); 30+ WebSearch queries (Ashby/Greenhouse/Lever SWE+Security+AI+ML+DevOps+NewGrad+consulting intern 2026 — all confirmed dup v7-v245 except 6 new URLs); speedyapply 2026-AI-College-Jobs New Grad latest (Accordion x2 → 4+yrs exp skipped; Commvault AI Governance → 2-5yrs exp skipped; Handshake Associate MLE + MLE I + AI PhD Researcher → PhD skipped; Commure AI Agents Ops → JS-gated; GlobalFoundries x2 → semiconductor domain; Profound AI Strategist → JS-gated); SimplifyJobs Summer2026 latest (all dup v7-v245); SimplifyJobs New-Grad latest (all dup v7-v245); Lever broad search (all dup v7-v245 + Palantir FDSE/SWE all confirmed in history); Ashby security/consulting searches (all dup v7-v245); 4,762-entry history fully dedup; 6 genuinely new URLs (0 qualifying >=4.0): Handshake Associate MLE (~3.3/5) + Handshake MLE I (~3.3/5) + Commure AI Agents (~3.0/5) + Profound AI Strategist (~2.5/5) + GlobalFoundries Austin (~2.5/5) + GlobalFoundries Malta (~2.5/5); 6 skipped (experience/degree mismatch). -->
+<!-- 0 qualifying >=4.0 | 4 new pipeline additions | 6 skipped above-threshold | market SATURATED at 246 scans -->
+
+## Scan v246 — 2026-05-01
+
+### Pendientes — scan-v246
+
+- [ ] https://jobs.ashbyhq.com/handshake/8eff0d8a-2f32-44b2-8c49-7a9263615651 | Handshake | Associate Machine Learning Engineer | Growth Relevance team; new grad FTE; SF; Python/ML; ~3.3/5 — JS-gated JD, verify experience requirements before applying
+- [ ] https://jobs.ashbyhq.com/handshake/dd1fd4fc-6f6d-4a3d-8c54-dd91ed48dd70 | Handshake | Machine Learning Engineer I | Network & Core Relevance team; new grad FTE; SF; Python/ML; ~3.3/5 — JS-gated JD, verify experience requirements
+- [ ] https://jobs.ashbyhq.com/commure/9f86482b-fc18-4a76-8e5f-3c0979d713fc | Commure | AI Agents Operations Associate | Healthcare AI; General Catalyst backed $1B+ valuation; Mountain View CA; multi-agent work; ~3.0/5 — JS-gated JD, verify role is engineering vs. ops before applying
+
+### Skipped — Experience / Degree Mismatch
+
+- https://job-boards.greenhouse.io/accordion/jobs/7867202 — Accordion AI Operations Associate — requires 4+ years experience; skipped_title
+- https://job-boards.greenhouse.io/accordion/jobs/7867353 — Accordion AI Quality Associate — requires 4+ years experience; skipped_title
+- https://job-boards.greenhouse.io/commvault/jobs/5187908008 — Commvault AI Governance Associate — requires 2-5 years experience; skipped_title
+- https://jobs.ashbyhq.com/handshake/8686ef16-c231-46af-b274-6e2257ed0f2d — Handshake AI PhD Student Researcher Fall 2026 — PhD required; skipped_title
+- https://jobs.ashbyhq.com/profound/7a6182d0-efcd-4b5a-9d90-93f8797b7395 — Profound AI Strategist New Grad — JS-gated; unknown startup; ~2.5/5; skipped_score
+- https://globalfoundries.wd1.myworkdayjobs.com/en-US/external/job/USA---Texas---Austin/AI-Enablement-Strategist_JR-2600008 — GlobalFoundries AI Enablement Strategist (Austin TX) — semiconductor domain mismatch; ~2.5/5; skipped_score
+
+**⚠️ URGENT DEADLINES (from prior pipeline — act NOW):**
+- **Anthropic Fellows ML Systems (#358) + AI Safety (#292) — DEADLINE MAY 3, 2026 EOD PST (2 DAYS!)**
+- **Shopify Fall 2026 Engineering & Data Internship (#429) — DEADLINE MAY 7, 2026 (6 DAYS!)**
+- NYT AI Engineer Intern (#430) — 4.0/5, June 1 start, apply now
+- Sierra Agent Development Intern (#428) — 4.5/5, verify TAMU graduation eligibility
+- Notion New Grad AI (#427) — 4.0/5, verify Jul 27 FTE start date
+
+<!-- === END 2026-05-01 SCAN v246 === -->
