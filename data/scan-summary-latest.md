@@ -1,99 +1,95 @@
-# Portal Scan — 2026-05-01 (v254)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Portal Scan Summary — 2026-05-01 (Scan v255)
 
-**Scan number:** 254 (10th scan today)
+**Scan:** v255 (11th autonomous scan today)
 **Date:** 2026-05-01
-**History size before scan:** 4,907 entries
-**History size after scan:** 4,927 entries (+20 new entries)
+**History size:** 4,928 → 4,943 entries (+15)
 
 ---
 
-## Portals & Sources Scanned
+## Portals Scanned
 
-| Source | Method | Companies / Queries |
-|--------|--------|---------------------|
-| Greenhouse API | WebFetch | Anthropic, Cloudflare, Globalization Partners |
-| Ashby (broad) | WebSearch | 15+ companies incl. Notion, OpenAI, Cohere, Zip, Sentry, Replit, Handshake, Brain Co., Farsight |
-| Greenhouse (broad) | WebSearch | Cloudflare, Affirm, Mercury, Verkada, CLEAR, Together AI, Sigma Computing |
-| Lever (broad) | WebSearch | Palantir, Mistral, W&B |
-| YC Internships | WebSearch + WebFetch | 15+ YC companies (Swif.ai, SubImage, Bloom, Candle, Cloudglue, Crustdata, Reacher, Garage) |
-| SpeedyApply SWE | WebFetch (GitHub README) | Top-30 entries (defense, robotics, quant, industrial) |
-| SpeedyApply AI | WebFetch (GitHub README) | Top-30 entries (Salesforce, TikTok, Adobe, GE Aerospace, G-P, Cambium, Rocket Lawyer, RoboForce) |
-| HN "Who Is Hiring?" May 2026 | Check | All 52 company postings — senior FT only, 0 intern/new-grad |
-| New Grad (broad) | WebSearch | Harvey, Decagon, Loop, Benchling, Scale AI, Airtable, Verkada |
-| Cybersecurity companies | WebSearch | Anduril, CrowdStrike, Wiz, PAN, SentinelOne |
+| Source | Method | Result |
+|--------|--------|--------|
+| Ashby (SWE/Security/AI intern Fall 2026) | WebSearch | All dup v7-v254 except Replit new grad, Zip new grad, Kikoff |
+| Greenhouse (SWE/Security intern Summer+Fall 2026) | WebSearch | All dup v7-v254 except Loop new grad (x2), Gemini security, Schonfeld, MEMX, Worldly |
+| Lever (SWE/Security/AI/DevOps 2026) | WebSearch | All dup except Symmetry Systems |
+| SpeedyApply SWE repo | WebFetch | NVIDIA JAX JR2009745 (new, skipped Fall conflict); Cadent Backend 1359 (new, skipped ad tech); all others dup |
+| SpeedyApply AI repo | WebFetch | All dup v247-v254 |
+| YC companies (W26 + recent) | WebSearch | All dup v30-v254 |
+| Consulting / Big 4 tech | WebSearch | Summer 2026 windows closed per industry confirmation |
+| Arize AI Greenhouse API | WebFetch API | 39 roles, 0 intern/new-grad |
+| HN "Who Is Hiring?" May 2026 | Confirmed dup v252 | All senior FT roles, 0 intern/new-grad |
+
+**Total queries run:** 20+ WebSearch + 5 WebFetch API calls
 
 ---
 
 ## Results
 
-| Metric | Count |
-|--------|-------|
-| Total URLs checked | 70+ |
-| Confirmed duplicates (dup) | 65 |
-| Filtered by title (skipped_title) | 3 |
-| Filtered by score (skipped_score) | 1 |
-| Confirmed closed (skipped_closed) | 1 |
-| **Genuinely new URLs found** | **1** |
-| New listings added to pipeline | 1 |
-| Qualifying >= 4.0 (full report written) | **0** |
+| Category | Count |
+|----------|-------|
+| New URLs added to pipeline | 6 |
+| Skipped (score below threshold) | 5 |
+| Skipped (title mismatch / wrong level) | 4 |
+| Already in history (dup) | Majority |
+| Reports written | 0 |
 
 ---
 
-## New Listings Added to Pipeline
+## New Pipeline Additions (6)
 
-| Company | Role | Score | Location | Comp | Notes |
-|---------|------|-------|----------|------|-------|
-| Globalization Partners (G-P) | [AI Intern](https://job-boards.greenhouse.io/globalizationpartners/jobs/7720641003) | ~3.2/5 | US Remote | $75K prorated / 12 wks (~$36/hr) | Python/TF/PyTorch/NLP/GenAI; HR tech domain (Gia AI product); 3rd-year eligible |
-
-**No listings scored >= 4.0. No evaluation reports written.**
+| Priority | Company | Role | Est. Score | Notes |
+|----------|---------|------|-----------|-------|
+| HIGH | Replit | Software Engineer - New Grad (Summer 2026) | ~4.2/5 | Verify graduation. a16z/Google-backed agentic coding IDE. Strong Carlos AI match. |
+| MEDIUM | Symmetry Systems | Full Stack SWE Intern (Summer 2026) | ~3.7/5 | Data+AI security platform. Fully remote 10-12 wks. JS+Python. |
+| MEDIUM | Zip | Software Engineer, New Grad (2026 Start) | ~3.5/5 | Enterprise procurement. Companion new-grad to Zip Fall 2026 intern. |
+| LOW | Loop | 2026 New Grad - SWE, AI | ~3.3/5 | Returns management platform. SF/Chicago/NYC. Below threshold. |
+| LOW | Loop | 2026 New Grad - SWE, Full-Stack | ~3.3/5 | Returns management platform. SF/Chicago/NYC. Below threshold. |
+| LOW | Kikoff | Software Engineer - Recent Grad 2026 | ~3.2/5 | Consumer credit fintech. Below threshold. Last resort. |
 
 ---
 
-## Top Matches (Score >= 4.0) — Existing Pipeline
+## Skipped (not added to pipeline)
 
-These were found in prior scans and remain the top active targets:
-
-| # | Company | Role | Score | Deadline | Action |
-|---|---------|------|-------|----------|--------|
-| #358 | Anthropic | Fellows Program — ML Systems & Performance | 4.5+/5 | **MAY 3, 2026 EOD PST** | APPLY NOW — 2 days left |
-| #292 | Anthropic | Fellows Program — AI Safety | 4.5+/5 | **MAY 3, 2026 EOD PST** | APPLY NOW — 2 days left |
-| #429 | Shopify | Fall 2026 Engineering & Data Intern | 4.2/5 | **MAY 7, 2026** | 6 days left |
-| #428 | Sierra | Agent Development Intern | 4.5/5 | TBD | Verify TAMU graduation eligibility |
-| #430 | New York Times | AI Engineer Intern | 4.0/5 | June 1 start | Apply ASAP — no deadline listed |
-| #427 | Notion | Software Engineer, New Grad (AI) | 4.0/5 | Jul 27 FTE start | Verify graduation date |
+| Company | Role | Reason | Score |
+|---------|------|--------|-------|
+| Gemini (crypto) | Security Engineering Intern | Crypto exchange domain mismatch | ~3.2/5 |
+| Gemini (crypto) | Security GRC Intern | GRC focus, not SWE | — |
+| Schonfeld | Cybersecurity Operations Intern | Hedge fund ops; listing possibly closed | ~3.0/5 |
+| MEMX | Information Security Intern | Info security ops, not SWE; NYC only | ~2.5/5 |
+| Worldly | Security Operations Intern | Sustainability domain; ops not SWE | ~2.5/5 |
+| NVIDIA JAX | SWE Intern - Fall 2026 (JR2009745) | Fall 2026 TAMU semester conflict | ~3.5/5 |
+| Cadent | Backend Engineer Intern | Ad tech domain (same as data eng ~2.0/5) | ~2.0/5 |
+| Arize AI | All roles | All senior FTE, 0 intern/new-grad program | — |
 
 ---
 
 ## Market Status
 
-**MAXIMALLY SATURATED.** After 254 scans covering 4,927 unique URLs, the Summer 2026 internship market has been comprehensively catalogued. All major platforms (Ashby, Greenhouse, Lever, YC, SpeedyApply, SimplifyJobs) have been exhausted.
+The internship/new-grad market for Summer 2026 is at maximum saturation (255 scans since April 5, 2026). The few new listings found this scan are mostly new-grad FTE roles from companies already tracked as interns (Replit, Zip), one small security startup (Symmetry Systems), and below-threshold roles. Focus should shift to applying before deadlines expire.
 
-- **Summer 2026 internship season:** Effectively closed for new postings. Most companies have stopped accepting applications.
-- **Fall 2026 internships:** A few still open (OpenAI, Notion, Sentry, Zip, Verkada, Shopify).
-- **New Grad FTE (2026):** A few active (Harvey #383 4.1/5, Glean #52 4.5/5, Notion #427 4.0/5).
-- **Only new find this scan:** G-P AI Intern (~3.2/5, below threshold — HR tech domain mismatch).
+---
 
-**Recommendation:** Stop scanning and focus on applying to the high-priority pipeline entries with active deadlines.
+## URGENT DEADLINES — ACT NOW
+
+- Anthropic Fellows ML Systems (#358) + AI Safety (#292) — DEADLINE MAY 3, 2026 EOD PST (2 DAYS!)
+- Shopify Fall 2026 Engineering & Data Internship (#429) — DEADLINE MAY 7, 2026 (6 DAYS)
+- Center for AI Safety Research Engineer Intern — deadline May 29, 2026
+- NYT AI Engineer Intern (#430) — 4.0/5, June 1 start
+- Sierra Agent Development Intern (#428) — 4.5/5
+- Notion New Grad AI (#427) — 4.0/5, verify Jul 27 FTE start
 
 ---
 
 ## Recommended Next Actions
 
-1. URGENT (2 days): Apply to Anthropic Fellows ML Systems (#358) and AI Safety (#292) — deadline MAY 3, 2026 EOD PST. Run `/career-ops pipeline` or paste the JD directly.
-
-2. URGENT (6 days): Apply to Shopify Fall 2026 Engineering & Data Intern (#429) — deadline MAY 7, 2026.
-
-3. This week: Apply to NYT AI Engineer Intern (#430, 4.0/5) — June 1 start with no listed deadline.
-
-4. Verify: Check TAMU graduation date to confirm Sierra (#428, 4.5/5) eligibility.
-
-5. Verify: Check graduation date for Notion New Grad AI (#427, 4.0/5) — July 27 FTE start.
-
-6. Pipeline sweep: Run `/career-ops pipeline` to evaluate any pending pipeline entries that haven't been fully processed.
-
-7. System update available: career-ops v1.1.0 -> v1.6.0. Run `node update-system.mjs apply` to upgrade.
+1. APPLY NOW: Anthropic Fellows ML Systems (#358) + AI Safety (#292) — 2 days left
+2. APPLY THIS WEEK: Shopify Fall 2026 (#429) — 6 days left
+3. EVALUATE: Replit New Grad — verify TAMU graduation timeline first, then full evaluation
+4. EVALUATE: Symmetry Systems intern — fully remote, strong domain fit
+5. Run /career-ops pipeline to process the 6 new pipeline additions
+6. Verify graduation timeline to unlock new-grad listings (Replit, Zip, Loop, Kikoff)
 
 ---
 
-*Generated by career-ops autonomous scan agent · 2026-05-01*
+Generated by career-ops scan-v255 autonomous agent | 2026-05-01

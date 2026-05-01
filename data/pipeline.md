@@ -4220,3 +4220,23 @@ Portals checked this scan:
 - Notion New Grad AI (#427) — 4.0/5, verify Jul 27 FTE start date
 
 <!-- === END 2026-05-01 SCAN v254 === -->
+
+<!-- === BEGIN 2026-05-01 SCAN v255 === -->
+## Added by scan-v255 (2026-05-01)
+
+- [ ] https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc | Replit | Software Engineer - New Grad (Summer 2026) — ~4.2/5 ⚠️ VERIFY GRADUATION ELIGIBILITY; agentic coding IDE; Carlos AI pipeline + LLM experience is strong match; a16z/Google-backed
+- [ ] https://jobs.lever.co/SymmetrySystems/dbca271b-a99b-48ab-83f2-b596a037ad65 | Symmetry Systems | Full Stack SWE Intern (Summer 2026) — ~3.7/5; Data+AI security platform; fully remote 10-12 wks; JS+Python; Carlos security+AI fit (adversarial LLM testing, OAuth proxy, HMAC CSRF)
+- [ ] https://jobs.ashbyhq.com/zip/5f28357a-c95d-485a-84f9-feff64ce9fb3 | Zip | Software Engineer, New Grad (2026 Start) — ~3.5/5; enterprise procurement platform; companion new-grad to Zip Fall 2026 intern; verify start timeline vs graduation
+- [ ] https://job-boards.greenhouse.io/loop/jobs/5780584004 | Loop | 2026 New Grad | Software Engineer, AI — ~3.3/5 below threshold; returns management platform; SF/Chicago/NYC; new grad 2026
+- [ ] https://job-boards.greenhouse.io/loop/jobs/5780582004 | Loop | 2026 New Grad | Software Engineer, Full-Stack — ~3.3/5 below threshold; returns management platform; SF/Chicago/NYC; new grad 2026
+- [ ] https://jobs.ashbyhq.com/kikoff/ad87f613-2906-4497-886d-742d9104fc50 | Kikoff | Software Engineer - Recent Grad 2026 — ~3.2/5 below threshold; consumer credit fintech; only if no better options
+
+**⚠️ CRITICAL DEADLINES — ACT NOW:**
+- **Anthropic Fellows ML Systems (#358) + AI Safety (#292) — DEADLINE MAY 3, 2026 EOD PST (2 DAYS!)**
+- **Shopify Fall 2026 Engineering & Data Internship (#429) — DEADLINE MAY 7, 2026 (6 DAYS!)**
+- Center for AI Safety Research Intern — deadline May 29, 2026
+- NYT AI Engineer Intern (#430) — 4.0/5, June 1 start
+- Sierra Agent Development Intern (#428) — 4.5/5
+- Notion New Grad AI (#427) — 4.0/5, verify Jul 27 FTE start date
+
+<!-- === END 2026-05-01 SCAN v255 === -->
