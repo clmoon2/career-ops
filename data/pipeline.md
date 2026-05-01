@@ -4135,3 +4135,23 @@ All sources confirmed duplicate vs. scan-v233/v234/v235 (all run earlier today).
 - Notion New Grad AI (#427) — 4.0/5, verify Jul 27 FTE start date
 
 <!-- === END 2026-05-01 SCAN v248 === -->
+
+<!-- === BEGIN 2026-05-01 SCAN v249 === -->
+### New Listings — Scan v249 (2026-05-01, 5th scan today)
+
+- [ ] https://job-boards.greenhouse.io/mixpanel/jobs/7773373 | Mixpanel | Software Engineer, Growth (New Grad) | SF/Remote; $157,500–$213,000 total target cash; React/TypeScript/Django/Python; experimentation platform engineering; ~3.5/5 — excellent comp but growth/analytics domain not primary target; add to pipeline for comp benchmarking
+- [ ] https://jobs.ashbyhq.com/handshake/c8550c33-fd2c-4ba6-aa5a-d1e2574b0b06 | Handshake | Software Engineer I (Coding) | SF; entry-level; career platform domain; "Coding" product area (assessment/skills features); comp unknown; ~3.3/5 — similar to #SWE I RLE in pipeline; verify comp and stack before applying
+- [ ] https://jobs.smartrecruiters.com/ServiceNow/744000123802354-associate-software-engineer-search-infrastructure-moveworks | ServiceNow (Moveworks) | Associate Software Engineer, Search Infrastructure | Mountain View CA (in-office required); 0-3 yrs; Python/Golang/Docker/AWS/Kafka/Elasticsearch/VectorDB; enterprise AI search; no comp listed; ~3.3/5 — Moveworks enterprise AI angle relevant but in-office Mountain View requires relocation; Java/Go not primary stack
+- [ ] https://jobs.smartrecruiters.com/ServiceNow/744000123803504-associate-software-engineer-core-infrastructure-moveworks | ServiceNow (Moveworks) | Associate Software Engineer, Core Infrastructure | Mountain View CA (in-office required); 0-3 yrs; Python/Golang/Docker/AWS/Kafka/Istio; enterprise AI infra; no comp listed; ~3.3/5 — same relocation and stack caveats as Search Infrastructure role above
+
+**Skipped (below threshold):**
+- https://careers-cadent.icims.com/jobs/1362/data-engineer-intern/job — Cadent Data Engineer Intern NYC; ad tech domain; ~2.0/5; skipped_score
+
+**⚠️ URGENT DEADLINES (act NOW):**
+- **Anthropic Fellows ML Systems (#358) + AI Safety (#292) — DEADLINE MAY 3, 2026 EOD PST (2 DAYS!)**
+- **Shopify Fall 2026 Engineering & Data Internship (#429) — DEADLINE MAY 7, 2026 (6 DAYS!)**
+- NYT AI Engineer Intern (#430) — 4.0/5, June 1 start, apply now
+- Sierra Agent Development Intern (#428) — 4.5/5, verify TAMU graduation eligibility
+- Notion New Grad AI (#427) — 4.0/5, verify Jul 27 FTE start date
+
+<!-- === END 2026-05-01 SCAN v249 === -->
