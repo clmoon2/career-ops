@@ -1,5 +1,12 @@
 # Pipeline -- Pending URLs
 
+<!-- === BEGIN 2026-05-01 SCAN v253 === -->
+<!-- Sources: 8 Greenhouse APIs (Anthropic/Figma/Databricks/Cloudflare/Stripe/Ramp[404]/CrowdStrike[404]/Wiz[404]); 25+ WebSearch queries (Ashby+Greenhouse+Lever intern+new-grad SWE+Security+AI+ML+DevOps; HN May 2026 thread re-fetch; Tesla/RSAC sandbox/ZeroPath/defense-tech/Wellfound/LinkedIn/Indeed/consulting/YC); 4,896-entry history fully dedup. RESULT: 11 new history entries (0 qualifying ≥4.0; Cloudflare 4 non-tech skipped_title; Uare.ai Early Career ~3.0 FTE; Xtillion Puerto Rico ~2.0; Nex game dev domain skip; AGE Solutions defense clearance skip; Sigma Computing grad-only skip). Market CONFIRMED MAXIMALLY SATURATED at 253 scans (9th scan on 2026-05-01). -->
+<!-- 0 qualifying ≥4.0 | 11 new history entries | 0 pipeline additions | 0 new reports -->
+<!-- ⚡ CRITICAL DEADLINES: (1) Anthropic Fellows ML Systems #358 + AI Safety #292 — DEADLINE MAY 3 2026 EOD PST (2 DAYS — APPLY NOW!); (2) Shopify Fall 2026 #429 DEADLINE MAY 7 2026 -->
+<!-- ✅ KEY ACTIONS: (1) Anthropic Fellows May 3 deadline — APPLY TODAY; (2) Shopify #429 May 7; (3) Sierra #428 4.5/5; (4) NYT AI #430 4.0/5; (5) Vapi #420 4.4/5 -->
+<!-- === END 2026-05-01 SCAN v253 === -->
+
 <!-- === BEGIN 2026-05-01 SCAN v247 === -->
 <!-- Sources: Greenhouse APIs (Anthropic/Airtable/Vercel/Arize AI/Glean/RunPod/Hume AI/Intercom/Temporal[0-jobs]); 25+ WebSearch queries (Ashby SWE/Security/AI intern + Lever AI/SWE/Security intern + Greenhouse SWE/Security/AI intern + Ashby New Grad + Greenhouse New Grad + consulting intern + DevOps intern + broad recent postings); SpeedyApply 2026-AI-College-Jobs (0d entries); SimplifyJobs Summer2026-Internships (GitHub); company boards (Salesforce/Bloom Energy/Deutsche Windtechnik/West Monroe/FTI Consulting); 4,774-entry history fully dedup. RESULT: 3 genuinely new URLs (all below threshold) — Salesforce AI & Data Science Analyst Intern (~3.0/5) + Bloom Energy Technical Product Systems AI & PLM Intern (~2.5/5 skipped_score) + Deutsche Windtechnik AI & Data Intern (~2.0/5 skipped_score). 0 qualifying ≥4.0. Market CONFIRMED SATURATED at 247 scans (3rd scan on 2026-05-01). -->
 <!-- 0 qualifying ≥4.0 | 3 new URLs total | 1 pipeline addition | 2 skipped_score -->

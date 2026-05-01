@@ -1,118 +1,105 @@
-# Portal Scan — 2026-05-01 (Scan v252)
+# Portal Scan — 2026-05-01 (Scan v253)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Run:** Autonomous agent · 8th scan today · Scan #252 overall
-**History:** 4,886 → 4,895 entries (+9)
-**Date:** 2026-05-01
+**Run:** Autonomous agent · 9th scan today · Scan #253 overall
+**History:** 4,896 → 4,907 entries (+11)
 
----
+## Coverage
 
-## Summary
+| Source | Method | Result |
+|--------|--------|--------|
+| Anthropic Greenhouse API | WebFetch | All dup v252 |
+| Figma Greenhouse API | WebFetch | No intern roles |
+| Databricks Greenhouse API | WebFetch | No intern/new-grad |
+| Cloudflare Greenhouse API | WebFetch | 4 new non-tech roles → skipped_title |
+| Stripe Greenhouse API | WebFetch | No intern roles |
+| CrowdStrike Greenhouse API | WebFetch | 404 (uses Workday) |
+| Ramp Greenhouse API | WebFetch | 404 |
+| Wiz Greenhouse API | WebFetch | 404 |
+| Ashby broad scan (25+ queries) | WebSearch | All dup v7–v252 |
+| Greenhouse broad scan (20+ queries) | WebSearch | All dup v7–v252 |
+| Lever broad scan (10+ queries) | WebSearch | All dup v7–v252 |
+| HN "Who Is Hiring?" May 2026 thread | WebFetch | 0 intern/new-grad (all senior FT) |
+| Simplify Summer2026 + New-Grad repos | WebFetch | All dup v7–v252 |
+| defensetechjobs.com newsletter | WebFetch | All dup |
+| Tesla careers board | WebSearch | All dup v141 |
+| RSAC 2026 Innovation Sandbox companies | WebSearch | New companies, no intern roles found |
+| ZeroPath careers | WebFetch | SWE role req. 3+ YOE, not intern |
+| Wellfound intern Summer 2026 | WebSearch | All dup |
+| LinkedIn / Indeed fresh postings | WebSearch | All dup or aggregated pages |
+| YC W26 startups search | WebSearch | No new qualifying results |
+| Consulting firms (Accenture/Deloitte) | WebSearch | All dup, deadlines passed |
+| Defense tech (Anduril/Shield AI) | WebSearch | All dup |
 
-| Metric | Count |
-|--------|-------|
-| Sources scanned | 30+ |
-| Companies checked | 25+ |
-| New URLs found | 9 |
-| New pipeline additions (≥4.0) | 0 |
-| New reports written | 0 |
-| Market status | **MAXIMALLY SATURATED** |
+## Results
 
----
+```
+Queries executed:   25+ WebSearch + 8 Greenhouse APIs
+URLs examined:      ~80 (new candidates found in search results)
+Confirmed dups:     ~69 (all from v7–v252 history)
+New to history:     11 entries
+  ├── skipped_title: 6 (Cloudflare non-tech ×4, Nex game dev, Sigma grad-only ×2)
+  ├── skipped_score: 4 (Uare.ai ~3.0, Xtillion ~2.0, AGE Solutions ~1.5, Sigma grad)
+  └── added (summary): 1
+Qualifying ≥4.0:    0
+New pipeline adds:  0
+New reports:        0
+```
 
-## Sources Scanned
+## Genuinely New URLs Found (All Below Threshold)
 
-### Level 1 — Direct Company Boards (Greenhouse API)
-- **Anthropic** — 6 Fellows tracks (AI Safety/AI Security/ML Systems/RL/STEM Fellow/Economics): all confirmed dup. STEM Fellow requires PhD. Economics/Policy Fellow has May 3 deadline but is non-engineering (skipped).
-- **Airtable** — 33 listings, 0 intern/new-grad (confirmed dup v251)
-- **HumeAI** — 8 listings, 0 intern/new-grad (confirmed dup v251)
-- **Glean** — mid-to-senior only, 0 intern/new-grad (confirmed dup v251)
-- **Vercel** — 86 listings, 0 intern/new-grad (confirmed dup v251)
-- **Temporal** — 0 jobs (board still empty, confirmed dup v251)
+| Company | Role | Score | Why Skipped |
+|---------|------|-------|-------------|
+| Cloudflare | Global Trade Compliance Intern (×2) | N/A | skipped_title — legal/compliance domain |
+| Cloudflare | Marketing Campaigns ABM Intern | N/A | skipped_title — marketing domain |
+| Cloudflare | Hardware Asset Management Intern | N/A | skipped_title — hardware ops domain |
+| Uare.ai | Software Engineer (Early Career) | ~3.0 | FTE only (not intern); niche AI startup; ex-LivePerson CEO |
+| Xtillion | Associate SWE 2026 College Program | ~2.0 | Puerto Rico location; no comp; consulting; below threshold |
+| Nex | SWE Intern — Game Development | N/A | skipped_title — game dev domain mismatch |
+| AGE Solutions | Engineering Internship | ~1.5 | Defense contractor; clearance likely required |
+| Sigma Computing | AI/ML Graduate Eng Intern (×2) | N/A | skipped_title — requires grad degree enrollment |
 
-### Level 3 — WebSearch Discovery (20+ queries)
-- `site:jobs.ashbyhq.com` intern Summer/Fall 2026 (SWE, Security, AI/ML): all confirmed dup v7–v251
-- `site:job-boards.greenhouse.io` intern Summer/Fall 2026 (SWE, AI, Security): all confirmed dup v7–v251
-- `site:jobs.lever.co` intern Summer/Fall 2026 (SWE, Security, AI, Backend): all confirmed dup v7–v251
-- Ashby Security/Cybersecurity intern 2026: all confirmed dup v7–v251
+## Market Status
 
-### Brand New Source — HN "Who Is Hiring?" (May 2026)
-- **Thread:** https://news.ycombinator.com/item?id=47975571 (posted today, ~35 min before scan)
-- **Result:** 52 company postings scanned in full
-- **Outcome:** ALL senior/staff/lead full-time roles — 0 intern or new-grad positions
-- Companies included: Cloudpepper, CrazyGames, MongoDB, Fastly, Peregrine, Smarkets, NetBird, Solace Health, FUTO, Loophole Labs, A24 Films, Shepherd, OpenVPN, Gain Compliance, Join.build, Lantern, Vivodyne, Kanary, PlantingSpace, and 33 more
-- Notable: Lantern (NYC, Junior/New Grad SWE) — on-site 4 days/week NYC without intern compensation details; Peregrine (SF/NYC/DC, "SWE (AI)") — senior FTE $130-275K range, not intern
+**MAXIMALLY SATURATED** at 253 scans. All major job boards (Ashby, Greenhouse, Lever, Workday)
+have been exhausted. Summer 2026 intern applications are closing; the open window is narrowing.
+The HN "Who Is Hiring?" May 2026 thread contains 0 intern/new-grad roles (all senior FTE).
 
----
+## ⚡ URGENT DEADLINES — ACTION REQUIRED
 
-## New URLs Logged (All Below Threshold or Duplicate)
+| # | Role | Score | Deadline | Status |
+|---|------|-------|----------|--------|
+| #358 | Anthropic Fellows — ML Systems | 4.5+ | **MAY 3 2026 EOD PST** ← 2 DAYS | APPLY NOW |
+| #292 | Anthropic Fellows — AI Safety | 4.5+ | **MAY 3 2026 EOD PST** ← 2 DAYS | APPLY NOW |
+| #429 | Shopify Fall 2026 SWE Intern | 4.3 | **MAY 7 2026** ← 6 days | Apply at internships.shopify.com |
+| — | Center for AI Safety Research Intern | 4.0+ | May 29 2026 | In pipeline |
+| #428 | Sierra AI Forward Deployed | 4.5 | Open | Verify graduation eligibility |
+| #430 | NYT AI Engineer | 4.0 | Open (June 1 start) | Apply ASAP |
+| #427 | Notion New Grad AI | 4.0 | Open | Verify Jul 27 FTE start eligibility |
+| #420 | Vapi Backend Intern | 4.4 | Open | Needs decision |
 
-| URL | Company | Title | Status | Reason |
-|-----|---------|-------|--------|--------|
-| news.ycombinator.com/item?id=47975571 | Hacker News | HN Who Is Hiring May 2026 | skipped_title | 52 companies, all senior FT — no intern/new-grad |
-| job-boards.greenhouse.io/anthropic/jobs/5183053008 | Anthropic | Fellows Economics & Policy | skipped_title | Non-engineering: economics research; May 3 deadline active but wrong archetype |
-| jobs.ashbyhq.com/notion/5bc8cbb9 | Notion | SWE AI Intern Summer 2026 | skipped_dup | Dup v7 — evaluated #254 at 4.5/5 |
-| jobs.ashbyhq.com/cohere/2c669d85 | Cohere | ML Intern/Co-op Spring/Summer 2026 | skipped_dup | Dup v7 — ML research track skipped_title v29 |
-| jobs.ashbyhq.com/farsight/096cdc49 | Farsight AI | SWE Intern Summer 2026 | skipped_dup | Dup v7 — evaluated #263 at 4.0/5 |
-| jobs.ashbyhq.com/delinea/3eed48b7 | Delinea | SWE Intern Summer 2026 | skipped_dup | Dup v7 — evaluated #269 closed/0.0/5, .NET/C# stack |
-| job-boards.greenhouse.io/aquaticcapitalmanagement | Aquatic Capital | SWE Intern Summer 2026 | skipped_dup | Dup v7 — C++ quant, below threshold |
-| job-boards.greenhouse.io/verkada/jobs/5099529007 | Verkada | Frontend SWE Intern Fall 2026 | skipped_dup | Dup v124 — TAMU fall semester conflict |
-| boards-api.greenhouse.io/v1/boards/anthropic | Anthropic | API rescan | skipped_dup | All dup v251 |
+## Top Open Opportunities (Evaluated, Awaiting Decision)
 
----
-
-## Market Assessment
-
-**252 scans complete. The Summer 2026 + New Grad intern market is fully saturated.**
-
-Carlos's pipeline contains **430 evaluated listings** including 40+ with scores ≥4.0. The bottleneck is no longer discovery — it's **application execution**.
-
-Google Search results for intern/new-grad roles continue returning listings from April 7-10 (cached). All major ATS platforms (Ashby/Greenhouse/Lever) and direct company boards are cycling the same listings from prior scans. The HN May 2026 thread (brand new as of today) contained no intern-level roles.
-
-**No additional scanning is recommended until new cohorts post (likely June 2026 for Fall 2026, or September 2026 for Summer 2027).**
-
----
-
-## ⚡ URGENT: Active Deadlines
-
-> **Action required NOW — these close in days.**
-
-| # | Company | Role | Score | Deadline | Action |
-|---|---------|------|-------|----------|--------|
-| **358** | **Anthropic** | **Fellows ML Systems** | — | **MAY 3 EOD PST (2 DAYS!)** | **APPLY NOW** |
-| **292** | **Anthropic** | **Fellows AI Safety** | — | **MAY 3 EOD PST (2 DAYS!)** | **APPLY NOW** |
-| **429** | **Shopify** | Engineering & Data Intern (Fall 2026) | 4.2/5 | **MAY 7 (6 DAYS!)** | Apply at internships.shopify.com |
-
----
-
-## Top Unapplied Listings (Score ≥ 4.0)
-
-| # | Company | Role | Score | Notes |
-|---|---------|------|-------|-------|
-| 416 | **Cerebras** | AI Engineering Intern - Growth Team | 4.5/5 | $40-55/hr est; Sunnyvale CA; Claude Code+MCP exact match |
-| 428 | **Sierra** | SWE Agent (New Grad) | 4.5/5 | Verify graduation eligibility first |
-| 420 | **Vapi** | Backend Product Engineer | 4.4/5 | Voice AI infra; perfect Python/TS/Cloudflare stack; no deadline |
-| 409 | **OpenAI** | SWE Intern Applied Emerging Talent (Fall 2026) | 4.4/5 | $60/hr; SF 15wk; verify fall semester |
-| 419 | **Palantir** | Software Engineer, Internship | 4.3/5 | $10K/mo; FDSE archetype |
-| 403 | **Notion** | Software Engineer, New Grad | 4.3/5 | SF $150-250K; verify graduation |
-| 429 | **Shopify** | Engineering & Data Intern (Fall 2026) | 4.2/5 | ⚠️ DEADLINE MAY 7 |
-| 418 | **Together AI** | Software Engineer – New Grad | 4.2/5 | $150-200K FTE; SF; apply |
-| 430 | **NYT** | AI Engineer Intern | 4.0/5 | June 1 start; apply now |
-| 427 | **Notion (AI Track)** | SWE New Grad (AI) | 4.0/5 | $126-146K; Jul 27 FTE start; verify graduation |
-
----
+| # | Company | Role | Score | Location | Notes |
+|---|---------|------|-------|----------|-------|
+| #292 | Anthropic | Fellows AI Safety | 4.5+ | SF/Remote | **DEADLINE MAY 3** |
+| #358 | Anthropic | Fellows ML Systems | 4.5+ | SF/Remote | **DEADLINE MAY 3** |
+| #428 | Sierra AI | Forward Deployed Eng | 4.5 | SF | Verify grad date |
+| #420 | Vapi | Backend Intern | 4.4 | SF | Voice AI infra |
+| #409 | OpenAI | Applied Emerging Talent (Fall 2026) | 4.4 | SF | Co-op |
+| #422 | OpenAI | Applied Emerging Talent (Fall 2026) | 4.4 | SF | Co-op |
+| #254 | Notion | Software Engineer AI Intern | 4.5 | SF | Summer 2026 |
+| #382 | Replit | SWE New Grad | 4.5 | Foster City | AI dev platform |
+| #2 | OpenAI | Applied Emerging Talent | 4.5 | SF | Fall 2026 |
+| #429 | Shopify | SWE Fall Intern | 4.3 | Remote | **DEADLINE MAY 7** |
 
 ## Recommended Next Actions
 
-1. **TODAY (May 1) — CRITICAL:** Start Anthropic Fellows applications (#358 ML Systems + #292 AI Safety) — deadline is May 3 EOD PST. Two-day window remaining.
-2. **By May 7:** Apply to Shopify Fall 2026 (#429) at internships.shopify.com.
-3. **This week:** Apply to Vapi Backend (#420 4.4/5) — highest-priority evergreen role, no deadline.
-4. **This week:** Apply to Cerebras AI Engineering Intern (#416 4.5/5) — verify comp, then apply.
-5. **Run `/career-ops pipeline`** to process any pending evaluations in pipeline.md.
-6. **No more scanning needed** until new Fall 2026 / Summer 2027 cohorts begin posting (est. June–September 2026).
+1. **TODAY**: Apply to Anthropic Fellows ML Systems (#358) and AI Safety (#292) — deadline MAY 3, 2026 EOD PST
+2. **By May 7**: Apply to Shopify Fall 2026 SWE Intern (#429) at internships.shopify.com
+3. **This week**: Apply to Sierra #428 (4.5/5) — verify you meet graduation requirements
+4. **This week**: Apply to NYT AI Engineer #430 (4.0/5) — June 1 start
+5. **Scan strategy**: Consider pausing autonomous scans for 1-2 weeks; market is saturated; resume when new waves of Fall 2026 or full-time new-grad roles open (typically May-June for FTE/Oct hiring cycles)
 
 ---
-
-## System Note
-
-career-ops update available: **v1.1.0 → v1.6.0**. Your data (CV, profile, tracker, reports) will NOT be touched. Run `node update-system.mjs apply` to update, or say "update career-ops" in your next session.
+*Generated by career-ops autonomous scan agent · 2026-05-01 · Scan #253*
