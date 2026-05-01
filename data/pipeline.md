@@ -4155,3 +4155,25 @@ All sources confirmed duplicate vs. scan-v233/v234/v235 (all run earlier today).
 - Notion New Grad AI (#427) — 4.0/5, verify Jul 27 FTE start date
 
 <!-- === END 2026-05-01 SCAN v249 === -->
+
+<!-- === BEGIN 2026-05-01 SCAN v250 === -->
+### New Listings — Scan v250 (2026-05-01, 6th scan today)
+
+*No new qualifying listings found this scan.* Market confirmed maximally saturated at 250 scans.
+
+All portals checked returned confirmed duplicates vs. v7-v249:
+- Greenhouse APIs: Airtable/Vercel/Temporal/Intercom/RunPod/Glean/Anthropic — 0 new intern/new-grad
+- WebSearch (30+ queries): Ashby/Greenhouse/Lever/YC/Wellfound — all dup
+- No May 2026 HN "Who Is Hiring?" thread yet (April 2026 thread is most recent)
+
+**⚠️ CRITICAL DEADLINES — ACT NOW:**
+- **Anthropic Fellows ML Systems (#358) + AI Safety (#292) — DEADLINE MAY 3, 2026 EOD PST (2 DAYS!)**
+- **Shopify Fall 2026 Engineering & Data Internship (#429) — DEADLINE MAY 7, 2026 (6 DAYS!)**
+- NYT AI Engineer Intern (#430) — 4.0/5, June 1 start
+- Sierra Agent Development Intern (#428) — 4.5/5, verify TAMU graduation eligibility
+- Notion New Grad AI (#427) — 4.0/5, verify Jul 27 FTE start date
+
+**⚠️ SYSTEM UPDATE AVAILABLE:**
+- career-ops v1.1.0 → v1.6.0 (Gemini CLI integration + other features). Run: `node update-system.mjs apply`
+
+<!-- === END 2026-05-01 SCAN v250 === -->
