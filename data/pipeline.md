@@ -1,5 +1,23 @@
 # Pipeline -- Pending URLs
 
+<!-- === BEGIN 2026-05-01 SCAN v247 === -->
+<!-- Sources: Greenhouse APIs (Anthropic/Airtable/Vercel/Arize AI/Glean/RunPod/Hume AI/Intercom/Temporal[0-jobs]); 25+ WebSearch queries (Ashby SWE/Security/AI intern + Lever AI/SWE/Security intern + Greenhouse SWE/Security/AI intern + Ashby New Grad + Greenhouse New Grad + consulting intern + DevOps intern + broad recent postings); SpeedyApply 2026-AI-College-Jobs (0d entries); SimplifyJobs Summer2026-Internships (GitHub); company boards (Salesforce/Bloom Energy/Deutsche Windtechnik/West Monroe/FTI Consulting); 4,774-entry history fully dedup. RESULT: 3 genuinely new URLs (all below threshold) — Salesforce AI & Data Science Analyst Intern (~3.0/5) + Bloom Energy Technical Product Systems AI & PLM Intern (~2.5/5 skipped_score) + Deutsche Windtechnik AI & Data Intern (~2.0/5 skipped_score). 0 qualifying ≥4.0. Market CONFIRMED SATURATED at 247 scans (3rd scan on 2026-05-01). -->
+<!-- 0 qualifying ≥4.0 | 3 new URLs total | 1 pipeline addition | 2 skipped_score -->
+<!-- ⚡ CRITICAL DEADLINE: Anthropic Fellows ML Systems (#358) + AI Safety (#292) — DEADLINE MAY 3 2026 EOD PST (2 DAYS!). Apply NOW. -->
+<!-- ⚠️  Shopify Fall 2026 (#429) DEADLINE MAY 7 2026 (6 DAYS!) — apply at internships.shopify.com NOW. -->
+<!-- ✅ KEY ACTIONS: (1) Anthropic Fellows May 3 deadline — 2 DAYS; (2) Shopify Fall 2026 #429 May 7 deadline; (3) NYT AI Engineer #430 4.0/5 June 1 start; (4) Sierra #428 4.5/5 verify graduation; (5) Notion New Grad AI #427 4.0/5 Jul 27 FTE start. -->
+
+### Below Threshold — scan-v247 (pending evaluation)
+
+- [ ] https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Summer-2026-Intern---AI---Data-Science-Analyst_JR340354-1 | Salesforce | Summer 2026 Intern - AI & Data Science Analyst | ~3.0/5 | SF; 12-week Summer 2026; AI + data science analyst track (not SWE engineering); Salesforce platform; expect $49-59/hr parity with SWE intern track; Java-adjacent platform ecosystem; analyst archetype fit moderate; verify comp and exact start date before applying
+
+### Skipped — scan-v247
+
+- https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/San-Jose-California/Technical-Product-Systems-Intern--AI---PLM-_JR-22483 — Bloom Energy Technical Product Systems Intern AI & PLM (San Jose CA; clean energy/fuel cell; AI+PLM product operations role; non-engineering domain; ~2.5/5 skipped_score)
+- https://deutschewindtechnik.applytojob.com/apply/W6NJ5WWtrE/AI-Data-Intern — Deutsche Windtechnik AI & Data Intern (Houston TX; German wind energy company; data structuring + AI bots; no comp listed; non-SWE role; ~2.0/5 skipped_score)
+
+<!-- === END 2026-05-01 SCAN v247 === -->
+
 <!-- === BEGIN 2026-05-01 SCAN v245 === -->
 <!-- Sources: 21 Greenhouse APIs (Anthropic/Airtable/Vercel/Glean/ArizeAI/RunPod/HumeAI/Intercom/Temporal/Rippling[404]/Brex[redirects]/Figma/Discord/Stripe/Notion[404]/Linear[404]/Cursor[404]/Ramp[404]/Plaid[404]/Databricks/Cloudflare/ScaleAI); 30+ WebSearch queries (Ashby/Greenhouse/Lever SWE+Security+AI+ML+DevOps+NewGrad+consulting+YC+cybersec intern 2026 broad); company-specific checks (Perplexity/Wiz/Palantir/Mistral/Pivotal Research/CrowdStrike/Booz Allen/Leidos/MITRE/Airbnb/Creatify/GitHub SimplifyJobs New-Grad+Summer2026); 4,761-entry history dedup. RESULT: 1 genuinely new URL — Pivotal Research Fellowship (London/UK only → skipped_location). 0 qualifying ≥4.0. Market FULLY CONFIRMED SATURATED at 245 scans after 244+ scans. -->
 <!-- 0 qualifying ≥4.0 | 1 new URL total (skipped_location) | 0 pipeline additions -->
