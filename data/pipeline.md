@@ -1,5 +1,18 @@
 # Pipeline -- Pending URLs
 
+<!-- === BEGIN 2026-05-01 SCAN v245 === -->
+<!-- Sources: 21 Greenhouse APIs (Anthropic/Airtable/Vercel/Glean/ArizeAI/RunPod/HumeAI/Intercom/Temporal/Rippling[404]/Brex[redirects]/Figma/Discord/Stripe/Notion[404]/Linear[404]/Cursor[404]/Ramp[404]/Plaid[404]/Databricks/Cloudflare/ScaleAI); 30+ WebSearch queries (Ashby/Greenhouse/Lever SWE+Security+AI+ML+DevOps+NewGrad+consulting+YC+cybersec intern 2026 broad); company-specific checks (Perplexity/Wiz/Palantir/Mistral/Pivotal Research/CrowdStrike/Booz Allen/Leidos/MITRE/Airbnb/Creatify/GitHub SimplifyJobs New-Grad+Summer2026); 4,761-entry history dedup. RESULT: 1 genuinely new URL — Pivotal Research Fellowship (London/UK only → skipped_location). 0 qualifying ≥4.0. Market FULLY CONFIRMED SATURATED at 245 scans after 244+ scans. -->
+<!-- 0 qualifying ≥4.0 | 1 new URL total (skipped_location) | 0 pipeline additions -->
+<!-- ⚡ CRITICAL DEADLINE: Anthropic Fellows ML Systems (#358) + AI Safety (#292) — DEADLINE MAY 3 2026 EOD PST (2 DAYS!). Apply NOW. -->
+<!-- ⚠️  Shopify Fall 2026 (#429) DEADLINE MAY 7 2026 (6 DAYS!) — apply at internships.shopify.com NOW. -->
+<!-- ✅ KEY ACTIONS: (1) Anthropic Fellows May 3 deadline — 2 DAYS; (2) Shopify Fall 2026 #429 May 7 deadline; (3) NYT AI Engineer #430 4.0/5 June 1 start; (4) Sierra #428 4.5/5 verify graduation; (5) Notion New Grad AI #427 4.0/5 Jul 27 FTE start. -->
+
+### Skipped — scan-v245
+
+- https://form.fillout.com/t/psmu44xbBVus — Pivotal Research Fellowship Q3 2026 (AI Safety, London UK, June 29-Aug 28, £6K-£8K stipend, May 3 deadline) — skipped_location (UK-only, no US option)
+
+<!-- === END 2026-05-01 SCAN v245 === -->
+
 <!-- === BEGIN 2026-04-30 SCAN v244 === -->
 <!-- Sources: Greenhouse APIs (Anthropic/Airtable/Vercel/Glean/ArizeAI/RunPod/Intercom — all 0 new intern/new-grad); 25+ WebSearch queries (Ashby/Greenhouse/Lever SWE+Security+AI+ML+DevOps+NewGrad intern 2026 — broad, negated known companies, Fall 2026 co-ops, new grad, analyst intern, consulting intern); SimplifyJobs Summer2026 0d (d-Matrix Applied AI 93a6e6ee dup v235; AeroVironment dup v243; Altom dup; Intelcom Canada skip); SimplifyJobs New-Grad 0d (Blue Yonder/U.S.Venture/NVIDIA compiler — non-target or dup v240); 4,760-entry history dedup. RESULT: 0 genuinely new URLs. ALL SOURCES CONFIRMED DUP v7-v243. Market CONFIRMED SATURATED at 244 scans (10th scan on 2026-04-30). -->
 <!-- 0 qualifying ≥4.0 | 0 new URLs total | 0 pipeline additions -->

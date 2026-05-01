@@ -1,84 +1,59 @@
-# Portal Scan — 2026-04-30 (v244)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Portal Scan v245 — 2026-05-01
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan:** v244 (10th scan of the day on 2026-04-30)
-**Date:** 2026-04-30
-**History size:** 4,760 entries (4,761 after this scan)
-**Verdict:** MARKET SATURATED — 0 new URLs
-
-## Sources Scanned
-
-### Greenhouse APIs (Level 2)
-| Company | Result |
-|---------|--------|
-| Anthropic | 0 new intern/new-grad (all Fellows tracks dup v7-v243) |
-| Airtable | 0 new intern/new-grad (New Grad role removed from board) |
-| Vercel | 0 new intern/new-grad (all SWE roles are FTE) |
-| Glean | 0 new intern/new-grad (SWE Intern 4595665005 closed) |
-| Arize AI | 0 new intern/new-grad (all FTE/senior) |
-| RunPod | 0 new intern/new-grad (all FTE) |
-| Intercom | 0 new intern/new-grad (Product Engineer = FTE) |
-
-### WebSearch Queries (Level 3) — 25+ queries executed
-- Ashby: `site:jobs.ashbyhq.com intern 2026 "software"/"AI"/"backend"/"security"` → all dup v7-v243
-- Greenhouse: `site:job-boards.greenhouse.io intern/new-grad 2026 summer AI/security` → all dup v7-v243
-- Lever: `site:jobs.lever.co intern/new-grad 2026 software/security` → all dup v7-v243
-- New Grad Ashby: `site:jobs.ashbyhq.com new grad 2026 software/AI/remote` → all dup v7-v243
-- New Grad Greenhouse: `site:job-boards.greenhouse.io new grad/university 2026 SWE/security` → all dup v7-v243
-- New Grad Lever: `site:jobs.lever.co new grad 2026` → all dup v7-v243
-- Fall 2026 co-ops: `intern fall 2026 AI/backend/security Ashby/Greenhouse` → all dup v7-v243
-- Security-focused: Rockstar/Gemini/Together/Schonfeld/Gallup → all dup v7-v243
-- AI/ML intern: Lambda/BrainCo/Handshake/Robinhood/Point72/iCapital → all dup v7-v243
-- Consulting analyst: GCM Grosvenor/PDT Partners/Together GTM/ACLU → all dup v7-v243
-- Agentic-focused: C3AI/Cobalt.io/Praxent → all dup v7-v243
-- DevOps/SRE: DV Trading (in pipeline v241) → dup; Pega/Experian (non-ATS portal)
-- Crusoe Security AI Intern (e21bb802) → already in history from v7
-
-### SimplifyJobs Repos (Level 3)
-- **Summer2026 0d entries:** d-Matrix Applied AI 93a6e6ee (dup v235), AeroVironment (dup v243), Intelcom x4 Canada (skip)
-- **New-Grad 0d entries:** Blue Yonder SWE I Dallas, U.S. Venture SWE WI, NVIDIA Compiler Eng → non-target domain/location
+**Status:** Market CONFIRMED FULLY SATURATED — 1 new URL found (skipped_location), 0 qualifying
 
 ## Results
+- Queries executed: 60+
+- Companies checked: 50+
+- Total URLs found: 1 genuinely new
+- Filtered by title: 0 relevant (new URL was fellowship, London-only)
+- Duplicates: All other sources confirmed dup v7-v244 (4,761 history entries)
+- **New added to pipeline: 0**
+- **New reports (≥4.0): 0**
 
-```
-Queries executed:       30+
-APIs fetched:           7
-Offers found:           4,760+ (all previously seen)
-New added to pipeline:  0
-Qualifying ≥4.0:        0
-New reports written:    0
-```
+## New Findings
 
-**No new listings added to pipeline.**
+### Skipped (location)
+- **Pivotal Research Fellowship Q3 2026** — https://form.fillout.com/t/psmu44xbBVus
+  - AI Safety research fellowship, June 29 – Aug 28, 2026, London (LISA)
+  - £6,000-£8,000 stipend + travel + £2K housing + meals + compute
+  - **Deadline: May 3, 2026** (2 days away!)
+  - Open to undergrads (anyone 18+)
+  - Skipped: London/UK only, no US option — `skipped_location`
 
-## Top Active Opportunities (From Previous Scans)
+### Sources checked (all confirmed dup):
+- 21 Greenhouse APIs: Anthropic, Airtable, Vercel, Glean, ArizeAI, RunPod, HumeAI, Intercom, Temporal (0 jobs), Rippling (404), Brex, Figma, Discord, Stripe, Notion (404), Linear (404), Cursor (404), Ramp (404), Plaid (404), Databricks, Cloudflare, ScaleAI
+- 30+ WebSearch queries: SWE intern, security intern, AI/ML intern, new grad, consulting intern, YC companies, cybersec, Fall 2026 co-ops
+- Company-specific: Perplexity (non-US), Wiz (no intern), CrowdStrike (dup), Booz Allen (dup), Google SWE Summer 2026 (dup, Australia-only), Leidos (dup), Airbnb (iOS-only new grad), Mistral (Paris-only), Pivotal Research (NEW → skipped_location)
+- GitHub jobright-ai/New-Grad latest entries (Airbnb/Amentum/SeatGeek/Twitch/PayPal — all dup v238-v240)
+- SimplifyJobs Summer2026 + New-Grad 0d (all dup v235-v244)
+- YC internships (all dup v30-v166)
 
-| Priority | Company | Role | Score | Deadline / Action |
-|----------|---------|------|-------|-------------------|
-| 🔴 URGENT | Anthropic | Fellows — ML Systems (#358) | 4.0+ | **DEADLINE MAY 3 2026** |
-| 🔴 URGENT | Anthropic | Fellows — AI Safety (#292) | 4.0+ | **DEADLINE MAY 3 2026** |
-| 🟡 May 7 | Shopify | Fall 2026 Engineer (#429) | 4.0+ | **DEADLINE MAY 7 2026** |
-| 🟢 Apply ASAP | NYT | AI Engineer (#430) | 4.0/5 | June 1 start; no deadline listed |
-| 🟢 Verify | Sierra | Applied AI/FDE (#428) | 4.5/5 | Verify TAMU graduation eligibility |
-| 🟢 Verify | Notion | New Grad AI (#427) | 4.0/5 | Must FTE-start by Jul 27; verify graduation |
-| 🟡 Review | Loop | SWE Full-Stack SF (#421) | 4.0/5 | 4d/wk in-person SF; $150K base |
+## ⚠️ URGENT ACTION ITEMS
 
-## Recommended Next Actions
+1. **Anthropic Fellows DEADLINE MAY 3 2026** (2 DAYS!) — Apply IMMEDIATELY:
+   - ML Systems: https://job-boards.greenhouse.io/anthropic/jobs/5183051008 | Report #372 (4.1/5)
+   - AI Safety: https://job-boards.greenhouse.io/anthropic/jobs/5183044008 | Report #370 (4.2/5)
+   - AI Security: https://job-boards.greenhouse.io/anthropic/jobs/5030244008 | Report #246 (4.7/5)
+   - Apply via Constellation (Anthropic's recruiting partner), not directly on Greenhouse
 
-1. **TODAY (3 days to deadline):** Apply to Anthropic Fellows ML Systems + AI Safety — $3,850/wk × 4 months, July 20 start.
-2. **By May 7:** Apply to Shopify Fall 2026 at internships.shopify.com.
-3. **ASAP:** Apply to NYT AI Engineer (#430) — June 1 start, no hard deadline.
-4. **This week:** Verify graduation date vs. Notion New Grad AI Jul 27 FTE start. If eligible → apply immediately.
-5. **This week:** Verify TAMU graduation eligibility for Sierra (#428, 4.5/5) — best active match.
-6. **Stop scanning:** Market is saturated. Resume after May 15 when Fall 2026 co-op cycle opens.
+2. **Shopify Fall 2026 DEADLINE MAY 7 2026** (6 DAYS!) — Apply at internships.shopify.com | 4.2/5 | Report #429
 
-## Market Intelligence
+3. **NYT AI Engineer Intern** — June 1 start, no stated deadline | 4.0/5 | Report #430
+   - URL: https://job-boards.greenhouse.io/thenewyorktimes/jobs/4688353005
 
-After 244 scans across 4,760 unique URLs:
-- **Summer 2026 intern market is CLOSED** — all major companies have filled cohorts or closed applications.
-- **New Grad 2026 market is winding down** — most start dates are June/July 2026.
-- **Next open window:** Fall 2026 co-ops (recruiting opens May-June), Summer 2027 internships (opens August 2026).
-- **Best path forward:** Apply to top-scored pipeline items vs. scanning for new listings.
+4. **Sierra** — 4.5/5 | Report #428 — Verify TAMU graduation date (Dec 2026 or Jun 2027 required)
 
-→ Run `/career-ops pipeline` to evaluate pending below-threshold items.
-→ Pause scanning until May 15+ when Fall 2026 co-op cycle opens.
+5. **Notion New Grad AI** — 4.0/5 | Report #427 — Verify Jul 27 FTE start date
+
+## Market Status
+Summer 2026 internship cycle: CONFIRMED CLOSED (245 scans exhausted all sources)
+Fall 2026 internship cycle: Limited openings (Notion/Sentry/Zip/OpenAI/Verkada in pipeline)
+New Grad 2026 FTE cycle: Active (Loop/Together AI/Creatify AI evaluated; Airtable/Scale AI in pipeline)
+
+## Next Steps
+→ APPLY to Anthropic Fellows by MAY 3 EOD PST (today +2 days!)
+→ APPLY to Shopify by MAY 7 (6 days)
+→ Evaluate pipeline items: Bloom Energy Full Stack (~3.0/5), d-Matrix Applied AI (~3.3/5)
+→ Resume scanning in 5-7 days — next scan: v246 around 2026-05-06
