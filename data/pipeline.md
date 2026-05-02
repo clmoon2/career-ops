@@ -1,4 +1,10 @@
 # Pipeline -- Pending URLs
+<!-- === BEGIN 2026-05-02 SCAN v259 === -->
+<!-- Sources: 30+ WebSearch queries (Greenhouse/Ashby/Lever SWE+Security+AI+ML+DevOps+FDE+NewGrad+Fall2026+CrowdStrike+SentinelOne+PAN+Wiz+Intuit+Perplexity+Cognition+FigureAI — all confirmed dup v7-v258); Greenhouse APIs (Figma: 0 intern; Databricks: 0 intern; all dup v226-v258); SpeedyApply SWE README 0d (HP Inc 3160714 GENUINELY NEW skipped_score ~2.5/5 hardware domain; Anduril firmware skip; defense/aerospace batch domain filter); SpeedyApply AI README 0d (Salesforce dup v247; Adobe dup v189; TikTok PhD domain filter); SimplifyJobs Summer2026 (all dup v256-v257); jobright/newgrad-jobs repos (all dup v74-v258); Lever/Ashby broad (all dup v7-v258). Dedup against 4,965-entry history. RESULT: 1 genuinely new URL; 0 qualifying >=4.0; 1 skipped_score (HP Inc hardware domain). Market MAXIMALLY SATURATED at 259 scans. 9th scan on 2026-05-02. -->
+<!-- 0 qualifying >=4.0 | 1 new history entry | 0 pipeline additions | 0 new reports -->
+<!-- ⚡ CRITICAL DEADLINES: Anthropic Fellows ML Systems #358 + AI Safety #292 — DEADLINE MAY 3 2026 EOD PST (TOMORROW — APPLY TONIGHT!!) | Shopify Fall 2026 #429 — DEADLINE MAY 7 2026 (5 DAYS!) -->
+<!-- === END 2026-05-02 SCAN v259 === -->
+
 <!-- === BEGIN 2026-05-02 SCAN v258 === -->
 <!-- Sources: 6 Greenhouse APIs (Anthropic/Airtable/Vercel/Arize AI/Glean/RunPod — all 0 new intern/new-grad, all senior FTE or confirmed dup v256-v257); 20+ WebSearch queries across Ashby/Greenhouse/Lever (SWE+Security+AI+NewGrad+FDE — all confirmed dup v7-v257); SimplifyJobs Summer2026 top-160 entries (all dup v256-v257); SpeedyApply 2026-AI-College-Jobs 0d entries (6 new URLs: GE Aerospace AI Intern Remote/GE Aerospace SaaS OH/Power Factors MA/Triple-S Steel Houston/AlgaeCal Canada/Raytheon Canada — all below threshold or non-US). Dedup against 4,959-entry history. RESULT: 6 genuinely new URLs; 0 qualifying >=4.0; all 6 skipped (GPA hard req + aerospace domain + energy sector + non-tech domain + non-US x2). Market MAXIMALLY SATURATED at 258 scans. -->
 <!-- 0 qualifying >=4.0 | 6 new history entries | 0 pipeline additions | 0 new reports -->
