@@ -1,5 +1,29 @@
 # Pipeline -- Pending URLs
 
+<!-- === BEGIN 2026-05-02 SCAN v256 === -->
+<!-- Sources: 5 Greenhouse APIs (Anthropic/Glean/Vercel/Airtable/ArizeAI confirmed no new intern/new-grad vs v255); Greenhouse API (RunPod/HumeAI/Intercom — no intern/new-grad); 30+ WebSearch queries (Ashby/Greenhouse/Lever SWE+Security+AI+ML+NewGrad+intern+FDE; Simplify/SpeedyApply repos; broad new-grad/intern 2026); SimplifyJobs Summer2026 README latest (top-60 entries scanned; 3 genuinely new URLs vs 4,943-entry history: Labelbox FDE Intern + Snorkel AI SWE re-list + Vestwell Tech Intern + State Street Agentic Automation + MUBI AI Transformation); 4,943-entry history dedup. RESULT: 5 genuinely new URLs; 1 qualifying ≥4.0 (Labelbox FDE #431 4.0/5); 3 below threshold added to pipeline; 1 skipped_score. Market CONFIRMED SATURATED at 256 scans (first scan on 2026-05-02). -->
+<!-- 1 qualifying ≥4.0 | 5 new history entries | 4 pipeline additions | 1 new report (#431 Labelbox) -->
+<!-- ⚡ CRITICAL DEADLINES: (1) Anthropic Fellows ML Systems #358 + AI Safety #292 — DEADLINE MAY 3 2026 EOD PST (TOMORROW — APPLY NOW!); (2) Shopify Fall 2026 #429 DEADLINE MAY 7 2026 (5 DAYS!) -->
+<!-- ✅ KEY ACTIONS: (1) Anthropic Fellows May 3 deadline — APPLY TODAY; (2) Shopify #429 May 7; (3) Labelbox FDE #431 4.0/5 — apply; (4) Sierra #428 4.5/5; (5) NYT AI #430 4.0/5; (6) Vapi #420 4.4/5 -->
+<!-- === END 2026-05-02 SCAN v256 === -->
+
+## Added by scan-v256 (2026-05-02)
+
+- [x] https://job-boards.greenhouse.io/labelbox/jobs/5126745007 | Labelbox | Forward Deployed Engineer Intern — 4.0/5 ✅ EVALUATED #431; $50-70/hr; SF hybrid; Python+LLM exact match; apply — verify start date
+- [ ] https://job-boards.greenhouse.io/snorkelai/jobs/5774350004 | Snorkel AI | Software Engineer Summer Intern — ~3.5/5; Redwood City CA hybrid; Python/JS; AI data labeling platform; re-list of closed 5752694004; prev closed Apr 27 v206/v208; verify still active before applying
+- [ ] https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Business-Architecture---Agentic-Automation--6-Months-Full-time-Internship--Jul--Dec-2026-_R-789474 | State Street | Business Architecture & Agentic Automation Intern (Jul-Dec 2026) — ~2.5/5 below threshold; 6-month Boston full-time; financial services/agentic automation analysis; not SWE engineering; $30-40/hr est; skip unless no better options
+- [ ] https://jobs.ashbyhq.com/MUBI/342a53eb-345f-4172-9264-e26237792c24 | MUBI | AI Transformation Intern (Summer 2026) — ~2.5/5 below threshold; NYC; film streaming platform; AI transformation non-engineering role; skip
+
+**⚠️ CRITICAL DEADLINES — ACT NOW:**
+- **Anthropic Fellows ML Systems (#358) + AI Safety (#292) — DEADLINE MAY 3, 2026 EOD PST (TOMORROW!)**
+- **Shopify Fall 2026 Engineering & Data Internship (#429) — DEADLINE MAY 7, 2026 (5 DAYS!)**
+- Center for AI Safety Research Intern — deadline May 29, 2026
+- Labelbox FDE Intern (#431) — 4.0/5, apply ASAP, verify start date
+- Sierra Agent Development Intern (#428) — 4.5/5, verify TAMU graduation eligibility
+- NYT AI Engineer Intern (#430) — 4.0/5, June 1 start
+- Notion New Grad AI (#427) — 4.0/5, verify Jul 27 FTE start date
+- Vapi Backend Product Engineer (#420) — 4.4/5
+
 <!-- === BEGIN 2026-05-01 SCAN v253 === -->
 <!-- Sources: 8 Greenhouse APIs (Anthropic/Figma/Databricks/Cloudflare/Stripe/Ramp[404]/CrowdStrike[404]/Wiz[404]); 25+ WebSearch queries (Ashby+Greenhouse+Lever intern+new-grad SWE+Security+AI+ML+DevOps; HN May 2026 thread re-fetch; Tesla/RSAC sandbox/ZeroPath/defense-tech/Wellfound/LinkedIn/Indeed/consulting/YC); 4,896-entry history fully dedup. RESULT: 11 new history entries (0 qualifying ≥4.0; Cloudflare 4 non-tech skipped_title; Uare.ai Early Career ~3.0 FTE; Xtillion Puerto Rico ~2.0; Nex game dev domain skip; AGE Solutions defense clearance skip; Sigma Computing grad-only skip). Market CONFIRMED MAXIMALLY SATURATED at 253 scans (9th scan on 2026-05-01). -->
 <!-- 0 qualifying ≥4.0 | 11 new history entries | 0 pipeline additions | 0 new reports -->
