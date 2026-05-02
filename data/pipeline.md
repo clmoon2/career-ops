@@ -4318,3 +4318,19 @@ Portals checked this scan:
 - Sierra Agent Development Intern (#428) — 4.5/5, verify TAMU graduation eligibility
 
 <!-- === END 2026-05-02 SCAN v260 === -->
+
+<!-- === BEGIN 2026-05-02 SCAN v265 === -->
+## Added by scan-v265 (2026-05-02)
+
+- [ ] https://job-boards.greenhouse.io/verkada/jobs/5099529007 | Verkada | Frontend Software Engineering Intern - Fall 2026 — ~2.8/5 BELOW THRESHOLD; San Mateo CA on-site Aug 31-Dec 18; $55-65/hr + housing stipend; React/TypeScript/React Native; Carlos is primarily backend/AI — only consider if fall semester confirmed available and no better options; companion to #425 (AI SWE) and #426 (Backend) already evaluated
+
+**⚠️ CRITICAL DEADLINES:**
+- **Anthropic Fellows ML Systems (#358) + AI Safety (#292) — DEADLINE MAY 3 2026 EOD PST (TOMORROW — APPLY TONIGHT!)**
+- **Shopify Fall 2026 (#429) — DEADLINE MAY 7 2026 (5 DAYS)**
+- Sierra Agent Development Intern (#428) — 4.5/5, verify TAMU graduation eligibility
+- Vapi Backend Product Engineer (#420) — 4.4/5
+- Notion New Grad AI (#427) — 4.0/5, verify Jul 27 start date vs graduation
+- Verkada AI SWE Intern (#425) — 4.2/5, verify fall semester availability
+- Labelbox FDE Intern — 4.0/5, pending evaluation
+
+<!-- === END 2026-05-02 SCAN v265 === -->
