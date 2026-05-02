@@ -4,6 +4,18 @@
 <!-- 0 qualifying >=4.0 | 2 new history entries | 0 pipeline additions | 0 new reports -->
 <!-- ⚡ CRITICAL DEADLINES: Anthropic Fellows ML Systems #358 + AI Safety #292 — DEADLINE MAY 3 2026 EOD PST (TOMORROW!) | Shopify Fall 2026 #429 — DEADLINE MAY 7 2026 (5 DAYS!) -->
 <!-- === END 2026-05-02 SCAN v262 === -->
+
+<!-- === BEGIN 2026-05-02 SCAN v263 === -->
+<!-- Sources: Greenhouse APIs (Anthropic/Glean/Vercel/Airtable/ArizeAI/HumeAI/Intercom/RunPod/Temporal — all 0 new intern/new-grad; 11 new Anthropic Applied AI Architect FTE roles + Cluster Deployment Eng + 3 new Glean FTE roles confirmed senior/non-intern; all skipped_no_intern or skipped_title); 20+ WebSearch queries (Ashby/Greenhouse/Lever SWE+Security+AI+ML+intern+new-grad+DevOps+Consulting 2026 — bulk dup v7-v262; 1 genuinely new Ashby URL found: Meshy Generative AI Pipeline Engineer Intern 8c30a345 not in v1-v262 history). Dedup against 4,975-entry history. RESULT: 1 new pipeline addition (Meshy ~3.3/5 below 4.0 threshold; no report); 17 new history entries total (1 added + 12 Anthropic FTE skipped_no_intern/skipped_title + 3 Glean FTE skipped + 1 summary). Market MAXIMALLY SATURATED at 263 scans. 13th scan on 2026-05-02. -->
+<!-- 0 qualifying >=4.0 | 17 new history entries | 1 pipeline addition | 0 new reports -->
+<!-- ⚡ CRITICAL DEADLINES: (1) Anthropic Fellows ML Systems #358 + AI Safety #292 — DEADLINE MAY 3 2026 EOD PST (TOMORROW — APPLY TONIGHT!); (2) Shopify Fall 2026 #429 DEADLINE MAY 7 2026 (5 DAYS!) -->
+<!-- ✅ KEY ACTIONS: Apply Anthropic Fellows TONIGHT; Shopify #429 by May 7; Labelbox FDE #431 4.0/5; Sierra #428 4.5/5; Vapi #420 4.4/5 -->
+<!-- === END 2026-05-02 SCAN v263 === -->
+
+## Added by scan-v263 (2026-05-02)
+
+- [ ] https://jobs.ashbyhq.com/meshy/8c30a345-2c26-4d72-ae76-91c5834fc435 | Meshy | Generative AI Pipeline Engineer Intern — ~3.3/5; 3D generative AI startup ($52M Sequoia Series B); Sunnyvale CA; Python+LLM multi-model pipeline match; niche domain (3D generative AI); verify comp + start date before applying
+
 <!-- === BEGIN 2026-05-02 SCAN v261 === -->
 <!-- Sources: 11 Greenhouse APIs (Cloudflare full board — all dup v7-v260 or non-SWE/non-US; Stripe Masters-only Canada; MongoDB EMEA Women in Tech; Figma/HubSpot/Databricks/Brex: 0 intern; ScaleAI all dup; Labelbox FDE dup #431; CrowdStrike/SentinelOne/Wiz: 404); 20+ WebSearch queries (Greenhouse/Ashby/Lever SWE+Security+AI+ML+DevOps+NewGrad+Fall2026+Consulting+Texas — all confirmed dup v7-v260); GitHub repos (SimplifyJobs Summer2026 866 roles all dup; SimplifyJobs New-Grad-Positions all dup v5-v239; speedyapply SWE+AI all dup except D.E. Shaw 5894 NEW wrong-year; jobright-ai Consultant 404). Dedup against 4,971-entry history. RESULT: 1 genuinely new URL (D.E. Shaw SWE Intern Summer 2027 — skipped_wrong_year); 0 qualifying >=4.0; 0 pipeline additions; 0 new reports. Market MAXIMALLY SATURATED at 261 scans. 11th scan on 2026-05-02. -->
 <!-- 0 qualifying >=4.0 | 1 new history entry | 0 pipeline additions | 0 new reports -->
