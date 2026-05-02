@@ -1,47 +1,62 @@
-# Portal Scan — 2026-05-02 (Scan v261)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Scan Summary — 2026-05-02 (v262)
 
-**Date:** 2026-05-02  
-**Scan #:** v261 (11th scan today, 261st overall)  
-**History size:** 4,971 → 4,973 entries
+**Date:** 2026-05-02
+**Scan version:** v262 (12th scan today, 262nd overall)
+**History entries before scan:** 4,973
 
 ---
 
-## Sources Scanned
+## Sources Checked
 
-### Greenhouse APIs (11 companies)
+### Greenhouse APIs (17 companies)
 | Company | Result |
 |---------|--------|
-| Cloudflare | Full board checked (30+ intern roles) — all dup v7-v260 or non-SWE/non-US |
-| Stripe | Masters-level Canada Data Analyst only |
-| MongoDB | EMEA Women in Tech Summit only |
+| Anthropic | 6 Fellows tracks — all confirmed dup v7-v261 (deadline passed April 26); 0 new qualifying |
+| Airtable | 0 intern/new-grad |
+| Vercel | 0 intern/new-grad |
+| Glean | 0 intern/new-grad |
+| Arize AI | 0 intern/new-grad |
+| RunPod | 0 intern/new-grad |
+| Hume AI | 0 intern/new-grad |
+| Intercom | 0 intern/new-grad |
+| Temporal | 0 jobs |
+| Snorkel AI | SWE Intern 5774350004 — dup v256 (in pipeline) |
+| Labelbox | FDE 5126745007 dup #431; Applied Research 4820677007 dup v7 |
 | Figma | 0 intern positions |
-| HubSpot | 0 jobs returned |
 | Databricks | 0 intern positions |
-| Brex | 0 intern positions |
-| Scale AI | All dup v7-v259 |
-| Labelbox | FDE 5126745007 (dup #431) + Applied Research 4820677007 (dup v7) |
-| CrowdStrike | 404 error |
-| SentinelOne | 404 error |
+| Cloudflare | 0 SWE/security intern (non-SWE or non-US only) |
+| Stripe | Masters-level Data Analyst Canada only — skip |
+| Discord | 0 intern positions |
+| Notion | 404 error |
 
-### GitHub Tracking Repos (5)
-| Repo | Result |
-|------|--------|
-| SimplifyJobs/Summer2026-Internships | 866 roles — all dup v7-v260 |
-| SimplifyJobs/New-Grad-Positions | All entries dup v5-v239 |
-| speedyapply/2026-SWE-College-Jobs | 1 new URL: D.E. Shaw Summer 2027 (wrong year) |
-| speedyapply/2026-AI-College-Jobs | All entries dup v7-v260 |
-| jobright-ai/2026-Consultant-Internship | 404 — repo not found |
+### WebSearch Queries (15)
+- Ashby "intern" "2026" software/security/AI — all dup v7-v261
+- Workday "summer 2026" intern SWE/security — all dup v7-v261
+- Greenhouse "fall 2026" intern SWE/backend/security — all dup v7-v261
+- Greenhouse/Lever "new grad" 2026 SWE — all dup v7-v261
+- Lever "summer 2026" AI/ML internship — all dup v7-v261
+- Ashby "2026 intern" software/security/AI — all dup v7-v261
+- Greenhouse "intern 2026" backend/full-stack — all dup v7-v261
+- Cybersecurity intern 2026 PAN/CrowdStrike/SentinelOne — all dup v7-v261
+- Lever "software engineer intern" summer 2026 — all dup v7-v261
+- Ashby new grad 2026 SWE — all dup v7-v261
+- Workable AI/ML intern 2026 — all dup v7-v261
+- Security/cybersecurity intern 2026 Lever/Greenhouse — all dup v7-v261
+- Tech consulting intern 2026 Big4/MBB — recruiting cycle not yet open (Aug-Sep 2026)
+- Cloudflare/Datadog/Elastic SWE intern summer 2026 — all dup v7-v261
+- May 2026 new internship posting SWE/AI/security — no new qualifying finds
 
-### WebSearch Queries (20+)
-- Greenhouse SWE+Security+AI+DevOps intern 2026 — all dup
-- Ashby SWE+Security+AI+backend intern/new-grad 2026 — all dup
-- Lever SWE+Security+AI intern/new-grad 2026/2027 — all dup
-- Fall 2026 internships (Verkada/Notion/Zip/OpenAI/Mercury) — all dup v98-v259
-- New grad 2026 Greenhouse/Ashby/Lever — all dup v5-v259
-- Consulting intern 2026 (Big4/MBB) — cycle closed, all dup
-- Texas/Austin security+AI intern 2026 — general board results, no new ATS URLs
-- Quant/finance Summer 2027 (D.E. Shaw 5894 — new URL, wrong year)
+### GitHub Repos
+- SimplifyJobs/Summer2026-Internships (top 20): NewsBreak 4678159006 NEW (MBA-req skip) + Cotiviti 19075 NEW (PhD/closed skip); all others dup v7-v261
+- SpeedyApply 2026-SWE-College-Jobs (0d): Al Warren Oil/Anduril/CAE/Curtiss-Wright/GDMS/HP/AeroVironment — all dup v259-v261 or domain filter
+- SimplifyJobs/New-Grad-Positions: 404 on fetch
+
+### Company-Specific Boards
+- Cerebras (Ashby): JS-gated, no content accessible
+- Palantir (Lever): 403 error
+- Weights & Biases (Lever): 403 error
+- Cohere (Ashby): JS-gated
+- LangChain (Ashby): JS-gated
 
 ---
 
@@ -49,63 +64,68 @@
 
 | Metric | Count |
 |--------|-------|
-| Companies effectively checked | 40+ |
-| Total offers scanned | ~950+ |
-| Confirmed duplicates | ~949 |
-| Genuinely new URLs | 1 |
-| New URL qualifying ≥4.0 | 0 |
-| New pipeline additions | 0 |
+| Sources checked | 17 APIs + 15 WebSearch + 3 GitHub repos + 5 company boards |
+| Total offers scanned (estimated) | ~800+ |
+| Confirmed duplicates | ~798 |
+| Genuinely new URLs found | 2 |
+| New URLs qualifying ≥4.0 | 0 |
+| Added to pipeline | 0 |
+| Skipped (title/eligibility filter) | 1 (NewsBreak MBA-required) |
+| Skipped (score < 4.0 / closed) | 1 (Cotiviti PhD-preferred / likely closed) |
 | New evaluation reports | 0 |
 
-### New URL Found
+### New URLs Found
 | Company | Role | URL | Status |
 |---------|------|-----|--------|
-| D. E. Shaw | Software Developer Intern — Summer 2027 | https://www.deshaw.com/careers/5894 | `skipped_wrong_year` — Summer 2027 out-of-scope; quant finance domain |
+| NewsBreak | MBA Intern - Product Engineering | https://job-boards.greenhouse.io/newsbreak/jobs/4678159006 | `skipped_title` — MBA + 3yrs exp required |
+| Cotiviti | Agentic AI & Neural-Symbolic Systems Intern | https://careers-cotiviti.icims.com/jobs/19075/job | `skipped_score` — PhD preferred; page inaccessible/likely closed |
 
 ---
 
 ## Market Assessment
 
-**Summer 2026 intern market: MAXIMALLY SATURATED** at 261 scans.
+**Summer 2026 intern market: MAXIMALLY SATURATED** — 262 consecutive scans, 4,975 history entries.
 
-The Summer 2026 internship cycle is effectively over — applications for most programs closed Dec 2025 – Feb 2026. The remaining open roles are either:
-1. Already in the evaluated pipeline (Labelbox #431, Shopify #429, NYT #430, Sierra #428, Vapi #420)
-2. Below threshold (domain mismatch, low comp, on-site only in non-target locations)
-3. Wrong year (Summer 2027 roles just opening)
+The Summer 2026 cycle is over. The only new listings appearing are:
+1. Wrong-level (MBA, PhD required)
+2. Wrong-year (Summer 2027 roles just opening)
+3. Domain mismatches (defense, hardware, healthcare, energy)
+4. Already-evaluated or in-pipeline (Labelbox, Snorkel AI, Kira, etc.)
 
-**Recommendation: Stop scanning, focus on applying to the active pipeline.**
+**Recommendation: Focus entirely on applying to active pipeline. No further daily scanning is productive until Fall 2026 cycle opens (Aug-Sep 2026) or Summer 2027 opens (Oct 2026+).**
 
 ---
 
-## ⚡ CRITICAL DEADLINES
+## ⚡ Critical Deadlines
 
 | # | Company | Role | Score | Deadline |
 |---|---------|------|-------|----------|
-| #358 | Anthropic | Fellows — ML Systems & Performance | 4.1/5 | **MAY 3 2026 EOD PST — TOMORROW!!** |
-| #292 | Anthropic | Fellows — AI Safety | 4.2/5 | **MAY 3 2026 EOD PST — TOMORROW!!** |
+| #358 | Anthropic | Fellows — ML Systems & Performance | 4.1/5 | **MAY 3 2026 EOD PST — TOMORROW!** |
+| #292 | Anthropic | Fellows — AI Safety | 4.2/5 | **MAY 3 2026 EOD PST — TOMORROW!** |
 | #429 | Shopify | Software Engineer Intern (Fall 2026) | 4.0/5 | **MAY 7 2026 — 5 DAYS** |
 
 ---
 
 ## Active Pipeline (High Priority)
 
-| # | Company | Role | Score | Status |
-|---|---------|------|-------|--------|
-| #428 | Sierra | Intern — Agent Development | 4.5/5 | Verify TAMU graduation Dec 2026-Jun 2027 |
+| # | Company | Role | Score | Notes |
+|---|---------|------|-------|-------|
+| #428 | Sierra | Agent Development Intern | 4.5/5 | Verify TAMU graduation Dec 2026-Jun 2027 |
 | #420 | Vapi | Software Engineer — New Grad | 4.4/5 | Apply ASAP |
 | #431 | Labelbox | Forward Deployed Engineer Intern | 4.0/5 | Verify start date; apply |
 | #430 | NYT | AI Engineer Intern | 4.0/5 | June 1 start; apply ASAP |
 | #427 | Notion | Software Engineer — New Grad (AI) | 4.0/5 | Verify Jul 27 FTE start vs graduation |
+| #409/422 | OpenAI | SWE Internship/Co-op Fall 2026 | ~4.0/5 | In pipeline — evaluate |
 
 ---
 
 ## Recommended Next Actions
 
-1. **TONIGHT:** Apply to Anthropic Fellows (ML Systems #358 + AI Safety #292) — deadline MAY 3 EOD PST
-2. **By May 7:** Apply to Shopify Fall 2026 #429
-3. **This week:** Apply to Vapi #420 + Labelbox #431 + NYT #430
-4. **Verify:** Confirm TAMU graduation date for Sierra #428 (Dec 2026-Jun 2027 req) and Notion #427 (Jul 27 FTE start)
-5. **Resume scanning in Fall 2026** when Summer 2027 and Fall 2026 cycles fully open
+1. **TONIGHT (before midnight PST):** Apply to Anthropic Fellows ML Systems (#358, 4.1/5) + AI Safety (#292, 4.2/5) — DEADLINE MAY 3 EOD PST
+2. **By May 7:** Apply to Shopify Fall 2026 #429 (4.0/5)
+3. **This week:** Apply to Vapi #420 (4.4/5) + Labelbox #431 (4.0/5) + NYT #430 (4.0/5)
+4. **Verify:** TAMU graduation date for Sierra #428 (Dec 2026-Jun 2027 start required) and Notion New Grad #427 (Jul 27 FTE start)
+5. **Pause scanning** — no new qualifying listings have appeared in 3+ consecutive scans. Resume when Fall 2026 cycle opens (Aug-Sep 2026) or Summer 2027 opens (Oct 2026+)
 
-→ Run `/career-ops pipeline` to process remaining pending pipeline entries.
-→ Run `/career-ops oferta` to evaluate specific listings from the active pipeline above.
+→ Run `/career-ops pipeline` to evaluate remaining pipeline entries
+→ Run `/career-ops oferta` on any specific listing above
