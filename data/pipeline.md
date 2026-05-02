@@ -4282,3 +4282,17 @@ Portals checked this scan:
 - Notion New Grad AI (#427) — 4.0/5, verify Jul 27 FTE start date
 
 <!-- === END 2026-05-01 SCAN v255 === -->
+
+<!-- === BEGIN 2026-05-02 SCAN v260 === -->
+## Added by scan-v260 (2026-05-02)
+
+**0 new listings added** — market fully saturated at 260 scans / 4,970 URLs tracked.
+
+**⚠️ CRITICAL DEADLINES:**
+- **Anthropic Fellows ML Systems (#358) + AI Safety (#292) — DEADLINE MAY 3 2026 EOD PST (TOMORROW — APPLY TONIGHT!)**
+- **Shopify Fall 2026 (#429) — DEADLINE MAY 7 2026 (5 DAYS)**
+- Center for AI Safety Research Intern — deadline May 29, 2026
+- Labelbox FDE Intern (#431) — 4.0/5, verify start date and apply ASAP
+- Sierra Agent Development Intern (#428) — 4.5/5, verify TAMU graduation eligibility
+
+<!-- === END 2026-05-02 SCAN v260 === -->
