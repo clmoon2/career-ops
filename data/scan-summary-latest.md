@@ -1,60 +1,73 @@
-# Scan Summary — 2026-05-02 (v257)
+# Portal Scan — 2026-05-02 (v258)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Date:** 2026-05-02  
-**Scan number:** v257  
-**Sources checked:** 12 Greenhouse APIs (PolyAI, Parloa, Intercom, HumeAI, Temporal, RunPod, Stripe, Figma, Databricks, CrowdStrike, HubSpot); 20+ WebSearch queries (Fall 2026 intern, New Grad 2026, Security intern, AI/ML intern, Consulting intern, SpeedyApply, SimplifyJobs, Wellfound, LinkedIn); Ashby company pages (Cohere, LangChain, Pinecone, n8n, Zapier — all JS-gated); Lever company pages (Palantir — 403, WandB — 403); SpeedyApply 2026-SWE-College-Jobs README (latest 50); SpeedyApply 2026-AI-College-Jobs README; SimplifyJobs Summer2026 README  
-**Total history entries before:** 4,953  
-**New history entries added:** 6  
-**Total history entries after:** 4,959  
+**Scan number:** v258 (3rd scan on 2026-05-02)
+**History size:** 4,965 entries
+
+## Sources Checked
+
+| Source | Result |
+|--------|--------|
+| Greenhouse API — Anthropic | 0 new intern/new-grad (all dup v257) |
+| Greenhouse API — Airtable | 0 new intern/new-grad (all senior FTE) |
+| Greenhouse API — Vercel | 0 new intern/new-grad (all senior FTE) |
+| Greenhouse API — Arize AI | 0 new intern/new-grad (all senior FTE) |
+| Greenhouse API — Glean | 0 new intern/new-grad (all senior FTE) |
+| Greenhouse API — RunPod | 0 new intern/new-grad (all senior FTE) |
+| WebSearch — Ashby/Greenhouse/Lever (20+ queries) | All confirmed dup v7-v257 |
+| SimplifyJobs Summer2026 top-160 | All dup v256-v257 |
+| SpeedyApply 2026-AI-College-Jobs 0d entries | 6 genuinely new URLs (all below threshold) |
 
 ## Results
 
-- New listings found: 6
-- Added to pipeline: 0
-- Evaluated (score >= 4.0): 0
+| Metric | Count |
+|--------|-------|
+| Total sources checked | 28 |
+| New URLs found | 6 |
+| Qualified >= 4.0 | **0** |
+| Pipeline additions | **0** |
+| New reports written | **0** |
+| Skipped (score / location / title) | 6 |
 
-## New Listings (score >= 4.0)
+## New Finds (All Below Threshold)
 
-None. Market is extremely saturated at v257 — no new qualifying listings found.
+| Company | Role | Location | Score | Reason Skipped |
+|---------|------|----------|-------|----------------|
+| GE Aerospace | Artificial Intelligence Intern | Remote US | ~3.0/5 | 3.7 GPA hard req + aerospace domain + $20/hr base |
+| GE Aerospace | Software as a Service Intern | West Chester, OH | ~2.5/5 | On-site Ohio + SaaS/digital domain |
+| Power Factors | AI Tooling Research & Product Development Intern | Massachusetts | ~2.5/5 | Energy sector (wind/solar), non-primary domain |
+| Triple-S Steel | AI Business Analyst Intern | Houston, TX | ~2.0/5 | Steel company, business analyst not SWE |
+| AlgaeCal | AI Business Intern (New Graduates) | Vancouver, BC | — | Non-US location |
+| Raytheon | Data Science Internship Fall 2026 | Longueuil, QC | — | Non-US (Canada) |
 
-## Pipeline Additions (score 3.0-3.9)
+## Top Matches (Score >= 4.0)
 
-None. All new findings were below 3.0 or disqualified by hard filters (PhD required, Masters required, wrong domain).
+**None found this scan.** Market is maximally saturated at 258 scans.
 
-## Skipped
+---
 
-| Company | Role | Reason |
-|---------|------|---------|
-| Samsung Research America | 2026 Research Intern, AI Algorithm Design for 6G | signals/MIMO/OFDM domain; not SWE/AI |
-| Cotiviti | Intern - Generative AI/Agentic AI/Research | PhD preferred; healthcare informatics |
-| Cotiviti | Intern - Agentic AI Research | PhD preferred; same issue |
-| Cambium Learning | Software Engineer Intern - AI Applications | Postgraduate degree preferred; no comp |
-| Stripe | Data Analyst Intern (Masters degree) | Masters required; analyst not SWE |
-| Drivetrain | Engineering Intern - GenAI for FP&A Platform | FP&A/finance domain; 403 error |
+## CRITICAL DEADLINES — ACT NOW
 
-**Confirmed no intern/new-grad (v257):** PolyAI, Parloa, Intercom, HumeAI, Temporal (0 jobs), RunPod, Figma, Databricks, CrowdStrike (404), HubSpot (0 results).
-
-## Critical Deadlines
-
-- **Anthropic Fellows ML Systems (#358) + AI Safety (#292) — DEADLINE MAY 3, 2026 EOD PST (TOMORROW!!)**
-- **Shopify Fall 2026 (#429) — DEADLINE MAY 7, 2026 (5 DAYS!)**
-- Center for AI Safety Research Intern — deadline May 29, 2026
-
-## Market Intelligence
-
-This scan (v257) confirms the Summer 2026 internship market is **completely saturated** for automated discovery:
-
-- 257 scans completed since system start
-- 4,959 history entries total
-- All major Greenhouse/Ashby/Lever/Workday companies exhausted
-- SpeedyApply and SimplifyJobs repos showing only already-seen companies
-- MBB consulting deadlines already passed (July-September 2025 for undergrads)
-- Big 4 tech consulting cycle for 2026 is effectively closed
+| # | Company | Role | Score | Deadline |
+|---|---------|------|-------|----------|
+| #358/#292 | Anthropic Fellows | ML Systems + AI Safety | 4.1/4.2/5 | **MAY 3 EOD PST — TOMORROW!** |
+| #429 | Shopify | Engineering & Data Intern (Fall 2026) | 4.2/5 | **MAY 7 — 5 DAYS** |
+| #431 | Labelbox | Forward Deployed Engineer Intern | 4.0/5 | ASAP (verify start date) |
+| #416 | Cerebras | AI Engineering Intern (Growth Team) | 4.5/5 | No deadline listed |
+| #428 | Sierra | Agent Development Intern | 4.5/5 | Verify TAMU graduation eligibility |
+| #420 | Vapi | Backend Product Engineer | 4.4/5 | Apply ASAP |
+| #409 | OpenAI | SWE Intern Applied Emerging Talent (Fall 2026) | 4.4/5 | Apply ASAP |
+| #419 | Palantir | Software Engineer Internship | 4.3/5 | Verify grad date |
+| #430 | NYT | AI Engineer Intern | 4.0/5 | June 1 start |
 
 ## Recommended Next Actions
 
-1. **IMMEDIATE (TODAY):** Apply to Anthropic Fellows ML Systems (#358) and AI Safety (#292) — DEADLINE TOMORROW MAY 3 EOD PST
-2. **THIS WEEK:** Apply to Shopify Fall 2026 (#429) — DEADLINE MAY 7; determine if TAMU fall semester conflict can be resolved
-3. **HIGH PRIORITY:** Apply to top-scored listings: Sierra #428 (4.5/5), Vapi #420 (4.4/5), Decagon #305 (4.4/5), Glean SWE Intern #340 (4.5/5), CrowdStrike #285 (4.5/5)
-4. **SHIFT STRATEGY:** Market is saturated for automated scanning. Focus energy on applying to existing high-score listings and tailoring CVs
-5. **NEXT SCAN TIMING:** Wait 3-5 days before v258 — new FALL 2026 intern postings will emerge in May-June as companies start posting for next cycle
+1. **TONIGHT:** Apply to Anthropic Fellows ML Systems (#358) + AI Safety (#292) — deadline TOMORROW May 3 EOD PST
+2. **By May 7:** Apply to Shopify Fall 2026 Engineering & Data Internship (#429) at internships.shopify.com
+3. **This week:** Apply to Labelbox FDE Intern (#431) — verify start date first
+4. **This week:** Apply to Cerebras AI Engineering Intern (#416), Sierra (#428), Vapi (#420)
+5. **No more scanning needed today** — market is at 4,965-entry saturation; focus shifts 100% to applications
+
+---
+
+*Generated by career-ops autonomous scan agent — 2026-05-02*
