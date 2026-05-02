@@ -1,20 +1,22 @@
-# Scan Summary — 2026-05-02 (v263)
+# Scan Summary — 2026-05-02 (v264)
 
 **Date:** 2026-05-02
-**Scan version:** v263 (13th scan today, 263rd overall)
-**History entries before scan:** 4,975
-**History entries after scan:** 4,992
-**New entries added:** 17
+**Scan version:** v264 (14th scan today, 264th overall)
+**History entries before scan:** 4,993
+**History entries after scan:** 4,995
+**New entries added:** 2 (1 new URL found, 1 scan summary row)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## Coverage
 
-**Greenhouse APIs checked:** Anthropic, Glean, Vercel, Airtable, Arize AI, Hume AI, Intercom, RunPod, Temporal (all 0 new intern/new-grad)
+**Greenhouse APIs checked:** Gemini, Anthropic, OpenAI, ElevenLabs, Vapi, Bland AI, Airtable, Vercel, Temporal, ArizeAI, RunPod, Glean, Cohere, Pinecone, Mistral, Weights & Biases, Palantir, ByteDance, and others (20+ APIs)
 
-**WebSearch queries run:** 20+ covering Ashby/Greenhouse/Lever for SWE, Security, AI/ML, DevOps, Consulting intern + new-grad 2026
+**WebSearch queries run:** 40+ covering Ashby/Greenhouse/Lever for SWE, Security, AI/ML, DevOps, Consulting intern + new-grad 2026
 
-**Companies scanned:** 30+ (all tracked companies in portals.yml + broad query discovery)
+**Aggregator repos scanned:** SpeedyApply SWE (0d/1d entries), SpeedyApply AI (0d/1d entries), SimplifyJobs (0d/1d entries)
+
+**Companies scanned:** 50+ (all tracked companies in portals.yml + broad query discovery)
 
 ---
 
@@ -22,26 +24,22 @@
 
 | Metric | Count |
 |--------|-------|
-| Candidate URLs evaluated | ~200+ |
-| Duplicates (dup v1-v262) | ~183 |
-| New URLs discovered | 17 |
-| Pass title filter | 14 |
-| Skip — senior/FTE (3+ yrs) | 12 |
-| Skip — title filter fail | 3 |
-| **Added to pipeline.md** | **1** |
+| Candidate URLs evaluated | ~150 |
+| Duplicates (dup v1-v263) | ~149 |
+| New URLs discovered | 1 |
+| Pass title filter | 0 |
+| **Skip — title filter fail (Web3/crypto domain)** | **1** |
+| **Added to pipeline.md** | **0** |
 | Score ≥ 4.0 | 0 |
 | New evaluation reports | 0 |
 
 ---
 
-## New Pipeline Entry
+## New URLs Found This Scan
 
-**Meshy — Generative AI Pipeline Engineer Intern** (~3.3/5)
-- URL: https://jobs.ashbyhq.com/meshy/8c30a345-2c26-4d72-ae76-91c5834fc435
-- Company: Meshy LLC (3D generative AI, $52M Sequoia Series B, Sunnyvale CA)
-- Match: Carlos built a 7-stage multi-model AI pipeline (LangChain, 5 LLM providers) — direct fit for "pipeline engineer"
-- Caution: Niche 3D AI domain; below 4.0 threshold; low priority
-- Action: Apply only if current pipeline runs dry
+| URL | Company | Title | Status | Reason |
+|-----|---------|-------|--------|--------|
+| https://job-boards.greenhouse.io/gemini/jobs/7875125 | Gemini | Software Engineering Intern - Fall 2026 | `skipped_title` | Explicitly requires "genuine passion for blockchain and Web3 industry" — blocked by negative filter |
 
 ---
 
@@ -61,17 +59,19 @@
 
 | # | Company | Role | Score | Notes |
 |---|---------|------|-------|-------|
-| #431 | Labelbox | Forward Deployed Engineer Intern | 4.0/5 | Apply ASAP — verify start date |
 | #428 | Sierra | Agent Development Intern | 4.5/5 | Verify TAMU grad eligibility |
+| #420 | Vapi | Backend Product Engineer | 4.4/5 | Apply now |
+| #431 | Labelbox | Forward Deployed Engineer Intern | 4.0/5 | Apply ASAP — verify start date |
 | #430 | New York Times | AI Engineer Intern | 4.0/5 | June 1 start |
 | #427 | Notion | New Grad AI Engineer | 4.0/5 | Verify Jul 27 FTE start |
-| #420 | Vapi | Backend Product Engineer | 4.4/5 | Apply now |
 
 ---
 
 ## Market Assessment
 
-**MAXIMALLY SATURATED.** 263 scans have covered every major Greenhouse, Ashby, Lever, Workday, and aggregator source for Summer 2026 internships and 2026 new-grad roles. Discovery is essentially exhausted.
+**MAXIMALLY SATURATED.** 264 scans have covered every major Greenhouse, Ashby, Lever, Workday, and aggregator source for Summer 2026 internships and 2026 new-grad roles. Discovery is essentially exhausted.
+
+The only new URL this scan (Gemini SWE Intern) was immediately disqualified due to crypto/Web3 domain requirements.
 
 **The bottleneck is now execution, not discovery.** Stop scanning, start submitting.
 
@@ -88,7 +88,9 @@
 | v260 | 0 | 0 | 0 |
 | v261 | 1 | 0 | 0 |
 | v262 | 2 | 0 | 0 |
-| **v263** | **17** | **1** | **0** |
-| **TOTAL today** | **38** | **5** | **1** |
+| v263 | 17 | 1 | 0 |
+| **v264** | **1** | **0** | **0** |
+| **TOTAL today** | **39** | **5** | **1** |
 
-→ Run `/career-ops pipeline` to evaluate Snorkel AI re-list + Meshy + verify Labelbox/Sierra status.
+→ **Priority action:** Apply to Anthropic Fellows TONIGHT (deadline May 3). Then Shopify by May 7.
+→ Run `/career-ops pipeline` to work through existing queue — no new discoveries pending.
