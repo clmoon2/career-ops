@@ -4334,3 +4334,14 @@ Portals checked this scan:
 - Labelbox FDE Intern — 4.0/5, pending evaluation
 
 <!-- === END 2026-05-02 SCAN v265 === -->
+
+<!-- === BEGIN 2026-05-02 SCAN v266 === -->
+## Nuevas ofertas — Scan v266 (2026-05-02)
+
+### Pendientes
+
+- [ ] https://job-boards.greenhouse.io/typeface/jobs/4986848007 | Typeface | Software Engineer Intern
+- [ ] https://job-boards.greenhouse.io/kargo/jobs/5217421004 | Kargo | Backend Software Engineer Internship
+- [ ] https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/AI-Software-Engineer-Intern_R106673 | Tencent | AI Software Engineer Intern (Palo Alto)
+
+<!-- === END 2026-05-02 SCAN v266 === -->
