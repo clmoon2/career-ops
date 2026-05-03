@@ -4379,3 +4379,41 @@ All 40+ search queries returned URLs already in the 5,055-entry scan history. Al
 Pending evaluations: Labelbox FDE (~4.0/5), Zapier AppSec (verify level — if entry-level ~4.2/5)
 
 <!-- === END 2026-05-03 SCAN v268 === -->
+
+## Scan 2026-05-03 — New Listings
+
+### Internships
+
+- [ ] https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2 | Palantir | Forward Deployed Software Engineer, Internship — US Government ⭐ EVALUATED #431 (4.2)
+- [ ] https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3 | Palantir | Software Engineer, Internship — Infrastructure
+- [ ] https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1 | Palantir | Software Engineer, Internship — Production Infrastructure
+- [ ] https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7 | Palantir | Software Engineer, Internship — Defense Tech
+- [ ] https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29 | Palantir | Software Engineer, New Grad
+- [ ] https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a | Palantir | Software Engineer, New Grad — Production Infrastructure
+- [ ] https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90 | Notion | Software Engineer Intern (Fall 2026)
+- [x] https://job-boards.greenhouse.io/verkada/jobs/5117760007 | Verkada | AI Software Engineering Intern — Fall 2026 — already evaluated as #425 (4.2)
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/5817107004 | Mercury | Software Engineering Intern — AI Enablement (Fall 2026)
+- [ ] https://jobs.bytedance.com/en/position/7600201731980675333/detail | ByteDance | Security Software Engineer Project Intern — Network Security 2026
+- [ ] https://joinbytedance.com/search/7533042683796097298 | ByteDance | Software Engineer Intern — Applied Machine Learning Enterprise (Summer 2026)
+- [ ] https://joinbytedance.com/search/7538121437628221703 | ByteDance | Software Engineer Intern — Edge Platform (Summer 2026)
+- [ ] https://jobs.lever.co/nominal/f2673e2a-381e-49eb-bb34-7633ac0d5ea4 | Nominal | Software Engineer Intern (Summer 2026)
+- [ ] https://jobs.lever.co/SymmetrySystems/dbca271b-a99b-48ab-83f2-b596a037ad65 | Symmetry Systems | Full Stack Software Engineer — Summer Intern
+- [ ] https://jobs.ashbyhq.com/sentry/5e112240-922a-48f1-8865-9e7f89687f39 | Sentry | Software Engineer Intern (Fall 2026)
+- [ ] https://jobs.ashbyhq.com/zip/caa5ba75-3b38-4d29-88cd-69a90b01fd6f | Zip | Software Engineer Intern (Fall 2026)
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7359136 | Cloudflare | Research Engineer Intern (Summer 2026)
+
+### Full-time / New Grad (verify YOE requirements before applying)
+
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4650994005 | Glean | Cloud Security Engineer (Remote US)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4605446005 | Glean | Software Engineer, AI & Security (Mountain View CA)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4605215005 | Glean | Machine Learning Engineer, AI Assistant & Autonomous AI Agents (SF Bay)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4632997005 | Glean | Machine Learning Engineer, Enterprise Brain (SF Bay)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4669417005 | Glean | Machine Learning Engineer, LLM Evals & Observability (SF Bay — 2+ yrs req, $200-300K)
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5798416004 | Vercel | Software Engineer, Workflows (Hybrid SF/NYC)
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5808568004 | Vercel | Software Engineer, Dashboard (Hybrid SF/NYC)
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5813134004 | Vercel | Software Engineer, Domains (Remote US)
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5843010004 | Vercel | Anti-Abuse Automation Engineer (Remote US)
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5798406004 | Vercel | Software Engineer, AI Gateway (Hybrid SF/NYC — 5+ yrs req, $196-294K)
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5661972004 | Arize AI | AI Engineer, Instrumentation (Remote US — 3-5 yrs req, $125-225K)
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5980312004 | Arize AI | DevSecOps Engineer, TypeScript & Agentic AI (Remote/Hybrid SoCal)
+

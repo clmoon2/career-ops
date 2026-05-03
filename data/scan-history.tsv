@@ -5055,3 +5055,62 @@ https://job-boards.greenhouse.io/mercury/jobs/5817062004	2026-05-03	scan-v267-gr
 https://job-boards.greenhouse.io/mercury/jobs/5817113004	2026-05-03	scan-v267-greenhouse-search	Mercury Frontend Engineering Intern Fall 2026 — dup check: 1 hit in history; skip	Mercury	skipped_dup
 scan-v267	2026-05-03	scan-v267-summary	Scan v267 complete (autonomous agent 2026-05-03) — Greenhouse APIs (Anthropic: all 6 Fellows tracks dup v7-v266 + STEM Fellow 5189848008 dup x34; PolyAI: 0 intern; Parloa: 0 intern; Intercom: 0 intern; HumeAI: 0 intern; Airtable: 0 intern; Vercel: 0 intern; Temporal: 0 jobs; ArizeAI: 0 intern; RunPod: 0 intern; Glean: 0 intern); Lever 403 (Palantir/WandB/Mistral inaccessible); Ashby JS-gated (Sierra/Vapi/LangChain/ElevenLabs/Deepgram/Cohere/n8n/Zapier/Pinecone/Attio — all return only page headers); WebSearch queries x20 (all major SWE/AI/Security/FDE/consulting/new-grad queries); SpeedyApply AI (Everlaw/Micron/Oldcastle/Vistra/AlgaeCal/GE Aerospace/Globalization Partners/Power Factors — 7 genuinely new); SpeedyApply SWE (CACI/Gemini-fall-dup/Motorola/Snorkel-dup/Trimble — 3 genuinely new but below threshold); Security-specific searches (Boeing Product Security Intern — 1 new); Pindrop Cloud Intern (1 new via Greenhouse search); Zapier AppSec (1 new via Ashby search). History size 5,038 + 17 new entries = 5,055 total. 5 pipeline additions: Pindrop Cloud Intern (~3.5/5) + Zapier AppSec (~4.0/5 unconfirmed intern) + Boeing Product Security Intern (~3.0/5) + GE Aerospace Applied AI Intern (~3.2/5) + Vistra AI Intern Irving TX (~3.0/5). 0 qualifying confirmed >=4.0. Market MAXIMALLY SATURATED at 267 scans (1st scan on 2026-05-03). ⚡ CRITICAL DEADLINES: (1) Anthropic Fellows ML Systems #358 + AI Safety #292 — DEADLINE MAY 3 2026 EOD PST (TODAY — APPLY NOW!); (2) Shopify Fall 2026 #429 DEADLINE MAY 7 2026 (4 DAYS!). Pending evaluations: Labelbox FDE #430 4.0/5; Typeface SWE #431 3.5/5; Kargo Backend; Tencent AI; Verkada Frontend.	scan-v267	added
 scan-v268	2026-05-03	scan-v268-summary	Scan v268 complete (autonomous agent 2026-05-03) — Greenhouse APIs (Anthropic: 7 Fellows all dup v7-v267; Glean: 161 roles 0 intern; Airtable: 27 FTE 0 intern; Vercel: 86 roles 0 intern; HumeAI: 8 senior roles 0 intern; RunPod: 19 roles 0 intern); 40+ WebSearch queries (Greenhouse/Ashby/Lever SWE+Security+AI+ML+DevOps+FDE+NewGrad+Fall2026+Summer2026+consulting+backend+platform — all confirmed dup v7-v267); specific company checks (Zapier AppSec d4b6cd58 dup v267 pipeline; Notion AI New Grad dup #427; Harvey/Replit/Whatnot/Benchling all dup; Farsight/Fizz/Kirin all dup; Creatify/Decagon/Profound/Pylon all dup; CLEAR/Underdog/Freeform all dup; Giga/BrainCo/Glacis all dup; Shield AI/Voleon/Symmetry/Artera/Nominal all dup; Crusoe dup v145; Ramp FDE dup #341; Arcesium dup v7); 5,055-entry history confirmed; 0 genuinely new URLs discovered; 0 qualifying >=4.0; 0 pipeline additions; 0 new reports. Market MAXIMALLY SATURATED at 268 scans (2nd scan on 2026-05-03). ⚠️ CRITICAL DEADLINES: (1) Anthropic Fellows ML Systems #358 + AI Safety #292 — TODAY May 3 2026 EOD PST — APPLY NOW IF NOT YET DONE; (2) Shopify Fall 2026 #429 — DEADLINE MAY 7 2026 (4 DAYS). KEY ACTIONS: Verify Anthropic Fellows submitted; Shopify #429 by May 7; Zapier AppSec d4b6cd58 — verify if entry-level before applying (~4.0/5 IF new-grad); Labelbox FDE ~4.0/5 still pending evaluation; Typeface SWE Intern #431 3.5/5 pending; Sierra #428 4.5/5; Vapi #420 4.4/5.	scan-v268	added
+https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2	2026-05-03	scan-2026-05-03	Forward Deployed Software Engineer, Internship — US Government	Palantir	added
+https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3	2026-05-03	scan-2026-05-03	Software Engineer, Internship — Infrastructure	Palantir	added
+https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1	2026-05-03	scan-2026-05-03	Software Engineer, Internship — Production Infrastructure	Palantir	added
+https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7	2026-05-03	scan-2026-05-03	Software Engineer, Internship — Defense Tech	Palantir	added
+https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29	2026-05-03	scan-2026-05-03	Software Engineer, New Grad	Palantir	added
+https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a	2026-05-03	scan-2026-05-03	Software Engineer, New Grad — Production Infrastructure	Palantir	added
+https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90	2026-05-03	scan-2026-05-03	Software Engineer Intern (Fall 2026)	Notion	added
+https://job-boards.greenhouse.io/verkada/jobs/5117760007	2026-05-03	scan-2026-05-03	AI Software Engineering Intern — Fall 2026	Verkada	added
+https://job-boards.greenhouse.io/mercury/jobs/5817107004	2026-05-03	scan-2026-05-03	Software Engineering Intern — AI Enablement (Fall 2026)	Mercury	added
+https://jobs.bytedance.com/en/position/7600201731980675333/detail	2026-05-03	scan-2026-05-03	Security Software Engineer Project Intern — Network Security	ByteDance	added
+https://joinbytedance.com/search/7533042683796097298	2026-05-03	scan-2026-05-03	Software Engineer Intern — Applied ML Enterprise (Summer 2026)	ByteDance	added
+https://joinbytedance.com/search/7538121437628221703	2026-05-03	scan-2026-05-03	Software Engineer Intern — Edge Platform (Summer 2026)	ByteDance	added
+https://jobs.lever.co/nominal/f2673e2a-381e-49eb-bb34-7633ac0d5ea4	2026-05-03	scan-2026-05-03	Software Engineer Intern (Summer 2026)	Nominal	added
+https://jobs.lever.co/SymmetrySystems/dbca271b-a99b-48ab-83f2-b596a037ad65	2026-05-03	scan-2026-05-03	Full Stack Software Engineer — Summer Intern	Symmetry Systems	added
+https://jobs.ashbyhq.com/sentry/5e112240-922a-48f1-8865-9e7f89687f39	2026-05-03	scan-2026-05-03	Software Engineer Intern (Fall 2026)	Sentry	added
+https://jobs.ashbyhq.com/zip/caa5ba75-3b38-4d29-88cd-69a90b01fd6f	2026-05-03	scan-2026-05-03	Software Engineer Intern (Fall 2026)	Zip	added
+https://job-boards.greenhouse.io/cloudflare/jobs/7359136	2026-05-03	scan-2026-05-03	Research Engineer Intern (Summer 2026)	Cloudflare	added
+https://job-boards.greenhouse.io/gleanwork/jobs/4650994005	2026-05-03	scan-2026-05-03	Cloud Security Engineer	Glean	added
+https://job-boards.greenhouse.io/gleanwork/jobs/4605446005	2026-05-03	scan-2026-05-03	Software Engineer, AI & Security	Glean	added
+https://job-boards.greenhouse.io/gleanwork/jobs/4605215005	2026-05-03	scan-2026-05-03	Machine Learning Engineer, AI Assistant & Autonomous AI Agents	Glean	added
+https://job-boards.greenhouse.io/gleanwork/jobs/4632997005	2026-05-03	scan-2026-05-03	Machine Learning Engineer, Enterprise Brain	Glean	added
+https://job-boards.greenhouse.io/gleanwork/jobs/4669417005	2026-05-03	scan-2026-05-03	Machine Learning Engineer, LLM Evals & Observability	Glean	added
+https://job-boards.greenhouse.io/vercel/jobs/5798416004	2026-05-03	scan-2026-05-03	Software Engineer, Workflows	Vercel	added
+https://job-boards.greenhouse.io/vercel/jobs/5808568004	2026-05-03	scan-2026-05-03	Software Engineer, Dashboard	Vercel	added
+https://job-boards.greenhouse.io/vercel/jobs/5813134004	2026-05-03	scan-2026-05-03	Software Engineer, Domains	Vercel	added
+https://job-boards.greenhouse.io/vercel/jobs/5843010004	2026-05-03	scan-2026-05-03	Anti-Abuse Automation Engineer	Vercel	added
+https://job-boards.greenhouse.io/vercel/jobs/5798406004	2026-05-03	scan-2026-05-03	Software Engineer, AI Gateway	Vercel	added
+https://job-boards.greenhouse.io/arizeai/jobs/5661972004	2026-05-03	scan-2026-05-03	AI Engineer, Instrumentation	Arize AI	added
+https://job-boards.greenhouse.io/arizeai/jobs/5980312004	2026-05-03	scan-2026-05-03	DevSecOps Engineer, TypeScript & Agentic AI	Arize AI	added
+https://job-boards.greenhouse.io/anthropic/jobs/5068226008	2026-05-03	scan-2026-05-03	Applied AI Engineer, Beneficial Deployments	Anthropic	skipped_dup
+https://job-boards.greenhouse.io/anthropic/jobs/5057647008	2026-05-03	scan-2026-05-03	Applied AI Engineer, Enterprise Tech	Anthropic	skipped_dup
+https://job-boards.greenhouse.io/anthropic/jobs/5073277008	2026-05-03	scan-2026-05-03	Applied AI Engineer, Startups	Anthropic	skipped_dup
+https://job-boards.greenhouse.io/anthropic/jobs/5111942008	2026-05-03	scan-2026-05-03	Applied AI Engineer, Life Sciences	Anthropic	skipped_dup
+https://job-boards.greenhouse.io/anthropic/jobs/5146028008	2026-05-03	scan-2026-05-03	Applied AI Engineer, Beneficial Deployments (Bangalore)	Anthropic	skipped_dup
+https://job-boards.greenhouse.io/anthropic/jobs/4502508008	2026-05-03	scan-2026-05-03	Application Security Engineer	Anthropic	skipped_dup
+https://job-boards.greenhouse.io/gleanwork/jobs/4529774005	2026-05-03	scan-2026-05-03	Application Security Engineer	Glean	skipped_dup
+https://job-boards.greenhouse.io/gleanwork/jobs/4501783005	2026-05-03	scan-2026-05-03	Software Engineer, AI Infrastructure	Glean	skipped_dup
+https://job-boards.greenhouse.io/gleanwork/jobs/4612849005	2026-05-03	scan-2026-05-03	Application Security Engineer (Bangalore)	Glean	skipped_dup
+https://job-boards.greenhouse.io/vercel/jobs/5430088004	2026-05-03	scan-2026-05-03	Software Engineer, Backend	Vercel	skipped_dup
+https://job-boards.greenhouse.io/vercel/jobs/5431123004	2026-05-03	scan-2026-05-03	Software Engineer, Backend	Vercel	skipped_dup
+https://job-boards.greenhouse.io/vercel/jobs/5179639004	2026-05-03	scan-2026-05-03	Software Engineer, CDN	Vercel	skipped_dup
+https://job-boards.greenhouse.io/vercel/jobs/5473266004	2026-05-03	scan-2026-05-03	Software Engineer, CDN Security	Vercel	skipped_dup
+https://job-boards.greenhouse.io/vercel/jobs/5474915004	2026-05-03	scan-2026-05-03	Software Engineer, AI SDK	Vercel	skipped_dup
+https://jobs.lever.co/palantir/030ece08-c341-4959-bdfe-314e89b691ce	2026-05-03	scan-2026-05-03	Year at Palantir, Internship	Palantir	skipped_dup
+https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0	2026-05-03	scan-2026-05-03	Software Engineer, Internship	Palantir	skipped_dup
+https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4	2026-05-03	scan-2026-05-03	Software Engineer, New Grad — Infrastructure	Palantir	skipped_dup
+https://jobs.ashbyhq.com/notion/5bc8cbb9-4d08-4217-a968-d485d1b39905	2026-05-03	scan-2026-05-03	Software Engineer, AI Intern (Summer 2026)	Notion	skipped_dup
+https://jobs.ashbyhq.com/notion/23ac2477-0008-4bed-b1c1-81f90a32e9e6	2026-05-03	scan-2026-05-03	Software Engineer Intern (Summer 2026)	Notion	skipped_dup
+https://jobs.ashbyhq.com/openai/1f3353ed-78eb-4a01-b783-c44b1c086711	2026-05-03	scan-2026-05-03	Software Engineer Internship Co-op Applied Emerging Talent Fall 2026	OpenAI	skipped_dup
+https://jobs.ashbyhq.com/cohere/66c98ca3-334b-4a6a-a27c-5807b3686121	2026-05-03	scan-2026-05-03	Software Engineer Intern (Spring/Summer 2026)	Cohere	skipped_dup
+https://jobs.ashbyhq.com/cohere/2c669d85-e3d7-43f1-aa43-be33e12ff8a5	2026-05-03	scan-2026-05-03	Machine Learning Intern/Co-op (Spring/Summer 2026)	Cohere	skipped_dup
+https://jobs.ashbyhq.com/cohere/6e850172-a79d-4128-abd2-677731312857	2026-05-03	scan-2026-05-03	Research Internship (Spring/Summer 2026)	Cohere	skipped_dup
+https://job-boards.greenhouse.io/censys/jobs/8167601002	2026-05-03	scan-2026-05-03	AI/ML Engineering Intern, Platform	Censys	skipped_dup
+https://job-boards.greenhouse.io/togetherai/jobs/5012768007	2026-05-03	scan-2026-05-03	Software Engineer Intern (Summer 2026)	Together AI	skipped_dup
+https://job-boards.greenhouse.io/togetherai/jobs/5012785007	2026-05-03	scan-2026-05-03	Security Engineer Intern (Summer 2026)	Together AI	skipped_dup
+https://job-boards.greenhouse.io/cloudflare/jobs/7206269	2026-05-03	scan-2026-05-03	Software Engineer Intern (Summer 2026) — Austin TX	Cloudflare	skipped_dup
+https://job-boards.greenhouse.io/cloudflare/jobs/7582169	2026-05-03	scan-2026-05-03	Security Engineer Intern (Summer 2026)	Cloudflare	skipped_dup
+https://job-boards.greenhouse.io/cloudflare/jobs/7296923	2026-05-03	scan-2026-05-03	Software Engineer Intern (Summer 2026)	Cloudflare	skipped_dup
+https://jobs.ashbyhq.com/zip/ff6e6e25-e0e0-4d81-b1f6-be75a7a0511d	2026-05-03	scan-2026-05-03	Software Engineer Intern (Summer 2026)	Zip	skipped_dup
