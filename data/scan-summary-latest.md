@@ -1,90 +1,62 @@
-# Portal Scan — 2026-05-02 (v266)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Scan Summary — v267 (2026-05-03)
 
-**Scan:** v266 (16th scan today, May 2 2026)
-**Agent:** Autonomous scanning agent
-**History entries before scan:** 5,001
-**History entries after scan:** 5,038 (+37)
+**Date:** 2026-05-03
+**Previous scan:** v266 (2026-05-02)
+**History size before scan:** 5,038 entries
 
----
+## Portals Scanned
 
-## Coverage This Scan
+- **Greenhouse APIs (11):** Anthropic, PolyAI, Parloa, Intercom, Hume AI, Airtable, Vercel, Temporal, Arize AI, RunPod, Glean
+- **WebSearch queries (20):** Ashby/Greenhouse/Lever/Workday across SWE, Security, AI/ML, DevOps, consulting, new-grad, Texas-specific, FDE/solutions-engineer
+- **Ashby careers pages (13):** Sierra, Vapi, LangChain, ElevenLabs, Deepgram, Cohere, n8n, Zapier, Pinecone, Attio (all JS-gated; searched via WebSearch)
+- **Lever careers pages:** Palantir, W&B, Mistral (403 errors)
+- **SpeedyApply AI jobs repo:** 8 recently-posted entries checked
+- **SpeedyApply SWE jobs repo:** 5 recently-posted entries checked
+- **SimplifyJobs:** Referenced via search results
 
-| Source | Companies/Queries | Result |
-|--------|-------------------|--------|
-| Greenhouse APIs (direct) | PolyAI, Parloa, Factorial | 0 intern (Factorial 404) |
-| Lever (direct) | Palantir, W&B | 0 intern (W&B 404) |
-| Ashby WebSearch | Cohere, Notion, Replit, Sentry, Decagon, Farsight, Zettabyte, Whatnot | All dup v7-v265 |
-| Greenhouse WebSearch | Together AI, Glean, Censys, Lambda, Cloudflare, Obsidian, Affirm, Aquatic Capital, Astranis, Apptronik | All dup v7-v265 |
-| SpeedyApply SWE (top-30) | NVIDIA JR2017181, Cadent, Kira Learning, Axiomatic AI, Rainmaker | All dup v189-v265 |
-| SpeedyApply AI (top-30) | Stripe, Salesforce, TikTok x12, Meta, Microsoft, Adobe, Pinterest, Airbnb | All dup or PhD-req |
-| SimplifyJobs Off-Season | Typeface, Kargo, Cisco, LinkedIn, Tencent, Minitab, GDMS | **3 genuinely new** |
-| Rubrik (API) | Rubrik | India only; 0 US intern |
-| Abnormal Security (API) | Abnormal Security | 0 intern/entry-level |
+## Results
 
----
+- **Total URLs checked:** ~95
+- **New URLs found (not in history):** 13
+- **Skipped (dup):** ~80+
+- **Skipped (title filter):** 1 (Trimble PM intern)
+- **Skipped (score < 3.0):** 7 (Everlaw GTM, Oldcastle, AlgaeCal, Power Factors, CACI, Motorola, Micron)
+- **Added to pipeline:** 5
 
-## Scan Results Summary
+## New Listings (score >= 3.0)
 
-```
-Queries/sources checked:  40+
-Offers found (candidates): 40+ reviewed
-Filtered (title/domain):   15+ (defense, FPGA, non-tech, Canada, robotics)
-Duplicates:                22 confirmed dup v7-v265
-New added to pipeline:     3
-Qualifying (>=4.0):        0
-New reports written:       0
-```
+| Company | Role | Score | URL |
+|---------|------|-------|-----|
+| Pindrop | Cloud Engineer Intern | ~3.5/5 | https://boards.greenhouse.io/pindropsecurity/jobs/7812132 |
+| Zapier | Engineer, AppSec | ~4.0/5* | https://jobs.ashbyhq.com/zapier/d4b6cd58-bbe2-47fd-a494-926ed627bb03 |
+| Boeing | Product Security Analyst Intern Summer 2026 | ~3.0/5 | https://jobs.boeing.com/job/arlington/boeing-summer-2026-internship-program-paid-product-security-analyst-intern/185/91426039728 |
+| GE Aerospace | Applied AI Engineering Intern | ~3.2/5 | https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Remote/Applied-AI-Engineering-Intern--m-f-d-_R5033549-1 |
+| Vistra | Pricing & Offer Strategy AI Intern (Irving TX) | ~3.0/5 | https://vst.wd5.myworkdayjobs.com/en-US/vistra_careers/job/Irving-Texas/Pricing-and-Offer-Strategy---Artificial-Intelligence--AI--Intern_40015805 |
 
----
+*Zapier AppSec score assumes entry-level/new-grad eligibility — **must verify** before treating as 4.0
 
-## New Listings Found (3)
+## Top Matches (score >= 4.0)
 
-| Company | Role | URL | Score | Status |
-|---------|------|-----|-------|--------|
-| Typeface | Software Engineer Intern | [greenhouse](https://job-boards.greenhouse.io/typeface/jobs/4986848007) | ~3.5/5 | Pipeline — below threshold |
-| Kargo | Backend SWE Internship | [greenhouse](https://job-boards.greenhouse.io/kargo/jobs/5217421004) | ~3.0/5 | Pipeline — below threshold |
-| Tencent | AI Software Engineer Intern (Palo Alto) | [workday](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/AI-Software-Engineer-Intern_R106673) | ~3.3/5 | Pipeline — brand risk |
+- **Zapier AppSec** (~4.0/5 if entry-level confirmed) — AppSec aligns with Carlos's security engineering work (OAuth proxy, HMAC, CORS, CSP); Zapier's automation platform aligns with LangChain/AI automation expertise. **Verify seniority level before applying.**
 
-**No listings scored >=4.0 this scan.** Market remains maximally saturated after 266 scans.
+## Scan Notes
 
-### Notes on New Listings
+- **11 Greenhouse APIs** returned 0 new intern/new-grad listings (all dup or no intern roles)
+- **Lever direct fetches** all returned 403 (Palantir, W&B, Mistral blocked)
+- **Ashby direct pages** all JS-gated (Sierra, Vapi, ElevenLabs, etc. return only page headers); searched via WebSearch instead — all major listings confirmed already in history
+- **Anthropic Fellows** (6 tracks including ML Systems, AI Safety, AI Security, RL, Economics): all previously seen (24-34 times each in history) — deadline TODAY
+- Market remains maximally saturated after 267 scans; v267 found 5 new pipeline additions which is consistent with recent scan velocity
 
-- **Typeface** ($206M raised, Sequoia/GV): Enterprise AI content platform. SWE intern requires Python/React/AWS — exact CV match. Palo Alto CA or Bellevue WA hybrid. AI is a bonus not required — general SWE vs ML-specific. ~3.5/5: good tech match, enterprise marketing domain, on-site relocation needed.
-- **Kargo** (ad-tech/media): Backend intern with computer vision model integration. SF on-site. Python, 3-month paid. Ad-tech domain limits score. ~3.0/5.
-- **Tencent US** (Chinese parent company, same profile as ByteDance in portals.yml): AI Software Engineer Intern in Palo Alto. AI-focused team. Brand risk penalty. ~3.3/5.
+## Recommended Next Actions
 
----
+1. **URGENT TODAY (May 3 EOD PST):** Apply to Anthropic Fellows ML Systems (#358) and AI Safety (#292) — deadline is tonight
+2. **By May 7:** Apply to Shopify Fall 2026 (#429) — 4 days remaining
+3. **Evaluate pending high-priority:** Labelbox FDE Intern (~4.0/5 est.), Typeface SWE Intern (#431 ~3.5/5)
+4. **Verify Zapier AppSec:** Check if the role is intern/new-grad or experienced hire — if entry-level, evaluate as ~4.0/5 candidate
+5. **Consider Pindrop Cloud Intern:** Cloud + security domain is a good fit for Carlos's AWS/Docker/security background; evaluate if no better options
+6. **Vistra Irving TX:** Local Texas opportunity worth noting given TAMU proximity; AI/Agentic focus is relevant
 
-## Top Active Opportunities (Previously Evaluated)
+## Critical Deadlines
 
-| # | Company | Role | Score | Action |
-|---|---------|------|-------|--------|
-| ⚡#358/#292 | Anthropic | Fellows ML Systems + AI Safety | 4.5/5 | **APPLY TONIGHT — deadline May 3 EOD PST** |
-| ⚡#429 | Shopify | Engineering & Data Intern Fall 2026 | 4.2/5 | **APPLY BY MAY 7 — 5 DAYS** |
-| #428 | Sierra | Agent Development Intern | 4.5/5 | Apply — verify graduation eligibility |
-| #420 | Vapi | Backend Product Engineer | 4.4/5 | Apply now |
-| #419 | Palantir | Software Engineer, Internship | 4.3/5 | Apply now |
-| #425 | Verkada | AI SWE Intern Fall 2026 | 4.2/5 | Apply — verify fall semester |
-| #427 | Notion | Software Engineer, New Grad (AI) | 4.0/5 | Verify Jul 27 start vs graduation date |
-| #430 | New York Times | AI Engineer Intern | 4.0/5 | Apply — June 1 start |
-| Labelbox | Forward Deployed Engineer Intern | 4.0/5 | Verify still open before applying |
-
----
-
-## Market Assessment
-
-**266 scans completed. 5,038 history entries.** The Summer 2026 internship cycle is effectively closed for most target companies. The Fall 2026 cycle is active with a handful of roles (Verkada, Shopify, Axiomatic AI, OpenAI Applied Emerging Talent, Notion Fall).
-
-**Where new roles are still appearing:**
-- Off-season internship trackers (SimplifyJobs Off-Season, sharunkumar repo)
-- Recently-funded AI startups not yet in portals.yml
-- Fall 2026 cycle just beginning to open
-
-**Recommended next actions:**
-1. APPLY TONIGHT: Anthropic Fellows ML Systems + AI Safety — deadline May 3 EOD PST
-2. APPLY BY MAY 7: Shopify Fall 2026 — 5 days remaining
-3. Apply to Vapi (#420), Sierra (#428), Palantir (#419) — strong scores, no stated deadline
-4. Verify fall semester availability for Verkada (#425/#426) and Shopify (#429)
-5. Confirm graduation date for Notion New Grad AI (#427) — Jul 27 start
-6. Manually verify Labelbox FDE intern is still open before evaluating
+- **Anthropic Fellows ML Systems (#358) + AI Safety (#292) — TODAY May 3 2026 EOD PST**
+- **Shopify Fall 2026 (#429) — May 7 2026 (4 days)**

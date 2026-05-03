@@ -4345,3 +4345,22 @@ Portals checked this scan:
 - [ ] https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/AI-Software-Engineer-Intern_R106673 | Tencent | AI Software Engineer Intern (Palo Alto)
 
 <!-- === END 2026-05-02 SCAN v266 === -->
+
+<!-- === BEGIN 2026-05-03 SCAN v267 === -->
+## Nuevas ofertas — Scan v267 (2026-05-03)
+
+### Pendientes
+
+- [ ] https://boards.greenhouse.io/pindropsecurity/jobs/7812132 | Pindrop | Cloud Engineer Intern — ~3.5/5; remote US; AWS/GCP cloud infra for fraud detection/deepfake AI; security-adjacent; below threshold but cloud+security combo relevant to Carlos's DevOps+security skills
+- [ ] https://jobs.ashbyhq.com/zapier/d4b6cd58-bbe2-47fd-a494-926ed627bb03 | Zapier | Engineer, AppSec — ~4.0/5 (if entry-level/new-grad); AppSec positive keyword match; Zapier automation platform aligns with Carlos's LangChain/automation work; **verify if intern/new-grad or experienced hire before applying**
+- [ ] https://jobs.boeing.com/job/arlington/boeing-summer-2026-internship-program-paid-product-security-analyst-intern/185/91426039728 | Boeing | Product Security Analyst Intern Summer 2026 — ~3.0/5; Arlington VA; 10-12 weeks; security domain match (Carlos's security engineering background); large defense employer; clearance may be required
+- [ ] https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Remote/Applied-AI-Engineering-Intern--m-f-d-_R5033549-1 | GE Aerospace | Applied AI Engineering Intern — ~3.2/5; remote; AI engineering; large corp but AI focus aligns; Python/ML stack
+- [ ] https://vst.wd5.myworkdayjobs.com/en-US/vistra_careers/job/Irving-Texas/Pricing-and-Offer-Strategy---Artificial-Intelligence--AI--Intern_40015805 | Vistra | Pricing & Offer Strategy AI Intern — ~3.0/5; Irving TX (near TAMU!); Agentic AI/data analytics; 8-10 weeks; local opportunity; less technical but AI + Texas geography
+
+⚠️ CRITICAL DEADLINES:
+- **Anthropic Fellows ML Systems (#358) + AI Safety (#292) — TODAY May 3 2026 EOD PST — APPLY NOW**
+- **Shopify Fall 2026 (#429) — May 7 2026 (4 days)**
+- Labelbox FDE Intern — ~4.0/5, pending evaluation
+- Typeface SWE Intern (#431) — ~3.5/5, pending evaluation
+
+<!-- === END 2026-05-03 SCAN v267 === -->
