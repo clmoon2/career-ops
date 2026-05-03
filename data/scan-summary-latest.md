@@ -1,66 +1,107 @@
-# Portal Scan — 2026-05-03 (v273)
+# Portal Scan — 2026-05-03 (v274)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan number:** v273 (6th scan today, 273rd overall)
+**Scan number:** v274 (7th scan today, 274th overall)
 **Date:** 2026-05-03
-
-## Sources Scanned
-
-- **Greenhouse APIs (9 companies):** Anthropic, Airtable, Vercel, Arize AI, Glean, RunPod, Temporal, Hume AI, Intercom — all 0 intern/new-grad
-- **HN May 2026 "Who is Hiring" thread** (https://news.ycombinator.com/item?id=47975571) — re-checked for new entries since v272
-- **40+ WebSearch queries:** Ashby / Greenhouse / Lever — SWE + Security + AI + ML + DevOps + Consulting, Summer 2026 + Fall 2026 + New Grad
-- **ByteDance/joinbytedance.com** — all 9 roles confirmed dup v19-v272
-- **SimplifyJobs Summer2026 + Off-Season** — all dup vs v256-v272
-- **SpeedyApply SWE/AI repos** — all dup v267-v272
-- **Consulting (Big 4 / MBB)** — recruiting cycle closed, no active intern postings
+**Agent:** Autonomous scanner
 
 ## Results
 
+| Metric | Count |
+|--------|-------|
+| Sources checked | 40+ (Greenhouse APIs, Ashby, Lever, YC, SpeedyApply, SimplifyJobs, WebSearch) |
+| Total history entries | 5,159 |
+| Genuinely new URLs | 0 |
+| Qualifying ≥ 4.0 | 0 |
+| Pipeline additions | 0 |
+| New reports written | 0 |
+
+---
+
+## Sources Checked This Scan
+
+### Greenhouse APIs (Level 2)
+- **Stripe** — Masters-only PhD Data Analyst intern; 0 qualifying SWE intern
+- **Figma** — 0 intern/new-grad (all senior FTE)
+- **Discord** — 0 intern/new-grad (all senior FTE)
+- **Datadog** — DataPUPS Early ID Summit is a networking event, not a job
+- **Rippling** — 404
+- **Harvey AI** — 404
+
+### Lever / Ashby WebSearch (Level 3)
+- Actian AI Security/Engineering Interns — dup v7-v180
+- Hermeus, Veeva, Shield AI, NimbleRx, Voleon, SoloPulse — dup v7-v248
+- Aledade Security Intern (53b2340f) — dup v229, ~3.3/5 below threshold
+- All Ashby Fall 2026 SWE/security/AI searches — dup v7-v273
+
+### Greenhouse WebSearch (Level 3)
+- Cloudflare, Glean, Together AI, Mercury, Obsidian — dup v7-v273
+- SpaceX Summer + Fall 2026 — dup v34-v273
+- Sigma Computing, Loop New Grad, Airtable New Grad — dup v5-v273
+- Anduril all intern roles — dup v39-v248
+
+### Y Combinator (ycombinator.com/internships)
+- Swif.ai, Circleback, Browser Use, CrowdVolt, SubImage, Reacher, a0.dev — dup v30-v151
+
+### SpeedyApply Repos (top-30 most recently added)
+- NVIDIA Networking Systems Fall 2026 (JR2017181) — dup v248, ~3.5/5, TAMU Fall semester conflict
+- D.E. Shaw (5894) — Summer 2027, out of scope (dup v261)
+- Gelber Group x2 — dup v235, below comp threshold
+- Apptronik Robotics — dup v241, robotics domain
+- Snorkel AI SWE Intern (5774350004) — dup v256, ~3.5/5 below threshold
+- Remedy Scientific — dup v240, biotech domain
+
+### SpeedyApply AI Jobs (top-30 most recently added)
+- Stripe PhD, TikTok Applied Scientist x12, Meta/Microsoft/Adobe/Pinterest research — all PhD/research-level, undergrad not eligible
+
+### Other
+- Reddit — 0 intern/entry-level (all IC3+ experienced hires)
+- Databricks — FDE roles FTE only, 0 intern
+- IBM — all dup v66-v74
+
+---
+
+## Top Matches in Existing Pipeline
+
+| # | Company | Role | Score | Notes |
+|---|---------|------|-------|-------|
+| #428 | Sierra | AI Software Engineer | 4.5/5 | Verify graduation eligibility |
+| #420 | Vapi | Backend Product Engineer | 4.4/5 | Apply asap |
+| #431 | Labelbox | Forward Deployed Engineer | 4.0/5 | Apply asap |
+| #430 | NYT | AI Engineer Intern | 4.0/5 | June 1 start |
+| #429 | Shopify | Fall 2026 SWE Intern | — | ⚡ DEADLINE MAY 7 (4 days) |
+| #427 | Notion | New Grad AI SWE | 4.0/5 | Verify Jul 27 start vs graduation |
+
+---
+
+## Critical Deadlines
+
+| Deadline | Item | Action |
+|----------|------|--------|
+| ⚡ **TODAY May 3 EOD PST** | Anthropic Fellows ML Systems #358 + AI Safety #292 | **APPLY NOW — URGENT** |
+| **May 7, 2026** | Shopify Fall 2026 SWE Intern #429 | Apply by Thursday |
+| **May 29, 2026** | Center for AI Safety Research Intern (Fall 2026) | Before deadline |
+
+---
+
+## Market Assessment
+
+- **Summer 2026** internship cycle: **CONFIRMED CLOSED** (all major programs filled)
+- **Fall 2026** cycle: **Early watch** — SpaceX, OpenAI, Notion, Sentry, Zip, Verkada, Shopify in pipeline
+- **New Grad 2026**: Sierra, Notion New Grad AI, Palantir New Grad in pipeline
+- At 274 scans and 5,159 history entries, the market is **MAXIMALLY SATURATED**
+
+**Recommended actions:**
+1. Apply to deadline items (Anthropic TODAY, Shopify by May 7)
+2. Monitor SpeedyApply SWE daily for new Fall 2026 postings (check `0d` tag)
+3. Check HN "Who is Hiring" May 2026 thread for emerging startups
+4. Run `/career-ops pipeline` to evaluate remaining pipeline items
+
+---
+
 ```
-Queries / sources checked:  40+
-Total listings encountered: ~150
-Duplicates (v7-v272):       ~149
-Genuinely new URLs found:   1
-New added to pipeline:      0
-Qualifying >=4.0:           0
-New reports written:        0
+→ /career-ops pipeline   — Evaluate remaining pipeline items
+→ Apply Shopify #429     — DEADLINE MAY 7 (4 DAYS)
+→ Apply Anthropic        — DEADLINE TODAY EOD PST ⚡
 ```
-
-## New listing found (below threshold)
-
-| Company | Role | Score | Note |
-|---------|------|-------|------|
-| SwingVision | Data Labeling Intern | ~2.0/5 | Sports AI (tennis); Berkeley CA; data labeling — domain mismatch; **below threshold** |
-
-URL: https://app.deel.com/job-boards/swingvision/job-details/a9a74832-e3a2-4167-b289-b67594fd93d1
-
-## Top matches from existing pipeline (no new ≥4.0 this scan)
-
-| # | Company | Role | Score | Deadline / Note |
-|---|---------|------|-------|-----------------|
-| 429 | Shopify | Engineering & Data Internship (Fall 2026) | 4.2/5 | ⚡ **MAY 7 — 4 DAYS** |
-| 428 | Sierra | Intern, Agent Development (Fall 2026) | 4.5/5 | No deadline listed |
-| 416 | Cerebras | AI Engineering Intern – Growth Team | 4.5/5 | Summer 2026, Sunnyvale |
-| 420 | Vapi | Backend Product Engineer | 4.4/5 | FTE/new grad role |
-| 431 | Labelbox | Forward Deployed Engineer Intern | 4.0/5 | Verify start date |
-
-## Recommended next actions
-
-1. **⚡ APPLY NOW — Shopify Fall 2026 #429** — Deadline **May 7, 2026** (4 days). Apply at internships.shopify.com.
-2. **Sierra #428 (4.5/5)** — highest active score; Fall 2026; agentic AI exact archetype match; no listed deadline.
-3. **Cerebras #416 (4.5/5)** — Claude Code + MCP + RAG exact match; June–Aug Sunnyvale; verify comp.
-4. **Vapi #420 (4.4/5)** — voice AI infra role; apply if graduation timeline is clear.
-5. **Labelbox FDE #431 (4.0/5)** — Forward Deployed Eng intern; verify start date.
-
-## Market status
-
-273 scans complete. The Summer 2026 internship market is **maximally saturated** — all major Ashby / Greenhouse / Lever portals exhausted across 272 prior scans. The HN May 2026 thread yielded only SwingVision (sports tech data labeling, ~2.0/5). The Fall 2026 cycle (Shopify deadline May 7, Verkada/OpenAI/Notion/Sentry) has the most remaining opportunity.
-
-**Recommendation:** Shift focus entirely from scanning to applying. Execute on the top-5 list above.
-
-## System note
-
-⚠️ career-ops update available: **v1.1.0 → v1.6.0**
-Your data (CV, profile, tracker, reports) will NOT be touched.
-Tell me "update career-ops" to apply.
