@@ -1,83 +1,87 @@
-# Portal Scan — 2026-05-03 (v277)
+# Portal Scan — 2026-05-03 (v278)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+**Scan:** v278 — autonomous agent, 11th scan of the day  
+**Date:** 2026-05-03  
+**History size:** 5,174 entries (5,173 before this scan)
 
-**Scan number:** v277 (10th scan today, 277th overall)
-**Date:** 2026-05-03
-**Agent:** Autonomous scanner
+---
 
 ## Results
 
 | Metric | Count |
 |--------|-------|
-| Sources checked | 35+ (Greenhouse APIs, Ashby/Greenhouse/Lever WebSearch, SimplifyJobs, SpeedyApply, YC workatastartup) |
-| Total history entries | 5,173 (5,172 + 1 summary) |
-| Genuinely new URLs | 0 |
-| Qualifying ≥ 4.0 | 0 |
-| Pipeline additions | 0 |
-| New reports written | 0 |
+| Queries / sources executed | 35+ |
+| Portals / companies checked | 40+ |
+| New URLs found | 0 |
+| Filtered (title/score) | 0 |
+| Duplicates confirmed | All |
+| **New pipeline additions** | **0** |
+| Reports written (≥4.0) | 0 |
+
+---
+
+## Sources Checked
+
+**Greenhouse APIs (Level 2):**
+- PolyAI: 23 roles, all FTE — 0 intern/new-grad
+- Parloa: 58 roles, all FTE — 0 intern/new-grad
+
+**Greenhouse/Lever/Ashby WebSearch (30+ queries, Level 3):**
+- SWE + Security + AI + ML + DevOps + consulting + intern + new-grad (Summer + Fall 2026)
+- All confirmed dup v7–v277: Cloudflare, Together AI, Glean, Verkada, C3AI, Obsidian, EarnIn, Atlassian, Databricks, Airtable, Actian, Zoox, Match Group, Zscaler, EY via RippleMatch, Marshall Wace, Bandwidth, MQ Referrals, CrowdStrike, Sigma, Ramp, OpenAI, Cohere, Replit, Notion, Whatnot, Zip, Sentry, Mercury AI Enablement
+
+**SpeedyApply SWE README latest-15:**
+- All entries 94–116 days old → all dup v59–v235 (LMI/Persona/Mercator/Klaviyo/d-Matrix/Virtru etc.)
+
+**SpeedyApply AI README latest-15:**
+- Stripe PhD (1d) — PhD-only, skip
+- Salesforce AI & Data Science Analyst (4d) — dup v247 (~3.0/5, pipeline)
+- TikTok Applied Scientist ×5 (5d) — research/PhD roles, skip
+- Adobe ML Engineer (8d) — dup v235
+- Pinterest PhD/MS ML (9d) — MS/PhD focus, skip
+
+**SimplifyJobs Summer2026 latest-30:**
+- All 17–22+ days old → all dup v59–v200 (Tenstorrent, Tricentis, Commvault, Virtru, Nielsen, Mariana Minerals, etc.) or non-target domain
+
+**Extern.com "Still Open" guide:**
+- EarnIn backend intern — dup v117, $30/hr below comp floor, skip
+- Atlassian SWE Intern — dup v9/v37 ($49-75/hr, SF/Seattle, active)
+- Netflix — MS/PhD focus
+- Salesforce — dup v7
+
+**jobright-ai/2026-Software-Engineer-New-Grad:** 404 error (repo unavailable)
+
+**Texas-specific checks:**
+- GE Aerospace Applied AI Intern (Austin) — dup v267 (~3.2/5, pipeline)
+- Tricentis SWE Intern Austin — dup v79
+- CACI SQE Austin — dup v267
 
 ---
 
 ## New Listings Added to Pipeline
 
-None. Market is MAXIMALLY SATURATED at 277 scans.
+**None.** All sources confirmed maximally saturated.
 
 ---
 
-## Sources Checked This Scan
+## ⚡ Priority Action Items
 
-### Greenhouse APIs
-- Anthropic: 7 Fellows tracks all dup v7–v276 + STEM Fellow PhD-req
-- Snorkel AI: 5774350004 dup v256
-
-### WebSearch — Ashby (jobs.ashbyhq.com)
-- Notion (Summer + Fall + AI Intern), Cohere (Spring/Summer + Fall/Winter), OpenAI (Fall Emerging Talent), Sentry (Fall 2026), Zip (Summer + Fall), Ramp, Farsight, Brain Co, Replit, Giga, Fizz, Decagon, Handshake, Sierra, Vapi, ElevenLabs, Deepgram, n8n, Zapier, Pinecone, LangChain, Naptha, Kira, Glacis, Vital Lyfe — **all dup v7–v276**
-
-### WebSearch — Greenhouse (boards.greenhouse.io)
-- Pendo, Lyft (Backend + ML), Enova, HP IQ (Cloud + Security), Chatham Financial, Klaviyo (AI Eng + Full Stack), Dropbox, Figma, Roblox, Discord, Stripe, Coinbase, Vestwell, MUBI, Obsidian Security, Sigma Computing, Together AI, C3 AI, Zinnia, Gemini — **all dup v7–v276**
-
-### WebSearch — Lever (jobs.lever.co)
-- Palantir (FDSE Intern + New Grad all tracks), Symmetry Systems, Tevora (4 tracks), Match Group, Voleon, Artera, NimbleRx, Nium, SoloPulse, Actian (AI/DevOps/Security) — **all dup v7–v276**
-
-### SimplifyJobs Summer 2026 (latest 25 entries)
-- Fiserv, KION Group, Trane Technologies, NewsBreak, Snorkel AI, Labelbox, Altera, State Street, MUBI, Vestwell, Cotiviti — **all dup v256–v276**
-
-### SpeedyApply SWE + AI repos
-- NVIDIA JAX Fall 2026 (semester conflict), TikTok (C++ heavy), Stripe PhD Data Scientist (PhD-req), Salesforce AI & Data Analyst (dup v247), Adobe AI/ML (Masters-req), D.E. Shaw 2027 (wrong year) — **all dup v7–v276**
-
-### YC / workatastartup.com
-- SubImage, CTGT, Promptless, Browser Use, ThirdLayer, Reacher, Nowadays (past deadline) — **all dup v30–v151**
-
-### WayUp
-- Capital One Cyber Security Intern (dup v96), Verizon Cyber Security (dup v7), ServiceNow SWE (dup v36), Visa Associate Cybersecurity (dup v187), World Wide Technology Cybersecurity (dup) — **all dup**
-
-### Company-specific boards
-- Wiz: confirmed no intern program (dup v68–v141)
-- Sierra: Fall c74d600c fall-semester conflict (dup v128/v142)
-- Vapi: no new intern roles found
-
----
-
-## ⚡ KEY ACTIONS (Carry Forward)
-
-| Priority | Company | Role | Score | Deadline | Action |
-|----------|---------|------|-------|----------|--------|
-| 🔴 **URGENT** | **Shopify** | Fall 2026 SWE Intern #429 | 4.2/5 | **MAY 7 (4 DAYS!)** | Apply at internships.shopify.com — Security Engineer track |
-| 🟠 High | **Sierra** | New Grad AI Engineer #428 | 4.5/5 | No deadline listed | Verify TAMU graduation date; apply ASAP |
-| 🟠 High | **Vapi** | New Grad SWE #420 | 4.4/5 | No deadline listed | Apply via jobs.ashbyhq.com/vapi |
-| 🟡 Medium | **Labelbox** | FDE Intern #431 | 4.0/5 | No deadline listed | Apply via job-boards.greenhouse.io/labelbox |
-| 🟡 Medium | **Snap** | Security Engineer Intern | ~3.8/5 | No deadline | In pipeline — below threshold but worth reviewing |
-| 🟡 Medium | **Databricks** | GenAI ML Engineer Intern | ~3.7/5 | No deadline | In pipeline — below threshold but strong brand |
+1. **⚡ DEADLINE MAY 7 (4 DAYS):** Shopify Fall 2026 Intern #429 — apply immediately
+2. **Sierra #428** — 4.5/5, pending graduation year verification
+3. **Vapi #420** — 4.4/5, apply ASAP
+4. **Labelbox FDE #431** — 4.0/5, pending evaluation
+5. **Snap Security #432** — ~3.8/5, in pipeline, pending evaluation
+6. **Databricks GenAI ML** — ~3.7/5, in pipeline, pending evaluation
+7. **⚠️ UPDATE AVAILABLE:** career-ops v1.1.0 → v1.6.0 (Gemini CLI integration + other features)
 
 ---
 
 ## Market Status
 
-**MAXIMALLY SATURATED** — 277 scans completed, 5,173 history entries. Every major SWE/AI/Security/DevOps/Consulting internship source has been exhaustively checked across 276+ previous scans. The Summer 2026 intern cycle is largely closed. Focus effort on **applying to existing high-score pipeline items** rather than continued scanning.
+**MAXIMALLY SATURATED** — 278 scans total, 11th scan today (2026-05-03).
 
-**Recommended next actions:**
-1. Apply to Shopify Fall 2026 (#429) before May 7
-2. Apply to Sierra New Grad AI (#428) and Vapi New Grad SWE (#420)
-3. Apply to Labelbox FDE Intern (#431)
-4. Pause automated scanning for 3–5 days; re-run when new Fall 2026 cycle opens in late May/June
+The Summer 2026 intern cycle is closing (late-cycle; most start dates June 2026). Fall 2026 cycle openings are limited. All major portals (Ashby, Greenhouse, Lever) and company boards have been exhaustively indexed over 278 scans since April 5, 2026.
+
+**Recommended cadence:** Reduce to 1 scan/day unless a new batch of Fall 2026 companies open (typically announced via GitHub tracking repos). Focus energy on **applying** to the existing pipeline rather than discovering new listings.
+
+→ Run `/career-ops pipeline` to evaluate pending listings (Snap Security, Databricks GenAI ML, etc.)
