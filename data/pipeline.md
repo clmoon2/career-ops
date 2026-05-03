@@ -4364,3 +4364,18 @@ Portals checked this scan:
 - Typeface SWE Intern (#431) — ~3.5/5, pending evaluation
 
 <!-- === END 2026-05-03 SCAN v267 === -->
+
+<!-- === BEGIN 2026-05-03 SCAN v268 === -->
+## Scan v268 (2026-05-03)
+
+**0 new pipeline additions** — market maximally saturated at 268 scans.
+
+All 40+ search queries returned URLs already in the 5,055-entry scan history. All Greenhouse APIs (Anthropic, Glean, Airtable, Vercel, HumeAI, RunPod) show 0 new intern/new-grad roles.
+
+⚠️ CRITICAL DEADLINES:
+- **Anthropic Fellows ML Systems (#358) + AI Safety (#292) — TODAY May 3 2026 EOD PST — APPLY NOW**
+- **Shopify Fall 2026 (#429) — May 7 2026 (4 days)**
+
+Pending evaluations: Labelbox FDE (~4.0/5), Zapier AppSec (verify level — if entry-level ~4.2/5)
+
+<!-- === END 2026-05-03 SCAN v268 === -->
