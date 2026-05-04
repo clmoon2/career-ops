@@ -1,77 +1,93 @@
-# Portal Scan Summary — 2026-05-04 (v286)
+# Portal Scan — 2026-05-04 (Scan v287)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan:** v286 | **Date:** 2026-05-04 | **Run:** 9th autonomous scan of the day
+**Date:** 2026-05-04  
+**Scan number:** v287 (10th scan of the day, 287th all-time)  
+**History entries checked:** 5,331
+
+---
+
+## Coverage
+
+### Greenhouse APIs (Level 2)
+| Company | Result |
+|---------|--------|
+| Anthropic | 7 Fellows — all dup v7-v286 |
+| Airtable | 27 FTE — 0 intern |
+| Vercel | 87 FTE — 0 intern |
+| Glean | 160 FTE — 0 intern |
+| ArizeAI | 40 FTE — 0 intern |
+| Temporal | 0 jobs (empty board) |
+| HumeAI | 8 FTE — 0 intern |
+| RunPod | 19 FTE — 0 intern |
+
+### WebSearch Queries (Level 3) — 30+ queries
+- Ashby SWE/AI/Security/Backend intern Summer+Fall 2026
+- Greenhouse SWE/AI/Security/ML intern Summer+Fall 2026
+- Lever SWE/Security/AI intern Summer+Fall 2026
+- New grad 2026 roles (all boards)
+- Fintech sweep: Stripe/Coinbase/Brex/Affirm/Robinhood/Plaid/Chime
+- Security sweep: CrowdStrike/Wiz/SentinelOne/GreyNoise/Abnormal/Snyk/Lacework/Orca
+- Defense sweep: Booz Allen/SAIC/MITRE/Northrop
+- Consulting sweep: Accenture/Deloitte/PwC/McKinsey/BCG
+- Big Tech Fall 2026: Amazon/Google/Meta/NVIDIA/Microsoft
+- AI labs: Anthropic/OpenAI/Cohere/Mistral/Together AI/Groq/CoreWeave
+- Voice AI/Contact Center: ElevenLabs/Vapi/Deepgram/PolyAI/Parloa/Sierra/Decagon
+- YC Internships / WorkAtAStartup board
+- Extern.com still-open guide
+- SpeedyApply SWE + AI READMEs
+- SimplifyJobs Summer2026 + New-Grad READMEs
 
 ---
 
 ## Results
 
-| Metric | Value |
+| Metric | Count |
 |--------|-------|
-| Portals / queries executed | 40+ (WebSearch × 30, Greenhouse APIs × 6, SpeedyApply README, HN May 2026 thread) |
-| Total history entries | 5,331 |
-| New URLs found | 4 |
-| Filtered (closed / below threshold / PhD-req) | 4 |
-| Duplicates | All other results confirmed dup v7–v285 |
-| New pipeline additions | 0 |
-| Qualifying ≥ 4.0 | 0 |
-| New evaluation reports | 0 |
+| Queries executed | 30+ |
+| Companies checked | 50+ |
+| Offers found total | ~200+ (all known) |
+| Filtered by title | N/A (all dup) |
+| **Duplicates (already in history)** | **All** |
+| **New URLs added to pipeline** | **0** |
+| **Qualifying >= 4.0** | **0** |
+| **New reports written** | **0** |
+
+**Market status: MAXIMALLY SATURATED** — 287 scans, 5,331-entry history. All active Summer/Fall 2026 intern and new grad listings for SWE, AI/ML, Security, DevOps, and Consulting have been indexed.
 
 ---
 
-## New URLs Found (All Disqualified)
+## Top Active Applications (Open Pipeline)
 
-| Company | Role | Status | Reason |
-|---------|------|--------|--------|
-| Adobe | 2026 Intern - Generative AI Software Engineer (R162233) | skipped_closed | 410 Gone — posting closed |
-| Adobe | 2026 AI/ML Intern - ML Engineer (R162027) | skipped_score | Masters-preferred pattern (~2.8/5) |
-| Adobe | 2026 Intern - Research Scientist/Engineer (R162130) | skipped_score | PhD/MS required (~2.0/5) |
-| Microsoft | Research Intern - AI Safety and Security (apply.careers...826707) | skipped_score | PhD/MS research role (~2.5/5) |
-
----
-
-## Platforms Scanned
-
-### Greenhouse APIs (6 probes)
-- **Wiz** → 404 (not on Greenhouse)
-- **Abnormal Security** → 102 FTE, 0 intern
-- **Fireworks AI** → 30 FTE, 0 intern
-- **Pendo** → 17 FTE, 0 intern
-- **Anyscale** → 404
-- **Together AI** → 51 FTE, 0 intern (earlier web search URLs are stale/closed)
-
-### WebSearch (30+ queries)
-All Ashby/Greenhouse/Lever SWE + Security + AI/ML + DevOps + consulting intern + new-grad Summer/Fall 2026 queries confirmed dup v7–v285.
-
-Notable companies rechecked (all dup): Notion, Cohere (all 4 intern URLs), Replit, Harvey, Decagon, Farsight AI, Zettabyte, Delinea, Ramp, Sentry, Zip, 1Password, Whatnot, Gemini (Fall 2026 Web3-req), Obsidian Security (closed), Censys (no interns), Glean (0 intern), Cloudflare, Together AI (stale), Bandwidth, DV Trading, C3 AI (evaluated #380), Match Group, Roadie, BlackSky (defense domain), Center for AI Safety, Crusoe (Product Security closed), Adobe (R158493/R160469/R160621/R158531/R161483 all dup)
-
-### SpeedyApply README + HN May 2026 Thread
-- SpeedyApply AI: 4 new Adobe/Microsoft URLs (all below threshold or closed)
-- HN May 2026 thread (id=47975571): All senior FTE, 0 intern/new-grad
+| # | Company | Role | Score | Notes |
+|---|---------|------|-------|-------|
+| #429 | Shopify | Engineering Intern (Fall 2026) | 4.2/5 | **DEADLINE MAY 7** — 3 days! Apply at internships.shopify.com |
+| #428 | Sierra | Intern — Agent Development | 4.5/5 | AI customer agents; Bret Taylor; verify graduation date |
+| #420 | Vapi | Backend Product Engineer | 4.4/5 | Voice AI infrastructure; rolling deadline |
+| #431 | Palantir | FDSE Intern (US Gov) | 4.2/5 | $10.5K/mo; DC; verify grad year |
+| #432 | Cohere | SWE Intern (Fall/Winter 2026) | 4.1/5 | $59/hr; SF; LLM platform; Fall/Winter term |
+| #433 | Microsoft | AI/ML Intern (Redmond) | 4.0/5 | $33-43/hr; FAANG AI brand; apply ASAP |
+| #434 | Palantir | FDSE Intern — Defense Tech | 4.0/5 | $10.5K/mo + $3.5K housing; DC; verify grad year |
 
 ---
 
-## Market Assessment
+## Recommended Next Actions
 
-**MAXIMALLY SATURATED** at 286 scans / 5,331 history entries.
+1. **TODAY**: Apply to Shopify Fall 2026 at internships.shopify.com — **DEADLINE MAY 7 (3 DAYS)**
+2. Apply to Sierra #428 (4.5/5) — strongest active match
+3. Apply to Vapi #420 (4.4/5) — rolling deadline
+4. Apply to Palantir FDSE US Gov #431 (4.2/5) — verify graduation year
+5. Apply to Cohere Fall/Winter SWE #432 (4.1/5) — verify fall semester plan
+6. Apply to Microsoft AI/ML Intern #433 (4.0/5) — rolling, apply immediately
+7. Apply to Palantir FDSE Defense Tech #434 (4.0/5) — verify grad year
 
-Summer 2026 applications are nearly all closed. The market has been fully indexed across 286 scans since April 5, 2026.
-
-**Fall 2026 internship market** will open more broadly in June–July 2026.
+**Note:** Summer 2026 intern season is effectively closed. Focus energy on Fall 2026 internships and new grad roles already in pipeline.
 
 ---
 
-## ⚡ Action Items (Deadline Order)
+## Scan Health
 
-| Report | Score | Deadline | Action |
-|--------|-------|----------|--------|
-| Shopify Fall 2026 (#429) | — | **MAY 7 (3 DAYS)** | ⚡ APPLY NOW at internships.shopify.com |
-| Sierra – AI Agent Developer (#428) | 4.5/5 | Rolling | Apply — verify grad date |
-| Vapi – Backend Product Engineer (#420) | 4.4/5 | Rolling | Apply |
-| Palantir FDSE Intern – US Gov (#431) | 4.2/5 | Rolling | Apply — verify grad year |
-| Cohere SWE Intern Fall/Winter (#432) | 4.1/5 | Rolling | Apply |
-| Microsoft AI/ML Intern – Redmond (#433) | 4.0/5 | Rolling | Apply |
-| Palantir FDSE – Defense Tech (#434) | 4.0/5 | Rolling | Apply — verify grad year |
-
-→ Run `/career-ops pipeline` to process pending URLs
-→ Run `/career-ops apply` to start Shopify application (deadline in 3 days)
+- History: 5,332 entries after this scan
+- Next scan recommended: 2026-05-07 (after Shopify deadline — focus shifts fully to Fall 2026 + new grad cycle)
+- Summer 2026: confirmed closed for most companies
+- Fall 2026 opportunities: ~15 known listings, most already in pipeline
