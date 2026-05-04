@@ -4530,3 +4530,9 @@ Pending evaluations: Labelbox FDE (~4.0/5), Zapier AppSec (verify level — if e
 <!-- === BEGIN 2026-05-04 SCAN v284 === -->
 <!-- 0 qualifying >=4.0 | 0 new history entries | 0 pipeline additions | 0 new reports | 3 missing reports #432-434 written to disk -->
 <!-- === END 2026-05-04 SCAN v284 === -->
+
+<!-- === BEGIN 2026-05-04 SCAN v285 === -->
+<!-- Sources: 7 Greenhouse APIs (Anthropic/Glean/Vercel/Airtable/HumeAI/RunPod/Temporal — all 0 intern/new-grad); 15+ WebSearch queries (Ashby/Greenhouse/Lever SWE+Security+AI+ML 2026 — all dup v7-v284 except Cohere 8c035d3d); ByteDance sweep (3 new URLs all below threshold) -->
+<!-- 0 qualifying >=4.0 | 5 new history entries | 1 pipeline addition | 0 new reports -->
+- [ ] https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254 | Cohere | Software Engineer Intern (Fall / Winter 2026) — NEW; Python/LLMs/multi-model AI pipeline = Finch exact match; top LLM company; ⚠️ Fall timing conflicts with TAMU semester (Winter 2026 co-op viable Jan-Apr 2027); location likely Toronto or remote; ~3.8/5
+<!-- === END 2026-05-04 SCAN v285 === -->
