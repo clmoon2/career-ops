@@ -1,93 +1,76 @@
-# Portal Scan — 2026-05-04 (Scan v287)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Scan Summary — 2026-05-04 (v261)
 
-**Date:** 2026-05-04  
-**Scan number:** v287 (10th scan of the day, 287th all-time)  
-**History entries checked:** 5,331
+**Date:** 2026-05-04
+**Scan:** v261 (previous: v260 on 2026-05-02)
+**History size:** 4,971 entries before scan; 4,975 after
 
----
+## Sources Checked
 
-## Coverage
+### Priority 1: GitHub Repos
+- **SimplifyJobs Summer2026** (0-2d entries): State Street Cloud QA, Cadent Backend, Curtiss-Wright, CACI, NewsBreak, Snorkel AI 5774350004, Labelbox FDE, Altera FPGA, State Street Agentic, MUBI, Delta Dental, Paccar, Cotiviti, Vestwell — all confirmed dup v7-v260 or previously skipped_score
+- **SimplifyJobs New-Grad** (0-2d entries): AmTrust SWE (non-tech domain), **ServiceNow Moveworks Search Infrastructure (NEW)**, **ServiceNow Moveworks Core Infrastructure (NEW)**, RTX/BAE defense (domain filter), Ryder backend (non-target), **Google FDE I GenAI (NEW — 3yr exp req)**, Uber SWE 1 (dup v156)
+- **SpeedyApply 2026-SWE-College-Jobs** (0-5d): NVIDIA Fall 2026 Networking (hardware domain), D.E.Shaw 5d, CACI dup, **Gemini Fall 2026 7875125 (NEW — blockchain domain)**, Motorola/Snorkel/Trimble — dup or domain filter
+- **SpeedyApply 2026-AI-College-Jobs** (0-5d): Everlaw (GTM analyst), MGM (hospitality), Micron (hardware), Oldcastle (construction), Vistra (energy), GE Aerospace (defense) — all domain-filtered
+- **ReaVNaiL New-Grad-2026**: 404 error
 
-### Greenhouse APIs (Level 2)
-| Company | Result |
-|---------|--------|
-| Anthropic | 7 Fellows — all dup v7-v286 |
-| Airtable | 27 FTE — 0 intern |
-| Vercel | 87 FTE — 0 intern |
-| Glean | 160 FTE — 0 intern |
-| ArizeAI | 40 FTE — 0 intern |
-| Temporal | 0 jobs (empty board) |
-| HumeAI | 8 FTE — 0 intern |
-| RunPod | 19 FTE — 0 intern |
+### Priority 2: Greenhouse APIs
+- **Anthropic**: Fellows IDs — all confirmed dup v1-v260
+- **Palantir**: 404 error
+- **Figma**: Inside Sales Early Career only; SWE Intern dup v190+
+- **Databricks**: 0 intern/new-grad listings
+- **Cloudflare**: 0 SWE/security/SRE intern listings (only marketing/sales/legal interns)
+- **Wiz**: 404 error
+- **CrowdStrike**: 404 error
+- **HubSpot**: 0 jobs
+- **Lacework**: 404 error
 
-### WebSearch Queries (Level 3) — 30+ queries
-- Ashby SWE/AI/Security/Backend intern Summer+Fall 2026
-- Greenhouse SWE/AI/Security/ML intern Summer+Fall 2026
-- Lever SWE/Security/AI intern Summer+Fall 2026
-- New grad 2026 roles (all boards)
-- Fintech sweep: Stripe/Coinbase/Brex/Affirm/Robinhood/Plaid/Chime
-- Security sweep: CrowdStrike/Wiz/SentinelOne/GreyNoise/Abnormal/Snyk/Lacework/Orca
-- Defense sweep: Booz Allen/SAIC/MITRE/Northrop
-- Consulting sweep: Accenture/Deloitte/PwC/McKinsey/BCG
-- Big Tech Fall 2026: Amazon/Google/Meta/NVIDIA/Microsoft
-- AI labs: Anthropic/OpenAI/Cohere/Mistral/Together AI/Groq/CoreWeave
-- Voice AI/Contact Center: ElevenLabs/Vapi/Deepgram/PolyAI/Parloa/Sierra/Decagon
-- YC Internships / WorkAtAStartup board
-- Extern.com still-open guide
-- SpeedyApply SWE + AI READMEs
-- SimplifyJobs Summer2026 + New-Grad READMEs
+### Priority 3: WebSearch (10 queries)
+- Ashby SWE/AI intern 2026: all dup v7-v260 (Notion/Replit/Sentry/Cohere/Fizz/Farsight/Zip/Whatnot)
+- Greenhouse SWE/Security/AI intern summer+fall 2026: all dup v7-v260
+- New grad 2026 Greenhouse/Ashby: all dup (Benchling/Loop/Replit/Whatnot/Zip/Sentry/Airtable/Decagon)
+- Fall 2026 security intern: all dup (Cloudflare/Together AI/Gemini/Bandwidth/Cohere)
+- Fall 2026 AI/ML intern: all dup (StackAdapt Canada/Handshake/Mercury/Verkada/Kodiak/Lambda)
+- DevOps/SRE/Cloud intern: DV Trading dup v147+; others non-target
+- Consulting big4/MBB: all summer 2026 positions closed (deadlines were July-August 2025)
 
----
+### Priority 4: Specific Company Checks
+- **Cloudflare**: No SWE/security intern for Fall 2026 found (no fall SWE intern on board)
+- **Wiz**: No intern listing found on any board
+- **CrowdStrike**: Not found on Greenhouse/Ashby
+- **Sentry**: Fall 2026 and Summer 2026 SWE intern confirmed dup v7+
+- **Datadog**: SWE + SRE Intern confirmed dup v147+
+- **Stripe**: Not listed on Ashby or Greenhouse
+- **Figma**: SWE Intern confirmed dup v190+
 
 ## Results
+- New URLs found: 4
+- Filtered by title/domain: 1 (Gemini blockchain)
+- Filtered by experience req: 1 (Google FDE I — 3yr exp)
+- Duplicates confirmed: 60+ across all sources
+- Added to pipeline: 2
+- Scores >= 4.0: 0
+- Reports written: 0
 
-| Metric | Count |
-|--------|-------|
-| Queries executed | 30+ |
-| Companies checked | 50+ |
-| Offers found total | ~200+ (all known) |
-| Filtered by title | N/A (all dup) |
-| **Duplicates (already in history)** | **All** |
-| **New URLs added to pipeline** | **0** |
-| **Qualifying >= 4.0** | **0** |
-| **New reports written** | **0** |
+## New Listings (>= 3.0/5)
 
-**Market status: MAXIMALLY SATURATED** — 287 scans, 5,331-entry history. All active Summer/Fall 2026 intern and new grad listings for SWE, AI/ML, Security, DevOps, and Consulting have been indexed.
+| Company | Role | Score | URL |
+|---------|------|-------|-----|
+| ServiceNow (Moveworks) | Associate SWE, Search Infrastructure | ~3.2/5 | careers.servicenow.com/jobs/744000123528060 |
+| ServiceNow (Moveworks) | Associate SWE, Core Infrastructure | ~3.2/5 | careers.servicenow.com/jobs/744000107369741 |
 
----
+## Skipped (New URLs Only)
+- **Gemini SWE Intern Fall 2026** (token 7875125, $50/hr NYC): Blockchain/Web3 passion required — domain exclusion. `skipped_title`
+- **Google FDE I, GenAI, Google Cloud** (job 124201730001773254, $102-145K): Requires 3 years Python+ML exp — Carlos is a student. `skipped_score`
 
-## Top Active Applications (Open Pipeline)
-
-| # | Company | Role | Score | Notes |
-|---|---------|------|-------|-------|
-| #429 | Shopify | Engineering Intern (Fall 2026) | 4.2/5 | **DEADLINE MAY 7** — 3 days! Apply at internships.shopify.com |
-| #428 | Sierra | Intern — Agent Development | 4.5/5 | AI customer agents; Bret Taylor; verify graduation date |
-| #420 | Vapi | Backend Product Engineer | 4.4/5 | Voice AI infrastructure; rolling deadline |
-| #431 | Palantir | FDSE Intern (US Gov) | 4.2/5 | $10.5K/mo; DC; verify grad year |
-| #432 | Cohere | SWE Intern (Fall/Winter 2026) | 4.1/5 | $59/hr; SF; LLM platform; Fall/Winter term |
-| #433 | Microsoft | AI/ML Intern (Redmond) | 4.0/5 | $33-43/hr; FAANG AI brand; apply ASAP |
-| #434 | Palantir | FDSE Intern — Defense Tech | 4.0/5 | $10.5K/mo + $3.5K housing; DC; verify grad year |
-
----
+## Deadlines to Act On
+- **Shopify Fall 2026 #429 — DEADLINE MAY 7, 2026 (3 DAYS — APPLY NOW)**
+- Sierra Agent Dev Intern #428 (4.5/5) — no deadline, apply ASAP
+- Vapi Backend Product Engineer #420 (4.4/5) — apply ASAP
+- OpenAI SWE Intern Applied Emerging Talent Fall 2026 #422 (4.4/5) — apply ASAP
 
 ## Recommended Next Actions
-
-1. **TODAY**: Apply to Shopify Fall 2026 at internships.shopify.com — **DEADLINE MAY 7 (3 DAYS)**
-2. Apply to Sierra #428 (4.5/5) — strongest active match
-3. Apply to Vapi #420 (4.4/5) — rolling deadline
-4. Apply to Palantir FDSE US Gov #431 (4.2/5) — verify graduation year
-5. Apply to Cohere Fall/Winter SWE #432 (4.1/5) — verify fall semester plan
-6. Apply to Microsoft AI/ML Intern #433 (4.0/5) — rolling, apply immediately
-7. Apply to Palantir FDSE Defense Tech #434 (4.0/5) — verify grad year
-
-**Note:** Summer 2026 intern season is effectively closed. Focus energy on Fall 2026 internships and new grad roles already in pipeline.
-
----
-
-## Scan Health
-
-- History: 5,332 entries after this scan
-- Next scan recommended: 2026-05-07 (after Shopify deadline — focus shifts fully to Fall 2026 + new grad cycle)
-- Summer 2026: confirmed closed for most companies
-- Fall 2026 opportunities: ~15 known listings, most already in pipeline
+1. **URGENT: Apply to Shopify #429 by May 7 DEADLINE** (3 days)
+2. Apply to Sierra #428 (4.5/5) — highest score in recent scans
+3. Apply to Vapi #420 and OpenAI #422 (both 4.4/5)
+4. Review ServiceNow Moveworks if interested in AI infra at enterprise scale (est $130-150K, Mountain View on-site, but infra tooling gap)
+5. Next scan: after May 7; check for new Fall 2026 openings post-Shopify deadline

@@ -85,6 +85,16 @@
 
 - [ ] https://jobs.ashbyhq.com/meshy/8c30a345-2c26-4d72-ae76-91c5834fc435 | Meshy | Generative AI Pipeline Engineer Intern — ~3.3/5; 3D generative AI startup ($52M Sequoia Series B); Sunnyvale CA; Python+LLM multi-model pipeline match; niche domain (3D generative AI); verify comp + start date before applying
 
+<!-- === BEGIN 2026-05-04 SCAN v261 (this-agent) === -->
+<!-- Sources: SimplifyJobs Summer2026 README 0-2d; SimplifyJobs New-Grad 0-2d (ServiceNow Moveworks Search+Core NEW; Google FDE I NEW-skipped_score 3yr exp); SpeedyApply SWE 2d (Gemini Fall 2026 7875125 NEW-skipped_title blockchain); SpeedyApply AI 2d (all domain-filtered); 9 Greenhouse APIs; 10 WebSearch queries. Dedup against 4,971-entry history. RESULT: 4 new URLs; 0 qualifying >=4.0; 2 pipeline additions (ServiceNow Moveworks x2 ~3.2/5). -->
+<!-- 0 qualifying >=4.0 | 4 new history entries | 2 pipeline additions | 0 new reports -->
+<!-- === END 2026-05-04 SCAN v261 (this-agent) === -->
+
+## Added by scan-v261-agent (2026-05-04)
+
+- [ ] https://careers.servicenow.com/jobs/744000123528060/associate-software-engineer-search-infrastructure-moveworks/ | ServiceNow (Moveworks) | Associate Software Engineer, Search Infrastructure — ~3.2/5; Mountain View CA on-site; new grad; distributed search/ML infra (Elasticsearch/Kafka); Python/ML skills transfer; est $130-150K; apply if curious about AI infra at enterprise scale
+- [ ] https://careers.servicenow.com/jobs/744000107369741/associate-software-engineer-core-infrastructure-moveworks/ | ServiceNow (Moveworks) | Associate Software Engineer, Core Infrastructure — ~3.2/5; Mountain View CA on-site; new grad; distributed observability/tracing (Kafka/Elasticsearch/Istio); comp est $130-150K; infra tooling gap; apply alongside search-infra role
+
 <!-- === BEGIN 2026-05-02 SCAN v261 === -->
 <!-- Sources: 11 Greenhouse APIs (Cloudflare full board — all dup v7-v260 or non-SWE/non-US; Stripe Masters-only Canada; MongoDB EMEA Women in Tech; Figma/HubSpot/Databricks/Brex: 0 intern; ScaleAI all dup; Labelbox FDE dup #431; CrowdStrike/SentinelOne/Wiz: 404); 20+ WebSearch queries (Greenhouse/Ashby/Lever SWE+Security+AI+ML+DevOps+NewGrad+Fall2026+Consulting+Texas — all confirmed dup v7-v260); GitHub repos (SimplifyJobs Summer2026 866 roles all dup; SimplifyJobs New-Grad-Positions all dup v5-v239; speedyapply SWE+AI all dup except D.E. Shaw 5894 NEW wrong-year; jobright-ai Consultant 404). Dedup against 4,971-entry history. RESULT: 1 genuinely new URL (D.E. Shaw SWE Intern Summer 2027 — skipped_wrong_year); 0 qualifying >=4.0; 0 pipeline additions; 0 new reports. Market MAXIMALLY SATURATED at 261 scans. 11th scan on 2026-05-02. -->
 <!-- 0 qualifying >=4.0 | 1 new history entry | 0 pipeline additions | 0 new reports -->
