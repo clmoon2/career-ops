@@ -4512,3 +4512,7 @@ Pending evaluations: Labelbox FDE (~4.0/5), Zapier AppSec (verify level — if e
 - [ ] https://jobs.ashbyhq.com/gimlet/373302e0-c4ab-4fdf-a8be-18ec45e4c5f5 | Gimlet Labs | Member of Technical Staff - AI Research (Intern) — SF CA; AI research/compilation framework; research focus; ~3.3/5
 - [ ] https://job-boards.greenhouse.io/implicit/jobs/7440108 | Implicit | Junior Cloud / DevOps Engineer (Part-Time / Remote Intern Level) — Remote US; AWS+Kubernetes; part-time; ~2.8/5
 <!-- === END 2026-05-04 SCAN v283 === -->
+
+<!-- === BEGIN 2026-05-04 SCAN v284 === -->
+<!-- 0 qualifying >=4.0 | 0 new history entries | 0 pipeline additions | 0 new reports | 3 missing reports #432-434 written to disk -->
+<!-- === END 2026-05-04 SCAN v284 === -->

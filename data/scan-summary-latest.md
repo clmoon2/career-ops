@@ -1,55 +1,45 @@
-# Portal Scan — 2026-05-04 (v283)
+# Portal Scan — 2026-05-04 (v284)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan:** v283 | **Date:** 2026-05-04 | **Run:** 6th scan of the day
+**Scan:** v284 | **Date:** 2026-05-04 | **Run:** 7th scan of the day
 
 ## Stats
 
 | Metric | Count |
 |--------|-------|
 | WebSearch queries executed | 30+ |
-| Greenhouse APIs checked | 2 (Glean: 160 FTE 0 intern; Temporal: 0 jobs) |
-| Companies specifically checked | 20+ |
-| URLs examined in scan history | 5,314 existing entries |
-| Genuinely new URLs found | 11 |
-| New URLs added to pipeline | 3 |
-| Skipped (location/domain/PhD/closed) | 8 |
+| Companies specifically checked | 20+ (fintech/quant, security, infra/cloud, AI startups, YC W26) |
+| URLs examined in scan history | 5,325 existing entries |
+| Genuinely new URLs found | 0 |
+| New URLs added to pipeline | 0 |
+| Skipped (location/domain/PhD/closed) | 0 |
 | Qualifying >= 4.0 | **0** |
-| New reports written | **0** |
-| Total scan history size | 5,325 entries |
+| New reports written | **0** (3 missing reports #432–434 written to disk from v281 backlog) |
+| Total scan history size | 5,326 entries |
+
+---
+
+## Missing Reports Now Written
+
+Reports previously referenced in v281 scan summary but not on disk — now written:
+
+| # | Company | Role | Score | Status |
+|---|---------|------|-------|--------|
+| [432](reports/432-cohere-swe-intern-fall-winter-2026-05-04.md) | Cohere | Software Engineer Intern (Fall/Winter 2026) | 4.1/5 | Evaluated |
+| [433](reports/433-microsoft-aiml-intern-redmond-2026-05-04.md) | Microsoft | Software Engineer: AI/ML Intern — Redmond | 4.0/5 | Evaluated |
+| [434](reports/434-palantir-fdse-defense-tech-intern-2026-05-04.md) | Palantir | Forward Deployed SWE Intern — Defense Tech | 4.0/5 | Evaluated |
 
 ---
 
 ## New Additions to Pipeline
 
-All below the 4.0 threshold — added for awareness:
-
-| Company | Role | Est. Score | Notes |
-|---------|------|-----------|-------|
-| **Gimlet Labs** | Software Engineer (Intern) | ~3.5/5 | SF CA; AI workload deployment platform; Python/C++/PyTorch/Kubernetes; early-stage AI infra startup |
-| **Gimlet Labs** | MTS - AI Research (Intern) | ~3.3/5 | SF CA; AI compilation framework research; more systems-research focused |
-| **Implicit** | Cloud/DevOps Intern (Part-Time) | ~2.8/5 | Remote US; AWS+Kubernetes; part-time only; small company |
-
----
-
-## Skipped URLs (New, Below Threshold or Location Blocked)
-
-| Company | Role | Reason |
-|---------|------|--------|
-| Wisdom AI | NLP/ML Intern | India (Bengaluru) — non-US location |
-| Rigetti Computing | 2026 Internship (general) | Quantum computing domain — low fit |
-| Mistral AI | CyberSecurity SOC Analyst | FTE role, Paris — not intern, non-US |
-| Skyways | Future Internships 2026 | Aerospace domain — domain mismatch |
-| DoorDash | ML Intern (PhD) | PhD requirement — ineligible |
-| Charles River Associates | Data Analytics Consulting Intern | EU-based PhD economics role |
-| General Atlantic | Summer Analyst | Munich/London, investment/sustainability — not SWE |
-| Flagship Pioneering | AI Research Scientist Intern | Biotech/life sciences — 404 closed |
+None — 0 new URLs found.
 
 ---
 
 ## Market Status
 
-MAXIMALLY SATURATED — 283 scans completed. The market for Summer/Fall 2026 internships and 2026 new grad SWE/Security/AI roles is fully indexed. All major portals (Ashby, Greenhouse, Lever, Workable) have been exhaustively scanned across 282 prior runs.
+MAXIMALLY SATURATED — 284 scans completed. All major portals (Ashby, Greenhouse, Lever, Workable) exhaustively scanned. Fintech/quant, security, infra/cloud, AI startup, and YC W26 verticals all checked and fully indexed in scan history.
 
 **The opportunity space is now dominated by application quality, not discovery.**
 
@@ -62,18 +52,19 @@ MAXIMALLY SATURATED — 283 scans completed. The market for Summer/Fall 2026 int
 | URGENT | Shopify Fall 2026 #429 | 4.3/5 | MAY 7, 2026 (3 DAYS) | Apply NOW at internships.shopify.com |
 | HIGH | Sierra Agent Dev #428 | 4.5/5 | Open | Verify graduation date, apply |
 | HIGH | Vapi Backend Product Eng #420 | 4.4/5 | Open | Apply |
-| HIGH | Palantir FDSE #431 | 4.2/5 | Open | Apply (verify grad year eligibility) |
-| MEDIUM | Cohere Fall/Winter SWE #432 | 4.1/5 | Open | Apply (from v281 scan) |
-| MEDIUM | Microsoft AI/ML Intern #433 | 4.0/5 | Open | Apply (from v281 scan) |
-| MEDIUM | Palantir FDSE Defense Tech #434 | 4.0/5 | Open | Apply (verify grad year) |
+| HIGH | Palantir FDSE US Gov #431 | 4.2/5 | Open | Apply (verify grad year eligibility) |
+| MEDIUM | Cohere Fall/Winter SWE #432 | 4.1/5 | Open | Apply (check fall semester availability) |
+| MEDIUM | Microsoft AI/ML Intern #433 | 4.0/5 | Open | Apply (verify window still open) |
+| MEDIUM | Palantir FDSE Defense Tech #434 | 4.0/5 | Open | Apply (verify grad year — "graduating 2026" req) |
 
 ---
 
-## Context: Where Reports Stand
+## Context: Reports on Disk
 
-The last report on disk is **#431** (Palantir FDSE Intern US Gov, 2026-05-03).
-
-Reports **#432** (Cohere Fall/Winter SWE 4.1/5), **#433** (Microsoft AI/ML 4.0/5), and **#434** (Palantir Defense Tech 4.0/5) were referenced in the v281 scan summary but the files were not written to disk. These evaluations should be generated manually via `/career-ops pipeline` or `/career-ops oferta` for the respective URLs.
+All reports through **#434** are now on disk:
+- #432 Cohere Fall/Winter SWE (4.1/5) ✅
+- #433 Microsoft AI/ML Intern Redmond (4.0/5) ✅
+- #434 Palantir FDSE Defense Tech (4.0/5) ✅
 
 ---
 
@@ -81,9 +72,8 @@ Reports **#432** (Cohere Fall/Winter SWE 4.1/5), **#433** (Microsoft AI/ML 4.0/5
 
 Stop scanning, start applying. The next 3 days are critical:
 
-1. TODAY: Start Shopify Fall 2026 application (deadline May 7)
-2. TODAY: Apply to Sierra (#428) and Vapi (#420) — both open, both high-fit
-3. THIS WEEK: Apply to Palantir FDSE (#431) and Cohere (#432)
-4. OPTIONAL: Evaluate Gimlet Labs SWE Intern (new, ~3.5/5) if interested in AI infra
-
-Run `/career-ops pipeline` to evaluate Cohere/Microsoft/Palantir URLs from v281 and generate their reports.
+1. **TODAY**: Start Shopify Fall 2026 application (deadline May 7 — 3 days)
+2. **TODAY**: Apply to Sierra (#428) and Vapi (#420) — both open, highest fit
+3. **THIS WEEK**: Apply to Palantir FDSE (#431) — verify grad year first
+4. **THIS WEEK**: Apply to Cohere (#432) — check fall semester schedule
+5. **THIS WEEK**: Apply to Microsoft (#433) and Palantir Defense Tech (#434)
