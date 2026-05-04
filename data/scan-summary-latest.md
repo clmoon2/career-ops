@@ -1,101 +1,100 @@
-# Scan Summary — v280 (2026-05-04)
+# Portal Scan — 2026-05-04 (v281)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Run:** scan-v280 | **Date:** 2026-05-04 | **Previous:** v279 | **Agent:** Claude Sonnet 4.6
+**Scan:** v281 (autonomous agent, 4th scan on 2026-05-04)
+**History at start:** 5,290 entries
+**History at end:** 5,312 entries (+22)
 
 ---
 
-## Stats
+## Results
 
 | Metric | Count |
 |--------|-------|
-| Companies/sources checked | 40+ |
-| Total URLs evaluated | 57 |
-| Greenhouse API checks | 6 (CrowdStrike[404], Figma, Discord, Stripe, Brex, Palantir[404]) |
-| WebSearch queries executed | 25+ |
-| Cybersecurity companies checked | 5 (CrowdStrike, Wiz, SentinelOne, PAN, Snyk) |
-| Consulting firms checked | 6 (Deloitte, McKinsey, BCG, Accenture, PwC, IBM Federal) |
-| History entries before scan | 5,232 |
-| New URLs found (not in history) | 3 |
-| Qualifying ≥4.0/5 | 0 |
-| New pipeline additions (≥3.5) | 0 |
-| Full evaluation reports written | 0 |
+| Companies / portals checked | 25+ |
+| New URLs discovered | 8 added to pipeline |
+| Skipped (below threshold / non-target) | 14 |
+| Reports written (score ≥ 4.0) | 3 |
+| Pipeline additions | 8 |
 
 ---
 
-## New Listings Found
+## Top Matches (Score ≥ 4.0) — Reports Written
 
-### Score ≥ 4.0 (Apply ASAP)
+### #432 — Cohere | Software Engineer Intern (Fall / Winter 2026) — **4.1/5**
+- **URL:** https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254
+- **Pay:** $59/hr (~$118K annualized) — top quartile
+- **Location:** San Francisco, CA
+- **Why:** Cohere trains frontier LLMs for enterprise; Carlos built a production 5-provider multi-model pipeline. Direct archetype match. Fall/Winter 2026 term is perfect timing if TAMU fall semester allows co-op.
+- **Action:** Apply — verify fall semester co-op compatibility first
 
-*None found.*
+### #433 — Microsoft | Software Engineer: AI/ML Intern (Redmond) — **4.0/5**
+- **URL:** https://jobs.careers.microsoft.com/global/en/job/1766916/Software-Engineer:-AI%2FML-Intern-Opportunities-for-University-Students,-Redmond
+- **Pay:** ~$33–43/hr + housing stipend
+- **Location:** Redmond, WA (on-site, relocation needed)
+- **Why:** Microsoft AI division (Copilot/Azure OpenAI/GitHub Copilot). Explicitly open to university students (undergrads). Rolling applications. Carlos's multi-model AI pipeline and Python depth are directly relevant.
+- **Action:** Apply ASAP — rolling applications, no fixed deadline
 
-### Score 3.5–3.9 (Worth evaluating)
-
-*None found.*
-
-### New URLs Found But Disqualified / Below Threshold
-
-| Company | Role | Score | Notes |
-|---------|------|-------|-------|
-| IBM Federal | Federal Developer Intern 2026 (Washington DC) | ~2.5/5 | NEW URL (ibmglobal.avature.net/57318) — CLOSED, federal security clearance required, 100% travel |
-| IBM Federal | Federal Data Engineer Intern 2026 (Washington DC) | ~2.5/5 | NEW URL (ibmglobal.avature.net/57946) — CLOSED, federal clearance required |
-| GoFundMe | Frontend Software Engineer Intern (Summer 2026) | ~2.8/5 | NEW URL (job-boards.greenhouse.io/gofundme/jobs/7289352) — SF 3d/wk; $35/hr; React/TypeScript frontend only; Carlos primarily backend |
-
----
-
-## Key Actions (URGENT)
-
-1. **DEADLINE MAY 7 — 3 DAYS**: Shopify Fall 2026 #429 — Apply at internships.shopify.com NOW
-2. **Sierra #428** — 4.5/5 — Apply (Bret Taylor's AI agent company; exact archetype match)
-3. **Vapi #420** — 4.4/5 — Apply (voice AI infrastructure; multi-model pipeline match)
-4. **Palantir FDSE #431** — 4.2/5 — Apply (US gov track; verify graduation year eligibility)
-5. **Cloudflare Data Analytics Austin** (added v279) — ~4.0/5 — Evaluate and apply
+### #434 — Palantir | FDSE Internship — Defense Tech — **4.0/5**
+- **URL:** https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b
+- **Pay:** ~$10,500/month
+- **Location:** Washington, DC
+- **Why:** FDSE archetype — Carlos's strongest fit. Defense track adds clearance eligibility requirement. Companion to existing #419 (SWE Intern) and #431 (FDSE US Gov).
+- **Action:** Verify 2026 graduation year requirement FIRST — if eligible, apply alongside #419 and #431
 
 ---
 
-## Companies Checked This Scan
+## Pipeline Additions (Below 4.0 — Evaluate Before Applying)
 
-**Greenhouse APIs:** CrowdStrike (404 — uses Workday), Figma (0 intern, 158 FTE only), Discord (0 intern, 79 FTE only), Stripe (Masters-only Toronto, no US undergrad), Brex (0 intern, Rotational Program only), Palantir (404 — uses Lever)
-
-**Cybersecurity Companies:**
-- CrowdStrike Workday: All intern IDs (R26636/R26658/R25296/R25822/R25328/R26263) confirmed dup v8–v249
-- Wiz: No intern program (careers page confirms, confirmed dup v231/v265)
-- SentinelOne: AppSec Intern Prague (Masters-only, CLOSED per accel.com); Partner SE Intern (non-SWE, dup v164/v173); 0 new qualifying
-- Palo Alto Networks: All dup v7–v279
-- Snyk: Container Intern Boston (JR100491) dup v130 ~3.3/5 (below threshold); Greenhouse board 0 intern
-
-**Consulting (all closed/past recruiting deadline):**
-- Deloitte: 0 results on careers portal (confirmed closed, dup v113/v141/v151/v273)
-- McKinsey/QuantumBlack: Summer 2026 cycle closed Sep 2025 (dup v69/v113)
-- BCG/BCG X: Cycle closed (dup v151)
-- Accenture: Cycle closed (dup v32/v205)
-- PwC: Cycle closed (dup v113/v190)
-- IBM Federal: Checked 57318 + 57946 — NEW URLs but both CLOSED and require federal security clearance
-
-**Wiz/Perplexity Rechecks:** Wiz careers page shows no intern listings. Perplexity Ashby board returns 0 intern/new-grad roles.
-
-**Cloudflare API (new roles found — all non-engineering):** ABM Intern London (7733377), Business Analyst Singapore (7729700), Marketing Campaigns ABM London (7838607), Customer Advocacy Austin (7743202), BDR Austin (7652528), Content Marketing Austin (7733145), Marketing Events Austin (7733327), Marketing Operations (7733532), CxTP Austin (7786702), Developer GTM Austin (7789256) — all skipped_title (non-SWE/non-security)
-
-**WebSearch Sweeps (25+ queries — all confirmed dup v7–v279):**
-Greenhouse SWE+AI+Security: Cloudflare Red-Team/ThreatDetection/Security (UK/Lisbon, not US), HP IQ, Sigma Computing, Scale AI, Affirm, DoorDash, Aquatic, PDT Partners, GoFundMe Backend, SharkNinja, iCapital, Datacor, DevTechnology
-Ashby AI+ML+Security: Ema, TensorWave, Lambda ML Research, Brain Co, Handshake ML, Sierra, Sentry, Zip, Notion, Cohere, Replit, Farsight, NorthwoodSpace, Pulse ML, Giga ML, Wisdom AI (confirmed dup v7+)
-Lever SWE+Security+AI: Symmetry, Nominal, Voleon, ShieldAI, SoloPulse, Hermeus, Veeva, FieldAI, Waabi
-xAI: Engineering Intern (4730948007) — confirmed Mechanical/Civil/Electrical engineering for data centers, not SWE
-GoFundMe Frontend (7289352): NEW URL but frontend-only, ~2.8/5 below threshold
+| Company | Role | Score Est | Note |
+|---------|------|-----------|------|
+| Microsoft | Research Intern - AI Security (1512953) | ~3.8 | Verify undergrad eligibility; LLM threat modeling match |
+| Microsoft | Research Intern - AI-Assisted SE (1488909) | ~3.8 | Verify grad level; AI + software eng automation |
+| Microsoft | Research Intern - AI/ML/Stats (1784132) | ~3.7 | Verify undergrad eligibility; Statistics emphasis match |
+| Saviynt | SWE R&D Intern | ~3.7 | Identity security + AI/cloud; verify comp before applying |
+| Amazon | Data Engineer Intern Fall 2026 | ~3.5 | Python/SQL/AWS; FAANG brand; fall 2026 timing |
 
 ---
 
-## Market Assessment
+## Skipped
 
-**MAXIMALLY SATURATED — 280 scans total.**
+| Company | Role | Reason |
+|---------|------|--------|
+| Amazon | Annapurna ML Systems Intern | ~3.0/5 — hardware/silicon focus |
+| Amazon | SDE Fall 2026 Canada | Not US-based |
+| Lucid Motors | ML Engineer Intern | ~3.2/5 — automotive domain |
+| Quantum Metric | Security Intern Spring 2026 | Past deadline |
+| Perplexity | Cloud Security Engineer | FTE role, not intern |
+| Glean | AI Outcomes Manager | Sales/CS, not SWE |
+| Intercom | Senior Infrastructure Engineer | FTE senior |
+| Intercom | Senior Analytics Engineer | FTE senior |
+| RunPod | 6 FTE/non-tech roles | Non-SWE/non-intern |
 
-History now at 5,289 entries. The Summer 2026 intern window is effectively closed for new discovers — most programs start in 4–6 weeks. The only genuinely new URLs found this scan were 2 IBM Federal roles (both closed and require clearance) and 1 GoFundMe frontend role (below threshold).
+---
 
-All major categories exhausted:
-- Big Tech (Google/Meta/Microsoft/Apple/Amazon): All tracked since v7, all dup
-- Top Cybersecurity (CrowdStrike/PAN/SentinelOne/Wiz/Snyk): All dup or no-intern
-- Consulting (Big4 + MBB): Summer 2026 recruiting cycle closed months ago
-- AI-native (Anthropic/OpenAI/Cohere/Sierra/Vapi): All tracked, in pipeline
-- Fintech (Stripe/Plaid/Brex/Robinhood/Mercury/Affirm): All dup, many closed
-- Greenhouse/Ashby/Lever aggregators: 5,289-entry history covers effectively all posted roles
+## Portals Scanned
 
-**Recommendation:** Stop scanning daily. Focus exclusively on applying to existing pipeline items before deadlines pass. Next scan in 5–7 days to check for any new Fall 2026 cycle openings.
+**Greenhouse APIs:** Anthropic, Airtable, Vercel, Glean, Arize AI, Temporal, RunPod, Hume AI, Intercom, PolyAI
+
+**WebSearch (20 queries):** Amazon Fall 2026, Microsoft intern tracks (AI/ML + Research), Cohere Fall/Winter, Palantir FDSE Defense, cybersecurity interns 2026, new grad SWE 2026, Fall 2026 interns, DevOps/SRE interns, AI Engineer interns, Big4/MBB consulting
+
+---
+
+## Tracker Note
+
+Reports #432, #433, #434 written and in `reports/`. The `merge-tracker.mjs` deduped them against existing Cohere #256 / Microsoft #297 / Palantir #431 — these are **different program tracks** with different URLs. Add to `applications.md` manually if desired.
+
+---
+
+## Recommended Next Actions
+
+| Priority | Action |
+|----------|--------|
+| URGENT | Shopify Fall 2026 **#429 DEADLINE MAY 7** (3 days!) |
+| High | Sierra Agent Dev **#428** 4.5/5 — apply |
+| High | Vapi Backend Product Engineer **#420** 4.4/5 — apply |
+| High | Palantir FDSE US Gov **#431** 4.2/5 — apply (verify grad year) |
+| New | Cohere Fall/Winter SWE **#432** 4.1/5 — verify fall co-op, then apply |
+| New | Microsoft AI/ML Intern **#433** 4.0/5 — apply ASAP (rolling) |
+| New | Palantir FDSE Defense Tech **#434** 4.0/5 — verify 2026 grad req first |
+| Check | Microsoft Research AI Security (pipeline) — verify undergrad eligibility |
