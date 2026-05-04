@@ -1,47 +1,68 @@
-# Portal Scan — 2026-05-04 (v284)
+# Portal Scan — 2026-05-04 (v285)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan:** v284 | **Date:** 2026-05-04 | **Run:** 7th scan of the day
+**Scan:** v285 | **Date:** 2026-05-04 | **Run:** 8th scan of the day
 
 ## Stats
 
 | Metric | Count |
 |--------|-------|
-| WebSearch queries executed | 30+ |
-| Companies specifically checked | 20+ (fintech/quant, security, infra/cloud, AI startups, YC W26) |
-| URLs examined in scan history | 5,325 existing entries |
-| Genuinely new URLs found | 0 |
+| WebSearch queries executed | 20+ |
+| Companies specifically checked | 25+ (Greenhouse APIs: Capital One, Goldman Sachs, ServiceNow, Atlassian; FAANG Fall 2026; YC W26; Texas-specific; Simplify.jobs; fresh AI startups) |
+| URLs examined in scan history | 5,326 existing entries |
+| Genuinely new URLs found | 2 (both disqualified) |
 | New URLs added to pipeline | 0 |
-| Skipped (location/domain/PhD/closed) | 0 |
+| Skipped (grad year 2027+ / duplicate role) | 2 |
 | Qualifying >= 4.0 | **0** |
-| New reports written | **0** (3 missing reports #432–434 written to disk from v281 backlog) |
-| Total scan history size | 5,326 entries |
+| New reports written | **0** |
+| Total scan history size | 5,328 entries |
 
 ---
 
-## Missing Reports Now Written
+## New Findings (Disqualified)
 
-Reports previously referenced in v281 scan summary but not on disk — now written:
+| URL | Company | Title | Reason |
+|-----|---------|-------|--------|
+| linkedin.com/jobs/… (First Play) | First Play | Software Engineer Intern | Grad 2027+ requirement — skipped_title |
+| linkedin.com/jobs/… (Bellevue) | Amazon | SDE Intern — Bellevue | Same role as Mountain View (already in history at 3.5/5) — skipped_dup |
 
-| # | Company | Role | Score | Status |
-|---|---------|------|-------|--------|
-| [432](reports/432-cohere-swe-intern-fall-winter-2026-05-04.md) | Cohere | Software Engineer Intern (Fall/Winter 2026) | 4.1/5 | Evaluated |
-| [433](reports/433-microsoft-aiml-intern-redmond-2026-05-04.md) | Microsoft | Software Engineer: AI/ML Intern — Redmond | 4.0/5 | Evaluated |
-| [434](reports/434-palantir-fdse-defense-tech-intern-2026-05-04.md) | Palantir | Forward Deployed SWE Intern — Defense Tech | 4.0/5 | Evaluated |
+---
+
+## Greenhouse API Status
+
+Probed four companies not previously checked via Greenhouse API — all returned 404 (not on Greenhouse ATS):
+
+- Capital One (`capitalonetech`) — 404
+- Goldman Sachs (`goldmansachs`) — 404
+- ServiceNow (`servicenow`) — 404
+- Atlassian (`atlassian`) — 404
+
+---
+
+## Cloudflare Data Analytics (Pipeline #pending since v279)
+
+Re-assessed `job-boards.greenhouse.io/cloudflare/jobs/7668989` (Data Analytics Intern — Austin):
+
+**Assessment: ~3.7/5 — below threshold. No report written.**
+
+- Data Analytics is not Carlos's primary archetype (SWE/Security/AI)
+- Carlos already has Cloudflare SWE 4.8/5 (#419) and Security 4.7/5 (#418) evaluated
+- Applying to a weaker-fit Cloudflare role would dilute application quality
+- Recommend: remove from pipeline or mark SKIP
 
 ---
 
 ## New Additions to Pipeline
 
-None — 0 new URLs found.
+None — 0 new qualifying URLs found.
 
 ---
 
 ## Market Status
 
-MAXIMALLY SATURATED — 284 scans completed. All major portals (Ashby, Greenhouse, Lever, Workable) exhaustively scanned. Fintech/quant, security, infra/cloud, AI startup, and YC W26 verticals all checked and fully indexed in scan history.
+MAXIMALLY SATURATED — 285 scans completed. All major portals (Ashby, Greenhouse, Lever, Workday, SmartRecruiters, Amazon.jobs, Nvidia Workday) exhaustively indexed. FAANG, AI startups, YC W26, security, fintech/quant, Texas-specific, and aggregator (Simplify.jobs) verticals all fully covered in scan history.
 
-**The opportunity space is now dominated by application quality, not discovery.**
+**The discovery phase is complete. The opportunity window is now application quality and speed.**
 
 ---
 
@@ -59,21 +80,12 @@ MAXIMALLY SATURATED — 284 scans completed. All major portals (Ashby, Greenhous
 
 ---
 
-## Context: Reports on Disk
-
-All reports through **#434** are now on disk:
-- #432 Cohere Fall/Winter SWE (4.1/5) ✅
-- #433 Microsoft AI/ML Intern Redmond (4.0/5) ✅
-- #434 Palantir FDSE Defense Tech (4.0/5) ✅
-
----
-
 ## Recommendation
 
-Stop scanning, start applying. The next 3 days are critical:
+Stop scanning, start applying. Shopify deadline is in 3 days — everything else is secondary:
 
-1. **TODAY**: Start Shopify Fall 2026 application (deadline May 7 — 3 days)
-2. **TODAY**: Apply to Sierra (#428) and Vapi (#420) — both open, highest fit
-3. **THIS WEEK**: Apply to Palantir FDSE (#431) — verify grad year first
-4. **THIS WEEK**: Apply to Cohere (#432) — check fall semester schedule
-5. **THIS WEEK**: Apply to Microsoft (#433) and Palantir Defense Tech (#434)
+1. **TODAY**: Shopify Fall 2026 application (deadline May 7 — DO NOT MISS)
+2. **TODAY**: Sierra (#428) and Vapi (#420) — open, highest fit, no deadline pressure
+3. **THIS WEEK**: Palantir FDSE US Gov (#431) — strong fit, verify grad year first
+4. **THIS WEEK**: Cohere (#432), Microsoft (#433), Palantir Defense (#434)
+5. **CLEANUP**: Resolve Cloudflare Data Analytics Austin in pipeline (assess 3.7/5, mark SKIP or remove)
