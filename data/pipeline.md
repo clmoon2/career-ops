@@ -4466,3 +4466,22 @@ Pending evaluations: Labelbox FDE (~4.0/5), Zapier AppSec (verify level — if e
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/5661972004 | Arize AI | AI Engineer, Instrumentation (Remote US — 3-5 yrs req, $125-225K)
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/5980312004 | Arize AI | DevSecOps Engineer, TypeScript & Agentic AI (Remote/Hybrid SoCal)
 
+
+<!-- === BEGIN 2026-05-04 SCAN v279 === -->
+## Nuevas ofertas — Scan v279 (2026-05-04)
+
+### Pendientes
+
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7668989 | Cloudflare | Data Analytics Intern (Summer 2026) — **~4.0/5**; Austin TX (in-office, ~100 miles from TAMU); Cloudflare top-tier security/networking company; Python/SQL/data visualization; network security data analytics context; Carlos's pandas/numpy/PostgreSQL skills directly applicable; strong company brand for security career; no comp listed but Cloudflare Austin interns typically $45-55/hr; evaluate before applying
+- [ ] https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116 | Palantir | Software Engineer, Internship — Production Infrastructure (Seattle) — ~3.8/5; $10K/mo; Kubernetes/Apollo/Signals/observability; US Security clearance eligibility required; 2027 grad req; similar to existing pipeline tracks (373367a9 Production Infra, b229baac Infrastructure); Seattle location variant; lower priority vs existing Palantir tracks in pipeline
+- [ ] https://jobs.ashbyhq.com/skydio/e28cd5d2-9dd6-4610-aaa4-6a2f0af8db29 | Skydio | Software Engineer Intern — Boston (Global Government team) — ~3.0/5; Boston MA; drone/autonomous vehicle company; government engineering team; Python/systems focus; Carlos has SWE skills but aerospace/drone domain mismatch; clearance may be required; below pipeline threshold
+- [ ] https://jobs.ashbyhq.com/skydio/80ac664d-b915-4f6e-a997-ef1f33e928ec | Skydio | Cloud Software Engineer Intern (DFR team) — ~3.0/5; DFR = Drone as First Responder; cloud infra for drone workflows; Carlos has AWS/Docker/cloud skills but drone domain mismatch; below threshold
+
+⚠️ KEY ACTIONS FROM PREVIOUS SCANS:
+- **⚡ Shopify Fall 2026 #429 — DEADLINE MAY 7 (3 DAYS!) — APPLY NOW**
+- Sierra #428 4.5/5 — pending application decision
+- Vapi #420 4.4/5 — pending
+- Palantir FDSE US Gov #431 4.2/5 — pending
+- **Cloudflare Data Analytics Austin ~4.0/5 — NEW TODAY — evaluate**
+
+<!-- === END 2026-05-04 SCAN v279 === -->
