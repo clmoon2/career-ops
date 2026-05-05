@@ -1,4 +1,8 @@
 # Pipeline -- Pending URLs
+<!-- === BEGIN 2026-05-05 SCAN v289 === -->
+<!-- Sources: 9 Greenhouse APIs (Anthropic/Airtable/Vercel/ArizeAI/Glean/HumeAI/RunPod/Temporal/Intercom: all 0 new intern/new-grad vs v7-v288; all senior FTE or empty boards); 35+ WebSearch queries (Ashby/Greenhouse/Lever SWE+AI+Security+backend+new-grad+Fall2026+consulting+YC+BigTech+defense — all confirmed dup v7-v288; Kodiak Fall AI/ML 4174469009 NEW URL skipped_score grad-focused; Esri Agentic AI 5118086007 NEW URL skipped_score GIS+exp-req). Dedup against 5,013-entry history. -->
+<!-- 0 qualifying >=4.0 | 3 new history entries | 0 pipeline additions | 0 new reports -->
+<!-- === END 2026-05-05 SCAN v289 === -->
 <!-- === BEGIN 2026-05-05 SCAN v288 === -->
 <!-- Sources: 2 Greenhouse APIs (Anthropic: Fellows dup v7-v286; Glean: 159 FTE 0 intern); 25+ WebSearch queries (SimplifyJobs Summer+NewGrad 0d: Xebia skipped_score 2.5/5 + Compa skipped_score 3.0/5 + Nutanix NEW added; SpeedyApply AI 0d: Micron Validation AI/ML skipped_score; SpeedyApply SWE 0d: NVIDIA JR2017181 skipped_score fall-timing + NVIDIA JAX JR2009745 NEW added + D.E.Shaw 5894 skipped_closed; Amazon Leo 3144153 skipped_score + Annapurna 10400153 skipped_score fall-timing; AI/ML intern Ashby+Greenhouse all dup; security intern all dup; consulting all dup; YC all dup). Dedup against 5,001-entry history. -->
 <!-- 0 qualifying >=4.0 | 12 new history entries | 2 pipeline additions | 0 new reports -->
