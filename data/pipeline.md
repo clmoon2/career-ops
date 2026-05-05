@@ -4574,3 +4574,19 @@ Pending evaluations: Labelbox FDE (~4.0/5), Zapier AppSec (verify level — if e
 
 📢 **System update available: v1.1.0 → v1.6.0** — Run `node update-system.mjs apply` to upgrade.
 <!-- === END 2026-05-05 SCAN v290 === -->
+
+<!-- === BEGIN 2026-05-05 SCAN v291 === -->
+<!-- Sources: SimplifyJobs Summer2026 0d (Xebia/Compa/Modernizing Med/Nutanix/Nokia/Relay — all dup v287); SimplifyJobs NewGrad 0d (Compa new-grad/TD Bank Canada/Esri 5118086007/ServiceNow Moveworks x2/RTX Raytheon/BAE Systems — all dup v261-v289); SpeedyApply AI 2d (Everlaw GTM/MGM/Micron/Oldcastle/Vistra — all 2d prev dup); SpeedyApply SWE 2d (CACI/Gemini/Motorola/Snorkel/NVIDIA JR2017181 — all dup); Ashby broad search (Farsight/Harvey/Delinea/Vantage/Zettabyte/UnlikelyAI/BrainCo/Handshake/Lambda — all dup v7-v290); Greenhouse Lever broad (DV Trading/SpaceX/GridBlock/CLEAR/Robinhood/Verkada/SingleStore/Aquatic/Affirm — all dup v7-v290); Greenhouse APIs (Anthropic Fellows all dup; Cloudflare all roles 7668989+7729719+7761468+7789256+7786702+7759602 — all dup v9-v191); Consulting (Big 4 deadlines passed fall 2025 cycle closed); Security (CrowdStrike R25296 dup; Cloudflare 7582169 dup; Together AI 5012785007 dup); AI Labs (Cerebras closed; Groq/Mistral/Anyscale no 2026 intern; Codeium Windsurf 2026 not listed); New grad deep scan (Loop/Airtable/Kikoff/Ramp/Replit/Benchling — all dup v5-v289); 5,017-entry history + 2 genuinely new = 5,019 total; 0 qualifying >=4.0; 2 pipeline additions; 0 new reports. -->
+<!-- 0 qualifying >=4.0 | 2 new history entries | 2 pipeline additions | 0 new reports -->
+
+- [ ] https://jobs.ashbyhq.com/junior/23ee686b-d305-4ac9-860d-16c99ddb4891 | Junior AI | Software Engineering Intern (Summer 2026) — NEW; LLM-powered tools for PE/investment research; ~28-person profitable bootstrapped startup (London+NYC); 10x revenue in 2025; strong Python/LLM match; finance domain not primary target; Summer 2026 timing good; ~3.2/5
+- [ ] https://jobs.workable.com/view/iBbtCTJh8Vbt4a79EJWYbH/remote-software-engineer-intern---platform-%26-devops-in-united-states-at-good-at-numbers | Good At Numbers | Software Engineer Intern – Platform & DevOps (Summer 2026) — NEW; fully remote US; $23/hr; May–Jul 2026; Docker/K8s/Terraform/GitHub Actions/AWS; 2+ yrs exp req unusual for intern; comp below market; DevOps secondary archetype match; ~3.0/5
+
+⚠️ **KEY ACTIONS — ACT NOW:**
+- **⚡ Shopify Fall 2026 #429 — DEADLINE MAY 7 2026 (2 DAYS!) — APPLY NOW**
+- Sierra #428 4.5/5 — pending application decision
+- Vapi #420 4.4/5 — pending
+- OpenAI Applied Emerging Talent #409 4.4/5 — pending
+- Palantir FDSE US Gov #431 4.2/5 — pending
+- Labelbox FDE #431 4.0/5 — pending
+<!-- === END 2026-05-05 SCAN v291 === -->
