@@ -4590,3 +4590,16 @@ Pending evaluations: Labelbox FDE (~4.0/5), Zapier AppSec (verify level — if e
 - Palantir FDSE US Gov #431 4.2/5 — pending
 - Labelbox FDE #431 4.0/5 — pending
 <!-- === END 2026-05-05 SCAN v291 === -->
+
+<!-- === BEGIN 2026-05-05 SCAN v292 === -->
+<!-- Sources: Priority 1 (SimplifyJobs Summer2026/NewGrad/Ouckah: all dup v287-v291); Priority 2 (Greenhouse APIs: Anthropic 7 Fellows all dup; Cloudflare all dup; CrowdStrike 404; Stripe Masters PhD Canada-only; Databricks 0 intern); Priority 3 (Fall2026 Ashby/Greenhouse/Palantir: all confirmed dup v7-v291; Security: all dup; Consulting: deadlines closed); Priority 4 (Wiz/CrowdStrike 404); Priority 5 (LinkedIn/Indeed/YC/Handshake: all dup v7-v291); SpeedyApply SWE 2-5d (Astranis 4619283006 NEW skipped_score C/C++ embedded $29/hr; Remedy Scientific 2e74c46f NEW skipped_score env domain; others all dup); SpeedyApply AI (GE Aerospace R5033549 NEW EU-Germany skipped_location); Constant Contact Co-op 7862452 NEW skipped_score ($35/hr Java-primary) -->
+<!-- 0 qualifying >=4.0 | 5 new history entries (4 skipped + scan summary) | 0 pipeline additions | 0 new reports -->
+
+⚠️ **KEY ACTIONS — ACT NOW:**
+- **⚡ Shopify Fall 2026 #429 — DEADLINE MAY 7 2026 (2 DAYS!) — APPLY NOW**
+- Sierra #428 4.5/5 — pending application decision
+- Vapi #420 4.4/5 — pending
+- OpenAI Applied Emerging Talent #409 4.4/5 — pending
+- Palantir FDSE US Gov #431 4.2/5 — pending
+- Labelbox FDE #431 4.0/5 — pending
+<!-- === END 2026-05-05 SCAN v292 === -->
