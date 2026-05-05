@@ -4624,3 +4624,47 @@ Pending evaluations: Labelbox FDE (~4.0/5), Zapier AppSec (verify level — if e
 - Palantir FDSE US Gov #431 4.2/5 — pending
 - Labelbox FDE #431 4.0/5 — pending
 <!-- === END 2026-05-05 SCAN v293 === -->
+
+<!-- === BEGIN 2026-05-05 SCAN v294 === -->
+<!-- Sources: 6 Greenhouse APIs (Anthropic/Airtable/ArizeAI/RunPod/Temporal/HumeAI: all 0 intern); 30+ WebSearch queries (all confirmed dup v7-v293); 5,033 history + 7 new = 5,040 total -->
+<!-- 0 qualifying >=4.0 | 0 pipeline additions | 0 new reports -->
+
+⚠️ **KEY ACTIONS — ACT NOW:**
+- **⚡ Shopify Fall 2026 #429 — DEADLINE MAY 7 2026 (2 DAYS!) — APPLY NOW**
+- Sierra #428 4.5/5 — pending application decision
+- Cohere Fall/Winter #432 4.1/5 — pending
+- Microsoft AI/ML #433 4.0/5 — pending
+- Palantir FDSE Defense #434 4.0/5 — pending
+<!-- === END 2026-05-05 SCAN v294 === -->
+
+<!-- === BEGIN 2026-05-05 SCAN v295 === -->
+<!-- Sources: 6 Greenhouse APIs (Cloudflare 0 SWE/security; Snorkel dup; Figma no SWE; Notion 404; Stripe Masters-only; Salesforce 404); 40+ WebSearch (all dup v7-v294 + Tesla People Systems 269198 NEW skipped_score + Tesla Camera 268906 NEW skipped_title); SpeedyApply top-80 SWE/AI all dup; 5,040 history + 3 new = 5,043 total -->
+<!-- 0 qualifying >=4.0 | 0 pipeline additions | 0 new reports | 2 genuinely new Tesla Fall URLs (both below threshold) -->
+
+⚠️ **KEY ACTIONS — ACT NOW:**
+- **⚡ Shopify Fall 2026 #429 — DEADLINE MAY 7 2026 (2 DAYS!) — APPLY NOW**
+- Sierra #428 4.5/5 — pending application decision
+- Vapi #420 4.4/5 — pending
+- OpenAI Applied Emerging Talent #409 4.4/5 — pending
+- Palantir FDSE US Gov #431 4.2/5 — pending
+- Cohere Fall/Winter #432 4.1/5 — pending
+- Microsoft AI/ML #433 4.0/5 — pending
+- Palantir FDSE Defense #434 4.0/5 — pending
+- Center for AI Safety #292 deadline May 29
+<!-- === END 2026-05-05 SCAN v295 === -->
+
+<!-- === BEGIN 2026-05-05 SCAN v296 === -->
+<!-- Sources: 11 Greenhouse APIs (Anthropic 7 Fellows all dup; Glean/Airtable/ArizeAI/Vercel/HumeAI/RunPod/Temporal/Intercom/PolyAI/Parloa: all 0 intern or confirmed dup); 30+ WebSearch queries (Ashby/Greenhouse/Lever broad + Haize Labs + Semgrep + Klaviyo + Schonfeld + 1Password + SPLC + Gemini Fall + HN May 2026 thread — ALL confirmed dup v7-v295); SpeedyApply SWE top-20 (NVIDIA JAX/Gemini Fall/CACI/Anduril/Astranis/AeroVironment all dup v7-v295); SpeedyApply AI top-20 (TikTok Trust+Safety/Adobe/Everlaw/MGM/Micron/Oldcastle/Vistra/GE Aerospace/Globalization Partners/Power Factors/AlgaeCal/Raytheon all dup v72-v295); HN May 2026 "Who is Hiring?" thread 47975571 — all senior FTE, 0 intern/new-grad; 5,043 history + 1 new summary entry = 5,044 total -->
+<!-- 0 qualifying >=4.0 | 0 pipeline additions | 0 new reports | Market MAXIMALLY SATURATED at 296 scans -->
+
+⚠️ **KEY ACTIONS — ACT NOW:**
+- **⚡ Shopify Fall 2026 #429 — DEADLINE MAY 7 2026 (2 DAYS!) — APPLY NOW**
+- Sierra #428 4.5/5 — pending application decision
+- Vapi #420 4.4/5 — pending
+- OpenAI Applied Emerging Talent #409 4.4/5 — pending
+- Palantir FDSE US Gov #431 4.2/5 — pending
+- Cohere Fall/Winter #432 4.1/5 — pending
+- Microsoft AI/ML #433 4.0/5 — pending
+- Palantir FDSE Defense #434 4.0/5 — pending
+- Center for AI Safety #292 deadline May 29
+<!-- === END 2026-05-05 SCAN v296 === -->
