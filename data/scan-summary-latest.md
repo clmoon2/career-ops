@@ -1,94 +1,108 @@
-# Portal Scan — 2026-05-05 (v292)
+# Portal Scan — 2026-05-05 (v293)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan #:** v292 (autonomous agent run)
 **Date:** 2026-05-05
+**Scan #:** v293 (autonomous agent)
+**History size:** 5,033 entries (was 5,025)
+
+---
 
 ## Results
 
-| Metric | Value |
+| Metric | Count |
 |--------|-------|
-| Total searches run | 35+ (WebSearch + WebFetch) |
-| Greenhouse APIs checked | 5 (Anthropic, Cloudflare, CrowdStrike, Stripe, Databricks) |
-| Aggregators checked | SimplifyJobs Summer2026 README, SimplifyJobs OffSeason README, SpeedyApply SWE 0-5d, SpeedyApply AI 2-5d, Ouckah Summer2026 |
-| New URLs found | 4 genuine new URLs |
-| Added to pipeline | 0 |
-| Qualifying ≥4.0 | 0 |
+| Queries / boards executed | 45+ |
+| Total new URLs examined | 2 |
+| Skipped (title/score/closed) | 2 |
+| New pipeline additions | 0 |
+| Qualifying (≥4.0) | 0 |
 | New reports written | 0 |
-| History entries before | 5,019 |
-| History entries after | 5,024 (+ scan summary = 5,025 lines) |
 
-## New URLs Found (All Below Threshold)
+---
 
-| URL | Company | Role | Status | Score | Reason Skipped |
-|-----|---------|------|--------|-------|----------------|
-| https://job-boards.greenhouse.io/constantcontact/jobs/7862452 | Constant Contact | Software Engineering Co-op (Remote US, Jun-Dec) | skipped_score | ~3.2/5 | $35/hr below $38/hr floor; Java primary stack gap |
-| https://job-boards.greenhouse.io/astranis/jobs/4619283006 | Astranis | Flight Software Intern (Fall 2026, SF on-site) | skipped_score | ~2.0/5 | C/C++ embedded, $29/hr, Fall timing conflict with TAMU |
-| https://jobs.ashbyhq.com/remedy%20scientific/2e74c46f-cc91-487d-858d-62664f801efc | Remedy Scientific | Software Engineering Intern (Oakland CA) | skipped_score | ~2.5/5 | Environmental remediation domain, est $25-30/hr, on-site only |
-| https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Remote/Applied-AI-Engineering-Intern--m-f-d-_R5033549-1 | GE Aerospace | Applied AI Engineering Intern | skipped_location | N/A | EU posting (Bavaria Germany) — m/f/d designation |
+## Sources Scanned
 
-## Sources Checked (Representative)
+### Level 2 — Greenhouse APIs (5 companies)
+| Company | Result |
+|---------|--------|
+| PolyAI | 24 FTE roles — 0 intern |
+| Parloa | 55+ FTE roles — 0 intern |
+| HumeAI | 7 FTE roles — 0 intern |
+| Intercom | 200+ FTE roles — 0 intern |
+| Vercel | 87 FTE roles — 0 intern |
 
-**Priority 1 — Aggregators (0-1d):**
-- SimplifyJobs Summer2026 README (top 50): Xebia/Compa/Modernizing Med/Nutanix/Nokia — all confirmed dup v287-v291
-- SimplifyJobs NewGrad README: Replit/Zip/Decagon/Benchling/Harvey/Pylon/Meshy/Profound/Sentry — all dup v7-v291
-- Ouckah Summer2026: old issues from 2024, no new 2026 additions indexed
-- SpeedyApply docs: general listing only
+### Level 3 — WebSearch (40+ queries)
+- **SimplifyJobs Summer2026 0d/1d:** Xebia / Compa / ModMed / Nutanix — all dup v287-v292; State Street Cloud QA R-789400 NEW → skipped_score (QA domain, Burlington on-site, Fall semester conflict, est $25-35/hr below floor)
+- **SimplifyJobs New Grad:** Google FDE GenAI / Uber SWE I / Airbnb SWE / Salesforce College Grad / ServiceNow Associate / NVIDIA Compiler / Notion New Grad AI / Twitch SWE I — all confirmed dup v166-v292
+- **Fall 2026 Ashby:** Notion / Zip / Cohere / OpenAI / Sentry / Verkada — all dup v7-v292
+- **Security Greenhouse:** Cloudflare / Gemini / Together AI / Gallup / Rockstar / Obsidian / PDT Partners / Aquatic — all dup v7-v292
+- **Lever broad:** Symmetry / Actian / Anchorage Digital / Belvedere / Voleon / Match Group — all dup v7-v292
+- **ByteDance full board:** Red Team / Inference Infra / Edge Platform / Foundation SW — all dup v19-v292
+- **Snyk R&D Engineering Co-op** (Greenhouse 7715202002) — URL found in WebSearch, 404 on fetch → skipped_closed
+- **DevOps / Platform Greenhouse:** DV Trading / Okta / SingleStore / Bandwidth — all dup v7-v239
+- **Security Ashby:** Delinea / Worldly / Adaptive Security / Socure / Air Space Intelligence — all dup v7-v114
+- **Extern.com still-open guide:** C3.ai / Brex / Atlassian / EarnIn / Stripe / Amazon / NVIDIA — all dup v7-v124
+- **SpeedyApply AI 0-2d:** Stripe PhD / Everlaw / MGM / Micron / Oldcastle / Vistra — all dup v287-v292
+- **Campus Opportunities board:** Withum (accounting firm) — non-target
 
-**Priority 2 — Greenhouse APIs:**
-- Anthropic: 7 Fellows roles — all dup v7-v291
-- Cloudflare: 24 intern roles checked — all dup v9-v191 (no new SWE/security/AI intern)
-- CrowdStrike: 404 (API down)
-- Stripe: only Masters/PhD Data Analyst Toronto — dup
-- Databricks: 0 intern roles
+---
 
-**Priority 3 — Fall/Winter 2026 & New Grad:**
-- Ashby Fall 2026: Notion/Zip/Cohere/Sentry/Mercury/Verkada Backend/HP IQ — all confirmed dup v7-v291
-- Ashby New Grad: all major AI startups fully saturated v7-v291
-- Palantir (Lever): all intern roles — dup v7-v285; Info Security intern ef725594 dup; Meritocracy Fellowship dup
-- Security (Greenhouse): Cloudflare/Together AI/Gallup/Gemini/Lila Sciences/MongoDB — all dup or location-skipped
-- Consulting (Big 4): all application deadlines passed (fall 2025 cycle closed)
+## New URLs Found This Scan
 
-**Priority 4 — Targeted APIs:**
-- Wiz: 404 (API down)
-- Cloudflare: all roles dup
-- CrowdStrike: 404
+| URL | Company | Title | Score | Status |
+|-----|---------|-------|-------|--------|
+| statestreet.wd1.myworkdayjobs.com/.../R-789400 | State Street | Cloud QA Engineer and Performance Intern Jul-Dec 2026 | ~2.5/5 | skipped_score |
+| job-boards.greenhouse.io/snyk/jobs/7715202002 | Snyk | R&D Engineering Co-op | N/A | skipped_closed (404) |
 
-**Priority 5 — New Channels:**
-- LinkedIn: Dropbox dup v96
-- Indeed: general aggregated results only
-- YC/workatastartup: all 10 relevant listings dup v7-v291
-- SpeedyApply SWE 2-5d: Astranis 4619283006 (NEW skipped_score); Remedy Scientific (NEW skipped_score); all others dup
-- SpeedyApply AI: GE Aerospace R5033549 (NEW skipped_location EU); Everlaw/Micron/MGM dup
+---
+
+## Top Matches (≥4.0) — None New This Scan
+
+The following high-score roles remain in pipeline from previous scans:
+
+| # | Company | Role | Score | Status |
+|---|---------|------|-------|--------|
+| #428 | Sierra | Forward Deployed AI Engineer Intern | 4.5/5 | Pending |
+| #420 | Vapi | Software Engineer New Grad | 4.4/5 | Pending |
+| #409 | OpenAI | Applied Emerging Talent (Fall 2026) | 4.4/5 | Pending |
+| #431 | Palantir | Forward Deployed Software Engineer (US Gov) | 4.2/5 | Pending |
+| #431 | Labelbox | Forward Deployed Engineer | 4.0/5 | Pending |
+
+---
 
 ## Market Status
 
-**MAXIMALLY SATURATED at scan v292.** Summer 2026 internship cycle is functionally closed. Most roles opening now are Fall/Winter 2026 or New Grad 2026-start. Nearly every reachable ATS URL has been visited across v7-v292.
+**MARKET MAXIMALLY SATURATED at 293 scans.**
 
-## ⚠️ CRITICAL DEADLINE — ACT NOW
+- Summer 2026 internship cycle: CLOSED
+- Fall 2026 internships: Same roster as v7 (Notion / Zip / Cohere / OpenAI / Sentry / Verkada / Mercury AI)
+- New grad 2026: Same roster, open but all previously evaluated
+- No new qualifying listings found in this scan
 
-**Shopify Fall 2026 #429 — DEADLINE MAY 7 2026 (2 DAYS!)**
-Carlos must apply to Shopify #429 IMMEDIATELY. This is the most urgent action item.
+---
 
-## Priority Action List
+## URGENT Actions
 
-| # | Company | Role | Score | Status | Action |
-|---|---------|------|-------|--------|--------|
-| #429 | Shopify | Data & Engineering Intern Fall 2026 | — | **DEADLINE MAY 7** | **APPLY NOW — 2 DAYS** |
-| #428 | Sierra AI | FDE Intern | 4.5/5 | Evaluated | Apply |
-| #420 | Vapi | Backend Product Engineer (New Grad) | 4.4/5 | Evaluated | Apply |
-| #409 | OpenAI | Applied Emerging Talent | 4.4/5 | Evaluated | Apply |
-| #431 | Palantir | FDSE US Gov | 4.2/5 | Evaluated | Apply |
-| — | Labelbox | Forward Deployed Engineer Intern | 4.0/5 | In pipeline | Evaluate + Apply |
-| — | Sieve | SWE Intern Summer 2026 | ~3.9/5 | In pipeline | Evaluate (verify comp) |
-| — | Cohere | SWE Intern Fall/Winter | ~3.8/5 | In pipeline | Apply when ready |
-| — | Atomic Semi | Infrastructure SWE Intern Fall | ~3.7/5 | In pipeline | Note: Fall timing |
-| — | Verkada | AI SWE Intern Fall 2026 | ~3.5/5 | In pipeline | Note: Fall timing |
+### CRITICAL — Deadline in 2 Days
+- **Shopify Fall 2026 Software Engineer Intern (#429) — DEADLINE MAY 7, 2026**
+  Apply immediately at internships.shopify.com
 
-## Next Scan Recommendations
+### Recommended Applications (High Score, Pending)
+1. **Sierra #428** (4.5/5) — AI customer agent company; FDE Intern; verify eligibility
+2. **Vapi #420** (4.4/5) — Voice AI infra; New Grad SWE; San Francisco
+3. **OpenAI #409** (4.4/5) — Applied Emerging Talent Fall 2026; strong archetype match
+4. **Palantir FDSE US Gov #431** (4.2/5) — FDSE role; NYC/DC; verify clearance req
+5. **Labelbox FDE #431** (4.0/5) — Forward Deployed Engineer; AI data platform
 
-- v293 should focus on **brand new channels** not yet exhausted
-- Check Handshake student portal directly (requires login — not scanned via web)
-- Check Wellfound (AngelList) for AI startup intern listings
-- Monitor Shopify #429 deadline completion after applying
-- Check for any Summer 2026 deadline extensions (rare but possible)
+---
+
+## Recommended Next Actions
+
+1. **Apply to Shopify Fall 2026 #429 IMMEDIATELY** — deadline is May 7 (2 days!)
+2. Run `/career-ops pipeline` to process any remaining pending URLs
+3. Resume application process for Sierra, Vapi, OpenAI, Palantir FDSE
+4. Check back with new scan in 48-72 hours — the Fall 2026 cycle may open new roles from companies not yet posting
+
+---
+
+*Generated by career-ops autonomous scan agent v293 — 2026-05-05*

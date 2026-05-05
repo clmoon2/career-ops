@@ -4603,3 +4603,16 @@ Pending evaluations: Labelbox FDE (~4.0/5), Zapier AppSec (verify level — if e
 - Palantir FDSE US Gov #431 4.2/5 — pending
 - Labelbox FDE #431 4.0/5 — pending
 <!-- === END 2026-05-05 SCAN v292 === -->
+
+<!-- === BEGIN 2026-05-05 SCAN v293 === -->
+<!-- Sources: 5 Greenhouse APIs (PolyAI/Parloa/HumeAI/Intercom/Vercel: all FTE 0 intern); 40+ WebSearch queries (SimplifyJobs Summer2026 0d/1d: all dup v287-v292 + State Street R-789400 NEW skipped_score QA-domain; SimplifyJobs New Grad: all dup v166-v292; Fall 2026 Ashby/Greenhouse/Lever: all dup v7-v292; Security Greenhouse: all dup v7-v292; ByteDance: all dup v19-v292; Snyk 7715202002 skipped_closed 404; DevOps/Security/Consulting: all dup; Extern.com guide: all dup v7-v124); 5,025-entry history + 8 new = 5,033 total -->
+<!-- 0 qualifying >=4.0 | 2 new history entries (State Street R-789400 skipped_score + Snyk 7715202002 skipped_closed) | 0 pipeline additions | 0 new reports -->
+
+⚠️ **KEY ACTIONS — ACT NOW:**
+- **⚡ Shopify Fall 2026 #429 — DEADLINE MAY 7 2026 (2 DAYS!) — APPLY NOW**
+- Sierra #428 4.5/5 — pending application decision
+- Vapi #420 4.4/5 — pending
+- OpenAI Applied Emerging Talent #409 4.4/5 — pending
+- Palantir FDSE US Gov #431 4.2/5 — pending
+- Labelbox FDE #431 4.0/5 — pending
+<!-- === END 2026-05-05 SCAN v293 === -->
