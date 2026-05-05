@@ -4558,3 +4558,19 @@ Pending evaluations: Labelbox FDE (~4.0/5), Zapier AppSec (verify level — if e
 - Palantir FDSE US Gov #431 4.2/5 — pending
 - Labelbox FDE #431 4.0/5 — pending
 <!-- === END 2026-05-05 SCAN v286 === -->
+
+<!-- === BEGIN 2026-05-05 SCAN v290 === -->
+<!-- Sources: 35+ WebSearch queries (defense: Palantir/CrowdStrike/SentinelOne/PaloAltoNetworks/Anduril/ShieldAI; consulting: Deloitte/Accenture; security: Wiz/Obsidian/Cloudflare; fintech: Mercury/Affirm/Ramp; AI/ML: TogetherAI/SnorkelAI/TikTok/NVIDIA; Fall2026: Verkada/Sentry/Notion/Zip/Cohere/OpenAI/CAIS; BigTech: Apple/SpaceX; defense-consulting: BoozAllen/CACI; aggregators: SimplifyJobs Summer2026 README / SpeedyApply SWE README / SpeedyApply AI INTERN_USA 404); 4 Greenhouse APIs (Glean: 0 intern; ArizeAI: 0 intern; Anthropic: all Fellows dup v203-v289; TogetherAI: all FTE 0 intern); Dedup against 5,016-entry history (v7-v289). ALL candidates confirmed in history. 0 genuinely new URLs. Market CONFIRMED MAXIMALLY SATURATED at 290 scans. -->
+<!-- 0 qualifying >=4.0 | 0 new history entries | 0 pipeline additions | 0 new reports -->
+
+⚠️ **KEY ACTIONS — ACT NOW:**
+- **⚡ Shopify Fall 2026 #429 — DEADLINE MAY 7 2026 (2 DAYS!) — APPLY NOW**
+- Sierra #428 4.5/5 — pending application decision
+- Vapi #420 4.4/5 — pending
+- OpenAI Applied Emerging Talent #409 4.4/5 — pending
+- Palantir FDSE US Gov #431 4.2/5 — pending
+- Labelbox FDE #431 4.0/5 — pending
+- Cloudflare Data Analytics Intern #? ~4.0/5 — in pipeline, evaluate before applying
+
+📢 **System update available: v1.1.0 → v1.6.0** — Run `node update-system.mjs apply` to upgrade.
+<!-- === END 2026-05-05 SCAN v290 === -->
