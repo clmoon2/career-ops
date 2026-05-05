@@ -4536,3 +4536,15 @@ Pending evaluations: Labelbox FDE (~4.0/5), Zapier AppSec (verify level — if e
 <!-- 0 qualifying >=4.0 | 5 new history entries | 1 pipeline addition | 0 new reports -->
 - [ ] https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254 | Cohere | Software Engineer Intern (Fall / Winter 2026) — NEW; Python/LLMs/multi-model AI pipeline = Finch exact match; top LLM company; ⚠️ Fall timing conflicts with TAMU semester (Winter 2026 co-op viable Jan-Apr 2027); location likely Toronto or remote; ~3.8/5
 <!-- === END 2026-05-04 SCAN v285 === -->
+
+<!-- === BEGIN 2026-05-05 SCAN v286 === -->
+<!-- Sources: 12 Greenhouse APIs (PolyAI: 24 FTE 0 intern; Parloa: 55+ FTE 0 intern; Intercom: all senior FTE; Figma: 0 SWE intern; Stripe: Masters PhD intern Toronto only skipped_score; HubSpot: empty board; Discord: all senior FTE; Databricks: all FTE; CrowdStrike: 404; Factorial: 404); 3 Lever APIs (Palantir: all dup v7-v285; WandB: 404; Mistral: all FTE Paris); 15+ WebSearch queries (Fall 2026/co-op/new-grad/security/AI/ML/DevOps/forward-deployed/consulting — all confirmed dup v7-v285 except StackAdapt ML Fall 4236607009 Canada-only skipped_location + Esri SDE I new URL ~2.8/5 GIS/StLouis skip); GitHub repos (SimplifyJobs Summer/NewGrad: all dup; SpeedyApply AI: Stripe PhD skip; Ouckah: 404); Company-specific: Cohere 5 intern URLs all dup; Sierra all dup; LangChain/Zapier: no intern; Pinecone: all dup; ElevenLabs: all dup. -->
+<!-- 0 qualifying >=4.0 | 15 new history entries | 0 pipeline additions | 0 new reports -->
+
+⚠️ **KEY ACTIONS FROM PREVIOUS SCANS:**
+- **⚡ Shopify Fall 2026 #429 — DEADLINE MAY 7 2026 (2 DAYS!) — APPLY NOW**
+- Sierra #428 4.5/5 — pending application decision
+- Vapi #420 4.4/5 — pending
+- Palantir FDSE US Gov #431 4.2/5 — pending
+- Labelbox FDE #431 4.0/5 — pending
+<!-- === END 2026-05-05 SCAN v286 === -->
