@@ -1,93 +1,92 @@
-# Portal Scan — 2026-05-05 (v297)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Portal Scan — 2026-05-05 (v298)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan:** v297 (297th autonomous scan)
-**Date:** 2026-05-05
-**Status:** Market MAXIMALLY SATURATED
-
----
-
-## Results
+## Stats
 
 | Metric | Count |
 |--------|-------|
-| Greenhouse APIs checked | 9 |
-| WebSearch queries executed | 25+ |
-| History entries before scan | 5,044 |
-| New entries added | 1 (scan summary) |
-| History entries after scan | 5,045 |
-| Genuinely new URLs (any) | 0 |
+| Greenhouse APIs checked | 8 |
+| WebSearch queries executed | 30+ |
+| Total history before scan | 5,045 |
+| Total history after scan | 5,062 |
+| Genuinely new URLs found | 7 |
+| New qualifying (≥4.0) | 0 |
 | Pipeline additions | 0 |
-| Qualifying ≥ 4.0 | 0 |
 | New reports written | 0 |
-
----
 
 ## Sources Checked
 
-### Greenhouse APIs (Level 2)
-- **Anthropic** — 7 Fellows, all dup v7-v296
-- **Glean** — 161 FTE, 0 intern
-- **Airtable** — 26 FTE, 0 intern
-- **ArizeAI** — 39 FTE, 0 intern
-- **RunPod** — 19 FTE, 0 intern
-- **HumeAI** — 7 FTE, 0 intern
-- **Vercel** — 87 FTE, 0 intern
-- **Temporal** — empty board
-- **Intercom** — 200+ FTE, 0 intern
+**Greenhouse APIs (Level 2):**
+- Anthropic: 7 Fellows — dup v7-v297
+- Airtable: 24 FTE, 0 intern — dup
+- Vercel: 87 FTE, 0 intern — dup
+- ArizeAI: all FTE, 0 intern — dup
+- Glean: CA Industrial Trainee (Bangalore only), 0 US intern — dup
+- Temporal: 0 jobs (empty board) — dup
+- RunPod: 19 FTE, 0 intern — dup
+- HumeAI: 7 FTE, 0 intern — dup
 
-### WebSearch Discovery (Level 3)
-- **Ashby broad** (Notion/Zip/Cohere/OpenAI/Sentry/Replit/Fizz/Delinea/Junior AI/Kognitos/Farsight) — all dup v7-v296
-- **Lever broad** (Symmetry/Nominal/Artera/ShieldAI/SoloPulse/BestEgg/Rigetti/Voleon/Palantir) — all dup v7-v296
-- **Greenhouse broad** (Sigma/Cloudflare/Veeam/Lucid/Mercury/Airtable/Loop/Aquatic/PDT/Affirm/Klaviyo/Freeform/Glean) — all dup v7-v296
-- **Security companies** (CrowdStrike/Palo Alto Networks/SentinelOne/Datadog) — confirmed no active SWE intern listings, dup v7-v296
-- **Big Tech** (Google/Microsoft/Amazon) — all dup v7-v296
-- **Cloud security** (Wiz/Zscaler/Rubrik/Cohesity/F5) — no active intern on Greenhouse/Lever ATS
+**WebSearch (Level 3):**
+- Ashby SWE+Security+AI Summer/Fall 2026: all dup v7-v297
+- Greenhouse SWE+Security+AI+NewGrad: all dup v7-v297
+- Lever intern+new-grad 2026: all dup v7-v297
+- SpeedyApply SWE top-80: NVIDIA/CACI/Gemini Fall/Motorola/Snorkel all dup v287-v297
+- SpeedyApply AI top-30: TikTok/Adobe/Airbnb/Roblox all dup v205-v297
+- GitHub SimplifyJobs/SpeedyApply/jobright: all dup
+- Consulting (FTI/West Monroe/Protiviti/Guidehouse/CRA): all dup or closed
+- Security (Cloudflare/Gemini/TogetherAI/Tevora): all dup v7-v297
+- BigTech/FAANG: all dup v7-v297
+- HN "Who is Hiring?" May 2026 (47975571): dup v296
 
----
+## New Discoveries
 
-## Market Assessment
+### Lucid Software — 7 New URLs (all below threshold)
 
-**Summer 2026 cycle: CLOSED.** All major ATS portals (Ashby, Greenhouse, Lever) fully saturated after 297 scans. No new SWE/Security/AI internship listings found in this scan or the preceding 5 scans today.
+**Lucid Software** (Lucidchart, LucidSpark — visual collaboration platform, ~$1B valuation) was not previously in the scan history. All internship roles are based in Salt Lake City, UT (on-site only) with comp estimated at $23-34/hr — below the target floor.
 
-**Fall 2026 cycle: LIMITED.** A small set of open Fall 2026 positions exist in the pipeline. Best options already evaluated. Verify TAMU semester co-op eligibility before applying.
+| URL | Title | Status | Est. Score |
+|-----|-------|--------|-----------|
+| https://job-boards.greenhouse.io/lucidsoftware/jobs/5596689004 | Software Engineer Internship - Summer 2026 | skipped_score | ~3.0/5 |
+| https://job-boards.greenhouse.io/lucidsoftware/jobs/5596677004 | Software Engineer Internship - Summer 2026 (2nd posting) | skipped_score | ~3.0/5 |
+| https://job-boards.greenhouse.io/lucidsoftware/jobs/5585768004 | Software Engineer (2026) - New Grad FTE | skipped_score | ~3.0/5 |
+| https://job-boards.greenhouse.io/lucidsoftware/jobs/5789217004 | QA Internship | skipped_title | n/a |
+| https://job-boards.greenhouse.io/lucidsoftware/jobs/5632618004 | UX Design Internship 2026 | skipped_title | n/a |
+| https://job-boards.greenhouse.io/lucidsoftware/jobs/5642784004 | Data Analyst Internship 2026 | skipped_title | n/a |
+| https://job-boards.greenhouse.io/lucidsoftware/jobs/5751217004 | Sales Engineer Intern - Summer 2026 | skipped_title | n/a |
 
-**Summer 2027 cycle:** Not yet open. Expected to begin Aug-Sep 2026 (FAANG+) and Oct-Nov 2026 (startups).
+**Why skipped:** Salt Lake City UT on-site (relocation from College Station TX), compensation estimated at $23-34/hr (below $40/hr floor), collaboration tooling domain (not AI/security primary target). Tech match is strong (React, TypeScript, web apps) but other factors drag score to ~3.0/5.
 
----
+### FTI Consulting 21679 (skipped_closed)
+New job ID for FTI Technology intern program — same program as 20954 (closed v52). Application window was January 12 – February 4, 2026. Confirmed closed.
 
-## Top Matches Already in Pipeline (action needed)
+## Market Status
 
-| # | Company | Role | Score | Notes |
-|---|---------|------|-------|-------|
-| 429 | Shopify | Fall 2026 SWE Intern | ~4.3/5 | ⚡ **DEADLINE MAY 7 (2 DAYS!) — APPLY NOW** |
-| 428 | Sierra | Intern Agent Development | 4.5/5 | Pending decision |
-| 420 | Vapi | Backend Product Engineer (New Grad) | 4.4/5 | Pending decision |
-| 409 | OpenAI | Applied Emerging Talent (Fall 2026) | 4.4/5 | Pending decision |
-| 431 | Palantir | FDSE US Gov Intern | 4.2/5 | Pending decision |
-| 432 | Cohere | SWE Intern Fall/Winter | 4.1/5 | Pending decision |
-| 433 | Microsoft | AI/ML Intern (Redmond) | 4.0/5 | Pending decision |
-| 434 | Palantir | FDSE Defense Tech Intern | 4.0/5 | Pending decision |
-| 292 | Center for AI Safety | Research Engineer Intern (Fall 2026) | ~4.0/5 | Deadline May 29 |
+**MAXIMALLY SATURATED** at 298 scans across 5,062 history entries.
 
----
+- **Summer 2026:** Confirmed CLOSED across all major ATS platforms
+- **Fall 2026:** Very limited — Cohere, NVIDIA JAX, Verkada, Notion, OpenAI in pipeline
+- **New Grad 2026:** Mostly closed or filled
+
+## Top Pending Actions (from existing pipeline)
+
+| Priority | Offer | Score | Deadline |
+|----------|-------|-------|----------|
+| URGENT | Shopify Fall 2026 #429 | evaluated | **MAY 7 2026 — 2 DAYS** |
+| 1 | Sierra AI FDE #428 | 4.5/5 | verify deadline |
+| 2 | Vapi Forward Deployed #420 | 4.4/5 | open |
+| 3 | OpenAI Applied Emerging Talent Fall #409 | 4.4/5 | open |
+| 4 | Palantir FDSE US Gov #431 | 4.2/5 | open |
+| 5 | Cohere Fall/Winter SWE #432 | 4.1/5 | open |
+| 6 | Microsoft AI/ML Intern #433 | 4.0/5 | rolling |
+| 7 | Palantir FDSE Defense #434 | 4.0/5 | open |
+| 8 | Center for AI Safety Fellowship #292 | — | May 29 |
 
 ## Recommended Next Actions
 
-1. **🚨 URGENT:** Apply to Shopify Fall 2026 (#429) — deadline is **MAY 7, 2026** (48 hours!)
-2. Apply to Sierra (#428, 4.5/5) if not already done
-3. Apply to Vapi (#420, 4.4/5) if not already done
-4. Apply to OpenAI (#409, 4.4/5) if not already done
-5. Apply to Palantir FDSE US Gov (#431, 4.2/5) if not already done
-6. Apply to Cohere Fall/Winter (#432, 4.1/5)
-7. Apply to Center for AI Safety (#292) before May 29 deadline
-8. **Pause scanning:** Market is saturated. Resume in 7-10 days or when Summer 2027 cycle opens (Aug-Sep 2026).
+1. **APPLY TO SHOPIFY #429 TODAY** — deadline May 7 (2 days). Most urgent action.
+2. Evaluate Sierra #428 graduation eligibility (TAMU Dec 2026/May 2027 timing)
+3. Apply to Vapi #420 — strong FDE match, no deadline listed
+4. Run `/career-ops pipeline` to process any remaining pending URLs
+5. Consider pausing scanning until June 2026 when Fall 2026 new postings begin in earnest
 
----
-
-## Notes
-
-- 5,045 unique URLs now tracked in scan-history.tsv (297 scans since April 5, 2026).
-- All major portals exhausted: Ashby, Greenhouse, Lever, Workday, SimplifyJobs, SpeedyApply, HN.
-- v296 scan already completed by a previous agent session earlier today; v297 is this run.
-- **Next recommended scan:** Aug-Sep 2026 when Summer 2027 cycle opens, or in 7-10 days as a spot check.
+→ Next scan recommended: **June 2026** (new Fall 2026 cycle openings expected)
