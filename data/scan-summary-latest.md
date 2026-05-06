@@ -1,94 +1,85 @@
-# Portal Scan — 2026-05-06 (v299)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Portal Scan — 2026-05-06 (v300)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Status:** Market MAXIMALLY SATURATED — 299 total scans, 5,063 history entries  
-**Summer 2026 cycle:** CLOSED  
-**Fall 2026 cycle:** Open — limited options remain
-
----
-
-## Scan Coverage
-
-**Greenhouse APIs checked (6):**
-- Anthropic: 200+ FTE roles, 7 Fellows — all dup v7-v298, 0 new intern
-- Glean: 161 FTE — 0 intern
-- Airtable: 25 FTE — 0 intern
-- Vercel: 86 FTE — 0 intern
-- RunPod: 19 FTE — 0 intern
-- HumeAI: 7 FTE — 0 intern
-
-**WebSearch queries run (25+):**
-- Ashby Summer+Fall 2026 broad (Notion/Zip/Cohere/Sentry/Replit/Farsight/Zettabyte/Whatnot/Ramp) — all dup v7-v298
-- Greenhouse Fall 2026 intern (Verkada/Mercury/HP-IQ/Cloudflare) — all dup v7-v298
-- Lever Summer+Fall 2026 (Symmetry/CAIS/Hermeus/Nominal/Voleon/ShieldAI/BestEgg/Artera) — all dup v7-v298
-- Security/cybersecurity (Schonfeld/TogetherAI/DarkWolf/Rockstar/Gemini/Guardian Life/Marshall Wace) — all dup v7-v298
-- Consulting/analyst (84.51/GCM Grosvenor/PDT Partners/xAI/Bessemer) — all dup v7-v298
-- New grad roles (Loop/Airtable/Replit/Notion/Scale/SmithRx/Kikoff) — all dup v5-v298
-- SimplifyJobs Off-Season (Diligent/Geotab Canada skip; Uber Fall dup v223)
-
-**Specific URLs verified:**
-- BitGo Winter 2026 8141280002 → 404 closed
-- Cloudflare Austin 7206269 → 404 closed/redirect
-- Cloudflare London 7296923 → dup v9 (London, skipped_location)
-- ALSO/Ridealso 46fc8eaf → dup v10
-- Dark Wolf 7666354003 → dup v7
-- Rockstar SecOps/AppSec → dup v7/v10
-- Palantir Year@/Production/Infrastructure → all dup v7-v94
-- Cohere Winter 1bc2c535 → dup v7
-- Notion Winter fc762b58 → dup v9
-- SpaceX Fall 8403219002 → dup v34
-- BitGo InfraOps 8151366002 → dup v7
-
----
+**Scan number:** v300 (milestone scan)
+**Date:** 2026-05-06
+**Agent:** Autonomous scanner
 
 ## Results
 
 | Metric | Count |
 |--------|-------|
-| Queries executed | 35+ |
-| URLs examined | 50+ |
-| Genuinely new URLs | 0 |
-| Filtered by title | 0 |
-| Duplicates (already in history) | 50+ |
-| New added to pipeline.md | 0 |
-| Reports written (>=4.0) | 0 |
+| Greenhouse APIs checked | 6 |
+| WebSearch queries executed | 30+ |
+| Companies covered (total) | 25+ |
+| Total scan history entries | 5,068 |
+| Genuinely new URLs found | 4 |
+| Qualifying ≥4.0 | 0 |
+| Pipeline additions | 0 |
+| New evaluation reports | 0 |
 
----
+## Sources Checked
 
-## CRITICAL DEADLINE — ACT NOW
+**Greenhouse APIs (Level 2):**
+- Anthropic: 7 Fellows (all dup v7-v299)
+- Glean: 161 FTE, 0 intern (dup)
+- Vercel: 86 FTE, 0 intern (dup)
+- ArizeAI: all FTE, 0 intern (dup)
+- Airtable: 25 FTE, 0 intern (dup)
+- RunPod: 19 FTE, 0 intern (dup)
 
-**Shopify Fall 2026 #429 — DEADLINE MAY 7, 2026 (TOMORROW)**
-Apply immediately. This is the highest-urgency action item.
+**WebSearch queries (Level 3):**
+- Ashby SWE/Security/AI Fall2026 + New Grad: Notion/Zip/Cohere/Sentry/OpenAI/Replit/Harvey/Benchling/Decagon/Kikoff — all dup v7-v299
+- Greenhouse Fall2026: Verkada/Mercury/HP-IQ/SpaceX/StackAdapt/Kodiak — all dup v7-v299
+- Lever Fall2026: Hermeus/ShieldAI/Nominal/Voleon/Symmetry — all dup v7-v299
+- Security sweeps: Cloudflare/Gemini/Figma PhD/SPLC — all dup v7-v299
+- Consulting: CRA/Point72/GuidePoint — all dup v7-v299
+- SimplifyJobs Summer2026 0d entries — 4 genuinely new (all skipped_score)
+- SpeedyApply SWE/AI READMEs — all dup v287-v299
 
----
+## New URLs Found (4 total — all below threshold)
 
-## Active Top Matches (from pipeline — apply in priority order)
+| Company | Role | Score | Reason Skipped |
+|---------|------|-------|----------------|
+| Blackbird Labs | Engineering Intern (NYC) | ~2.5/5 | Blockchain/crypto domain; negative filter |
+| Acxiom | AI & Agentic Solutions Intern (NYC) | ~2.8/5 | Traditional data company; Summer 2026 imminent start |
+| Integral Ad Science | Software Engineer Intern (SF) | ~2.5/5 | Ad tech domain mismatch |
+| Accel Learning | AI Engineer Intern (Union City, NJ) | ~2.5/5 | Small EdTech; NJ non-hub; unknown comp |
 
-| # | Company | Role | Score | Action |
+## Top Matches (score ≥4.0) — None New
+
+No new listings scored ≥4.0. Existing top matches from pipeline:
+
+| # | Company | Role | Score | Status |
 |---|---------|------|-------|--------|
-| #429 | Shopify | Software Engineering Intern (Fall 2026) | 4.3/5 | APPLY — DEADLINE TOMORROW |
-| #428 | Sierra | Forward Deployed Engineer Intern | 4.5/5 | Apply ASAP |
-| #420 | Vapi | Backend Product Engineer (New Grad) | 4.4/5 | Apply ASAP |
-| #409 | OpenAI | Applied Emerging Talent SWE Intern (Fall 2026) | 4.4/5 | Apply ASAP |
-| #431 | Palantir | FDSE Intern – US Government | 4.2/5 | Apply ASAP |
-| #432 | Cohere | SWE Intern – Fall/Winter 2026 | 4.1/5 | Apply |
-| #433 | Microsoft | AI/ML Intern – Redmond | 4.0/5 | Apply |
-| #434 | Palantir | FDSE Intern – Defense Tech | 4.0/5 | Apply |
-| #292 | Center for AI Safety | Research Engineer Intern (Fall 2026) | ~3.9/5 | Deadline May 29 |
+| #429 | Shopify | Software Engineer Intern (Fall 2026) | 4.3/5 | ⚡ APPLY BY MAY 7 (TOMORROW!) |
+| #428 | Sierra | Intern, Agent Development (Summer 2026) | 4.5/5 | Pending — verify graduation |
+| #420 | Vapi | Forward Deployed Eng Intern (Summer 2026) | 4.4/5 | Pending |
+| #409 | OpenAI | Applied Emerging Talent SWE (Fall 2026) | 4.4/5 | Pending |
+| #431 | Palantir | FDSE Intern US Gov (Summer 2026) | 4.2/5 | Pending |
+| #432 | Cohere | SWE Intern Fall/Winter 2026 | 4.1/5 | Pending |
+| #433 | Microsoft | AI/ML Engineering Intern (Fall 2026) | 4.0/5 | Pending |
+| #434 | Palantir | FDSE Intern Defense (Summer 2026) | 4.0/5 | Pending |
+| #292 | CAIS | Research Intern (May 29 deadline) | 4.0/5 | Pending — deadline May 29 |
+
+## Market Status
+
+**CONFIRMED MAXIMALLY SATURATED at 300 scans.** Summer 2026 cycle is closed. Fall 2026 options are limited and constrained by TAMU fall semester. The only new listings appearing are from non-target domains (blockchain, ad tech, EdTech, traditional enterprise data).
+
+**Summer 2026:** Closed. Applications from May or later are unlikely to be considered for a May/June start.
+
+**Fall 2026 (Aug-Dec):** Constrained by TAMU fall semester. Carlos must decide on co-op/gap semester to pursue Verkada (#425 AI SWE $55-65/hr), OpenAI (#409), Microsoft (#433), or Shopify (#429) before applying.
+
+**New Grad FTE:** Strong pipeline (Sierra/Harvey/Loop/Notion AI/etc.) for post-graduation start.
+
+## Recommended Next Actions
+
+1. **⚡ IMMEDIATE (DEADLINE TOMORROW MAY 7):** Apply to Shopify Fall 2026 #429 at internships.shopify.com
+2. **THIS WEEK:** Apply to Sierra #428 (verify TAMU graduation date first — must graduate Dec 2026 or Jun 2027)
+3. **THIS WEEK:** Apply to Vapi #420 (no graduation constraint found)
+4. **THIS WEEK:** Apply to OpenAI Applied Emerging Talent #409 (Fall 2026 — verify TAMU co-op option)
+5. **BEFORE MAY 29:** Apply to Center for AI Safety #292 (research intern)
+6. **STRATEGIC:** Decide on Fall 2026 semester plan with TAMU before May 15 to unlock Palantir/Verkada/Microsoft/Cohere applications
 
 ---
-
-## Market Assessment
-
-The Summer 2026 internship cycle is definitively closed. The Fall 2026 cycle has a limited set of high-fit opportunities — all have been identified and evaluated in prior scans. The pipeline above represents the full addressable market for Carlos's profile.
-
-**Recommended next actions:**
-1. Apply to Shopify #429 TODAY (deadline tomorrow May 7)
-2. Submit applications to Sierra, Vapi, OpenAI, Palantir FDSE (all 4.0+)
-3. Submit application to Center for AI Safety before May 29 deadline
-4. Wait for Fall 2026 / Winter 2027 new cycle to open (expected September-October 2026)
-
----
-
-*Scan v299 — 2026-05-06 — autonomous agent*
-*History: 5,063 entries | Scans: 299 total*
+*Next scan recommended: May 9-10 2026 (3 days). Market is maximally saturated — daily scanning yields diminishing returns. Suggest focus on applications over more scanning.*

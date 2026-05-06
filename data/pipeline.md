@@ -1,4 +1,19 @@
 # Pipeline -- Pending URLs
+<!-- === BEGIN 2026-05-06 SCAN v300 === -->
+<!-- Sources: 6 Greenhouse APIs (Anthropic: 7 Fellows all dup v7-v299; Glean: 161 FTE 0 intern; Vercel: 86 FTE 0 intern; ArizeAI: all FTE 0 intern; Airtable: 25 FTE 0 intern; RunPod: 19 FTE 0 intern); 30+ WebSearch queries (Ashby/Greenhouse/Lever SWE+Security+AI+Backend+NewGrad+consulting Fall2026+Summer2026 — all confirmed dup v7-v299; SimplifyJobs Summer2026 0d: Blackbird Labs/Acxiom/IAS/Accel Learning GENUINELY NEW all skipped_score domain-mismatch). Dedup against 5,063-entry history (post v299). -->
+<!-- 0 qualifying >=4.0 | 4 genuinely new URLs (all skipped_score) | 0 pipeline additions | 0 new reports -->
+<!-- === END 2026-05-06 SCAN v300 === -->
+
+⚠️ **KEY ACTIONS — ACT NOW:**
+- **⚡ Shopify Fall 2026 #429 — DEADLINE MAY 7 2026 (TOMORROW!) — APPLY NOW**
+- Sierra #428 4.5/5 — pending application decision
+- Vapi #420 4.4/5 — pending
+- OpenAI Applied Emerging Talent #409 4.4/5 — pending
+- Palantir FDSE US Gov #431 4.2/5 — pending
+- Cohere Fall/Winter #432 4.1/5 — pending
+- Microsoft AI/ML #433 4.0/5 — pending
+- Palantir FDSE Defense #434 4.0/5 — pending
+- Center for AI Safety #292 deadline May 29
 <!-- === BEGIN 2026-05-05 SCAN v298 === -->
 <!-- Sources: 8 Greenhouse APIs (Anthropic: 7 Fellows all dup v7-v297; Airtable: 24 FTE 0 intern; Vercel: 87 FTE 0 intern; ArizeAI: all FTE 0 intern; Glean: 0 US intern; Temporal: 0 jobs; RunPod: 19 FTE 0 intern; HumeAI: 7 FTE 0 intern); 30+ WebSearch queries (Ashby/Greenhouse/Lever SWE+Security+AI+ML+DevOps+NewGrad+consulting intern 2026 — all confirmed dup v7-v297; SpeedyApply SWE/AI top-80/30: NVIDIA/CACI/Gemini Fall/Motorola/Snorkel/TikTok all dup v287-v297; GitHub SimplifyJobs/SpeedyApply all dup; consulting: FTI 21679 new URL skipped_closed; Lucid Software: 7 genuinely new URLs — SWE Intern 5596689004 ~3.0/5 + New Grad 5585768004 ~3.0/5 SLC UT location/comp below threshold; QA/UX/Analytics/Sales intern skipped_title). Dedup against 5,045-entry history (post v297). -->
 <!-- 0 qualifying >=4.0 | 17 new history entries | 0 pipeline additions | 0 new reports -->
