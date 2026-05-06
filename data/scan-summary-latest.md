@@ -1,81 +1,101 @@
-# Portal Scan — 2026-05-06 (v301)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Portal Scan — 2026-05-06 (v302)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan number:** v301
+**Scan:** v302 (autonomous agent)
 **Date:** 2026-05-06
-**Total history entries:** 5,073 (was 5,068)
+**History entries before:** 5,073 → **after:** 5,092
 
 ---
 
-## Sources Scanned
+## Sources Checked
 
 | Source | Result |
 |--------|--------|
-| Greenhouse API — Anthropic | 7 Fellows all dup v7-v300 |
-| Greenhouse API — Glean | 161 FTE, 0 intern |
-| Greenhouse API — Vercel | 86 FTE, 0 intern |
-| Greenhouse API — Temporal | Empty board |
-| Greenhouse API — XPeng Motors | 2 GENUINELY NEW intern roles |
-| SpeedyApply SWE (0d) | Volaris NEW; rest dup/defense |
-| SpeedyApply AI (0d) | Leidos R-00182332 NEW; rest non-target |
-| SimplifyJobs Summer2026 (0d) | All dup v287-v300 |
-| SimplifyJobs New Grad (0d) | All dup or non-US |
-| Ashby broad (all portals.yml companies) | All dup v7-v300 |
-| Lever broad (all portals.yml companies) | All dup v7-v300 |
-| Greenhouse broad | All dup v7-v300 |
-| Security intern search | All dup |
-| Fall 2026 specific search | All dup |
+| Greenhouse API — Anthropic | 7 Fellows all dup v7-v301; 0 new |
+| Greenhouse API — PolyAI | 23 FTE, 0 intern; all dup v296-v301 |
+| Greenhouse API — Intercom | 200+ FTE, 0 intern; all dup v293-v301 |
+| Greenhouse API — Parloa | 55+ FTE, 0 intern; all dup v293-v301 |
+| Ashby — Summer/Fall 2026 + New Grad | All confirmed dup v7-v301 (30+ companies) |
+| Greenhouse — Summer/Fall/Security 2026 | All confirmed dup v7-v301 |
+| Lever — broad + Mistral AI board | All dup v7-v301; Mistral Paris-only EMEA |
+| Y Combinator / workatastartup | All dup v30-v301 |
+| SpeedyApply SWE top-30 (0-7d) | All dup v235-v301 or domain filter |
+| SpeedyApply AI top-20 (0-7d) | All PhD-req/defense/dup |
+| SimplifyJobs Summer2026 0d (19 entries) | 1 genuinely new (Leidos, skipped) |
+| Salesforce careers | All dup v7-v301 |
+| Twilio SWE Intern 7850821 | Dup v182; deadline May 10 |
+| Security Fall 2026 search | All dup v7-v301 |
+
+**Total queries:** 30+
 
 ---
 
-## New Listings Found
+## Results
 
-| Company | Role | Score | Decision |
-|---------|------|-------|----------|
-| XPeng Motors | AI Intern – VLA Deployment | ~2.5/5 | skipped — C++/PyTorch/robotics, AV domain mismatch |
-| XPeng Motors | AI Intern – Scenario Analysis | ~3.2/5 | skipped — on-site Santa Clara + AV domain mismatch |
-| Volaris Group | AI Software Enablement Intern | ~2.5/5 | skipped — PE holding co, not AI-native, no comp listed |
-| Leidos | AI Data Science Intern (R-00182332) | ~2.3/5 | skipped — Secret clearance + defense + on-site Orlando |
-
-**Total new URLs found:** 4
-**Passed title filter:** 4
-**Duplicates from history:** 0 (all genuinely new)
-**Skipped (score < 4.0):** 4
-**Added to pipeline.md:** 0
-**Reports written (score ≥ 4.0):** 0
+| Metric | Count |
+|--------|-------|
+| Portals/sources scanned | 14 sources, 30+ queries |
+| URLs checked | ~100 |
+| Genuinely new URLs found | 1 |
+| New URLs qualifying >=4.0 | **0** |
+| New pipeline additions | **0** |
+| New evaluation reports | **0** |
 
 ---
 
-## Top Matches This Scan
+## New URLs Found
 
-**None ≥ 4.0.** Market is MAXIMALLY SATURATED at 301 scans.
-
----
-
-## Market Assessment
-
-Summer 2026 intern cycle is **CLOSED**. The vast majority of SWE/AI/Security intern roles that will be offered have already appeared across 301 scans since early April 2026. The intern market is now operating in a long tail of niche, non-target postings (defense clearance, non-US, domain-mismatch companies).
-
-**Fall 2026** options remain limited due to TAMU semester constraints (Aug–Dec 2026). Pending pipeline already covers the strongest known Fall options.
+| Company | Role | URL | Score | Disposition |
+|---------|------|-----|-------|-------------|
+| Leidos | Full Stack Development Intern | [R-00182542](https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Full-Stack-Development-Intern_R-00182542) | ~2.2/5 | skipped_score (on-site Orlando + defense domain + clearance-adjacent) |
 
 ---
 
-## ⚠️ Critical Actions (Ranked by Urgency)
+## Market Status
 
-1. **🔥 Shopify Fall 2026 (#429) — DEADLINE MAY 7 2026 (TOMORROW)** — Apply immediately at internships.shopify.com. This is the most urgent pending action in the entire pipeline.
-2. **Sierra (#428, 4.5/5)** — Pending application decision. Best overall fit in pipeline.
-3. **Vapi (#420, 4.4/5)** — Pending
-4. **OpenAI Applied Emerging Talent (#409, 4.4/5)** — Pending
-5. **Palantir FDSE US Gov (#431, 4.2/5)** — Pending
-6. **Cohere Fall/Winter (#432, 4.1/5)** — Pending
-7. **Microsoft AI/ML (#433, 4.0/5)** — Pending
-8. **Palantir FDSE Defense (#434, 4.0/5)** — Pending
-9. **Center for AI Safety (#292)** — Deadline May 29, 2026
+**CONFIRMED MAXIMALLY SATURATED — Scan v302**
+
+Summer 2026 cycle is effectively closed. The market for US SWE/Security/AI internships has been exhaustively scanned across 302 runs since April 2026. No new qualifying listings appeared in this scan.
 
 ---
 
-## Next Actions
+## CRITICAL DEADLINES (ACT NOW)
 
-- **No new evaluations needed.** All 4 new URLs scored below threshold.
-- **Focus:** Apply to the pending high-score listings above — especially Shopify (tomorrow deadline).
-- **Next scan:** In 24–48 hours. Fall 2026 companies (Notion, Stripe, Databricks, Airbnb, etc.) will begin opening new cycles in May–June 2026. Monitor closely.
+| Priority | Item | Score | Deadline | Action |
+|----------|------|-------|----------|--------|
+| 1 | **Shopify Fall 2026** (#429) | — | **MAY 7 2026 — TOMORROW** | **APPLY IMMEDIATELY** |
+| 2 | Twilio SWE Intern | ~3.5/5 | May 10, 2026 (4 days) | Below threshold but remote; consider |
+| 3 | Center for AI Safety (#292) | 4.0+ | May 29, 2026 | Apply if not done |
+
+---
+
+## Top Open Applications (Score >= 4.0)
+
+| # | Company | Role | Score | Status |
+|---|---------|------|-------|--------|
+| #428 | Sierra | Forward Deployed | 4.5/5 | In pipeline — verify eligibility |
+| #420 | Vapi | (role TBD) | 4.4/5 | In pipeline |
+| #409 | OpenAI | Fall 2026 Intern | 4.4/5 | In pipeline |
+| #431 | Palantir | FDSE US Gov | 4.2/5 | In pipeline |
+| #432 | Cohere | Fall/Winter 2026 | 4.1/5 | In pipeline |
+| #433 | Microsoft | AI/ML Intern | 4.0/5 | In pipeline |
+| #434 | Palantir | FDSE Defense | 4.0/5 | In pipeline |
+| #292 | Center for AI Safety | (research) | 4.0+ | Deadline May 29 |
+
+---
+
+## Recommended Next Actions
+
+1. **Apply to Shopify Fall 2026 (#429) TODAY** — deadline is tomorrow (May 7)
+2. **Decide on Twilio** (deadline May 10, ~3.5/5, remote-US) — below threshold but worth a quick look
+3. **Apply to top-scored open items** in order: Sierra (#428) -> Vapi (#420) -> OpenAI Fall (#409) -> Palantir US Gov (#431)
+4. **Center for AI Safety** deadline May 29 — submit before then
+5. **Next scan:** Resume in 5-7 days to catch any new Fall 2026 postings
+
+---
+
+## Scan Notes
+
+The Summer 2026 intern market is exhausted. Fall 2026 has a very limited set of open roles (OpenAI, Notion, Sentry, Zip, Cohere, Verkada — all already in pipeline). The next meaningful wave of new postings will likely be Fall 2026 roles opening in late May/June 2026 for August start dates, or Winter 2026/Spring 2027 roles in Q3 2026.
+
+-> Execute /career-ops pipeline to evaluate any pending items in data/pipeline.md.
