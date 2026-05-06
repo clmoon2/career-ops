@@ -4691,3 +4691,19 @@ Pending evaluations: Labelbox FDE (~4.0/5), Zapier AppSec (verify level — if e
 - Palantir FDSE Defense #434 4.0/5 — pending
 - Center for AI Safety #292 deadline May 29
 <!-- === END 2026-05-05 SCAN v296 === -->
+
+<!-- === BEGIN 2026-05-06 SCAN v301 === -->
+<!-- Sources: 5 Greenhouse APIs (Anthropic: 7 Fellows all dup v7-v300; Glean: 161 FTE 0 intern; Vercel: 86 FTE 0 intern; Temporal: empty board; XPeng Motors: 3 intern roles — VLA Deployment 8535409002 + Scenario Analysis 8535406002 GENUINELY NEW; Research Scientist 8329810002 not checked); SpeedyApply SWE 0d (Compa dup v287; Ball Aerospace defense; Volaris Group AI Enablement GENUINELY NEW; Uber Fall 159161 dup v223; NVIDIA JR2017181 dup v248); SpeedyApply AI 0d (Leidos R-00182332 GENUINELY NEW; CMU academic; HERE Germany; Intact Canada; Metova Federal clearance; Wellpath healthcare); SimplifyJobs Summer2026 0d (all dup v287-v300); SimplifyJobs New Grad 0d (dup or non-US); Ashby broad (all dup v7-v300); Lever broad (all dup v7-v300); Greenhouse broad (all dup v7-v300); Security (all dup); 5,068 history + 5 new = 5,073 total -->
+<!-- 0 qualifying >=4.0 | 4 genuinely new URLs (all skipped_score) | 0 pipeline additions | 0 new reports -->
+
+⚠️ **KEY ACTIONS — ACT NOW:**
+- **⚡ Shopify Fall 2026 #429 — DEADLINE MAY 7 2026 (TOMORROW — APPLY NOW!)**
+- Sierra #428 4.5/5 — pending application decision
+- Vapi #420 4.4/5 — pending
+- OpenAI Applied Emerging Talent #409 4.4/5 — pending
+- Palantir FDSE US Gov #431 4.2/5 — pending
+- Cohere Fall/Winter #432 4.1/5 — pending
+- Microsoft AI/ML #433 4.0/5 — pending
+- Palantir FDSE Defense #434 4.0/5 — pending
+- Center for AI Safety #292 deadline May 29
+<!-- === END 2026-05-06 SCAN v301 === -->

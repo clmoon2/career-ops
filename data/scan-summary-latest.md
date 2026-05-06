@@ -1,85 +1,81 @@
-# Portal Scan — 2026-05-06 (v300)
+# Portal Scan — 2026-05-06 (v301)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Scan number:** v300 (milestone scan)
+**Scan number:** v301
 **Date:** 2026-05-06
-**Agent:** Autonomous scanner
-
-## Results
-
-| Metric | Count |
-|--------|-------|
-| Greenhouse APIs checked | 6 |
-| WebSearch queries executed | 30+ |
-| Companies covered (total) | 25+ |
-| Total scan history entries | 5,068 |
-| Genuinely new URLs found | 4 |
-| Qualifying ≥4.0 | 0 |
-| Pipeline additions | 0 |
-| New evaluation reports | 0 |
-
-## Sources Checked
-
-**Greenhouse APIs (Level 2):**
-- Anthropic: 7 Fellows (all dup v7-v299)
-- Glean: 161 FTE, 0 intern (dup)
-- Vercel: 86 FTE, 0 intern (dup)
-- ArizeAI: all FTE, 0 intern (dup)
-- Airtable: 25 FTE, 0 intern (dup)
-- RunPod: 19 FTE, 0 intern (dup)
-
-**WebSearch queries (Level 3):**
-- Ashby SWE/Security/AI Fall2026 + New Grad: Notion/Zip/Cohere/Sentry/OpenAI/Replit/Harvey/Benchling/Decagon/Kikoff — all dup v7-v299
-- Greenhouse Fall2026: Verkada/Mercury/HP-IQ/SpaceX/StackAdapt/Kodiak — all dup v7-v299
-- Lever Fall2026: Hermeus/ShieldAI/Nominal/Voleon/Symmetry — all dup v7-v299
-- Security sweeps: Cloudflare/Gemini/Figma PhD/SPLC — all dup v7-v299
-- Consulting: CRA/Point72/GuidePoint — all dup v7-v299
-- SimplifyJobs Summer2026 0d entries — 4 genuinely new (all skipped_score)
-- SpeedyApply SWE/AI READMEs — all dup v287-v299
-
-## New URLs Found (4 total — all below threshold)
-
-| Company | Role | Score | Reason Skipped |
-|---------|------|-------|----------------|
-| Blackbird Labs | Engineering Intern (NYC) | ~2.5/5 | Blockchain/crypto domain; negative filter |
-| Acxiom | AI & Agentic Solutions Intern (NYC) | ~2.8/5 | Traditional data company; Summer 2026 imminent start |
-| Integral Ad Science | Software Engineer Intern (SF) | ~2.5/5 | Ad tech domain mismatch |
-| Accel Learning | AI Engineer Intern (Union City, NJ) | ~2.5/5 | Small EdTech; NJ non-hub; unknown comp |
-
-## Top Matches (score ≥4.0) — None New
-
-No new listings scored ≥4.0. Existing top matches from pipeline:
-
-| # | Company | Role | Score | Status |
-|---|---------|------|-------|--------|
-| #429 | Shopify | Software Engineer Intern (Fall 2026) | 4.3/5 | ⚡ APPLY BY MAY 7 (TOMORROW!) |
-| #428 | Sierra | Intern, Agent Development (Summer 2026) | 4.5/5 | Pending — verify graduation |
-| #420 | Vapi | Forward Deployed Eng Intern (Summer 2026) | 4.4/5 | Pending |
-| #409 | OpenAI | Applied Emerging Talent SWE (Fall 2026) | 4.4/5 | Pending |
-| #431 | Palantir | FDSE Intern US Gov (Summer 2026) | 4.2/5 | Pending |
-| #432 | Cohere | SWE Intern Fall/Winter 2026 | 4.1/5 | Pending |
-| #433 | Microsoft | AI/ML Engineering Intern (Fall 2026) | 4.0/5 | Pending |
-| #434 | Palantir | FDSE Intern Defense (Summer 2026) | 4.0/5 | Pending |
-| #292 | CAIS | Research Intern (May 29 deadline) | 4.0/5 | Pending — deadline May 29 |
-
-## Market Status
-
-**CONFIRMED MAXIMALLY SATURATED at 300 scans.** Summer 2026 cycle is closed. Fall 2026 options are limited and constrained by TAMU fall semester. The only new listings appearing are from non-target domains (blockchain, ad tech, EdTech, traditional enterprise data).
-
-**Summer 2026:** Closed. Applications from May or later are unlikely to be considered for a May/June start.
-
-**Fall 2026 (Aug-Dec):** Constrained by TAMU fall semester. Carlos must decide on co-op/gap semester to pursue Verkada (#425 AI SWE $55-65/hr), OpenAI (#409), Microsoft (#433), or Shopify (#429) before applying.
-
-**New Grad FTE:** Strong pipeline (Sierra/Harvey/Loop/Notion AI/etc.) for post-graduation start.
-
-## Recommended Next Actions
-
-1. **⚡ IMMEDIATE (DEADLINE TOMORROW MAY 7):** Apply to Shopify Fall 2026 #429 at internships.shopify.com
-2. **THIS WEEK:** Apply to Sierra #428 (verify TAMU graduation date first — must graduate Dec 2026 or Jun 2027)
-3. **THIS WEEK:** Apply to Vapi #420 (no graduation constraint found)
-4. **THIS WEEK:** Apply to OpenAI Applied Emerging Talent #409 (Fall 2026 — verify TAMU co-op option)
-5. **BEFORE MAY 29:** Apply to Center for AI Safety #292 (research intern)
-6. **STRATEGIC:** Decide on Fall 2026 semester plan with TAMU before May 15 to unlock Palantir/Verkada/Microsoft/Cohere applications
+**Total history entries:** 5,073 (was 5,068)
 
 ---
-*Next scan recommended: May 9-10 2026 (3 days). Market is maximally saturated — daily scanning yields diminishing returns. Suggest focus on applications over more scanning.*
+
+## Sources Scanned
+
+| Source | Result |
+|--------|--------|
+| Greenhouse API — Anthropic | 7 Fellows all dup v7-v300 |
+| Greenhouse API — Glean | 161 FTE, 0 intern |
+| Greenhouse API — Vercel | 86 FTE, 0 intern |
+| Greenhouse API — Temporal | Empty board |
+| Greenhouse API — XPeng Motors | 2 GENUINELY NEW intern roles |
+| SpeedyApply SWE (0d) | Volaris NEW; rest dup/defense |
+| SpeedyApply AI (0d) | Leidos R-00182332 NEW; rest non-target |
+| SimplifyJobs Summer2026 (0d) | All dup v287-v300 |
+| SimplifyJobs New Grad (0d) | All dup or non-US |
+| Ashby broad (all portals.yml companies) | All dup v7-v300 |
+| Lever broad (all portals.yml companies) | All dup v7-v300 |
+| Greenhouse broad | All dup v7-v300 |
+| Security intern search | All dup |
+| Fall 2026 specific search | All dup |
+
+---
+
+## New Listings Found
+
+| Company | Role | Score | Decision |
+|---------|------|-------|----------|
+| XPeng Motors | AI Intern – VLA Deployment | ~2.5/5 | skipped — C++/PyTorch/robotics, AV domain mismatch |
+| XPeng Motors | AI Intern – Scenario Analysis | ~3.2/5 | skipped — on-site Santa Clara + AV domain mismatch |
+| Volaris Group | AI Software Enablement Intern | ~2.5/5 | skipped — PE holding co, not AI-native, no comp listed |
+| Leidos | AI Data Science Intern (R-00182332) | ~2.3/5 | skipped — Secret clearance + defense + on-site Orlando |
+
+**Total new URLs found:** 4
+**Passed title filter:** 4
+**Duplicates from history:** 0 (all genuinely new)
+**Skipped (score < 4.0):** 4
+**Added to pipeline.md:** 0
+**Reports written (score ≥ 4.0):** 0
+
+---
+
+## Top Matches This Scan
+
+**None ≥ 4.0.** Market is MAXIMALLY SATURATED at 301 scans.
+
+---
+
+## Market Assessment
+
+Summer 2026 intern cycle is **CLOSED**. The vast majority of SWE/AI/Security intern roles that will be offered have already appeared across 301 scans since early April 2026. The intern market is now operating in a long tail of niche, non-target postings (defense clearance, non-US, domain-mismatch companies).
+
+**Fall 2026** options remain limited due to TAMU semester constraints (Aug–Dec 2026). Pending pipeline already covers the strongest known Fall options.
+
+---
+
+## ⚠️ Critical Actions (Ranked by Urgency)
+
+1. **🔥 Shopify Fall 2026 (#429) — DEADLINE MAY 7 2026 (TOMORROW)** — Apply immediately at internships.shopify.com. This is the most urgent pending action in the entire pipeline.
+2. **Sierra (#428, 4.5/5)** — Pending application decision. Best overall fit in pipeline.
+3. **Vapi (#420, 4.4/5)** — Pending
+4. **OpenAI Applied Emerging Talent (#409, 4.4/5)** — Pending
+5. **Palantir FDSE US Gov (#431, 4.2/5)** — Pending
+6. **Cohere Fall/Winter (#432, 4.1/5)** — Pending
+7. **Microsoft AI/ML (#433, 4.0/5)** — Pending
+8. **Palantir FDSE Defense (#434, 4.0/5)** — Pending
+9. **Center for AI Safety (#292)** — Deadline May 29, 2026
+
+---
+
+## Next Actions
+
+- **No new evaluations needed.** All 4 new URLs scored below threshold.
+- **Focus:** Apply to the pending high-score listings above — especially Shopify (tomorrow deadline).
+- **Next scan:** In 24–48 hours. Fall 2026 companies (Notion, Stripe, Databricks, Airbnb, etc.) will begin opening new cycles in May–June 2026. Monitor closely.
